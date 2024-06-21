@@ -7,6 +7,9 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 | 🥉 | Bronze tier |
 | 🥈 | Silver tier |
 | 🥇 | Gold tier |
+| 🦶 | Ground unit |
+| 🪽 | Flying unit |
+| 🏹 | Ranged unit |
 | ⚔️ | Attack |
 | 🛡️ | Defense |
 | 📖 | Power |
