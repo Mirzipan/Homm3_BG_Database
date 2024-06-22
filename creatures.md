@@ -137,4 +137,29 @@
 
 | Name | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| Boars | 🥉 | 🏃‍➡️ | 2 | 0 | 4 | 6 | 4 gold | - |
+| Centaurs | 🥉 | 🏃‍➡️ | 2 | 0 | 5 | 7 | 3 gold | - |
+| Cerberi | 🥉 | 🏃‍➡️ | 2 | 0 | 5 | 8 | 10 gold | 🪓 Ignores Retaliation Attacks. Additionally, deals 1 ❤️‍🩹 to another enemy unit adjacent to Cerberi/ |
+| Dragon Flies | 🥉 | 🪽 | 3 | 0 | 3 | 8 | 7 gold | 🪓 Retaliation Attacks against Dragon Flies suffer -1 ⚔️. |
+| Dwarves | 🥉 | 🏃‍➡️ | 2 | 1 | 4 | 3 | 4 gold | ⏳ If this unit is targeted by any Spell or Specialty card, roll 1 Attack die. On a "+1" result, ignore the card's effect. |
+| Elves | 🥉 | 🏹 | 2 | 1 | 3 | 6 | 7 gold | 🪓 If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. |
+| Evil Eyes | 🥉 | 🏹 | 2 | 1 | 3 | 6 | 6 gold | ⏳ Ignore the combat penalty against adjacent units. |
+| Familiars | 🥉 | 🏃‍➡️ | 3 | 1 | 2 | 7 | 6 gold | ⏳ Whenever an enemy cast a 🪄 from hand, they must discard 1 card from hand. |
+| Gargoyles | 🥉 | 🪽 | 2 | 1 | 3 | 9 | 4 gold | ⏳ This unit ignores 🐍 effect. |
+| Gnolls | 🥉 | 🏃‍➡️ | 2 | 1 | 2 | 4 | 3 gold | - |
+| Gremlins | 🥉 | 🏹 | 2 | 0 | 2 | 5 | 2 gold | - |
+| Griffins | 🥉 | 🪽 | 3 | 0 | 4 | 8 | 7 gold | 🗡️ This unit can perform and unlimited number of Retaliation Attacks. |
+| Halberdiers | 🥉 | 🏃‍➡️ | 2 | 0 | 4 | 4 | 4 gold | ⏳ Treat allied adjacent units as if they had a Defense token. |
+| Halflings | 🥉 | 🏹 | 2 | 0 | 3 | 6 | 5 gold | 🪓 Roll 2 Attack dice and resolve the higher one. Ignore combat penalties. |
+| Harpies | 🥉 | 🪽 | 2 | 0 | 4 | 8 | 5 gold | 🪓 Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. |
+| Iron Golems | 🥉 | 🏃‍➡️ | 2 | 1 | 4 | 3 | 6 gold | ⏳ Reduce any ❤️‍🩹 from spells by 2 - to a minimum of 0. |
+| Lizardmen | 🥉 | 🏹 | 2 | 0 | 4 | 5 | 4 gold | - |
+| Magogs | 🥉 | 🏹 | 2 | 0 | 4 | 6 | 8 gold | 🪓 When Magogs attack a target that is non adjacent to them, they also deal 1 ❤️‍🩹 to a unit adjacent to the target. |
+| Marksmen | 🥉 | 🏹 | 2 | 0 | 3 | 5 | 7 gold | 🪓 If a target is a non-adjacent unit, attack this target again. |
+| Peasants | 🥉 | 🏃‍➡️ | 1 | 0 | 2 | 3 | 3 gold | 🌍 At the beginning of each Resource round, gain 3 gold. |
+| Rogues | 🥉 | 🏃‍➡️ | 2 | 1 | 3 | 6 | 5 gold | 🌍 Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. |
+| Skeletons | 🥉 | 🏃‍➡️ | 2 | 0 | 3 | 4 | 3 gold | ⏳ After defeating Skeletons, if you control a 💀 Hero, immediately Reinforce 1 of your 🥉 units. |
+| Troglodytes | 🥉 | 🏃‍➡️ | 2 | 1 | 3 | 6 | 4 gold | ⏳ This unit ignores 🐍 effects. |
+| Wraiths | 🥉 | 🪽 | 2 | 0 | 4 | 7 | 7 gold | ➡️ Remove up to 2 ❤️‍🩹 from this unit. |
+| Zombies | 🥉 | 🏃‍➡️ | 2 | 0 | 4 | 3 | 5 gold | ⏳ If the attacker resolves a "0" or a "+1" on an Attack die, gain +1 🛡️ |
 
