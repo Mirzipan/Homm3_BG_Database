@@ -42,6 +42,20 @@
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| Troglodytes | Few | 🥉 | 🦶 | 2 | 1 | 2 | 4 | 2 gold | - |
+| Troglodytes | Pack | 🥉 | 🦶 | 3 | 1 | 2 | 5 | 3 gold | ⏳ This unit ignores 🐍 effect. |
+| Harpies | Few | 🥉 | 🪽 | 2 | 0 | 3 | 6 | 3 gold | 🪓 After the enemy's Retaliation Attack, this unit can return to the space from which it moved to attack. |
+| Harpies | Pack | 🥉 | 🪽 | 3 | 0 | 3 | 0 | 5 gold | 🪓 Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. |
+| Evil Eyes | Few | 🥉 | 🏹 | 3 | 0 | 3 | 5 | 4 gold | - |
+| Evil Eyes | Pack | 🥉 | 🏹 | 3 | 1 | 3 | 7 | 6 gold | ⏳ Ignore the combat penalty against adjacent units. |
+| Medusas | Few | 🥈 | 🏹 | 3 | 1 | 4 | 5 | 6 gold | ⏳ After the Retaliation Attack, roll an Attack die, on a "0" the target is 🐍. |
+| Medusas | Pack | 🥈 | 🏹 | 4 | 1 | 4 | 6 | 12 gold | ⏳ Ignore the combat penalty against adjacent units. 🗡️ The target gains 🐍. |
+| Minotaurs | Few | 🥈 | 🦶 | 4 | 2 | 4 | 6 | 8 gold | 🪓 If you resolve a "-1" on the Attack die, draw a card, |
+| Minotaurs | Pack | 🥈 | 🦶 | 5 | 2 | 4 | 8 | 14 gold | 🪓 If you resolve a "-1" on the Attack die, draw a card, |
+| Manticores | Few | 🥇 | 🪽 | 5 | 1 | 6 | 7 | 10 gold | - |
+| Manticores | Pack | 🥇 | 🪽 | 5 | 1 | 6 | 1 | 18 gold, 1 valuable | 🪓 For this attack, ignore the 🛡️ value from the target unit's card. |
+| Black Dragons | Few | 🥇 | 🪽 | 6 | 3 | 8 | 1 | 19 gold, 1 valuable | ⏳ Reduce ❤️‍🩹 taken by this unit from 🪄 by 2 to a minimum of 0. |
+| Black Dragons | Pack | 🥇 | 🪽 | 8 | 3 | 8 | 5 | 33 gold, 2 valuables | ⏳ Ignore any 🪄 effects and ❤️‍🩹 from Specialty. |
 
 ## Tower
 
@@ -62,4 +76,9 @@
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+
+## Neutral
+
+| Name | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 
