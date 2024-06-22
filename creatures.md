@@ -61,21 +61,77 @@
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| Gremlins | Few | 🥉 | 🏹 | 2 | 0 | 2 | 4 | 0 gold | - |
+| Gremlins | Pack | 🥉 | 🏹 | 2 | 0 | 2 | 5 | 2 gold | - |
+| Gargoyles | Few | 🥉 | 🪽 | 2 | 1 | 3 | 6 | 3 gold | ⏳ This unit ignores any 🔄 Spell effects. |
+| Gargoyles | Pack | 🥉 | 🪽 | 3 | 1 | 3 | 9 | 4 gold | ⏳ This unit ignores any 🔄 Spell effects. |
+| Iron Golems | Few | 🥉 | 🏃‍➡️ | 3 | 1 | 3 | 4 | 4 gold | ⏳ This unit reduces any ❤️‍🩹 it takes from spells by 1 - to a minimum of 0. |
+| Iron Golems | Pack | 🥉 | 🏃‍➡️ | 3 | 2 | 3 | 5 | 7 gold | ⏳ This unit reduces any ❤️‍🩹 it takes from spells by 2 - to a minimum of 0. |
+| Magi | Few | 🥈 | 🏹 | 3 | 0 | 4 | 5 | 6 gold | 🪓 Ignore combat penalties. |
+| Magi | Pack | 🥈 | 🏹 | 4 | 1 | 4 | 6 | 11 gold | 🪓 Ignore combat penalties. ➡️ Add +1 📖 to the first spell you cast this round. |
+| Genies | Few | 🥈 | 🪽 | 3 | 1 | 6 | 7 | 8 gold | 🌀 Discard 3 cards from your deck and take a 🪄 discarded this way to your hand. |
+| Genies | Pack | 🥈 | 🪽 | 4 | 1 | 6 | 8 | 12 gold | 🪓 Discard 3 cards from your deck and take a 🪄 discarded this way to your hand. |
+| Nagas | Few | 🥇 | 🏃‍➡️ | 5 | 2 | 7 | 6 | 13 gold | 🪓 Ignore Retaliation Attacks. |
+| Nagas | Pack | 🥇 | 🏃‍➡️ | 6 | 2 | 7 | 8 | 18 gold, 1 valuable | 🪓 Ignore Retaliation Attacks. |
+| Titans | Few | 🥇 | 🏃‍➡️ | 6 | 3 | 8 | 7 | 18 gold, 1 valuable | ⏳ Ignore any 🔄 effects on this unit. |
+| Titans | Pack | 🥇 | 🏃‍➡️ | 6 | 3 | 8 | 11 | 32 gold, 2 valuables | ⏳ Ignore any 🔄 effects on this unit and combat penalties against adjacent units. |
 
 ## Fortress
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| Gnolls | Few | 🥉 | 🏃‍➡️ | 2 | 1 | 3 | 4 | 2 gold | - |
+| Gnolls | Pack | 🥉 | 🏃‍➡️ | 2 | 1 | 4 | 5 | 3 gold | - |
+| Lizardmen | Few | 🥉 | 🏹 | 2 | 0 | 3 | 4 | 3 gold | - |
+| Lizardmen | Pack | 🥉 | 🏹 | 3 | 0 | 3 | 5 | 5 gold | - |
+| Dragon Flies | Few | 🥉 | 🪽 | 3 | 0 | 3 | 8 | 4 gold | 🪓 Remove all 🔄 effects played on the target by the enemy player. |
+| Dragon Flies | Pack | 🥉 | 🪽 | 3 | 1 | 3 | 12 | 7 gold | 🪓 Remove all 🔄 effects played on the target by the enemy player. If the target retaliates, it suffers - 1 ⚔️. |
+| Basilisks | Few | 🥈 | 🏃‍➡️ | 4 | 1 | 4 | 5 | 6 gold | 🪓 On "-1" outcomes on the Attack die, the attacked unit gains a 🐍 token. |
+| Basilisks | Pack | 🥈 | 🏃‍➡️ | 4 | 1 | 5 | 7 | 9 gold | 🪓 On "-1" outcomes on the Attack die, the attacked unit gains a 🐍 token. |
+| Gorgons | Few | 🥈 | 🏃‍➡️ | 4 | 2 | 5 | 5 | 9 gold | - |
+| Gorgons | Pack | 🥈 | 🏃‍➡️ | 5 | 2 | 5 | 6 | 14 gold | 🪓 After the attack, roll 2 Attack dice; on a double "0", decrease the target unit's ❤️ to 0. |
+| Wyverns | Few | 🥇 | 🪽 | 5 | 1 | 8 | 7 | 12 gold | 🪓 Place 1 faction cube on the target. At the beginning of its every activation, remove it to inflict 1 ❤️‍🩹. |
+| Wyverns | Pack | 🥇 | 🪽 | 6 | 1 | 8 | 11 | 18 gold, 1 valuable | 🪓 Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 ❤️‍🩹, |
+| Hydras | Few | 🥇 | 🏃‍➡️ | 6 | 3 | 8 | 5 | 20 gold, 1 valuable | 🪓 Ignore the Retaliation Attack. |
+| Hydras | Pack | 🥇 | 🏃‍➡️ | 7 | 3 | 10 | 7 | 28 gold, 2 valuables | 🪓 Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. |
 
 ## Rampart
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| Centaurs | Few | 🥉 | 🏃‍➡️ | 2 | 0 | 3 | 6 | 2 gold | - |
+| Centaurs | Pack | 🥉 | 🏃‍➡️ | 3 | 0 | 3 | 8 | 3 gold | - |
+| Dwarves | Few | 🥉 | 🏃‍➡️ | 2 | 1 | 3 | 3 | 3 gold | ⏳ If this unit is targeted by any Spell or Specialty card, roll 1 Attack die. On a "+1" result, ignore the card's effect. |
+| Dwarves | Pack | 🥉 | 🏃‍➡️ | 3 | 1 | 3 | 5 | 4 gold | ⏳ If this unit is targeted by any Spell or Specialty card, roll 1 Attack die. On a "+1" result, ignore the card's effect. |
+| Elves | Few | 🥉 | 🏹 | 2 | 1 | 3 | 6 | 4 gold | - |
+| Elves | Pack | 🥉 | 🏹 | 3 | 1 | 3 | 7 | 7 gold | 🪓 If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. |
+| Pegasi | Few | 🥈 | 🪽 | 3 | 0 | 5 | 8 | 6 gold | - |
+| Pegasi | Pack | 🥈 | 🪽 | 4 | 0 | 6 | 12 | 10 gold | ⏳ The [power] of all enemy spells is reduced by 1 (to a minimum of 0). |
+| Dendroids | Few | 🥈 | 🏃‍➡️ | 4 | 2 | 5 | 3 | 8 gold | - |
+| Dendroids | Pack | 🥈 | 🏃‍➡️ | 4 | 2 | 6 | 4 | 15 gold | ⏳ Enemy units that start activation adjacent to this unit cannot move. |
+| Unicorns | Few | 🥇 | 🏃‍➡️ | 5 | 1 | 8 | 7 | 11 gold | ⏳ Reduce any ❤️‍🩹 from 🪄 dealt to this unit by 1 (to a minimum of 0), |
+| Unicorns | Pack | 🥇 | 🏃‍➡️ | 6 | 1 | 8 | 9 | 18 gold, 1 valuable | ⏳ Reduce any ❤️‍🩹 from 🪄 dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), |
+| Gold Dragons | Few | 🥇 | 🏃‍➡️ | 5 | 3 | 9 | 10 | 22 gold, 1 valuable | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 ⚔️, |
+| Gold Dragons | Pack | 🥇 | 🏃‍➡️ | 6 | 3 | 10 | 16 | 30 good, 2 valuables | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 ⚔️. |
 
 ## Inferno
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| Familiars | Few | 🥉 | 🏃‍➡️ | 2 | 1 | 2 | 5 | 2 gold | - |
+| Familiars | Pack | 🥉 | 🏃‍➡️ | 3 | 1 | 2 | 7 | 3 gold | ⏳ Whenever an enemy casts a 🪄 from hand, they must discard 1 card from hand. |
+| Magogs | Few | 🥉 | 🏹 | 2 | 0 | 2 | 4 | 3 gold | - |
+| Magogs | Pack | 🥉 | 🏹 | 2 | 0 | 3 | 6 | 5 gold | 🪓 When Magogs attack a target that is not adjacent to them, they also deal 1 ❤️‍🩹 to a unit adjacent to the target. |
+| Cerberi | Few | 🥉 | 🏃‍➡️ | 3 | 0 | 4 | 7 | 4 gold | - |
+| Cerberi | Pack | 🥉 | 🏃‍➡️ | 3 | 1 | 5 | 8 | 7 gold | 🪓 Ignores Retaliation Attacks. Additionally, deals 1 ❤️‍🩹 to another enemy unit adjacent to Cerberi. |
+| Demons | Few | 🥈 | 🏃‍➡️ | 3 | 2 | 4 | 5 | 6 gold | - |
+| Demons | Pack | 🥈 | 🏃‍➡️ | 3 | 2 | 5 | 6 | 8 gold | - |
+| Pit Lords | Few | 🥈 | 🏃‍➡️ | 4 | 1 | 6 | 6 | 8 gold | - |
+| Pit Lords | Pack | 🥈 | 🏃‍➡️ | 5 | 1 | 6 | 7 | 15 gold | 🌀 If one of your units has been removed from the board during this Combat, Summon or Reinforce Demons. |
+| Efreet | Few | 🥇 | 🪽 | 5 | 1 | 7 | 9 | 12 gold | ⏳ Ignores any ❤️‍🩹 from Magic Arrows. |
+| Efreet | Pack | 🥇 | 🪽 | 6 | 1 | 7 | 13 | 18 gold, 1 valuable | ⏳ Ignores any ❤️‍🩹 from Magic Arrows or spells from the Fire School of Magic. |
+| Arch Devils | Few | 🥇 | 🪽 | 6 | 3 | 8 | 11 | 22 gold, 1 valuable | 🪓 Ignores Retaliation Attacks. |
+| Arch Devils | Pack | 🥇 | 🪽 | 7 | 3 | 9 | 15 | 30 gold, 2 valuables | 🪓 Ignores Retaliation Attacks. ⏳ As a regular movement, the Arch Devils can move to any empty space. |
 
 ## Neutral
 
