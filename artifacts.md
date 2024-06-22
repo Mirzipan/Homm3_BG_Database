@@ -1,0 +1,7 @@
+# Artifacts
+
+## Minor
+
+## Major
+
+## Relic
