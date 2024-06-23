@@ -17,7 +17,7 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 | 📖 | Power |
 | ❤️ | Health |
 | ❤️‍🩹 | Damage |
-| 🏃‍➡️ | Initiative |
+| 🤺 | Initiative |
 
 ## Factions
 | Icon | Description |
@@ -36,6 +36,7 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 | 🐍 | Paralysis |
 | 🔄 | Ongoing effect |
 | ⚡️ | Instant effect |
+| ♾️ | Permanent effect |
 
 ## Card Types
 | Icon | Description|
