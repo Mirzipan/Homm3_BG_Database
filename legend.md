@@ -56,3 +56,10 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 | :---: | :--- |
 | 🗃️ | Treasure die |
 | ⚒️ | Resource die |
+
+## Miscellanous
+| Icon | Description|
+| :---: | :--- |
+| 🫳 | Pay |
+| 💛 | Positive morale |
+| 🖤 | Negative morale |
