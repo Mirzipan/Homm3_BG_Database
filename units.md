@@ -1,5 +1,19 @@
 # Units
 
+<!-- MarkdownTOC autolink="true" autoanchor="true" -->
+
+- [Castle](#castle)
+- [Necropolis](#necropolis)
+- [Dungeon](#dungeon)
+- [Tower](#tower)
+- [Fortress](#fortress)
+- [Rampart](#rampart)
+- [Inferno](#inferno)
+- [Neutral](#neutral)
+
+<!-- /MarkdownTOC -->
+
+<a id="castle"></a>
 ## Castle
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
@@ -19,6 +33,7 @@
 | Archangels | Few | 🥇 | 🪽 | 6 | 3 | 8 | 12 | 20 gold, 1 valuable | 🌍 When combat begins, draw 1 card. |
 | Archangels | Pack | 🥇 | 🪽 | 7 | 3 | 10 | 18 | 30 gold, 2 valuables | 🌍 Once per Combat. Cancel an attack that would reduce another unit's ❤️ to 0. |
 
+<a id="necropolis"></a>
 ## Necropolis
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
@@ -38,6 +53,7 @@
 | Ghost Dragons | Few | 🥇 | 🪽 | 6 | 3 | 8 | 9 | 19 gold, 1 valuable | ➡️ Discard the enemy's 🏆 token. |
 | Ghost Dragons | Pack | 🥇 | 🪽 | 7 | 3 | 9 | 14 | 32 gold, 2 valuables | ➡️ Discard the enemy's 🏆 token. ⚔️ Add +1 to your Attack die result. |
 
+<a id="dungeon"></a>
 ## Dungeon
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
@@ -57,6 +73,7 @@
 | Black Dragons | Few | 🥇 | 🪽 | 6 | 3 | 8 | 1 | 19 gold, 1 valuable | ⏳ Reduce ❤️‍🩹 taken by this unit from 🪄 by 2 to a minimum of 0. |
 | Black Dragons | Pack | 🥇 | 🪽 | 8 | 3 | 8 | 5 | 33 gold, 2 valuables | ⏳ Ignore any 🪄 effects and ❤️‍🩹 from Specialty. |
 
+<a id="tower"></a>
 ## Tower
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
@@ -76,6 +93,7 @@
 | Titans | Few | 🥇 | 🏃‍➡️ | 6 | 3 | 8 | 7 | 18 gold, 1 valuable | ⏳ Ignore any 🔄 effects on this unit. |
 | Titans | Pack | 🥇 | 🏃‍➡️ | 6 | 3 | 8 | 11 | 32 gold, 2 valuables | ⏳ Ignore any 🔄 effects on this unit and combat penalties against adjacent units. |
 
+<a id="fortress"></a>
 ## Fortress
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
@@ -95,6 +113,7 @@
 | Hydras | Few | 🥇 | 🏃‍➡️ | 6 | 3 | 8 | 5 | 20 gold, 1 valuable | 🪓 Ignore the Retaliation Attack. |
 | Hydras | Pack | 🥇 | 🏃‍➡️ | 7 | 3 | 10 | 7 | 28 gold, 2 valuables | 🪓 Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. |
 
+<a id="rampart"></a>
 ## Rampart
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
@@ -106,7 +125,7 @@
 | Elves | Few | 🥉 | 🏹 | 2 | 1 | 3 | 6 | 4 gold | - |
 | Elves | Pack | 🥉 | 🏹 | 3 | 1 | 3 | 7 | 7 gold | 🪓 If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. |
 | Pegasi | Few | 🥈 | 🪽 | 3 | 0 | 5 | 8 | 6 gold | - |
-| Pegasi | Pack | 🥈 | 🪽 | 4 | 0 | 6 | 12 | 10 gold | ⏳ The [power] of all enemy spells is reduced by 1 (to a minimum of 0). |
+| Pegasi | Pack | 🥈 | 🪽 | 4 | 0 | 6 | 12 | 10 gold | ⏳ The 📖 of all enemy spells is reduced by 1 (to a minimum of 0). |
 | Dendroids | Few | 🥈 | 🏃‍➡️ | 4 | 2 | 5 | 3 | 8 gold | - |
 | Dendroids | Pack | 🥈 | 🏃‍➡️ | 4 | 2 | 6 | 4 | 15 gold | ⏳ Enemy units that start activation adjacent to this unit cannot move. |
 | Unicorns | Few | 🥇 | 🏃‍➡️ | 5 | 1 | 8 | 7 | 11 gold | ⏳ Reduce any ❤️‍🩹 from 🪄 dealt to this unit by 1 (to a minimum of 0), |
@@ -114,6 +133,7 @@
 | Gold Dragons | Few | 🥇 | 🏃‍➡️ | 5 | 3 | 9 | 10 | 22 gold, 1 valuable | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 ⚔️, |
 | Gold Dragons | Pack | 🥇 | 🏃‍➡️ | 6 | 3 | 10 | 16 | 30 good, 2 valuables | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 ⚔️. |
 
+<a id="inferno"></a>
 ## Inferno
 
 | Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
@@ -133,6 +153,7 @@
 | Arch Devils | Few | 🥇 | 🪽 | 6 | 3 | 8 | 11 | 22 gold, 1 valuable | 🪓 Ignores Retaliation Attacks. |
 | Arch Devils | Pack | 🥇 | 🪽 | 7 | 3 | 9 | 15 | 30 gold, 2 valuables | 🪓 Ignores Retaliation Attacks. ⏳ As a regular movement, the Arch Devils can move to any empty space. |
 
+<a id="neutral"></a>
 ## Neutral
 
 | Name | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Recruitment Cost | Abilities |
@@ -162,4 +183,42 @@
 | Troglodytes | 🥉 | 🏃‍➡️ | 2 | 1 | 3 | 6 | 4 gold | ⏳ This unit ignores 🐍 effects. |
 | Wraiths | 🥉 | 🪽 | 2 | 0 | 4 | 7 | 7 gold | ➡️ Remove up to 2 ❤️‍🩹 from this unit. |
 | Zombies | 🥉 | 🏃‍➡️ | 2 | 0 | 4 | 3 | 5 gold | ⏳ If the attacker resolves a "0" or a "+1" on an Attack die, gain +1 🛡️ |
-
+| Basilisks | 🥈 | 🏃‍➡️ | 4 | 1 | 4 | 5 | 12 gold | 🪓 After the attack, roll 1 Attack die. On a "0" result, 🐍 the target. |
+| Crusaders | 🥈 | 🏃‍➡️ | 3 | 2 | 4 | 5 | 11 gold | ⏳ During any attack, roll 2 Attack dice and resolve the higher outcome. |
+| Demons | 🥈 | 🏃‍➡️ | 3 | 0 | 8 | 6 | 13 gold | - |
+| Dendroids | 🥈 | 🏃‍➡️ | 3 | 2 | 6 | 3 | 12 gold | ⏳ Enemy units that start activation adjacent to this unit cannot move. |
+| Genies | 🥈 | 🪽 | 3 | 1 | 4 | 9 | 11 gold | 🪓 When attacking Efreet, this unit gains +1 ⚔️. |
+| Gorgons | 🥈 | 🏃‍➡️ | 4 | 2 | 4 | 5 | 13 gold | 🪓 After the attack, roll 2 Attack dice. On two "-1" results, reduce the attacked unit's ❤️ to 0. |
+| Liches | 🥈 | 🏹 | 3 | 0 | 6 | 7 | 12 gold | 🪓 Choose a unit adjacent to the target and attack it. For the purpose of this attack, your ⚔️ is 2. |
+| Magi | 🥈 | 🏹 | 3 | 0 | 5 | 6 | 11 gold | 🪓 Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with 📖. |
+| Medusas | 🥈 | 🏹 | 3 | 1 | 4 | 6 | 11 gold | ⏳ Ignore the combat penalty against adjacent units. 🗡️ The target is 🐍. |
+| Minotaurs | 🥈 | 🏃‍➡️ | 3 | 2 | 4 | 7 | 11 gold | 🪓 Reroll this unit's "-1" outcome on the Attack die. |
+| Mummies | 🥈 | 🏃‍➡️ | 3 | 1 | 4 | 5 | 8 gold | 🪓 Ignore the result on the Attack die. ⏳ Whenever this unit is attacked, set your opponent's Attack die to "-1". |
+| Nomads | 🥈 | 🏃‍➡️ | 3 | 1 | 4 | 7 | 10 gold | 🌍 At the end of your turn, move your Hero's model to an adjacent empty field. |
+| Pegasi | 🥈 | 🪽 | 3 | 0 | 5 | 8 | 14 gold | ⏳ Whenever an enemy casts a 🪄, they much discard an additional card woth 📖. |
+| Pit Lord | 🥈 | 🏃‍➡️ | 4 | 1 | 5 | 7 | 15 gold | - |
+| Sharpshooters | 🥈 | 🏹 | 3 | 0 | 6 | 9 | 10 gold | 🪓 Ignore the combat penalties. |
+| Vampires | 🥈 | 🪽 | 3 | 0 | 5 | 8 | 9 gold | 🪓 Ignore Enemy's Retaliation Attack. Then remove up to 2 ❤️‍🩹 from this unit. |
+| Zealots | 🥈 | 🏹 | 3 | 0 | 5 | 5 | 12 gold | ⏳ Ignore the combat penalty against adjacent units. |
+| Arch Devils | 🥇 | 🪽 | 5 | 2 | 7 | 10 | 23 gold | 🪓 When attacking Archangels, this unit gains +2 ⚔️. |
+| Archangels | 🥇 | 🪽 | 5 | 2 | 7 | 10 | 29 gold | 🪓 When attacking Arch Devils, this unit gains +2 ⚔️. |
+| Black Dragons | 🥇 | 🪽 | 5 | 2 | 7 | 9 | 30 gold | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 ⚔️. |
+| Champions | 🥇 | 🏃‍➡️ | 4 | 2 | 6 | 8 | 18 gold | 🪓 Roll 2 Attack dice and aplly both outcomes. ⏳ Reroll this unit's all "-1" rolls. |
+| Diamond Golems | 🥇 | 🏃‍➡️ | 4 | 2 | 6 | 6 | 16 gold | ⏳ Reduce any ❤️‍🩹 from spells by 3 - to a minimum of 0. |
+| Dread Knights | 🥇 | 🏃‍➡️ | 5 | 1 | 7 | 7 | 18 gold | ⏳ When this unit is targeted by a Retaliation Attack, it gains +1 🛡️. |
+| Efreet | 🥇 | 🪽 | 4 | 2 | 6 | 13 | 20 gold | ⏳ Ignores any ❤️‍🩹 from Magic Arrows or spells from the Fire School of Magic. |
+| Enchanters | 🥇 | 🏹 | 4 | 1 | 5 | 5 | 16 gold | ➡️ Remove up to 2 ❤️‍🩹 from a friendly unit. Otherwise, Enchanters gain +1 ⚔️. |
+| Ghost Dragons | 🥇 | 🪽 | 5 | 2 | 6 | 9 | 28 gold | 🪓 After the attack, roll 1 Attack die; if the result is "0", the target must immediately move away 1 space. |
+| Gold Golems | 🥇 | 🏃‍➡️ | 3 | 2 | 6 | 5 | 14 gold | ⏳ Reduce any ❤️‍🩹 from spells by 2 - to a minimum of 0. |
+| Manticores | 🥇 | 🪽 | 4 | 1 | 7 | 8 | 18 gold | ⏳ On a "0" or a "+1" outcomes on the enemy's Attack die, gain +1 🛡️. |
+| Nagas | 🥇 | 🏃‍➡️ | 5 | 1 | 6 | 6 | 16 gold | 🪓 Ignore Retaliation Attacks. |
+| Trolls | 🥇 | 🏃‍➡️ | 4 | 0 | 7 | 7 | 13 gold | ➡️ Remove up to 3 ❤️‍🩹 from this unit. |
+| Unicorns | 🥇 | 🏃‍➡️ | 5 | 1 | 7 | 7 | 18 gold | 🗡️ The target is 🐍. |
+| Wyverns | 🥇 | 🪽 | 4 | 1 | 7 | 8 | 17 gold | 🪓 After the attack, roll 1 Attack die. On a "0" result, deal 1 ❤️‍🩹 to the target unit. |
+| Azure Dragons | 🔷 | 🪽 | 8 | 3 | 10 | 19 | 45 gold, 2 valuables | 🪓 If you resolve a "-1" on the Attack die, the target gains 🐍. ⏳ Ignore any 🪄 effects and ❤️‍🩹 from Specialty. |
+| Cystral Dragons | 🔷 | 🏃‍➡️ | 7 | 3 | 9 | 16 | 40 gold, 2 valuables | 🌍 At the beginning of each Resource round, gain 2 valuables. |
+| Faerie Dragons | 🔷 | 🪽 | 5 | 2 | 8 | 15 | 35 gold, 2 valuables | ➡️ The selected unit suffers 2 ❤️‍🩹. This is a 🪄 that does not count towards your spell limit. |
+| Gold Dragons | 🔷 | 🪽 | 6 | 3 | 9 | 10 | 42 gold | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 ⚔️. |
+| Hydras | 🔷 | 🏃‍➡️ | 7 | 3 | 8 | 5 | 40 gold | 🪓 Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |
+| Rust Dragons | 🔷 | 🪽 | 7 | 3 | 10 | 17 | 38 gold, 1 valuable | 🪓 On "-1" results on the Attack die, decrease the attacked unit's 🛡️ by 2 - to a minimum of 0. |
+| Titans | 🔷 | 🏹 | 6 | 2 | 10 | 10 | 39 gold | ⏳ Ignore the combat penalty against adjacent units. 🪓 When attacking Black Dragons, this unit gains +2 ⚔️. |
