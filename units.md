@@ -10,6 +10,7 @@
 - [Rampart](#rampart)
 - [Inferno](#inferno)
 - [Neutral](#neutral)
+- [Other](#other)
 
 <!-- /MarkdownTOC -->
 
@@ -222,3 +223,10 @@
 | Hydras | 🔷 | 🏃‍➡️ | 7 | 3 | 8 | 5 | 40🟡 | 🪓 Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |
 | Rust Dragons | 🔷 | 🪽 | 7 | 3 | 10 | 17 | 38🟡, 1🔴 | 🪓 On "-1" results on the Attack die, decrease the attacked unit's 🛡️ by 2 - to a minimum of 0. |
 | Titans | 🔷 | 🏹 | 6 | 2 | 10 | 10 | 39🟡 | ⏳ Ignore the combat penalty against adjacent units. 🪓 When attacking Black Dragons, this unit gains +2 ⚔️. |
+
+<a id="other"></a>
+# Other
+| Name | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🏃‍➡️ Initiative | Abilities |
+| :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| Arrow Tower | 🏹 | 4 | 2 | 3 | 9 | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed. ⏳ It can only be attack by 🏹 attacks or card effects. |
+
