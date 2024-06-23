@@ -46,9 +46,9 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 ## Resources
 | Icon | Description|
 | :---: | :--- |
-| 💰 | Gold |
-| 🪨 | Building materials |
-| 💎 | Valuables |
+| 🟡 | Gold |
+| ⚫️ | Building materials |
+| 🔴 | Valuables |
 
 ## Dice
 | Icon | Description|
