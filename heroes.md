@@ -33,18 +33,36 @@ List of heroes and their specialities.
 
 | Name | Level | Descrition |
 | :--- | :---: | :--- |
-| Crusaders | I | ⚡️Your selected unit gains + 1⚔️  <br> -or- <br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for the Crusaders unit. |
-| Crusaders | IV | 🔄For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
-| Crusaders | VI | 🔄For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
+| Battlefield Medic | I | ⚡️Discard 1 card. Target a space on the Combat board. All units adjacent to this space suffer 1❤️‍🩹. |
+| Battlefield Medic | IV | ⚡️Select 1 Spell or Specialty card from your discard pile and put it back in your hand. |
+| Battlefield Medic | VI | ⚡️Discard 2 cards. Target a space on the Combat board. All units adjacent to this space suffer 2❤️‍🩹. |
 
 <a id="catherine"></a>
 ### Catherine
 
+| Name | Level | Descrition |
+| :--- | :---: | :--- |
+| Crusaders | I | ⚡️Your selected unit gains + 1⚔️  <br>-OR-<br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for the Crusaders unit. |
+| Crusaders | IV | 🔄For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
+| Crusaders | VI | 🔄For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
+
 <a id="lord-haart"></a>
 ### Lord Haart
 
+| Name | Level | Descrition |
+| :--- | :---: | :--- |
+| Estates | I | ⚡️Gain 2🟡. |
+| Estates | IV | ⚡️Gain 3🟡. |
+| Estates | VI | ⚡️Gain 5🟡. |
+
 <a id="rion"></a>
 ### Rion
+
+| Name | Level | Descrition |
+| :--- | :---: | :--- |
+| Battlefield Medic | I | ⚡️Remove 1❤️‍🩹 from one of your units, then draw 1 card. |
+| Battlefield Medic | IV | ⚡️Remove 1❤️‍🩹 or 🐍 from one of your units, then draw 1 card. |
+| Battlefield Medic | VI | ⚡️Remove up to 2❤️‍🩹 or 🐍 from one of your units, then draw 2 cards and discard 1 card from your hand. |
 
 <a id="necropolis"></a>
 ## Necropolis
