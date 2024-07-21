@@ -4,7 +4,7 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 
 ## Creatures
 
-| Icon | Description|
+| Icon | Description |
 | :---: | :--- |
 | 🥉 | Bronze tier |
 | 🥈 | Silver tier |
@@ -29,7 +29,7 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 
 ## Effects And Abilities
 
-| Icon | Description|
+| Icon | Description |
 | :---: | :--- |
 | 🌍 | Map effect. Can be activated when it's your turn and you are not in a fight |
 | 🪓 | Attack. Triggers when unit is attacking (in case of multiple attacks it triggers for the first one only) |
@@ -44,14 +44,14 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 
 ## Card Types
 
-| Icon | Description|
+| Icon | Description |
 | :---: | :--- |
 | 🪄 | Spell |
 | ⚜️ | Artifact |
 
 ## Resources
 
-| Icon | Description|
+| Icon | Description |
 | :---: | :--- |
 | 🟡 | Gold |
 | ⚫️ | Building materials |
@@ -59,14 +59,14 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 
 ## Dice
 
-| Icon | Description|
+| Icon | Description |
 | :---: | :--- |
 | 🗃️ | Treasure die |
 | ⚒️ | Resource die |
 
 ## Miscellanous
 
-| Icon | Description|
+| Icon | Description |
 | :---: | :--- |
 | 🫳 | Pay |
 | 💛 | Positive morale |
