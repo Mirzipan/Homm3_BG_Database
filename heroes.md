@@ -20,6 +20,10 @@ List of heroes and their specialities.
 	- [Jeddite](#jeddite)
 	- [Mutare](#mutare)
 - [Tower](#tower)
+	- [Dracon](#dracon)
+	- [Iona](#iona)
+	- [Josephine](#josephine)
+	- [Solmyr](#solmyr)
 - [Rampart](#rampart)
 - [Fortress](#fortress)
 - [Inferno](#inferno)
@@ -41,36 +45,36 @@ List of heroes and their specialities.
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Battlefield Medic | I | ⚡️Discard 1 card. Target a space on the Combat board. All units adjacent to this space suffer 1❤️‍🩹. |
-| Battlefield Medic | IV | ⚡️Select 1 Spell or Specialty card from your discard pile and put it back in your hand. |
-| Battlefield Medic | VI | ⚡️Discard 2 cards. Target a space on the Combat board. All units adjacent to this space suffer 2❤️‍🩹. |
+| Battlefield Medic | I | ⚡️ Discard 1 card. Target a space on the Combat board. All units adjacent to this space suffer 1❤️‍🩹. |
+| Battlefield Medic | IV | ⚡️ Select 1 Spell or Specialty card from your discard pile and put it back in your hand. |
+| Battlefield Medic | VI | ⚡️ Discard 2 cards. Target a space on the Combat board. All units adjacent to this space suffer 2❤️‍🩹. |
 
 <a id="catherine"></a>
 ### Catherine
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Crusaders | I | ⚡️Your selected unit gains + 1⚔️<br>-OR-<br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for the Crusaders unit. |
-| Crusaders | IV | 🔄For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
-| Crusaders | VI | 🔄For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
+| Crusaders | I | ⚡️ Your selected unit gains +1⚔️<br>-OR-<br>⚡️ Your selected unit gains +1🛡️<br><br>This effect doubles for the Crusaders unit. |
+| Crusaders | IV | 🔄 For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
+| Crusaders | VI | 🔄 For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
 
 <a id="lord-haart"></a>
 ### Lord Haart
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Estates | I | ⚡️Gain 2🟡. |
-| Estates | IV | ⚡️Gain 3🟡. |
-| Estates | VI | ⚡️Gain 5🟡. |
+| Estates | I | ⚡️ Gain 2🟡. |
+| Estates | IV | ⚡️ Gain 3🟡. |
+| Estates | VI | ⚡️ Gain 5🟡. |
 
 <a id="rion"></a>
 ### Rion
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Battlefield Medic | I | ⚡️Remove 1❤️‍🩹 from one of your units, then draw 1 card. |
-| Battlefield Medic | IV | ⚡️Remove 1❤️‍🩹 or 🐍 from one of your units, then draw 1 card. |
-| Battlefield Medic | VI | ⚡️Remove up to 2❤️‍🩹 or 🐍 from one of your units, then draw 2 cards and discard 1 card from your hand. |
+| Battlefield Medic | I | ⚡️ Remove 1❤️‍🩹 from one of your units, then draw 1 card. |
+| Battlefield Medic | IV | ⚡️ Remove 1❤️‍🩹 or 🐍 from one of your units, then draw 1 card. |
+| Battlefield Medic | VI | ⚡️ Remove up to 2❤️‍🩹 or 🐍 from one of your units, then draw 2 cards and discard 1 card from your hand. |
 
 <a id="necropolis"></a>
 ## Necropolis
@@ -87,9 +91,9 @@ List of heroes and their specialities.
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Dread Knights | I | ⚡️Reduce the ❤️‍🩹 from enemy retaliation by 1.<br><br>This effect doubles for the Dread Knights unit. |
-| Dread Knights | IV | 🔄For this Combat, when an enemy performs a Retaliation Attack against this unit, roll 2 Attack dice and resolve the lower outcome. |
-| Dread Knights | VI | ⚡️Reduce the ❤️‍🩹 from enemy retaliation by 2.<br><br>This effect doubles for the Dread Knights unit. |
+| Dread Knights | I | ⚡️ Reduce the ❤️‍🩹 from enemy retaliation by 1.<br><br>This effect doubles for the Dread Knights unit. |
+| Dread Knights | IV | 🔄 For this Combat, when an enemy performs a Retaliation Attack against this unit, roll 2 Attack dice and resolve the lower outcome. |
+| Dread Knights | VI | ⚡️ Reduce the ❤️‍🩹 from enemy retaliation by 2.<br><br>This effect doubles for the Dread Knights unit. |
 
 <a id="sandro"></a>
 ### Sandro
@@ -105,18 +109,18 @@ List of heroes and their specialities.
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Dread Knights | I | ⚡️Your selected unit gains + 1⚔️<br>-OR-<br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for the Dread Knights unit. |
-| Dread Knights | IV | 🔄For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Dread Knights unit. |
-| Dread Knights | VI | 🔄For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for the Dread Knights unit. |
+| Dread Knights | I | ⚡️ Your selected unit gains +1⚔️<br>-OR-<br>⚡️ Your selected unit gains +1🛡️<br><br>This effect doubles for the Dread Knights unit. |
+| Dread Knights | IV | 🔄 For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Dread Knights unit. |
+| Dread Knights | VI | 🔄 For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for the Dread Knights unit. |
 
 <a id="vidomina"></a>
 ### Vidomina
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Necromancy | I | 🌍Play after winning Combat other than Quick Combat. You can **Reinforce** a 🥉 or 🥈 unit of your choice for half the 🟡 cost (rounded down). |
-| Necromancy | IV | ⚡️Put this card on the "Pack" of Skeletons Unit card; it replaces the card's statistic. Keep the card, until the card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>⚔️3 ❤️2 🛡️1 🤺6 |
-| Necromancy | VI | 🌍Play after winning Combat other than Quick Combat. You can **Reinforce** any unit of your choice for half the 🟡 cost (rounded down). |
+| Necromancy | I | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** a 🥉 or 🥈 unit of your choice for half the 🟡 cost (rounded down). |
+| Necromancy | IV | ⚡️ Put this card on the "Pack" of Skeletons Unit card; it replaces the card's statistic. Keep the card, until the card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>⚔️3 ❤️2 🛡️1 🤺6 |
+| Necromancy | VI | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** any unit of your choice for half the 🟡 cost (rounded down). |
 
 <a id="dungeon"></a>
 ## Dungeon
@@ -133,36 +137,36 @@ List of heroes and their specialities.
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Resurrection | I | ⚡️Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0.<br><br> 📖1 - *️⃣🥉<br>📖2 - *️⃣🥈<br>📖4 - *️⃣🥇 |
-| Resurrection | IV | ⚡️Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0.<br><br> 📖0 - *️⃣🥉<br>📖1 - *️⃣🥈<br>📖3 - *️⃣🥇 |
-| Resurrection | VI | ⚡️Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0.<br><br> 📖0 - *️⃣🥉<br>📖0 - *️⃣🥈<br>📖2 - *️⃣🥇 |
+| Resurrection | I | ⚡️ Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0.<br><br> 📖1 - *️⃣🥉<br>📖2 - *️⃣🥈<br>📖4 - *️⃣🥇 |
+| Resurrection | IV | ⚡️ Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0.<br><br> 📖0 - *️⃣🥉<br>📖1 - *️⃣🥈<br>📖3 - *️⃣🥇 |
+| Resurrection | VI | ⚡️ Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0.<br><br> 📖0 - *️⃣🥉<br>📖0 - *️⃣🥈<br>📖2 - *️⃣🥇 |
 
 <a id="deemer"></a>
 ### Deemer
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Meteor Shower | I | ⚡️Select a unit and 1 unit adjacent to it. Deal *️⃣ to both selected units.<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
-| Meteor Shower | IV | ⚡️+1📖<br>-OR-<br>⚡️Shuffle your discard pile back into your deck, then draw 1 card. |
-| Meteor Shower | VI | ⚡️Select a unit and 2 units adjacent to it. Deal *️⃣ to all selected units.<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
+| Meteor Shower | I | ⚡️ Select a unit and 1 unit adjacent to it. Deal *️⃣ to both selected units.<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
+| Meteor Shower | IV | ⚡️ +1📖<br>-OR-<br>⚡️ Shuffle your discard pile back into your deck, then draw 1 card. |
+| Meteor Shower | VI | ⚡️ Select a unit and 2 units adjacent to it. Deal *️⃣ to all selected units.<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
 
 <a id="jeddite"></a>
 ### Jeddite
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Mysterious Warlock | I | ⚡️Draw up to 3 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
-| Mysterious Warlock | IV | ⚡️Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0.<br><br> 📖0 - *️⃣🥉 Unit<br>📖1 - *️⃣🥈 Unit<br>📖2 - *️⃣🥇 Unit |
-| Mysterious Warlock | VI | ⚡️Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
+| Mysterious Warlock | I | ⚡️ Draw up to 3 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
+| Mysterious Warlock | IV | ⚡️ Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0.<br><br> 📖0 - *️⃣🥉 Unit<br>📖1 - *️⃣🥈 Unit<br>📖2 - *️⃣🥇 Unit |
+| Mysterious Warlock | VI | ⚡️ Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
 
 <a id="mutare"></a>
 ### Mutare
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Dragons | I | ⚡️Your selected unit gains + 1⚔️<br>-OR-<br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for a Dragons unit. |
-| Dragons | IV | 🔄For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for a Dragons unit. |
-| Dragons | VI | 🔄For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for a Dragons unit. |
+| Dragons | I | ⚡️ Your selected unit gains +1⚔️<br>-OR-<br>⚡️ Your selected unit gains +1🛡️<br><br>This effect doubles for a Dragons unit. |
+| Dragons | IV | 🔄 For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for a Dragons unit. |
+| Dragons | VI | 🔄 For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for a Dragons unit. |
 
 <a id="tower"></a>
 ## Tower
@@ -173,6 +177,43 @@ List of heroes and their specialities.
 | Iona | Alchemist | 1 | 1 | 2 | 2 | Genies | Intelligence |
 | Josephine | Alchemist | 1 | 1 | 2 | 2 | Golems | Sorcery |
 | Solmyr | Wizard | 0 | 0 | 2 | 3 | Chain Lightning | Sorcery |
+
+<a id="dracon"></a>
+### Dracon
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Enchanters | I | ⚡️ Your selected unit gains +1⚔️<br>-OR-<br>⚡️ Your selected unit gains +1🛡️<br><br>This effect doubles for the Magi and Enchanters units. |
+| Enchanters | IV | 🌍 If you have a Pack of Magi Unit card, discard it. Then, search the Neutral Unit 🥇 deck for the Enchanters card and add it to your Unit deck. You can control only 1 Enchanters unit at a time.<br>-OR-<br>⚡️ Draw a card. |
+| Enchanters | VI | 🔄 For this Combat, your selected unit's 🤺 is increased by 2.<br><br>This effect doubles for the Magi and Enchanters units. |
+
+<a id="iona"></a>
+### Iona
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Genies | I | 🔄 For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Genies unit. |
+| Genies | IV | ⚡️ Your selected unit gains +1⚔️<br>-OR-<br>⚡️ Your selected unit gains +1🛡️<br><br>This effect doubles for the Genies unit. |
+| Genies | VI | ⚡️ Your selected unit gains +2🛡️<br><br>This effect doubles for the Genies unit. |
+
+<a id="josephine"></a>
+### Josephine
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Golems | I | 🔄 For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Golems unit. |
+| Golems | IV | ⚡️ Your selected unit gains +1⚔️<br>-OR-<br>⚡️ Your selected unit gains +1🛡️<br><br>This effect doubles for the Golems unit. |
+| Golems | VI | ⚡️ Your selected unit gains +2⚔️<br><br>This effect doubles for the Golems unit. |
+
+<a id="solmyr"></a>
+### Solmyr
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Chain Lightning | I | ➡️ Select a unit and another 2 units closest to it. Allocate 1/1/0 ❤️‍🩹. starting with the first selected unit. |
+| Chain Lightning | IV | ⚡️ Discard up to 3 cards from your Might and Magic deck and return 1 of them to your hand. |
+| Chain Lightning | VI | ➡️ Select a unit and another 2 units closest to it. Allocate 2/1/1 ❤️‍🩹. starting with the first selected unit. |
+
 
 <a id="rampart"></a>
 ## Rampart
