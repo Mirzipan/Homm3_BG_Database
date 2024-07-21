@@ -10,6 +10,10 @@ List of heroes and their specialities.
 	- [Lord Haart](#lord-haart)
 	- [Rion](#rion)
 - [Necropolis](#necropolis)
+	- [Lord Haart](#lord-haart-1)
+	- [Sandro](#sandro)
+	- [Tamika](#tamika)
+	- [Vidomina](#vidomina)
 - [Dungeon](#dungeon)
 - [Tower](#tower)
 - [Rampart](#rampart)
@@ -32,7 +36,7 @@ List of heroes and their specialities.
 ### Adelaide
 
 | Name | Level | Descrition |
-| :--- | :---: | :--- |
+| :--- | :---: | :---: |
 | Battlefield Medic | I | ⚡️Discard 1 card. Target a space on the Combat board. All units adjacent to this space suffer 1❤️‍🩹. |
 | Battlefield Medic | IV | ⚡️Select 1 Spell or Specialty card from your discard pile and put it back in your hand. |
 | Battlefield Medic | VI | ⚡️Discard 2 cards. Target a space on the Combat board. All units adjacent to this space suffer 2❤️‍🩹. |
@@ -41,7 +45,7 @@ List of heroes and their specialities.
 ### Catherine
 
 | Name | Level | Descrition |
-| :--- | :---: | :--- |
+| :--- | :---: | :---: |
 | Crusaders | I | ⚡️Your selected unit gains + 1⚔️  <br>-OR-<br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for the Crusaders unit. |
 | Crusaders | IV | 🔄For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
 | Crusaders | VI | 🔄For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
@@ -50,7 +54,7 @@ List of heroes and their specialities.
 ### Lord Haart
 
 | Name | Level | Descrition |
-| :--- | :---: | :--- |
+| :--- | :---: | :---: |
 | Estates | I | ⚡️Gain 2🟡. |
 | Estates | IV | ⚡️Gain 3🟡. |
 | Estates | VI | ⚡️Gain 5🟡. |
@@ -59,7 +63,7 @@ List of heroes and their specialities.
 ### Rion
 
 | Name | Level | Descrition |
-| :--- | :---: | :--- |
+| :--- | :---: | :---: |
 | Battlefield Medic | I | ⚡️Remove 1❤️‍🩹 from one of your units, then draw 1 card. |
 | Battlefield Medic | IV | ⚡️Remove 1❤️‍🩹 or 🐍 from one of your units, then draw 1 card. |
 | Battlefield Medic | VI | ⚡️Remove up to 2❤️‍🩹 or 🐍 from one of your units, then draw 2 cards and discard 1 card from your hand. |
@@ -73,6 +77,42 @@ List of heroes and their specialities.
 | Sandro | Necromancer | 1 | 0 | 2 | 2 | Cloak of the Undead King | Sorcery |
 | Tamika | Death Knight | 1 | 2 | 2 | 1 | Dread Knights | Offense |
 | Vidomina | Necromancer | 1 | 0 | 2 | 2 | Necromancy | Necromancy |
+
+<a id="lord-haart-1"></a>
+### Lord Haart
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Dread Knights | I | ⚡️Reduce the ❤️‍🩹 from enemy retaliation by 1.<br><br>This effect doubles for the Dread Knights unit. |
+| Dread Knights | IV | 🔄For this Combat, when an enemy performs a Retaliation Attack against this unit, roll 2 Attack dice and resolve the lower outcome. |
+| Dread Knights | VI | ⚡️Reduce the ❤️‍🩹 from enemy retaliation by 2.<br><br>This effect doubles for the Dread Knights unit. |
+
+<a id="sandro"></a>
+### Sandro
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Cloak of the Undead King | I | Put this card on the Pack of Skeletons Unit card; it replaces the card's statistic. When the Cloak of the Undead King card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>⚔️3 🛡️1 ❤️2 🤺6 |
+| Cloak of the Undead King | IV | Put this card on the Pack of Zombies Unit card; it replaces the card's statistic. When the Cloak of the Undead King card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Zombies**<br>⚔️4 🛡️1 ❤️3 🤺5 |
+| Cloak of the Undead King | VI | Put this card on the Skeletons Unit card; it replaces the card's statistic. When the Cloak of the Undead King card's ❤️ drops to 0. When it does, discard this card.<br><br>**Legion of Skeletons**<br>⚔️4 🛡️1 ❤️2 🤺6 |
+
+<a id="tamika"></a>
+### Tamika
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Dread Knights | I | ⚡️Your selected unit gains + 1⚔️  <br> -or- <br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for the Dread Knights unit. |
+| Dread Knights | IV | 🔄For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Dread Knights unit. |
+| Dread Knights | VI | 🔄For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for the Dread Knights unit. |
+
+<a id="vidomina"></a>
+### Vidomina
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Necromancy | I | 🌍Play after winning Combat other than Quick Combat. You can **Reinforce** a 🥉 or 🥈 unit of your choice for half the 🟡 cost (rounded down). |
+| Necromancy | IV | ⚡️Put this card on the "Pack" of Skeletons Unit card; it replaces the card's statistic. Keep the card, until the card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>⚔️3 ❤️2 🛡️1 🤺6 |
+| Necromancy | VI | 🌍Play after winning Combat other than Quick Combat. You can **Reinforce** any unit of your choice for half the 🟡 cost (rounded down). |
 
 <a id="dungeon"></a>
 ## Dungeon
