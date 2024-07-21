@@ -25,8 +25,20 @@ List of heroes and their specialities.
 	- [Josephine](#josephine)
 	- [Solmyr](#solmyr)
 - [Rampart](#rampart)
+	- [Clancy](#clancy)
+	- [Gelu](#gelu)
+	- [Gem](#gem)
+	- [Mephala](#mephala)
 - [Fortress](#fortress)
+	- [Adrienne](#adrienne)
+	- [Bron](#bron)
+	- [Tazar](#tazar)
+	- [Wystan](#wystan)
 - [Inferno](#inferno)
+	- [Fiona](#fiona)
+	- [Rashka](#rashka)
+	- [Xyron](#xyron)
+	- [Zydar](#zydar)
 
 <!-- /MarkdownTOC -->
 
@@ -225,6 +237,42 @@ List of heroes and their specialities.
 | Gem | Druid | 0 | 2 | 1 | 2 | First Aid | First Aid |
 | Mephala | Ranger | 1 | 3 | 1 | 1 | Armorer | Leadership |
 
+<a id="clancy"></a>
+### Clancy
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Unicorns | I | ⚡️ Your selected unit gains +1⚔️<br>-OR-<br>⚡️ Your selected unit gains +1🛡️<br><br>This effect doubles for the Unicorns unit. |
+| Unicorns | IV | 🔄 For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for the Unicorns unit. |
+| Unicorns | VI | 🔄 For this Combat, your selected unit reduces any ❤️‍🩹 it takes from spells by 1 - to a minimum of 0.<br><br>This effect doubles for the Unicorns unit. |
+
+<a id="gelu"></a>
+### Gelu
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Sharpshooters | I | ⚡️ Your selected unit gains +1⚔️<br>-OR-<br>⚡️ Your selected unit gains +1🛡️<br><br>This effect doubles for the Elves and Sharpshooters unit. |
+| Sharpshooters | IV | 🌍 If you have a Pack of Elves Unit card, discard it. Then, search the Neutral Unit 🥈 deck for the Sharpshooters card and add it to your Unit deck. You can control only 1 Sharpshooters unit at a time.<br>-OR-<br>⚡️ Draw a card. |
+| Sharpshooters | VI | 🔄 For this Combat, your selected unit's 🤺 is increased by 2.<br><br>This effect doubles for the Elves and Sharpshooters units. |
+
+<a id="gem"></a>
+### Gem
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| First Aid | I | ⚡️ Take a First Aid Tent card from the War Machine deck at no cost.<br>-OR-<br>⚡️ If you already have a First Aid Tent, draw 1 card. |
+| First Aid | IV | ⚡️ Remove 2❤️‍🩹 from one of your units. |
+| First Aid | VI | 🔄 For this Combat, double your First Aid Tent's effect. |
+
+<a id="mephala"></a>
+### Mephala
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Armorer | I | ⚡️ +2🛡️ |
+| Armorer | IV | ⚡️ +3🛡️ |
+| Armorer | VI | ⚡️ +4🛡️ |
+
 <a id="fortress"></a>
 ## Fortress
 
@@ -235,6 +283,42 @@ List of heroes and their specialities.
 | Tazar | Beastmaster | 0 | 4 | 1 | 1 | War Hero | Armorer |
 | Wystan | Beastmaster | 0 | 4 | 1 | 1 | Lizardmen | Archery |
 
+<a id="adrienne"></a>
+### Adrienne
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Fire Magic | I | 🔄 During this Combat, all your spells from the School of Fire Magic are cast with +1📖. |
+| Fire Magic | IV | ⚡️ **Search (3)** your deck, then shuffle your cards from the discard pile into the deck. |
+| Fire Magic | VI | 🔄 During this Combat, all your spells from the School of Fire Magic are cast with +2📖. |
+
+<a id="bron"></a>
+### Bron
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Basilisks | I | ⚡️ Your selected unit gains +1⚔️<br>-OR-<br>⚡️ Your selected unit gains +1🛡️<br><br>This effect doubles for the Basilisks unit. |
+| Basilisks | IV | 🔄 For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Basilisks unit. |
+| Basilisks | VI | 🔄 For this Combat, your selected unit's 🤺 is increased by 2.<br><br>This effect doubles for the Basilisks unit. |
+
+<a id="tazar"></a>
+### Tazar
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| War Hero | I | ⚡️ +2🛡️ |
+| War Hero | IV | 🔄 For this Combat, your selected unit gains +1🛡️. |
+| War Hero | VI | 🌍 Fron your hand, Remove 1 card or Discard 3 cards to draw an Artifact card from the top of the Artifact deck. |
+
+<a id="wystan"></a>
+### Wystan
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Lizardmen | I | ⚡️ Your selected unit gains +1⚔️<br>-OR-<br>⚡️ Your selected unit gains +1🛡️<br><br>This effect doubles for the Lizardmen unit. |
+| Lizardmen | IV | 🔄 For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Lizardmen unit. |
+| Lizardmen | VI | 🔄 For this Combat, your selected unit's 🤺 is increased by 2.<br><br>This effect doubles for the Lizardmen unit. |
+
 <a id="inferno"></a>
 ## Inferno
 
@@ -244,3 +328,39 @@ List of heroes and their specialities.
 | Rashka | Demoniac | 2 | 2 | 1 | 1 | Efreet | Scholar |
 | Xyron | Heretic | 1 | 1 | 2 | 1 | Inferno | Wisdom |
 | Zydar | Heretic | 1 | 1 | 2 | 1 | Sorcery | Sorcery |
+
+<a id="fiona"></a>
+### Fiona
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Cerberi | I | ⚡️ Your selected unit gains +1⚔️<br>-OR-<br>⚡️ Your selected unit gains +1🛡️<br><br>This effect doubles for the Cerberi unit. |
+| Cerberi | IV | 🔄 For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Cerberi unit. |
+| Cerberi | VI | ⚡️ Your selected unit gains +2⚔️<br><br>This effect doubles for the Cerberi unit. |
+
+<a id="rashka"></a>
+### Rashka
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Efreet | I | ⚡️ Your selected unit gains +1⚔️<br>-OR-<br>⚡️ Your selected unit gains +1🛡️<br><br>This effect doubles for the Efreet unit. |
+| Efreet | IV | 🔄 Until the end of Combat, when your selected unit is attacked by a 🦶 or 🪽 unit, the attacker takes 1❤️‍🩹. |
+| Efreet | VI | 🔄 Until the end of Combat, when your selected unit is attacked by a 🦶 or 🪽 unit, the attacker takes 1❤️‍🩹.<br><br>This effect doubles for the Efreet unit. |
+
+<a id="xyron"></a>
+### Xyron
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Inferno | I | ➡️ Discard 2 cards. Then select a space. All units on this and the adjacent spaces take 1❤️‍🩹. |
+| Inferno | IV | ➡️ Discard 1 card. Then select a space. All units on this and the adjacent spaces take 1❤️‍🩹. |
+| Inferno | VI | ➡️ Select a space. All units on this and the adjacent spaces take 1❤️‍🩹. |
+
+<a id="zydar"></a>
+### Zydar
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Sorcery | I | ⚡️ Play this card after casting a 🪄, then draw 1 card.<br>-OR-<br>⚡️ +1📖 |
+| Sorcery | IV | ⚡️ The next 🪄 you cast does not count toward the limit.<br>-OR-<br>⚡️ +2📖 |
+| Sorcery | VI | 🔄 Until the end of the Combat round, after casting a 🪄, draw 1 card.<br><br>⚡️ +2📖 |
