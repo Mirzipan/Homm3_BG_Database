@@ -15,6 +15,10 @@ List of heroes and their specialities.
 	- [Tamika](#tamika)
 	- [Vidomina](#vidomina)
 - [Dungeon](#dungeon)
+	- [Alamar](#alamar)
+	- [Deemer](#deemer)
+	- [Jeddite](#jeddite)
+	- [Mutare](#mutare)
 - [Tower](#tower)
 - [Rampart](#rampart)
 - [Fortress](#fortress)
@@ -46,7 +50,7 @@ List of heroes and their specialities.
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Crusaders | I | ⚡️Your selected unit gains + 1⚔️  <br>-OR-<br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for the Crusaders unit. |
+| Crusaders | I | ⚡️Your selected unit gains + 1⚔️<br>-OR-<br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for the Crusaders unit. |
 | Crusaders | IV | 🔄For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
 | Crusaders | VI | 🔄For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
 
@@ -101,7 +105,7 @@ List of heroes and their specialities.
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Dread Knights | I | ⚡️Your selected unit gains + 1⚔️  <br> -or- <br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for the Dread Knights unit. |
+| Dread Knights | I | ⚡️Your selected unit gains + 1⚔️<br>-OR-<br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for the Dread Knights unit. |
 | Dread Knights | IV | 🔄For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Dread Knights unit. |
 | Dread Knights | VI | 🔄For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for the Dread Knights unit. |
 
@@ -123,6 +127,42 @@ List of heroes and their specialities.
 | Deemer | Warlock | 0 | 0 | 3 | 2 | Meteor Shower | Scouting |
 | Jeddite | Warlock | 0 | 0 | 3 | 2 | Mysterious Warlock | Sorcery |
 | Mutare | Overlord | 2 | 2 | 1 | 1 | Dragons | Tactics |
+
+<a id="alamar"></a>
+### Alamar
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Resurrection | I | ⚡️Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0.<br><br> 📖1 - *️⃣🥉<br>📖2 - *️⃣🥈<br>📖4 - *️⃣🥇 |
+| Resurrection | IV | ⚡️Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0.<br><br> 📖0 - *️⃣🥉<br>📖1 - *️⃣🥈<br>📖3 - *️⃣🥇 |
+| Resurrection | VI | ⚡️Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0.<br><br> 📖0 - *️⃣🥉<br>📖0 - *️⃣🥈<br>📖2 - *️⃣🥇 |
+
+<a id="deemer"></a>
+### Deemer
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Meteor Shower | I | ⚡️Select a unit and 1 unit adjacent to it. Deal *️⃣ to both selected units.<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
+| Meteor Shower | IV | ⚡️+1📖<br>-OR-<br>⚡️Shuffle your discard pile back into your deck, then draw 1 card. |
+| Meteor Shower | VI | ⚡️Select a unit and 2 units adjacent to it. Deal *️⃣ to all selected units.<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
+
+<a id="jeddite"></a>
+### Jeddite
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Mysterious Warlock | I | ⚡️Draw up to 3 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
+| Mysterious Warlock | IV | ⚡️Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0.<br><br> 📖0 - *️⃣🥉 Unit<br>📖1 - *️⃣🥈 Unit<br>📖2 - *️⃣🥇 Unit |
+| Mysterious Warlock | VI | ⚡️Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
+
+<a id="mutare"></a>
+### Mutare
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Dragons | I | ⚡️Your selected unit gains + 1⚔️<br>-OR-<br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for a Dragons unit. |
+| Dragons | IV | 🔄For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for a Dragons unit. |
+| Dragons | VI | 🔄For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for a Dragons unit. |
 
 <a id="tower"></a>
 ## Tower
