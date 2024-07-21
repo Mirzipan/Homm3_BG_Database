@@ -1,6 +1,4 @@
-A simple collection of cards contained within the Homm3 boardgame.
-
-## Content
+## ⚔️ Content
 - [Abilities](abilities.md)
 - [Artifacts](artifacts.md)
 - [Astrologers Proclaim](astrologers_proclaim.md)
@@ -12,10 +10,14 @@ A simple collection of cards contained within the Homm3 boardgame.
 
 The tables use emoji in place of the glyphs one would find in the game. The chosen emoji should be self-explanatory, but in case you are unsure or just want to make sure you decyphered them correctly, refer to the [legend](legend.md).
 
-## Game Rules
+## 🛡️ What Is This?
+A simple collection of cards contained within the Homm3 boardgame.
 
-Please note that none of the game rules are explained here. If you want to learn more about how to play the game, please refer to the [Rulebook Rewrite Project](https://github.com/Heegu-sama/Homm3BG).
+## 📖 Purpose
+Every now and then I want to see what some cards do, either while theorycrafting about what to play, or even during play, when I want to check or reference something. This database is meant to provide an easy way to find any card contained within the game. There are no picture here, just pure text and images/emojis.
 
-## Missions
+## 📚 Other Community Projects
+Here are some projects within the homm3bg community that are definitely worth a visit.
 
-Please note that none of the missions can be found here. If you to see what the community is up to, please refer to the [Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book).
+- [Rulebook Rewrite Project](https://github.com/Heegu-sama/Homm3BG)
+- [Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book).
