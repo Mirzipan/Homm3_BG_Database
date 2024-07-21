@@ -52,7 +52,7 @@
 | Dread Knights | Few | 🥇 | 🦶 | 5 | 2 | 7 | 7 | 12 🟡 | 🪓 When retaliating after this attack, the enemy rolls 2 Attack dire and resolves the lower result. |
 | Dread Knights | Pack | 🥇 | 🦶 | 6 | 2 | 7 | 9 | 20 🟡, 1 🔴 | 🪓 If you resolve a "0" or a "+1" on the Attack die, increase this unit's total attack value by another "+1". |
 | Ghost Dragons | Few | 🥇 | 🪽 | 6 | 3 | 8 | 9 | 19 🟡, 1 🔴 | ➡️ Discard the enemy's 🏆 token. |
-| Ghost Dragons | Pack | 🥇 | 🪽 | 7 | 3 | 9 | 14 | 32 🟡, 2 🔴 | ➡️ Discard the enemy's 🏆 token. ⚔️ Add +1 to your Attack die result. |
+| Ghost Dragons | Pack | 🥇 | 🪽 | 7 | 3 | 9 | 14 | 32 🟡, 2 🔴 | ➡️ Discard the enemy's 🏆 token.<br>🪓 Add +1 to your Attack die result. |
 
 <a id="dungeon"></a>
 ## Dungeon
@@ -66,7 +66,7 @@
 | Evil Eyes | Few | 🥉 | 🏹 | 3 | 0 | 3 | 5 | 4 🟡 | - |
 | Evil Eyes | Pack | 🥉 | 🏹 | 3 | 1 | 3 | 7 | 6 🟡 | ⏳ Ignore the combat penalty against adjacent units. |
 | Medusas | Few | 🥈 | 🏹 | 3 | 1 | 4 | 5 | 6 🟡 | ⏳ After the Retaliation Attack, roll an Attack die, on a "0" the target is 🐍. |
-| Medusas | Pack | 🥈 | 🏹 | 4 | 1 | 4 | 6 | 12 🟡 | ⏳ Ignore the combat penalty against adjacent units. 🗡️ The target gains 🐍. |
+| Medusas | Pack | 🥈 | 🏹 | 4 | 1 | 4 | 6 | 12 🟡 | ⏳ Ignore the combat penalty against adjacent units.<br>🗡️ The target gains 🐍. |
 | Minotaurs | Few | 🥈 | 🦶 | 4 | 2 | 4 | 6 | 8 🟡 | 🪓 If you resolve a "-1" on the Attack die, draw a card, |
 | Minotaurs | Pack | 🥈 | 🦶 | 5 | 2 | 4 | 8 | 14 🟡 | 🪓 If you resolve a "-1" on the Attack die, draw a card, |
 | Manticores | Few | 🥇 | 🪽 | 5 | 1 | 6 | 7 | 10 🟡 | - |
@@ -152,7 +152,7 @@
 | Efreet | Few | 🥇 | 🪽 | 5 | 1 | 7 | 9 | 12 🟡 | ⏳ Ignores any ❤️‍🩹 from Magic Arrows. |
 | Efreet | Pack | 🥇 | 🪽 | 6 | 1 | 7 | 13 | 18 🟡, 1 🔴 | ⏳ Ignores any ❤️‍🩹 from Magic Arrows or spells from the Fire School of Magic. |
 | Arch Devils | Few | 🥇 | 🪽 | 6 | 3 | 8 | 11 | 22 🟡, 1 🔴 | 🪓 Ignores Retaliation Attacks. |
-| Arch Devils | Pack | 🥇 | 🪽 | 7 | 3 | 9 | 15 | 30 🟡, 2 🔴 | 🪓 Ignores Retaliation Attacks. ⏳ As a regular movement, the Arch Devils can move to any empty space. |
+| Arch Devils | Pack | 🥇 | 🪽 | 7 | 3 | 9 | 15 | 30 🟡, 2 🔴 | 🪓 Ignores Retaliation Attacks.<br>⏳ As a regular movement, the Arch Devils can move to any empty space. |
 
 <a id="neutral"></a>
 ## Neutral
@@ -192,7 +192,7 @@
 | Gorgons | 🥈 | 🤺 | 4 | 2 | 4 | 5 | 13 🟡 | 🪓 After the attack, roll 2 Attack dice. On two "-1" results, reduce the attacked unit's ❤️ to 0. |
 | Liches | 🥈 | 🏹 | 3 | 0 | 6 | 7 | 12 🟡 | 🪓 Choose a unit adjacent to the target and attack it. For the purpose of this attack, your ⚔️ is 2. |
 | Magi | 🥈 | 🏹 | 3 | 0 | 5 | 6 | 11 🟡 | 🪓 Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with 📖. |
-| Medusas | 🥈 | 🏹 | 3 | 1 | 4 | 6 | 11 🟡 | ⏳ Ignore the combat penalty against adjacent units. 🗡️ The target is 🐍. |
+| Medusas | 🥈 | 🏹 | 3 | 1 | 4 | 6 | 11 🟡 | ⏳ Ignore the combat penalty against adjacent units.<br>🗡️ The target is 🐍. |
 | Minotaurs | 🥈 | 🤺 | 3 | 2 | 4 | 7 | 11 🟡 | 🪓 Reroll this unit's "-1" outcome on the Attack die. |
 | Mummies | 🥈 | 🤺 | 3 | 1 | 4 | 5 | 8 🟡 | 🪓 Ignore the result on the Attack die. ⏳ Whenever this unit is attacked, set your opponent's Attack die to "-1". |
 | Nomads | 🥈 | 🤺 | 3 | 1 | 4 | 7 | 10 🟡 | 🌍 At the end of your turn, move your Hero's model to an adjacent empty field. |
@@ -204,7 +204,7 @@
 | Arch Devils | 🥇 | 🪽 | 5 | 2 | 7 | 10 | 23 🟡 | 🪓 When attacking Archangels, this unit gains +2 ⚔️. |
 | Archangels | 🥇 | 🪽 | 5 | 2 | 7 | 10 | 29 🟡 | 🪓 When attacking Arch Devils, this unit gains +2 ⚔️. |
 | Black Dragons | 🥇 | 🪽 | 5 | 2 | 7 | 9 | 30 🟡 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 ⚔️. |
-| Champions | 🥇 | 🤺 | 4 | 2 | 6 | 8 | 18 🟡 | 🪓 Roll 2 Attack dice and aplly both outcomes. ⏳ Reroll this unit's all "-1" rolls. |
+| Champions | 🥇 | 🤺 | 4 | 2 | 6 | 8 | 18 🟡 | 🪓 Roll 2 Attack dice and aplly both outcomes.<br>⏳ Reroll this unit's all "-1" rolls. |
 | Diamond Golems | 🥇 | 🤺 | 4 | 2 | 6 | 6 | 16 🟡 | ⏳ Reduce any ❤️‍🩹 from spells by 3 - to a minimum of 0. |
 | Dread Knights | 🥇 | 🤺 | 5 | 1 | 7 | 7 | 18 🟡 | ⏳ When this unit is targeted by a Retaliation Attack, it gains +1 🛡️. |
 | Efreet | 🥇 | 🪽 | 4 | 2 | 6 | 13 | 20 🟡 | ⏳ Ignores any ❤️‍🩹 from Magic Arrows or spells from the Fire School of Magic. |
@@ -216,18 +216,18 @@
 | Trolls | 🥇 | 🤺 | 4 | 0 | 7 | 7 | 13 🟡 | ➡️ Remove up to 3 ❤️‍🩹 from this unit. |
 | Unicorns | 🥇 | 🤺 | 5 | 1 | 7 | 7 | 18 🟡 | 🗡️ The target is 🐍. |
 | Wyverns | 🥇 | 🪽 | 4 | 1 | 7 | 8 | 17 🟡 | 🪓 After the attack, roll 1 Attack die. On a "0" result, deal 1 ❤️‍🩹 to the target unit. |
-| Azure Dragons | 🔷 | 🪽 | 8 | 3 | 10 | 19 | 45 🟡, 2 🔴 | 🪓 If you resolve a "-1" on the Attack die, the target gains 🐍. ⏳ Ignore any 🪄 effects and ❤️‍🩹 from Specialty. |
+| Azure Dragons | 🔷 | 🪽 | 8 | 3 | 10 | 19 | 45 🟡, 2 🔴 | 🪓 If you resolve a "-1" on the Attack die, the target gains 🐍.<br>⏳ Ignore any 🪄 effects and ❤️‍🩹 from Specialty. |
 | Cystral Dragons | 🔷 | 🤺 | 7 | 3 | 9 | 16 | 40 🟡, 2 🔴 | 🌍 At the beginning of each Resource round, gain 2 🔴. |
 | Faerie Dragons | 🔷 | 🪽 | 5 | 2 | 8 | 15 | 35 🟡, 2 🔴 | ➡️ The selected unit suffers 2 ❤️‍🩹. This is a 🪄 that does not count towards your spell limit. |
 | Gold Dragons | 🔷 | 🪽 | 6 | 3 | 9 | 10 | 42 🟡 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 ⚔️. |
 | Hydras | 🔷 | 🤺 | 7 | 3 | 8 | 5 | 40 🟡 | 🪓 Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |
 | Rust Dragons | 🔷 | 🪽 | 7 | 3 | 10 | 17 | 38 🟡, 1 🔴 | 🪓 On "-1" results on the Attack die, decrease the attacked unit's 🛡️ by 2 - to a minimum of 0. |
-| Titans | 🔷 | 🏹 | 6 | 2 | 10 | 10 | 39 🟡 | ⏳ Ignore the combat penalty against adjacent units. 🪓 When attacking Black Dragons, this unit gains +2 ⚔️. |
+| Titans | 🔷 | 🏹 | 6 | 2 | 10 | 10 | 39 🟡 | ⏳ Ignore the combat penalty against adjacent units.<br>🪓 When attacking Black Dragons, this unit gains +2 ⚔️. |
 
 <a id="other"></a>
 # Other
 | Name | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🤺 Initiative | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| Arrow Tower | 🏹 | 4 | 2 | 3 | 9 | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed. ⏳ It can only be attack by 🏹 attacks or card effects. |
+| Arrow Tower | 🏹 | 4 | 2 | 3 | 9 | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed.<br>⏳ It can only be attack by 🏹 attacks or card effects. |
 
 You can find war machines [here](war_machines.md).
