@@ -30,9 +30,9 @@
 | Zealots | Few | 🥈 | 🏹 | 3 | 1 | 5 | 5 | 8 🟡 | - |
 | Zealots | Pack | 🥈 | 🏹 | 4 | 1 | 5 | 7 | 12 🟡 | ⏳ Ignore the combat penalty against adjacent units. |
 | Champions | Few | 🥇 | 🦶 | 5 | 2 | 7 | 7 | 12 🟡 | 🌍 If your hero is on a field with Stables, this unit's reinforcement cost is reduced by 6💰. |
-| Champions | Pack | 🥇 | 🦶 | 6 | 2 | 7 | 9 | 20 🟡, 1 🔴 | 🪓 If this unit's movement ends in a space other than where it started, you may reroll an Attack die. |
-| Archangels | Few | 🥇 | 🪽 | 6 | 3 | 8 | 12 | 20 🟡, 1 🔴 | 🌍 When combat begins, draw 1 card. |
-| Archangels | Pack | 🥇 | 🪽 | 7 | 3 | 10 | 18 | 30 🟡, 2 🔴 | 🌍 Once per Combat. Cancel an attack that would reduce another unit's ❤️ to 0. |
+| Champions | Pack | 🥇 | 🦶 | 6 | 2 | 7 | 9 | 20 🟡<br>1 🔴 | 🪓 If this unit's movement ends in a space other than where it started, you may reroll an Attack die. |
+| Archangels | Few | 🥇 | 🪽 | 6 | 3 | 8 | 12 | 20 🟡<br>1 🔴 | 🌍 When combat begins, draw 1 card. |
+| Archangels | Pack | 🥇 | 🪽 | 7 | 3 | 10 | 18 | 30 🟡<br>2 🔴 | 🌍 Once per Combat. Cancel an attack that would reduce another unit's ❤️ to 0. |
 
 <a id="necropolis"></a>
 ## Necropolis
@@ -50,9 +50,9 @@
 | Liches | Few | 🥈 | 🏹 | 3 | 1 | 5 | 6 | 8 🟡 | - |
 | Liches | Pack | 🥈 | 🏹 | 4 | 1 | 5 | 7 | 14 🟡 | 🪓 Choose a unit adjacent to the target and attack it. For the purpose of this attack, your ⚔️ is 2. |
 | Dread Knights | Few | 🥇 | 🦶 | 5 | 2 | 7 | 7 | 12 🟡 | 🪓 When retaliating after this attack, the enemy rolls 2 Attack dire and resolves the lower result. |
-| Dread Knights | Pack | 🥇 | 🦶 | 6 | 2 | 7 | 9 | 20 🟡, 1 🔴 | 🪓 If you resolve a "0" or a "+1" on the Attack die, increase this unit's total attack value by another "+1". |
-| Ghost Dragons | Few | 🥇 | 🪽 | 6 | 3 | 8 | 9 | 19 🟡, 1 🔴 | ➡️ Discard the enemy's 🏆 token. |
-| Ghost Dragons | Pack | 🥇 | 🪽 | 7 | 3 | 9 | 14 | 32 🟡, 2 🔴 | ➡️ Discard the enemy's 🏆 token.<br>🪓 Add +1 to your Attack die result. |
+| Dread Knights | Pack | 🥇 | 🦶 | 6 | 2 | 7 | 9 | 20 🟡<br>1 🔴 | 🪓 If you resolve a "0" or a "+1" on the Attack die, increase this unit's total attack value by another "+1". |
+| Ghost Dragons | Few | 🥇 | 🪽 | 6 | 3 | 8 | 9 | 19 🟡<br>1 🔴 | ➡️ Discard the enemy's 🏆 token. |
+| Ghost Dragons | Pack | 🥇 | 🪽 | 7 | 3 | 9 | 14 | 32 🟡<br>2 🔴 | ➡️ Discard the enemy's 🏆 token.<br>🪓 Add +1 to your Attack die result. |
 
 <a id="dungeon"></a>
 ## Dungeon
@@ -70,9 +70,9 @@
 | Minotaurs | Few | 🥈 | 🦶 | 4 | 2 | 4 | 6 | 8 🟡 | 🪓 If you resolve a "-1" on the Attack die, draw a card, |
 | Minotaurs | Pack | 🥈 | 🦶 | 5 | 2 | 4 | 8 | 14 🟡 | 🪓 If you resolve a "-1" on the Attack die, draw a card, |
 | Manticores | Few | 🥇 | 🪽 | 5 | 1 | 6 | 7 | 10 🟡 | - |
-| Manticores | Pack | 🥇 | 🪽 | 5 | 1 | 6 | 1 | 18 🟡, 1 🔴 | 🪓 For this attack, ignore the 🛡️ value from the target unit's card. |
-| Black Dragons | Few | 🥇 | 🪽 | 6 | 3 | 8 | 1 | 19 🟡, 1 🔴 | ⏳ Reduce ❤️‍🩹 taken by this unit from 🪄 by 2 to a minimum of 0. |
-| Black Dragons | Pack | 🥇 | 🪽 | 8 | 3 | 8 | 5 | 33 🟡, 2 🔴 | ⏳ Ignore any 🪄 effects and ❤️‍🩹 from Specialty. |
+| Manticores | Pack | 🥇 | 🪽 | 5 | 1 | 6 | 1 | 18 🟡<br>1 🔴 | 🪓 For this attack, ignore the 🛡️ value from the target unit's card. |
+| Black Dragons | Few | 🥇 | 🪽 | 6 | 3 | 8 | 1 | 19 🟡<br>1 🔴 | ⏳ Reduce ❤️‍🩹 taken by this unit from 🪄 by 2 to a minimum of 0. |
+| Black Dragons | Pack | 🥇 | 🪽 | 8 | 3 | 8 | 5 | 33 🟡<br>2 🔴 | ⏳ Ignore any 🪄 effects and ❤️‍🩹 from Specialty. |
 
 <a id="tower"></a>
 ## Tower
@@ -90,9 +90,9 @@
 | Genies | Few | 🥈 | 🪽 | 3 | 1 | 6 | 7 | 8 🟡 | 🌀 Discard 3 cards from your deck and take a 🪄 discarded this way to your hand. |
 | Genies | Pack | 🥈 | 🪽 | 4 | 1 | 6 | 8 | 12 🟡 | 🪓 Discard 3 cards from your deck and take a 🪄 discarded this way to your hand. |
 | Nagas | Few | 🥇 | 🤺 | 5 | 2 | 7 | 6 | 13 🟡 | 🪓 Ignore Retaliation Attacks. |
-| Nagas | Pack | 🥇 | 🤺 | 6 | 2 | 7 | 8 | 18 🟡, 1 🔴 | 🪓 Ignore Retaliation Attacks. |
-| Titans | Few | 🥇 | 🤺 | 6 | 3 | 8 | 7 | 18 🟡, 1 🔴 | ⏳ Ignore any 🔄 effects on this unit. |
-| Titans | Pack | 🥇 | 🤺 | 6 | 3 | 8 | 11 | 32 🟡, 2 🔴 | ⏳ Ignore any 🔄 effects on this unit and combat penalties against adjacent units. |
+| Nagas | Pack | 🥇 | 🤺 | 6 | 2 | 7 | 8 | 18 🟡<br>1 🔴 | 🪓 Ignore Retaliation Attacks. |
+| Titans | Few | 🥇 | 🤺 | 6 | 3 | 8 | 7 | 18 🟡<br>1 🔴 | ⏳ Ignore any 🔄 effects on this unit. |
+| Titans | Pack | 🥇 | 🤺 | 6 | 3 | 8 | 11 | 32 🟡<br>2 🔴 | ⏳ Ignore any 🔄 effects on this unit and combat penalties against adjacent units. |
 
 <a id="fortress"></a>
 ## Fortress
@@ -110,9 +110,9 @@
 | Gorgons | Few | 🥈 | 🤺 | 4 | 2 | 5 | 5 | 9 🟡 | - |
 | Gorgons | Pack | 🥈 | 🤺 | 5 | 2 | 5 | 6 | 14 🟡 | 🪓 After the attack, roll 2 Attack dice; on a double "0", decrease the target unit's ❤️ to 0. |
 | Wyverns | Few | 🥇 | 🪽 | 5 | 1 | 8 | 7 | 12 🟡 | 🪓 Place 1 faction cube on the target. At the beginning of its every activation, remove it to inflict 1 ❤️‍🩹. |
-| Wyverns | Pack | 🥇 | 🪽 | 6 | 1 | 8 | 11 | 18 🟡, 1 🔴 | 🪓 Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 ❤️‍🩹, |
-| Hydras | Few | 🥇 | 🤺 | 6 | 3 | 8 | 5 | 20 🟡, 1 🔴 | 🪓 Ignore the Retaliation Attack. |
-| Hydras | Pack | 🥇 | 🤺 | 7 | 3 | 10 | 7 | 28 🟡, 2 🔴 | 🪓 Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. |
+| Wyverns | Pack | 🥇 | 🪽 | 6 | 1 | 8 | 11 | 18 🟡<br>1 🔴 | 🪓 Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 ❤️‍🩹, |
+| Hydras | Few | 🥇 | 🤺 | 6 | 3 | 8 | 5 | 20 🟡<br>1 🔴 | 🪓 Ignore the Retaliation Attack. |
+| Hydras | Pack | 🥇 | 🤺 | 7 | 3 | 10 | 7 | 28 🟡<br>2 🔴 | 🪓 Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. |
 
 <a id="rampart"></a>
 ## Rampart
@@ -130,9 +130,9 @@
 | Dendroids | Few | 🥈 | 🤺 | 4 | 2 | 5 | 3 | 8 🟡 | - |
 | Dendroids | Pack | 🥈 | 🤺 | 4 | 2 | 6 | 4 | 15 🟡 | ⏳ Enemy units that start activation adjacent to this unit cannot move. |
 | Unicorns | Few | 🥇 | 🤺 | 5 | 1 | 8 | 7 | 11 🟡 | ⏳ Reduce any ❤️‍🩹 from 🪄 dealt to this unit by 1 (to a minimum of 0), |
-| Unicorns | Pack | 🥇 | 🤺 | 6 | 1 | 8 | 9 | 18 🟡, 1 🔴 | ⏳ Reduce any ❤️‍🩹 from 🪄 dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), |
-| Gold Dragons | Few | 🥇 | 🤺 | 5 | 3 | 9 | 10 | 22 🟡, 1 🔴 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 ⚔️, |
-| Gold Dragons | Pack | 🥇 | 🤺 | 6 | 3 | 10 | 16 | 30 good, 2 🔴 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 ⚔️. |
+| Unicorns | Pack | 🥇 | 🤺 | 6 | 1 | 8 | 9 | 18 🟡<br>1 🔴 | ⏳ Reduce any ❤️‍🩹 from 🪄 dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), |
+| Gold Dragons | Few | 🥇 | 🤺 | 5 | 3 | 9 | 10 | 22 🟡<br>1 🔴 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 ⚔️, |
+| Gold Dragons | Pack | 🥇 | 🤺 | 6 | 3 | 10 | 16 | 30 🟡<br>2 🔴 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 ⚔️. |
 
 <a id="inferno"></a>
 ## Inferno
@@ -150,9 +150,9 @@
 | Pit Lords | Few | 🥈 | 🤺 | 4 | 1 | 6 | 6 | 8 🟡 | - |
 | Pit Lords | Pack | 🥈 | 🤺 | 5 | 1 | 6 | 7 | 15 🟡 | 🌀 If one of your units has been removed from the board during this Combat, Summon or Reinforce Demons. |
 | Efreet | Few | 🥇 | 🪽 | 5 | 1 | 7 | 9 | 12 🟡 | ⏳ Ignores any ❤️‍🩹 from Magic Arrows. |
-| Efreet | Pack | 🥇 | 🪽 | 6 | 1 | 7 | 13 | 18 🟡, 1 🔴 | ⏳ Ignores any ❤️‍🩹 from Magic Arrows or spells from the Fire School of Magic. |
-| Arch Devils | Few | 🥇 | 🪽 | 6 | 3 | 8 | 11 | 22 🟡, 1 🔴 | 🪓 Ignores Retaliation Attacks. |
-| Arch Devils | Pack | 🥇 | 🪽 | 7 | 3 | 9 | 15 | 30 🟡, 2 🔴 | 🪓 Ignores Retaliation Attacks.<br>⏳ As a regular movement, the Arch Devils can move to any empty space. |
+| Efreet | Pack | 🥇 | 🪽 | 6 | 1 | 7 | 13 | 18 🟡<br>1 🔴 | ⏳ Ignores any ❤️‍🩹 from Magic Arrows or spells from the Fire School of Magic. |
+| Arch Devils | Few | 🥇 | 🪽 | 6 | 3 | 8 | 11 | 22 🟡<br>1 🔴 | 🪓 Ignores Retaliation Attacks. |
+| Arch Devils | Pack | 🥇 | 🪽 | 7 | 3 | 9 | 15 | 30 🟡<br>2 🔴 | 🪓 Ignores Retaliation Attacks.<br>⏳ As a regular movement, the Arch Devils can move to any empty space. |
 
 <a id="neutral"></a>
 ## Neutral
@@ -216,12 +216,12 @@
 | Trolls | 🥇 | 🤺 | 4 | 0 | 7 | 7 | 13 🟡 | ➡️ Remove up to 3 ❤️‍🩹 from this unit. |
 | Unicorns | 🥇 | 🤺 | 5 | 1 | 7 | 7 | 18 🟡 | 🗡️ The target is 🐍. |
 | Wyverns | 🥇 | 🪽 | 4 | 1 | 7 | 8 | 17 🟡 | 🪓 After the attack, roll 1 Attack die. On a "0" result, deal 1 ❤️‍🩹 to the target unit. |
-| Azure Dragons | 🔷 | 🪽 | 8 | 3 | 10 | 19 | 45 🟡, 2 🔴 | 🪓 If you resolve a "-1" on the Attack die, the target gains 🐍.<br>⏳ Ignore any 🪄 effects and ❤️‍🩹 from Specialty. |
-| Cystral Dragons | 🔷 | 🤺 | 7 | 3 | 9 | 16 | 40 🟡, 2 🔴 | 🌍 At the beginning of each Resource round, gain 2 🔴. |
-| Faerie Dragons | 🔷 | 🪽 | 5 | 2 | 8 | 15 | 35 🟡, 2 🔴 | ➡️ The selected unit suffers 2 ❤️‍🩹. This is a 🪄 that does not count towards your spell limit. |
+| Azure Dragons | 🔷 | 🪽 | 8 | 3 | 10 | 19 | 45 🟡<br>2 🔴 | 🪓 If you resolve a "-1" on the Attack die, the target gains 🐍.<br>⏳ Ignore any 🪄 effects and ❤️‍🩹 from Specialty. |
+| Cystral Dragons | 🔷 | 🤺 | 7 | 3 | 9 | 16 | 40 🟡<br>2 🔴 | 🌍 At the beginning of each Resource round, gain 2 🔴. |
+| Faerie Dragons | 🔷 | 🪽 | 5 | 2 | 8 | 15 | 35 🟡<br>2 🔴 | ➡️ The selected unit suffers 2 ❤️‍🩹. This is a 🪄 that does not count towards your spell limit. |
 | Gold Dragons | 🔷 | 🪽 | 6 | 3 | 9 | 10 | 42 🟡 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 ⚔️. |
 | Hydras | 🔷 | 🤺 | 7 | 3 | 8 | 5 | 40 🟡 | 🪓 Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |
-| Rust Dragons | 🔷 | 🪽 | 7 | 3 | 10 | 17 | 38 🟡, 1 🔴 | 🪓 On "-1" results on the Attack die, decrease the attacked unit's 🛡️ by 2 - to a minimum of 0. |
+| Rust Dragons | 🔷 | 🪽 | 7 | 3 | 10 | 17 | 38 🟡<br>1 🔴 | 🪓 On "-1" results on the Attack die, decrease the attacked unit's 🛡️ by 2 - to a minimum of 0. |
 | Titans | 🔷 | 🏹 | 6 | 2 | 10 | 10 | 39 🟡 | ⏳ Ignore the combat penalty against adjacent units.<br>🪓 When attacking Black Dragons, this unit gains +2 ⚔️. |
 
 <a id="other"></a>
