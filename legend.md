@@ -15,6 +15,7 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 | ⚔️ | Attack |
 | 🛡️ | Defense |
 | 📖 | Power |
+| 📚 | Intelligence |
 | ❤️ | Health |
 | ❤️‍🩹 | Damage |
 | 🤺 | Initiative |
