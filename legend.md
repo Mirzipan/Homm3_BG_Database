@@ -3,6 +3,7 @@
 I have chosen some emoji to represent the icons used in the game. The idea was to chooce emoji that are easily mapped to the original icons, but I have included this table on the off-chance that I did not choose some of them well.
 
 ## Creatures
+
 | Icon | Description|
 | :---: | :--- |
 | 🥉 | Bronze tier |
@@ -21,11 +22,13 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 | 🤺 | Initiative |
 
 ## Factions
+
 | Icon | Description |
 | :---: | :--- |
 | 💀 | Necropolis |
 
 ## Effects And Abilities
+
 | Icon | Description|
 | :---: | :--- |
 | 🌍 | Map effect. Can be activated when it's your turn and you are not in a fight |
@@ -40,12 +43,14 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 | ♾️ | Permanent effect |
 
 ## Card Types
+
 | Icon | Description|
 | :---: | :--- |
 | 🪄 | Spell |
 | ⚜️ | Artifact |
 
 ## Resources
+
 | Icon | Description|
 | :---: | :--- |
 | 🟡 | Gold |
@@ -53,12 +58,14 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 | 🔴 | Valuables |
 
 ## Dice
+
 | Icon | Description|
 | :---: | :--- |
 | 🗃️ | Treasure die |
 | ⚒️ | Resource die |
 
 ## Miscellanous
+
 | Icon | Description|
 | :---: | :--- |
 | 🫳 | Pay |
