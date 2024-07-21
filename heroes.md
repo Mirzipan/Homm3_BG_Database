@@ -31,6 +31,12 @@ List of heroes and their specialities.
 <a id="adelaide"></a>
 ### Adelaide
 
+| Name | Level | Descrition |
+| :--- | :---: | :--- |
+| Crusaders | I | ⚡️Your selected unit gains + 1⚔️  <br> -or- <br>⚡️Your selected unit gains +1🛡️<br><br>This effect doubles for the Crusaders unit. |
+| Crusaders | IV | 🔄For this Combat, your selected unit's ❤️ is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
+| Crusaders | VI | 🔄For this Combat, your selected unit's 🤺 is increased by 1.<br><br>This effect doubles for the Crusaders unit. |
+
 <a id="catherine"></a>
 ### Catherine
 
