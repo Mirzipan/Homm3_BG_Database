@@ -17,7 +17,7 @@
 <a id="castle"></a>
 ## Castle
 
-| Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🤺 Initiative | Recruitment Cost | Abilities |
+| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Halberdiers | Few | 🥉 | 🦶 | 2 | 1 | 2 | 4 | 2 🟡 | - |
 | Halberdiers | Pack | 🥉 | 🦶 | 3 | 1 | 2 | 5 | 3 🟡 | ⏳ When the unit is targeted by any attack, you can discard a card and ignore the Attack die's roll result. |
@@ -37,7 +37,7 @@
 <a id="necropolis"></a>
 ## Necropolis
 
-| Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🤺 Initiative | Recruitment Cost | Abilities |
+| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Skeletons | Few | 🥉 | 🦶 | 2 | 1 | 2 | 4 | 2 🟡 | - |
 | Skeletons | Pack | 🥉 | 🦶 | 3 | 1 | 2 | 5 | 3 🟡 | - |
@@ -57,7 +57,7 @@
 <a id="dungeon"></a>
 ## Dungeon
 
-| Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🤺 Initiative | Recruitment Cost | Abilities |
+| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Troglodytes | Few | 🥉 | 🦶 | 2 | 1 | 2 | 4 | 2 🟡 | - |
 | Troglodytes | Pack | 🥉 | 🦶 | 3 | 1 | 2 | 5 | 3 🟡 | ⏳ This unit ignores 🐍 effect. |
@@ -77,7 +77,7 @@
 <a id="tower"></a>
 ## Tower
 
-| Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🤺 Initiative | Recruitment Cost | Abilities |
+| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Gremlins | Few | 🥉 | 🏹 | 2 | 0 | 2 | 4 | 0 🟡 | - |
 | Gremlins | Pack | 🥉 | 🏹 | 2 | 0 | 2 | 5 | 2 🟡 | - |
@@ -97,7 +97,7 @@
 <a id="fortress"></a>
 ## Fortress
 
-| Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🤺 Initiative | Recruitment Cost | Abilities |
+| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Gnolls | Few | 🥉 | 🤺 | 2 | 1 | 3 | 4 | 2 🟡 | - |
 | Gnolls | Pack | 🥉 | 🤺 | 2 | 1 | 4 | 5 | 3 🟡 | - |
@@ -117,7 +117,7 @@
 <a id="rampart"></a>
 ## Rampart
 
-| Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🤺 Initiative | Recruitment Cost | Abilities |
+| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Centaurs | Few | 🥉 | 🤺 | 2 | 0 | 3 | 6 | 2 🟡 | - |
 | Centaurs | Pack | 🥉 | 🤺 | 3 | 0 | 3 | 8 | 3 🟡 | - |
@@ -137,7 +137,7 @@
 <a id="inferno"></a>
 ## Inferno
 
-| Name | #️⃣ Amount | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🤺 Initiative | Recruitment Cost | Abilities |
+| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Familiars | Few | 🥉 | 🤺 | 2 | 1 | 2 | 5 | 2 🟡 | - |
 | Familiars | Pack | 🥉 | 🤺 | 3 | 1 | 2 | 7 | 3 🟡 | ⏳ Whenever an enemy casts a 🪄 from hand, they must discard 1 card from hand. |
@@ -157,7 +157,7 @@
 <a id="neutral"></a>
 ## Neutral
 
-| Name | Tier | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🤺 Initiative | Recruitment Cost | Abilities |
+| Name | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Boars | 🥉 | 🤺 | 2 | 0 | 4 | 6 | 4 🟡 | - |
 | Centaurs | 🥉 | 🤺 | 2 | 0 | 5 | 7 | 3 🟡 | - |
@@ -226,7 +226,7 @@
 
 <a id="other"></a>
 # Other
-| Name | Type | ⚔️ Attack | 🛡️ Defense | ❤️ Hit Points | 🤺 Initiative | Abilities |
+| Name | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
 | Arrow Tower | 🏹 | 4 | 2 | 3 | 9 | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed.<br>⏳ It can only be attack by 🏹 attacks or card effects. |
 
