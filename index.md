@@ -1,7 +1,7 @@
 🚧Work In Progress🚧
 
 ## ⚔️ Content
-- ❌ [Abilities](abilities.md)
+- ✅ [Abilities](abilities.md)
 - ❌ [Artifacts](artifacts.md)
 - ✅ [Astrologers Proclaim](astrologers_proclaim.md)
 - 🚧 [Events](events.md)
