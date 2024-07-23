@@ -68,6 +68,7 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 
 | Icon | Description |
 | :---: | :--- |
+| 👑 | Expert effect |
 | 🫳 | Pay |
 | 💛 | Positive morale |
 | 🖤 | Negative morale |
