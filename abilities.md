@@ -1,6 +1,6 @@
 # Abilities
 
-| Name | Effect | Expert Effect |
+| Name | Effect | 👑 Effect |
 | :--- | :---: | :---: |
 | Air Magic | ♾️ +1📖 for spells from School of Water Magic. | While casting 🪄 from the School of Air, you can discard this card, then gain +3📖. |
 | Archery | 🔄 During this Combat round, your Ranged units gain +1⚔️ if the target is a non-adjacent unit. |🔄 Until the end of the next Combat round, your Ranged units gain +1🤺 and +1⚔️ if the target is a non-adjacent unit. |
