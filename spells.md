@@ -29,7 +29,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | :--- | :---: |
 | Disrupting Ray | 🚧 |
 | Fortune | 🚧 |
-| Haste | 🚧 |
+| Haste | 🔄 Until the end of the Combat, the selected unit gains:<br><br> 📖0 - +1🤺<br>📖1 - +2🤺<br>📖2 - +3🤺 |
 | Lightning Bolt | 🚧 |
 | Magic Arrow | ➡️ The selected unit suffers:<br><br> 📖0 - 1❤️‍🩹<br>📖1 - 2❤️‍🩹<br>📖2 - 3❤️‍🩹 |
 | Precision | 🚧 |
@@ -53,11 +53,11 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 
 | Name | Effect |
 | :--- | :---: |
-| Anti-Magic | 🚧 |
+| Anti-Magic | 🔄 Until the end of the Combat, the selected *️⃣ unit cannot be targeted by spells:<br><br> 📖0 - *️⃣🥉<br>📖2 - *️⃣🥉 or 🥈<br>📖4 - *️⃣🥉 or 🥈 or 🥇 |
 | Earthquake | 🚧 |
 | Magic Arrow | ➡️ The selected unit suffers:<br><br> 📖0 - 1❤️‍🩹<br>📖1 - 2❤️‍🩹<br>📖2 - 3❤️‍🩹 |
-| Shield | 🚧 |
-| Slow | 🚧 |
+| Shield | ⚡️ The defending unit gains *️⃣ against a 🦶 or 🪽 unit.<br><br> 📖0 - +1🛡️<br>📖1 - +2🛡️<br>📖2 - +3🛡️ |
+| Slow | 🔄 Until the end of the Combat, the selected unit suffers:<br><br> 📖0 - -1🤺<br>📖1 - -2🤺<br>📖2 - -3🤺 |
 | Stone Skin | 🚧 |
 | View Earth | 🚧 |
 
@@ -69,7 +69,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Implosion | 🚧 |
 | Resurrection | ⚡️ Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0. You can cast this spell immediately after the enemy unit's attack.<br><br> 📖0 - *️⃣🥉<br>📖2 - *️⃣🥉 or 🥈<br>📖4 - *️⃣🥉 or 🥈 or 🥇 |
 | Sorrow | 🚧 |
-| Town Portal | 🚧 |
+| Town Portal | 🌍 Move your Hero to a selected Town or Settlement in your control, and:<br><br> 📖0 - No additional effect<br>📖2 - +1🐎<br>📖4 - +2🐎 |
 
 <a id="fire-magic"></a>
 ## Fire Magic
@@ -80,20 +80,20 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Name | Effect |
 | :--- | :---: |
 | Blind | 🚧 |
-| Bloodlust | 🚧 |
+| Bloodlust | ⚡️ The selected 🦶 or 🪽 unit gains:<br><br> 📖0 - +1⚔️<br>📖1 - +2⚔️<br>📖2 - +3⚔️ |
 | Curse | 🚧 |
-| Fire Wall | 🚧 |
+| Fire Wall | 🔄 For this Combat, place this card in an empty space on the Combat board. Deal *️⃣ to any unit stopping here and to any 🦶 or 🏹 unit passing through.<br><br> 📖0 - *️⃣1❤️‍🩹<br>📖2 - *️⃣2❤️‍🩹<br>📖4 - *️⃣3❤️‍🩹 |
 | Magic Arrow | ➡️ The selected unit suffers:<br><br> 📖0 - 1❤️‍🩹<br>📖1 - 2❤️‍🩹<br>📖2 - 3❤️‍🩹 |
 | Misfortune | 🚧 |
-| Visions | 🚧 |
+| Visions | ⚡️ Draw *️⃣ from any Neutral Unit deck. You can discard any of them and return the remaining cards in any order.<br><br> 📖0 - *️⃣1 card<br>📖1 - *️⃣2 cards<br>📖2 - *️⃣3 cards |
 
 <a id="expert-2"></a>
 ### Expert
 
 | Name | Effect |
 | :--- | :---: |
-| Berserk | 🚧 |
-| Fire Shield | 🚧 |
+| Berserk | 🔄 Select a *️⃣ unit. In its activation, this unit must either attack the nearest unit or move to the nearest unit and attack it.<br><br> 📖0 - *️⃣🥉<br>📖2 - *️⃣🥈<br>📖4 - *️⃣🥇 |
+| Fire Shield | 🔄 When the targeted unit is attack by an adjacent unit during this Combat round, the attacking unit takes:<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
 | Fireball | 🚧 |
 | Frenzy | 🚧 |
 | Inferno | ➡️ Select a space. Now roll and Attack die *️⃣. All units on this and the adjacent spaces take 1❤️‍🩹 for every "+1" rolled.<br><br> 📖0 - *️⃣once<br>📖1 - *️⃣twice<br>📖2 - *️⃣4 times |
@@ -108,11 +108,11 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Name | Effect |
 | :--- | :---: |
 | Bless | 🚧 |
-| Cure | 🚧 |
+| Cure | ⚡️ Remove any effect or 🐍 from the selected unit, and remove from this unit up to:<br><br> 📖0 - 1❤️‍🩹<br>📖1 - 2❤️‍🩹<br>📖2 - 3❤️‍🩹 |
 | Dispel | 🚧 |
-| Forgetfulness | 🚧 |
+| Forgetfulness | 🔄 During its next activation, a *️⃣🏹 unit if your choice cannot ⚔️.<br><br> 📖0 - *️⃣🥉<br>📖1 - *️⃣🥉 or 🥈<br>📖2 - *️⃣🥉 or 🥈 or 🥇 |
 | Magic Arrow | ➡️ The selected unit suffers:<br><br> 📖0 - 1❤️‍🩹<br>📖1 - 2❤️‍🩹<br>📖2 - 3❤️‍🩹 |
-| Remove Obstacle | 🚧 |
+| Remove Obstacle | ⚡️ Remove *️⃣ obstacles (except units) from the Combat board.<br><br> 📖0 - *️⃣1<br>📖1 - *️⃣2<br>📖2 - *️⃣3 |
 | Weakness | 🚧 |
 
 <a id="expert-3"></a>
@@ -120,7 +120,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 
 | Name | Effect |
 | :--- | :---: |
-| Frost Ring | 🚧 |
+| Frost Ring | ➡️ Select a space on the Combat board. 2 units adjacent to this space suffer:<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
 | Mirth | 🚧 |
-| Prayer | 🚧 |
+| Prayer | ⚡️ The selected unit gains *️⃣⚔️, 🛡️, or 🤺:<br><br> 📖0 - *️⃣+1<br>📖2 - *️⃣+2<br>📖4 - *️⃣+3 |
 | Teleport | 🚧 |
