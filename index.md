@@ -4,6 +4,7 @@
 - ✅ [Abilities](abilities.md)
 - 🚧 [Artifacts](artifacts.md)
 - ✅ [Astrologers Proclaim](astrologers_proclaim.md)
+- ✅ [Dice](dice.md)
 - 🚧 [Events](events.md)
 - ✅ [Heroes](heroes.md)
 - 🚧 [Spells](spells.md)
