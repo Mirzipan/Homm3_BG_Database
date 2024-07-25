@@ -12,7 +12,7 @@
 ## Attack Die
 
 | Sides |
-| :--- : |
+| :---: |
 | -1 |
 | -1 |
 | 0 |
@@ -24,7 +24,7 @@
 ## Resource Die
 
 | Sides |
-| :--- : |
+| :---: |
 | 3🟡 |
 | 6🟡 |
 | 2⚫️ |
@@ -36,10 +36,10 @@
 ## Treasure Die
 
 | Sides |
-| :--- : |
+| :---: |
 | Experience |
 | Experience |
-| ⚜️ |
-| ⚜️ |
+| [⚜️](artifacts.md) |
+| [⚜️](artifacts.md) |
 | ⚒️ |
 | 2⚒️ |
