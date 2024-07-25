@@ -28,4 +28,4 @@
 | Sorcery | ⚡️ +1📖<br>Then draw 1 card. | ⚡️ +2📖<br>Then draw 1 card. |
 | Tactics | ⚡️ At the start of Combat, you can switch the position of any 2 of your [units](units.md). | ➡️ During Combat, you can switch the position of any 2 of your [units](units.md). |
 | Water Magic | ♾️ +1📖 for spells from [School of Water Magic](spells.md#water-magic). | While casting 🪄 from the [School of Water](spells.md#water-magic), you can discard this card, then gain +3📖. |
-| Wisdom | ⚡️ The cost of buying spells in this Town is reduced by 2 🟡. When buying spells from your Magic Guild, do **Search(3)** instead of **Search(2)**. | ⚡️ The cost of buying [spells](spells.md) in this Town is reduced by 2 🟡. When buying [spells](spells.md) from your Magic Guild, do **Search(4)** instead of **Search(2)**. |
+| Wisdom | ⚡️ The cost of buying [spells](spells.md) in this Town is reduced by 2 🟡. When buying [spells](spells.md) from your Magic Guild, do **Search(3)** instead of **Search(2)**. | ⚡️ The cost of buying [spells](spells.md) in this Town is reduced by 2 🟡. When buying [spells](spells.md) from your Magic Guild, do **Search(4)** instead of **Search(2)**. |
