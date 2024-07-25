@@ -23,7 +23,7 @@
 | Offense | ⚡️ +1⚔️<br>Then draw 1 card. | ⚡️ +2⚔️<br>Then draw 1 card. |
 | Pathfinding | 🌍 This turn, your Hero can move through fields with Neutral Units and Enemy Heroes, but if they end their movement in one of these fields, Combat begins. | 🌍 Your Hero can move over the yellow border and blocked fields, but cannot end movement on them. |
 | Resistance | ⚡️ Play this card immediately after the enemy casts a spell. If the spell was cast with 1📖 or less, ignore the [Spell](spells.md) card's effect. | ⚡️ Play this card immediately after the enemy casts a spell. Ignore the [Spell](spells.md) card's effect. |
-| Scholar | ⚡️ Choose 1 card from your discard pile and add it to your hand. | 🌍 Remove up to 2 [Statistic](statisitics.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](statistics.md) cards and put them on top of your discard pile. Remove the Scholar. |
+| Scholar | ⚡️ Choose 1 card from your discard pile and add it to your hand. | 🌍 Remove up to 2 [Statistic](statistics.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](statistics.md) cards and put them on top of your discard pile. Remove the Scholar. |
 | Scouting | ⚡️ Play this card before taking a **Search** action, then do **Search(3)** instead. | ⚡️ Play this card before taking a **Search** action, then do **Search(5)** instead. |
 | Sorcery | ⚡️ +1📖<br>Then draw 1 card. | ⚡️ +2📖<br>Then draw 1 card. |
 | Tactics | ⚡️ At the start of Combat, you can switch the position of any 2 of your [units](units.md). | ➡️ During Combat, you can switch the position of any 2 of your [units](units.md). |
