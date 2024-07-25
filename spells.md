@@ -112,7 +112,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Dispel | ⚡️ Remove all 🔄 effects from a space or a *️⃣ [unit](units.md) and the space it occupies.<br><br> 📖0 - *️⃣🥉<br>📖1 - *️⃣🥉 or 🥈<br>📖2 - *️⃣🥉 or 🥈 or 🥇 |
 | Forgetfulness | 🔄 During its next activation, a *️⃣🏹 [unit](units.md) if your choice cannot ⚔️.<br><br> 📖0 - *️⃣🥉<br>📖1 - *️⃣🥉 or 🥈<br>📖2 - *️⃣🥉 or 🥈 or 🥇 |
 | Magic Arrow | ➡️ The selected [unit](units.md) suffers:<br><br> 📖0 - 1❤️‍🩹<br>📖1 - 2❤️‍🩹<br>📖2 - 3❤️‍🩹 |
-| Remove Obstacle | ⚡️ Remove *️⃣ obstacles (except units) from the Combat board.<br><br> 📖0 - *️⃣1<br>📖1 - *️⃣2<br>📖2 - *️⃣3 |
+| Remove Obstacle | ⚡️ Remove *️⃣ obstacles (except [units](units.md)) from the Combat board.<br><br> 📖0 - *️⃣1<br>📖1 - *️⃣2<br>📖2 - *️⃣3 |
 | Weakness | ⚡️ The selected [unit](units.md) suffers (to a minimum of 0):<br><br> 📖0 - -1⚔️<br>📖1 - -2⚔️<br>📖2 - -3⚔️ |
 
 <a id="expert-3"></a>
