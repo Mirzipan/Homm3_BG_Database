@@ -31,7 +31,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Fortune | 🚧 |
 | Haste | 🚧 |
 | Lightning Bolt | 🚧 |
-| Magic Arrow | 🚧 |
+| Magic Arrow | ➡️ The selected unit suffers:<br><br> 📖0 - 1❤️‍🩹<br>📖1 - 2❤️‍🩹<br>📖2 - 3❤️‍🩹 |
 | Precision | 🚧 |
 | View Air | 🚧 |
 
@@ -42,7 +42,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | :--- | :---: |
 | Chain Lightning | 🚧 |
 | Counterstrike | 🚧 |
-| Dimension Door | 🚧 |
+| Dimension Door | 🌍 Move a Hero up to *️⃣ field(s). Ignore any obstacles and fields in-between and resolve the last one normally.<br><br> 📖0 - *️⃣1<br>📖2 - *️⃣2<br>📖4 - *️⃣3 |
 | Fly | 🚧 |
 
 <a id="earth-magic"></a>
@@ -55,7 +55,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | :--- | :---: |
 | Anti-Magic | 🚧 |
 | Earthquake | 🚧 |
-| Magic Arrow | 🚧 |
+| Magic Arrow | ➡️ The selected unit suffers:<br><br> 📖0 - 1❤️‍🩹<br>📖1 - 2❤️‍🩹<br>📖2 - 3❤️‍🩹 |
 | Shield | 🚧 |
 | Slow | 🚧 |
 | Stone Skin | 🚧 |
@@ -67,7 +67,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Name | Effect |
 | :--- | :---: |
 | Implosion | 🚧 |
-| Resurrection | 🚧 |
+| Resurrection | ⚡️ Cancel an attack that would reduce your *️⃣ unit's ❤️ to 0. You can cast this spell immediately after the enemy unit's attack.<br><br> 📖0 - *️⃣🥉<br>📖2 - *️⃣🥉 or 🥈<br>📖4 - *️⃣🥉 or 🥈 or 🥇 |
 | Sorrow | 🚧 |
 | Town Portal | 🚧 |
 
@@ -83,7 +83,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Bloodlust | 🚧 |
 | Curse | 🚧 |
 | Fire Wall | 🚧 |
-| Magic Arrow | 🚧 |
+| Magic Arrow | ➡️ The selected unit suffers:<br><br> 📖0 - 1❤️‍🩹<br>📖1 - 2❤️‍🩹<br>📖2 - 3❤️‍🩹 |
 | Misfortune | 🚧 |
 | Visions | 🚧 |
 
@@ -96,7 +96,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Fire Shield | 🚧 |
 | Fireball | 🚧 |
 | Frenzy | 🚧 |
-| Inferno | 🚧 |
+| Inferno | ➡️ Select a space. Now roll and Attack die *️⃣. All units on this and the adjacent spaces take 1❤️‍🩹 for every "+1" rolled.<br><br> 📖0 - *️⃣once<br>📖1 - *️⃣twice<br>📖2 - *️⃣4 times |
 | Slayer | 🚧 |
 
 <a id="water-magic"></a>
@@ -111,7 +111,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Cure | 🚧 |
 | Dispel | 🚧 |
 | Forgetfulness | 🚧 |
-| Magic Arrow | 🚧 |
+| Magic Arrow | ➡️ The selected unit suffers:<br><br> 📖0 - 1❤️‍🩹<br>📖1 - 2❤️‍🩹<br>📖2 - 3❤️‍🩹 |
 | Remove Obstacle | 🚧 |
 | Weakness | 🚧 |
 
