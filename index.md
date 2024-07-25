@@ -7,7 +7,7 @@
 - ✅ [Dice](dice.md)
 - 🚧 [Events](events.md)
 - ✅ [Heroes](heroes.md)
-- 🚧 [Spells](spells.md)
+- ✅ [Spells](spells.md)
 - ✅ [Statistics](statistics.md)
 - ✅ [Units](units.md)
 
