@@ -1,8 +1,8 @@
 # Abilities
 
-| Name | Effect | 👑 Effect |
+| Name | Effect | Expert Effect |
 | :--- | :---: | :---: |
-| Air Magic | ♾️ +1📖 for spells from School of Water Magic. | While casting 🪄 from the School of Air, you can discard this card, then gain +3📖. |
+| Air Magic | ♾️ +1📖 for spells from School of [Air Magic](spells.md#air-magic). | While casting 🪄 from the [School of Air](spells.md#air-magic), you can discard this card, then gain +3📖. |
 | Archery | 🔄 During this Combat round, your Ranged units gain +1⚔️ if the target is a non-adjacent unit. |🔄 Until the end of the next Combat round, your Ranged units gain +1🤺 and +1⚔️ if the target is a non-adjacent unit. |
 | Armorer | ⚡️ +1🛡️<br>Then draw 1 card. | ⚡️ +2🛡️<br>Then draw 1 card. |
 | Artillery | ⚡️ Deal 1❤️‍🩹 to an enemy unit with the lowest 🤺. | ⚡️ When using the Ballista card, resolve its effect against the same target 3 times. |
