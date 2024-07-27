@@ -149,18 +149,18 @@ List of heroes and their specialities.
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Resurrection | I | ⚡️ Cancel an attack that would reduce your *️⃣ [unit's](units.md) ❤️ to 0.<br><br> 📖1 - *️⃣🥉<br>📖2 - *️⃣🥈<br>📖4 - *️⃣🥇 |
-| Resurrection | IV | ⚡️ Cancel an attack that would reduce your *️⃣ [unit's](units.md) ❤️ to 0.<br><br> 📖0 - *️⃣🥉<br>📖1 - *️⃣🥈<br>📖3 - *️⃣🥇 |
-| Resurrection | VI | ⚡️ Cancel an attack that would reduce your *️⃣ [unit's](units.md) ❤️ to 0.<br><br> 📖0 - *️⃣🥉<br>📖0 - *️⃣🥈<br>📖2 - *️⃣🥇 |
+| Resurrection | I | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0.<br><br> 📖1 - \*🥉<br>📖2 - \*🥈<br>📖4 - \*🥇 |
+| Resurrection | IV | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0.<br><br> 📖0 - \*🥉<br>📖1 - \*🥈<br>📖3 - \*🥇 |
+| Resurrection | VI | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0.<br><br> 📖0 - \*🥉<br>📖0 - \*🥈<br>📖2 - \*🥇 |
 
 <a id="deemer"></a>
 ### Deemer
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Meteor Shower | I | ⚡️ Select a [unit](units.md) and 1 [unit](units.md) adjacent to it. Deal *️⃣ to both selected [units](units.md).<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
+| Meteor Shower | I | ⚡️ Select a [unit](units.md) and 1 [unit](units.md) adjacent to it. Deal \* to both selected [units](units.md).<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
 | Meteor Shower | IV | ⚡️ +1📖<br>-OR-<br>⚡️ Shuffle your discard pile back into your deck, then draw 1 card. |
-| Meteor Shower | VI | ⚡️ Select a [unit](units.md) and 2 [units](units.md) adjacent to it. Deal *️⃣ to all selected [units](units.md).<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
+| Meteor Shower | VI | ⚡️ Select a [unit](units.md) and 2 [units](units.md) adjacent to it. Deal \* to all selected [units](units.md).<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
 
 <a id="jeddite"></a>
 ### Jeddite
@@ -168,7 +168,7 @@ List of heroes and their specialities.
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Mysterious Warlock | I | ⚡️ Draw up to 3 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
-| Mysterious Warlock | IV | ⚡️ Cancel an attack that would reduce your *️⃣ [unit's](units.md) ❤️ to 0.<br><br> 📖0 - *️⃣🥉 Unit<br>📖1 - *️⃣🥈 Unit<br>📖2 - *️⃣🥇 Unit |
+| Mysterious Warlock | IV | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0.<br><br> 📖0 - \*🥉 Unit<br>📖1 - \*🥈 Unit<br>📖2 - \*🥇 Unit |
 | Mysterious Warlock | VI | ⚡️ Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
 
 <a id="mutare"></a>
