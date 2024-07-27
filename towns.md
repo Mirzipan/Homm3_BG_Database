@@ -1,6 +1,7 @@
-# Heroes
+# Towns
 
 List of towns and their buildings.
+You might also want to see [heroes](heroes.md).
 
 <!-- MarkdownTOC autolink="true" autoanchor="true" -->
 
