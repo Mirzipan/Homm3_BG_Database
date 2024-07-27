@@ -1,6 +1,7 @@
 # Heroes
 
 List of heroes and their specialities.
+
 You might also want to see [towns](towns.md).
 
 <!-- MarkdownTOC autolink="true" autoanchor="true" -->
