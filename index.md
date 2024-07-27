@@ -2,7 +2,7 @@
 
 ## ⚔️ Content
 - ✅ [Abilities](abilities.md)
-- 🚧 [Artifacts](artifacts.md)
+- ✅ [Artifacts](artifacts.md)
 - ✅ [Astrologers Proclaim](astrologers_proclaim.md)
 - ✅ [Dice](dice.md)
 - 🚧 [Events](events.md)

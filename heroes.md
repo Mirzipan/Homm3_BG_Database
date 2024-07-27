@@ -59,16 +59,16 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Battlefield Medic | I | ⚡️ Discard 1 card. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 1❤️‍🩹. |
+| Battlefield Medic | I | ⚡️ Discard 1 card. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 1 ❤️‍🩹. |
 | Battlefield Medic | IV | ⚡️ Select 1 [Spell](spells.md) or Specialty card from your discard pile and put it back in your hand. |
-| Battlefield Medic | VI | ⚡️ Discard 2 cards. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 2❤️‍🩹. |
+| Battlefield Medic | VI | ⚡️ Discard 2 cards. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 2 ❤️‍🩹. |
 
 <a id="catherine"></a>
 ### Catherine
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Crusaders | I | ⚡️ Your selected [unit](units.md) gains +1⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1🛡️<br><br>This effect doubles for the [Crusaders unit](units.md#castle). |
+| Crusaders | I | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Crusaders unit](units.md#castle). |
 | Crusaders | IV | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Crusaders unit](units.md#castle). |
 | Crusaders | VI | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 1.<br><br>This effect doubles for the [Crusaders unit](units.md#castle). |
 
@@ -86,9 +86,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Battlefield Medic | I | ⚡️ Remove 1❤️‍🩹 from one of your [units](units.md), then draw 1 card. |
-| Battlefield Medic | IV | ⚡️ Remove 1❤️‍🩹 or 🐍 from one of your [units](units.md), then draw 1 card. |
-| Battlefield Medic | VI | ⚡️ Remove up to 2❤️‍🩹 or 🐍 from one of your [units](units.md), then draw 2 cards and discard 1 card from your hand. |
+| Battlefield Medic | I | ⚡️ Remove 1 ❤️‍🩹 from one of your [units](units.md), then draw 1 card. |
+| Battlefield Medic | IV | ⚡️ Remove 1 ❤️‍🩹 or 🐍 from one of your [units](units.md), then draw 1 card. |
+| Battlefield Medic | VI | ⚡️ Remove up to 2 ❤️‍🩹 or 🐍 from one of your [units](units.md), then draw 2 cards and discard 1 card from your hand. |
 
 <a id="necropolis"></a>
 ## Necropolis
@@ -123,7 +123,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Dread Knights | I | ⚡️ Your selected [unit](units.md) gains +1⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1🛡️<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
+| Dread Knights | I | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
 | Dread Knights | IV | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
 | Dread Knights | VI | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 1.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
 
@@ -160,9 +160,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Meteor Shower | I | ⚡️ Select a [unit](units.md) and 1 [unit](units.md) adjacent to it. Deal \* to both selected [units](units.md).<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
-| Meteor Shower | IV | ⚡️ +1📖<br>-OR-<br>⚡️ Shuffle your discard pile back into your deck, then draw 1 card. |
-| Meteor Shower | VI | ⚡️ Select a [unit](units.md) and 2 [units](units.md) adjacent to it. Deal \* to all selected [units](units.md).<br><br> 📖0 - 1❤️‍🩹<br>📖2 - 2❤️‍🩹<br>📖4 - 3❤️‍🩹 |
+| Meteor Shower | I | ⚡️ Select a [unit](units.md) and 1 [unit](units.md) adjacent to it. Deal \* to both selected [units](units.md).<br><br> 📖0 - 1 ❤️‍🩹<br>📖2 - 2 ❤️‍🩹<br>📖4 - 3 ❤️‍🩹 |
+| Meteor Shower | IV | ⚡️ +1 📖<br>-OR-<br>⚡️ Shuffle your discard pile back into your deck, then draw 1 card. |
+| Meteor Shower | VI | ⚡️ Select a [unit](units.md) and 2 [units](units.md) adjacent to it. Deal \* to all selected [units](units.md).<br><br> 📖0 - 1 ❤️‍🩹<br>📖2 - 2 ❤️‍🩹<br>📖4 - 3 ❤️‍🩹 |
 
 <a id="jeddite"></a>
 ### Jeddite
@@ -178,7 +178,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Dragons | I | ⚡️ Your selected [unit](units.md) gains +1⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1🛡️<br><br>This effect doubles for a Dragons [unit](units.md). |
+| Dragons | I | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for a Dragons [unit](units.md). |
 | Dragons | IV | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for a Dragons [unit](units.md). |
 | Dragons | VI | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 1.<br><br>This effect doubles for a Dragons [unit](units.md). |
 
@@ -197,7 +197,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Enchanters | I | ⚡️ Your selected [unit](units.md) gains +1⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1🛡️<br><br>This effect doubles for the [Magi](units.md#tower) and [Enchanters units](units.md#neutral). |
+| Enchanters | I | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Magi](units.md#tower) and [Enchanters units](units.md#neutral). |
 | Enchanters | IV | 🌍 If you have a [Pack of Magi Unit](units.md#tower) card, discard it. Then, search the [Neutral Unit](units.md#neutral) 🥇 deck for the [Enchanters](units.md#neutral) card and add it to your Unit deck. You can control only 1 [Enchanters unit](units.md#neutral) at a time.<br>-OR-<br>⚡️ Draw a card. |
 | Enchanters | VI | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 2.<br><br>This effect doubles for the [Magi](units.md#tower) and [Enchanters units](units.md#neutral). |
 
@@ -207,8 +207,8 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Genies | I | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Genies unit](units.md#tower). |
-| Genies | IV | ⚡️ Your selected [unit](units.md) gains +1⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1🛡️<br><br>This effect doubles for the [Genies unit](units.md#tower). |
-| Genies | VI | ⚡️ Your selected [unit](units.md) gains +2🛡️<br><br>This effect doubles for the [Genies unit](units.md#tower). |
+| Genies | IV | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Genies unit](units.md#tower). |
+| Genies | VI | ⚡️ Your selected [unit](units.md) gains +2 🛡️<br><br>This effect doubles for the [Genies unit](units.md#tower). |
 
 <a id="josephine"></a>
 ### Josephine
@@ -216,8 +216,8 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Golems | I | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Golems unit](units.md#tower). |
-| Golems | IV | ⚡️ Your selected [unit](units.md) gains +1⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1🛡️<br><br>This effect doubles for the [Golems unit](units.md#tower). |
-| Golems | VI | ⚡️ Your selected [unit](units.md) gains +2⚔️<br><br>This effect doubles for the [Golems unit](units.md#tower). |
+| Golems | IV | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Golems unit](units.md#tower). |
+| Golems | VI | ⚡️ Your selected [unit](units.md) gains +2 ⚔️<br><br>This effect doubles for the [Golems unit](units.md#tower). |
 
 <a id="solmyr"></a>
 ### Solmyr
@@ -244,7 +244,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Unicorns | I | ⚡️ Your selected [unit](units.md) gains +1⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1🛡️<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
+| Unicorns | I | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
 | Unicorns | IV | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 1.<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
 | Unicorns | VI | 🔄 For this Combat, your selected [unit](units.md) reduces any ❤️‍🩹 it takes from spells by 1 - to a minimum of 0.<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
 
@@ -253,8 +253,8 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Sharpshooters | I | ⚡️ Your selected [unit](units.md) gains +1⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1🛡️<br><br>This effect doubles for the [Elves](units.md#rampart) and [Sharpshooters units](units.md#neutral). |
-| Sharpshooters | IV | 🌍 If you have a [Pack of Elves Unit](units.md#rampart) card, discard it. Then, search the [Neutral Unit](units.md) 🥈 deck for the [Sharpshooters](units.md#neutral) card and add it to your Unit deck. You can control only 1 [Sharpshooters](units.md#neutral) [unit](units.md) at a time.<br>-OR-<br>⚡️ Draw a card. |
+| Sharpshooters | I | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Elves](units.md#rampart) and [Sharpshooters units](units.md#neutral). |
+| Sharpshooters | IV | 🌍 If you have a [Pack of Elves Unit](units.md#rampart) card, discard it. Then, search the [Neutral Unit](units.md) 🥈 deck for the [Sharpshooters](units.md#neutral) card and add it to your [Unit](units.md) deck. You can control only 1 [Sharpshooters](units.md#neutral) [unit](units.md) at a time.<br>-OR-<br>⚡️ Draw a card. |
 | Sharpshooters | VI | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 2.<br><br>This effect doubles for the [Elves](units.md#rampart) and [Sharpshooters units](units.md#neutral). |
 
 <a id="gem"></a>
@@ -263,7 +263,7 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | First Aid | I | ⚡️ Take a [First Aid Tent](war_machines.md) card from the [War Machine](war_machines.md) deck at no cost.<br>-OR-<br>⚡️ If you already have a [First Aid Tent](war_machines.md), draw 1 card. |
-| First Aid | IV | ⚡️ Remove 2❤️‍🩹 from one of your [units](units.md). |
+| First Aid | IV | ⚡️ Remove 2 ❤️‍🩹 from one of your [units](units.md). |
 | First Aid | VI | 🔄 For this Combat, double your [First Aid Tent's](war_machines.md) effect. |
 
 <a id="mephala"></a>
@@ -271,7 +271,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Armorer | I | ⚡️ +2🛡️ |
+| Armorer | I | ⚡️ +2 🛡️ |
 | Armorer | IV | ⚡️ +3🛡️ |
 | Armorer | VI | ⚡️ +4🛡️ |
 
@@ -290,16 +290,16 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Fire Magic | I | 🔄 During this Combat, all your spells from the [School of Fire Magic](spells.md#fire-magic) are cast with +1📖. |
+| Fire Magic | I | 🔄 During this Combat, all your spells from the [School of Fire Magic](spells.md#fire-magic) are cast with +1 📖. |
 | Fire Magic | IV | ⚡️ **Search (3)** your deck, then shuffle your cards from the discard pile into the deck. |
-| Fire Magic | VI | 🔄 During this Combat, all your spells from the [School of Fire Magic](spells.md#fire-magic) are cast with +2📖. |
+| Fire Magic | VI | 🔄 During this Combat, all your spells from the [School of Fire Magic](spells.md#fire-magic) are cast with +2 📖. |
 
 <a id="bron"></a>
 ### Bron
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Basilisks | I | ⚡️ Your selected [unit](units.md) gains +1⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1🛡️<br><br>This effect doubles for the [Basilisks unit](units.md#fortress). |
+| Basilisks | I | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Basilisks unit](units.md#fortress). |
 | Basilisks | IV | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Basilisks unit](units.md#fortress). |
 | Basilisks | VI | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 2.<br><br>This effect doubles for the [Basilisks unit](units.md#fortress). |
 
@@ -308,8 +308,8 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| War Hero | I | ⚡️ +2🛡️ |
-| War Hero | IV | 🔄 For this Combat, your selected [unit](units.md) gains +1🛡️. |
+| War Hero | I | ⚡️ +2 🛡️ |
+| War Hero | IV | 🔄 For this Combat, your selected [unit](units.md) gains +1 🛡️. |
 | War Hero | VI | 🌍 Fron your hand, Remove 1 card or Discard 3 cards to draw an [Artifact](artifacts.md) card from the top of the [Artifact](artifacts.md) deck. |
 
 <a id="wystan"></a>
@@ -317,7 +317,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Lizardmen | I | ⚡️ Your selected [unit](units.md) gains +1⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1🛡️<br><br>This effect doubles for the [Lizardmen unit](units.md#fortress). |
+| Lizardmen | I | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Lizardmen unit](units.md#fortress). |
 | Lizardmen | IV | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Lizardmen unit](units.md#fortress). |
 | Lizardmen | VI | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 2.<br><br>This effect doubles for the [Lizardmen unit](units.md#fortress). |
 
@@ -336,33 +336,33 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Cerberi | I | ⚡️ Your selected [unit](units.md) gains +1⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1🛡️<br><br>This effect doubles for the [Cerberi unit](units.md#inferno). |
+| Cerberi | I | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Cerberi unit](units.md#inferno). |
 | Cerberi | IV | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Cerberi unit](units.md#inferno). |
-| Cerberi | VI | ⚡️ Your selected [unit](units.md) gains +2⚔️<br><br>This effect doubles for the [Cerberi unit](units.md#inferno). |
+| Cerberi | VI | ⚡️ Your selected [unit](units.md) gains +2 ⚔️<br><br>This effect doubles for the [Cerberi unit](units.md#inferno). |
 
 <a id="rashka"></a>
 ### Rashka
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Efreet | I | ⚡️ Your selected [unit](units.md) gains +1⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1🛡️<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
-| Efreet | IV | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 🦶 or 🪽 [unit](units.md), the attacker takes 1❤️‍🩹. |
-| Efreet | VI | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 🦶 or 🪽 [unit](units.md), the attacker takes 1❤️‍🩹.<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
+| Efreet | I | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br>-OR-<br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
+| Efreet | IV | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 🦶 or 🪽 [unit](units.md), the attacker takes 1 ❤️‍🩹. |
+| Efreet | VI | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 🦶 or 🪽 [unit](units.md), the attacker takes 1 ❤️‍🩹.<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
 
 <a id="xyron"></a>
 ### Xyron
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Inferno | I | ➡️ Discard 2 cards. Then select a space. All [units](units.md) on this and the adjacent spaces take 1❤️‍🩹. |
-| Inferno | IV | ➡️ Discard 1 card. Then select a space. All [units](units.md) on this and the adjacent spaces take 1❤️‍🩹. |
-| Inferno | VI | ➡️ Select a space. All [units](units.md) on this and the adjacent spaces take 1❤️‍🩹. |
+| Inferno | I | ➡️ Discard 2 cards. Then select a space. All [units](units.md) on this and the adjacent spaces take 1 ❤️‍🩹. |
+| Inferno | IV | ➡️ Discard 1 card. Then select a space. All [units](units.md) on this and the adjacent spaces take 1 ❤️‍🩹. |
+| Inferno | VI | ➡️ Select a space. All [units](units.md) on this and the adjacent spaces take 1 ❤️‍🩹. |
 
 <a id="zydar"></a>
 ### Zydar
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Sorcery | I | ⚡️ Play this card after casting a [🪄](spells.md), then draw 1 card.<br>-OR-<br>⚡️ +1📖 |
-| Sorcery | IV | ⚡️ The next [🪄](spells.md) you cast does not count toward the limit.<br>-OR-<br>⚡️ +2📖 |
-| Sorcery | VI | 🔄 Until the end of the Combat round, after casting a [🪄](spells.md), draw 1 card.<br><br>⚡️ +2📖 |
+| Sorcery | I | ⚡️ Play this card after casting a [🪄](spells.md), then draw 1 card.<br>-OR-<br>⚡️ +1 📖 |
+| Sorcery | IV | ⚡️ The next [🪄](spells.md) you cast does not count toward the limit.<br>-OR-<br>⚡️ +2 📖 |
+| Sorcery | VI | 🔄 Until the end of the Combat round, after casting a [🪄](spells.md), draw 1 card.<br><br>⚡️ +2 📖 |
