@@ -31,24 +31,24 @@ You might also want to see individual [fields](fields.md).
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | F1 | Dirt | Ⅲ<br><br>[Necropolis Settlement](towns.md#necropolis) | Windmill | ❌ | - | Ⅱ<br><br>[Artifact](artifacts.md) | Trading Post | Stables |
 | F2 | Subterranean | Trading Post | Ⅲ<br><br>[Dungeon Settlement](towns.md#dungeon) | [Shrine of Magic Incantation](spells.md) | - | Magic Spring | ❌ | [Artifact](artifacts.md) |
-| F3 | Grass | Water Wheel | Experience | Ⅲ<br><br>[Castle Settlement](towns.md#castle) | Ⅱ<br><br>[Artifact](artifacts.md) | Stables | - | ❌ |
+| F3 | Grass | Water Wheel | Learning Stone | Ⅲ<br><br>[Castle Settlement](towns.md#castle) | Ⅱ<br><br>[Artifact](artifacts.md) | Stables | - | ❌ |
 | F4 | Dirt | Ⅲ<br><br>🟡 Mine | Ⅱ<br><br>Magic Spring | Water Wheel | ❌ | Trading Post | Temple | - |
-| F5 | Subterranean | Ⅲ<br><br>🟡 Mine | Ⅱ<br><br>Mystical Garden | - | Redwood Observatory | ❌ | Trading Post | Experience |
+| F5 | Subterranean | Ⅲ<br><br>🟡 Mine | Ⅱ<br><br>Mystical Garden | - | Redwood Observatory | ❌ | Trading Post | Learning Stone |
 | F6 | Grass | Ⅱ<br><br>[Artifact](artifacts.md) | Trading Post | Water Wheel | ❌ | [Shrine of Magic Incantation](spells.md) | - | Ⅲ<br><br>🟡 Mine |
-| F7 | Dirt | Ⅱ<br><br>Treasure | ❌ | Experience | [Shrine of Magic Gesture](spells.md) | - | Redwood Observatory | Ⅲ<br><br>🔴 Mine |
+| F7 | Dirt | Ⅱ<br><br>Treasure | ❌ | Learning Stone | [Shrine of Magic Gesture](spells.md) | - | Redwood Observatory | Ⅲ<br><br>🔴 Mine |
 | F8 | Subterranean | Stables | - | Temple | Ⅲ<br><br>🔴 Mine | Windmill | Ⅱ<br><br>Treasure | ❌ |
-| F9 | Grass | - | Ⅲ<br><br>🔴 Mine | ❌ | Redwood Observatory | Fountain of Youth | Ⅱ<br><br>Treasure | Experience |
-| F10 | Grass | Ⅲ<br><br>[Rampart Settlement](towns.md#rampart) | Trading Post | ❌ | Windmill | Ⅱ<br><br>Magic Spring | - | Experience |
+| F9 | Grass | - | Ⅲ<br><br>🔴 Mine | ❌ | Redwood Observatory | Fountain of Youth | Ⅱ<br><br>Treasure | Learning Stone |
+| F10 | Grass | Ⅲ<br><br>[Rampart Settlement](towns.md#rampart) | Trading Post | ❌ | Windmill | Ⅱ<br><br>Magic Spring | - | Learning Stone |
 | F11 | Grass | [Shrine of Magic Gesture](spells.md) | Ⅲ<br><br>🟡 Mine | Trading Post | Ⅱ<br><br>Mystical Garden | Temple | - | ❌ |
 | F12 | Grass | Ⅱ<br><br>Witch Hut | ❌ | [Artifact](artifacts.md) | War Machine Factory | Mystical Garden | Ⅲ<br><br>🔴 Mine | - |
-| F13 | Swamp | Water Wheel | ❌ | Ⅱ<br><br>Treasure | Scholar | Experience | - | Ⅲ<br><br>[Fortress Settlement](towns.md#fortress) |
+| F13 | Swamp | Water Wheel | ❌ | Ⅱ<br><br>Treasure | Scholar | Learning Stone | - | Ⅲ<br><br>[Fortress Settlement](towns.md#fortress) |
 | F14 | Swamp | Ⅲ<br><br>🟡 Mine | Windmill | - | ❌ | Stables | Ⅱ<br><br>[Artifact](artifacts.md) | Treasure |
 | F15 | Swamp | Trading Post | Witch Hut | Redwood Observatory | Ⅲ<br><br>🔴 Mine | Ⅱ<br><br>Scholar | ❌ | - |
-| F16 | Dirt | [Shrine of Magic Incantation](spells.md) | Ⅲ<br><br>[Inferno Settlement](towns.md#inferno) | Experience | - | Ⅱ<br><br>[Artifact](artifacts.md) | ❌ | Windmill |
+| F16 | Dirt | [Shrine of Magic Incantation](spells.md) | Ⅲ<br><br>[Inferno Settlement](towns.md#inferno) | Learning Stone | - | Ⅱ<br><br>[Artifact](artifacts.md) | ❌ | Windmill |
 | F17 | Dirt | - | Ⅱ<br><br>Magic Spring | Ⅲ<br><br>🟡 Mine | Star Axis | Water Wheel | Stables | ❌ |
 | F18 | Dirt | Windmill | ❌ | Ⅱ<br><br>Witch Hut | Ⅲ<br><br>🔴 Mine | Tree of Knowledge | - | Trading Post |
 | #F1 | Snow | - | Windmill | Ⅲ<br><br>[Tower Settlement](towns.md#tower) | ❌ | Ⅱ<br><br>Treasure | Stables | Witch Hut |
-| #F2 | Snow | Trading Post | Ⅱ<br><br>[Artifact](artifacts.md) | Resources | - | Experience | ❌ | Ⅲ<br><br>🟡 Mine |
+| #F2 | Snow | Trading Post | Ⅱ<br><br>[Artifact](artifacts.md) | Resources | - | Learning Stone | ❌ | Ⅲ<br><br>🟡 Mine |
 | #F3 | Snow | ❌ | Redwood Observatory | Ⅱ<br><br>Mystical Garden | Ⅲ<br><br>🔴 Mine | [Shrine of Magic Incantation](spells.md) | - | Water Wheel |
 | #F4 | Grass |  Water Wheel | [Shrine of Magic Incantation](spells.md) | Witch Hut | Ⅲ<br><br>⚫️ Mine | ❌ | Trading Post | Ⅱ<br><br>Market of Time |
 | #F5 | Subterranean | ❌ | Black Market | Ⅲ<br><br>⚫️ Mine | Treasure | Ⅱ<br><br>Magic Spring | Water Wheel | Mystical Garden |
