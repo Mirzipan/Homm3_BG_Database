@@ -19,7 +19,7 @@ You might also want to see [heroes](heroes.md).
 <a id="castle"></a>
 ## Castle
 
-| Name | Cost | Effect |
+| Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | Blacksmith | 4 🟡<br>3 ⚫️<br>0 🔴 | During your turn, choose one:<br><br>**1.** Remove an [⚜️](artifacts.md) card from your hand to gain 4 🟡.<br><br>**2.** 🫳 6 🟡 to **Search(2)** [⚜️](artifacts.md). |
 | Brotherhood of the Sword | 8 🟡<br>4 ⚫️<br>0 🔴 | At the beginning of each Resource round, gain a 💛. |
@@ -33,7 +33,7 @@ You might also want to see [heroes](heroes.md).
 <a id="necropolis"></a>
 ## Necropolis
 
-| Name | Cost | Effect |
+| Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | Citadel | 8 🟡<br>5 ⚫️<br>1 🔴 | Unlocks **Reinforcing** [units](units.md#necropolis). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
 | City Hall | 10 🟡<br>4 ⚫️<br>0 🔴 | At the beginning of each Resource round, choose:<br>⚡️ 4 🟡<br>-OR-<br>⚡️**Reinforce 1** 🥉 for free. |
@@ -47,7 +47,7 @@ You might also want to see [heroes](heroes.md).
 <a id="dungeon"></a>
 ## Dungeon
 
-| Name | Cost | Effect |
+| Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | Ancient Lairs | 10 🟡<br>9 ⚫️<br>4 🔴 | Unlocks **Recruiting** of 🥇 [units](units.md#dungeon). |
 | Citadel | 8 🟡<br>5 ⚫️<br>1 🔴 | Unlocks **Reinforcing** [units](units.md#dungeon). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
@@ -61,7 +61,7 @@ You might also want to see [heroes](heroes.md).
 <a id="tower"></a>
 ## Tower
 
-| Name | Cost | Effect |
+| Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | Alchemical Workshop | 5 🟡<br>3 ⚫️<br>1 🔴 | Unlocks **Recruiting** of 🥉 [units](units.md#tower). |
 | Artifact Merchants | 8 🟡<br>6 ⚫️<br>1 🔴 | During your turn, choose one:<br><br>**1.** 🫳 7 🟡 to **Search(2)** [⚜️](artifacts.md).<br><br>**2.** Remove an [Artifact](artifacts.md) card from your hand to gain 2 🟡. |
@@ -75,7 +75,7 @@ You might also want to see [heroes](heroes.md).
 <a id="rampart"></a>
 ## Rampart
 
-| Name | Cost | Effect |
+| Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | Citadel | 8 🟡<br>5 ⚫️<br>1 🔴 | Unlocks **Reinforcing** [units](units.md#rampart). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
 | City Hall | 10 🟡<br>6 ⚫️<br>0 🔴 | At the beginning of each Resource round, gain ⚡️ 7 🟡. |
@@ -89,7 +89,7 @@ You might also want to see [heroes](heroes.md).
 <a id="fortress"></a>
 ## Fortress
 
-| Name | Cost | Effect |
+| Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | Blood Obelisk | 6 🟡<br>6 ⚫️<br>0 🔴 | At the beginning of each Resource round or instantly, after your Town has been sieged, you can **Search(4)** your discard pile. |
 | Cage of Warlords | 6 🟡<br>4 ⚫️<br>1 🔴 | When built and at the beginning of each Resource round, place a faction cube here (to a maximum of 2). During any Combat, a player can remove them to gain +1⚔️ or +1🛡️ per 1 cube. |
@@ -103,7 +103,7 @@ You might also want to see [heroes](heroes.md).
 <a id="inferno"></a>
 ## Inferno
 
-| Name | Cost | Effect |
+| Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | Brimstone Stormclouds | 6 🟡<br>3 ⚫️<br>2 🔴 | When built and at the beginning of each [Astrologer's round](astrologers_proclaim.md), place your faction cube here (to a maximum of 3). During any Combat, you can remove them to gain +1📖 per 1 cube. Only one cube can be used per 1 [🪄](spells.md). |
 | Castle Gate | 7 🟡<br>5 ⚫️<br>0 🔴 | During your turn, choose one:<br><br>**1.** 🫳 3 🟡 to discard 1 random card from your opponent's hand.<br><br>**2.** If your [Hero](heroes.md#inferno) is in a Town or Settlement, move them to another Town or Settlement under your control. |
