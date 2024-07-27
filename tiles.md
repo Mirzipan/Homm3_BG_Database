@@ -89,5 +89,4 @@ You might also want to see individual [fields](fields.md).
 | C3 | Grass | War Machine Factory | Warrior's Tomb | ❌ | Ⅶ<br><br>Dragon Utopia | Trading Post | Ⅵ<br><br>Pandora's Box | Ⅵ<br><br>Magic Spring |
 | C4 | Swamp | Sanctuary | Ⅵ<br><br>Scholar | ❌ | Ⅶ<br><br>Grail | Trading Post | Mystical Garden | Ⅵ<br><br>Temple |
 | C5 | Dirt | Ⅵ<br><br>Tree of Knowledge | Warrior's Tomb | ❌ | Ⅶ<br><br>[Random Town](towns.md) | Temple | Ⅵ<br><br>Star Axis | Sanctuary |
-| #C1 | Snow | [Shrine of Magic Gesture](spells.md) | Ⅵ<br><br>⚫️ Mine | Ⅵ<br><br>Warrior's Tomb | Ⅶ<br><br>[Tower Settlement](towns.md#tower
-) | Sanctuary | Water Wheel | ❌ |
+| #C1 | Snow | [Shrine of Magic Gesture](spells.md) | Ⅵ<br><br>⚫️ Mine | Ⅵ<br><br>Warrior's Tomb | Ⅶ<br><br>[Tower Settlement](towns.md#tower) | Sanctuary | Water Wheel | ❌ |
