@@ -230,6 +230,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 <a id="other"></a>
 # Other
+
 | Name | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
 | Arrow Tower | 🏹 | 4 | 2 | 3 | 9 | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed.<br>⏳ It can only be attack by 🏹 attacks or card effects. |

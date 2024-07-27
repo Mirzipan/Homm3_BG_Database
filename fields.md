@@ -12,6 +12,7 @@ Field are single cells on a [tile](tiles.md).
 
 <a id="flaggable"></a>
 ## Flaggable
+
 | Name | Effect |
 | :--- | :--- |
 | Dragon Utopia | Effects depend on the Scenario. |
