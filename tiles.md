@@ -43,4 +43,9 @@ You might also want to see individual [fields](fields.md).
 
 | Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| #C1 | Tower | Shrine of Magic Gesture | Ⅵ<br><br>⚫️ Mine | Ⅵ<br><br>Warrior's Tomb | Ⅶ<br><br>[Tower Settlement] | Sanctuary | Water Wheel | ❌ |
+| C1 | Dungeon | Ⅵ<br><br>Pandora's Box | Fountain of Youth | Warrior's Tomb | Ⅶ<br><br>Dragon Utopia | ❌ | Mystical Garden | Ⅵ<br><br>Shrine of Magic Gesture |
+| C2 | Dungeon | Ⅵ<br><br>Tree of Knowledge | Shrine of Magic Gesture | Mystical Garden | Ⅶ<br><br>Grail | Temple | Ⅵ<br><br>Pandora's Box | ❌ |
+| C3 | Castle | War Machine Factory | Warrior's Tomb | ❌ | Ⅶ<br><br>Dragon Utopia | Trading Post | Ⅵ<br><br>Pandora's Box | Ⅵ<br><br>Magic Spring |
+| C4 | Fortress | Sanctuary | Ⅵ<br><br>Scholar | ❌ | Ⅶ<br><br>Grail | Trading Post | Mystical Garden | Ⅵ<br><br>Temple |
+| C5 | Inferno | Ⅵ<br><br>Tree of Knowledge | Warrior's Tomb | ❌ | Ⅶ<br><br>[Random Town](towns.md) | Temple | Ⅵ<br><br>Star Axis | Sanctuary |
