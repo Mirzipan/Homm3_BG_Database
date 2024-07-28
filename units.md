@@ -164,6 +164,8 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 <a id="stronghold"></a>
 ## Stronghold
 
+🔮 Unrelased and incomplete content.
+
 | Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Goblins | Few | 🥉 | 👣 | 1 | 0 | 4 | 6 | 1 🟡 | - |
@@ -184,7 +186,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 <a id="conflux"></a>
 ## Conflux
 
-🚧 Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
+🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
 
 | Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
@@ -206,7 +208,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 <a id="cove"></a>
 ## Cove
 
-🚧 Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
+🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
 
 | Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |

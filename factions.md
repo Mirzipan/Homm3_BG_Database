@@ -134,6 +134,8 @@ List of all factions.
 <a id="stronghold"></a>
 ## Stronghold
 
+🔮 Unrelased and incomplete content.
+
 <a id="heroes-7"></a>
 ### [Heroes](heroes.md#stronghold)
 
@@ -146,6 +148,8 @@ List of all factions.
 <a id="conflux"></a>
 ## Conflux
 
+🔮 Unrelased and incomplete content.
+
 <a id="heroes-8"></a>
 ### [Heroes](heroes.md#conflux)
 
@@ -157,6 +161,8 @@ List of all factions.
 
 <a id="cove"></a>
 ## Cove
+
+🔮 Unrelased and incomplete content.
 
 <a id="heroes-9"></a>
 ### [Heroes](heroes.md#cove)

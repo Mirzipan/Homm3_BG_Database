@@ -120,6 +120,8 @@ You might also want to see [heroes](heroes.md).
 <a id="stronghold"></a>
 ## Stronghold
 
+🔮 Unrelased and incomplete content.
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 12 🟡<br>5 ⚫️<br>0 🔴 | At the beginning of each Resource round, choose:<br>⚡️ Draw 2 cards from M&M Deck.<br><br>— OR —<br><br>⚡️ 2 ⚫️ |
@@ -134,6 +136,8 @@ You might also want to see [heroes](heroes.md).
 <a id="conflux"></a>
 ## Conflux
 
+🔮 Unrelased and incomplete content.
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 🚧 | At the beginning of each Resource round, choose:<br>🔄️ +1 🃏 for this round.<br><br>— OR —<br><br>⚡️ Buying spells in this Town is for free. |
@@ -147,6 +151,8 @@ You might also want to see [heroes](heroes.md).
 
 <a id="cove"></a>
 ## Cove
+
+🔮 Unrelased and incomplete content.
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |

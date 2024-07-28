@@ -376,6 +376,8 @@ You might also want to see [towns](towns.md).
 <a id="stronghold"></a>
 ## Stronghold
 
+🔮 Unrelased and incomplete content.
+
 | Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | Crag Hack | Barbarian | 4 | 0 | 1 | 1 | Offense | Offense |
@@ -404,6 +406,8 @@ You might also want to see [towns](towns.md).
 <a id="conflux"></a>
 ## Conflux
 
+🔮 Unrelased and incomplete content.
+
 | Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | Luna | Elementalist | 0 | 0 | 2 | 3 | Fire Wall | Fire Magic |
@@ -422,6 +426,8 @@ You might also want to see [towns](towns.md).
 
 <a id="cove"></a>
 ## Cove
+
+🔮 Unrelased and incomplete content.
 
 | Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
