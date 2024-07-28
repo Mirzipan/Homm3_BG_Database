@@ -10,6 +10,8 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 - [Far](#far)
 - [Near](#near)
 - [Center](#center)
+- [Underground](#underground)
+- [Water](#water)
 
 <!-- /MarkdownTOC -->
 
@@ -24,6 +26,9 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 | S4 | Grass | - | [Resources](fields.md#visitable) | Ⅰ<br><br>⚫️ [Mine](fields.md#flaggable) | [Rampart Town](towns.md#rampart) | ❌ | Ⅰ<br><br>[Treasure](fields.md#visitable) | - |
 | S5 | Swamp | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | ❌ | [Fortress Town](towns.md#fortress) | [Resources](fields.md#visitable) | - | Ⅰ<br><br>⚫️ [Mine](fields.md#flaggable) |
 | S6 | Dirt | [Resources](fields.md#visitable) | Ⅰ<br><br>⚫️ [Mine](fields.md#flaggable) | - | [Inferno Town](towns.md#inferno) | ❌ | Ⅰ<br><br>[Treasure](fields.md#visitable) | - |
+| S7 | Rough | [Resources](fields.md#visitable) | Ⅰ<br><br>⚫️ [Mine](fields.md#flaggable) | - | [Stronghold Town](towns.md#stronghold) | ❌ | Ⅰ<br><br>[Treasure](fields.md#visitable) | - |
+| S8 | Grass | [Resources](fields.md#visitable) | - | ❌| [Conflux Town](towns.md#conflux) | Ⅰ<br><br>[Treasure](fields.md#visitable) |Ⅰ<br><br>⚫️ [Mine](fields.md#flaggable) | - |
+| S9 | Highlands | Ⅰ<br><br>⚫️ [Mine](fields.md#flaggable) | - | ❌| [Cove Town](towns.md#cove) | - | Ⅰ<br><br>[Treasure](fields.md#visitable) | [Resources](fields.md#visitable) |
 | #S1 | Snow | Ⅰ<br><br>⚫️ [Mine](fields.md#flaggable) | ❌ | - | [Tower Town](towns.md#tower) | - | [Resources](fields.md#visitable) | Ⅰ<br><br>[Treasure](fields.md#visitable) |
 
 <a id="far"></a>
@@ -49,6 +54,9 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 | F16 | Dirt | [Shrine of Magic Incantation](spells.md) | Ⅲ<br><br>[Inferno Settlement](towns.md#inferno) | Learning Stone | - | Ⅱ<br><br>[Artifact](artifacts.md) | ❌ | [Windmill](fields.md#visitable) |
 | F17 | Dirt | - | Ⅱ<br><br>Magic Spring | Ⅲ<br><br>🟡 [Mine](fields.md#flaggable) | Star Axis | Water Wheel | [Stables](fields.md#revisitable) | ❌ |
 | F18 | Dirt | [Windmill](fields.md#visitable) | ❌ | Ⅱ<br><br>Witch Hut | Ⅲ<br><br>🔴 [Mine](fields.md#flaggable) | Tree of Knowledge | - | [Trading Post](fields.md#revisitable) |
+| F19 | Rough | - | Ⅱ<br><br>Learning Stone | Temple | ❌ | Stables | Ⅲ<br><br>[Stronghold Settlement](towns.md#stronghold) | [Shrine of Magic Incantation](spells.md) |
+| F20 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| F21 | Rough | Ⅲ<br><br>🔴 [Mine](fields.md#flaggable) | 🚧 | ❌ | - | Ⅱ<br><br>Mystical Garden | Redwood Observatory | Fountain of Youth |
 | #F1 | Snow | - | [Windmill](fields.md#visitable) | Ⅲ<br><br>[Tower Settlement](towns.md#tower) | ❌ | Ⅱ<br><br>[Treasure](fields.md#visitable) | [Stables](fields.md#revisitable) | Witch Hut |
 | #F2 | Snow | [Trading Post](fields.md#revisitable) | Ⅱ<br><br>[Artifact](artifacts.md) | [Resources](fields.md#visitable) | - | Learning Stone | ❌ | Ⅲ<br><br>🟡 [Mine](fields.md#flaggable) |
 | #F3 | Snow | ❌ | Redwood Observatory | Ⅱ<br><br>Mystical Garden | Ⅲ<br><br>🔴 [Mine](fields.md#flaggable) | [Shrine of Magic Incantation](spells.md) | - | Water Wheel |
@@ -92,3 +100,20 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 | C4 | Swamp | Sanctuary | Ⅵ<br><br>Scholar | ❌ | Ⅶ<br><br>Grail | [Trading Post](fields.md#revisitable) | Mystical Garden | Ⅵ<br><br>Temple |
 | C5 | Dirt | Ⅵ<br><br>Tree of Knowledge | Warrior's Tomb | ❌ | Ⅶ<br><br>[Random Town](towns.md) | Temple | Ⅵ<br><br>Star Axis | Sanctuary |
 | #C1 | Snow | [Shrine of Magic Gesture](spells.md) | Ⅵ<br><br>⚫️ [Mine](fields.md#flaggable) | Ⅵ<br><br>Warrior's Tomb | Ⅶ<br><br>[Tower Settlement](towns.md#tower) | Sanctuary | Water Wheel | ❌ |
+
+<a id="underground"></a>
+## Underground
+
+| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| U1 | Subterranean | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| U2 | Subterranean | 🚧 | ❌ | - | Ⅴ<br><br>⚫️ [Mine](fields.md#flaggable) | Magic Spring | [Resources](fields.md#visitable) | Witch Hut |
+
+<a id="water"></a>
+## Water
+
+| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| W1 | Water | Ⅴ<br><br>🟡 [Mine](fields.md#flaggable) | [Resources](fields.md#visitable) | - | [Shrine of Magic Incantation](spells.md) | Learning Stone | ❌ | [Artifact](artifacts.md) |
+| W2 | Water | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| W3 | Water | 🚧 | Ⅳ<br><br>[2 Resources](fields.md#visitable) | [Shrine of Magic Incantation](spells.md) | Tree of Knowledge | - | 🚧 | Ⅴ<br><br>⚫️ [Mine](fields.md#flaggable) |

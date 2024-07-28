@@ -41,6 +41,12 @@ You might also want to see [towns](towns.md).
 	- [Rashka](#rashka)
 	- [Xyron](#xyron)
 	- [Zydar](#zydar)
+- [Stronghold](#stronghold)
+	- [Crag Hack](#crag-hack)
+	- [Vog](#vog)
+- [Conflux](#conflux)
+	- [Luna](#luna)
+- [Cove](#cove)
 
 <!-- /MarkdownTOC -->
 
@@ -346,8 +352,8 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Efreet | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
-| Efreet | Ⅳ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 🦶 or 🪽 [unit](units.md), the attacker takes 1 ❤️‍🩹. |
-| Efreet | Ⅵ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 🦶 or 🪽 [unit](units.md), the attacker takes 1 ❤️‍🩹.<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
+| Efreet | Ⅳ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 👣 or 🪽 [unit](units.md), the attacker takes 1 ❤️‍🩹. |
+| Efreet | Ⅵ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 👣 or 🪽 [unit](units.md), the attacker takes 1 ❤️‍🩹.<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
 
 <a id="xyron"></a>
 ### Xyron
@@ -366,3 +372,60 @@ You might also want to see [towns](towns.md).
 | Sorcery | Ⅰ | ⚡️ Play this card after casting a [🪄](spells.md), then draw 1 card.<br><br>— OR —<br><br>⚡️ +1 📖 |
 | Sorcery | Ⅳ | ⚡️ The next [🪄](spells.md) you cast does not count toward the limit.<br><br>— OR —<br><br>⚡️ +2 📖 |
 | Sorcery | Ⅵ | 🔄 Until the end of the Combat round, after casting a [🪄](spells.md), draw 1 card.<br><br>⚡️ +2 📖 |
+
+<a id="stronghold"></a>
+## Stronghold
+
+| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
+| Crag Hack | Barbarian | 4 | 0 | 1 | 1 | Offense | Offense |
+| Vog | Barbarian | 4 | 0 | 1 | 1 | Cyclops | Offense |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+
+<a id="crag-hack"></a>
+### Crag Hack
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Offense | Ⅰ | 🔄 Your selected [unit](units.md) gains +1 ⚔️ |
+| Offense | Ⅳ | 🚧 |
+| Offense | Ⅵ | 🚧 |
+
+<a id="vog"></a>
+### Vog
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Cyclops | Ⅰ | 🚧 |
+| Cyclops | Ⅳ | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 1.<br><br>This effect doubles for the [Cyclops unit](units.md#stronghold). |
+| Cyclops | Ⅵ | 🚧 |
+
+<a id="conflux"></a>
+## Conflux
+
+| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
+| Luna | Elementalist | 0 | 0 | 2 | 3 | Fire Wall | Fire Magic |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+
+<a id="luna"></a>
+### Luna
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Fire Wall | Ⅰ | 🔄 For this Combat, place this card in an empty space on the Combat board. Deal 1 ❤️‍🩹 to any [unit](units.md) stopping here and to any 👣 or 🏹 [unit](units.md) passing through. |
+| Fire Wall | Ⅳ | 🚧 |
+| Fire Wall | Ⅵ | 🚧 |
+
+<a id="cove"></a>
+## Cove
+
+| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |

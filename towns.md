@@ -13,6 +13,9 @@ You might also want to see [heroes](heroes.md).
 - [Rampart](#rampart)
 - [Fortress](#fortress)
 - [Inferno](#inferno)
+- [Stronghold](#stronghold)
+- [Conflux](#conflux)
+- [Cove](#cove)
 
 <!-- /MarkdownTOC -->
 
@@ -113,3 +116,45 @@ You might also want to see [heroes](heroes.md).
 | Gates of Abyss | 9 🟡<br>6 ⚫️<br>3 🔴 | Unlocks **Recruiting** of 🥈 [units](units.md#inferno). |
 | Hellfire Palace | 10 🟡<br>9 ⚫️<br>4 🔴 | Unlocks **Recruiting** of 🥇 [units](units.md#inferno). |
 | Mage Guild | 4 🟡<br>2 ⚫️<br>1 🔴 | **When built:**<br>**Search(2)** [🪄](spells.md) twice.<br><br>**After built:**<br>Once per your turn 🫳 5 🟡 to **Search(2)** [🪄](spells.md). |
+
+<a id="stronghold"></a>
+## Stronghold
+
+| Name | Building Cost | Effect |
+| :--- | ---: | :---: |
+| Citadel | 🚧 | Unlocks **Reinforcing** [units](units.md#stronghold). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
+| City Hall | 🚧 | 🚧 |
+| Mage Guild | 🚧 | **When built:**<br>**Search(2)** [🪄](spells.md) twice.<br><br>**After built:**<br>Once per your turn 🫳 5 🟡 to **Search(2)** [🪄](spells.md). |
+| 🚧 | 🚧 | Unlocks **Recruiting** of 🥇 [units](units.md#stronghold). |
+| 🚧 | 🚧 | Unlocks **Recruiting** of 🥈 [units](units.md#stronghold). |
+| 🚧 | 🚧 | Unlocks **Recruiting** of 🥉 [units](units.md#stronghold). |
+| 🚧 | 🚧 | 🚧 |
+| 🚧 | 🚧 | 🚧 |
+
+<a id="conflux"></a>
+## Conflux
+
+| Name | Building Cost | Effect |
+| :--- | ---: | :---: |
+| Citadel | 🚧 | Unlocks **Reinforcing** [units](units.md#conflux). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
+| City Hall | 🚧 | At the beginning of each Resource round, choose:<br>🔄️ +1 🃏 for this round.<br><br>— OR —<br><br>⚡️ Buying spells in this Town is for free. |
+| Mage Guild | 4 🟡<br>2 ⚫️<br>1 🔴 | **When built:**<br>**Search(2)** [🪄](spells.md) twice.<br><br>**After built:**<br>Once per your turn 🫳 5 🟡 to **Search(2)** [🪄](spells.md). |
+| 🚧 | 🚧 | Unlocks **Recruiting** of 🥇 [units](units.md#conflux). |
+| 🚧 | 🚧 | Unlocks **Recruiting** of 🥈 [units](units.md#conflux). |
+| Altar of Air and Water | 4 🟡<br>3 ⚫️<br>1 🔴 | Unlocks **Recruiting** of 🥉 [units](units.md#conflux). |
+| Garden of Life | 2 🟡<br>1 ⚫️<br>1 🔴 | At the beginning of each round, **Recruit** or **Reinforce** Sprites for free. |
+| Magic University | 7 🟡<br>3 ⚫️<br>0 🔴 | When using a Magic Guild instead of the **Search** action, choose a [School of Magic](spells.md), discard cards from the top of the [Spell](spells.md) deck until you find a [Spell](spells.md) from the chosen school, and then take it. |
+
+<a id="cove"></a>
+## Cove
+
+| Name | Building Cost | Effect |
+| :--- | ---: | :---: |
+| Citadel | 🚧 | Unlocks **Reinforcing** [units](units.md#cove). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
+| City Hall | 🚧 | 🚧 |
+| Mage Guild | 🚧 | **When built:**<br>**Search(2)** [🪄](spells.md) twice.<br><br>**After built:**<br>Once per your turn 🫳 5 🟡 to **Search(2)** [🪄](spells.md). |
+| 🚧 | 🚧 | Unlocks **Recruiting** of 🥇 [units](units.md#cove). |
+| 🚧 | 🚧 | Unlocks **Recruiting** of 🥈 [units](units.md#cove). |
+| 🚧 | 🚧 | Unlocks **Recruiting** of 🥉 [units](units.md#cove). |
+| 🚧 | 🚧 | 🚧 |
+| 🚧 | 🚧 | 🚧 |

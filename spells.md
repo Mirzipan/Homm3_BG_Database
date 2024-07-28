@@ -56,7 +56,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Anti-Magic | 🔄 Until the end of the Combat, the selected \* [unit](units.md) cannot be targeted by spells:<br><br>📖0 - \*🥉<br>📖2 - \*🥉 or 🥈<br>📖4 - \*🥉 or 🥈 or 🥇 |
 | Earthquake | ⚡️ During a [Town](towns.md) siege:<br><br>📖0 - Remove 1 Gate or Wall obstacle of your choice.<br>📖1 - Remove 2 Gate or Wall obstacles of your choice.<br>📖2 - Every [unit](units.md) adjacent to a Wall or Gate obstacle suffers 1 ❤️‍🩹. Remove all Gate or Wall obstacles. |
 | Magic Arrow | ➡️ The selected [unit](units.md) suffers:<br><br>📖0 - 1 ❤️‍🩹<br>📖1 - 2 ❤️‍🩹<br>📖2 - 3 ❤️‍🩹 |
-| Shield | ⚡️ The defending [unit](units.md) gains \* against a 🦶 or 🪽 [unit](units.md).<br><br>📖0 - \*+1 🛡️<br>📖1 - \*+2 🛡️<br>📖2 - \*+3 🛡️ |
+| Shield | ⚡️ The defending [unit](units.md) gains \* against a 👣 or 🪽 [unit](units.md).<br><br>📖0 - \*+1 🛡️<br>📖1 - \*+2 🛡️<br>📖2 - \*+3 🛡️ |
 | Slow | 🔄 Until the end of the Combat, the selected [unit](units.md) suffers:<br><br>📖0 - -1 🤺<br>📖1 - -2 🤺<br>📖2 - -3 🤺 |
 | Stone Skin | ⚡️ The selected [unit](units.md) gains:<br><br>📖0 - +1 🛡️<br>📖1 - +2 🛡️<br>📖2 - +3 🛡️ |
 | View Earth | ⚡️ Choose enemy Mine within \* fields. Replace the owner's cube with yours.<br><br>📖0 - 1<br>📖1 - 2<br>📖2 - \*3 |
@@ -80,9 +80,9 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Name | Effect |
 | :--- | :---: |
 | Blind | ➡️ Place a 🐍 token on the selected \* [unit](units.md):<br><br>📖0 - \*🥉<br>📖2 - \*🥉 or 🥈<br>📖4 - \*🥉 or 🥈 or 🥇 |
-| Bloodlust | ⚡️ The selected 🦶 or 🪽 [unit](units.md) gains:<br><br>📖0 - +1 ⚔️<br>📖1 - +2 ⚔️<br>📖2 - +3 ⚔️ |
+| Bloodlust | ⚡️ The selected 👣 or 🪽 [unit](units.md) gains:<br><br>📖0 - +1 ⚔️<br>📖1 - +2 ⚔️<br>📖2 - +3 ⚔️ |
 | Curse | ⚡️ The selected [unit](units.md) suffers (to a minimum of 0):<br><br>📖0 - -1 🛡️<br>📖1 - -2 🛡️<br>📖2 - -3 🛡️ |
-| Fire Wall | 🔄 For this Combat, place this card in an empty space on the Combat board. Deal \* to any [unit](units.md) stopping here and to any 🦶 or 🏹 [unit](units.md) passing through.<br><br>📖0 - \*1 ❤️‍🩹<br>📖2 - \*2 ❤️‍🩹<br>📖4 - \*3 ❤️‍🩹 |
+| Fire Wall | 🔄 For this Combat, place this card in an empty space on the Combat board. Deal \* to any [unit](units.md) stopping here and to any 👣 or 🏹 [unit](units.md) passing through.<br><br>📖0 - \*1 ❤️‍🩹<br>📖2 - \*2 ❤️‍🩹<br>📖4 - \*3 ❤️‍🩹 |
 | Magic Arrow | ➡️ The selected [unit](units.md) suffers:<br><br>📖0 - 1 ❤️‍🩹<br>📖1 - 2 ❤️‍🩹<br>📖2 - 3 ❤️‍🩹 |
 | Misfortune | ⚡️ Play immediately when the selected \* enemy [unit](units.md) is attacking. Negate an [Attack die](dice.md#attack-die) result or an additional ⚔️ from any card.<br><br>📖0 - \*🥉<br>📖1 - \*🥉 or 🥈<br>📖2 - \*🥉 or 🥈 or 🥇 |
 | Visions | ⚡️ Draw \* from any Neutral [Unit](units.md) deck. You can discard any of them and return the remaining cards in any order.<br><br>📖0 - \*1 card<br>📖1 - \*2 cards<br>📖2 - \*3 cards |
@@ -107,7 +107,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 
 | Name | Effect |
 | :--- | :---: |
-| Bless | ⚡️ The selected 🦶 or 🪽 unit:<br><br>📖0 - Ignores the [Attack die](dice.md#attack-die) roll.<br>📖1 - Ignores the [Attack die](dice.md#attack-die) roll and gains +1 ⚔️<br>📖2 - Ignores the [Attack die](dice.md#attack-die) roll and gains +2 ⚔️ |
+| Bless | ⚡️ The selected 👣 or 🪽 unit:<br><br>📖0 - Ignores the [Attack die](dice.md#attack-die) roll.<br>📖1 - Ignores the [Attack die](dice.md#attack-die) roll and gains +1 ⚔️<br>📖2 - Ignores the [Attack die](dice.md#attack-die) roll and gains +2 ⚔️ |
 | Cure | ⚡️ Remove any effect or 🐍 from the selected [unit](units.md), and remove from this [unit](units.md) up to:<br><br>📖0 - 1 ❤️‍🩹<br>📖1 - 2 ❤️‍🩹<br>📖2 - 3 ❤️‍🩹 |
 | Dispel | ⚡️ Remove all 🔄 effects from a space or a \* [unit](units.md) and the space it occupies.<br><br>📖0 - \*🥉<br>📖1 - \*🥉 or 🥈<br>📖2 - \*🥉 or 🥈 or 🥇 |
 | Forgetfulness | 🔄 During its next activation, a \* 🏹 [unit](units.md) if your choice cannot ⚔️.<br><br>📖0 - \*🥉<br>📖1 - \*🥉 or 🥈<br>📖2 - \*🥉 or 🥈 or 🥇 |

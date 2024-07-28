@@ -16,12 +16,12 @@ Field are single cells on a [tile](tiles.md).
 | Name | Count | Effect |
 | :--- | :---: | :--- |
 | Dragon Utopia | 2 | Effects depend on the Scenario. |
-| Mine | 44 | 🚧 |
-| Obelisk | 7 | The Obelisk’s effects depend on the Scenario. When you Flag this Field, do not remove any enemy Faction Cubes; multiple players may have a Faction Cube on this Field. |
-| Random Town | 1 | 🚧 |
-| Settlement | 8 | 🚧 |
+| Mine | 44 | When flagged, increases the specific resource income (shown on the field). The first player to flag the Mine also gains its income immediately. There are following types of Mines:<br><br>+5 🟡 income<br>+2 ⚫️ income<br>+1 🔴 income |
+| Obelisk | 7 | Effects depend on the Scenario. When you Flag this Field, do not remove any enemy Faction Cubes; multiple players may have a [Faction](factions.md) Cube on this Field. |
+| Random Town | 1 | When revealed, all players roll 2 [Resource dice](dice.md#resource-die). The highest roller chooses an unused [Faction](factions.md). The random [Town](towns.md) is defended by [Units](units.md) from that [Faction](factions.md). They have a "Pack" of 🥉, two "Packs" of 🥈, and two "Fews" of 🥇 [Units](units.md). The 🥉 [Unit](units.md) is chosen by the player who controls the [Units](units.md) during that Combat.<br><br>When flagged, increases 🟡 income by 10. The first player to flag the [Town](towns.md) also gains its income immediately. |
+| Settlement | 8 | Works as a spawn point for Secondary [Heroes](heroes.md) or Main [Heroes](heroes.md) that have been defeated.<br><br>Works the same way as a mine, but the player can choose which resource income to increase. The settlement is then marked with a token of the chosen resource.<br><br>— OR —<br><br>Reinforce one of your 🥉 or 🥈 [Units](units.md) immediately for half the cost, rounded up. The first player to flag the settlement Reinforces that [Unit](units.md) for free. |
 | Star Axis | 3 | You may Remove one of your [Statistic](statistics.md) cards from your hand and replace it with an **Empowered** one of the same type. When you Flag this Field, do not remove any enemy Faction Cubes; multiple players may have a Faction Cube on this Field. |
-| Town | 7 | 🚧 |
+| Town | 7 | When flagged, the enemy Secondary [Heroes](heroes.md) or Main [Heroes](heroes.md) that have been defeated cannot spawn here.<br>Flagging an enemy town does prevent the enemy player from using it, nor does it grant any access to the [Town](towns.md) board or [Faction Units](units.md) to the player who flagged it.<br>Flagging a [Town](towns.md) can cause Player Elimination win condition, and some scenarios may have extra rules and rewards attached to flagging [Towns](towns.md). |
 
 <a id="visitable"></a>
 ## Visitable
