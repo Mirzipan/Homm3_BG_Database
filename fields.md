@@ -61,5 +61,5 @@ Field are single cells on a [tile](tiles.md).
 | Sanctuary | 6 | Heroes on this Field cannot be attacked by other [Heroes](heroes.md. Friendly Heroes can move through enemy [Heroes](heroes.md) on this Field but cannot stop here. |
 | Stables | 9 | Gain +1 🐎 for this turn. |
 | Tavern | 1 | You can 🫳 7 🟡 to gain a Secondary [Hero](heroes.md). Place their model on this Field. Then, choose one enemy player to discard 1 random card from their hand. |
-| Trading Post | 25 | Choose one:<br><br>Trade resources<br><br>— OR —<br><br>Remove a card<br><br>— OR —<br><br>Buy a [War Machine](war_machines.md) |
+| Trading Post | 25 | Choose one:<br><br>[Trade](trading.md) resources<br><br>— OR —<br><br>Remove a card<br><br>— OR —<br><br>Buy a [War Machine](war_machines.md) |
 | War Machine Factory | 3 | Buy a [War Machine](war_machines.md) |

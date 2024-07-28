@@ -2,6 +2,8 @@
 
 You might also want to see individual [fields](fields.md).
 
+Roman numerals present on some fields represent [difficulty](difficulties.md).
+
 <!-- MarkdownTOC autolink="true" autoanchor="true" -->
 
 - [Starting](#starting)
