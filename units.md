@@ -168,18 +168,18 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Goblins | Few | 🥉 | 👣 | 1 | 0 | 4 | 6 | 1 🟡 | - |
 | Goblins | Pack | 🥉 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 2 🟡 | 🚧 |
-| Wolf Raiders | Few | 🥉 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| Wolf Raiders | Few | 🥉 | 👣 | 2 | 0 | 3 | 7 | 3 🟡 | - |
 | Wolf Raiders | Pack | 🥉 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Orcs | Few | 🥉 | 👣 | 2 | 1 | 4 | 4 | 🚧 | - |
 | Orcs | Pack | 🥉 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 7 🟡 | 🚧 |
 | Ogres | Few | 🥈 | 👣 | 3 | 2 | 4 | 4 | 6 🟡 | 🌀 Place a -1 ⚔️ token on a chosen 👣 or 🪽 unit for 2 Combat rounds. |
 | Ogres | Pack | 🥈 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 8 🟡 | 🚧 |
 | Thunderbirds | Few | 🥈 | 🪽 | 4 | 1 | 6 | 9 | 8 🟡 | - |
-| Thunderbirds | Pack | 🥈 | 🪽 | 🚧 | 🚧 | 🚧 | 🚧 | 14 🟡 | 🚧 |
+| Thunderbirds | Pack | 🥈 | 🪽 | **5** | 1 | 6 | **11** | 14 🟡 | 🚧 |
 | Cyclops | Few | 🥇 | 🏹 | 🚧 | 🚧 | 🚧 | 🚧 | 13 🟡 | 🌀 This unit can destroy the Gate or a Wall. |
 | Cyclops | Pack | 🥇 | 🏹 | 5 | 1 | 7 | 8 | 17 🟡<br>1 🔴 | ⏳ Reduce any ❤️‍🩹 from [🪄](spells.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0). |
-| Behemoths | Few | 🥇 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 19 🟡<br>1 🔴 | 🚧 |
-| Behemoths | Pack | 🥇 | 👣 | 8 | 2 | 10 | 9 | 29 🟡<br>2 🔴 | 🪓 Decrease the target's 🛡️ by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. |
+| Behemoths | Few | 🥇 | 👣 | 7 | 2 | 8 | 6 | 19 🟡<br>1 🔴 | 🪓 Decrease the target's 🛡️ by 1 (to a minimum of 0). |
+| Behemoths | Pack | 🥇 | 👣 | **8** | 2 | **10** | **9** | 29 🟡<br>2 🔴 | 🪓 Decrease the target's 🛡️ by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. |
 
 <a id="conflux"></a>
 ## Conflux

@@ -122,14 +122,14 @@ You might also want to see [heroes](heroes.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| Citadel | 🚧 | Unlocks **Reinforcing** [units](units.md#stronghold). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
-| City Hall | 🚧 | 🚧 |
-| Mage Guild | 🚧 | **When built:**<br>**Search(2)** [🪄](spells.md) twice.<br><br>**After built:**<br>Once per your turn 🫳 5 🟡 to **Search(2)** [🪄](spells.md). |
-| 🚧 | 🚧 | Unlocks **Recruiting** of 🥇 [units](units.md#stronghold). |
-| 🚧 | 🚧 | Unlocks **Recruiting** of 🥈 [units](units.md#stronghold). |
-| 🚧 | 🚧 | Unlocks **Recruiting** of 🥉 [units](units.md#stronghold). |
-| 🚧 | 🚧 | 🚧 |
-| 🚧 | 🚧 | 🚧 |
+| Citadel | 8 🟡<br>4 ⚫️<br>1 🔴 | Unlocks **Reinforcing** [units](units.md#stronghold). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
+| City Hall | 12 🟡<br>5 ⚫️<br>0 🔴 | At the beginning of each Resource round, choose:<br>⚡️ Draw 2 cards from M&M Deck.<br><br>— OR —<br><br>⚡️ 2 ⚫️ |
+| Mage Guild | 4 🟡<br>2 ⚫️<br>1 🔴 | **When built:**<br>**Search(2)** [🪄](spells.md) twice.<br><br>**After built:**<br>Once per your turn 🫳 6 🟡 to **Search(2)** [🪄](spells.md). |
+| Mountain Caves | 10 🟡<br>8 ⚫️<br>4 🔴 | Unlocks **Recruiting** of 🥇 [units](units.md#stronghold). |
+| Fort under the Nest | 8 🟡<br>6 ⚫️<br>3 🔴 | Unlocks **Recruiting** of 🥈 [units](units.md#stronghold). |
+| Barracks Tower | 4 🟡<br>3 ⚫️<br>1 🔴 | Unlocks **Recruiting** of 🥉 [units](units.md#stronghold). |
+| Hall of Valhalla | 7 🟡<br>3 ⚫️<br>0 🔴 | Once per round, one of your units gains +1 ⚔️ to a single attack. |
+| Freelancer's Guild | 4 🟡<br>2 ⚫️<br>1 🔴 | Each time you win against [Neutral Units](units.md#neutral), gain 1 🟡. When **Reinforcing** or **Recruiting** you can use ⚫️ and 🔴 like 🟡. |
 
 <a id="conflux"></a>
 ## Conflux
