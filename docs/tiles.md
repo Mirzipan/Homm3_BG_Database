@@ -33,24 +33,24 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 | F4 | Dirt | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) | Ⅱ<br><br>Magic Spring | Water Wheel | ❌ | [Trading Post](trading.md) | Temple | - |
 | F5 | Subterranean | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) | Ⅱ<br><br>Mystical Garden | - | Redwood Observatory | ❌ | [Trading Post](trading.md) | Learning Stone |
 | F6 | Grass | Ⅱ<br><br>[Artifact](artifacts.md) | [Trading Post](trading.md) | Water Wheel | ❌ | [Shrine of Magic Incantation](spells.md) | - | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) |
-| F7 | Dirt | Ⅱ<br><br>[Treasure](fields.md#visitable) | ❌ | Learning Stone | [Shrine of Magic Gesture](spells.md) | - | Redwood Observatory | Ⅲ<br><br>:valuablegreater: [Mine](fields.md#flaggable) |
-| F8 | Subterranean | [Stables](fields.md#revisitable) | - | Temple | Ⅲ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | [Windmill](fields.md#visitable) | Ⅱ<br><br>[Treasure](fields.md#visitable) | ❌ |
-| F9 | Grass | - | Ⅲ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | ❌ | Redwood Observatory | Fountain of Youth | Ⅱ<br><br>[Treasure](fields.md#visitable) | Learning Stone |
+| F7 | Dirt | Ⅱ<br><br>[Treasure](fields.md#visitable) | ❌ | Learning Stone | [Shrine of Magic Gesture](spells.md) | - | Redwood Observatory | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) |
+| F8 | Subterranean | [Stables](fields.md#revisitable) | - | Temple | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | [Windmill](fields.md#visitable) | Ⅱ<br><br>[Treasure](fields.md#visitable) | ❌ |
+| F9 | Grass | - | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | ❌ | Redwood Observatory | Fountain of Youth | Ⅱ<br><br>[Treasure](fields.md#visitable) | Learning Stone |
 | F10 | Grass | Ⅲ<br><br>[Rampart Settlement](towns.md#rampart) | [Trading Post](trading.md) | ❌ | [Windmill](fields.md#visitable) | Ⅱ<br><br>Magic Spring | - | Learning Stone |
 | F11 | Grass | [Shrine of Magic Gesture](spells.md) | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) | [Trading Post](trading.md) | Ⅱ<br><br>Mystical Garden | Temple | - | ❌ |
-| F12 | Grass | Ⅱ<br><br>Witch Hut | ❌ | [Artifact](artifacts.md) | War Machine Factory | Mystical Garden | Ⅲ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | - |
+| F12 | Grass | Ⅱ<br><br>Witch Hut | ❌ | [Artifact](artifacts.md) | War Machine Factory | Mystical Garden | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | - |
 | F13 | Swamp | Water Wheel | ❌ | Ⅱ<br><br>[Treasure](fields.md#visitable) | Scholar | Learning Stone | - | Ⅲ<br><br>[Fortress Settlement](towns.md#fortress) |
 | F14 | Swamp | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) | [Windmill](fields.md#visitable) | - | ❌ | [Stables](fields.md#revisitable) | Ⅱ<br><br>[Artifact](artifacts.md) | [Treasure](fields.md#visitable) |
-| F15 | Swamp | [Trading Post](trading.md) | Witch Hut | Redwood Observatory | Ⅲ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | Ⅱ<br><br>Scholar | ❌ | - |
+| F15 | Swamp | [Trading Post](trading.md) | Witch Hut | Redwood Observatory | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | Ⅱ<br><br>Scholar | ❌ | - |
 | F16 | Dirt | [Shrine of Magic Incantation](spells.md) | Ⅲ<br><br>[Inferno Settlement](towns.md#inferno) | Learning Stone | - | Ⅱ<br><br>[Artifact](artifacts.md) | ❌ | [Windmill](fields.md#visitable) |
 | F17 | Dirt | - | Ⅱ<br><br>Magic Spring | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) | Star Axis | Water Wheel | [Stables](fields.md#revisitable) | ❌ |
-| F18 | Dirt | [Windmill](fields.md#visitable) | ❌ | Ⅱ<br><br>Witch Hut | Ⅲ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | Tree of Knowledge | - | [Trading Post](trading.md) |
+| F18 | Dirt | [Windmill](fields.md#visitable) | ❌ | Ⅱ<br><br>Witch Hut | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | Tree of Knowledge | - | [Trading Post](trading.md) |
 | F19 🔮 | Rough | - | Ⅱ<br><br>Learning Stone | Temple | ❌ | Stables | Ⅲ<br><br>[Stronghold Settlement](towns.md#stronghold) | [Shrine of Magic Incantation](spells.md) |
 | F20 🔮 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| F21 🔮 | Rough | Ⅲ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | 🚧 | ❌ | - | Ⅱ<br><br>Mystical Garden | Redwood Observatory | Fountain of Youth |
+| F21 🔮 | Rough | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | 🚧 | ❌ | - | Ⅱ<br><br>Mystical Garden | Redwood Observatory | Fountain of Youth |
 | #F1 | Snow | - | [Windmill](fields.md#visitable) | Ⅲ<br><br>[Tower Settlement](towns.md#tower) | ❌ | Ⅱ<br><br>[Treasure](fields.md#visitable) | [Stables](fields.md#revisitable) | Witch Hut |
 | #F2 | Snow | [Trading Post](trading.md) | Ⅱ<br><br>[Artifact](artifacts.md) | [Resources](fields.md#visitable) | - | Learning Stone | ❌ | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) |
-| #F3 | Snow | ❌ | Redwood Observatory | Ⅱ<br><br>Mystical Garden | Ⅲ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | [Shrine of Magic Incantation](spells.md) | - | Water Wheel |
+| #F3 | Snow | ❌ | Redwood Observatory | Ⅱ<br><br>Mystical Garden | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | [Shrine of Magic Incantation](spells.md) | - | Water Wheel |
 | #F4 | Grass |  Water Wheel | [Shrine of Magic Incantation](spells.md) | Witch Hut | Ⅲ<br><br>:building_materials: [Mine](fields.md#flaggable) | ❌ | [Trading Post](trading.md) | Ⅱ<br><br>Market of Time |
 | #F5 | Subterranean | ❌ | Black Market | Ⅲ<br><br>:building_materials: [Mine](fields.md#flaggable) | [Treasure](fields.md#visitable) | Ⅱ<br><br>Magic Spring | Water Wheel | Mystical Garden |
 | #F6 | Dirt | [Trading Post](trading.md) | ❌ | Ⅱ<br><br>[Treasure](fields.md#visitable) | [Windmill](fields.md#visitable) | Ⅲ<br><br>:building_materials: [Mine](fields.md#flaggable) | Library | Redwood Observatory |
@@ -64,22 +64,22 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 
 | Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| N1 | Dirt | ❌ | [Windmill](fields.md#visitable) | Tree of Knowledge | Ⅳ<br><br>Witch Hut | Sanctuary | [Trading Post](trading.md) | Ⅴ<br><br>:valuablegreater: [Mine](fields.md#flaggable) |
-| N2 | Subterranean | Tree of Knowledge | ❌ | Ⅳ<br><br>Warrior's Tomb | Witch Hut | Sanctuary | Ⅴ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | [Shrine of Magic Gesture](spells.md) |
-| N3 | Grass | Witch Hut | ❌ | [Trading Post](trading.md) | Obelisk | Ⅴ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | Ⅳ<br><br>Pandora's Box | Tree of Knowledge |
+| N1 | Dirt | ❌ | [Windmill](fields.md#visitable) | Tree of Knowledge | Ⅳ<br><br>Witch Hut | Sanctuary | [Trading Post](trading.md) | Ⅴ<br><br>:valuables: [Mine](fields.md#flaggable) |
+| N2 | Subterranean | Tree of Knowledge | ❌ | Ⅳ<br><br>Warrior's Tomb | Witch Hut | Sanctuary | Ⅴ<br><br>:valuables: [Mine](fields.md#flaggable) | [Shrine of Magic Gesture](spells.md) |
+| N3 | Grass | Witch Hut | ❌ | [Trading Post](trading.md) | Obelisk | Ⅴ<br><br>:valuables: [Mine](fields.md#flaggable) | Ⅳ<br><br>Pandora's Box | Tree of Knowledge |
 | N4 | Dirt | Water Wheel | Magic Spring | Ⅳ<br><br>[Shrine of Magic Gesture](spells.md) | Obelisk | Ⅴ<br><br>:gold: [Mine](fields.md#flaggable) | Warrior's Tomb | ❌ |
 | N5 | Subterranean | [Shrine of Magic Gesture](spells.md) | Ⅴ<br><br>:gold: [Mine](fields.md#flaggable) | Ⅳ<br><br>Magic Spring | Obelisk | Warrior's Tomb | ❌ | Water Wheel |
 | N6 | Grass | [Trading Post](trading.md) | Ⅴ<br><br>:gold: [Mine](fields.md#flaggable) | Magic Spring | Ⅳ<br><br>Pandora's Box | Fountain of Youth | Water Wheel | ❌ |
-| N7 | Grass | [Trading Post](trading.md) | Ⅴ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | Ⅳ<br><br>Magic Spring | Obelisk | Tree of Knowledge | Water Wheel | ❌ |
+| N7 | Grass | [Trading Post](trading.md) | Ⅴ<br><br>:valuables: [Mine](fields.md#flaggable) | Ⅳ<br><br>Magic Spring | Obelisk | Tree of Knowledge | Water Wheel | ❌ |
 | N8 | Grass | War Machine Factory | Ⅴ<br><br>:gold: [Mine](fields.md#flaggable) | - | Ⅳ<br><br>[Treasure](fields.md#visitable) | Temple | Redwood Observatory | ❌ |
-| N9 | Swamp | ❌ | Tree of Knowledge | Ⅴ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | Obelisk | [Shrine of Magic Incantation](spells.md) | Ⅳ<br><br>Scholar | [Trading Post](trading.md) |
+| N9 | Swamp | ❌ | Tree of Knowledge | Ⅴ<br><br>:valuables: [Mine](fields.md#flaggable) | Obelisk | [Shrine of Magic Incantation](spells.md) | Ⅳ<br><br>Scholar | [Trading Post](trading.md) |
 | N10 | Swamp | Ⅳ<br><br>Magic Spring | Fountain of Youth | Witch Hut | [Shrine of Magic Gesture](spells.md) | Ⅴ<br><br>:gold: [Mine](fields.md#flaggable) | ❌ | Warrior's Tomb |
-| N11 | Dirt | ❌ | [Shrine of Magic Gesture](spells.md) | Fountain of Youth | Obelisk | Ⅴ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | [Trading Post](trading.md) | Ⅳ<br><br>Star Axis |
+| N11 | Dirt | ❌ | [Shrine of Magic Gesture](spells.md) | Fountain of Youth | Obelisk | Ⅴ<br><br>:valuables: [Mine](fields.md#flaggable) | [Trading Post](trading.md) | Ⅳ<br><br>Star Axis |
 | N12 | Dirt | Ⅳ<br><br>Mystical Garden | Redwood Observatory | Water Wheel | ❌ | [Trading Post](trading.md) | [Treasure](fields.md#visitable) | Ⅴ<br><br>:gold: [Mine](fields.md#flaggable) |
-| N13 🔮 | Rough | ❌ | Windmill | Witch Hut | Obelisk | Ⅴ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | [Trading Post](trading.md) | - |
+| N13 🔮 | Rough | ❌ | Windmill | Witch Hut | Obelisk | Ⅴ<br><br>:valuables: [Mine](fields.md#flaggable) | [Trading Post](trading.md) | - |
 | N14 🔮 | Rough | - | Ⅴ<br><br>:gold: [Mine](fields.md#flaggable) | [Shrine of Magic Gesture](spells.md) | Tree of Knowledge | - | Ⅳ<br><br>[Treasure](fields.md#visitable) | ❌ |
 | #N1 | Snow | Tree of Knowledge | Magic Spring | Ⅴ<br><br>:gold: [Mine](fields.md#flaggable) | [Stables](fields.md#revisitable) | ❌ | Temple | [Windmill](fields.md#visitable) |
-| #N2 | Snow | Fountain of Youth | Ⅴ<br><br>:valuablegreater: [Mine](fields.md#flaggable) | ❌ | Obelisk | [Trading Post](trading.md) | Ⅳ<br><br>[Treasure](fields.md#visitable) | Witch Hut |
+| #N2 | Snow | Fountain of Youth | Ⅴ<br><br>:valuables: [Mine](fields.md#flaggable) | ❌ | Obelisk | [Trading Post](trading.md) | Ⅳ<br><br>[Treasure](fields.md#visitable) | Witch Hut |
 | #N3 | Grass | Ⅴ<br><br>:gold: [Mine](fields.md#flaggable) | [Trading Post](trading.md) | ❌ | [Windmill](fields.md#visitable) | Fountain of Youth | Sanctuary | Ⅳ<br><br>Pandora's Box |
 
 

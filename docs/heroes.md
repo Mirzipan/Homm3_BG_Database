@@ -19,9 +19,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Battlefield Medic | Ⅰ | :instant: Discard 1 card. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 1 :damage-table:. |
+| Battlefield Medic | Ⅰ | :instant: Discard 1 card. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 1 :damage:. |
 | Battlefield Medic | Ⅳ | :instant: Select 1 [Spell](spells.md) or Specialty card from your discard pile and put it back in your hand. |
-| Battlefield Medic | Ⅵ | :instant: Discard 2 cards. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 2 :damage-table:. |
+| Battlefield Medic | Ⅵ | :instant: Discard 2 cards. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 2 :damage:. |
 
 
 ### Catherine
@@ -46,9 +46,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Battlefield Medic | Ⅰ | :instant: Remove 1 :damage-table: from one of your [units](units.md), then draw 1 card. |
-| Battlefield Medic | Ⅳ | :instant: Remove 1 :damage-table: or :paralysis: from one of your [units](units.md), then draw 1 card. |
-| Battlefield Medic | Ⅵ | :instant: Remove up to 2 :damage-table: or :paralysis: from one of your [units](units.md), then draw 2 cards and discard 1 card from your hand. |
+| Battlefield Medic | Ⅰ | :instant: Remove 1 :damage: from one of your [units](units.md), then draw 1 card. |
+| Battlefield Medic | Ⅳ | :instant: Remove 1 :damage: or :paralysis: from one of your [units](units.md), then draw 1 card. |
+| Battlefield Medic | Ⅵ | :instant: Remove up to 2 :damage: or :paralysis: from one of your [units](units.md), then draw 2 cards and discard 1 card from your hand. |
 
 
 ## Necropolis
@@ -65,9 +65,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Dread Knights | Ⅰ | :instant: Reduce the :damage-table: from enemy retaliation by 1.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
+| Dread Knights | Ⅰ | :instant: Reduce the :damage: from enemy retaliation by 1.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
 | Dread Knights | Ⅳ | :ongoing: For this Combat, when an enemy performs a Retaliation Attack against this [unit](units.md), roll 2 [Attack dice](dice.md#attack-die) and resolve the lower outcome. |
-| Dread Knights | Ⅵ | :instant: Reduce the :damage-table: from enemy retaliation by 2.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
+| Dread Knights | Ⅵ | :instant: Reduce the :damage: from enemy retaliation by 2.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
 
 
 ### Sandro
@@ -120,9 +120,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Meteor Shower | Ⅰ | :instant: Select a [unit](units.md) and 1 [unit](units.md) adjacent to it. Deal \* to both selected [units](units.md).<br><br> :empower: 0 - 1 :damage-table:<br>:empower: 2 - 2 :damage-table:<br>:empower: 4 - 3 :damage-table: |
+| Meteor Shower | Ⅰ | :instant: Select a [unit](units.md) and 1 [unit](units.md) adjacent to it. Deal \* to both selected [units](units.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |
 | Meteor Shower | Ⅳ | :instant: +1 :empower:<br><br>— OR —<br><br>:instant: Shuffle your discard pile back into your deck, then draw 1 card. |
-| Meteor Shower | Ⅵ | :instant: Select a [unit](units.md) and 2 [units](units.md) adjacent to it. Deal \* to all selected [units](units.md).<br><br> :empower: 0 - 1 :damage-table:<br>:empower: 2 - 2 :damage-table:<br>:empower: 4 - 3 :damage-table: |
+| Meteor Shower | Ⅵ | :instant: Select a [unit](units.md) and 2 [units](units.md) adjacent to it. Deal \* to all selected [units](units.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |
 
 
 ### Jeddite
@@ -184,9 +184,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Chain Lightning | Ⅰ | :activation: Select a [unit](units.md) and another 2 [units](units.md) closest to it. Allocate 1/1/0 :damage-table:. starting with the first selected [unit](units.md). |
+| Chain Lightning | Ⅰ | :activation: Select a [unit](units.md) and another 2 [units](units.md) closest to it. Allocate 1/1/0 :damage:. starting with the first selected [unit](units.md). |
 | Chain Lightning | Ⅳ | :instant: Discard up to 3 cards from your Might and Magic deck and return 1 of them to your hand. |
-| Chain Lightning | Ⅵ | :activation: Select a [unit](units.md) and another 2 [units](units.md) closest to it. Allocate 2/1/1 :damage-table:. starting with the first selected [unit](units.md). |
+| Chain Lightning | Ⅵ | :activation: Select a [unit](units.md) and another 2 [units](units.md) closest to it. Allocate 2/1/1 :damage:. starting with the first selected [unit](units.md). |
 
 
 
@@ -206,7 +206,7 @@ You might also want to see [towns](towns.md).
 | :--- | :---: | :---: |
 | Unicorns | Ⅰ | :instant: Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
 | Unicorns | Ⅳ | :ongoing: For this Combat, your selected [unit's](units.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
-| Unicorns | Ⅵ | :ongoing: For this Combat, your selected [unit](units.md) reduces any :damage-table: it takes from spells by 1 - to a minimum of 0.<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
+| Unicorns | Ⅵ | :ongoing: For this Combat, your selected [unit](units.md) reduces any :damage: it takes from spells by 1 - to a minimum of 0.<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
 
 
 ### Gelu
@@ -223,7 +223,7 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | First Aid | Ⅰ | :instant: Take a [First Aid Tent](war_machines.md) card from the [War Machine](war_machines.md) deck at no cost.<br><br>— OR —<br><br>:instant: If you already have a [First Aid Tent](war_machines.md), draw 1 card. |
-| First Aid | Ⅳ | :instant: Remove 2 :damage-table: from one of your [units](units.md). |
+| First Aid | Ⅳ | :instant: Remove 2 :damage: from one of your [units](units.md). |
 | First Aid | Ⅵ | :ongoing: For this Combat, double your [First Aid Tent's](war_machines.md) effect. |
 
 
@@ -306,17 +306,17 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Efreet | Ⅰ | :instant: Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
-| Efreet | Ⅳ | :ongoing: Until the end of Combat, when your selected [unit](units.md) is attacked by a :unit_ground: or :unit_flying: [unit](units.md), the attacker takes 1 :damage-table:. |
-| Efreet | Ⅵ | :ongoing: Until the end of Combat, when your selected [unit](units.md) is attacked by a :unit_ground: or :unit_flying: [unit](units.md), the attacker takes 1 :damage-table:.<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
+| Efreet | Ⅳ | :ongoing: Until the end of Combat, when your selected [unit](units.md) is attacked by a :unit_ground: or :unit_flying: [unit](units.md), the attacker takes 1 :damage:. |
+| Efreet | Ⅵ | :ongoing: Until the end of Combat, when your selected [unit](units.md) is attacked by a :unit_ground: or :unit_flying: [unit](units.md), the attacker takes 1 :damage:.<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
 
 
 ### Xyron
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Inferno | Ⅰ | :activation: Discard 2 cards. Then select a space. All [units](units.md) on this and the adjacent spaces take 1 :damage-table:. |
-| Inferno | Ⅳ | :activation: Discard 1 card. Then select a space. All [units](units.md) on this and the adjacent spaces take 1 :damage-table:. |
-| Inferno | Ⅵ | :activation: Select a space. All [units](units.md) on this and the adjacent spaces take 1 :damage-table:. |
+| Inferno | Ⅰ | :activation: Discard 2 cards. Then select a space. All [units](units.md) on this and the adjacent spaces take 1 :damage:. |
+| Inferno | Ⅳ | :activation: Discard 1 card. Then select a space. All [units](units.md) on this and the adjacent spaces take 1 :damage:. |
+| Inferno | Ⅵ | :activation: Select a space. All [units](units.md) on this and the adjacent spaces take 1 :damage:. |
 
 
 ### Zydar
@@ -374,7 +374,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Fire Wall | Ⅰ | :ongoing: For this Combat, place this card in an empty space on the Combat board. Deal 1 :damage-table: to any [unit](units.md) stopping here and to any :unit_ground: or :unit_ranged: [unit](units.md) passing through. |
+| Fire Wall | Ⅰ | :ongoing: For this Combat, place this card in an empty space on the Combat board. Deal 1 :damage: to any [unit](units.md) stopping here and to any :unit_ground: or :unit_ranged: [unit](units.md) passing through. |
 | Fire Wall | Ⅳ | 🚧 |
 | Fire Wall | Ⅵ | 🚧 |
 

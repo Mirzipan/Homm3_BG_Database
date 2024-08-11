@@ -20,8 +20,8 @@
 | 6 :gold: |
 | 2 :building_materials: |
 | 4 :building_materials: |
-| 1 :valuablegreater: |
-| 2 :valuablegreater: |
+| 1 :valuables: |
+| 2 :valuables: |
 
 
 ## Treasure Die

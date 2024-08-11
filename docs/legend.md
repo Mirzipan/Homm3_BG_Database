@@ -19,7 +19,7 @@ Quick reference for what the different glyphs mean.
 | :empower: | Power |
 | :skill: | Intelligence |
 | :health_points: | Health |
-| :damage-table: | Damage |
+| :damage: | Damage |
 | :initiative: | Initiative |
 
 ## Factions
@@ -56,7 +56,7 @@ Quick reference for what the different glyphs mean.
 | :---: | :--- |
 | :gold: | Gold |
 | :building_materials: | Building materials |
-| :valuablegreater: | Valuables |
+| :valuables: | Valuables |
 
 ## Dice
 
@@ -70,7 +70,7 @@ Quick reference for what the different glyphs mean.
 | Icon | Description |
 | :---: | :--- |
 | :expert: | Expert effect |
-| :pay_v2: | Pay |
+| :pay: | Pay |
 | :morale_positive: | Positive morale |
 | :morale_negative: | Negative morale |
 | :movement: | Movement point |
