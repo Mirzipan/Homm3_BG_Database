@@ -11,9 +11,9 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 | :silver: | Silver tier |
 | :golden: | Gold tier |
 | :azure: | Azure tier |
-| 👣 | Ground unit |
-| 🪽 | Flying unit |
-| 🏹 | Ranged unit |
+| :unit_ground: | Ground unit |
+| :unit_flying: | Flying unit |
+| :unit_ranged: | Ranged unit |
 | :attack: | Attack |
 | :defense: | Defense |
 | 📖 | Power |

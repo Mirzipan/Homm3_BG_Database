@@ -306,8 +306,8 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Efreet | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
-| Efreet | Ⅳ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 👣 or 🪽 [unit](units.md), the attacker takes 1 :damage-table:. |
-| Efreet | Ⅵ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 👣 or 🪽 [unit](units.md), the attacker takes 1 :damage-table:.<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
+| Efreet | Ⅳ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a :unit_ground: or :unit_flying: [unit](units.md), the attacker takes 1 :damage-table:. |
+| Efreet | Ⅵ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a :unit_ground: or :unit_flying: [unit](units.md), the attacker takes 1 :damage-table:.<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
 
 
 ### Xyron
@@ -374,7 +374,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Fire Wall | Ⅰ | 🔄 For this Combat, place this card in an empty space on the Combat board. Deal 1 :damage-table: to any [unit](units.md) stopping here and to any 👣 or 🏹 [unit](units.md) passing through. |
+| Fire Wall | Ⅰ | 🔄 For this Combat, place this card in an empty space on the Combat board. Deal 1 :damage-table: to any [unit](units.md) stopping here and to any :unit_ground: or :unit_ranged: [unit](units.md) passing through. |
 | Fire Wall | Ⅳ | 🚧 |
 | Fire Wall | Ⅵ | 🚧 |
 
