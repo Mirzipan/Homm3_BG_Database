@@ -74,9 +74,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Cloak of the Undead King | Ⅰ | Put this card on the [Pack of Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack:3 :defense:1 :health_points:2 :initiative:6 |
-| Cloak of the Undead King | Ⅳ | Put this card on the [Pack of Zombies Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Zombies**<br>:attack:4 :defense:1 :health_points:3 :initiative:5 |
-| Cloak of the Undead King | Ⅵ | Put this card on the [Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Legion of Skeletons**<br>:attack:4 :defense:1 :health_points:2 :initiative:6 |
+| Cloak of the Undead King | Ⅰ | Put this card on the [Pack of Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack: 3 :defense: 1 :health_points: 2 :initiative: 6 |
+| Cloak of the Undead King | Ⅳ | Put this card on the [Pack of Zombies Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Zombies**<br>:attack: 4 :defense: 1 :health_points: 3 :initiative: 5 |
+| Cloak of the Undead King | Ⅵ | Put this card on the [Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Legion of Skeletons**<br>:attack: 4 :defense: 1 :health_points: 2 :initiative: 6 |
 
 
 ### Tamika
@@ -93,7 +93,7 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Necromancy | Ⅰ | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](units.md) of your choice for half the :gold: cost (rounded down). |
-| Necromancy | Ⅳ | :instant: Put this card on the ["Pack" of Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. Keep the card, until the card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack:3 :health_points:2 :defense:1 :initiative:6 |
+| Necromancy | Ⅳ | :instant: Put this card on the ["Pack" of Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. Keep the card, until the card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack: 3 :defense: 1 :health_points: 2 :initiative: 6 |
 | Necromancy | Ⅵ | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](units.md) of your choice for half the :gold: cost (rounded down). |
 
 

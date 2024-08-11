@@ -8,7 +8,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 ## Castle
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Halberdiers | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
 | Halberdiers | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](dice.md#attack-die) roll result. |
 | Marksmen | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 3 :gold: | - |
@@ -28,7 +28,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 ## Necropolis
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Skeletons | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
 | Skeletons | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | - |
 | Zombies | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: If the attacker resolves a "+1" on [Attack die](dice.md#attack-die), gain +1 :defense:. |
@@ -48,7 +48,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 ## Dungeon
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Troglodytes | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
 | Troglodytes | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: This unit ignores :paralysis: effect. |
 | Harpies | Few | :bronze: | :unit_flying: | 2 | 0 | 3 | 6 | 3 :gold: | :unit_attack: After the enemy's Retaliation Attack, this unit can return to the space from which it moved to attack. |
@@ -68,7 +68,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 ## Tower
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Gremlins | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 0 :gold: | - |
 | Gremlins | Pack | :bronze: | :unit_ranged: | 2 | 0 | 2 | **5** | 2 :gold: | - |
 | Gargoyles | Few | :bronze: | :unit_flying: | 2 | 1 | 3 | 6 | 3 :gold: | :unit_passive: This unit ignores any :ongoing: [Spell](spells.md) effects. |
@@ -88,7 +88,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 ## Rampart
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Centaurs | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 6 | 2 :gold: | - |
 | Centaurs | Pack | :bronze: | :unit_ground: | **3** | 0 | 3 | **8** | 3 :gold: | - |
 | Dwarves | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: If this unit is targeted by any [Spell](spells.md) or [Specialty](heroes.md) card, roll 1 [Attack die](dice.md#attack-die). On a "+1" result, ignore the card's effect. |
@@ -108,7 +108,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 ## Fortress
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Gnolls | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 4 | 2 :gold: | - |
 | Gnolls | Pack | :bronze: | :unit_ground: | 2 | 1 | **4** | **5** | 3 :gold: | - |
 | Lizardmen | Few | :bronze: | :unit_ranged: | 2 | 0 | 3 | 4 | 3 :gold: | - |
@@ -128,7 +128,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 ## Inferno
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Familiars | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 5 | 2 :gold: | - |
 | Familiars | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **7** | 3 :gold: | :unit_passive: Whenever an enemy casts a [:spellpower:](spells.md) from hand, they must discard 1 card from hand. |
 | Magogs | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 3 :gold: | - |
@@ -150,7 +150,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 🔮 Unrelased and incomplete content.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Goblins | Few | :bronze: | :unit_ground: | 1 | 0 | 4 | 6 | 1 :gold: | - |
 | Goblins | Pack | :bronze: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 2 :gold: | 🚧 |
 | Wolf Raiders | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 7 | 3 :gold: | - |
@@ -172,7 +172,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Sprites | Few | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Sprites | Pack | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Storm Elementals  | Few | :bronze: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
@@ -194,7 +194,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Oceanids | Few | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Oceanids | Pack | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Seamen | Few | :bronze: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
@@ -214,7 +214,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 ## Neutral
 
 | Name | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Boars | :bronze: | :unit_ground: | 2 | 0 | 4 | 6 | 4 :gold: | - |
 | Centaurs | :bronze: | :unit_ground: | 2 | 0 | 5 | 7 | 3 :gold: | - |
 | Cerberi | :bronze: | :unit_ground: | 2 | 0 | 5 | 8 | 10 :gold: | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. |
