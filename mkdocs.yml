@@ -1,5 +1,13 @@
 site_name: "Heroes of Might and Magic 3: The Board Game Database"
 site_url: https://mirzipan.github.io/Homm3_BG_Database/
+markdown_extensions:
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
 theme:
   name: material
   features:
