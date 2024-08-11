@@ -47,8 +47,8 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 
 | Icon | Description |
 | :---: | :--- |
-| 🪄 | Spell |
-| ⚜️ | Artifact |
+| 🪄 | [Spell](spells.md) |
+| ⚜️ | [Artifact](artifacts.md) |
 
 ## Resources
 
@@ -62,8 +62,8 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 
 | Icon | Description |
 | :---: | :--- |
-| 🗃️ | Treasure die |
-| ⚒️ | Resource die |
+| 🗃️ | [Treasure die](dice.md#treasure-die) |
+| ⚒️ | [Resource die](dice.md#resource-die) |
 
 ## Miscellanous
 
