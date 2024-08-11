@@ -4,8 +4,6 @@ List of towns and their buildings.
 
 You might also want to see [heroes](heroes.md).
 
-[TOC]
-
 
 ## Castle
 

@@ -6,8 +6,6 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 
 🔮 - Unrelased and incomplete content
 
-[TOC]
-
 
 ## Starting
 

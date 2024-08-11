@@ -4,8 +4,6 @@ Statistics for all units.
 
 For units that belong to a [town](towns.md), stat changes between "few" and "pack" are shown in **bold**.
 
-[TOC]
-
 
 ## Castle
 

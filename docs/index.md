@@ -1,4 +1,4 @@
-🚧Work In Progress - Stronghold, Conflux, and Cove🚧
+🚧 Work In Progress - Stronghold, Conflux, and Cove 🚧
 
 ## ⚔️ Content
 

@@ -1,8 +1,5 @@
 # Artifacts
 
-[TOC]
-
-
 ## Minor
 
 | Name | Effect | Flavor |

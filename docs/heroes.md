@@ -4,8 +4,6 @@ List of heroes and their specialities.
 
 You might also want to see [towns](towns.md).
 
-[TOC]
-
 
 ## Castle
 
@@ -39,9 +37,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Estates | Ⅰ | ⚡️ Gain 2🟡. |
-| Estates | Ⅳ | ⚡️ Gain 3🟡. |
-| Estates | Ⅵ | ⚡️ Gain 5🟡. |
+| Estates | Ⅰ | ⚡️ Gain 2 🟡. |
+| Estates | Ⅳ | ⚡️ Gain 3 🟡. |
+| Estates | Ⅵ | ⚡️ Gain 5 🟡. |
 
 
 ### Rion
@@ -234,8 +232,8 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Armorer | Ⅰ | ⚡️ +2 🛡️ |
-| Armorer | Ⅳ | ⚡️ +3🛡️ |
-| Armorer | Ⅵ | ⚡️ +4🛡️ |
+| Armorer | Ⅳ | ⚡️ +3 🛡️ |
+| Armorer | Ⅵ | ⚡️ +4 🛡️ |
 
 
 ## Fortress

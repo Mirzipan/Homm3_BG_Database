@@ -2,8 +2,6 @@
 
 Field are single cells on a [tile](tiles.md).
 
-[TOC]
-
 
 ## Flaggable
 

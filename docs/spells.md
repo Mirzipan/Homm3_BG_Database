@@ -2,11 +2,8 @@
 
 In addition to they're reguar effects, any spell can be also be discarded to provide +1📖. This options is omitted from the tables below to avoid information duplication.
 
-[TOC]
-
 
 ## Air Magic
-
 
 ### Basic
 

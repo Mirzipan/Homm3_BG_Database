@@ -2,8 +2,6 @@
 
 I have chosen some emoji to represent the icons used in the game. The idea was to chooce emoji that are easily mapped to the original icons, but I have included this table on the off-chance that I did not choose some of them well.
 
-[TOC]
-
 
 ## Creatures
 
