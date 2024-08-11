@@ -13,7 +13,7 @@ A simple collection of cards contained within the Homm3 boardgame.
 ## :empower: Purpose
 Every now and then I want to see what some cards do, either while theorycrafting about what to play, or even during play, when I want to check or reference something. This database is meant to provide an easy way to find any card contained within the game. There are no picture here, just pure text and images/emojis.
 
-## 📚 Other Community Projects
+## :skill: Other Community Projects
 Here are some projects within the homm3bg community that are definitely worth a visit.
 
 - [Rulebook Rewrite Project](https://github.com/Heegu-sama/Homm3BG)

@@ -9,7 +9,7 @@ You might also want to see [heroes](heroes.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>⚡️ 5 :gold:<br><br>— OR —<br><br>⚡️ +1:movement: |
+| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: +1:movement: |
 | Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuablegreater: | Unlocks **Reinforcing** [units](units.md#castle). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuablegreater: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay_v2: 6 :gold: to **Search(2)** [:spellpower:](spells.md). |
 | Towers | 5 :gold:<br>3 :building_materials:<br>1 :valuablegreater: | Unlocks **Recruiting** of :bronze: [units](units.md#castle). |
@@ -23,7 +23,7 @@ You might also want to see [heroes](heroes.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>⚡️ 4 :gold:<br><br>— OR —<br><br>⚡️**Reinforce 1** :bronze: for free. |
+| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>:instant: 4 :gold:<br><br>— OR —<br><br>:instant:**Reinforce 1** :bronze: for free. |
 | Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuablegreater: | Unlocks **Reinforcing** [units](units.md#necropolis). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuablegreater: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay_v2: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
 | Old Cemetery | 5 :gold:<br>3 :building_materials:<br>1 :valuablegreater: | Unlocks **Recruiting** of :bronze: [units](units.md#necropolis). |
@@ -37,7 +37,7 @@ You might also want to see [heroes](heroes.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>⚡️ 5 :gold:<br><br>— OR —<br><br>⚡️ 1 :valuablegreater: |
+| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: 1 :valuablegreater: |
 | Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuablegreater: | Unlocks **Reinforcing** [units](units.md#dungeon). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuablegreater: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay_v2: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
 | Warrens | 5 :gold:<br>3 :building_materials:<br>1 :valuablegreater: | Unlocks **Recruiting** of :bronze: [units](units.md#dungeon). |
@@ -51,7 +51,7 @@ You might also want to see [heroes](heroes.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>⚡️ 4 :gold:<br><br>— OR —<br><br>⚡️ Draw a card from your deck. |
+| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>:instant: 4 :gold:<br><br>— OR —<br><br>:instant: Draw a card from your deck. |
 | Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuablegreater: | Unlocks **Reinforcing** [units](units.md#tower). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuablegreater: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay_v2: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
 | Alchemical Workshop | 5 :gold:<br>3 :building_materials:<br>1 :valuablegreater: | Unlocks **Recruiting** of :bronze: [units](units.md#tower). |
@@ -65,7 +65,7 @@ You might also want to see [heroes](heroes.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>6 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, gain ⚡️ 7 :gold:. |
+| City Hall | 10 :gold:<br>6 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, gain :instant: 7 :gold:. |
 | Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuablegreater: | Unlocks **Reinforcing** [units](units.md#rampart). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuablegreater: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay_v2: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
 | Housing Estate | 5 :gold:<br>3 :building_materials:<br>1 :valuablegreater: | Unlocks **Recruiting** of :bronze: [units](units.md#rampart). |
@@ -79,7 +79,7 @@ You might also want to see [heroes](heroes.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>⚡️ 5 :gold:<br><br>— OR —<br><br>Exchange resources like in the Trading Post. |
+| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>Exchange resources like in the Trading Post. |
 | Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuablegreater: | Unlocks **Reinforcing** [units](units.md#fortress). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuablegreater: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay_v2: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
 | Den | 5 :gold:<br>3 :building_materials:<br>1 :valuablegreater: | Unlocks **Recruiting** of :bronze: [units](units.md#fortress). |
@@ -93,7 +93,7 @@ You might also want to see [heroes](heroes.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| City Hall | 13 :gold:<br>5 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>⚡️ 6 :gold:<br><br>— OR —<br><br>⚡️ 3 :building_materials: |
+| City Hall | 13 :gold:<br>5 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>:instant: 6 :gold:<br><br>— OR —<br><br>:instant: 3 :building_materials: |
 | Citadel | 9 :gold:<br>4 :building_materials:<br>1 :valuablegreater: | Unlocks **Reinforcing** [units](units.md#inferno). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuablegreater: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay_v2: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
 | Crucible of Sins | 5 :gold:<br>3 :building_materials:<br>1 :valuablegreater: | Unlocks **Recruiting** of :bronze: [units](units.md#inferno). |
@@ -109,7 +109,7 @@ You might also want to see [heroes](heroes.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| City Hall | 12 :gold:<br>5 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>⚡️ Draw 2 cards from M&M Deck.<br><br>— OR —<br><br>⚡️ 2 :building_materials: |
+| City Hall | 12 :gold:<br>5 :building_materials:<br>0 :valuablegreater: | At the beginning of each Resource round, choose:<br>:instant: Draw 2 cards from M&M Deck.<br><br>— OR —<br><br>:instant: 2 :building_materials: |
 | Citadel | 8 :gold:<br>4 :building_materials:<br>1 :valuablegreater: | Unlocks **Reinforcing** [units](units.md#stronghold). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuablegreater: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay_v2: 6 :gold: to **Search(2)** [:spellpower:](spells.md). |
 | Barracks Tower | 4 :gold:<br>3 :building_materials:<br>1 :valuablegreater: | Unlocks **Recruiting** of :bronze: [units](units.md#stronghold). |
@@ -125,7 +125,7 @@ You might also want to see [heroes](heroes.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| City Hall | 🚧 | At the beginning of each Resource round, choose:<br>🔄️ +1 :hand: for this round.<br><br>— OR —<br><br>⚡️ Buying spells in this Town is for free. |
+| City Hall | 🚧 | At the beginning of each Resource round, choose:<br>:ongoing:️ +1 :hand: for this round.<br><br>— OR —<br><br>:instant: Buying spells in this Town is for free. |
 | Citadel | 🚧 | Unlocks **Reinforcing** [units](units.md#conflux). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuablegreater: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay_v2: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
 | Altar of Air and Water | 4 :gold:<br>3 :building_materials:<br>1 :valuablegreater: | Unlocks **Recruiting** of :bronze: [units](units.md#conflux). |
