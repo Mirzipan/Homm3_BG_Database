@@ -1,0 +1,32 @@
+site_name: "Heroes of Might and Magic 3: The Board Game Database"
+site_url: https://mirzipan.github.io/Homm3_BG_Database/
+theme:
+  name: material
+  features:
+    - content.code.copy
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: brown
+      accent: yellow
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  extra_css:
+    - stylesheets/extra.css
+  font:
+    text: Vollkorn
