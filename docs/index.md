@@ -1,35 +1,22 @@
 🚧 Work In Progress - Stronghold, Conflux, and Cove 🚧
 
-## :attack: Content
-
-- [Abilities](abilities.md)
-- [Artifacts](artifacts.md)
-- [Astrologers Proclaim](astrologers_proclaim.md)
-- [Dice](dice.md)
-- [Difficulties](difficulties.md)
-- [Events](events.md)
-- [Factions](factions.md)
-- [Fields](fields.md)
-- [Heroes](heroes.md)
-- [Spells](spells.md)
-- [Statistics](statistics.md)
-- [Tiles](tiles.md)
-- [Towns](towns.md)
-- [Trading](trading.md)
-- [Units](units.md)
-
-The tables use emoji in place of the glyphs one would find in the game. The chosen emoji should be self-explanatory, but in case you are unsure or just want to make sure you decyphered them correctly, refer to the [legend](legend.md).
-
-## :defense: What Is This?
+## :attack: What Is This?
 
 A simple collection of cards contained within the Homm3 boardgame.
 
-*Notice: There is a plan to rewrite wording on cards to improve consistency and incorporate answers and explanations by the BGG community and game designers.*
+Every now and then I want to see what some cards do, either while theorycrafting about what to play, or even during play, when I want to check or reference something.
 
 
-## :empower: Purpose
+## :defense: Future Plans?
 
-Every now and then I want to see what some cards do, either while theorycrafting about what to play, or even during play, when I want to check or reference something. This database is meant to provide an easy way to find any card contained within the game. There are no picture here, just pure text and images/emojis.
+* Information about origins of content - some people may not have all of the expansions and it would be nice for them to know what I have or lack.
+* Rewrite card text to improve consistency and clarify issues - I value the clarity and consistency over preserving the original card text, so I will be incorporating answers and explanations by the BGG community and game designers.
+* Including pictures for quick visual reference
+
+
+## :empower: Disclaimer
+
+This project is a fan project, and is in no way official or affiliated with [Archon Studio](https://archon-studio.com).
 
 
 ## :skill: Other Community Projects

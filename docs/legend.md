@@ -3,7 +3,7 @@
 Quick reference for what the different glyphs mean.
 
 
-## Creatures
+## Units
 
 | Icon | Description |
 | :---: | :--- |

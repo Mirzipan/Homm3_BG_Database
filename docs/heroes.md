@@ -9,10 +9,10 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Adelaide | Cleric | 1 | 0 | 2 | 2 | Frost Ring | Wisdom |
-| Catherine | Knight | 2 | 2 | 1 | 1 | Crusaders | Leadership |
-| Lord Haart | Knight | 2 | 2 | 1 | 1 | Estates | Estates |
-| Rion | Cleric | 1 | 0 | 2 | 2 | Battlefield Medic | Wisdom |
+| Adelaide | :magic: Cleric | 1 | 0 | 2 | 2 | Frost Ring | Wisdom |
+| Catherine | :might: Knight | 2 | 2 | 1 | 1 | Crusaders | Leadership |
+| Lord Haart | :might: Knight | 2 | 2 | 1 | 1 | Estates | Estates |
+| Rion | :magic: Cleric | 1 | 0 | 2 | 2 | Battlefield Medic | Wisdom |
 
 
 ### Adelaide
@@ -55,10 +55,10 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Load Haart | Death Knight | 1 | 2 | 2 | 1 | Dread Knights | Necromancy |
-| Sandro | Necromancer | 1 | 0 | 2 | 2 | Cloak of the Undead King | Sorcery |
-| Tamika | Death Knight | 1 | 2 | 2 | 1 | Dread Knights | Offense |
-| Vidomina | Necromancer | 1 | 0 | 2 | 2 | Necromancy | Necromancy |
+| Load Haart | :might: Death Knight | 1 | 2 | 2 | 1 | Dread Knights | Necromancy |
+| Sandro | :magic: Necromancer | 1 | 0 | 2 | 2 | Cloak of the Undead King | Sorcery |
+| Tamika | :might: Death Knight | 1 | 2 | 2 | 1 | Dread Knights | Offense |
+| Vidomina | :magic: Necromancer | 1 | 0 | 2 | 2 | Necromancy | Necromancy |
 
 
 ### Lord Haart
@@ -101,10 +101,10 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Alamar | Warlock | 0 | 0 | 3 | 2 | Resurrection | Wisdom |
-| Deemer | Warlock | 0 | 0 | 3 | 2 | Meteor Shower | Scouting |
-| Jeddite | Warlock | 0 | 0 | 3 | 2 | Mysterious Warlock | Sorcery |
-| Mutare | Overlord | 2 | 2 | 1 | 1 | Dragons | Tactics |
+| Alamar | :magic: Warlock | 0 | 0 | 3 | 2 | Resurrection | Wisdom |
+| Deemer | :magic: Warlock | 0 | 0 | 3 | 2 | Meteor Shower | Scouting |
+| Jeddite | :magic: Warlock | 0 | 0 | 3 | 2 | Mysterious Warlock | Sorcery |
+| Mutare | :might: Overlord | 2 | 2 | 1 | 1 | Dragons | Tactics |
 
 
 ### Alamar
@@ -147,10 +147,10 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Dracon | Wizard | 0 | 0 | 2 | 3 | Enchanters | Wisdom |
-| Iona | Alchemist | 1 | 1 | 2 | 2 | Genies | Intelligence |
-| Josephine | Alchemist | 1 | 1 | 2 | 2 | Golems | Sorcery |
-| Solmyr | Wizard | 0 | 0 | 2 | 3 | Chain Lightning | Sorcery |
+| Dracon | :magic: Wizard | 0 | 0 | 2 | 3 | Enchanters | Wisdom |
+| Iona | :might: Alchemist | 1 | 1 | 2 | 2 | Genies | Intelligence |
+| Josephine | :might: Alchemist | 1 | 1 | 2 | 2 | Golems | Sorcery |
+| Solmyr | :magic: Wizard | 0 | 0 | 2 | 3 | Chain Lightning | Sorcery |
 
 
 ### Dracon
@@ -194,10 +194,10 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Clancy | Ranger | 1 | 3 | 1 | 1 | Unicorns | Pathfinding |
-| Gelu | Ranger | 1 | 3 | 1 | 1 | Sharpshooters | Archery |
-| Gem | Druid | 0 | 2 | 1 | 2 | First Aid | First Aid |
-| Mephala | Ranger | 1 | 3 | 1 | 1 | Armorer | Leadership |
+| Clancy | :might: Ranger | 1 | 3 | 1 | 1 | Unicorns | Pathfinding |
+| Gelu | :might: Ranger | 1 | 3 | 1 | 1 | Sharpshooters | Archery |
+| Gem | :magic: Druid | 0 | 2 | 1 | 2 | First Aid | First Aid |
+| Mephala | :might: Ranger | 1 | 3 | 1 | 1 | Armorer | Leadership |
 
 
 ### Clancy
@@ -240,10 +240,10 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Adrienne | Witch | 0 | 1 | 2 | 2 | Fire Magic | Wisdom |
-| Bron | Beastmaster | 0 | 4 | 1 | 1 | Basilisks | Resistance |
-| Tazar | Beastmaster | 0 | 4 | 1 | 1 | War Hero | Armorer |
-| Wystan | Beastmaster | 0 | 4 | 1 | 1 | Lizardmen | Archery |
+| Adrienne | :magic: Witch | 0 | 1 | 2 | 2 | Fire Magic | Wisdom |
+| Bron | :might: Beastmaster | 0 | 4 | 1 | 1 | Basilisks | Resistance |
+| Tazar | :might: Beastmaster | 0 | 4 | 1 | 1 | War Hero | Armorer |
+| Wystan | :might: Beastmaster | 0 | 4 | 1 | 1 | Lizardmen | Archery |
 
 
 ### Adrienne
@@ -286,10 +286,10 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Fiona | Demoniac | 2 | 2 | 1 | 1 | Cerberi | Scouting |
-| Rashka | Demoniac | 2 | 2 | 1 | 1 | Efreet | Scholar |
-| Xyron | Heretic | 1 | 1 | 2 | 1 | Inferno | Wisdom |
-| Zydar | Heretic | 1 | 1 | 2 | 1 | Sorcery | Sorcery |
+| Fiona | :might: Demoniac | 2 | 2 | 1 | 1 | Cerberi | Scouting |
+| Rashka | :might: Demoniac | 2 | 2 | 1 | 1 | Efreet | Scholar |
+| Xyron | :magic: Heretic | 1 | 1 | 2 | 1 | Inferno | Wisdom |
+| Zydar | :magic: Heretic | 1 | 1 | 2 | 1 | Sorcery | Sorcery |
 
 
 ### Fiona
@@ -334,8 +334,8 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Crag Hack | Barbarian | 4 | 0 | 1 | 1 | Offense | Offense |
-| Vog | Barbarian | 4 | 0 | 1 | 1 | Cyclops | Offense |
+| Crag Hack | :might: Barbarian | 4 | 0 | 1 | 1 | Offense | Offense |
+| Vog | :might: Barbarian | 4 | 0 | 1 | 1 | Cyclops | Offense |
 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 
@@ -364,7 +364,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Luna | Elementalist | 0 | 0 | 2 | 3 | Fire Wall | Fire Magic |
+| Luna | :magic: Elementalist | 0 | 0 | 2 | 3 | Fire Wall | Fire Magic |
 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |

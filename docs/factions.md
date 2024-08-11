@@ -13,6 +13,8 @@ List of all factions.
 
 ## Necropolis
 
+Some card effects may be limited to this faction. You will find a :necro: emblem next to the effect when that is the case.
+
 ### [Heroes](heroes.md#necropolis)
 
 ### [Town](towns.md#necropolis)
