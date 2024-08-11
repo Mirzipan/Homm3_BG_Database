@@ -92,7 +92,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Necromancy | Ⅰ | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** a 🥉 or 🥈 [unit](units.md) of your choice for half the 🟡 cost (rounded down). |
+| Necromancy | Ⅰ | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](units.md) of your choice for half the 🟡 cost (rounded down). |
 | Necromancy | Ⅳ | ⚡️ Put this card on the ["Pack" of Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. Keep the card, until the card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack:3 ❤️2 :defense:1 🤺6 |
 | Necromancy | Ⅵ | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](units.md) of your choice for half the 🟡 cost (rounded down). |
 
@@ -111,9 +111,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Resurrection | Ⅰ | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0.<br><br> 📖1 - \*🥉<br>📖2 - \*🥈<br>📖4 - \*🥇 |
-| Resurrection | Ⅳ | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0.<br><br> 📖0 - \*🥉<br>📖1 - \*🥈<br>📖3 - \*🥇 |
-| Resurrection | Ⅵ | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0.<br><br> 📖0 - \*🥉<br>📖0 - \*🥈<br>📖2 - \*🥇 |
+| Resurrection | Ⅰ | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0.<br><br> 📖1 - \*:bronze:<br>📖2 - \*:silver:<br>📖4 - \*:golden: |
+| Resurrection | Ⅳ | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0.<br><br> 📖0 - \*:bronze:<br>📖1 - \*:silver:<br>📖3 - \*:golden: |
+| Resurrection | Ⅵ | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0.<br><br> 📖0 - \*:bronze:<br>📖0 - \*:silver:<br>📖2 - \*:golden: |
 
 
 ### Deemer
@@ -130,7 +130,7 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Mysterious Warlock | Ⅰ | ⚡️ Draw up to 3 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
-| Mysterious Warlock | Ⅳ | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0.<br><br> 📖0 - \*🥉 Unit<br>📖1 - \*🥈 Unit<br>📖2 - \*🥇 Unit |
+| Mysterious Warlock | Ⅳ | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0.<br><br> 📖0 - \*:bronze: Unit<br>📖1 - \*:silver: Unit<br>📖2 - \*:golden: Unit |
 | Mysterious Warlock | Ⅵ | ⚡️ Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
 
 
@@ -158,7 +158,7 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Enchanters | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Magi](units.md#tower) and [Enchanters units](units.md#neutral). |
-| Enchanters | Ⅳ | 🌍 If you have a [Pack of Magi Unit](units.md#tower) card, discard it. Then, search the [Neutral Unit](units.md#neutral) 🥇 deck for the [Enchanters](units.md#neutral) card and add it to your Unit deck. You can control only 1 [Enchanters unit](units.md#neutral) at a time.<br><br>— OR —<br><br>⚡️ Draw a card. |
+| Enchanters | Ⅳ | 🌍 If you have a [Pack of Magi Unit](units.md#tower) card, discard it. Then, search the [Neutral Unit](units.md#neutral) :golden: deck for the [Enchanters](units.md#neutral) card and add it to your Unit deck. You can control only 1 [Enchanters unit](units.md#neutral) at a time.<br><br>— OR —<br><br>⚡️ Draw a card. |
 | Enchanters | Ⅵ | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 2.<br><br>This effect doubles for the [Magi](units.md#tower) and [Enchanters units](units.md#neutral). |
 
 
@@ -214,7 +214,7 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Sharpshooters | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Elves](units.md#rampart) and [Sharpshooters units](units.md#neutral). |
-| Sharpshooters | Ⅳ | 🌍 If you have a [Pack of Elves Unit](units.md#rampart) card, discard it. Then, search the [Neutral Unit](units.md) 🥈 deck for the [Sharpshooters](units.md#neutral) card and add it to your [Unit](units.md) deck. You can control only 1 [Sharpshooters](units.md#neutral) [unit](units.md) at a time.<br><br>— OR —<br><br>⚡️ Draw a card. |
+| Sharpshooters | Ⅳ | 🌍 If you have a [Pack of Elves Unit](units.md#rampart) card, discard it. Then, search the [Neutral Unit](units.md) :silver: deck for the [Sharpshooters](units.md#neutral) card and add it to your [Unit](units.md) deck. You can control only 1 [Sharpshooters](units.md#neutral) [unit](units.md) at a time.<br><br>— OR —<br><br>⚡️ Draw a card. |
 | Sharpshooters | Ⅵ | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 2.<br><br>This effect doubles for the [Elves](units.md#rampart) and [Sharpshooters units](units.md#neutral). |
 
 

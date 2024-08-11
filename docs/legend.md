@@ -7,10 +7,10 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 
 | Icon | Description |
 | :---: | :--- |
-| 🥉 | Bronze tier |
-| 🥈 | Silver tier |
-| 🥇 | Gold tier |
-| 🔷 | Azure tier |
+| :bronze: | Bronze tier |
+| :silver: | Silver tier |
+| :golden: | Gold tier |
+| :azure: | Azure tier |
 | 👣 | Ground unit |
 | 🪽 | Flying unit |
 | 🏹 | Ranged unit |
