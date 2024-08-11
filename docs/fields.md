@@ -2,15 +2,9 @@
 
 Field are single cells on a [tile](tiles.md).
 
-<!-- MarkdownTOC autolink="true" autoanchor="true" -->
+[TOC]
 
-- [Flaggable](#flaggable)
-- [Visitable](#visitable)
-- [Revisitable](#revisitable)
 
-<!-- /MarkdownTOC -->
-
-<a id="flaggable"></a>
 ## Flaggable
 
 | Name | Count | Effect |
@@ -23,7 +17,7 @@ Field are single cells on a [tile](tiles.md).
 | Star Axis | 3 | You may Remove one of your [Statistic](statistics.md) cards from your hand and replace it with an **Empowered** one of the same type. When you Flag this Field, do not remove any enemy Faction Cubes; multiple players may have a Faction Cube on this Field. |
 | Town | 7 | When flagged, the enemy Secondary [Heroes](heroes.md) or Main [Heroes](heroes.md) that have been defeated cannot spawn here.<br>Flagging an enemy town does prevent the enemy player from using it, nor does it grant any access to the [Town](towns.md) board or [Faction Units](units.md) to the player who flagged it.<br>Flagging a [Town](towns.md) can cause Player Elimination win condition, and some scenarios may have extra rules and rewards attached to flagging [Towns](towns.md). |
 
-<a id="visitable"></a>
+
 ## Visitable
 
 | Name | Count | Effect |
@@ -52,7 +46,7 @@ Field are single cells on a [tile](tiles.md).
 | Windmill | 12 | Gain 1 🔴. |
 | Witch Hut | 11 | Choose one:<br><br>Remove an [Ability](abilities.md) card from your hand<br><br>— OR —<br><br>look at the top card of the [Ability](abilities.md) Deck and put that card into your hand or into the [Ability](abilities.md) Deck Discard Pile. |
 
-<a id="revisitable"></a>
+
 ## Revisitable
 
 | Name | Count | Effect |

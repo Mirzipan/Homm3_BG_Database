@@ -2,27 +2,12 @@
 
 In addition to they're reguar effects, any spell can be also be discarded to provide +1📖. This options is omitted from the tables below to avoid information duplication.
 
-<!-- MarkdownTOC autolink="true" autoanchor="true" -->
+[TOC]
 
-- [Air Magic](#air-magic)
-	- [Basic](#basic)
-	- [Expert](#expert)
-- [Earth Magic](#earth-magic)
-	- [Basic](#basic-1)
-	- [Expert](#expert-1)
-- [Fire Magic](#fire-magic)
-	- [Basic](#basic-2)
-	- [Expert](#expert-2)
-- [Water Magic](#water-magic)
-	- [Basic](#basic-3)
-	- [Expert](#expert-3)
 
-<!-- /MarkdownTOC -->
-
-<a id="air-magic"></a>
 ## Air Magic
 
-<a id="basic"></a>
+
 ### Basic
 
 | Name | Effect |
@@ -35,7 +20,6 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Precision | ⚡️ When attacking a non-adjacent [unit](units.md), the selected 🏹 [unit](units.md) ignores the combat penalties and gains:<br><br>📖0 - +1 ⚔️<br>📖1 - +2 ⚔️<br>📖2 - +3 ⚔️ |
 | View Air | 🌍 Gain:<br><br>📖0 - 3 🟡<br>📖1 - 2 ⚫️<br>📖2 - 1 🔴 |
 
-<a id="expert"></a>
 ### Expert
 
 | Name | Effect |
@@ -45,10 +29,9 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Dimension Door | 🌍 Move a [Hero](heroes.md) up to \* field(s). Ignore any obstacles and fields in-between and resolve the last one normally.<br><br>📖0 - \*1<br>📖2 - \*2<br>📖4 - \*3 |
 | Fly | 🔄 During this turn, your [Hero](heroes.md) can move through the blocked fields (but cannot end their movement there) and:<br><br>📖0 - No additional effect<br>📖2 - +1 🐎<br>📖4 - +2 🐎 |
 
-<a id="earth-magic"></a>
+
 ## Earth Magic
 
-<a id="basic-1"></a>
 ### Basic
 
 | Name | Effect |
@@ -61,7 +44,6 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Stone Skin | ⚡️ The selected [unit](units.md) gains:<br><br>📖0 - +1 🛡️<br>📖1 - +2 🛡️<br>📖2 - +3 🛡️ |
 | View Earth | ⚡️ Choose enemy Mine within \* fields. Replace the owner's cube with yours.<br><br>📖0 - 1<br>📖1 - 2<br>📖2 - \*3 |
 
-<a id="expert-1"></a>
 ### Expert
 
 | Name | Effect |
@@ -71,10 +53,9 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Sorrow | ⚡️ When a \* [unit](units.md) is about to activate, skip this [unit's](units.md) activation.<br><br>📖0 - \*🥉<br>📖2 - \*🥉 or 🥈<br>📖4 - \*🥉 or 🥈 or 🥇 |
 | Town Portal | 🌍 Move your [Hero](heroes.md) to a selected [Town](towns.md) or Settlement in your control, and:<br><br>📖0 - No additional effect<br>📖2 - +1 🐎<br>📖4 - +2 🐎 |
 
-<a id="fire-magic"></a>
+
 ## Fire Magic
 
-<a id="basic-2"></a>
 ### Basic
 
 | Name | Effect |
@@ -87,7 +68,6 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Misfortune | ⚡️ Play immediately when the selected \* enemy [unit](units.md) is attacking. Negate an [Attack die](dice.md#attack-die) result or an additional ⚔️ from any card.<br><br>📖0 - \*🥉<br>📖1 - \*🥉 or 🥈<br>📖2 - \*🥉 or 🥈 or 🥇 |
 | Visions | ⚡️ Draw \* from any Neutral [Unit](units.md) deck. You can discard any of them and return the remaining cards in any order.<br><br>📖0 - \*1 card<br>📖1 - \*2 cards<br>📖2 - \*3 cards |
 
-<a id="expert-2"></a>
 ### Expert
 
 | Name | Effect |
@@ -99,10 +79,9 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Inferno | ➡️ Select a space. Now roll and [Attack die](dice.md#attack-die) \*. All [units](units.md) on this and the adjacent spaces take 1 ❤️‍🩹 for every "+1" rolled.<br><br>📖0 - \*once<br>📖1 - \*twice<br>📖2 - \*4 times |
 | Slayer | ⚡️ When attacking a 🥇 [unit](units.md), roll an [Attack die](dice.md#attack-die) \* and apply all the results (except for a "-1"). After resolving this ⚔️, draw 1 card.<br><br>📖0 - \*twice<br>📖2 - \*4 times<br>📖4 - \*6 times |
 
-<a id="water-magic"></a>
+
 ## Water Magic
 
-<a id="basic-3"></a>
 ### Basic
 
 | Name | Effect |
@@ -115,7 +94,6 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Remove Obstacle | ⚡️ Remove \* obstacles (except [units](units.md)) from the Combat board.<br><br>📖0 - \*1<br>📖1 - \*2<br>📖2 - \*3 |
 | Weakness | ⚡️ The selected [unit](units.md) suffers (to a minimum of 0):<br><br>📖0 - -1 ⚔️<br>📖1 - -2 ⚔️<br>📖2 - -3 ⚔️ |
 
-<a id="expert-3"></a>
 ### Expert
 
 | Name | Effect |

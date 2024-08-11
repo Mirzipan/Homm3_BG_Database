@@ -6,18 +6,9 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 
 🔮 - Unrelased and incomplete content
 
-<!-- MarkdownTOC autolink="true" autoanchor="true" -->
+[TOC]
 
-- [Starting](#starting)
-- [Far](#far)
-- [Near](#near)
-- [Center](#center)
-- [Underground](#underground)
-- [Water](#water)
 
-<!-- /MarkdownTOC -->
-
-<a id="starting"></a>
 ## Starting
 
 | Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right |
@@ -33,7 +24,7 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 | S9 🔮 | Highlands | Ⅰ<br><br>⚫️ [Mine](fields.md#flaggable) | - | ❌| [Cove Town](towns.md#cove) | - | Ⅰ<br><br>[Treasure](fields.md#visitable) | [Resources](fields.md#visitable) |
 | #S1 | Snow | Ⅰ<br><br>⚫️ [Mine](fields.md#flaggable) | ❌ | - | [Tower Town](towns.md#tower) | - | [Resources](fields.md#visitable) | Ⅰ<br><br>[Treasure](fields.md#visitable) |
 
-<a id="far"></a>
+
 ## Far
 
 | Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right |
@@ -70,7 +61,7 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 | #F9 | Swamp | Ⅲ<br><br>⚫️ [Mine](fields.md#flaggable) | Temple | Tavern | Redwood Observatory | Ⅱ<br><br>Mystical Garden | Ⅱ<br><br>[Artifact](artifacts.md) | ❌ |
 | #F10 | Dirt | Ⅱ<br><br>Prison | [Artifact](artifacts.md) | [Treasure](fields.md#visitable) | ❌ | [Trading Post](trading.md) | Witch Hut | Ⅲ<br><br>⚫️ [Mine](fields.md#flaggable) |
 
-<a id="near"></a>
+
 ## Near
 
 | Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right |
@@ -93,7 +84,7 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 | #N2 | Snow | Fountain of Youth | Ⅴ<br><br>🔴 [Mine](fields.md#flaggable) | ❌ | Obelisk | [Trading Post](trading.md) | Ⅳ<br><br>[Treasure](fields.md#visitable) | Witch Hut |
 | #N3 | Grass | Ⅴ<br><br>🟡 [Mine](fields.md#flaggable) | [Trading Post](trading.md) | ❌ | [Windmill](fields.md#visitable) | Fountain of Youth | Sanctuary | Ⅳ<br><br>Pandora's Box |
 
-<a id="center"></a>
+
 ## Center
 
 | Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right |
@@ -105,7 +96,7 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 | C5 | Dirt | Ⅵ<br><br>Tree of Knowledge | Warrior's Tomb | ❌ | Ⅶ<br><br>[Random Town](towns.md) | Temple | Ⅵ<br><br>Star Axis | Sanctuary |
 | #C1 | Snow | [Shrine of Magic Gesture](spells.md) | Ⅵ<br><br>⚫️ [Mine](fields.md#flaggable) | Ⅵ<br><br>Warrior's Tomb | Ⅶ<br><br>[Tower Settlement](towns.md#tower) | Sanctuary | Water Wheel | ❌ |
 
-<a id="underground"></a>
+
 ## Underground
 
 | Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right |
@@ -113,7 +104,7 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 | U1 🔮 | Subterranean | ❌ | Ⅴ<br><br>⚫️ [Mine](fields.md#flaggable) | Learning Stone | - | Subterranean Gate | Spell Scroll | Ⅳ<br><br>[Treasure](fields.md#visitable) |
 | U2 🔮 | Subterranean | 🚧 | ❌ | - | Ⅴ<br><br>⚫️ [Mine](fields.md#flaggable) | Magic Spring | [Resources](fields.md#visitable) | Witch Hut |
 
-<a id="water"></a>
+
 ## Water
 
 | Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right |

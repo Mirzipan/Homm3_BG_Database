@@ -1,14 +1,8 @@
 # Artifacts
 
-<!-- MarkdownTOC autolink="true" autoanchor="true" -->
+[TOC]
 
-- [Minor](#minor)
-- [Major](#major)
-- [Relic](#relic)
 
-<!-- /MarkdownTOC -->
-
-<a id="minor"></a>
 ## Minor
 
 | Name | Effect | Flavor |
@@ -41,7 +35,7 @@
 | Spirit of Oppression | 🔄 During this Combat, neither player can use the 💛 token or reroll [Attack dice](dice.md#attack-die).<br><br>— OR —<br><br>⚡️ +1 📖 | Walking through the ruins of an ancient walled city, you find the instrument of the city's destruction, the Spirit of Oppression. |
 | Torse of Legion | ⚡️ Reduce the cost of Recruitment or reduce the cost of Reinforcing a [unit](units.md) by 6 🟡 (to a minimum of 0).<br><br>— OR —<br><br>⚡️ Gain 1 🔴 or 2 ⚫️. | Searching a ruin, you are amazed to find a piece of the Statue of Legion. You carefully dust it off before placing it in your pack. |
 
-<a id="major"></a>
+
 ## Major
 
 | Name | Effect | Flavor |
@@ -70,7 +64,7 @@
 | Tunic of the Cyclops King | ⚡️ Draw 1 card and gain +1 📖.<br><br>— OR —<br><br>⚡️ +2 📖 | You catch a Cyclops skinny dipping, and as a prank you make off with his clothes. Later, you realize the tunic is magical. |
 | Vial of Lifeblood | ⚡️ Remove up to 3 ❤️‍🩹 from one of your units.<br><br>— OR —<br><br> 🔄 For this Combat, your selected [unit](units.md) gains +1 ❤️.| You find a mystical shrine hidden among the trees. Floating above the altar is a vial said to contain the Blood of Life. You very carefullty remove it, taking care not to disturb anything else. |
 
-<a id="relic"></a>
+
 ## Relic
 
 | Name | Effect | Flavor |

@@ -4,27 +4,12 @@ Statistics for all units.
 
 For units that belong to a [town](towns.md), stat changes between "few" and "pack" are shown in **bold**.
 
-<!-- MarkdownTOC autolink="true" autoanchor="true" -->
+[TOC]
 
-- [Castle](#castle)
-- [Necropolis](#necropolis)
-- [Dungeon](#dungeon)
-- [Tower](#tower)
-- [Rampart](#rampart)
-- [Fortress](#fortress)
-- [Inferno](#inferno)
-- [Stronghold](#stronghold)
-- [Conflux](#conflux)
-- [Cove](#cove)
-- [Neutral](#neutral)
-- [Other](#other)
 
-<!-- /MarkdownTOC -->
-
-<a id="castle"></a>
 ## Castle
 
-| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Halberdiers | Few | 🥉 | 👣 | 2 | 1 | 2 | 4 | 2 🟡 | - |
 | Halberdiers | Pack | 🥉 | 👣 | **3** | 1 | 2 | **5** | 3 🟡 | ⏳ When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](dice.md#attack-die) roll result. |
@@ -41,10 +26,10 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Archangels | Few | 🥇 | 🪽 | 6 | 3 | 8 | 12 | 20 🟡<br>1 🔴 | 🌍 When combat begins, draw 1 card. |
 | Archangels | Pack | 🥇 | 🪽 | **7** | 3 | **10** | **18** | 30 🟡<br>2 🔴 | 🌍 Once per Combat. Cancel an attack that would reduce another unit's ❤️ to 0. |
 
-<a id="necropolis"></a>
+
 ## Necropolis
 
-| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Skeletons | Few | 🥉 | 👣 | 2 | 1 | 2 | 4 | 2 🟡 | - |
 | Skeletons | Pack | 🥉 | 👣 | **3** | 1 | 2 | **5** | 3 🟡 | - |
@@ -61,10 +46,10 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Ghost Dragons | Few | 🥇 | 🪽 | 6 | 3 | 8 | 9 | 19 🟡<br>1 🔴 | ➡️ Discard the enemy's 💛 token. |
 | Ghost Dragons | Pack | 🥇 | 🪽 | **7** | 3 | **9** | **14** | 32 🟡<br>2 🔴 | ➡️ Discard the enemy's 💛 token.<br>🪓 Add +1 to your [Attack die](dice.md#attack-die) result. |
 
-<a id="dungeon"></a>
+
 ## Dungeon
 
-| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Troglodytes | Few | 🥉 | 👣 | 2 | 1 | 2 | 4 | 2 🟡 | - |
 | Troglodytes | Pack | 🥉 | 👣 | **3** | 1 | 2 | **5** | 3 🟡 | ⏳ This unit ignores 🐍 effect. |
@@ -81,10 +66,10 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Black Dragons | Few | 🥇 | 🪽 | 6 | 3 | 8 | 11 | 19 🟡<br>1 🔴 | ⏳ Reduce ❤️‍🩹 taken by this unit from [🪄](spells.md) by 2 to a minimum of 0. |
 | Black Dragons | Pack | 🥇 | 🪽 | **8** | 3 | 8 | **15** | 33 🟡<br>2 🔴 | ⏳ Ignore any [🪄](spells.md) effects and ❤️‍🩹 from [Specialty](heroes.md). |
 
-<a id="tower"></a>
+
 ## Tower
 
-| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Gremlins | Few | 🥉 | 🏹 | 2 | 0 | 2 | 4 | 0 🟡 | - |
 | Gremlins | Pack | 🥉 | 🏹 | 2 | 0 | 2 | **5** | 2 🟡 | - |
@@ -101,10 +86,10 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Titans | Few | 🥇 | 👣 | 6 | 3 | 8 | 7 | 18 🟡<br>1 🔴 | ⏳ Ignore any 🔄 effects on this unit. |
 | Titans | Pack | 🥇 | 🏹 | 6 | 3 | 8 | **11** | 32 🟡<br>2 🔴 | ⏳ Ignore any 🔄 effects on this unit and combat penalties against adjacent units. |
 
-<a id="rampart"></a>
+
 ## Rampart
 
-| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Centaurs | Few | 🥉 | 👣 | 2 | 0 | 3 | 6 | 2 🟡 | - |
 | Centaurs | Pack | 🥉 | 👣 | **3** | 0 | 3 | **8** | 3 🟡 | - |
@@ -121,10 +106,10 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Gold Dragons | Few | 🥇 | 👣 | 5 | 3 | 9 | 10 | 22 🟡<br>1 🔴 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 ⚔️, |
 | Gold Dragons | Pack | 🥇 | 👣 | **6** | 3 | **10** | **16** | 30 🟡<br>2 🔴 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 ⚔️. |
 
-<a id="fortress"></a>
+
 ## Fortress
 
-| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Gnolls | Few | 🥉 | 👣 | 2 | 1 | 3 | 4 | 2 🟡 | - |
 | Gnolls | Pack | 🥉 | 👣 | 2 | 1 | **4** | **5** | 3 🟡 | - |
@@ -141,10 +126,10 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Hydras | Few | 🥇 | 👣 | 6 | 3 | 8 | 5 | 20 🟡<br>1 🔴 | 🪓 Ignore the Retaliation Attack. |
 | Hydras | Pack | 🥇 | 👣 | **7** | 3 | **10** | **7** | 28 🟡<br>2 🔴 | 🪓 Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. |
 
-<a id="inferno"></a>
+
 ## Inferno
 
-| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Familiars | Few | 🥉 | 👣 | 2 | 1 | 2 | 5 | 2 🟡 | - |
 | Familiars | Pack | 🥉 | 👣 | **3** | 1 | 2 | **7** | 3 🟡 | ⏳ Whenever an enemy casts a [🪄](spells.md) from hand, they must discard 1 card from hand. |
@@ -161,12 +146,12 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Arch Devils | Few | 🥇 | 🪽 | 6 | 3 | 8 | 11 | 22 🟡<br>1 🔴 | 🪓 Ignores Retaliation Attacks. |
 | Arch Devils | Pack | 🥇 | 🪽 | **7** | 3 | **9** | **15** | 30 🟡<br>2 🔴 | 🪓 Ignores Retaliation Attacks.<br>⏳ As a regular movement, the Arch Devils can move to any empty space. |
 
-<a id="stronghold"></a>
+
 ## Stronghold
 
 🔮 Unrelased and incomplete content.
 
-| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Goblins | Few | 🥉 | 👣 | 1 | 0 | 4 | 6 | 1 🟡 | - |
 | Goblins | Pack | 🥉 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 2 🟡 | 🚧 |
@@ -183,12 +168,12 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Behemoths | Few | 🥇 | 👣 | 7 | 2 | 8 | 6 | 19 🟡<br>1 🔴 | 🪓 Decrease the target's 🛡️ by 1 (to a minimum of 0). |
 | Behemoths | Pack | 🥇 | 👣 | **8** | 2 | **10** | **9** | 29 🟡<br>2 🔴 | 🪓 Decrease the target's 🛡️ by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. |
 
-<a id="conflux"></a>
+
 ## Conflux
 
 🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
 
-| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Sprites | Few | 🥉 | 🪽 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Sprites | Pack | 🥉 | 🪽 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
@@ -205,12 +190,12 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Phoenixes | Few | 🥇 | 🪽 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Phoenixes | Pack | 🥇 | 🪽 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 
-<a id="cove"></a>
+
 ## Cove
 
 🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
 
-| Name | #️⃣ | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Oceanids | Few | 🥉 | 🪽 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Oceanids | Pack | 🥉 | 🪽 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
@@ -227,7 +212,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Haspids | Few | 🥇 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Haspids | Pack | 🥇 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 
-<a id="neutral"></a>
+
 ## Neutral
 
 | Name | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
