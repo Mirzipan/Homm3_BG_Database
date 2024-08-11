@@ -19,9 +19,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Battlefield Medic | Ⅰ | ⚡️ Discard 1 card. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 1 ❤️‍🩹. |
+| Battlefield Medic | Ⅰ | ⚡️ Discard 1 card. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 1 :damage-table:. |
 | Battlefield Medic | Ⅳ | ⚡️ Select 1 [Spell](spells.md) or Specialty card from your discard pile and put it back in your hand. |
-| Battlefield Medic | Ⅵ | ⚡️ Discard 2 cards. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 2 ❤️‍🩹. |
+| Battlefield Medic | Ⅵ | ⚡️ Discard 2 cards. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 2 :damage-table:. |
 
 
 ### Catherine
@@ -37,18 +37,18 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Estates | Ⅰ | ⚡️ Gain 2 🟡. |
-| Estates | Ⅳ | ⚡️ Gain 3 🟡. |
-| Estates | Ⅵ | ⚡️ Gain 5 🟡. |
+| Estates | Ⅰ | ⚡️ Gain 2 :gold:. |
+| Estates | Ⅳ | ⚡️ Gain 3 :gold:. |
+| Estates | Ⅵ | ⚡️ Gain 5 :gold:. |
 
 
 ### Rion
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Battlefield Medic | Ⅰ | ⚡️ Remove 1 ❤️‍🩹 from one of your [units](units.md), then draw 1 card. |
-| Battlefield Medic | Ⅳ | ⚡️ Remove 1 ❤️‍🩹 or 🐍 from one of your [units](units.md), then draw 1 card. |
-| Battlefield Medic | Ⅵ | ⚡️ Remove up to 2 ❤️‍🩹 or 🐍 from one of your [units](units.md), then draw 2 cards and discard 1 card from your hand. |
+| Battlefield Medic | Ⅰ | ⚡️ Remove 1 :damage-table: from one of your [units](units.md), then draw 1 card. |
+| Battlefield Medic | Ⅳ | ⚡️ Remove 1 :damage-table: or 🐍 from one of your [units](units.md), then draw 1 card. |
+| Battlefield Medic | Ⅵ | ⚡️ Remove up to 2 :damage-table: or 🐍 from one of your [units](units.md), then draw 2 cards and discard 1 card from your hand. |
 
 
 ## Necropolis
@@ -65,9 +65,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Dread Knights | Ⅰ | ⚡️ Reduce the ❤️‍🩹 from enemy retaliation by 1.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
+| Dread Knights | Ⅰ | ⚡️ Reduce the :damage-table: from enemy retaliation by 1.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
 | Dread Knights | Ⅳ | 🔄 For this Combat, when an enemy performs a Retaliation Attack against this [unit](units.md), roll 2 [Attack dice](dice.md#attack-die) and resolve the lower outcome. |
-| Dread Knights | Ⅵ | ⚡️ Reduce the ❤️‍🩹 from enemy retaliation by 2.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
+| Dread Knights | Ⅵ | ⚡️ Reduce the :damage-table: from enemy retaliation by 2.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
 
 
 ### Sandro
@@ -92,9 +92,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Necromancy | Ⅰ | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](units.md) of your choice for half the 🟡 cost (rounded down). |
+| Necromancy | Ⅰ | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](units.md) of your choice for half the :gold: cost (rounded down). |
 | Necromancy | Ⅳ | ⚡️ Put this card on the ["Pack" of Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. Keep the card, until the card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack:3 ❤️2 :defense:1 🤺6 |
-| Necromancy | Ⅵ | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](units.md) of your choice for half the 🟡 cost (rounded down). |
+| Necromancy | Ⅵ | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](units.md) of your choice for half the :gold: cost (rounded down). |
 
 
 ## Dungeon
@@ -120,9 +120,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Meteor Shower | Ⅰ | ⚡️ Select a [unit](units.md) and 1 [unit](units.md) adjacent to it. Deal \* to both selected [units](units.md).<br><br> 📖0 - 1 ❤️‍🩹<br>📖2 - 2 ❤️‍🩹<br>📖4 - 3 ❤️‍🩹 |
+| Meteor Shower | Ⅰ | ⚡️ Select a [unit](units.md) and 1 [unit](units.md) adjacent to it. Deal \* to both selected [units](units.md).<br><br> 📖0 - 1 :damage-table:<br>📖2 - 2 :damage-table:<br>📖4 - 3 :damage-table: |
 | Meteor Shower | Ⅳ | ⚡️ +1 📖<br><br>— OR —<br><br>⚡️ Shuffle your discard pile back into your deck, then draw 1 card. |
-| Meteor Shower | Ⅵ | ⚡️ Select a [unit](units.md) and 2 [units](units.md) adjacent to it. Deal \* to all selected [units](units.md).<br><br> 📖0 - 1 ❤️‍🩹<br>📖2 - 2 ❤️‍🩹<br>📖4 - 3 ❤️‍🩹 |
+| Meteor Shower | Ⅵ | ⚡️ Select a [unit](units.md) and 2 [units](units.md) adjacent to it. Deal \* to all selected [units](units.md).<br><br> 📖0 - 1 :damage-table:<br>📖2 - 2 :damage-table:<br>📖4 - 3 :damage-table: |
 
 
 ### Jeddite
@@ -184,9 +184,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Chain Lightning | Ⅰ | ➡️ Select a [unit](units.md) and another 2 [units](units.md) closest to it. Allocate 1/1/0 ❤️‍🩹. starting with the first selected [unit](units.md). |
+| Chain Lightning | Ⅰ | ➡️ Select a [unit](units.md) and another 2 [units](units.md) closest to it. Allocate 1/1/0 :damage-table:. starting with the first selected [unit](units.md). |
 | Chain Lightning | Ⅳ | ⚡️ Discard up to 3 cards from your Might and Magic deck and return 1 of them to your hand. |
-| Chain Lightning | Ⅵ | ➡️ Select a [unit](units.md) and another 2 [units](units.md) closest to it. Allocate 2/1/1 ❤️‍🩹. starting with the first selected [unit](units.md). |
+| Chain Lightning | Ⅵ | ➡️ Select a [unit](units.md) and another 2 [units](units.md) closest to it. Allocate 2/1/1 :damage-table:. starting with the first selected [unit](units.md). |
 
 
 
@@ -206,7 +206,7 @@ You might also want to see [towns](towns.md).
 | :--- | :---: | :---: |
 | Unicorns | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
 | Unicorns | Ⅳ | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 1.<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
-| Unicorns | Ⅵ | 🔄 For this Combat, your selected [unit](units.md) reduces any ❤️‍🩹 it takes from spells by 1 - to a minimum of 0.<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
+| Unicorns | Ⅵ | 🔄 For this Combat, your selected [unit](units.md) reduces any :damage-table: it takes from spells by 1 - to a minimum of 0.<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
 
 
 ### Gelu
@@ -223,7 +223,7 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | First Aid | Ⅰ | ⚡️ Take a [First Aid Tent](war_machines.md) card from the [War Machine](war_machines.md) deck at no cost.<br><br>— OR —<br><br>⚡️ If you already have a [First Aid Tent](war_machines.md), draw 1 card. |
-| First Aid | Ⅳ | ⚡️ Remove 2 ❤️‍🩹 from one of your [units](units.md). |
+| First Aid | Ⅳ | ⚡️ Remove 2 :damage-table: from one of your [units](units.md). |
 | First Aid | Ⅵ | 🔄 For this Combat, double your [First Aid Tent's](war_machines.md) effect. |
 
 
@@ -306,17 +306,17 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Efreet | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
-| Efreet | Ⅳ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 👣 or 🪽 [unit](units.md), the attacker takes 1 ❤️‍🩹. |
-| Efreet | Ⅵ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 👣 or 🪽 [unit](units.md), the attacker takes 1 ❤️‍🩹.<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
+| Efreet | Ⅳ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 👣 or 🪽 [unit](units.md), the attacker takes 1 :damage-table:. |
+| Efreet | Ⅵ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 👣 or 🪽 [unit](units.md), the attacker takes 1 :damage-table:.<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
 
 
 ### Xyron
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Inferno | Ⅰ | ➡️ Discard 2 cards. Then select a space. All [units](units.md) on this and the adjacent spaces take 1 ❤️‍🩹. |
-| Inferno | Ⅳ | ➡️ Discard 1 card. Then select a space. All [units](units.md) on this and the adjacent spaces take 1 ❤️‍🩹. |
-| Inferno | Ⅵ | ➡️ Select a space. All [units](units.md) on this and the adjacent spaces take 1 ❤️‍🩹. |
+| Inferno | Ⅰ | ➡️ Discard 2 cards. Then select a space. All [units](units.md) on this and the adjacent spaces take 1 :damage-table:. |
+| Inferno | Ⅳ | ➡️ Discard 1 card. Then select a space. All [units](units.md) on this and the adjacent spaces take 1 :damage-table:. |
+| Inferno | Ⅵ | ➡️ Select a space. All [units](units.md) on this and the adjacent spaces take 1 :damage-table:. |
 
 
 ### Zydar
@@ -374,7 +374,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Fire Wall | Ⅰ | 🔄 For this Combat, place this card in an empty space on the Combat board. Deal 1 ❤️‍🩹 to any [unit](units.md) stopping here and to any 👣 or 🏹 [unit](units.md) passing through. |
+| Fire Wall | Ⅰ | 🔄 For this Combat, place this card in an empty space on the Combat board. Deal 1 :damage-table: to any [unit](units.md) stopping here and to any 👣 or 🏹 [unit](units.md) passing through. |
 | Fire Wall | Ⅳ | 🚧 |
 | Fire Wall | Ⅵ | 🚧 |
 

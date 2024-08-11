@@ -19,7 +19,7 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 | 📖 | Power |
 | 📚 | Intelligence |
 | ❤️ | Health |
-| ❤️‍🩹 | Damage |
+| :damage-table: | Damage |
 | 🤺 | Initiative |
 
 ## Factions
@@ -54,9 +54,9 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 
 | Icon | Description |
 | :---: | :--- |
-| 🟡 | Gold |
-| ⚫️ | Building materials |
-| 🔴 | Valuables |
+| :gold: | Gold |
+| :building_materials: | Building materials |
+| :valuablegreater: | Valuables |
 
 ## Dice
 

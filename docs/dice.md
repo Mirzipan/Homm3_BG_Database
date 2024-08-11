@@ -16,12 +16,12 @@
 
 | Sides |
 | :---: |
-| 3 🟡 |
-| 6 🟡 |
-| 2 ⚫️ |
-| 4 ⚫️ |
-| 1 🔴 |
-| 2 🔴 |
+| 3 :gold: |
+| 6 :gold: |
+| 2 :building_materials: |
+| 4 :building_materials: |
+| 1 :valuablegreater: |
+| 2 :valuablegreater: |
 
 
 ## Treasure Die
