@@ -25,7 +25,7 @@ Field are single cells on a [tile](tiles.md).
 | Fountain of Youth | 7 | Gain :morale_positive: token. Gain +1 :movement: for this turn. |
 | Grail | 2 | Gain a Grail Token. Only one Grail Token can exist in the game, do not gain another if this Field’s Black Cube is removed or if there are multiple Grail Fields. The Token’s effects are described in the Scenario’s description. |
 | Hill Fort | 1 | You may immediately Reinforce one of your :bronze: or :silver: [Units](units.md). The Reinforcement cost is reduced by 3 :gold: to a minimum of 0. |
-| Learning Stone | 8 | Gain one Experience Point. |
+| Learning Stone | 8 | Gain one :experience:. |
 | Magic Spring | 13 | You may look at the top 3 Cards of your Discard Pile and return one of them to your Hand. Return the remaining cards to the top of your Discard Pile in any order. |
 | Market of Time | 1 | Remove one card from your hand. Then **Search(2)** the [Ability](abilities.md), [Spell](spells.md), or [Artifact](artifacts.md) Deck. |
 | Mystical Garden | 10 | Gain 2 :gold:.<br><br>— OR —<br><br>Gain 1 :valuablegreater:. |
@@ -37,7 +37,7 @@ Field are single cells on a [tile](tiles.md).
 | Shrine of Magic Gesture | 10 | Pay :pay_v2: 3 :gold: to **Search(2)** the [Spell](spells.md) Deck. |
 | Shrine of Magic Incantation | 7 | **Search(2)** the [Spell](spells.md) Deck. |
 | Temple | 10 | Gain :morale_positive: token. |
-| Tree of Knowledge | 9 | You may :pay_v2: 3 :valuablegreater: or 10 :gold: to gain 2 Experience Points. |
+| Tree of Knowledge | 9 | You may :pay_v2: 3 :valuablegreater: or 10 :gold: to gain 2 :experience:. |
 | University | 1 | :pay_v2: 6 :gold: to **Search(4)** the [Ability](abilities.md) Discard Pile |
 | Warrior's Tomb | 8 | **Search(2)** [Artifacts](artifacts.md) twice, then gain :morale_negative: token twice. |
 | Water Wheel | 14 | Gain 3 :gold:. |

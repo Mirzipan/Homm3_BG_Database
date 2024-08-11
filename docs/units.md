@@ -7,7 +7,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Castle
 
-| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Halberdiers | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
 | Halberdiers | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | ⏳ When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](dice.md#attack-die) roll result. |
@@ -27,7 +27,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Necropolis
 
-| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Skeletons | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
 | Skeletons | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | - |
@@ -47,7 +47,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Dungeon
 
-| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Troglodytes | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
 | Troglodytes | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | ⏳ This unit ignores 🐍 effect. |
@@ -61,13 +61,13 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Minotaurs | Pack | :silver: | :unit_ground: | **5** | 2 | 4 | **8** | 14 :gold: | 🪓 If you resolve a "-1" on the [Attack die](dice.md#attack-die), draw a card, |
 | Manticores | Few | :golden: | :unit_flying: | 5 | 1 | 6 | 7 | 10 :gold: | - |
 | Manticores | Pack | :golden: | :unit_flying: | 5 | 1 | 6 | **11** | 18 :gold:<br>1 :valuablegreater: | 🪓 For this attack, ignore the :defense: value from the target unit's card. |
-| Black Dragons | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 11 | 19 :gold:<br>1 :valuablegreater: | ⏳ Reduce :damage-table: taken by this unit from [🪄](spells.md) by 2 to a minimum of 0. |
-| Black Dragons | Pack | :golden: | :unit_flying: | **8** | 3 | 8 | **15** | 33 :gold:<br>2 :valuablegreater: | ⏳ Ignore any [🪄](spells.md) effects and :damage-table: from [Specialty](heroes.md). |
+| Black Dragons | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 11 | 19 :gold:<br>1 :valuablegreater: | ⏳ Reduce :damage-table: taken by this unit from [:spellpower:](spells.md) by 2 to a minimum of 0. |
+| Black Dragons | Pack | :golden: | :unit_flying: | **8** | 3 | 8 | **15** | 33 :gold:<br>2 :valuablegreater: | ⏳ Ignore any [:spellpower:](spells.md) effects and :damage-table: from [Specialty](heroes.md). |
 
 
 ## Tower
 
-| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Gremlins | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 0 :gold: | - |
 | Gremlins | Pack | :bronze: | :unit_ranged: | 2 | 0 | 2 | **5** | 2 :gold: | - |
@@ -76,9 +76,9 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Iron Golems | Few | :bronze: | :unit_ground: | 3 | 1 | 3 | 4 | 4 :gold: | ⏳ This unit reduces any :damage-table: it takes from [spells](spells.md) by 1 - to a minimum of 0. |
 | Iron Golems | Pack | :bronze: | :unit_ground: | 3 | **2** | 3 | **5** | 7 :gold: | ⏳ This unit reduces any :damage-table: it takes from [spells](spells.md) by 2 - to a minimum of 0. |
 | Magi | Few | :silver: | :unit_ranged: | 3 | 0 | 4 | 5 | 6 :gold: | 🪓 Ignore combat penalties. |
-| Magi | Pack | :silver: | :unit_ranged: | **4** | **1** | 4 | 6 | 11 :gold: | 🪓 Ignore combat penalties. ➡️ Add +1 📖 to the first [spell](spells.md) you cast this round. |
-| Genies | Few | :silver: | :unit_flying: | 3 | 1 | 6 | 7 | 8 :gold: | 🌀 Discard 3 cards from your deck and take a [🪄](spells.md) discarded this way to your hand. |
-| Genies | Pack | :silver: | :unit_flying: | **4** | 1 | 6 | **8** | 12 :gold: | 🪓 Discard 3 cards from your deck and take a [🪄](spells.md) discarded this way to your hand. |
+| Magi | Pack | :silver: | :unit_ranged: | **4** | **1** | 4 | 6 | 11 :gold: | 🪓 Ignore combat penalties. ➡️ Add +1 :empower: to the first [spell](spells.md) you cast this round. |
+| Genies | Few | :silver: | :unit_flying: | 3 | 1 | 6 | 7 | 8 :gold: | 🌀 Discard 3 cards from your deck and take a [:spellpower:](spells.md) discarded this way to your hand. |
+| Genies | Pack | :silver: | :unit_flying: | **4** | 1 | 6 | **8** | 12 :gold: | 🪓 Discard 3 cards from your deck and take a [:spellpower:](spells.md) discarded this way to your hand. |
 | Nagas | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 6 | 13 :gold: | 🪓 Ignore Retaliation Attacks. |
 | Nagas | Pack | :golden: | :unit_ground: | **6** | 2 | 7 | **8** | 18 :gold:<br>1 :valuablegreater: | 🪓 Ignore Retaliation Attacks. |
 | Titans | Few | :golden: | :unit_ground: | 6 | 3 | 8 | 7 | 18 :gold:<br>1 :valuablegreater: | ⏳ Ignore any 🔄 effects on this unit. |
@@ -87,7 +87,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Rampart
 
-| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Centaurs | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 6 | 2 :gold: | - |
 | Centaurs | Pack | :bronze: | :unit_ground: | **3** | 0 | 3 | **8** | 3 :gold: | - |
@@ -96,18 +96,18 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Elves | Few | :bronze: | :unit_ranged: | 2 | 1 | 3 | 6 | 4 :gold: | - |
 | Elves | Pack | :bronze: | :unit_ranged: | **3** | 1 | 3 | **7** | 7 :gold: | 🪓 If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. |
 | Pegasi | Few | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 6 :gold: | - |
-| Pegasi | Pack | :silver: | :unit_flying: | **4** | 0 | **6** | **12** | 10 :gold: | ⏳ The 📖 of all enemy [spells](spells.md) is reduced by 1 (to a minimum of 0). |
+| Pegasi | Pack | :silver: | :unit_flying: | **4** | 0 | **6** | **12** | 10 :gold: | ⏳ The :empower: of all enemy [spells](spells.md) is reduced by 1 (to a minimum of 0). |
 | Dendroids | Few | :silver: | :unit_ground: | 4 | 2 | 5 | 3 | 8 :gold: | - |
 | Dendroids | Pack | :silver: | :unit_ground: | 4 | 2 | **6** | **4** | 15 :gold: | ⏳ Enemy units that start activation adjacent to this unit cannot move. |
-| Unicorns | Few | :golden: | :unit_ground: | 5 | 1 | 8 | 7 | 11 :gold: | ⏳ Reduce any :damage-table: from [🪄](spells.md) dealt to this unit by 1 (to a minimum of 0), |
-| Unicorns | Pack | :golden: | :unit_ground: | **6** | 1 | 8 | **9** | 18 :gold:<br>1 :valuablegreater: | ⏳ Reduce any :damage-table: from [🪄](spells.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), |
+| Unicorns | Few | :golden: | :unit_ground: | 5 | 1 | 8 | 7 | 11 :gold: | ⏳ Reduce any :damage-table: from [:spellpower:](spells.md) dealt to this unit by 1 (to a minimum of 0), |
+| Unicorns | Pack | :golden: | :unit_ground: | **6** | 1 | 8 | **9** | 18 :gold:<br>1 :valuablegreater: | ⏳ Reduce any :damage-table: from [:spellpower:](spells.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), |
 | Gold Dragons | Few | :golden: | :unit_ground: | 5 | 3 | 9 | 10 | 22 :gold:<br>1 :valuablegreater: | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, |
 | Gold Dragons | Pack | :golden: | :unit_ground: | **6** | 3 | **10** | **16** | 30 :gold:<br>2 :valuablegreater: | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |
 
 
 ## Fortress
 
-| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Gnolls | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 4 | 2 :gold: | - |
 | Gnolls | Pack | :bronze: | :unit_ground: | 2 | 1 | **4** | **5** | 3 :gold: | - |
@@ -127,10 +127,10 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Inferno
 
-| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Familiars | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 5 | 2 :gold: | - |
-| Familiars | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **7** | 3 :gold: | ⏳ Whenever an enemy casts a [🪄](spells.md) from hand, they must discard 1 card from hand. |
+| Familiars | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **7** | 3 :gold: | ⏳ Whenever an enemy casts a [:spellpower:](spells.md) from hand, they must discard 1 card from hand. |
 | Magogs | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 3 :gold: | - |
 | Magogs | Pack | :bronze: | :unit_ranged: | 2 | 0 | **3** | **6** | 5 :gold: | 🪓 When Magogs attack a target that is not adjacent to them, they also deal 1 :damage-table: to a unit adjacent to the target. |
 | Cerberi | Few | :bronze: | :unit_ground: | 3 | 0 | 4 | 7 | 4 :gold: | - |
@@ -149,7 +149,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 🔮 Unrelased and incomplete content.
 
-| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Goblins | Few | :bronze: | :unit_ground: | 1 | 0 | 4 | 6 | 1 :gold: | - |
 | Goblins | Pack | :bronze: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 2 :gold: | 🚧 |
@@ -162,7 +162,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Thunderbirds | Few | :silver: | :unit_flying: | 4 | 1 | 6 | 9 | 8 :gold: | - |
 | Thunderbirds | Pack | :silver: | :unit_flying: | **5** | 1 | 6 | **11** | 14 :gold: | 🚧 |
 | Cyclops | Few | :golden: | :unit_ranged: | 🚧 | 🚧 | 🚧 | 🚧 | 13 :gold: | 🌀 This unit can destroy the Gate or a Wall. |
-| Cyclops | Pack | :golden: | :unit_ranged: | 5 | 1 | 7 | 8 | 17 :gold:<br>1 :valuablegreater: | ⏳ Reduce any :damage-table: from [🪄](spells.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0). |
+| Cyclops | Pack | :golden: | :unit_ranged: | 5 | 1 | 7 | 8 | 17 :gold:<br>1 :valuablegreater: | ⏳ Reduce any :damage-table: from [:spellpower:](spells.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0). |
 | Behemoths | Few | :golden: | :unit_ground: | 7 | 2 | 8 | 6 | 19 :gold:<br>1 :valuablegreater: | 🪓 Decrease the target's :defense: by 1 (to a minimum of 0). |
 | Behemoths | Pack | :golden: | :unit_ground: | **8** | 2 | **10** | **9** | 29 :gold:<br>2 :valuablegreater: | 🪓 Decrease the target's :defense: by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. |
 
@@ -171,7 +171,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
 
-| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Sprites | Few | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Sprites | Pack | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
@@ -193,7 +193,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
 
-| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Oceanids | Few | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Oceanids | Pack | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
@@ -213,7 +213,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Neutral
 
-| Name | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | Tier | Type | :attack: | :defense: | ❤️ | :initiative: | Recruitment Cost | Abilities |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Boars | :bronze: | :unit_ground: | 2 | 0 | 4 | 6 | 4 :gold: | - |
 | Centaurs | :bronze: | :unit_ground: | 2 | 0 | 5 | 7 | 3 :gold: | - |
@@ -222,7 +222,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Dwarves | :bronze: | :unit_ground: | 2 | 1 | 4 | 3 | 4 :gold: | ⏳ If this unit is targeted by any [Spell](spells.md) or [Specialty](heroes.md) card, roll 1 [Attack die](dice.md#attack-die). On a "+1" result, ignore the card's effect. |
 | Elves | :bronze: | :unit_ranged: | 2 | 1 | 3 | 6 | 7 :gold: | 🪓 If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. |
 | Evil Eyes | :bronze: | :unit_ranged: | 2 | 1 | 3 | 6 | 6 :gold: | ⏳ Ignore the combat penalty against adjacent units. |
-| Familiars | :bronze: | :unit_ground: | 3 | 1 | 2 | 7 | 6 :gold: | ⏳ Whenever an enemy cast a [🪄](spells.md) from hand, they must discard 1 card from hand. |
+| Familiars | :bronze: | :unit_ground: | 3 | 1 | 2 | 7 | 6 :gold: | ⏳ Whenever an enemy cast a [:spellpower:](spells.md) from hand, they must discard 1 card from hand. |
 | Gargoyles | :bronze: | :unit_flying: | 2 | 1 | 3 | 9 | 4 :gold: | ⏳ This unit ignores 🐍 effect. |
 | Gnolls | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 3 :gold: | - |
 | Gremlins | :bronze: | :unit_ranged: | 2 | 0 | 2 | 5 | 2 :gold: | - |
@@ -236,7 +236,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Marksmen | :bronze: | :unit_ranged: | 2 | 0 | 3 | 5 | 7 :gold: | 🪓 If a target is a non-adjacent unit, attack this target again. |
 | Peasants | :bronze: | :unit_ground: | 1 | 0 | 2 | 3 | 3 :gold: | 🌍 At the beginning of each Resource round, gain 3 :gold:. |
 | Rogues | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 5 :gold: | 🌍 Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. |
-| Skeletons | :bronze: | :unit_ground: | 2 | 0 | 3 | 4 | 3 :gold: | ⏳ After defeating Skeletons, if you control a [💀 Hero](heroes.md#necropolis), immediately Reinforce 1 of your :bronze: units. |
+| Skeletons | :bronze: | :unit_ground: | 2 | 0 | 3 | 4 | 3 :gold: | ⏳ After defeating Skeletons, if you control a [:necro: Hero](heroes.md#necropolis), immediately Reinforce 1 of your :bronze: units. |
 | Troglodytes | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 4 :gold: | ⏳ This unit ignores 🐍 effects. |
 | Wraiths | :bronze: | :unit_flying: | 2 | 0 | 4 | 7 | 7 :gold: | ➡️ Remove up to 2 :damage-table: from this unit. |
 | Zombies | :bronze: | :unit_ground: | 2 | 0 | 4 | 3 | 5 :gold: | ⏳ If the attacker resolves a "0" or a "+1" on an [Attack die](dice.md#attack-die), gain +1 :defense: |
@@ -247,12 +247,12 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Genies | :silver: | :unit_flying: | 3 | 1 | 4 | 9 | 11 :gold: | 🪓 When attacking Efreet, this unit gains +1 :attack:. |
 | Gorgons | :silver: | :unit_ground: | 4 | 2 | 4 | 5 | 13 :gold: | 🪓 After the attack, roll 2 [Attack dice](dice.md#attack-die). On two "-1" results, reduce the attacked unit's ❤️ to 0. |
 | Liches | :silver: | :unit_ranged: | 3 | 0 | 6 | 7 | 12 :gold: | 🪓 Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. |
-| Magi | :silver: | :unit_ranged: | 3 | 0 | 5 | 6 | 11 :gold: | 🪓 Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with 📖. |
+| Magi | :silver: | :unit_ranged: | 3 | 0 | 5 | 6 | 11 :gold: | 🪓 Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. |
 | Medusas | :silver: | :unit_ranged: | 3 | 1 | 4 | 6 | 11 :gold: | ⏳ Ignore the combat penalty against adjacent units.<br>🗡️ The target is 🐍. |
 | Minotaurs | :silver: | :unit_ground: | 3 | 2 | 4 | 7 | 11 :gold: | 🪓 Reroll this unit's "-1" outcome on the [Attack die](dice.md#attack-die). |
 | Mummies | :silver: | :unit_ground: | 3 | 1 | 4 | 5 | 8 :gold: | 🪓 Ignore the result on the [Attack die](dice.md#attack-die). ⏳ Whenever this unit is attacked, set your opponent's [Attack die](dice.md#attack-die) to "-1". |
 | Nomads | :silver: | :unit_ground: | 3 | 1 | 4 | 7 | 10 :gold: | 🌍 At the end of your turn, move your [Hero's](heroes.md) model to an adjacent empty field. |
-| Pegasi | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 14 :gold: | ⏳ Whenever an enemy casts a [🪄](spells.md), they much discard an additional card woth 📖. |
+| Pegasi | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 14 :gold: | ⏳ Whenever an enemy casts a [:spellpower:](spells.md), they much discard an additional card woth :empower:. |
 | Pit Lord | :silver: | :unit_ground: | 4 | 1 | 5 | 7 | 15 :gold: | - |
 | Sharpshooters | :silver: | :unit_ranged: | 3 | 0 | 6 | 9 | 10 :gold: | 🪓 Ignore the combat penalties. |
 | Vampires | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 9 :gold: | 🪓 Ignore Enemy's Retaliation Attack. Then remove up to 2 :damage-table: from this unit. |
@@ -272,9 +272,9 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Trolls | :golden: | :unit_ground: | 4 | 0 | 7 | 7 | 13 :gold: | ➡️ Remove up to 3 :damage-table: from this unit. |
 | Unicorns | :golden: | :unit_ground: | 5 | 1 | 7 | 7 | 18 :gold: | 🗡️ The target is 🐍. |
 | Wyverns | :golden: | :unit_flying: | 4 | 1 | 7 | 8 | 17 :gold: | 🪓 After the attack, roll 1 [Attack die](dice.md#attack-die). On a "0" result, deal 1 :damage-table: to the target unit. |
-| Azure Dragons | :azure: | :unit_flying: | 8 | 3 | 10 | 19 | 45 :gold:<br>2 :valuablegreater: | 🪓 If you resolve a "-1" on the [Attack die](dice.md#attack-die), the target gains 🐍.<br>⏳ Ignore any [🪄](spells.md) effects and :damage-table: from [Specialty](heroes.md). |
+| Azure Dragons | :azure: | :unit_flying: | 8 | 3 | 10 | 19 | 45 :gold:<br>2 :valuablegreater: | 🪓 If you resolve a "-1" on the [Attack die](dice.md#attack-die), the target gains 🐍.<br>⏳ Ignore any [:spellpower:](spells.md) effects and :damage-table: from [Specialty](heroes.md). |
 | Cystral Dragons | :azure: | :unit_ground: | 7 | 3 | 9 | 16 | 40 :gold:<br>2 :valuablegreater: | 🌍 At the beginning of each Resource round, gain 2 :valuablegreater:. |
-| Faerie Dragons | :azure: | :unit_flying: | 5 | 2 | 8 | 15 | 35 :gold:<br>2 :valuablegreater: | ➡️ The selected unit suffers 2 :damage-table:. This is a [🪄](spells.md) that does not count towards your [spell](spells.md) limit. |
+| Faerie Dragons | :azure: | :unit_flying: | 5 | 2 | 8 | 15 | 35 :gold:<br>2 :valuablegreater: | ➡️ The selected unit suffers 2 :damage-table:. This is a [:spellpower:](spells.md) that does not count towards your [spell](spells.md) limit. |
 | Gold Dragons | :azure: | :unit_flying: | 6 | 3 | 9 | 10 | 42 :gold: | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |
 | Hydras | :azure: | :unit_ground: | 7 | 3 | 8 | 5 | 40 :gold: | 🪓 Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |
 | Rust Dragons | :azure: | :unit_flying: | 7 | 3 | 10 | 17 | 38 :gold:<br>1 :valuablegreater: | 🪓 On "-1" results on the [Attack die](dice.md#attack-die), decrease the attacked unit's :defense: by 2 - to a minimum of 0. |
@@ -283,7 +283,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 <a id="other"></a>
 # Other
 
-| Name | Type | :attack: | :defense: | ❤️ | 🤺 | Abilities |
+| Name | Type | :attack: | :defense: | ❤️ | :initiative: | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
 | Arrow Tower | :unit_ranged: | 4 | 2 | 3 | 9 | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed.<br>⏳ It can only be attack by :unit_ranged: attacks or card effects. |
 

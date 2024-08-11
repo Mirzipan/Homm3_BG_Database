@@ -27,7 +27,7 @@ A simple collection of cards contained within the Homm3 boardgame.
 *Notice: There is a plan to rewrite wording on cards to improve consistency and incorporate answers and explanations by the BGG community and game designers.*
 
 
-## 📖 Purpose
+## :empower: Purpose
 
 Every now and then I want to see what some cards do, either while theorycrafting about what to play, or even during play, when I want to check or reference something. This database is meant to provide an easy way to find any card contained within the game. There are no picture here, just pure text and images/emojis.
 

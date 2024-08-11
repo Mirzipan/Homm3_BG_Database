@@ -10,7 +10,7 @@ You can use the live version [here](https://mirzipan.github.io/Homm3_BG_Database
 ## :defense: What Is This?
 A simple collection of cards contained within the Homm3 boardgame.
 
-## 📖 Purpose
+## :empower: Purpose
 Every now and then I want to see what some cards do, either while theorycrafting about what to play, or even during play, when I want to check or reference something. This database is meant to provide an easy way to find any card contained within the game. There are no picture here, just pure text and images/emojis.
 
 ## 📚 Other Community Projects

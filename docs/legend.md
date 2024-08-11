@@ -16,17 +16,17 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 | :unit_ranged: | Ranged unit |
 | :attack: | Attack |
 | :defense: | Defense |
-| 📖 | Power |
+| :empower: | Power |
 | 📚 | Intelligence |
 | ❤️ | Health |
 | :damage-table: | Damage |
-| 🤺 | Initiative |
+| :initiative: | Initiative |
 
 ## Factions
 
 | Icon | Description |
 | :---: | :--- |
-| 💀 | Necropolis |
+| :necro: | Necropolis |
 
 ## Effects And Abilities
 
@@ -47,8 +47,8 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 
 | Icon | Description |
 | :---: | :--- |
-| 🪄 | [Spell](spells.md) |
-| ⚜️ | [Artifact](artifacts.md) |
+| :spellpower: | [Spell](spells.md) |
+| :artifact: | [Artifact](artifacts.md) |
 
 ## Resources
 
@@ -62,8 +62,8 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 
 | Icon | Description |
 | :---: | :--- |
-| 🗃️ | [Treasure die](dice.md#treasure-die) |
-| ⚒️ | [Resource die](dice.md#resource-die) |
+| :treasure: | [Treasure die](dice.md#treasure-die) |
+| :trasuredie: | [Resource die](dice.md#resource-die) |
 
 ## Miscellanous
 

@@ -28,9 +28,9 @@
 
 | Sides |
 | :---: |
-| Experience |
-| Experience |
-| [⚜️](artifacts.md) |
-| [⚜️](artifacts.md) |
-| ⚒️ |
-| 2⚒️ |
+| :experience: |
+| :experience: |
+| [:artifact:](artifacts.md) |
+| [:artifact:](artifacts.md) |
+| :trasuredie: |
+| 2:trasuredie: |
