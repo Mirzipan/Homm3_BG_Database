@@ -69,8 +69,8 @@ I have chosen some emoji to represent the icons used in the game. The idea was t
 
 | Icon | Description |
 | :---: | :--- |
-| 👑 | Expert effect |
-| 🫳 | Pay |
-| 💛 | Positive morale |
-| 🖤 | Negative morale |
-| 🐎 | Movement point |
+| :expert: | Expert effect |
+| :pay_v2: | Pay |
+| :morale_positive: | Positive morale |
+| :morale_negative: | Negative morale |
+| :movement: | Movement point |

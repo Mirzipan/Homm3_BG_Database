@@ -2,7 +2,7 @@
 
 To learn about statistics of a specifiec hero, see [heroes](heroes.md).
 
-| Name | Effect | 👑 Effect |
+| Name | Effect | :expert: Effect |
 | :--- | :--- | :--- |
 | Attack | ⚡ +1 :attack: | ⚡ +2 :attack: |
 | Empowered Attack | ⚡ +2 :attack: | - |

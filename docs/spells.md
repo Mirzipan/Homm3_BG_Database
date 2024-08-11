@@ -24,7 +24,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Chain Lightning | ➡️ Select a [unit](units.md) and another 2 [units](units.md) closest to it. Allocate \* :damage-table:, starting with the first selected [unit](units.md).<br><br>📖0 - 1/1/1 :damage-table:<br>📖2 - 2/1/1 :damage-table:<br>📖4 - 3/2/1 :damage-table: |
 | Counterstrike | ⚡️ Remove the Black cube from the selected \* [Unit](units.md) card - that [unit](units.md) is now able to perform a Retaliation Attack action again:<br><br>📖0 - \*:bronze:<br>📖2 - \*:bronze: or :silver:<br>📖4 - \*:bronze: or :silver: or :golden: |
 | Dimension Door | 🌍 Move a [Hero](heroes.md) up to \* field(s). Ignore any obstacles and fields in-between and resolve the last one normally.<br><br>📖0 - \*1<br>📖2 - \*2<br>📖4 - \*3 |
-| Fly | 🔄 During this turn, your [Hero](heroes.md) can move through the blocked fields (but cannot end their movement there) and:<br><br>📖0 - No additional effect<br>📖2 - +1 🐎<br>📖4 - +2 🐎 |
+| Fly | 🔄 During this turn, your [Hero](heroes.md) can move through the blocked fields (but cannot end their movement there) and:<br><br>📖0 - No additional effect<br>📖2 - +1 :movement:<br>📖4 - +2 :movement: |
 
 
 ## Earth Magic
@@ -48,7 +48,7 @@ In addition to they're reguar effects, any spell can be also be discarded to pro
 | Implosion | ➡️ The selected [unit](units.md) suffers:<br><br>📖0 - 2 :damage-table:<br>📖2 - 4 :damage-table:<br>📖4 - 6:damage-table: |
 | Resurrection | ⚡️ Cancel an attack that would reduce your \* [unit's](units.md) ❤️ to 0. You can cast this spell immediately after the enemy [unit's](units.md) attack.<br><br>📖0 - \*:bronze:<br>📖2 - \*:bronze: or :silver:<br>📖4 - \*:bronze: or :silver: or :golden: |
 | Sorrow | ⚡️ When a \* [unit](units.md) is about to activate, skip this [unit's](units.md) activation.<br><br>📖0 - \*:bronze:<br>📖2 - \*:bronze: or :silver:<br>📖4 - \*:bronze: or :silver: or :golden: |
-| Town Portal | 🌍 Move your [Hero](heroes.md) to a selected [Town](towns.md) or Settlement in your control, and:<br><br>📖0 - No additional effect<br>📖2 - +1 🐎<br>📖4 - +2 🐎 |
+| Town Portal | 🌍 Move your [Hero](heroes.md) to a selected [Town](towns.md) or Settlement in your control, and:<br><br>📖0 - No additional effect<br>📖2 - +1 :movement:<br>📖4 - +2 :movement: |
 
 
 ## Fire Magic

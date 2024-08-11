@@ -41,8 +41,8 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Liches | Pack | :silver: | :unit_ranged: | **4** | 1 | 5 | **7** | 14 :gold: | 🪓 Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. |
 | Dread Knights | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 7 | 12 :gold: | 🪓 When retaliating after this attack, the enemy rolls 2 [Attack dice](dice.md#attack-die) and resolves the lower result. |
 | Dread Knights | Pack | :golden: | :unit_ground: | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuablegreater: | 🪓 If you resolve a "0" or a "+1" on the [Attack die](dice.md#attack-die), increase this unit's total attack value by another "+1". |
-| Ghost Dragons | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 9 | 19 :gold:<br>1 :valuablegreater: | ➡️ Discard the enemy's 💛 token. |
-| Ghost Dragons | Pack | :golden: | :unit_flying: | **7** | 3 | **9** | **14** | 32 :gold:<br>2 :valuablegreater: | ➡️ Discard the enemy's 💛 token.<br>🪓 Add +1 to your [Attack die](dice.md#attack-die) result. |
+| Ghost Dragons | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 9 | 19 :gold:<br>1 :valuablegreater: | ➡️ Discard the enemy's :morale_positive: token. |
+| Ghost Dragons | Pack | :golden: | :unit_flying: | **7** | 3 | **9** | **14** | 32 :gold:<br>2 :valuablegreater: | ➡️ Discard the enemy's :morale_positive: token.<br>🪓 Add +1 to your [Attack die](dice.md#attack-die) result. |
 
 
 ## Dungeon
