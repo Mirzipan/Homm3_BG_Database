@@ -3,8 +3,8 @@
 | Name | Effect | Expert Effect |
 | :--- | :---: | :---: |
 | Air Magic | ♾️ +1 📖 for spells from [School of Air Magic](spells.md#air-magic). | While casting 🪄 from the [School of Air](spells.md#air-magic), you can discard this card, then gain +3 📖. |
-| Archery | 🔄 During this Combat round, your Ranged [units](units.md) gain +1 ⚔️ if the target is a non-adjacent [unit](units.md). |🔄 Until the end of the next Combat round, your Ranged [units](units.md) gain +1 🤺 and +1 ⚔️ if the target is a non-adjacent [unit](units.md). |
-| Armorer | ⚡️ +1 🛡️<br>Then draw 1 card. | ⚡️ +2 🛡️<br>Then draw 1 card. |
+| Archery | 🔄 During this Combat round, your Ranged [units](units.md) gain +1 :attack: if the target is a non-adjacent [unit](units.md). |🔄 Until the end of the next Combat round, your Ranged [units](units.md) gain +1 🤺 and +1 :attack: if the target is a non-adjacent [unit](units.md). |
+| Armorer | ⚡️ +1 :defense:<br>Then draw 1 card. | ⚡️ +2 :defense:<br>Then draw 1 card. |
 | Artillery | ⚡️ Deal 1 ❤️‍🩹 to an enemy [unit](units.md) with the lowest 🤺. | ⚡️ When using the [Ballista](war_machines.md) card, resolve its effect against the same target 3 times. |
 | Ballista | ⚡️ Play this card during a siege.<br>Destroy 1 Wall or Gate. | ⚡️ Play this card during a siege.<br>Destroy the [Arrow Tower](units.md#other). |
 | Diplomacy | 🌍 For every Dwelling you have, draw 1 corresponding [Neutral Unit](units.md#neutral) card. You can **Recruit** one of these [units](units.md) if you 🫳 its Recruitment cost. | ⚡️ Skip Combat with [Neutral Units](units.md#neutral) on a field whose Field Difficulty is equal to your Hero's level. Visit the field. This Hero gains no Experience. |
@@ -20,7 +20,7 @@
 | Luck | 🔄 You can reroll a [Treasure die](dice.md#treasure-die) and a [Resource die](dice.md#resource-die) once during this turn. | 🔄 You can reroll any [die](dice.md) once during this turn. |
 | Mysticism | ⚡️ Play this card immediately after casting a spell. Instead of discarding the [Spell](spells.md) card, take it back into your hand. | ⚡️ Play this card immediately after casting a spell. Instead of discarding the [Spell](spells.md) card and all other cards player together with it, take them back to your hand. |
 | Necromancy | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** a 🥉 or 🥈 [unit](units.md) of your choice for half the 🟡 cost (rounded down). | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](units.md) of your choice for half the 🟡 cost (rounded down). |
-| Offense | ⚡️ +1 ⚔️<br>Then draw 1 card. | ⚡️ +2 ⚔️<br>Then draw 1 card. |
+| Offense | ⚡️ +1 :attack:<br>Then draw 1 card. | ⚡️ +2 :attack:<br>Then draw 1 card. |
 | Pathfinding | 🌍 This turn, your Hero can move through fields with Neutral Units and Enemy Heroes, but if they end their movement in one of these fields, Combat begins. | 🌍 Your Hero can move over the yellow border and blocked fields, but cannot end movement on them. |
 | Resistance | ⚡️ Play this card immediately after the enemy casts a spell. If the spell was cast with 1 📖 or less, ignore the [Spell](spells.md) card's effect. | ⚡️ Play this card immediately after the enemy casts a spell. Ignore the [Spell](spells.md) card's effect. |
 | Scholar | ⚡️ Choose 1 card from your discard pile and add it to your hand. | 🌍 Remove up to 2 [Statistic](statistics.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](statistics.md) cards and put them on top of your discard pile. Remove the Scholar. |

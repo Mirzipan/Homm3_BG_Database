@@ -4,10 +4,10 @@ A simple collection of cards contained within the Homm3 boardgame.
 
 🚧Work In Progress🚧
 
-## ⚔️ How Can I Use This?
+## :attack: How Can I Use This?
 You can use the live version [here](https://mirzipan.github.io/Homm3_BG_Database/).
 
-## 🛡️ What Is This?
+## :defense: What Is This?
 A simple collection of cards contained within the Homm3 boardgame.
 
 ## 📖 Purpose

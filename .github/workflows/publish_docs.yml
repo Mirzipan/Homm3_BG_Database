@@ -5,6 +5,7 @@ on:
       - main
     paths:
       - 'docs/**'
+      - 'overrides/**'
       - mkdocs.yml
 permissions:
   contents: write

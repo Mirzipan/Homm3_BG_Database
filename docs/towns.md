@@ -86,7 +86,7 @@ You might also want to see [heroes](heroes.md).
 | Swamp Lairs | 8 🟡<br>6 ⚫️<br>3 🔴 | Unlocks **Recruiting** of 🥈 [units](units.md#fortress). |
 | Nest upon the Pond | 10 🟡<br>9 ⚫️<br>4 🔴 | Unlocks **Recruiting** of 🥇 [units](units.md#fortress). |
 | Blood Obelisk | 6 🟡<br>6 ⚫️<br>0 🔴 | At the beginning of each Resource round or instantly, after your Town has been sieged, you can **Search(4)** your discard pile. |
-| Cage of Warlords | 6 🟡<br>4 ⚫️<br>1 🔴 | When built and at the beginning of each Resource round, place a faction cube here (to a maximum of 2). During any Combat, a player can remove them to gain +1⚔️ or +1🛡️ per 1 cube. |
+| Cage of Warlords | 6 🟡<br>4 ⚫️<br>1 🔴 | When built and at the beginning of each Resource round, place a faction cube here (to a maximum of 2). During any Combat, a player can remove them to gain +1:attack: or +1:defense: per 1 cube. |
 
 
 ## Inferno
@@ -115,7 +115,7 @@ You might also want to see [heroes](heroes.md).
 | Barracks Tower | 4 🟡<br>3 ⚫️<br>1 🔴 | Unlocks **Recruiting** of 🥉 [units](units.md#stronghold). |
 | Fort under the Nest | 8 🟡<br>6 ⚫️<br>3 🔴 | Unlocks **Recruiting** of 🥈 [units](units.md#stronghold). |
 | Mountain Caves | 10 🟡<br>8 ⚫️<br>4 🔴 | Unlocks **Recruiting** of 🥇 [units](units.md#stronghold). |
-| Hall of Valhalla | 7 🟡<br>3 ⚫️<br>0 🔴 | Once per round, one of your units gains +1 ⚔️ to a single attack. |
+| Hall of Valhalla | 7 🟡<br>3 ⚫️<br>0 🔴 | Once per round, one of your units gains +1 :attack: to a single attack. |
 | Freelancer's Guild | 4 🟡<br>2 ⚫️<br>1 🔴 | Each time you win against [Neutral Units](units.md#neutral), gain 1 🟡. When **Reinforcing** or **Recruiting** you can use ⚫️ and 🔴 like 🟡. |
 
 

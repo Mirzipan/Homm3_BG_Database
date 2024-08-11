@@ -6,7 +6,7 @@ All of the cards start with a prefix of 'Astrologers proclaim week of the'. In t
 
 | Name | Effect | Flavor Text |
 | :--- | :---: | :---: |
-| Ammo Cart | Until the next Astrologers round, each [Ballista](war_machines.md) deals +1 ❤️‍🩹, each [First Aid Tent](war_machines.md) heals +1 ❤️‍, and each [Ammo Cart](war_machines.md) allows re-rolling 1 [Attack die](dice.md#attack-die) for all ranged [units](units.md). | Ammo cart - the best machine!<br>Yo!<br>Only I have the power of infinity!<br>Why is there no hero who specializes in me?<br>Because I should be a hero myself! Weehee! |
+| Ammo Cart | Until the next Astrologers round, each [Ballista](war_machines.md) deals +1 :health_points:‍🩹, each [First Aid Tent](war_machines.md) heals +1 :health_points:‍, and each [Ammo Cart](war_machines.md) allows re-rolling 1 [Attack die](dice.md#attack-die) for all ranged [units](units.md). | Ammo cart - the best machine!<br>Yo!<br>Only I have the power of infinity!<br>Why is there no hero who specializes in me?<br>Because I should be a hero myself! Weehee! |
 | Annoying Lizard | Each player must shuffle all [Artifact](artifacts.md) and [Spell](spells.md) cards from their hand back into their deck and draw the same number of cards from the top of their deck of Might and Magic. | Hey, Hero! Hero! Hey, Hero! Hero! Hey! |
 | Battalion's Stallion | Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement. | "Yo, Adrienne, I did it!" |
 | Big Cleanup | Each player must immediately discard all cards from their hand and draw the same number of cards. | - It's time for spring cleaning!<br>- It's winter. We're in Eeofol... Duh... |

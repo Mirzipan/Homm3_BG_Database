@@ -7,7 +7,7 @@ You might also want to see [towns](towns.md).
 
 ## Castle
 
-| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| Name | Class | :attack: | :defense: | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | Adelaide | Cleric | 1 | 0 | 2 | 2 | Frost Ring | Wisdom |
 | Catherine | Knight | 2 | 2 | 1 | 1 | Crusaders | Leadership |
@@ -28,7 +28,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Crusaders | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Crusaders unit](units.md#castle). |
+| Crusaders | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Crusaders unit](units.md#castle). |
 | Crusaders | Ⅳ | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Crusaders unit](units.md#castle). |
 | Crusaders | Ⅵ | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 1.<br><br>This effect doubles for the [Crusaders unit](units.md#castle). |
 
@@ -53,7 +53,7 @@ You might also want to see [towns](towns.md).
 
 ## Necropolis
 
-| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| Name | Class | :attack: | :defense: | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | Load Haart | Death Knight | 1 | 2 | 2 | 1 | Dread Knights | Necromancy |
 | Sandro | Necromancer | 1 | 0 | 2 | 2 | Cloak of the Undead King | Sorcery |
@@ -74,16 +74,16 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Cloak of the Undead King | Ⅰ | Put this card on the [Pack of Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>⚔️3 🛡️1 ❤️2 🤺6 |
-| Cloak of the Undead King | Ⅳ | Put this card on the [Pack of Zombies Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Zombies**<br>⚔️4 🛡️1 ❤️3 🤺5 |
-| Cloak of the Undead King | Ⅵ | Put this card on the [Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's ❤️ drops to 0. When it does, discard this card.<br><br>**Legion of Skeletons**<br>⚔️4 🛡️1 ❤️2 🤺6 |
+| Cloak of the Undead King | Ⅰ | Put this card on the [Pack of Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack:3 :defense:1 ❤️2 🤺6 |
+| Cloak of the Undead King | Ⅳ | Put this card on the [Pack of Zombies Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Zombies**<br>:attack:4 :defense:1 ❤️3 🤺5 |
+| Cloak of the Undead King | Ⅵ | Put this card on the [Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's ❤️ drops to 0. When it does, discard this card.<br><br>**Legion of Skeletons**<br>:attack:4 :defense:1 ❤️2 🤺6 |
 
 
 ### Tamika
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Dread Knights | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
+| Dread Knights | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
 | Dread Knights | Ⅳ | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
 | Dread Knights | Ⅵ | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 1.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
 
@@ -93,13 +93,13 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Necromancy | Ⅰ | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** a 🥉 or 🥈 [unit](units.md) of your choice for half the 🟡 cost (rounded down). |
-| Necromancy | Ⅳ | ⚡️ Put this card on the ["Pack" of Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. Keep the card, until the card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>⚔️3 ❤️2 🛡️1 🤺6 |
+| Necromancy | Ⅳ | ⚡️ Put this card on the ["Pack" of Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. Keep the card, until the card's ❤️ drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack:3 ❤️2 :defense:1 🤺6 |
 | Necromancy | Ⅵ | 🌍 Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](units.md) of your choice for half the 🟡 cost (rounded down). |
 
 
 ## Dungeon
 
-| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| Name | Class | :attack: | :defense: | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | Alamar | Warlock | 0 | 0 | 3 | 2 | Resurrection | Wisdom |
 | Deemer | Warlock | 0 | 0 | 3 | 2 | Meteor Shower | Scouting |
@@ -138,14 +138,14 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Dragons | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for a Dragons [unit](units.md). |
+| Dragons | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for a Dragons [unit](units.md). |
 | Dragons | Ⅳ | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for a Dragons [unit](units.md). |
 | Dragons | Ⅵ | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 1.<br><br>This effect doubles for a Dragons [unit](units.md). |
 
 
 ## Tower
 
-| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| Name | Class | :attack: | :defense: | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | Dracon | Wizard | 0 | 0 | 2 | 3 | Enchanters | Wisdom |
 | Iona | Alchemist | 1 | 1 | 2 | 2 | Genies | Intelligence |
@@ -157,7 +157,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Enchanters | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Magi](units.md#tower) and [Enchanters units](units.md#neutral). |
+| Enchanters | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Magi](units.md#tower) and [Enchanters units](units.md#neutral). |
 | Enchanters | Ⅳ | 🌍 If you have a [Pack of Magi Unit](units.md#tower) card, discard it. Then, search the [Neutral Unit](units.md#neutral) 🥇 deck for the [Enchanters](units.md#neutral) card and add it to your Unit deck. You can control only 1 [Enchanters unit](units.md#neutral) at a time.<br><br>— OR —<br><br>⚡️ Draw a card. |
 | Enchanters | Ⅵ | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 2.<br><br>This effect doubles for the [Magi](units.md#tower) and [Enchanters units](units.md#neutral). |
 
@@ -167,8 +167,8 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Genies | Ⅰ | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Genies unit](units.md#tower). |
-| Genies | Ⅳ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Genies unit](units.md#tower). |
-| Genies | Ⅵ | ⚡️ Your selected [unit](units.md) gains +2 🛡️<br><br>This effect doubles for the [Genies unit](units.md#tower). |
+| Genies | Ⅳ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Genies unit](units.md#tower). |
+| Genies | Ⅵ | ⚡️ Your selected [unit](units.md) gains +2 :defense:<br><br>This effect doubles for the [Genies unit](units.md#tower). |
 
 
 ### Josephine
@@ -176,8 +176,8 @@ You might also want to see [towns](towns.md).
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Golems | Ⅰ | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Golems unit](units.md#tower). |
-| Golems | Ⅳ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Golems unit](units.md#tower). |
-| Golems | Ⅵ | ⚡️ Your selected [unit](units.md) gains +2 ⚔️<br><br>This effect doubles for the [Golems unit](units.md#tower). |
+| Golems | Ⅳ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Golems unit](units.md#tower). |
+| Golems | Ⅵ | ⚡️ Your selected [unit](units.md) gains +2 :attack:<br><br>This effect doubles for the [Golems unit](units.md#tower). |
 
 
 ### Solmyr
@@ -192,7 +192,7 @@ You might also want to see [towns](towns.md).
 
 ## Rampart
 
-| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| Name | Class | :attack: | :defense: | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | Clancy | Ranger | 1 | 3 | 1 | 1 | Unicorns | Pathfinding |
 | Gelu | Ranger | 1 | 3 | 1 | 1 | Sharpshooters | Archery |
@@ -204,7 +204,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Unicorns | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
+| Unicorns | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
 | Unicorns | Ⅳ | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 1.<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
 | Unicorns | Ⅵ | 🔄 For this Combat, your selected [unit](units.md) reduces any ❤️‍🩹 it takes from spells by 1 - to a minimum of 0.<br><br>This effect doubles for the [Unicorns unit](units.md#rampart). |
 
@@ -213,7 +213,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Sharpshooters | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Elves](units.md#rampart) and [Sharpshooters units](units.md#neutral). |
+| Sharpshooters | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Elves](units.md#rampart) and [Sharpshooters units](units.md#neutral). |
 | Sharpshooters | Ⅳ | 🌍 If you have a [Pack of Elves Unit](units.md#rampart) card, discard it. Then, search the [Neutral Unit](units.md) 🥈 deck for the [Sharpshooters](units.md#neutral) card and add it to your [Unit](units.md) deck. You can control only 1 [Sharpshooters](units.md#neutral) [unit](units.md) at a time.<br><br>— OR —<br><br>⚡️ Draw a card. |
 | Sharpshooters | Ⅵ | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 2.<br><br>This effect doubles for the [Elves](units.md#rampart) and [Sharpshooters units](units.md#neutral). |
 
@@ -231,14 +231,14 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Armorer | Ⅰ | ⚡️ +2 🛡️ |
-| Armorer | Ⅳ | ⚡️ +3 🛡️ |
-| Armorer | Ⅵ | ⚡️ +4 🛡️ |
+| Armorer | Ⅰ | ⚡️ +2 :defense: |
+| Armorer | Ⅳ | ⚡️ +3 :defense: |
+| Armorer | Ⅵ | ⚡️ +4 :defense: |
 
 
 ## Fortress
 
-| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| Name | Class | :attack: | :defense: | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | Adrienne | Witch | 0 | 1 | 2 | 2 | Fire Magic | Wisdom |
 | Bron | Beastmaster | 0 | 4 | 1 | 1 | Basilisks | Resistance |
@@ -259,7 +259,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Basilisks | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Basilisks unit](units.md#fortress). |
+| Basilisks | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Basilisks unit](units.md#fortress). |
 | Basilisks | Ⅳ | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Basilisks unit](units.md#fortress). |
 | Basilisks | Ⅵ | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 2.<br><br>This effect doubles for the [Basilisks unit](units.md#fortress). |
 
@@ -268,8 +268,8 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| War Hero | Ⅰ | ⚡️ +2 🛡️ |
-| War Hero | Ⅳ | 🔄 For this Combat, your selected [unit](units.md) gains +1 🛡️. |
+| War Hero | Ⅰ | ⚡️ +2 :defense: |
+| War Hero | Ⅳ | 🔄 For this Combat, your selected [unit](units.md) gains +1 :defense:. |
 | War Hero | Ⅵ | 🌍 Fron your hand, Remove 1 card or Discard 3 cards to draw an [Artifact](artifacts.md) card from the top of the [Artifact](artifacts.md) deck. |
 
 
@@ -277,14 +277,14 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Lizardmen | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Lizardmen unit](units.md#fortress). |
+| Lizardmen | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Lizardmen unit](units.md#fortress). |
 | Lizardmen | Ⅳ | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Lizardmen unit](units.md#fortress). |
 | Lizardmen | Ⅵ | 🔄 For this Combat, your selected [unit's](units.md) 🤺 is increased by 2.<br><br>This effect doubles for the [Lizardmen unit](units.md#fortress). |
 
 
 ## Inferno
 
-| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| Name | Class | :attack: | :defense: | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | Fiona | Demoniac | 2 | 2 | 1 | 1 | Cerberi | Scouting |
 | Rashka | Demoniac | 2 | 2 | 1 | 1 | Efreet | Scholar |
@@ -296,16 +296,16 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Cerberi | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Cerberi unit](units.md#inferno). |
+| Cerberi | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Cerberi unit](units.md#inferno). |
 | Cerberi | Ⅳ | 🔄 For this Combat, your selected [unit's](units.md) ❤️ is increased by 1.<br><br>This effect doubles for the [Cerberi unit](units.md#inferno). |
-| Cerberi | Ⅵ | ⚡️ Your selected [unit](units.md) gains +2 ⚔️<br><br>This effect doubles for the [Cerberi unit](units.md#inferno). |
+| Cerberi | Ⅵ | ⚡️ Your selected [unit](units.md) gains +2 :attack:<br><br>This effect doubles for the [Cerberi unit](units.md#inferno). |
 
 
 ### Rashka
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Efreet | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 ⚔️<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 🛡️<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
+| Efreet | Ⅰ | ⚡️ Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>⚡️ Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
 | Efreet | Ⅳ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 👣 or 🪽 [unit](units.md), the attacker takes 1 ❤️‍🩹. |
 | Efreet | Ⅵ | 🔄 Until the end of Combat, when your selected [unit](units.md) is attacked by a 👣 or 🪽 [unit](units.md), the attacker takes 1 ❤️‍🩹.<br><br>This effect doubles for the [Efreet unit](units.md#inferno). |
 
@@ -332,7 +332,7 @@ You might also want to see [towns](towns.md).
 
 🔮 Unrelased and incomplete content.
 
-| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| Name | Class | :attack: | :defense: | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | Crag Hack | Barbarian | 4 | 0 | 1 | 1 | Offense | Offense |
 | Vog | Barbarian | 4 | 0 | 1 | 1 | Cyclops | Offense |
@@ -344,7 +344,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Offense | Ⅰ | 🔄 Your selected [unit](units.md) gains +1 ⚔️ |
+| Offense | Ⅰ | 🔄 Your selected [unit](units.md) gains +1 :attack: |
 | Offense | Ⅳ | 🚧 |
 | Offense | Ⅵ | 🚧 |
 
@@ -362,7 +362,7 @@ You might also want to see [towns](towns.md).
 
 🔮 Unrelased and incomplete content.
 
-| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| Name | Class | :attack: | :defense: | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | Luna | Elementalist | 0 | 0 | 2 | 3 | Fire Wall | Fire Magic |
 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
@@ -383,7 +383,7 @@ You might also want to see [towns](towns.md).
 
 🔮 Unrelased and incomplete content.
 
-| Name | Class | ⚔️ | 🛡️ | 📖 | 📚 | Specialty | [Ability](abilities.md) |
+| Name | Class | :attack: | :defense: | 📖 | 📚 | Specialty | [Ability](abilities.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |

@@ -7,7 +7,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Castle
 
-| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Halberdiers | Few | 🥉 | 👣 | 2 | 1 | 2 | 4 | 2 🟡 | - |
 | Halberdiers | Pack | 🥉 | 👣 | **3** | 1 | 2 | **5** | 3 🟡 | ⏳ When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](dice.md#attack-die) roll result. |
@@ -27,18 +27,18 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Necropolis
 
-| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Skeletons | Few | 🥉 | 👣 | 2 | 1 | 2 | 4 | 2 🟡 | - |
 | Skeletons | Pack | 🥉 | 👣 | **3** | 1 | 2 | **5** | 3 🟡 | - |
-| Zombies | Few | 🥉 | 👣 | 2 | 1 | 3 | 3 | 3 🟡 | ⏳ If the attacker resolves a "+1" on [Attack die](dice.md#attack-die), gain +1 🛡️. |
-| Zombies | Pack | 🥉 | 👣 | 2 | 1 | 3 | **4** | 4 🟡 | ⏳ If the attacker resolves a "0" or a +1" on [Attack die](dice.md#attack-die), gain +1 🛡️. |
+| Zombies | Few | 🥉 | 👣 | 2 | 1 | 3 | 3 | 3 🟡 | ⏳ If the attacker resolves a "+1" on [Attack die](dice.md#attack-die), gain +1 :defense:. |
+| Zombies | Pack | 🥉 | 👣 | 2 | 1 | 3 | **4** | 4 🟡 | ⏳ If the attacker resolves a "0" or a +1" on [Attack die](dice.md#attack-die), gain +1 :defense:. |
 | Wraiths | Few | 🥉 | 🪽 | 3 | 0 | 3 | 5 | 4 🟡 | ➡️ Remove up to 1 ❤️‍🩹 from this unit. |
 | Wraiths | Pack | 🥉 | 🪽 | 3 | 0 | **5** | **7** | 6 🟡 | ➡️ Remove up to 1 ❤️‍🩹 from this unit, then discard 1 random card from the enemy's hand. |
 | Vampires | Few | 🥈 | 🪽 | 4 | 1 | 4 | 6 | 8 🟡 | 🪓 Ignore the Retaliation Attack. |
 | Vampires | Pack | 🥈 | 🪽 | **5** | 1 | 4 | **9** | 12 🟡 | 🪓 Ignore the Retaliation Attack. Then remove up to 2 ❤️‍🩹 from this unit. |
 | Liches | Few | 🥈 | 🏹 | 3 | 1 | 5 | 6 | 8 🟡 | - |
-| Liches | Pack | 🥈 | 🏹 | **4** | 1 | 5 | **7** | 14 🟡 | 🪓 Choose a unit adjacent to the target and attack it. For the purpose of this attack, your ⚔️ is 2. |
+| Liches | Pack | 🥈 | 🏹 | **4** | 1 | 5 | **7** | 14 🟡 | 🪓 Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. |
 | Dread Knights | Few | 🥇 | 👣 | 5 | 2 | 7 | 7 | 12 🟡 | 🪓 When retaliating after this attack, the enemy rolls 2 [Attack dice](dice.md#attack-die) and resolves the lower result. |
 | Dread Knights | Pack | 🥇 | 👣 | **6** | 2 | 7 | **9** | 20 🟡<br>1 🔴 | 🪓 If you resolve a "0" or a "+1" on the [Attack die](dice.md#attack-die), increase this unit's total attack value by another "+1". |
 | Ghost Dragons | Few | 🥇 | 🪽 | 6 | 3 | 8 | 9 | 19 🟡<br>1 🔴 | ➡️ Discard the enemy's 💛 token. |
@@ -47,7 +47,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Dungeon
 
-| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Troglodytes | Few | 🥉 | 👣 | 2 | 1 | 2 | 4 | 2 🟡 | - |
 | Troglodytes | Pack | 🥉 | 👣 | **3** | 1 | 2 | **5** | 3 🟡 | ⏳ This unit ignores 🐍 effect. |
@@ -60,14 +60,14 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Minotaurs | Few | 🥈 | 👣 | 4 | 2 | 4 | 6 | 8 🟡 | 🪓 If you resolve a "-1" on the [Attack die](dice.md#attack-die), draw a card, |
 | Minotaurs | Pack | 🥈 | 👣 | **5** | 2 | 4 | **8** | 14 🟡 | 🪓 If you resolve a "-1" on the [Attack die](dice.md#attack-die), draw a card, |
 | Manticores | Few | 🥇 | 🪽 | 5 | 1 | 6 | 7 | 10 🟡 | - |
-| Manticores | Pack | 🥇 | 🪽 | 5 | 1 | 6 | **11** | 18 🟡<br>1 🔴 | 🪓 For this attack, ignore the 🛡️ value from the target unit's card. |
+| Manticores | Pack | 🥇 | 🪽 | 5 | 1 | 6 | **11** | 18 🟡<br>1 🔴 | 🪓 For this attack, ignore the :defense: value from the target unit's card. |
 | Black Dragons | Few | 🥇 | 🪽 | 6 | 3 | 8 | 11 | 19 🟡<br>1 🔴 | ⏳ Reduce ❤️‍🩹 taken by this unit from [🪄](spells.md) by 2 to a minimum of 0. |
 | Black Dragons | Pack | 🥇 | 🪽 | **8** | 3 | 8 | **15** | 33 🟡<br>2 🔴 | ⏳ Ignore any [🪄](spells.md) effects and ❤️‍🩹 from [Specialty](heroes.md). |
 
 
 ## Tower
 
-| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Gremlins | Few | 🥉 | 🏹 | 2 | 0 | 2 | 4 | 0 🟡 | - |
 | Gremlins | Pack | 🥉 | 🏹 | 2 | 0 | 2 | **5** | 2 🟡 | - |
@@ -87,7 +87,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Rampart
 
-| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Centaurs | Few | 🥉 | 👣 | 2 | 0 | 3 | 6 | 2 🟡 | - |
 | Centaurs | Pack | 🥉 | 👣 | **3** | 0 | 3 | **8** | 3 🟡 | - |
@@ -101,20 +101,20 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Dendroids | Pack | 🥈 | 👣 | 4 | 2 | **6** | **4** | 15 🟡 | ⏳ Enemy units that start activation adjacent to this unit cannot move. |
 | Unicorns | Few | 🥇 | 👣 | 5 | 1 | 8 | 7 | 11 🟡 | ⏳ Reduce any ❤️‍🩹 from [🪄](spells.md) dealt to this unit by 1 (to a minimum of 0), |
 | Unicorns | Pack | 🥇 | 👣 | **6** | 1 | 8 | **9** | 18 🟡<br>1 🔴 | ⏳ Reduce any ❤️‍🩹 from [🪄](spells.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), |
-| Gold Dragons | Few | 🥇 | 👣 | 5 | 3 | 9 | 10 | 22 🟡<br>1 🔴 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 ⚔️, |
-| Gold Dragons | Pack | 🥇 | 👣 | **6** | 3 | **10** | **16** | 30 🟡<br>2 🔴 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 ⚔️. |
+| Gold Dragons | Few | 🥇 | 👣 | 5 | 3 | 9 | 10 | 22 🟡<br>1 🔴 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, |
+| Gold Dragons | Pack | 🥇 | 👣 | **6** | 3 | **10** | **16** | 30 🟡<br>2 🔴 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |
 
 
 ## Fortress
 
-| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Gnolls | Few | 🥉 | 👣 | 2 | 1 | 3 | 4 | 2 🟡 | - |
 | Gnolls | Pack | 🥉 | 👣 | 2 | 1 | **4** | **5** | 3 🟡 | - |
 | Lizardmen | Few | 🥉 | 🏹 | 2 | 0 | 3 | 4 | 3 🟡 | - |
 | Lizardmen | Pack | 🥉 | 🏹 | **3** | 0 | 3 | **5** | 5 🟡 | - |
 | Dragon Flies | Few | 🥉 | 🪽 | 3 | 0 | 3 | 8 | 4 🟡 | 🪓 Remove all 🔄 effects played on the target by the enemy player. |
-| Dragon Flies | Pack | 🥉 | 🪽 | 3 | **1** | 3 | **12** | 7 🟡 | 🪓 Remove all 🔄 effects played on the target by the enemy player. If the target retaliates, it suffers - 1 ⚔️. |
+| Dragon Flies | Pack | 🥉 | 🪽 | 3 | **1** | 3 | **12** | 7 🟡 | 🪓 Remove all 🔄 effects played on the target by the enemy player. If the target retaliates, it suffers - 1 :attack:. |
 | Basilisks | Few | 🥈 | 👣 | 4 | 1 | 4 | 5 | 6 🟡 | 🪓 On "-1" outcomes on the [Attack die](dice.md#attack-die), the attacked unit gains a 🐍 token. |
 | Basilisks | Pack | 🥈 | 👣 | 4 | 1 | **5** | **7** | 9 🟡 | 🪓 On "-1" outcomes on the [Attack die](dice.md#attack-die), the attacked unit gains a 🐍 token. |
 | Gorgons | Few | 🥈 | 👣 | 4 | 2 | 5 | 5 | 9 🟡 | - |
@@ -127,7 +127,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Inferno
 
-| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Familiars | Few | 🥉 | 👣 | 2 | 1 | 2 | 5 | 2 🟡 | - |
 | Familiars | Pack | 🥉 | 👣 | **3** | 1 | 2 | **7** | 3 🟡 | ⏳ Whenever an enemy casts a [🪄](spells.md) from hand, they must discard 1 card from hand. |
@@ -149,7 +149,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 🔮 Unrelased and incomplete content.
 
-| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Goblins | Few | 🥉 | 👣 | 1 | 0 | 4 | 6 | 1 🟡 | - |
 | Goblins | Pack | 🥉 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 2 🟡 | 🚧 |
@@ -157,21 +157,21 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Wolf Raiders | Pack | 🥉 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Orcs | Few | 🥉 | 👣 | 2 | 1 | 4 | 4 | 🚧 | - |
 | Orcs | Pack | 🥉 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 7 🟡 | 🚧 |
-| Ogres | Few | 🥈 | 👣 | 3 | 2 | 4 | 4 | 6 🟡 | 🌀 Place a -1 ⚔️ token on a chosen 👣 or 🪽 unit for 2 Combat rounds. |
+| Ogres | Few | 🥈 | 👣 | 3 | 2 | 4 | 4 | 6 🟡 | 🌀 Place a -1 :attack: token on a chosen 👣 or 🪽 unit for 2 Combat rounds. |
 | Ogres | Pack | 🥈 | 👣 | 🚧 | 🚧 | 🚧 | 🚧 | 8 🟡 | 🚧 |
 | Thunderbirds | Few | 🥈 | 🪽 | 4 | 1 | 6 | 9 | 8 🟡 | - |
 | Thunderbirds | Pack | 🥈 | 🪽 | **5** | 1 | 6 | **11** | 14 🟡 | 🚧 |
 | Cyclops | Few | 🥇 | 🏹 | 🚧 | 🚧 | 🚧 | 🚧 | 13 🟡 | 🌀 This unit can destroy the Gate or a Wall. |
 | Cyclops | Pack | 🥇 | 🏹 | 5 | 1 | 7 | 8 | 17 🟡<br>1 🔴 | ⏳ Reduce any ❤️‍🩹 from [🪄](spells.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0). |
-| Behemoths | Few | 🥇 | 👣 | 7 | 2 | 8 | 6 | 19 🟡<br>1 🔴 | 🪓 Decrease the target's 🛡️ by 1 (to a minimum of 0). |
-| Behemoths | Pack | 🥇 | 👣 | **8** | 2 | **10** | **9** | 29 🟡<br>2 🔴 | 🪓 Decrease the target's 🛡️ by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. |
+| Behemoths | Few | 🥇 | 👣 | 7 | 2 | 8 | 6 | 19 🟡<br>1 🔴 | 🪓 Decrease the target's :defense: by 1 (to a minimum of 0). |
+| Behemoths | Pack | 🥇 | 👣 | **8** | 2 | **10** | **9** | 29 🟡<br>2 🔴 | 🪓 Decrease the target's :defense: by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. |
 
 
 ## Conflux
 
 🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
 
-| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Sprites | Few | 🥉 | 🪽 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Sprites | Pack | 🥉 | 🪽 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
@@ -193,7 +193,7 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
 
-| Name | # | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | # | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Oceanids | Few | 🥉 | 🪽 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | Oceanids | Pack | 🥉 | 🪽 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
@@ -213,12 +213,12 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Neutral
 
-| Name | Tier | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Recruitment Cost | Abilities |
+| Name | Tier | Type | :attack: | :defense: | ❤️ | 🤺 | Recruitment Cost | Abilities |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Boars | 🥉 | 👣 | 2 | 0 | 4 | 6 | 4 🟡 | - |
 | Centaurs | 🥉 | 👣 | 2 | 0 | 5 | 7 | 3 🟡 | - |
 | Cerberi | 🥉 | 👣 | 2 | 0 | 5 | 8 | 10 🟡 | 🪓 Ignores Retaliation Attacks. Additionally, deals 1 ❤️‍🩹 to another enemy unit adjacent to Cerberi. |
-| Dragon Flies | 🥉 | 🪽 | 3 | 0 | 3 | 8 | 7 🟡 | 🪓 Retaliation Attacks against Dragon Flies suffer -1 ⚔️. |
+| Dragon Flies | 🥉 | 🪽 | 3 | 0 | 3 | 8 | 7 🟡 | 🪓 Retaliation Attacks against Dragon Flies suffer -1 :attack:. |
 | Dwarves | 🥉 | 👣 | 2 | 1 | 4 | 3 | 4 🟡 | ⏳ If this unit is targeted by any [Spell](spells.md) or [Specialty](heroes.md) card, roll 1 [Attack die](dice.md#attack-die). On a "+1" result, ignore the card's effect. |
 | Elves | 🥉 | 🏹 | 2 | 1 | 3 | 6 | 7 🟡 | 🪓 If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. |
 | Evil Eyes | 🥉 | 🏹 | 2 | 1 | 3 | 6 | 6 🟡 | ⏳ Ignore the combat penalty against adjacent units. |
@@ -239,14 +239,14 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Skeletons | 🥉 | 👣 | 2 | 0 | 3 | 4 | 3 🟡 | ⏳ After defeating Skeletons, if you control a [💀 Hero](heroes.md#necropolis), immediately Reinforce 1 of your 🥉 units. |
 | Troglodytes | 🥉 | 👣 | 2 | 1 | 3 | 6 | 4 🟡 | ⏳ This unit ignores 🐍 effects. |
 | Wraiths | 🥉 | 🪽 | 2 | 0 | 4 | 7 | 7 🟡 | ➡️ Remove up to 2 ❤️‍🩹 from this unit. |
-| Zombies | 🥉 | 👣 | 2 | 0 | 4 | 3 | 5 🟡 | ⏳ If the attacker resolves a "0" or a "+1" on an [Attack die](dice.md#attack-die), gain +1 🛡️ |
+| Zombies | 🥉 | 👣 | 2 | 0 | 4 | 3 | 5 🟡 | ⏳ If the attacker resolves a "0" or a "+1" on an [Attack die](dice.md#attack-die), gain +1 :defense: |
 | Basilisks | 🥈 | 👣 | 4 | 1 | 4 | 5 | 12 🟡 | 🪓 After the attack, roll 1 [Attack die](dice.md#attack-die). On a "0" result, 🐍 the target. |
 | Crusaders | 🥈 | 👣 | 3 | 2 | 4 | 5 | 11 🟡 | ⏳ During any attack, roll 2 [Attack dice](dice.md#attack-die) and resolve the higher outcome. |
 | Demons | 🥈 | 👣 | 3 | 0 | 8 | 6 | 13 🟡 | - |
 | Dendroids | 🥈 | 👣 | 3 | 2 | 6 | 3 | 12 🟡 | ⏳ Enemy units that start activation adjacent to this unit cannot move. |
-| Genies | 🥈 | 🪽 | 3 | 1 | 4 | 9 | 11 🟡 | 🪓 When attacking Efreet, this unit gains +1 ⚔️. |
+| Genies | 🥈 | 🪽 | 3 | 1 | 4 | 9 | 11 🟡 | 🪓 When attacking Efreet, this unit gains +1 :attack:. |
 | Gorgons | 🥈 | 👣 | 4 | 2 | 4 | 5 | 13 🟡 | 🪓 After the attack, roll 2 [Attack dice](dice.md#attack-die). On two "-1" results, reduce the attacked unit's ❤️ to 0. |
-| Liches | 🥈 | 🏹 | 3 | 0 | 6 | 7 | 12 🟡 | 🪓 Choose a unit adjacent to the target and attack it. For the purpose of this attack, your ⚔️ is 2. |
+| Liches | 🥈 | 🏹 | 3 | 0 | 6 | 7 | 12 🟡 | 🪓 Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. |
 | Magi | 🥈 | 🏹 | 3 | 0 | 5 | 6 | 11 🟡 | 🪓 Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with 📖. |
 | Medusas | 🥈 | 🏹 | 3 | 1 | 4 | 6 | 11 🟡 | ⏳ Ignore the combat penalty against adjacent units.<br>🗡️ The target is 🐍. |
 | Minotaurs | 🥈 | 👣 | 3 | 2 | 4 | 7 | 11 🟡 | 🪓 Reroll this unit's "-1" outcome on the [Attack die](dice.md#attack-die). |
@@ -257,17 +257,17 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Sharpshooters | 🥈 | 🏹 | 3 | 0 | 6 | 9 | 10 🟡 | 🪓 Ignore the combat penalties. |
 | Vampires | 🥈 | 🪽 | 3 | 0 | 5 | 8 | 9 🟡 | 🪓 Ignore Enemy's Retaliation Attack. Then remove up to 2 ❤️‍🩹 from this unit. |
 | Zealots | 🥈 | 🏹 | 3 | 0 | 5 | 5 | 12 🟡 | ⏳ Ignore the combat penalty against adjacent units. |
-| Arch Devils | 🥇 | 🪽 | 5 | 2 | 7 | 10 | 23 🟡 | 🪓 When attacking Archangels, this unit gains +2 ⚔️. |
-| Archangels | 🥇 | 🪽 | 5 | 2 | 7 | 10 | 29 🟡 | 🪓 When attacking Arch Devils, this unit gains +2 ⚔️. |
-| Black Dragons | 🥇 | 🪽 | 5 | 2 | 7 | 9 | 30 🟡 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 ⚔️. |
+| Arch Devils | 🥇 | 🪽 | 5 | 2 | 7 | 10 | 23 🟡 | 🪓 When attacking Archangels, this unit gains +2 :attack:. |
+| Archangels | 🥇 | 🪽 | 5 | 2 | 7 | 10 | 29 🟡 | 🪓 When attacking Arch Devils, this unit gains +2 :attack:. |
+| Black Dragons | 🥇 | 🪽 | 5 | 2 | 7 | 9 | 30 🟡 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. |
 | Champions | 🥇 | 👣 | 4 | 2 | 6 | 8 | 18 🟡 | 🪓 Roll 2 [Attack dice](dice.md#attack-die) and aplly both outcomes.<br>⏳ Reroll this unit's all "-1" rolls. |
 | Diamond Golems | 🥇 | 👣 | 4 | 2 | 6 | 6 | 16 🟡 | ⏳ Reduce any ❤️‍🩹 from [spells](spells.md) by 3 - to a minimum of 0. |
-| Dread Knights | 🥇 | 👣 | 5 | 1 | 7 | 7 | 18 🟡 | ⏳ When this unit is targeted by a Retaliation Attack, it gains +1 🛡️. |
+| Dread Knights | 🥇 | 👣 | 5 | 1 | 7 | 7 | 18 🟡 | ⏳ When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. |
 | Efreet | 🥇 | 🪽 | 4 | 2 | 6 | 13 | 20 🟡 | ⏳ Ignores any ❤️‍🩹 from [Magic Arrows](spells.md) or [spells](spells.md) from the[Fire School of Magic](spells.md#fire-magic). |
-| Enchanters | 🥇 | 🏹 | 4 | 1 | 5 | 5 | 16 🟡 | ➡️ Remove up to 2 ❤️‍🩹 from a friendly unit. Otherwise, Enchanters gain +1 ⚔️. |
+| Enchanters | 🥇 | 🏹 | 4 | 1 | 5 | 5 | 16 🟡 | ➡️ Remove up to 2 ❤️‍🩹 from a friendly unit. Otherwise, Enchanters gain +1 :attack:. |
 | Ghost Dragons | 🥇 | 🪽 | 5 | 2 | 6 | 9 | 28 🟡 | 🪓 After the attack, roll 1 [Attack die](dice.md#attack-die); if the result is "0", the target must immediately move away 1 space. |
 | Gold Golems | 🥇 | 👣 | 3 | 2 | 6 | 5 | 14 🟡 | ⏳ Reduce any ❤️‍🩹 from [spells](spells.md) by 2 - to a minimum of 0. |
-| Manticores | 🥇 | 🪽 | 4 | 1 | 7 | 8 | 18 🟡 | ⏳ On a "0" or a "+1" outcomes on the enemy's [Attack die](dice.md#attack-die), gain +1 🛡️. |
+| Manticores | 🥇 | 🪽 | 4 | 1 | 7 | 8 | 18 🟡 | ⏳ On a "0" or a "+1" outcomes on the enemy's [Attack die](dice.md#attack-die), gain +1 :defense:. |
 | Nagas | 🥇 | 👣 | 5 | 1 | 6 | 6 | 16 🟡 | 🪓 Ignore Retaliation Attacks. |
 | Trolls | 🥇 | 👣 | 4 | 0 | 7 | 7 | 13 🟡 | ➡️ Remove up to 3 ❤️‍🩹 from this unit. |
 | Unicorns | 🥇 | 👣 | 5 | 1 | 7 | 7 | 18 🟡 | 🗡️ The target is 🐍. |
@@ -275,15 +275,15 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 | Azure Dragons | 🔷 | 🪽 | 8 | 3 | 10 | 19 | 45 🟡<br>2 🔴 | 🪓 If you resolve a "-1" on the [Attack die](dice.md#attack-die), the target gains 🐍.<br>⏳ Ignore any [🪄](spells.md) effects and ❤️‍🩹 from [Specialty](heroes.md). |
 | Cystral Dragons | 🔷 | 👣 | 7 | 3 | 9 | 16 | 40 🟡<br>2 🔴 | 🌍 At the beginning of each Resource round, gain 2 🔴. |
 | Faerie Dragons | 🔷 | 🪽 | 5 | 2 | 8 | 15 | 35 🟡<br>2 🔴 | ➡️ The selected unit suffers 2 ❤️‍🩹. This is a [🪄](spells.md) that does not count towards your [spell](spells.md) limit. |
-| Gold Dragons | 🔷 | 🪽 | 6 | 3 | 9 | 10 | 42 🟡 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 ⚔️. |
+| Gold Dragons | 🔷 | 🪽 | 6 | 3 | 9 | 10 | 42 🟡 | 🪓 Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |
 | Hydras | 🔷 | 👣 | 7 | 3 | 8 | 5 | 40 🟡 | 🪓 Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |
-| Rust Dragons | 🔷 | 🪽 | 7 | 3 | 10 | 17 | 38 🟡<br>1 🔴 | 🪓 On "-1" results on the [Attack die](dice.md#attack-die), decrease the attacked unit's 🛡️ by 2 - to a minimum of 0. |
-| Titans | 🔷 | 🏹 | 6 | 2 | 10 | 10 | 39 🟡 | ⏳ Ignore the combat penalty against adjacent units.<br>🪓 When attacking Black Dragons, this unit gains +2 ⚔️. |
+| Rust Dragons | 🔷 | 🪽 | 7 | 3 | 10 | 17 | 38 🟡<br>1 🔴 | 🪓 On "-1" results on the [Attack die](dice.md#attack-die), decrease the attacked unit's :defense: by 2 - to a minimum of 0. |
+| Titans | 🔷 | 🏹 | 6 | 2 | 10 | 10 | 39 🟡 | ⏳ Ignore the combat penalty against adjacent units.<br>🪓 When attacking Black Dragons, this unit gains +2 :attack:. |
 
 <a id="other"></a>
 # Other
 
-| Name | Type | ⚔️ | 🛡️ | ❤️ | 🤺 | Abilities |
+| Name | Type | :attack: | :defense: | ❤️ | 🤺 | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
 | Arrow Tower | 🏹 | 4 | 2 | 3 | 9 | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed.<br>⏳ It can only be attack by 🏹 attacks or card effects. |
 
