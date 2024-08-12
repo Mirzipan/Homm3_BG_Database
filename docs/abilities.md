@@ -1,6 +1,6 @@
 # Abilities
 
-| Name | Effect | Expert Effect | Source |
+| Name | Effect | Expert Effect | [Content](content.md) |
 | :--- | :---: | :---: | :--- |
 | Air Magic | :permanent: +1 :empower: for spells from [School of Air Magic](spells.md#air-magic). | While casting :spellpower: from the [School of Air](spells.md#air-magic), you can discard this card, then gain +3 :empower:. | Tower (2) |
 | Archery | :ongoing: During this Combat round, your Ranged [units](units.md) gain +1 :attack: if the target is a non-adjacent [unit](units.md). |:ongoing: Until the end of the next Combat round, your Ranged [units](units.md) gain +1 :initiative: and +1 :attack: if the target is a non-adjacent [unit](units.md). | Core (2) |
