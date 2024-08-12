@@ -2,7 +2,7 @@
 
 | Name | Description |
 | :--- | :---: |
-| Core Game | Vanilla Game<br>[Castle Faction](factions.md#castle)<br>[Necropolis](factions.md#necropolis)<br>[Dungeon](factions.md#dungeon) |
+| Core Game | Vanilla Game<br>[Castle Faction](factions.md#castle)<br>[Necropolis Faction](factions.md#necropolis)<br>[Dungeon Faction](factions.md#dungeon) |
 | Tower Expansion | [Tower Faction](factions.md#tower)<br>Stretch Goals |
 | Rampart Expansion | [Rampart Faction](factions.md#rampart)<br>[War Machines](war_machines.md) |
 | Fortress Expansion | [Fortress Faction](factions.md#fortress)<br>[Events](events.md) |
