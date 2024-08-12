@@ -1,5 +1,7 @@
 # War Machines #
 
+All war machines come from the [Rampart Expansion](content.md).
+
 | Name | Cost at Blacksmith | Cost at Trade Post | Ability |
 | :--- | ---: | ---: | :--- |
 | Ammo Cart | 5 :gold: | 8 :gold: | :permanent: Your :unit_ranged: units ignore combat penalties and gain "+2 :initiative:". |
