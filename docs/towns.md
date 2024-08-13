@@ -7,6 +7,8 @@ You might also want to see [heroes](heroes.md).
 
 ## Castle
 
+Castle town comes from the [Core Game](content.md).
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: +1:movement: |
@@ -20,6 +22,8 @@ You might also want to see [heroes](heroes.md).
 
 
 ## Necropolis
+
+Castle town comes from the [Core Game](content.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
@@ -35,6 +39,8 @@ You might also want to see [heroes](heroes.md).
 
 ## Dungeon
 
+Castle town comes from the [Core Game](content.md).
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: 1 :valuables: |
@@ -48,6 +54,8 @@ You might also want to see [heroes](heroes.md).
 
 
 ## Tower
+
+Tower town comes from the [Tower Expansion](content.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
@@ -63,6 +71,8 @@ You might also want to see [heroes](heroes.md).
 
 ## Rampart
 
+Rampart town comes from the [Rampart Expansion](content.md).
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 10 :gold:<br>6 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, gain :instant: 7 :gold:. |
@@ -77,6 +87,8 @@ You might also want to see [heroes](heroes.md).
 
 ## Fortress
 
+Fortress town comes from the [Fortress Expansion](content.md).
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>Exchange resources like in the Trading Post. |
@@ -90,6 +102,8 @@ You might also want to see [heroes](heroes.md).
 
 
 ## Inferno
+
+Inferno town comes from the [Inferno Expansion](content.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
@@ -107,6 +121,8 @@ You might also want to see [heroes](heroes.md).
 
 🔮 Unrelased and incomplete content.
 
+Stronghold town comes from the [Stronghold Expansion](content.md).
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 12 :gold:<br>5 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: Draw 2 cards from M&M Deck.<br><br>— OR —<br><br>:instant: 2 :building_materials: |
@@ -123,6 +139,8 @@ You might also want to see [heroes](heroes.md).
 
 🔮 Unrelased and incomplete content.
 
+Conflux town comes from the [Conflux Expansion](content.md).
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 🚧 | At the beginning of each Resource round, choose:<br>:ongoing:️ +1 :hand: for this round.<br><br>— OR —<br><br>:instant: Buying spells in this Town is for free. |
@@ -138,6 +156,8 @@ You might also want to see [heroes](heroes.md).
 ## Cove
 
 🔮 Unrelased and incomplete content.
+
+Cove town comes from the [Cove Expansion](content.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |

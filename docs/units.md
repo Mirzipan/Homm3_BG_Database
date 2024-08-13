@@ -7,6 +7,8 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Castle
 
+Castle units come from the [Core Game](content.md).
+
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Halberdiers | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
@@ -26,6 +28,8 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 
 ## Necropolis
+
+Necropolis units come from the [Core Game](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
@@ -47,6 +51,8 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Dungeon
 
+Dungeon units come from the [Core Game](content.md).
+
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Troglodytes | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
@@ -66,6 +72,8 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 
 ## Tower
+
+Tower units come from the [Tower Expansion](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
@@ -87,6 +95,8 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Rampart
 
+Rampart units come from the [Rampart Expansion](content.md).
+
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Centaurs | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 6 | 2 :gold: | - |
@@ -107,6 +117,8 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Fortress
 
+Fortress units come from the [Fortress Expansion](content.md).
+
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Gnolls | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 4 | 2 :gold: | - |
@@ -126,6 +138,8 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 
 ## Inferno
+
+Inferno units come from the [Inferno Expansion](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
@@ -149,6 +163,8 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 🔮 Unrelased and incomplete content.
 
+Stronghold units come from the [Stronghold Expansion](content.md).
+
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Goblins | Few | :bronze: | :unit_ground: | 1 | 0 | 4 | 6 | 1 :gold: | - |
@@ -170,6 +186,8 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 ## Conflux
 
 🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
+
+Conflux units come from the [Conflux Expansion](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
@@ -193,6 +211,8 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
 
+Cove units come from the [Cove Expansion](content.md).
+
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Oceanids | Few | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
@@ -213,75 +233,75 @@ For units that belong to a [town](towns.md), stat changes between "few" and "pac
 
 ## Neutral
 
-| Name | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Boars | :bronze: | :unit_ground: | 2 | 0 | 4 | 6 | 4 :gold: | - |
-| Centaurs | :bronze: | :unit_ground: | 2 | 0 | 5 | 7 | 3 :gold: | - |
-| Cerberi | :bronze: | :unit_ground: | 2 | 0 | 5 | 8 | 10 :gold: | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. |
-| Dragon Flies | :bronze: | :unit_flying: | 3 | 0 | 3 | 8 | 7 :gold: | :unit_attack: Retaliation Attacks against Dragon Flies suffer -1 :attack:. |
-| Dwarves | :bronze: | :unit_ground: | 2 | 1 | 4 | 3 | 4 :gold: | :unit_passive: If this unit is targeted by any [Spell](spells.md) or [Specialty](heroes.md) card, roll 1 [Attack die](dice.md#attack-die). On a "+1" result, ignore the card's effect. |
-| Elves | :bronze: | :unit_ranged: | 2 | 1 | 3 | 6 | 7 :gold: | :unit_attack: If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. |
-| Evil Eyes | :bronze: | :unit_ranged: | 2 | 1 | 3 | 6 | 6 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. |
-| Familiars | :bronze: | :unit_ground: | 3 | 1 | 2 | 7 | 6 :gold: | :unit_passive: Whenever an enemy cast a [:spellpower:](spells.md) from hand, they must discard 1 card from hand. |
-| Gargoyles | :bronze: | :unit_flying: | 2 | 1 | 3 | 9 | 4 :gold: | :unit_passive: This unit ignores :paralysis: effect. |
-| Gnolls | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 3 :gold: | - |
-| Gremlins | :bronze: | :unit_ranged: | 2 | 0 | 2 | 5 | 2 :gold: | - |
-| Griffins | :bronze: | :unit_flying: | 3 | 0 | 4 | 8 | 7 :gold: | :unit_retaliate: This unit can perform and unlimited number of Retaliation Attacks. |
-| Halberdiers | :bronze: | :unit_ground: | 2 | 0 | 4 | 4 | 4 :gold: | :unit_passive: Treat allied adjacent units as if they had a Defense token. |
-| Halflings | :bronze: | :unit_ranged: | 2 | 0 | 3 | 6 | 5 :gold: | :unit_attack: Roll 2 [Attack dice](dice.md#attack-die) and resolve the higher one. Ignore combat penalties. |
-| Harpies | :bronze: | :unit_flying: | 2 | 0 | 4 | 8 | 5 :gold: | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. |
-| Iron Golems | :bronze: | :unit_ground: | 2 | 1 | 4 | 3 | 6 :gold: | :unit_passive: Reduce any :damage: from [spells](spells.md) by 2 - to a minimum of 0. |
-| Lizardmen | :bronze: | :unit_ranged: | 2 | 0 | 4 | 5 | 4 :gold: | - |
-| Magogs | :bronze: | :unit_ranged: | 2 | 0 | 4 | 6 | 8 :gold: | :unit_attack: When Magogs attack a target that is non adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. |
-| Marksmen | :bronze: | :unit_ranged: | 2 | 0 | 3 | 5 | 7 :gold: | :unit_attack: If a target is a non-adjacent unit, attack this target again. |
-| Peasants | :bronze: | :unit_ground: | 1 | 0 | 2 | 3 | 3 :gold: | :effect_map: At the beginning of each Resource round, gain 3 :gold:. |
-| Rogues | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 5 :gold: | :effect_map: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. |
-| Skeletons | :bronze: | :unit_ground: | 2 | 0 | 3 | 4 | 3 :gold: | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](heroes.md#necropolis), immediately Reinforce 1 of your :bronze: units. |
-| Troglodytes | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 4 :gold: | :unit_passive: This unit ignores :paralysis: effects. |
-| Wraiths | :bronze: | :unit_flying: | 2 | 0 | 4 | 7 | 7 :gold: | :activation: Remove up to 2 :damage: from this unit. |
-| Zombies | :bronze: | :unit_ground: | 2 | 0 | 4 | 3 | 5 :gold: | :unit_passive: If the attacker resolves a "0" or a "+1" on an [Attack die](dice.md#attack-die), gain +1 :defense: |
-| Basilisks | :silver: | :unit_ground: | 4 | 1 | 4 | 5 | 12 :gold: | :unit_attack: After the attack, roll 1 [Attack die](dice.md#attack-die). On a "0" result, :paralysis: the target. |
-| Crusaders | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 11 :gold: | :unit_passive: During any attack, roll 2 [Attack dice](dice.md#attack-die) and resolve the higher outcome. |
-| Demons | :silver: | :unit_ground: | 3 | 0 | 8 | 6 | 13 :gold: | - |
-| Dendroids | :silver: | :unit_ground: | 3 | 2 | 6 | 3 | 12 :gold: | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. |
-| Genies | :silver: | :unit_flying: | 3 | 1 | 4 | 9 | 11 :gold: | :unit_attack: When attacking Efreet, this unit gains +1 :attack:. |
-| Gorgons | :silver: | :unit_ground: | 4 | 2 | 4 | 5 | 13 :gold: | :unit_attack: After the attack, roll 2 [Attack dice](dice.md#attack-die). On two "-1" results, reduce the attacked unit's :health_points: to 0. |
-| Liches | :silver: | :unit_ranged: | 3 | 0 | 6 | 7 | 12 :gold: | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. |
-| Magi | :silver: | :unit_ranged: | 3 | 0 | 5 | 6 | 11 :gold: | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. |
-| Medusas | :silver: | :unit_ranged: | 3 | 1 | 4 | 6 | 11 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. |
-| Minotaurs | :silver: | :unit_ground: | 3 | 2 | 4 | 7 | 11 :gold: | :unit_attack: Reroll this unit's "-1" outcome on the [Attack die](dice.md#attack-die). |
-| Mummies | :silver: | :unit_ground: | 3 | 1 | 4 | 5 | 8 :gold: | :unit_attack: Ignore the result on the [Attack die](dice.md#attack-die). :unit_passive: Whenever this unit is attacked, set your opponent's [Attack die](dice.md#attack-die) to "-1". |
-| Nomads | :silver: | :unit_ground: | 3 | 1 | 4 | 7 | 10 :gold: | :effect_map: At the end of your turn, move your [Hero's](heroes.md) model to an adjacent empty field. |
-| Pegasi | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 14 :gold: | :unit_passive: Whenever an enemy casts a [:spellpower:](spells.md), they much discard an additional card woth :empower:. |
-| Pit Lord | :silver: | :unit_ground: | 4 | 1 | 5 | 7 | 15 :gold: | - |
-| Sharpshooters | :silver: | :unit_ranged: | 3 | 0 | 6 | 9 | 10 :gold: | :unit_attack: Ignore the combat penalties. |
-| Vampires | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 9 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. Then remove up to 2 :damage: from this unit. |
-| Zealots | :silver: | :unit_ranged: | 3 | 0 | 5 | 5 | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. |
-| Arch Devils | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 23 :gold: | :unit_attack: When attacking Archangels, this unit gains +2 :attack:. |
-| Archangels | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 29 :gold: | :unit_attack: When attacking Arch Devils, this unit gains +2 :attack:. |
-| Black Dragons | :golden: | :unit_flying: | 5 | 2 | 7 | 9 | 30 :gold: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. |
-| Champions | :golden: | :unit_ground: | 4 | 2 | 6 | 8 | 18 :gold: | :unit_attack: Roll 2 [Attack dice](dice.md#attack-die) and aplly both outcomes.<br>:unit_passive: Reroll this unit's all "-1" rolls. |
-| Diamond Golems | :golden: | :unit_ground: | 4 | 2 | 6 | 6 | 16 :gold: | :unit_passive: Reduce any :damage: from [spells](spells.md) by 3 - to a minimum of 0. |
-| Dread Knights | :golden: | :unit_ground: | 5 | 1 | 7 | 7 | 18 :gold: | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. |
-| Efreet | :golden: | :unit_flying: | 4 | 2 | 6 | 13 | 20 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells.md) or [spells](spells.md) from the[Fire School of Magic](spells.md#fire-magic). |
-| Enchanters | :golden: | :unit_ranged: | 4 | 1 | 5 | 5 | 16 :gold: | :activation: Remove up to 2 :damage: from a friendly unit. Otherwise, Enchanters gain +1 :attack:. |
-| Ghost Dragons | :golden: | :unit_flying: | 5 | 2 | 6 | 9 | 28 :gold: | :unit_attack: After the attack, roll 1 [Attack die](dice.md#attack-die); if the result is "0", the target must immediately move away 1 space. |
-| Gold Golems | :golden: | :unit_ground: | 3 | 2 | 6 | 5 | 14 :gold: | :unit_passive: Reduce any :damage: from [spells](spells.md) by 2 - to a minimum of 0. |
-| Manticores | :golden: | :unit_flying: | 4 | 1 | 7 | 8 | 18 :gold: | :unit_passive: On a "0" or a "+1" outcomes on the enemy's [Attack die](dice.md#attack-die), gain +1 :defense:. |
-| Nagas | :golden: | :unit_ground: | 5 | 1 | 6 | 6 | 16 :gold: | :unit_attack: Ignore Retaliation Attacks. |
-| Trolls | :golden: | :unit_ground: | 4 | 0 | 7 | 7 | 13 :gold: | :activation: Remove up to 3 :damage: from this unit. |
-| Unicorns | :golden: | :unit_ground: | 5 | 1 | 7 | 7 | 18 :gold: | :unit_retaliate: The target is :paralysis:. |
-| Wyverns | :golden: | :unit_flying: | 4 | 1 | 7 | 8 | 17 :gold: | :unit_attack: After the attack, roll 1 [Attack die](dice.md#attack-die). On a "0" result, deal 1 :damage: to the target unit. |
-| Azure Dragons | :azure: | :unit_flying: | 8 | 3 | 10 | 19 | 45 :gold:<br>2 :valuables: | :unit_attack: If you resolve a "-1" on the [Attack die](dice.md#attack-die), the target gains :paralysis:.<br>:unit_passive: Ignore any [:spellpower:](spells.md) effects and :damage: from [Specialty](heroes.md). |
-| Cystral Dragons | :azure: | :unit_ground: | 7 | 3 | 9 | 16 | 40 :gold:<br>2 :valuables: | :effect_map: At the beginning of each Resource round, gain 2 :valuables:. |
-| Faerie Dragons | :azure: | :unit_flying: | 5 | 2 | 8 | 15 | 35 :gold:<br>2 :valuables: | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](spells.md) that does not count towards your [spell](spells.md) limit. |
-| Gold Dragons | :azure: | :unit_flying: | 6 | 3 | 9 | 10 | 42 :gold: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |
-| Hydras | :azure: | :unit_ground: | 7 | 3 | 8 | 5 | 40 :gold: | :unit_attack: Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |
-| Rust Dragons | :azure: | :unit_flying: | 7 | 3 | 10 | 17 | 38 :gold:<br>1 :valuables: | :unit_attack: On "-1" results on the [Attack die](dice.md#attack-die), decrease the attacked unit's :defense: by 2 - to a minimum of 0. |
-| Titans | :azure: | :unit_ranged: | 6 | 2 | 10 | 10 | 39 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking Black Dragons, this unit gains +2 :attack:. |
+| Name | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities | [Content](content.md) |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- | :--- |
+| Boars | :bronze: | :unit_ground: | 2 | 0 | 4 | 6 | 4 :gold: | - | Core |
+| Centaurs | :bronze: | :unit_ground: | 2 | 0 | 5 | 7 | 3 :gold: | - | Tower |
+| Cerberi | :bronze: | :unit_ground: | 2 | 0 | 5 | 8 | 10 :gold: | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. | Inferno |
+| Dragon Flies | :bronze: | :unit_flying: | 3 | 0 | 3 | 8 | 7 :gold: | :unit_attack: Retaliation Attacks against Dragon Flies suffer -1 :attack:. | Tower |
+| Dwarves | :bronze: | :unit_ground: | 2 | 1 | 4 | 3 | 4 :gold: | :unit_passive: If this unit is targeted by any [Spell](spells.md) or [Specialty](heroes.md) card, roll 1 [Attack die](dice.md#attack-die). On a "+1" result, ignore the card's effect. | Tower |
+| Elves | :bronze: | :unit_ranged: | 2 | 1 | 3 | 6 | 7 :gold: | :unit_attack: If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. | Tower |
+| Evil Eyes | :bronze: | :unit_ranged: | 2 | 1 | 3 | 6 | 6 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. | Core |
+| Familiars | :bronze: | :unit_ground: | 3 | 1 | 2 | 7 | 6 :gold: | :unit_passive: Whenever an enemy cast a [:spellpower:](spells.md) from hand, they must discard 1 card from hand. | Inferno |
+| Gargoyles | :bronze: | :unit_flying: | 2 | 1 | 3 | 9 | 4 :gold: | :unit_passive: This unit ignores :paralysis: effect. | Tower |
+| Gnolls | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 3 :gold: | - | Tower |
+| Gremlins | :bronze: | :unit_ranged: | 2 | 0 | 2 | 5 | 2 :gold: | - | Tower |
+| Griffins | :bronze: | :unit_flying: | 3 | 0 | 4 | 8 | 7 :gold: | :unit_retaliate: This unit can perform and unlimited number of Retaliation Attacks. | Core |
+| Halberdiers | :bronze: | :unit_ground: | 2 | 0 | 4 | 4 | 4 :gold: | :unit_passive: Treat allied adjacent units as if they had a Defense token. | Core |
+| Halflings | :bronze: | :unit_ranged: | 2 | 0 | 3 | 6 | 5 :gold: | :unit_attack: Roll 2 [Attack dice](dice.md#attack-die) and resolve the higher one. Ignore combat penalties. | Core |
+| Harpies | :bronze: | :unit_flying: | 2 | 0 | 4 | 8 | 5 :gold: | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. | Core |
+| Iron Golems | :bronze: | :unit_ground: | 2 | 1 | 4 | 3 | 6 :gold: | :unit_passive: Reduce any :damage: from [spells](spells.md) by 2 - to a minimum of 0. | Tower |
+| Lizardmen | :bronze: | :unit_ranged: | 2 | 0 | 4 | 5 | 4 :gold: | - | Tower |
+| Magogs | :bronze: | :unit_ranged: | 2 | 0 | 4 | 6 | 8 :gold: | :unit_attack: When Magogs attack a target that is non adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. | Inferno |
+| Marksmen | :bronze: | :unit_ranged: | 2 | 0 | 3 | 5 | 7 :gold: | :unit_attack: If a target is a non-adjacent unit, attack this target again. | Core |
+| Peasants | :bronze: | :unit_ground: | 1 | 0 | 2 | 3 | 3 :gold: | :effect_map: At the beginning of each Resource round, gain 3 :gold:. | Core |
+| Rogues | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 5 :gold: | :effect_map: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. | Core |
+| Skeletons | :bronze: | :unit_ground: | 2 | 0 | 3 | 4 | 3 :gold: | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](heroes.md#necropolis), immediately Reinforce 1 of your :bronze: units. | Core |
+| Troglodytes | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 4 :gold: | :unit_passive: This unit ignores :paralysis: effects. | Core |
+| Wraiths | :bronze: | :unit_flying: | 2 | 0 | 4 | 7 | 7 :gold: | :activation: Remove up to 2 :damage: from this unit. | Core |
+| Zombies | :bronze: | :unit_ground: | 2 | 0 | 4 | 3 | 5 :gold: | :unit_passive: If the attacker resolves a "0" or a "+1" on an [Attack die](dice.md#attack-die), gain +1 :defense: | Core |
+| Basilisks | :silver: | :unit_ground: | 4 | 1 | 4 | 5 | 12 :gold: | :unit_attack: After the attack, roll 1 [Attack die](dice.md#attack-die). On a "0" result, :paralysis: the target. | Tower |
+| Crusaders | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 11 :gold: | :unit_passive: During any attack, roll 2 [Attack dice](dice.md#attack-die) and resolve the higher outcome. | Core |
+| Demons | :silver: | :unit_ground: | 3 | 0 | 8 | 6 | 13 :gold: | - | Inferno |
+| Dendroids | :silver: | :unit_ground: | 3 | 2 | 6 | 3 | 12 :gold: | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. | Tower |
+| Genies | :silver: | :unit_flying: | 3 | 1 | 4 | 9 | 11 :gold: | :unit_attack: When attacking Efreet, this unit gains +1 :attack:. | Tower |
+| Gorgons | :silver: | :unit_ground: | 4 | 2 | 4 | 5 | 13 :gold: | :unit_attack: After the attack, roll 2 [Attack dice](dice.md#attack-die). On two "-1" results, reduce the attacked unit's :health_points: to 0. | Tower |
+| Liches | :silver: | :unit_ranged: | 3 | 0 | 6 | 7 | 12 :gold: | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. | Core |
+| Magi | :silver: | :unit_ranged: | 3 | 0 | 5 | 6 | 11 :gold: | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. | Tower |
+| Medusas | :silver: | :unit_ranged: | 3 | 1 | 4 | 6 | 11 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. | Core |
+| Minotaurs | :silver: | :unit_ground: | 3 | 2 | 4 | 7 | 11 :gold: | :unit_attack: Reroll this unit's "-1" outcome on the [Attack die](dice.md#attack-die). | Core |
+| Mummies | :silver: | :unit_ground: | 3 | 1 | 4 | 5 | 8 :gold: | :unit_attack: Ignore the result on the [Attack die](dice.md#attack-die). :unit_passive: Whenever this unit is attacked, set your opponent's [Attack die](dice.md#attack-die) to "-1". | Core |
+| Nomads | :silver: | :unit_ground: | 3 | 1 | 4 | 7 | 10 :gold: | :effect_map: At the end of your turn, move your [Hero's](heroes.md) model to an adjacent empty field. | Core |
+| Pegasi | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 14 :gold: | :unit_passive: Whenever an enemy casts a [:spellpower:](spells.md), they much discard an additional card woth :empower:. | Tower |
+| Pit Lord | :silver: | :unit_ground: | 4 | 1 | 5 | 7 | 15 :gold: | - | Inferno |
+| Sharpshooters | :silver: | :unit_ranged: | 3 | 0 | 6 | 9 | 10 :gold: | :unit_attack: Ignore the combat penalties. | Core |
+| Vampires | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 9 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. Then remove up to 2 :damage: from this unit. | Core |
+| Zealots | :silver: | :unit_ranged: | 3 | 0 | 5 | 5 | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. | Core |
+| Arch Devils | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 23 :gold: | :unit_attack: When attacking Archangels, this unit gains +2 :attack:. | Inferno |
+| Archangels | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 29 :gold: | :unit_attack: When attacking Arch Devils, this unit gains +2 :attack:. | Core |
+| Black Dragons | :golden: | :unit_flying: | 5 | 2 | 7 | 9 | 30 :gold: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. | Core |
+| Champions | :golden: | :unit_ground: | 4 | 2 | 6 | 8 | 18 :gold: | :unit_attack: Roll 2 [Attack dice](dice.md#attack-die) and aplly both outcomes.<br>:unit_passive: Reroll this unit's all "-1" rolls. | Core |
+| Diamond Golems | :golden: | :unit_ground: | 4 | 2 | 6 | 6 | 16 :gold: | :unit_passive: Reduce any :damage: from [spells](spells.md) by 3 - to a minimum of 0. | Core |
+| Dread Knights | :golden: | :unit_ground: | 5 | 1 | 7 | 7 | 18 :gold: | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. | Core |
+| Efreet | :golden: | :unit_flying: | 4 | 2 | 6 | 13 | 20 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells.md) or [spells](spells.md) from the[Fire School of Magic](spells.md#fire-magic). | Inferno |
+| Enchanters | :golden: | :unit_ranged: | 4 | 1 | 5 | 5 | 16 :gold: | :activation: Remove up to 2 :damage: from a friendly unit. Otherwise, Enchanters gain +1 :attack:. | Core |
+| Ghost Dragons | :golden: | :unit_flying: | 5 | 2 | 6 | 9 | 28 :gold: | :unit_attack: After the attack, roll 1 [Attack die](dice.md#attack-die); if the result is "0", the target must immediately move away 1 space. | Core |
+| Gold Golems | :golden: | :unit_ground: | 3 | 2 | 6 | 5 | 14 :gold: | :unit_passive: Reduce any :damage: from [spells](spells.md) by 2 - to a minimum of 0. | Core |
+| Manticores | :golden: | :unit_flying: | 4 | 1 | 7 | 8 | 18 :gold: | :unit_passive: On a "0" or a "+1" outcomes on the enemy's [Attack die](dice.md#attack-die), gain +1 :defense:. | Core |
+| Nagas | :golden: | :unit_ground: | 5 | 1 | 6 | 6 | 16 :gold: | :unit_attack: Ignore Retaliation Attacks. | Tower |
+| Trolls | :golden: | :unit_ground: | 4 | 0 | 7 | 7 | 13 :gold: | :activation: Remove up to 3 :damage: from this unit. | Core |
+| Unicorns | :golden: | :unit_ground: | 5 | 1 | 7 | 7 | 18 :gold: | :unit_retaliate: The target is :paralysis:. | Tower |
+| Wyverns | :golden: | :unit_flying: | 4 | 1 | 7 | 8 | 17 :gold: | :unit_attack: After the attack, roll 1 [Attack die](dice.md#attack-die). On a "0" result, deal 1 :damage: to the target unit. | Tower |
+| Azure Dragons | :azure: | :unit_flying: | 8 | 3 | 10 | 19 | 45 :gold:<br>2 :valuables: | :unit_attack: If you resolve a "-1" on the [Attack die](dice.md#attack-die), the target gains :paralysis:.<br>:unit_passive: Ignore any [:spellpower:](spells.md) effects and :damage: from [Specialty](heroes.md). | Core |
+| Cystral Dragons | :azure: | :unit_ground: | 7 | 3 | 9 | 16 | 40 :gold:<br>2 :valuables: | :effect_map: At the beginning of each Resource round, gain 2 :valuables:. | Core |
+| Faerie Dragons | :azure: | :unit_flying: | 5 | 2 | 8 | 15 | 35 :gold:<br>2 :valuables: | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](spells.md) that does not count towards your [spell](spells.md) limit. | Rampart |
+| Gold Dragons | :azure: | :unit_flying: | 6 | 3 | 9 | 10 | 42 :gold: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | Tower |
+| Hydras | :azure: | :unit_ground: | 7 | 3 | 8 | 5 | 40 :gold: | :unit_attack: Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. | Tower |
+| Rust Dragons | :azure: | :unit_flying: | 7 | 3 | 10 | 17 | 38 :gold:<br>1 :valuables: | :unit_attack: On "-1" results on the [Attack die](dice.md#attack-die), decrease the attacked unit's :defense: by 2 - to a minimum of 0. | Fortress |
+| Titans | :azure: | :unit_ranged: | 6 | 2 | 10 | 10 | 39 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking Black Dragons, this unit gains +2 :attack:. | Tower |
 
-<a id="other"></a>
-# Other
+
+## Other
 
 | Name | Type | :attack: | :defense: | :health_points: | :initiative: | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
