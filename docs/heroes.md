@@ -7,12 +7,12 @@ You might also want to see [towns](towns.md).
 
 ## Castle
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
-| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Adelaide | :magic: Cleric | 1 | 0 | 2 | 2 | Frost Ring | Wisdom |
-| Catherine | :might: Knight | 2 | 2 | 1 | 1 | Crusaders | Leadership |
-| Lord Haart | :might: Knight | 2 | 2 | 1 | 1 | Estates | Estates |
-| Rion | :magic: Cleric | 1 | 0 | 2 | 2 | Battlefield Medic | Wisdom |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| Adelaide | :magic: Cleric | 1 | 0 | 2 | 2 | Frost Ring | Wisdom | Tower |
+| Catherine | :might: Knight | 2 | 2 | 1 | 1 | Crusaders | Leadership | Core |
+| Lord Haart | :might: Knight | 2 | 2 | 1 | 1 | Estates | Estates | Tower |
+| Rion | :magic: Cleric | 1 | 0 | 2 | 2 | Battlefield Medic | Wisdom | Core |
 
 
 ### Adelaide
@@ -53,12 +53,12 @@ You might also want to see [towns](towns.md).
 
 ## Necropolis
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
-| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Load Haart | :might: Death Knight | 1 | 2 | 2 | 1 | Dread Knights | Necromancy |
-| Sandro | :magic: Necromancer | 1 | 0 | 2 | 2 | Cloak of the Undead King | Sorcery |
-| Tamika | :might: Death Knight | 1 | 2 | 2 | 1 | Dread Knights | Offense |
-| Vidomina | :magic: Necromancer | 1 | 0 | 2 | 2 | Necromancy | Necromancy |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| Load Haart | :might: Death Knight | 1 | 2 | 2 | 1 | Dread Knights | Necromancy | Tower |
+| Sandro | :magic: Necromancer | 1 | 0 | 2 | 2 | Cloak of the Undead King | Sorcery | Core |
+| Tamika | :might: Death Knight | 1 | 2 | 2 | 1 | Dread Knights | Offense | Core |
+| Vidomina | :magic: Necromancer | 1 | 0 | 2 | 2 | Necromancy | Necromancy | Tower |
 
 
 ### Lord Haart
@@ -99,12 +99,12 @@ You might also want to see [towns](towns.md).
 
 ## Dungeon
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
-| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Alamar | :magic: Warlock | 0 | 0 | 3 | 2 | Resurrection | Wisdom |
-| Deemer | :magic: Warlock | 0 | 0 | 3 | 2 | Meteor Shower | Scouting |
-| Jeddite | :magic: Warlock | 0 | 0 | 3 | 2 | Mysterious Warlock | Sorcery |
-| Mutare | :might: Overlord | 2 | 2 | 1 | 1 | Dragons | Tactics |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| Alamar | :magic: Warlock | 0 | 0 | 3 | 2 | Resurrection | Wisdom | Core |
+| Deemer | :magic: Warlock | 0 | 0 | 3 | 2 | Meteor Shower | Scouting | Tower |
+| Jeddite | :magic: Warlock | 0 | 0 | 3 | 2 | Mysterious Warlock | Sorcery | Tower |
+| Mutare | :might: Overlord | 2 | 2 | 1 | 1 | Dragons | Tactics | Core |
 
 
 ### Alamar
@@ -145,12 +145,12 @@ You might also want to see [towns](towns.md).
 
 ## Tower
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
-| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Dracon | :magic: Wizard | 0 | 0 | 2 | 3 | Enchanters | Wisdom |
-| Iona | :might: Alchemist | 1 | 1 | 2 | 2 | Genies | Intelligence |
-| Josephine | :might: Alchemist | 1 | 1 | 2 | 2 | Golems | Sorcery |
-| Solmyr | :magic: Wizard | 0 | 0 | 2 | 3 | Chain Lightning | Sorcery |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| Dracon | :magic: Wizard | 0 | 0 | 2 | 3 | Enchanters | Wisdom | Tower |
+| Iona | :might: Alchemist | 1 | 1 | 2 | 2 | Genies | Intelligence | Tower |
+| Josephine | :might: Alchemist | 1 | 1 | 2 | 2 | Golems | Sorcery | Tower |
+| Solmyr | :magic: Wizard | 0 | 0 | 2 | 3 | Chain Lightning | Sorcery | Tower |
 
 
 ### Dracon
@@ -192,12 +192,12 @@ You might also want to see [towns](towns.md).
 
 ## Rampart
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
-| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Clancy | :might: Ranger | 1 | 3 | 1 | 1 | Unicorns | Pathfinding |
-| Gelu | :might: Ranger | 1 | 3 | 1 | 1 | Sharpshooters | Archery |
-| Gem | :magic: Druid | 0 | 2 | 1 | 2 | First Aid | First Aid |
-| Mephala | :might: Ranger | 1 | 3 | 1 | 1 | Armorer | Leadership |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| Clancy | :might: Ranger | 1 | 3 | 1 | 1 | Unicorns | Pathfinding | Tower |
+| Gelu | :might: Ranger | 1 | 3 | 1 | 1 | Sharpshooters | Archery | Rampart |
+| Gem | :magic: Druid | 0 | 2 | 1 | 2 | First Aid | First Aid | Rampart |
+| Mephala | :might: Ranger | 1 | 3 | 1 | 1 | Armorer | Leadership | Tower |
 
 
 ### Clancy
@@ -238,12 +238,12 @@ You might also want to see [towns](towns.md).
 
 ## Fortress
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
-| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Adrienne | :magic: Witch | 0 | 1 | 2 | 2 | Fire Magic | Wisdom |
-| Bron | :might: Beastmaster | 0 | 4 | 1 | 1 | Basilisks | Resistance |
-| Tazar | :might: Beastmaster | 0 | 4 | 1 | 1 | War Hero | Armorer |
-| Wystan | :might: Beastmaster | 0 | 4 | 1 | 1 | Lizardmen | Archery |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| Adrienne | :magic: Witch | 0 | 1 | 2 | 2 | Fire Magic | Wisdom | Fortress |
+| Bron | :might: Beastmaster | 0 | 4 | 1 | 1 | Basilisks | Resistance | Tower |
+| Tazar | :might: Beastmaster | 0 | 4 | 1 | 1 | War Hero | Armorer | Tower |
+| Wystan | :might: Beastmaster | 0 | 4 | 1 | 1 | Lizardmen | Archery | Fortress |
 
 
 ### Adrienne
@@ -284,12 +284,12 @@ You might also want to see [towns](towns.md).
 
 ## Inferno
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
-| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Fiona | :might: Demoniac | 2 | 2 | 1 | 1 | Cerberi | Scouting |
-| Rashka | :might: Demoniac | 2 | 2 | 1 | 1 | Efreet | Scholar |
-| Xyron | :magic: Heretic | 1 | 1 | 2 | 1 | Inferno | Wisdom |
-| Zydar | :magic: Heretic | 1 | 1 | 2 | 1 | Sorcery | Sorcery |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| Fiona | :might: Demoniac | 2 | 2 | 1 | 1 | Cerberi | Scouting | Inferno |
+| Rashka | :might: Demoniac | 2 | 2 | 1 | 1 | Efreet | Scholar | Inferno |
+| Xyron | :magic: Heretic | 1 | 1 | 2 | 1 | Inferno | Wisdom | Inferno |
+| Zydar | :magic: Heretic | 1 | 1 | 2 | 1 | Sorcery | Sorcery | Inferno |
 
 
 ### Fiona
@@ -332,12 +332,12 @@ You might also want to see [towns](towns.md).
 
 🔮 Unrelased and incomplete content.
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
-| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Crag Hack | :might: Barbarian | 4 | 0 | 1 | 1 | Offense | Offense |
-| Vog | :might: Barbarian | 4 | 0 | 1 | 1 | Cyclops | Offense |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| Crag Hack | :might: Barbarian | 4 | 0 | 1 | 1 | Offense | Offense | Stronghold |
+| Yog | :might: Barbarian | 4 | 0 | 1 | 1 | Cyclops | Offense | Stronghold |
+| Gundula | :magic: Battle Mage | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Stronghold |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Stronghold |
 
 
 ### Crag Hack
@@ -349,7 +349,7 @@ You might also want to see [towns](towns.md).
 | Offense | Ⅵ | 🚧 |
 
 
-### Vog
+### Yog
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
@@ -362,12 +362,12 @@ You might also want to see [towns](towns.md).
 
 🔮 Unrelased and incomplete content.
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
-| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| Luna | :magic: Elementalist | 0 | 0 | 2 | 3 | Fire Wall | Fire Magic |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| Luna | :magic: Elementalist | 0 | 0 | 2 | 3 | Fire Wall | Fire Magic | Conflux |
+| Tarnum | :magic: Elementalist | 0 | 0 | 2 | 3 | 🚧 | 🚧 | Conflux |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Conflux |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Conflux |
 
 
 ### Luna
@@ -383,9 +383,9 @@ You might also want to see [towns](towns.md).
 
 🔮 Unrelased and incomplete content.
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) |
-| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Cove |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Cove |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Cove |
+| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Cove |
