@@ -143,12 +143,12 @@ Conflux town comes from the [Conflux Expansion](content.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| City Hall | 🚧 | At the beginning of each Resource round, choose:<br>:ongoing:️ +1 :hand: for this round.<br><br>— OR —<br><br>:instant: Buying spells in this Town is for free. |
-| Citadel | 🚧 | Unlocks **Reinforcing** [units](units.md#conflux). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
+| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:ongoing:️ +1 :hand: for this round.<br><br>— OR —<br><br>:instant: Buying spells in this Town is for free. |
+| Citadel | 8 :gold:<br>4 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](units.md#conflux). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
-| Altar of Air and Water | 4 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#conflux). |
-| 🚧 | 🚧 | Unlocks **Recruiting** of :silver: [units](units.md#conflux). |
-| 🚧 | 🚧 | Unlocks **Recruiting** of :golden: [units](units.md#conflux). |
+| Altars of Air and Water | 4 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#conflux). |
+| Altars of Fire and Earth | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](units.md#conflux). |
+| Magical Pyre | 9 :gold:<br>8 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](units.md#conflux). |
 | Magic University | 7 :gold:<br>3 :building_materials:<br>0 :valuables: | When using a Magic Guild instead of the **Search** action, choose a [School of Magic](spells.md), discard cards from the top of the [Spell](spells.md) deck until you find a [Spell](spells.md) from the chosen school, and then take it. |
 | Garden of Life | 2 :gold:<br>1 :building_materials:<br>1 :valuables: | At the beginning of each round, **Recruit** or **Reinforce** Sprites for free. |
 
@@ -161,11 +161,11 @@ Cove town comes from the [Cove Expansion](content.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| City Hall | 🚧 | 🚧 |
-| Citadel | 🚧 | Unlocks **Reinforcing** [units](units.md#cove). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
-| Mage Guild | 🚧 | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
-| 🚧 | 🚧 | Unlocks **Recruiting** of :bronze: [units](units.md#cove). |
-| 🚧 | 🚧 | Unlocks **Recruiting** of :silver: [units](units.md#cove). |
-| 🚧 | 🚧 | Unlocks **Recruiting** of :golden: [units](units.md#cove). |
-| 🚧 | 🚧 | 🚧 |
-| 🚧 | 🚧 | 🚧 |
+| City Hall | 12 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Astrologers' round, choose:<br>:instant:️ +3 :gold:<br><br>— OR —<br><br>:instant: +1 :movement: when a Hero is on Water. |
+| Citadel | 8 :gold:<br>4 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](units.md#cove). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
+| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
+| Bay | 4 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#cove). |
+| Towers of the Seas | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](units.md#cove). |
+| Maelstorm | 10 :gold:<br>8 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](units.md#cove). |
+| Thieves' Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | Once during your turn, choose one deck, look at the top 2 cards, then put one of them back and discard the other. |
+| Pub | 3 :gold:<br>2 :building_materials:<br>0 :valuables: | Once during Astrologers' round, while **Reinforcing** a unit, reduce the reinforcement cost by 3 :gold: (to a minimum of 0). |

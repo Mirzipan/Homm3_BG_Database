@@ -335,9 +335,9 @@ You might also want to see [towns](towns.md).
 | Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
 | Crag Hack | :might: Barbarian | 4 | 0 | 1 | 1 | Offense | Offense | Stronghold |
+| Gundula | :magic: Battle Mage | 2 | 1 | 1 | 1 | 🚧 | Wisdom | Stronghold |
+| Shiva | :might: Barbarian | 4 | 0 | 1 | 1 | Thunderbirds | Scouting | Stronghold |
 | Yog | :might: Barbarian | 4 | 0 | 1 | 1 | Cyclops | Offense | Stronghold |
-| Gundula | :magic: Battle Mage | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Stronghold |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Stronghold |
 
 
 ### Crag Hack
@@ -347,6 +347,24 @@ You might also want to see [towns](towns.md).
 | Offense | Ⅰ | :ongoing: Your selected [unit](units.md) gains +1 :attack: |
 | Offense | Ⅳ | 🚧 |
 | Offense | Ⅵ | 🚧 |
+
+
+### Gundula
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| 🚧 | Ⅰ | 🚧 |
+| 🚧 | Ⅳ | 🚧 |
+| 🚧 | Ⅵ | 🚧 |
+
+
+### Shiva
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Thunderbirds | Ⅰ | 🚧 |
+| Thunderbirds | Ⅳ | 🚧 |
+| Thunderbirds | Ⅵ | 🚧 |
 
 
 ### Yog
@@ -364,10 +382,19 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| Erdamon | :might: Planeswalker | 3 | 1 | 1 | 1 | Magma Elementals | Estates | Conflux |
 | Luna | :magic: Elementalist | 0 | 0 | 2 | 3 | Fire Wall | Fire Magic | Conflux |
-| Tarnum | :magic: Elementalist | 0 | 0 | 2 | 3 | 🚧 | 🚧 | Conflux |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Conflux |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Conflux |
+| Monere | :might: Planeswalker | 3 | 1 | 1 | 1 | Magic Elementals | Logistics | Conflux |
+| Tarnum | :magic: Elementalist | 0 | 0 | 2 | 3 | 🚧 | Wisdom | Conflux |
+
+
+### Erdamon
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Magma Elementals | Ⅰ | 🚧 |
+| Magma Elementals | Ⅳ | 🚧 |
+| Magma Elementals | Ⅵ | 🚧 |
 
 
 ### Luna
@@ -379,13 +406,67 @@ You might also want to see [towns](towns.md).
 | Fire Wall | Ⅵ | 🚧 |
 
 
+### Monere
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Magic Elementals | Ⅰ | 🚧 |
+| Magic Elementals | Ⅳ | 🚧 |
+| Magic Elementals | Ⅵ | 🚧 |
+
+
+### Tarnum
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| 🚧 | Ⅰ | 🚧 |
+| 🚧 | Ⅳ | 🚧 |
+| 🚧 | Ⅵ | 🚧 |
+
+
 ## Cove
 
 🔮 Unrelased and incomplete content.
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Cove |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Cove |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Cove |
-| 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | Cove |
+| Casmetra | :magic: Navigator | 2 | 0 | 1 | 2 | 🚧 | Wisdom | Cove |
+| Cassiopeia | :might: Captain | 3 | 0 | 2 | 1 | Oceanids | Tactics | Cove |
+| Jeremy | :might: Captain | 3 | 0 | 2 | 1 | 🚧 | Offense | Cove |
+| Zilare | :magic: Navigator | 2 | 1 | 1 | 1 | Forgetfulness | Influence | Cove |
+
+
+### Casmetra
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Sorceresses | Ⅰ | 🚧 |
+| Sorceresses | Ⅳ | 🚧 |
+| Sorceresses | Ⅵ | 🚧 |
+
+
+### Cassiopeia
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Oceanids | Ⅰ | 🚧 |
+| Oceanids | Ⅳ | 🚧 |
+| Oceanids | Ⅵ | 🚧 |
+
+
+### Jeremy
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| 🚧 | Ⅰ | 🚧 |
+| 🚧 | Ⅳ | 🚧 |
+| 🚧 | Ⅵ | 🚧 |
+
+
+### Zilare
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Forgetfulness | Ⅰ | 🚧 |
+| Forgetfulness | Ⅳ | 🚧 |
+| Forgetfulness | Ⅵ | 🚧 |

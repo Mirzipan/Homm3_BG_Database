@@ -161,74 +161,68 @@ Inferno units come from the [Inferno Expansion](content.md).
 
 ## Stronghold
 
-🔮 Unrelased and incomplete content.
-
-Stronghold units come from the [Stronghold Expansion](content.md).
+🔮 Unrelased content
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | Goblins | Few | :bronze: | :unit_ground: | 1 | 0 | 4 | 6 | 1 :gold: | - |
-| Goblins | Pack | :bronze: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 2 :gold: | 🚧 |
+| Goblins | Pack | :bronze: | :unit_ground: | **2** | 0 | 4 | **8** | 2 :gold: | - |
 | Wolf Raiders | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 7 | 3 :gold: | - |
-| Wolf Raiders | Pack | :bronze: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Orcs | Few | :bronze: | :unit_ground: | 2 | 1 | 4 | 4 | 🚧 | - |
-| Orcs | Pack | :bronze: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 7 :gold: | 🚧 |
-| Ogres | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 4 | 6 :gold: | :unit_other: Place a -1 :attack: token on a chosen :unit_ground: or :unit_flying: unit for 2 Combat rounds. |
-| Ogres | Pack | :silver: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 8 :gold: | 🚧 |
+| Wolf Raiders | Pack | :bronze: | :unit_ground: | 2 | 0 | **5** | **8** | 5 :gold: | :unit_attack: Attack this target again. The second attack happens after the target retaliates (if possible). |
+| Orcs | Few | :bronze: | :unit_ground: | 2 | 1 | 4 | 4 | 4 | - |
+| Orcs | Pack | :bronze: | :unit_ground: | **3** | 1 | **5** | **5** | 7 :gold: | - |
+| Ogres | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 4 | 6 :gold: | :unit_other: Place a +1 :attack: token on a chosen :unit_ground: or :unit_flying: unit for 2 Combat rounds. |
+| Ogres | Pack | :silver: | :unit_ground: | 3 | 2 | **5** | **5** | 8 :gold: | :unit_other: Place a +2 :attack: token on a chosen :unit_ground: or :unit_flying: unit for 2 Combat rounds. |
 | Thunderbirds | Few | :silver: | :unit_flying: | 4 | 1 | 6 | 9 | 8 :gold: | - |
-| Thunderbirds | Pack | :silver: | :unit_flying: | **5** | 1 | 6 | **11** | 14 :gold: | 🚧 |
-| Cyclops | Few | :golden: | :unit_ranged: | 🚧 | 🚧 | 🚧 | 🚧 | 13 :gold: | :unit_other: This unit can destroy the Gate or a Wall. |
-| Cyclops | Pack | :golden: | :unit_ranged: | 5 | 1 | 7 | 8 | 17 :gold:<br>1 :valuables: | :unit_passive: Reduce any :damage: from [:spellpower:](spells.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0). |
+| Thunderbirds | Pack | :silver: | :unit_flying: | **5** | 1 | 6 | **11** | 14 :gold: | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](dice.md#attack-die), on a "+1", deal 1 :spell: :damage: to the target. |
+| Cyclops | Few | :golden: | :unit_ranged: | 4 | 1 | 6 | 6 | 13 :gold: | :unit_other: This unit can destroy the Gate or a Wall. |
+| Cyclops | Pack | :golden: | :unit_ranged: | **5** | 1 | **7** | **8** | 17 :gold:<br>1 :valuables: | :unit_other: This unit can destroy the Gate, a Wall, or the Arrow Tower. |
 | Behemoths | Few | :golden: | :unit_ground: | 7 | 2 | 8 | 6 | 19 :gold:<br>1 :valuables: | :unit_attack: Decrease the target's :defense: by 1 (to a minimum of 0). |
 | Behemoths | Pack | :golden: | :unit_ground: | **8** | 2 | **10** | **9** | 29 :gold:<br>2 :valuables: | :unit_attack: Decrease the target's :defense: by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. |
 
 
 ## Conflux
 
-🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
-
-Conflux units come from the [Conflux Expansion](content.md).
+🔮 Unrelased content
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Sprites | Few | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Sprites | Pack | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Storm Elementals  | Few | :bronze: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Storm Elementals  | Pack | :bronze: | :unit_ranged: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Ice Elementals  | Few | :bronze: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Ice Elementals  | Pack | :bronze: | :unit_ranged: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Energy Elementals | Few | :silver: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Energy Elementals | Pack | :silver: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Magma Elementals | Few | :silver: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Magma Elementals | Pack | :silver: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Magic Elementals | Few | :golden: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Magic Elementals | Pack | :golden: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Phoenixes | Few | :golden: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Phoenixes | Pack | :golden: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| Sprites | Few | :bronze: | :unit_flying: | 2 | 0 | 2 | 7 | 2 :gold: | - |
+| Sprites | Pack | :bronze: | :unit_flying: | 2 | 0 | **4** | **9** | 4 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. |
+| Storm Elementals  | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 7 | 3 :gold: | - |
+| Storm Elementals  | Pack | :bronze: | :unit_ranged: | 2 | 0 | **5** | **8** | 5 :gold: | :activation: Add +1 :empower: to the first Air Magic spell you cast during this Activation. |
+| Ice Elementals  | Few | :bronze: | :unit_ground: | 2 | 1 | 4 | 5 | 4 :gold: | - |
+| Ice Elementals  | Pack | :bronze: | :unit_ranged: | **3** | 1 | **5** | **6** | 7 :gold: | :activation: Add +1 :empower: to the first Water Magic spell you cast during this Activation. |
+| Energy Elementals | Few | :silver: | :unit_flying: | 3 | 1 | 5 | 5 | 5 :gold: | - |
+| Energy Elementals | Pack | :silver: | :unit_flying: | **4** | 1 | **6** | **8** | 8 :gold: | :activation: Add +1 :empower: to the first Fire Magic spell you cast during this Activation. |
+| Magma Elementals | Few | :silver: | :unit_ground: | 4 | 2 | 6 | 4 | 9 :gold: | - |
+| Magma Elementals | Pack | :silver: | :unit_ground: | **5** | 2 | **6** | **6** | 13 :gold: | :activation: Add +1 :empower: to the first Earth Magic spell you cast during this Activation. |
+| Magic Elementals | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 7 | 12 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. |
+| Magic Elementals | Pack | :golden: | :unit_ground: | **6** | 2 | **8** | **9** | 18 :gold:<br>1 :valuables: | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. :unit_passive: Ignore any :spell: effects and :damage: from Specialty. |
+| Phoenixes | Few | :golden: | :unit_flying: | 6 | 2 | 7 | 12 | 21 :gold:<br>1 :valuables: | :unit_passive: Once per Combat. When this unit's :health: drops to 0, set it to 1 instead. :unit_passive: Immune to Fire Magic :spell:. |
+| Phoenixes | Pack | :golden: | :unit_flying: | **7** | 2 | **9** | **18** | 27 :gold:<br>2 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. :unit_passive: Immune to Fire Magic :spell:. |
 
 
 ## Cove
 
-🔮 Unrelased and incomplete content. Unit names are a mix of guesses based on how existing units are named, and previews from Archon.
-
-Cove units come from the [Cove Expansion](content.md).
+🔮 Unrelased content
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Oceanids | Few | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Oceanids | Pack | :bronze: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Seamen | Few | :bronze: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Seamen | Pack | :bronze: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Corsairs | Few | :bronze: | :unit_ranged: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Corsairs | Pack | :bronze: | :unit_ranged: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Stormbirds | Few | :silver: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Stormbirds | Pack | :silver: | :unit_flying: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Sea Witches | Few | :silver: | :unit_ranged: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Sea Witches | Pack | :silver: | :unit_ranged: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Nixes | Few | :golden: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Nixes | Pack | :golden: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Haspids | Few | :golden: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
-| Haspids | Pack | :golden: | :unit_ground: | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
+| Oceanids | Few | :bronze: | :unit_flying: | 2 | 0 | 3 | 6 | 2 :gold: | - |
+| Oceanids | Pack | :bronze: | :unit_flying: | 2 | 0 | **4** | **8** | 3 :gold: | :unit_passive: Ignore any effect from spells from the School of Water Magic. |
+| Seamen | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 5 | 3 :gold: | - |
+| Seamen | Pack | :bronze: | :unit_ground: | 2 | 1 | **5** | **6** | 5 :gold: | :effect_map: +1 :movement: if you start the round on a Sea tile. |
+| Sea Dogs | Few | :bronze: | :unit_ranged: | 2 | 0 | 4 | 6 | 4 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. |
+| Sea Dogs | Pack | :bronze: | :unit_ranged: | 3 | 0 | **5** | **8** | 6 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack.<br>:unit_passive: Ignore the combat penalty against adjacent units. |
+| Ayssids | Few | :silver: | :unit_flying: | 3 | 1 | 5 | 9 | 6 :gold: | - |
+| Ayssids | Pack | :silver: | :unit_flying: | 3 | 1 | **6** | **11** | 10 :gold: | :unit_attack: If the attack reduces the target to 0 :health:, the Ayssids can attack another unit adjacent to them. |
+| Sorceresses | Few | :silver: | :unit_ranged: | 4 | 1 | 5 | 6 | 8 :gold: | :unit_other: Place a Weakness token on any unit for 2 Combat rounds. |
+| Sorceresses | Pack | :silver: | :unit_ranged: | **5** | 1 | **6** | 6 | 13 :gold: | :unit_attack: After the attack, place a Weakness token on the target for 2 Combat rounds. |
+| Nix | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 6 | 12 :gold: | - |
+| Nix | Pack | :golden: | :unit_ground: | **6** | 2 | **8** | **7** | 20 :gold:<br>1 :valuables: | :unit_passive: This unit cannot take more than 4 :damage: from a single attack. |
+| Haspids | Few | :golden: | :unit_ground: | 5 | 3 | 7 | 9 | 18 :gold:<br>1 :valuables: | :unit_attack: If this unit turns from Pack side in this combat, gain +2 :attack: |
+| Haspids | Pack | :golden: | :unit_ground: | **6** | 3 | **9** | **12** | 32 :gold:<br>2 :valuables: | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:. |
 
 
 ## Neutral
