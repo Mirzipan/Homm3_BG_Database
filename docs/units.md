@@ -77,7 +77,7 @@ Tower units come from the [Tower Expansion](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Gremlins | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 0 :gold: | - |
+| Gremlins | Few | :bronze: | :unit_ground: | 2 | 0 | 2 | 4 | 0 :gold: | - |
 | Gremlins | Pack | :bronze: | :unit_ranged: | 2 | 0 | 2 | **5** | 2 :gold: | - |
 | Gargoyles | Few | :bronze: | :unit_flying: | 2 | 1 | 3 | 6 | 3 :gold: | :unit_passive: This unit ignores any :ongoing: [Spell](spells.md) effects. |
 | Gargoyles | Pack | :bronze: | :unit_flying: | **3** | 1 | 3 | **9** | 4 :gold: | :unit_passive: This unit ignores any :ongoing: [Spell](spells.md) effects. |
