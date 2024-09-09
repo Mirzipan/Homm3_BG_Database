@@ -14,6 +14,7 @@
 | Fire Magic | :permanent: +1 :empower: for spells from [School of Fire Magic](spells.md#fire-magic). | While casting :spellpower: from the [School of Fire](spells.md#fire-magic), you can discard this card, then gain +3 :empower:. | Tower (1) |
 | First Aid | :instant: Remove 1 :damage: from one of your [units](units.md). | :instant: When using the [First Aid Tent](war_machines.md) card, resolve its effect against the same target 3 times. | Rampart (2) |
 | Intelligence | :instant: During Combat, before any [unit](units.md) activates, play a [Spell](spells.md) card. You can still only play a [Spell](spells.md) card during a Combat round. | :instant: During Combat, before any [unit](units.md) activates, play a [Spell](spells.md) card. This spell does not count toward your spell limit per Combat round. | Core (2) |
+| Interference | 🚧 | 🚧 | Cove (2) |
 | Leadership | :instant: Gain a :morale_positive: token. | :instant: Draw 2 cards.<br>Then, gain a :morale_positive: token. | Core (2) |
 | Learning | :instant: Play when the Hero is about to level up. Advance their :experience: Level by an additional half level. | :instant: Play when the Hero is about to level up. Advance their :experience: Level by an additional level, then Remove this card. | Fortress (2) |
 | Logistics | :ongoing: At the end of your turn, move your Hero's model to an adjacent empty field. | :instant: Your Hero gains +1 Movement. | Core (2) |
