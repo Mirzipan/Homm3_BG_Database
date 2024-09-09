@@ -432,8 +432,8 @@ You might also want to see [towns](towns.md).
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
 | Casmetra | :magic: Navigator | 2 | 0 | 1 | 2 | 🚧 | Wisdom | Cove |
 | Cassiopeia | :might: Captain | 3 | 0 | 2 | 1 | Oceanids | Tactics | Cove |
-| Jeremy | :might: Captain | 3 | 0 | 2 | 1 | 🚧 | Offense | Cove |
-| Zilare | :magic: Navigator | 2 | 1 | 1 | 1 | Forgetfulness | Influence | Cove |
+| Jeremy | :might: Captain | 3 | 0 | 2 | 1 | Cannon | Offense | Cove |
+| Zilare | :magic: Navigator | 2 | 1 | 1 | 1 | Forgetfulness | Interference | Cove |
 
 
 ### Casmetra
