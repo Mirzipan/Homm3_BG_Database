@@ -7,12 +7,12 @@ You might also want to see [towns](towns.md).
 
 ## Castle
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| Adelaide | :magic: Cleric | 1 | 0 | 2 | 2 | Frost Ring | Wisdom | Tower |
-| Catherine | :might: Knight | 2 | 2 | 1 | 1 | Crusaders | Leadership | Core |
+| Adelaide | :magic: Cleric | 1 | 0 | 2 | 2 | Wisdom | Frost Ring | Tower |
+| Catherine | :might: Knight | 2 | 2 | 1 | 1 | Leadership | Crusaders | Core |
 | Lord Haart | :might: Knight | 2 | 2 | 1 | 1 | Estates | Estates | Tower |
-| Rion | :magic: Cleric | 1 | 0 | 2 | 2 | Battlefield Medic | Wisdom | Core |
+| Rion | :magic: Cleric | 1 | 0 | 2 | 2 | Wisdom | Battlefield Medic | Core |
 
 
 ### Adelaide
@@ -53,11 +53,11 @@ You might also want to see [towns](towns.md).
 
 ## Necropolis
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| Load Haart | :might: Death Knight | 1 | 2 | 2 | 1 | Dread Knights | Necromancy | Tower |
-| Sandro | :magic: Necromancer | 1 | 0 | 2 | 2 | Cloak of the Undead King | Sorcery | Core |
-| Tamika | :might: Death Knight | 1 | 2 | 2 | 1 | Dread Knights | Offense | Core |
+| Load Haart | :might: Death Knight | 1 | 2 | 2 | 1 | Necromancy | Dread Knights | Tower |
+| Sandro | :magic: Necromancer | 1 | 0 | 2 | 2 | Sorcery | Cloak of the Undead King | Core |
+| Tamika | :might: Death Knight | 1 | 2 | 2 | 1 | Offense | Dread Knights | Core |
 | Vidomina | :magic: Necromancer | 1 | 0 | 2 | 2 | Necromancy | Necromancy | Tower |
 
 
@@ -99,12 +99,12 @@ You might also want to see [towns](towns.md).
 
 ## Dungeon
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| Alamar | :magic: Warlock | 0 | 0 | 3 | 2 | Resurrection | Wisdom | Core |
-| Deemer | :magic: Warlock | 0 | 0 | 3 | 2 | Meteor Shower | Scouting | Tower |
-| Jeddite | :magic: Warlock | 0 | 0 | 3 | 2 | Mysterious Warlock | Sorcery | Tower |
-| Mutare | :might: Overlord | 2 | 2 | 1 | 1 | Dragons | Tactics | Core |
+| Alamar | :magic: Warlock | 0 | 0 | 3 | 2 | Wisdom | Resurrection | Core |
+| Deemer | :magic: Warlock | 0 | 0 | 3 | 2 | Scouting | Meteor Shower | Tower |
+| Jeddite | :magic: Warlock | 0 | 0 | 3 | 2 | Sorcery | Mysterious Warlock | Tower |
+| Mutare | :might: Overlord | 2 | 2 | 1 | 1 | Tactics | Dragons | Core |
 
 
 ### Alamar
@@ -145,12 +145,12 @@ You might also want to see [towns](towns.md).
 
 ## Tower
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| Dracon | :magic: Wizard | 0 | 0 | 2 | 3 | Enchanters | Wisdom | Tower |
-| Iona | :might: Alchemist | 1 | 1 | 2 | 2 | Genies | Intelligence | Tower |
-| Josephine | :might: Alchemist | 1 | 1 | 2 | 2 | Golems | Sorcery | Tower |
-| Solmyr | :magic: Wizard | 0 | 0 | 2 | 3 | Chain Lightning | Sorcery | Tower |
+| Dracon | :magic: Wizard | 0 | 0 | 2 | 3 | Wisdom | Enchanters | Tower |
+| Iona | :might: Alchemist | 1 | 1 | 2 | 2 | Intelligence | Genies | Tower |
+| Josephine | :might: Alchemist | 1 | 1 | 2 | 2 | Sorcery | Golems | Tower |
+| Solmyr | :magic: Wizard | 0 | 0 | 2 | 3 | Sorcery | Chain Lightning | Tower |
 
 
 ### Dracon
@@ -192,12 +192,12 @@ You might also want to see [towns](towns.md).
 
 ## Rampart
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| Clancy | :might: Ranger | 1 | 3 | 1 | 1 | Unicorns | Pathfinding | Tower |
-| Gelu | :might: Ranger | 1 | 3 | 1 | 1 | Sharpshooters | Archery | Rampart |
+| Clancy | :might: Ranger | 1 | 3 | 1 | 1 | Pathfinding | Unicorns | Tower |
+| Gelu | :might: Ranger | 1 | 3 | 1 | 1 | Archery | Sharpshooters | Rampart |
 | Gem | :magic: Druid | 0 | 2 | 1 | 2 | First Aid | First Aid | Rampart |
-| Mephala | :might: Ranger | 1 | 3 | 1 | 1 | Armorer | Leadership | Tower |
+| Mephala | :might: Ranger | 1 | 3 | 1 | 1 | Leadership | Armorer | Tower |
 
 
 ### Clancy
@@ -238,12 +238,12 @@ You might also want to see [towns](towns.md).
 
 ## Fortress
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| Adrienne | :magic: Witch | 0 | 1 | 2 | 2 | Fire Magic | Wisdom | Fortress |
-| Bron | :might: Beastmaster | 0 | 4 | 1 | 1 | Basilisks | Resistance | Tower |
-| Tazar | :might: Beastmaster | 0 | 4 | 1 | 1 | War Hero | Armorer | Tower |
-| Wystan | :might: Beastmaster | 0 | 4 | 1 | 1 | Lizardmen | Archery | Fortress |
+| Adrienne | :magic: Witch | 0 | 1 | 2 | 2 | Wisdom | Fire Magic | Fortress |
+| Bron | :might: Beastmaster | 0 | 4 | 1 | 1 | Resistance | Basilisks | Tower |
+| Tazar | :might: Beastmaster | 0 | 4 | 1 | 1 | Armorer | War Hero | Tower |
+| Wystan | :might: Beastmaster | 0 | 4 | 1 | 1 | Archery | Lizardmen | Fortress |
 
 
 ### Adrienne
@@ -284,11 +284,11 @@ You might also want to see [towns](towns.md).
 
 ## Inferno
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| Fiona | :might: Demoniac | 2 | 2 | 1 | 1 | Cerberi | Scouting | Inferno |
-| Rashka | :might: Demoniac | 2 | 2 | 1 | 1 | Efreet | Scholar | Inferno |
-| Xyron | :magic: Heretic | 1 | 1 | 2 | 1 | Inferno | Wisdom | Inferno |
+| Fiona | :might: Demoniac | 2 | 2 | 1 | 1 | Scouting | Cerberi | Inferno |
+| Rashka | :might: Demoniac | 2 | 2 | 1 | 1 | Scholar | Efreet | Inferno |
+| Xyron | :magic: Heretic | 1 | 1 | 2 | 1 | Wisdom | Inferno | Inferno |
 | Zydar | :magic: Heretic | 1 | 1 | 2 | 1 | Sorcery | Sorcery | Inferno |
 
 
@@ -332,12 +332,12 @@ You might also want to see [towns](towns.md).
 
 🔮 Unrelased and incomplete content.
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
 | Crag Hack | :might: Barbarian | 4 | 0 | 1 | 1 | Offense | Offense | Stronghold |
-| Gundula | :magic: Battle Mage | 2 | 1 | 1 | 1 | 🚧 | Wisdom | Stronghold |
-| Shiva | :might: Barbarian | 4 | 0 | 1 | 1 | Thunderbirds | Scouting | Stronghold |
-| Yog | :might: Barbarian | 4 | 0 | 1 | 1 | Cyclops | Offense | Stronghold |
+| Gundula | :magic: Battle Mage | 2 | 1 | 1 | 1 | Wisdom | 🚧 | Stronghold |
+| Shiva | :might: Barbarian | 4 | 0 | 1 | 1 | Scouting | Thunderbirds | Stronghold |
+| Yog | :might: Barbarian | 4 | 0 | 1 | 1 | Offense | Cyclops | Stronghold |
 
 
 ### Crag Hack
@@ -380,12 +380,12 @@ You might also want to see [towns](towns.md).
 
 🔮 Unrelased and incomplete content.
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| Erdamon | :might: Planeswalker | 3 | 1 | 1 | 1 | Magma Elementals | Estates | Conflux |
-| Luna | :magic: Elementalist | 0 | 0 | 2 | 3 | Fire Wall | Fire Magic | Conflux |
-| Monere | :might: Planeswalker | 3 | 1 | 1 | 1 | Magic Elementals | Logistics | Conflux |
-| Tarnum | :magic: Elementalist | 0 | 0 | 2 | 3 | 🚧 | Wisdom | Conflux |
+| Erdamon | :might: Planeswalker | 3 | 1 | 1 | 1 | Estates | Magma Elementals | Conflux |
+| Luna | :magic: Elementalist | 0 | 0 | 2 | 3 | Fire Magic |  Fire Wall |Conflux |
+| Monere | :might: Planeswalker | 3 | 1 | 1 | 1 | Logistics | Magic Elementals | Conflux |
+| Tarnum | :magic: Elementalist | 0 | 0 | 2 | 3 | Wisdom | 🚧 | Conflux |
 
 
 ### Erdamon
@@ -428,12 +428,12 @@ You might also want to see [towns](towns.md).
 
 🔮 Unrelased and incomplete content.
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | Specialty | [Ability](abilities.md) | [Content](content.md) |
+| Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| Casmetra | :magic: Navigator | 2 | 0 | 1 | 2 | 🚧 | Wisdom | Cove |
-| Cassiopeia | :might: Captain | 3 | 0 | 2 | 1 | Oceanids | Tactics | Cove |
-| Jeremy | :might: Captain | 3 | 0 | 2 | 1 | Cannon | Offense | Cove |
-| Zilare | :magic: Navigator | 2 | 1 | 1 | 1 | Forgetfulness | Interference | Cove |
+| Casmetra | :magic: Navigator | 2 | 0 | 1 | 2 | Wisdom | 🚧 | Cove |
+| Cassiopeia | :might: Captain | 3 | 0 | 2 | 1 | Tactics | Oceanids | Cove |
+| Jeremy | :might: Captain | 3 | 0 | 2 | 1 | Offense | Cannon | Cove |
+| Zilare | :magic: Navigator | 2 | 1 | 1 | 1 | Interference | Forgetfulness | Cove |
 
 
 ### Casmetra
