@@ -19,9 +19,9 @@ You might also want to see [towns](towns.md).
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Battlefield Medic | Ⅰ | :instant: Discard 1 card. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 1 :damage:. |
-| Battlefield Medic | Ⅳ | :instant: Select 1 [Spell](spells.md) or Specialty card from your discard pile and put it back in your hand. |
-| Battlefield Medic | Ⅵ | :instant: Discard 2 cards. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 2 :damage:. |
+| Frost Ring | Ⅰ | :instant: Discard 1 card. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 1 :damage:. |
+| Frost Ring | Ⅳ | :instant: Select 1 [Spell](spells.md) or Specialty card from your discard pile and put it back in your hand. |
+| Frost Ring | Ⅵ | :instant: Discard 2 cards. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 2 :damage:. |
 
 
 ### Catherine
