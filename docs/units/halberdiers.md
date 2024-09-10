@@ -3,6 +3,7 @@
 Halberdiers are a :bronze: unit that belongs to [Castle](../towns/castle.md).
 
 | Statistics | Few | Pack | Neutral |
+| :--- | :---: | :---: | :---: |
 | Type | :unit_ground: | :unit_ground: | :unit_ground: |
 | :attack: | 2 | **3** | 2 |
 | :defense: | 1 | 1 | 0 |

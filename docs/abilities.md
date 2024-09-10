@@ -1,4 +1,4 @@
-# Abilities
+# List of Abilities
 
 | Name | Effect | Expert Effect | [Content](content.md) |
 | :--- | :---: | :---: | :--- |
@@ -10,12 +10,12 @@
 | Diplomacy | :effect_map: For every Dwelling you have, draw 1 corresponding [Neutral Unit](units.md#neutral) card. You can **Recruit** one of these [units](units.md) if you :pay: its Recruitment cost. | :instant: Skip Combat with [Neutral Units](units.md#neutral) on a field whose Field Difficulty is equal to your Hero's level. Visit the field. This Hero gains no :experience:. | Core (2) |
 | Eagle Eye | :instant: Draw cards from the [Spell](spells.md) deck until you find a Basic [Spell](spells.md) card. Take it into your hand or discard it. Reshuffle the rest of the cards back to the [Spell](spells.md) deck. | :instant: Draw cards from the [Spell](spells.md) deck until you find an Expert [Spell](spells.md) card. Take it into your hand or discard it. Reshuffle the rest of the cards back to the [Spell](spells.md) deck. | Fortress (2) |
 | Earth Magic | :permanent: +1 :empower: for spells from [School of Earth Magic](spells.md#earth-magic). | While casting :spellpower: from the [School of Earth](spells.md#earth-magic), you can discard this card, then gain +3 :empower:. | Tower (2) |
-| Estates | :instant: Gain 3 :gold:. | :instant: Gain 6 :gold:. | Core (2) |
+| [Estates](abilities/estates.md) | :instant: Gain 3 :gold:. | :instant: Gain 6 :gold:. | Core (2) |
 | Fire Magic | :permanent: +1 :empower: for spells from [School of Fire Magic](spells.md#fire-magic). | While casting :spellpower: from the [School of Fire](spells.md#fire-magic), you can discard this card, then gain +3 :empower:. | Tower (1) |
 | First Aid | :instant: Remove 1 :damage: from one of your [units](units.md). | :instant: When using the [First Aid Tent](war_machines.md) card, resolve its effect against the same target 3 times. | Rampart (2) |
 | Intelligence | :instant: During Combat, before any [unit](units.md) activates, play a [Spell](spells.md) card. You can still only play a [Spell](spells.md) card during a Combat round. | :instant: During Combat, before any [unit](units.md) activates, play a [Spell](spells.md) card. This spell does not count toward your spell limit per Combat round. | Core (2) |
 | Interference | 🚧 | 🚧 | Cove (2) |
-| Leadership | :instant: Gain a :morale_positive: token. | :instant: Draw 2 cards.<br>Then, gain a :morale_positive: token. | Core (2) |
+| [Leadership](abilities/leadership.md) | :instant: Gain a :morale_positive: token. | :instant: Draw 2 cards.<br>Then, gain a :morale_positive: token. | Core (2) |
 | Learning | :instant: Play when the Hero is about to level up. Advance their :experience: Level by an additional half level. | :instant: Play when the Hero is about to level up. Advance their :experience: Level by an additional level, then Remove this card. | Fortress (2) |
 | Logistics | :ongoing: At the end of your turn, move your Hero's model to an adjacent empty field. | :instant: Your Hero gains +1 Movement. | Core (2) |
 | Luck | :ongoing: You can reroll a [Treasure die](dice.md#treasure-die) and a [Resource die](dice.md#resource-die) once during this turn. | :ongoing: You can reroll any [die](dice.md) once during this turn. | Core (2) |
@@ -29,4 +29,4 @@
 | Sorcery | :instant: +1 :empower:<br>Then draw 1 card. | :instant: +2 :empower:<br>Then draw 1 card. | Core (2) |
 | Tactics | :instant: At the start of Combat, you can switch the position of any 2 of your [units](units.md). | :activation: During Combat, you can switch the position of any 2 of your [units](units.md). | Core (2) |
 | Water Magic | :permanent: +1 :empower: for spells from [School of Water Magic](spells.md#water-magic). | While casting :spellpower: from the [School of Water](spells.md#water-magic), you can discard this card, then gain +3 :empower:. | Tower (2) |
-| Wisdom | :instant: The cost of buying [spells](spells.md) in this Town is reduced by 2 :gold:. When buying [spells](spells.md) from your Magic Guild, do **Search(3)** instead of **Search(2)**. | :instant: The cost of buying [spells](spells.md) in this Town is reduced by 2 :gold:. When buying [spells](spells.md) from your Magic Guild, do **Search(4)** instead of **Search(2)**. | Core (2) |
+| [Wisdom](abilities/wisdom.md) | :instant: The cost of buying [spells](spells.md) in this Town is reduced by 2 :gold:. When buying [spells](spells.md) from your Magic Guild, do **Search(3)** instead of **Search(2)**. | :instant: The cost of buying [spells](spells.md) in this Town is reduced by 2 :gold:. When buying [spells](spells.md) from your Magic Guild, do **Search(4)** instead of **Search(2)**. | Core (2) |
