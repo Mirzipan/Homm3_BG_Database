@@ -4,7 +4,7 @@
 
 | Name | Effect | Flavor | [Content](content.md) |
 | :--- | :---: | :---: | :--- |
-| Armor of Wonder | :instant: Draw 1 card and gain +1 :attack:.<br><br>— OR —<br><br>:instant: Draw 1 card and gain +1 :defense:. | A gang of Rogues is sifting through the possessions of some dead warriors. Scaring off the scavengers, you notice the Rogues had overlooked a dirty, but servicable, breastplate. | Core |
+| [Armor of Wonder](artifacts/armor_of_wonder.md) | :instant: Draw 1 card and gain +1 :attack:.<br><br>— OR —<br><br>:instant: Draw 1 card and gain +1 :defense:. | A gang of Rogues is sifting through the possessions of some dead warriors. Scaring off the scavengers, you notice the Rogues had overlooked a dirty, but servicable, breastplate. | Core |
 | Blackshard of the Dead Knight | :instant: +3 :attack: and discard 1 card. If the discarded card was a [spell](spells.md), draw 1 card.<br><br>— OR —<br><br>:instant: +1 :attack: | The widow of a former Captain of the Guard admires your quest and gives you the enchanted Sword that her husband relied on during his tour of duty. | Core |
 | Boots of Speed | :instant: Your [hero](heroes.md) gains +1 :movement:.<br><br>— OR —<br><br>:ongoing: For this Combat, your selected [unit](units.md) gains +1 :initiative:. | Visiting a local wise man, you explain the intent of your journey. He reaches into a chest and withdraws a strange pair of boots which he hands to you. | Inferno |
 | Breastplate of Petrified Wood | :instant: Draw 1 card.<br><br>— OR —<br><br>:instant: +1 :empower: | A gang of Rogues is sifting through the possessions of some dead warriors. Scaring off the scavengers, you notice the Rogues had overlooked a strange breastplate. | Core |
