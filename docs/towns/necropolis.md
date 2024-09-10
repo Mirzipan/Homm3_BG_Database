@@ -35,7 +35,7 @@ Necropolis town comes with the [Core Game](content.md).
 
 ## Abilities
 
-- :necropolis: [Necromancy](../abilities/necromancy.md)
+- :necro: [Necromancy](../abilities/necromancy.md)
 
 
 ## See Also

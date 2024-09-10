@@ -2,7 +2,7 @@
 
 Necromancy is an ability that comes with the [Core Game](../content.md).
 
-It is currently the only ability that is strictly limited to the [Necropolis Faction](../towns/necropolis.md), which is indicated by the :necropolis: emblem.
+It is currently the only ability that is strictly limited to the [Necropolis Faction](../towns/necropolis.md), which is indicated by the :necro: emblem.
 
 | Effect | :expert: Effect |
 | :---: | :---: |
