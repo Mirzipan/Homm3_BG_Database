@@ -7,12 +7,12 @@ You might also want to see [towns](towns.md).
 
 ## Castle
 
-| Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
+| Name | Class | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| [Adelaide](heroes/adelaide.md) | :magic: Cleric | 1 | 0 | 2 | 2 | Wisdom | Frost Ring | Tower |
-| [Catherine](heroes/catherine.md) | :might: Knight | 2 | 2 | 1 | 1 | Leadership | Crusaders | Core |
-| [Lord Haart](heroes/lordhaart.md) | :might: Knight | 2 | 2 | 1 | 1 | Estates | Estates | Tower |
-| [Rion](heroes/rion.md) | :magic: Cleric | 1 | 0 | 2 | 2 | Wisdom | Battlefield Medic | Core |
+| [Adelaide](heroes/adelaide.md) | :magic: Cleric | 1 | 0 | 2 | 2 | [Wisdom](abilities/wisdom.md) | Frost Ring | Tower |
+| [Catherine](heroes/catherine.md) | :might: Knight | 2 | 2 | 1 | 1 | [Leadership](abilities/leadership.md) | Crusaders | Core |
+| [Lord Haart](heroes/lordhaart.md) | :might: Knight | 2 | 2 | 1 | 1 | [Estates](abilities/estates.md) | Estates | Tower |
+| [Rion](heroes/rion.md) | :magic: Cleric | 1 | 0 | 2 | 2 | [Wisdom](abilities/wisdom.md) | Battlefield Medic | Core |
 
 
 ## Necropolis

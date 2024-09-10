@@ -1,6 +1,6 @@
 # Castle
 
-Castle town comes in the the [Core Game](content.md).
+Castle town comes with the [Core Game](content.md).
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |

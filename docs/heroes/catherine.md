@@ -1,6 +1,6 @@
 # Catherine
 
-Catherine is a :might: Knight hero that belongs to [Castle](../towns/castle.md), and was added in the [Core Game](../content.md).
+Catherine is a :might: Knight hero that belongs to [Castle](../towns/castle.md), and comes with the [Core Game](../content.md).
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
