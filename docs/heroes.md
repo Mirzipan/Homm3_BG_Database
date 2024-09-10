@@ -25,42 +25,6 @@ You might also want to see [towns](towns.md).
 | [Vidomina](heroes/vidomina.md) | :magic: Necromancer | 1 | 0 | 2 | 2 | [Necromancy](abilities/necromancy.md) | Necromancy | Tower |
 
 
-### Lord Haart
-
-| Name | Level | Descrition |
-| :--- | :---: | :---: |
-| Dread Knights | Ⅰ | :instant: Reduce the :damage: from enemy retaliation by 1.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
-| Dread Knights | Ⅳ | :ongoing: For this Combat, when an enemy performs a Retaliation Attack against this [unit](units.md), roll 2 [Attack dice](dice.md#attack-die) and resolve the lower outcome. |
-| Dread Knights | Ⅵ | :instant: Reduce the :damage: from enemy retaliation by 2.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
-
-
-### Sandro
-
-| Name | Level | Descrition |
-| :--- | :---: | :---: |
-| Cloak of the Undead King | Ⅰ | Put this card on the [Pack of Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack: 3 :defense: 1 :health_points: 2 :initiative: 6 |
-| Cloak of the Undead King | Ⅳ | Put this card on the [Pack of Zombies Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Zombies**<br>:attack: 4 :defense: 1 :health_points: 3 :initiative: 5 |
-| Cloak of the Undead King | Ⅵ | Put this card on the [Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Legion of Skeletons**<br>:attack: 4 :defense: 1 :health_points: 2 :initiative: 6 |
-
-
-### Tamika
-
-| Name | Level | Descrition |
-| :--- | :---: | :---: |
-| Dread Knights | Ⅰ | :instant: Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
-| Dread Knights | Ⅳ | :ongoing: For this Combat, your selected [unit's](units.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
-| Dread Knights | Ⅵ | :ongoing: For this Combat, your selected [unit's](units.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Dread Knights unit](units.md#necropolis). |
-
-
-### Vidomina
-
-| Name | Level | Descrition |
-| :--- | :---: | :---: |
-| Necromancy | Ⅰ | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](units.md) of your choice for half the :gold: cost (rounded down). |
-| Necromancy | Ⅳ | :instant: Put this card on the ["Pack" of Skeletons Unit](units.md#necropolis) card; it replaces the card's statistic. Keep the card, until the card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack: 3 :defense: 1 :health_points: 2 :initiative: 6 |
-| Necromancy | Ⅵ | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](units.md) of your choice for half the :gold: cost (rounded down). |
-
-
 ## Dungeon
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
