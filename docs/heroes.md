@@ -19,7 +19,7 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| [Load Haart](heroes/lord_haart_necropolis.md) | :might: Death Knight | 1 | 2 | 2 | 1 | [Necromancy](abilities/necromancy.md) | Dread Knights | Tower |
+| [Lord Haart](heroes/lord_haart_necropolis.md) | :might: Death Knight | 1 | 2 | 2 | 1 | [Necromancy](abilities/necromancy.md) | Dread Knights | Tower |
 | [Sandro](heroes/sandro.md) | :magic: Necromancer | 1 | 0 | 2 | 2 | [Sorcery](abilities/sorcery.md) | Cloak of the Undead King | Core |
 | [Tamika](heroes/tamika.md) | :might: Death Knight | 1 | 2 | 2 | 1 | [Offense](abilities/offense.md) | Dread Knights | Core |
 | [Vidomina](heroes/vidomina.md) | :magic: Necromancer | 1 | 0 | 2 | 2 | [Necromancy](abilities/necromancy.md) | Necromancy | Tower |
