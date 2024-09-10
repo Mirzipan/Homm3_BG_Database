@@ -33,20 +33,20 @@ Necropolis units come from the [Core Game](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Skeletons | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
-| Skeletons | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | - |
-| Zombies | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: If the attacker resolves a "+1" on [Attack die](dice.md#attack-die), gain +1 :defense:. |
-| Zombies | Pack | :bronze: | :unit_ground: | 2 | 1 | 3 | **4** | 4 :gold: | :unit_passive: If the attacker resolves a "0" or a +1" on [Attack die](dice.md#attack-die), gain +1 :defense:. |
-| Wraiths | Few | :bronze: | :unit_flying: | 3 | 0 | 3 | 5 | 4 :gold: | :activation: Remove up to 1 :damage: from this unit. |
-| Wraiths | Pack | :bronze: | :unit_flying: | 3 | 0 | **5** | **7** | 6 :gold: | :activation: Remove up to 1 :damage: from this unit, then discard 1 random card from the enemy's hand. |
-| Vampires | Few | :silver: | :unit_flying: | 4 | 1 | 4 | 6 | 8 :gold: | :unit_attack: Ignore the Retaliation Attack. |
-| Vampires | Pack | :silver: | :unit_flying: | **5** | 1 | 4 | **9** | 12 :gold: | :unit_attack: Ignore the Retaliation Attack. Then remove up to 2 :damage: from this unit. |
-| Liches | Few | :silver: | :unit_ranged: | 3 | 1 | 5 | 6 | 8 :gold: | - |
-| Liches | Pack | :silver: | :unit_ranged: | **4** | 1 | 5 | **7** | 14 :gold: | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. |
-| Dread Knights | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 7 | 12 :gold: | :unit_attack: When retaliating after this attack, the enemy rolls 2 [Attack dice](dice.md#attack-die) and resolves the lower result. |
-| Dread Knights | Pack | :golden: | :unit_ground: | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: If you resolve a "0" or a "+1" on the [Attack die](dice.md#attack-die), increase this unit's total attack value by another "+1". |
-| Ghost Dragons | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 9 | 19 :gold:<br>1 :valuables: | :activation: Discard the enemy's :morale_positive: token. |
-| Ghost Dragons | Pack | :golden: | :unit_flying: | **7** | 3 | **9** | **14** | 32 :gold:<br>2 :valuables: | :activation: Discard the enemy's :morale_positive: token.<br>:unit_attack: Add +1 to your [Attack die](dice.md#attack-die) result. |
+| [Skeletons](units/skeletons.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
+| [Skeletons](units/skeletons.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | - |
+| [Zombies](units/zombies.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: If the attacker resolves a "+1" on [Attack die](dice.md#attack-die), gain +1 :defense:. |
+| [Zombies](units/zombies.md) | Pack | :bronze: | :unit_ground: | 2 | 1 | 3 | **4** | 4 :gold: | :unit_passive: If the attacker resolves a "0" or a +1" on [Attack die](dice.md#attack-die), gain +1 :defense:. |
+| [Wraiths](units/wraiths.md) | Few | :bronze: | :unit_flying: | 3 | 0 | 3 | 5 | 4 :gold: | :activation: Remove up to 1 :damage: from this unit. |
+| [Wraiths](units/wraiths.md) | Pack | :bronze: | :unit_flying: | 3 | 0 | **5** | **7** | 6 :gold: | :activation: Remove up to 1 :damage: from this unit, then discard 1 random card from the enemy's hand. |
+| [Vampires](units/vampires.md) | Few | :silver: | :unit_flying: | 4 | 1 | 4 | 6 | 8 :gold: | :unit_attack: Ignore the Retaliation Attack. |
+| [Vampires](units/vampires.md) | Pack | :silver: | :unit_flying: | **5** | 1 | 4 | **9** | 12 :gold: | :unit_attack: Ignore the Retaliation Attack. Then remove up to 2 :damage: from this unit. |
+| [Liches](units/liches.md) | Few | :silver: | :unit_ranged: | 3 | 1 | 5 | 6 | 8 :gold: | - |
+| [Liches](units/liches.md) | Pack | :silver: | :unit_ranged: | **4** | 1 | 5 | **7** | 14 :gold: | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. |
+| [Dread Knights](units/dread_knights.md) | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 7 | 12 :gold: | :unit_attack: When retaliating after this attack, the enemy rolls 2 [Attack dice](dice.md#attack-die) and resolves the lower result. |
+| [Dread Knights](units/dread_knights.md) | Pack | :golden: | :unit_ground: | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: If you resolve a "0" or a "+1" on the [Attack die](dice.md#attack-die), increase this unit's total attack value by another "+1". |
+| [Ghost Dragons](units/ghost_dragons.md) | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 9 | 19 :gold:<br>1 :valuables: | :activation: Discard the enemy's :morale_positive: token. |
+| [Ghost Dragons](units/ghost_dragons.md) | Pack | :golden: | :unit_flying: | **7** | 3 | **9** | **14** | 32 :gold:<br>2 :valuables: | :activation: Discard the enemy's :morale_positive: token.<br>:unit_attack: Add +1 to your [Attack die](dice.md#attack-die) result. |
 
 
 ## Dungeon
@@ -250,17 +250,17 @@ Inferno units come from the [Inferno Expansion](content.md).
 | [Marksmen](units/marksmen.md) | :bronze: | :unit_ranged: | 2 | 0 | 3 | 5 | 7 :gold: | :unit_attack: If a target is a non-adjacent unit, attack this target again. | Core |
 | Peasants | :bronze: | :unit_ground: | 1 | 0 | 2 | 3 | 3 :gold: | :effect_map: At the beginning of each Resource round, gain 3 :gold:. | Core |
 | Rogues | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 5 :gold: | :effect_map: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. | Core |
-| Skeletons | :bronze: | :unit_ground: | 2 | 0 | 3 | 4 | 3 :gold: | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](heroes.md#necropolis), immediately Reinforce 1 of your :bronze: units. | Core |
+| [Skeletons](units/skeletons.md) | :bronze: | :unit_ground: | 2 | 0 | 3 | 4 | 3 :gold: | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](heroes.md#necropolis), immediately Reinforce 1 of your :bronze: units. | Core |
 | Troglodytes | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 4 :gold: | :unit_passive: This unit ignores :paralysis: effects. | Core |
-| Wraiths | :bronze: | :unit_flying: | 2 | 0 | 4 | 7 | 7 :gold: | :activation: Remove up to 2 :damage: from this unit. | Core |
-| Zombies | :bronze: | :unit_ground: | 2 | 0 | 4 | 3 | 5 :gold: | :unit_passive: If the attacker resolves a "0" or a "+1" on an [Attack die](dice.md#attack-die), gain +1 :defense: | Core |
+| [Wraiths](units/wraiths.md) | :bronze: | :unit_flying: | 2 | 0 | 4 | 7 | 7 :gold: | :activation: Remove up to 2 :damage: from this unit. | Core |
+| [Zombies](units/zombies.md) | :bronze: | :unit_ground: | 2 | 0 | 4 | 3 | 5 :gold: | :unit_passive: If the attacker resolves a "0" or a "+1" on an [Attack die](dice.md#attack-die), gain +1 :defense: | Core |
 | Basilisks | :silver: | :unit_ground: | 4 | 1 | 4 | 5 | 12 :gold: | :unit_attack: After the attack, roll 1 [Attack die](dice.md#attack-die). On a "0" result, :paralysis: the target. | Tower |
 | [Crusaders](units/crusaders.md) | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 11 :gold: | :unit_passive: During any attack, roll 2 [Attack dice](dice.md#attack-die) and resolve the higher outcome. | Core |
 | Demons | :silver: | :unit_ground: | 3 | 0 | 8 | 6 | 13 :gold: | - | Inferno |
 | Dendroids | :silver: | :unit_ground: | 3 | 2 | 6 | 3 | 12 :gold: | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. | Tower |
 | Genies | :silver: | :unit_flying: | 3 | 1 | 4 | 9 | 11 :gold: | :unit_attack: When attacking Efreet, this unit gains +1 :attack:. | Tower |
 | Gorgons | :silver: | :unit_ground: | 4 | 2 | 4 | 5 | 13 :gold: | :unit_attack: After the attack, roll 2 [Attack dice](dice.md#attack-die). On two "-1" results, reduce the attacked unit's :health_points: to 0. | Tower |
-| Liches | :silver: | :unit_ranged: | 3 | 0 | 6 | 7 | 12 :gold: | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. | Core |
+| [Liches](units/liches.md) | :silver: | :unit_ranged: | 3 | 0 | 6 | 7 | 12 :gold: | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. | Core |
 | Magi | :silver: | :unit_ranged: | 3 | 0 | 5 | 6 | 11 :gold: | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. | Tower |
 | Medusas | :silver: | :unit_ranged: | 3 | 1 | 4 | 6 | 11 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. | Core |
 | Minotaurs | :silver: | :unit_ground: | 3 | 2 | 4 | 7 | 11 :gold: | :unit_attack: Reroll this unit's "-1" outcome on the [Attack die](dice.md#attack-die). | Core |
@@ -269,17 +269,17 @@ Inferno units come from the [Inferno Expansion](content.md).
 | Pegasi | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 14 :gold: | :unit_passive: Whenever an enemy casts a [:spellpower:](spells.md), they much discard an additional card woth :empower:. | Tower |
 | Pit Lord | :silver: | :unit_ground: | 4 | 1 | 5 | 7 | 15 :gold: | - | Inferno |
 | Sharpshooters | :silver: | :unit_ranged: | 3 | 0 | 6 | 9 | 10 :gold: | :unit_attack: Ignore the combat penalties. | Core |
-| Vampires | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 9 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. Then remove up to 2 :damage: from this unit. | Core |
+| [Vampires](units/vampires.md) | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 9 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. Then remove up to 2 :damage: from this unit. | Core |
 | [Zealots](units/zealots.md) | :silver: | :unit_ranged: | 3 | 0 | 5 | 5 | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. | Core |
 | Arch Devils | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 23 :gold: | :unit_attack: When attacking Archangels, this unit gains +2 :attack:. | Inferno |
 | [Archangels](units/archangels.md) | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 29 :gold: | :unit_attack: When attacking Arch Devils, this unit gains +2 :attack:. | Core |
 | Black Dragons | :golden: | :unit_flying: | 5 | 2 | 7 | 9 | 30 :gold: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. | Core |
 | [Champions](units/champions.md) | :golden: | :unit_ground: | 4 | 2 | 6 | 8 | 18 :gold: | :unit_attack: Roll 2 [Attack dice](dice.md#attack-die) and aplly both outcomes.<br>:unit_passive: Reroll this unit's all "-1" rolls. | Core |
 | Diamond Golems | :golden: | :unit_ground: | 4 | 2 | 6 | 6 | 16 :gold: | :unit_passive: Reduce any :damage: from [spells](spells.md) by 3 - to a minimum of 0. | Core |
-| Dread Knights | :golden: | :unit_ground: | 5 | 1 | 7 | 7 | 18 :gold: | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. | Core |
+| [Dread Knights](units/dread_knights.md) | :golden: | :unit_ground: | 5 | 1 | 7 | 7 | 18 :gold: | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. | Core |
 | Efreet | :golden: | :unit_flying: | 4 | 2 | 6 | 13 | 20 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells.md) or [spells](spells.md) from the[Fire School of Magic](spells.md#fire-magic). | Inferno |
 | Enchanters | :golden: | :unit_ranged: | 4 | 1 | 5 | 5 | 16 :gold: | :activation: Remove up to 2 :damage: from a friendly unit. Otherwise, Enchanters gain +1 :attack:. | Core |
-| Ghost Dragons | :golden: | :unit_flying: | 5 | 2 | 6 | 9 | 28 :gold: | :unit_attack: After the attack, roll 1 [Attack die](dice.md#attack-die); if the result is "0", the target must immediately move away 1 space. | Core |
+| [Ghost Dragons](units/ghost_dragons.md) | :golden: | :unit_flying: | 5 | 2 | 6 | 9 | 28 :gold: | :unit_attack: After the attack, roll 1 [Attack die](dice.md#attack-die); if the result is "0", the target must immediately move away 1 space. | Core |
 | Gold Golems | :golden: | :unit_ground: | 3 | 2 | 6 | 5 | 14 :gold: | :unit_passive: Reduce any :damage: from [spells](spells.md) by 2 - to a minimum of 0. | Core |
 | Manticores | :golden: | :unit_flying: | 4 | 1 | 7 | 8 | 18 :gold: | :unit_passive: On a "0" or a "+1" outcomes on the enemy's [Attack die](dice.md#attack-die), gain +1 :defense:. | Core |
 | Nagas | :golden: | :unit_ground: | 5 | 1 | 6 | 6 | 16 :gold: | :unit_attack: Ignore Retaliation Attacks. | Tower |
@@ -299,6 +299,6 @@ Inferno units come from the [Inferno Expansion](content.md).
 
 | Name | Type | :attack: | :defense: | :health_points: | :initiative: | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| Arrow Tower | :unit_ranged: | 4 | 2 | 3 | 9 | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed.<br>:unit_passive: It can only be attack by :unit_ranged: attacks or card effects. |
+| [Arrow Tower](units/arrow_tower.md) | :unit_ranged: | 4 | 2 | 3 | 9 | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed.<br>:unit_passive: It can only be attack by :unit_ranged: attacks or card effects. |
 
 You can find war machines [here](war_machines.md).

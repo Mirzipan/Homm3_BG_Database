@@ -18,5 +18,6 @@ Lord Haart is a :might: Knight hero that belongs to [Castle](../towns/castle.md)
 
 ## See Also
 
-- List of [Heroes](../heroes.md)
-- List of [Towns](../towns.md)
+- [Lord Haart (Necropolis)](lord_haart_necropolis.md)
+- [List of Heroes](../heroes.md)
+- [List of Towns](../towns.md)

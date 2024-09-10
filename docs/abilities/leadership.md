@@ -9,4 +9,4 @@ Leadership is an ability that comes with the [Core Game](../content.md).
 
 ## See Also
 
-- List of [Abilities](../abilities.md)
+- [List of Abilities](../abilities.md)

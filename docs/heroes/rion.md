@@ -18,5 +18,5 @@ Rion is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), and 
 
 ## See Also
 
-- List of [Heroes](../heroes.md)
-- List of [Towns](../towns.md)
+- [List of Heroes](../heroes.md)
+- [List of Towns](../towns.md)

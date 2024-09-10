@@ -15,5 +15,5 @@ Halberdiers are a :bronze: unit that belongs to [Castle](../towns/castle.md).
 
 ## See Also
 
-- List of [Units](../units.md)
-- List of [Towns](../towns.md)
+- [List of Units](../units.md)
+- [List of Towns](../towns.md)

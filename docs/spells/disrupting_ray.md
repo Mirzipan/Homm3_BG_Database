@@ -10,4 +10,4 @@ Disrupting Ray is a basic spell that belongs to the Air School of Magic, and com
 
 ## See Also
 
-- List of [Spells](../spells.md)
+- [List of Spells](../spells.md)

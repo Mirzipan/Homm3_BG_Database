@@ -11,7 +11,7 @@ You might also want to see [towns](towns.md).
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
 | [Adelaide](heroes/adelaide.md) | :magic: Cleric | 1 | 0 | 2 | 2 | [Wisdom](abilities/wisdom.md) | Frost Ring | Tower |
 | [Catherine](heroes/catherine.md) | :might: Knight | 2 | 2 | 1 | 1 | [Leadership](abilities/leadership.md) | Crusaders | Core |
-| [Lord Haart](heroes/lordhaart.md) | :might: Knight | 2 | 2 | 1 | 1 | [Estates](abilities/estates.md) | Estates | Tower |
+| [Lord Haart](heroes/lord_haart.md) | :might: Knight | 2 | 2 | 1 | 1 | [Estates](abilities/estates.md) | Estates | Tower |
 | [Rion](heroes/rion.md) | :magic: Cleric | 1 | 0 | 2 | 2 | [Wisdom](abilities/wisdom.md) | Battlefield Medic | Core |
 
 
@@ -19,10 +19,10 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| Load Haart | :might: Death Knight | 1 | 2 | 2 | 1 | Necromancy | Dread Knights | Tower |
-| Sandro | :magic: Necromancer | 1 | 0 | 2 | 2 | Sorcery | Cloak of the Undead King | Core |
-| Tamika | :might: Death Knight | 1 | 2 | 2 | 1 | Offense | Dread Knights | Core |
-| Vidomina | :magic: Necromancer | 1 | 0 | 2 | 2 | Necromancy | Necromancy | Tower |
+| [Load Haart](heroes/lord_haart_necropolis.md) | :might: Death Knight | 1 | 2 | 2 | 1 | [Necromancy](abilities/necromancy.md) | Dread Knights | Tower |
+| [Sandro](heroes/sandro.md) | :magic: Necromancer | 1 | 0 | 2 | 2 | [Sorcery](abilities/sorcery.md) | Cloak of the Undead King | Core |
+| [Tamika](heroes/tamika.md) | :might: Death Knight | 1 | 2 | 2 | 1 | [Offense](abilities/offense.md) | Dread Knights | Core |
+| [Vidomina](heroes/vidomina.md) | :magic: Necromancer | 1 | 0 | 2 | 2 | [Necromancy](abilities/necromancy.md) | Necromancy | Tower |
 
 
 ### Lord Haart

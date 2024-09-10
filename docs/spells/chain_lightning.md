@@ -10,4 +10,4 @@ Chain Lightning is an expert spell that belongs to the Air School of Magic, and 
 
 ## See Also
 
-- List of [Spells](../spells.md)
+- [List of Spells](../spells.md)

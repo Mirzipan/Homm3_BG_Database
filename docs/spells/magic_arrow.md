@@ -16,4 +16,4 @@ Magic Arrow is a basic spell that belongs to all schools of magic, and comes wit
 
 ## See Also
 
-- List of [Spells](../spells.md)
+- [List of Spells](../spells.md)

@@ -1,6 +1,6 @@
 # Adelaide
 
-Adelaide is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), and was added in the [Tower Expansion](../content.md).
+Adelaide is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), and comes with the [Tower Expansion](../content.md).
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
@@ -23,5 +23,5 @@ Adelaide is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), 
 
 ## See Also
 
-- List of [Heroes](../heroes.md)
-- List of [Towns](../towns.md)
+- [List of Heroes](../heroes.md)
+- [List of Towns](../towns.md)
