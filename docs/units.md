@@ -1,4 +1,4 @@
-# Units
+# List of Units
 
 Statistics for all units.
 
@@ -12,19 +12,19 @@ Castle units come from the [Core Game](content.md).
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Halberdiers](units/halberdiers.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
-| [Halberdiers](../halberdiers.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](dice.md#attack-die) roll result. |
-| Marksmen | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 3 :gold: | - |
-| Marksmen | Pack | :bronze: | :unit_ranged: | 2 | 0 | 2 | **6** | 5 :gold: | :unit_attack: If a target is a non-adjacent unit, attack this target again. |
-| Griffins | Few | :bronze: | :unit_flying: | 2 | 0 | 4 | 6 | 4 :gold: | :unit_retaliate:This unit can perform an unlimited number of Retaliation Attacks. |
-| Griffins | Pack | :bronze: | :unit_flying: | **3** | 0 | 4 | **9** | 6 :gold: | :unit_retaliate: This unit can perform an unlimited number of Retaliation Attacks. |
-| Crusaders | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 6 :gold: | - |
-| Crusaders | Pack | :silver: | :unit_ground: | **4** | 2 | 4 | **6** | 10 :gold: | :unit_attack: You can reroll every "0" on this unit's [Attack die](dice.md#attack-die). |
-| Zealots | Few | :silver: | :unit_ranged: | 3 | 1 | 5 | 5 | 8 :gold: | - |
-| Zealots | Pack | :silver: | :unit_ranged: | **4** | 1 | 5 | **7** | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. |
-| Champions | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 7 | 12 :gold: | :effect_map: If your hero is on a field with Stables, this unit's reinforcement cost is reduced by 6 :gold:. |
-| Champions | Pack | :golden: | :unit_ground: | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: If this unit's movement ends in a space other than where it started, you may reroll an [Attack die](dice.md#attack-die). |
-| Archangels | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 12 | 20 :gold:<br>1 :valuables: | :effect_map: When combat begins, draw 1 card. |
-| Archangels | Pack | :golden: | :unit_flying: | **7** | 3 | **10** | **18** | 30 :gold:<br>2 :valuables: | :effect_map: Once per Combat. Cancel an attack that would reduce another unit's :health_points: to 0. |
+| [Halberdiers](units/halberdiers.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](dice.md#attack-die) roll result. |
+| [Marksmen](units/marksmen.md) | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 3 :gold: | - |
+| [Marksmen](units/marksmen.md) | Pack | :bronze: | :unit_ranged: | 2 | 0 | 2 | **6** | 5 :gold: | :unit_attack: If a target is a non-adjacent unit, attack this target again. |
+| [Griffins](units/griffins.md) | Few | :bronze: | :unit_flying: | 2 | 0 | 4 | 6 | 4 :gold: | :unit_retaliate: This unit can perform an unlimited number of Retaliation Attacks. |
+| [Griffins](units/griffins.md) | Pack | :bronze: | :unit_flying: | **3** | 0 | 4 | **9** | 6 :gold: | :unit_retaliate: This unit can perform an unlimited number of Retaliation Attacks. |
+| [Crusaders](units/crusaders.md) | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 6 :gold: | - |
+| [Crusaders](units/crusaders.md) | Pack | :silver: | :unit_ground: | **4** | 2 | 4 | **6** | 10 :gold: | :unit_attack: You can reroll every "0" on this unit's [Attack die](dice.md#attack-die). |
+| [Zealots](units/zealots.md) | Few | :silver: | :unit_ranged: | 3 | 1 | 5 | 5 | 8 :gold: | - |
+| [Zealots](units/zealots.md) | Pack | :silver: | :unit_ranged: | **4** | 1 | 5 | **7** | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. |
+| [Champions](units/champions.md) | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 7 | 12 :gold: | :effect_map: If your hero is on a field with Stables, this unit's reinforcement cost is reduced by 6 :gold:. |
+| [Champions](units/champions.md) | Pack | :golden: | :unit_ground: | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: If this unit's movement ends in a space other than where it started, you may reroll an [Attack die](dice.md#attack-die). |
+| [Archangels](units/archangels.md) | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 12 | 20 :gold:<br>1 :valuables: | :effect_map: When combat begins, draw 1 card. |
+| [Archangels](units/archangels.md) | Pack | :golden: | :unit_flying: | **7** | 3 | **10** | **18** | 30 :gold:<br>2 :valuables: | :effect_map: Once per Combat. Cancel an attack that would reduce another unit's :health_points: to 0. |
 
 
 ## Necropolis
@@ -240,14 +240,14 @@ Inferno units come from the [Inferno Expansion](content.md).
 | Gargoyles | :bronze: | :unit_flying: | 2 | 1 | 3 | 9 | 4 :gold: | :unit_passive: This unit ignores :paralysis: effect. | Tower |
 | Gnolls | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 3 :gold: | - | Tower |
 | Gremlins | :bronze: | :unit_ranged: | 2 | 0 | 2 | 5 | 2 :gold: | - | Tower |
-| Griffins | :bronze: | :unit_flying: | 3 | 0 | 4 | 8 | 7 :gold: | :unit_retaliate: This unit can perform and unlimited number of Retaliation Attacks. | Core |
-| Halberdiers | :bronze: | :unit_ground: | 2 | 0 | 4 | 4 | 4 :gold: | :unit_passive: Treat allied adjacent units as if they had a Defense token. | Core |
+| [Griffins](units/griffins.md) | :bronze: | :unit_flying: | 3 | 0 | 4 | 8 | 7 :gold: | :unit_retaliate: This unit can perform and unlimited number of Retaliation Attacks. | Core |
+| [Halberdiers](units/halberdiers.md) | :bronze: | :unit_ground: | 2 | 0 | 4 | 4 | 4 :gold: | :unit_passive: Treat allied adjacent units as if they had a Defense token. | Core |
 | Halflings | :bronze: | :unit_ranged: | 2 | 0 | 3 | 6 | 5 :gold: | :unit_attack: Roll 2 [Attack dice](dice.md#attack-die) and resolve the higher one. Ignore combat penalties. | Core |
 | Harpies | :bronze: | :unit_flying: | 2 | 0 | 4 | 8 | 5 :gold: | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. | Core |
 | Iron Golems | :bronze: | :unit_ground: | 2 | 1 | 4 | 3 | 6 :gold: | :unit_passive: Reduce any :damage: from [spells](spells.md) by 2 - to a minimum of 0. | Tower |
 | Lizardmen | :bronze: | :unit_ranged: | 2 | 0 | 4 | 5 | 4 :gold: | - | Tower |
 | Magogs | :bronze: | :unit_ranged: | 2 | 0 | 4 | 6 | 8 :gold: | :unit_attack: When Magogs attack a target that is non adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. | Inferno |
-| Marksmen | :bronze: | :unit_ranged: | 2 | 0 | 3 | 5 | 7 :gold: | :unit_attack: If a target is a non-adjacent unit, attack this target again. | Core |
+| [Marksmen](units/marksmen.md) | :bronze: | :unit_ranged: | 2 | 0 | 3 | 5 | 7 :gold: | :unit_attack: If a target is a non-adjacent unit, attack this target again. | Core |
 | Peasants | :bronze: | :unit_ground: | 1 | 0 | 2 | 3 | 3 :gold: | :effect_map: At the beginning of each Resource round, gain 3 :gold:. | Core |
 | Rogues | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 5 :gold: | :effect_map: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. | Core |
 | Skeletons | :bronze: | :unit_ground: | 2 | 0 | 3 | 4 | 3 :gold: | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](heroes.md#necropolis), immediately Reinforce 1 of your :bronze: units. | Core |

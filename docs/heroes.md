@@ -1,4 +1,4 @@
-# Heroes
+# List of Heroes
 
 List of heroes and their specialities.
 

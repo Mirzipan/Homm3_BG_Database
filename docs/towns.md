@@ -1,4 +1,4 @@
-# Towns
+# List of Towns
 
 List of towns and their buildings.
 
