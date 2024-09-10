@@ -5,7 +5,7 @@ Lord Haart is a :might: Knight hero that belongs to [Castle](../towns/castle.md)
 
 | :attack: | :defense: | :empower: | :skill: | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 2 | 2 | 1 | 1 | Estates | Estates |
+| 2 | 2 | 1 | 1 | [Estates](../abilities/estates.md) | Estates |
 
 
 ## Specialty
