@@ -2,8 +2,7 @@
 
 Adelaide is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), and was added in the [Tower Expansion](../content.md).
 
-
-| :attack: | :defense: | :empower: | :skill: | [Ability](../abilities.md) | Specialty |
+| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
 | 1 | 0 | 2 | 2 | [Wisdom](../abilities/wisdom.md) | Frost Ring |
 
