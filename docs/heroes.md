@@ -9,46 +9,10 @@ You might also want to see [towns](towns.md).
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| Adelaide | :magic: Cleric | 1 | 0 | 2 | 2 | Wisdom | Frost Ring | Tower |
-| Catherine | :might: Knight | 2 | 2 | 1 | 1 | Leadership | Crusaders | Core |
-| Lord Haart | :might: Knight | 2 | 2 | 1 | 1 | Estates | Estates | Tower |
-| Rion | :magic: Cleric | 1 | 0 | 2 | 2 | Wisdom | Battlefield Medic | Core |
-
-
-### Adelaide
-
-| Name | Level | Descrition |
-| :--- | :---: | :---: |
-| Frost Ring | Ⅰ | :instant: Discard 1 card. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 1 :damage:. |
-| Frost Ring | Ⅳ | :instant: Select 1 [Spell](spells.md) or Specialty card from your discard pile and put it back in your hand. |
-| Frost Ring | Ⅵ | :instant: Discard 2 cards. Target a space on the Combat board. All [units](units.md) adjacent to this space suffer 2 :damage:. |
-
-
-### Catherine
-
-| Name | Level | Descrition |
-| :--- | :---: | :---: |
-| Crusaders | Ⅰ | :instant: Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the [Crusaders unit](units.md#castle). |
-| Crusaders | Ⅳ | :ongoing: For this Combat, your selected [unit's](units.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Crusaders unit](units.md#castle). |
-| Crusaders | Ⅵ | :ongoing: For this Combat, your selected [unit's](units.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Crusaders unit](units.md#castle). |
-
-
-### Lord Haart
-
-| Name | Level | Descrition |
-| :--- | :---: | :---: |
-| Estates | Ⅰ | :instant: Gain 2 :gold:. |
-| Estates | Ⅳ | :instant: Gain 3 :gold:. |
-| Estates | Ⅵ | :instant: Gain 5 :gold:. |
-
-
-### Rion
-
-| Name | Level | Descrition |
-| :--- | :---: | :---: |
-| Battlefield Medic | Ⅰ | :instant: Remove 1 :damage: from one of your [units](units.md), then draw 1 card. |
-| Battlefield Medic | Ⅳ | :instant: Remove 1 :damage: or :paralysis: from one of your [units](units.md), then draw 1 card. |
-| Battlefield Medic | Ⅵ | :instant: Remove up to 2 :damage: or :paralysis: from one of your [units](units.md), then draw 2 cards and discard 1 card from your hand. |
+| [Adelaide](heroes/adelaide.md) | :magic: Cleric | 1 | 0 | 2 | 2 | Wisdom | Frost Ring | Tower |
+| [Catherine](heroes/catherine.md) | :might: Knight | 2 | 2 | 1 | 1 | Leadership | Crusaders | Core |
+| [Lord Haart](heroes/lordhaart.md) | :might: Knight | 2 | 2 | 1 | 1 | Estates | Estates | Tower |
+| [Rion](heroes/rion.md) | :magic: Cleric | 1 | 0 | 2 | 2 | Wisdom | Battlefield Medic | Core |
 
 
 ## Necropolis
