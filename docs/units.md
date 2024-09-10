@@ -11,8 +11,8 @@ Castle units come from the [Core Game](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| [Halberdiers](..\halberdiers.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
-| [Halberdiers](..\halberdiers.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](dice.md#attack-die) roll result. |
+| [Halberdiers](units/halberdiers.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
+| [Halberdiers](../halberdiers.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](dice.md#attack-die) roll result. |
 | Marksmen | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 3 :gold: | - |
 | Marksmen | Pack | :bronze: | :unit_ranged: | 2 | 0 | 2 | **6** | 5 :gold: | :unit_attack: If a target is a non-adjacent unit, attack this target again. |
 | Griffins | Few | :bronze: | :unit_flying: | 2 | 0 | 4 | 6 | 4 :gold: | :unit_retaliate:This unit can perform an unlimited number of Retaliation Attacks. |

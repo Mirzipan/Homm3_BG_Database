@@ -1,6 +1,6 @@
 # Halberdiers
 
-Halberdiers are a :bronze: unit that belongs to [Castle](towns\castle.md).
+Halberdiers are a :bronze: unit that belongs to [Castle](castle).
 
 | Statistics | Few | Pack |
 | :--- | :---: | :---: |
@@ -10,9 +10,9 @@ Halberdiers are a :bronze: unit that belongs to [Castle](towns\castle.md).
 | :health_points: | 2 | 2 |
 | :initiative: | 4 | **5** |
 | Cost | 2 :gold: | 3 :gold: |
-| Abilities | - | :unit_passive: When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](dice.md#attack-die) roll result. |
+| Abilities | - | :unit_passive: When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](attack-die) roll result. |
 
 ## See Also
 
-- List of [towns](towns.md)
-- List of [units](units.md)
+- List of [towns](../towns.md)
+- List of [units](../units.md)
