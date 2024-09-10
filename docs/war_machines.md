@@ -1,4 +1,4 @@
-# War Machines #
+# War Machines
 
 
 | Name | Cost at Blacksmith | Cost at Trade Post | Ability | [Content](content.md) |

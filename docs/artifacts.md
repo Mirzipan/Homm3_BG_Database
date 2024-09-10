@@ -1,4 +1,4 @@
-# Artifacts
+# List of Artifacts
 
 ## Minor
 
