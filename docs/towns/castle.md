@@ -31,3 +31,8 @@ Castle town comes with the [Core Game](content.md).
 - :silver: [Zealots](../units/zealots.md)
 - :golden: [Champions](../units/champions.md)
 - :golden: [Archangels](../units/archangels.md)
+
+
+## See Also
+
+- List of [Towns](../towns.md)
