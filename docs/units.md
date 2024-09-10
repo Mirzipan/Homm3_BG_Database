@@ -23,8 +23,8 @@ Castle units come from the [Core Game](content.md).
 | [Zealots](units/zealots.md) | Pack | :silver: | :unit_ranged: | **4** | 1 | 5 | **7** | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. |
 | [Champions](units/champions.md) | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 7 | 12 :gold: | :effect_map: If your hero is on a field with Stables, this unit's reinforcement cost is reduced by 6 :gold:. |
 | [Champions](units/champions.md) | Pack | :golden: | :unit_ground: | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: If this unit's movement ends in a space other than where it started, you may reroll an [Attack die](dice.md#attack-die). |
-| [Archangels](units/archangels.md) | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 12 | 20 :gold:<br>1 :valuables: | :effect_map: When combat begins, draw 1 card. |
-| [Archangels](units/archangels.md) | Pack | :golden: | :unit_flying: | **7** | 3 | **10** | **18** | 30 :gold:<br>2 :valuables: | :effect_map: Once per Combat. Cancel an attack that would reduce another unit's :health_points: to 0. |
+| [Archangels](units/archangels.md) | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 12 | 20 :gold:<br>1 :valuables: | :unit_passive: When combat begins, draw 1 card. |
+| [Archangels](units/archangels.md) | Pack | :golden: | :unit_flying: | **7** | 3 | **10** | **18** | 30 :gold:<br>2 :valuables: | :unit_passive: Once per Combat. Cancel an attack that would reduce another unit's :health_points: to 0. |
 
 
 ## Necropolis
@@ -255,7 +255,7 @@ Inferno units come from the [Inferno Expansion](content.md).
 | Wraiths | :bronze: | :unit_flying: | 2 | 0 | 4 | 7 | 7 :gold: | :activation: Remove up to 2 :damage: from this unit. | Core |
 | Zombies | :bronze: | :unit_ground: | 2 | 0 | 4 | 3 | 5 :gold: | :unit_passive: If the attacker resolves a "0" or a "+1" on an [Attack die](dice.md#attack-die), gain +1 :defense: | Core |
 | Basilisks | :silver: | :unit_ground: | 4 | 1 | 4 | 5 | 12 :gold: | :unit_attack: After the attack, roll 1 [Attack die](dice.md#attack-die). On a "0" result, :paralysis: the target. | Tower |
-| Crusaders | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 11 :gold: | :unit_passive: During any attack, roll 2 [Attack dice](dice.md#attack-die) and resolve the higher outcome. | Core |
+| [Crusaders](units/crusaders.md) | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 11 :gold: | :unit_passive: During any attack, roll 2 [Attack dice](dice.md#attack-die) and resolve the higher outcome. | Core |
 | Demons | :silver: | :unit_ground: | 3 | 0 | 8 | 6 | 13 :gold: | - | Inferno |
 | Dendroids | :silver: | :unit_ground: | 3 | 2 | 6 | 3 | 12 :gold: | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. | Tower |
 | Genies | :silver: | :unit_flying: | 3 | 1 | 4 | 9 | 11 :gold: | :unit_attack: When attacking Efreet, this unit gains +1 :attack:. | Tower |
@@ -270,11 +270,11 @@ Inferno units come from the [Inferno Expansion](content.md).
 | Pit Lord | :silver: | :unit_ground: | 4 | 1 | 5 | 7 | 15 :gold: | - | Inferno |
 | Sharpshooters | :silver: | :unit_ranged: | 3 | 0 | 6 | 9 | 10 :gold: | :unit_attack: Ignore the combat penalties. | Core |
 | Vampires | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 9 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. Then remove up to 2 :damage: from this unit. | Core |
-| Zealots | :silver: | :unit_ranged: | 3 | 0 | 5 | 5 | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. | Core |
+| [Zealots](units/zealots.md) | :silver: | :unit_ranged: | 3 | 0 | 5 | 5 | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. | Core |
 | Arch Devils | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 23 :gold: | :unit_attack: When attacking Archangels, this unit gains +2 :attack:. | Inferno |
-| Archangels | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 29 :gold: | :unit_attack: When attacking Arch Devils, this unit gains +2 :attack:. | Core |
+| [Archangels](units/archangels.md) | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 29 :gold: | :unit_attack: When attacking Arch Devils, this unit gains +2 :attack:. | Core |
 | Black Dragons | :golden: | :unit_flying: | 5 | 2 | 7 | 9 | 30 :gold: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. | Core |
-| Champions | :golden: | :unit_ground: | 4 | 2 | 6 | 8 | 18 :gold: | :unit_attack: Roll 2 [Attack dice](dice.md#attack-die) and aplly both outcomes.<br>:unit_passive: Reroll this unit's all "-1" rolls. | Core |
+| [Champions](units/champions.md) | :golden: | :unit_ground: | 4 | 2 | 6 | 8 | 18 :gold: | :unit_attack: Roll 2 [Attack dice](dice.md#attack-die) and aplly both outcomes.<br>:unit_passive: Reroll this unit's all "-1" rolls. | Core |
 | Diamond Golems | :golden: | :unit_ground: | 4 | 2 | 6 | 6 | 16 :gold: | :unit_passive: Reduce any :damage: from [spells](spells.md) by 3 - to a minimum of 0. | Core |
 | Dread Knights | :golden: | :unit_ground: | 5 | 1 | 7 | 7 | 18 :gold: | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. | Core |
 | Efreet | :golden: | :unit_flying: | 4 | 2 | 6 | 13 | 20 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells.md) or [spells](spells.md) from the[Fire School of Magic](spells.md#fire-magic). | Inferno |

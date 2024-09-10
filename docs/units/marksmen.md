@@ -15,7 +15,7 @@ Marksmen are a :bronze: unit that belongs to [Castle](../towns/castle.md).
 
 ## Notes
 
-- The marksmen can attack at most one more time per activation, not more.
+- The Marksmen can attack at most one additional time per activation, not more.
 
 
 ## See Also
