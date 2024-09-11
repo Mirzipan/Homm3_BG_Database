@@ -16,6 +16,12 @@ Deemer is a :magic: Warlock hero that belongs to [Dungeon](../towns/dungeon.md),
 | Ⅵ | :instant: Select a [unit](../units.md) and 2 [units](../units.md) adjacent to it. Deal \* to all selected [units](../units.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |
 
 
+## Notes
+
+- The specialty can be improved by spell power, just like a regular spell.
+- The damage from Meteor Shower can also be dealt to friendly units.
+
+
 ## See Also
 
 - [List of Heroes](../heroes.md)

@@ -16,6 +16,11 @@ Alamar is a :magic: Warlock hero that belongs to [Dungeon](../towns/dungeon.md),
 | Ⅵ | :instant: Cancel an attack that would reduce your \* [unit's](../units.md) :health_points: to 0.<br><br> :empower: 0 - \*:bronze:<br>:empower: 0 - \*:silver:<br>:empower: 2 - \*:golden: |
 
 
+## Notes
+
+- The specialty can be improved by spell power, just like a regular spell.
+
+
 ## See Also
 
 - [List of Heroes](../heroes.md)

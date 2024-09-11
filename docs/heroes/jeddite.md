@@ -16,6 +16,11 @@ Jeddite is a :magic: Warlock hero that belongs to [Dungeon](../towns/dungeon.md)
 | Ⅵ | :instant: Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
 
 
+## Notes
+
+- The specialty can be improved by spell power, just like a regular spell.
+
+
 ## See Also
 
 - [List of Heroes](../heroes.md)
