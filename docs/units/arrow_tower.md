@@ -15,5 +15,5 @@ Arrow Tower is a special unit that is only present for the defending side of a s
 
 ## See Also
 
-- List of [Units](../units.md)
-- List of [Towns](../towns.md)
+- [List of Units](../units.md)
+- [List of Towns](../towns.md)
