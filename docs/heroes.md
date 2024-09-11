@@ -18,7 +18,7 @@ You might also want to see [towns](towns.md).
 
 
 | Name | Town | Class | [Ability](abilities.md) | Specialty | [Content](content.md) |
-| :--- | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | [Adelaide](heroes/adelaide.md) | [Castle](towns/castle.md) | :magic: Cleric | [Wisdom](abilities/wisdom.md) | Frost Ring | Tower |
 | [Catherine](heroes/catherine.md) | [Castle](towns/castle.md) | :might: Knight | [Leadership](abilities/leadership.md) | Crusaders | Core |
 | [Lord Haart](heroes/lord_haart.md) | [Castle](towns/castle.md) | :might: Knight | [Estates](abilities/estates.md) | Estates | Tower |
