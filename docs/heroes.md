@@ -5,18 +5,6 @@ List of heroes and their specialities.
 You might also want to see [towns](towns.md).
 
 
-| Name | Town | Class | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](abilities.md) | Specialty | [Content](content.md) |
-| :--- | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| [Adelaide](heroes/adelaide.md) | [Castle](towns/castle.md) | :magic: Cleric | 1 | 0 | 2 | 2 | [Wisdom](abilities/wisdom.md) | Frost Ring | Tower |
-| [Catherine](heroes/catherine.md) | [Castle](towns/castle.md) | :might: Knight | 2 | 2 | 1 | 1 | [Leadership](abilities/leadership.md) | Crusaders | Core |
-| [Lord Haart](heroes/lord_haart.md) | [Castle](towns/castle.md) | :might: Knight | 2 | 2 | 1 | 1 | [Estates](abilities/estates.md) | Estates | Tower |
-| [Rion](heroes/rion.md) | [Castle](towns/castle.md) | :magic: Cleric | 1 | 0 | 2 | 2 | [Wisdom](abilities/wisdom.md) | Battlefield Medic | Core |
-| [Lord Haart](heroes/lord_haart_necropolis.md) | [Necropolis](towns/necropolis.md) | :might: Death Knight | 1 | 2 | 2 | 1 | [Necromancy](abilities/necromancy.md) | Dread Knights | Tower |
-| [Sandro](heroes/sandro.md) | [Necropolis](towns/necropolis.md) | :magic: Necromancer | 1 | 0 | 2 | 2 | [Sorcery](abilities/sorcery.md) | Cloak of the Undead King | Core |
-| [Tamika](heroes/tamika.md) | [Necropolis](towns/necropolis.md) | :might: Death Knight | 1 | 2 | 2 | 1 | [Offense](abilities/offense.md) | Dread Knights | Core |
-| [Vidomina](heroes/vidomina.md) | [Necropolis](towns/necropolis.md) | :magic: Necromancer | 1 | 0 | 2 | 2 | [Necromancy](abilities/necromancy.md) | Necromancy | Tower |
-
-
 | Name | Town | Class | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Adelaide](heroes/adelaide.md) | [Castle](towns/castle.md) | :magic: Cleric | [Wisdom](abilities/wisdom.md) | Frost Ring | Tower |
