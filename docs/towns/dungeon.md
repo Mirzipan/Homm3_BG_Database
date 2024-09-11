@@ -16,6 +16,11 @@ Dungeon town comes with the [Core Game](content.md).
 
 ## Heroes
 
+- :magic: [Alamar](../heroes/alamar.md)
+- :magic: [Deemer](../heroes/deemer.md)
+- :magic: [Jeddite](../heroes/jeddite.md)
+- :might: [Mutare](../heroes/mutare.md)
+
 
 ## Units
 

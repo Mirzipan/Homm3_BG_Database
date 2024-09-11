@@ -4,7 +4,7 @@ Catherine is a :might: Knight hero that belongs to [Castle](../towns/castle.md),
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 2 | 2 | 1 | 1 | [Leadership](../abilities/leadership.md) | Crusaders |
+| 2 | 2 | 1 | 1 | [Leadership](../abilities/leadership.md) | [Crusaders](#specialty) |
 
 
 ## Specialty
@@ -18,5 +18,5 @@ Catherine is a :might: Knight hero that belongs to [Castle](../towns/castle.md),
 
 ## See Also
 
-- List of [Heroes](../heroes.md)
-- List of [Towns](../towns.md)
+- [List of Heroes](../heroes.md)
+- [List of Towns](../towns.md)

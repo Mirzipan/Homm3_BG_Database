@@ -4,7 +4,7 @@ Lord Haart is a :might: Death Knight hero that belongs to [Necropolis](../towns/
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 2 | 2 | 1 | [Necromancy](abilities/necromancy.md) | Dread Knights |
+| 1 | 2 | 2 | 1 | [Necromancy](abilities/necromancy.md) | [Dread Knights](#specialty) |
 
 
 ## Specialty

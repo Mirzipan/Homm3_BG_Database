@@ -18,7 +18,7 @@ Castle town comes with the [Core Game](content.md).
 
 - :magic: [Adelaide](../heroes/adelaide.md)
 - :might: [Catherine](../heroes/catherine.md)
-- :might: [Lord Haart](../heroes/lordhaart.md)
+- :might: [Lord Haart](../heroes/lord_haart.md)
 - :magic: [Rion](../heroes/rion.md)
 
 

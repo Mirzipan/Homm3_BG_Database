@@ -4,7 +4,7 @@ Rion is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), and 
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 0 | 2 | 2 | [Wisdom](../abilities/wisdom.md) | Battlefield Medic |
+| 1 | 0 | 2 | 2 | [Wisdom](../abilities/wisdom.md) | [Battlefield Medic](#specialty) |
 
 
 ## Specialty

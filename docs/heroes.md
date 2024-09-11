@@ -15,52 +15,10 @@ You might also want to see [towns](towns.md).
 | [Sandro](heroes/sandro.md) | [Necropolis](towns/necropolis.md) | :magic: Necromancer | [Sorcery](abilities/sorcery.md) | [Cloak of the Undead King](heroes/sandro.md#specialty) | Core |
 | [Tamika](heroes/tamika.md) | [Necropolis](towns/necropolis.md) | :might: Death Knight | [Offense](abilities/offense.md) | [Dread Knights](heroes/tamika.md#specialty) | Core |
 | [Vidomina](heroes/vidomina.md) | [Necropolis](towns/necropolis.md) | :magic: Necromancer | [Necromancy](abilities/necromancy.md) | [Necromancy](heroes/vidomina.md#specialty) | Tower |
-
-
-## Dungeon
-
-| Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
-| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| Alamar | :magic: Warlock | 0 | 0 | 3 | 2 | Wisdom | Resurrection | Core |
-| Deemer | :magic: Warlock | 0 | 0 | 3 | 2 | Scouting | Meteor Shower | Tower |
-| Jeddite | :magic: Warlock | 0 | 0 | 3 | 2 | Sorcery | Mysterious Warlock | Tower |
-| Mutare | :might: Overlord | 2 | 2 | 1 | 1 | Tactics | Dragons | Core |
-
-
-### Alamar
-
-| Name | Level | Descrition |
-| :--- | :---: | :---: |
-| Resurrection | Ⅰ | :instant: Cancel an attack that would reduce your \* [unit's](units.md) :health_points: to 0.<br><br> :empower: 1 - \*:bronze:<br>:empower: 2 - \*:silver:<br>:empower: 4 - \*:golden: |
-| Resurrection | Ⅳ | :instant: Cancel an attack that would reduce your \* [unit's](units.md) :health_points: to 0.<br><br> :empower: 0 - \*:bronze:<br>:empower: 1 - \*:silver:<br>:empower: 3 - \*:golden: |
-| Resurrection | Ⅵ | :instant: Cancel an attack that would reduce your \* [unit's](units.md) :health_points: to 0.<br><br> :empower: 0 - \*:bronze:<br>:empower: 0 - \*:silver:<br>:empower: 2 - \*:golden: |
-
-
-### Deemer
-
-| Name | Level | Descrition |
-| :--- | :---: | :---: |
-| Meteor Shower | Ⅰ | :instant: Select a [unit](units.md) and 1 [unit](units.md) adjacent to it. Deal \* to both selected [units](units.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |
-| Meteor Shower | Ⅳ | :instant: +1 :empower:<br><br>— OR —<br><br>:instant: Shuffle your discard pile back into your deck, then draw 1 card. |
-| Meteor Shower | Ⅵ | :instant: Select a [unit](units.md) and 2 [units](units.md) adjacent to it. Deal \* to all selected [units](units.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |
-
-
-### Jeddite
-
-| Name | Level | Descrition |
-| :--- | :---: | :---: |
-| Mysterious Warlock | Ⅰ | :instant: Draw up to 3 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
-| Mysterious Warlock | Ⅳ | :instant: Cancel an attack that would reduce your \* [unit's](units.md) :health_points: to 0.<br><br> :empower: 0 - \*:bronze: Unit<br>:empower: 1 - \*:silver: Unit<br>:empower: 2 - \*:golden: Unit |
-| Mysterious Warlock | Ⅵ | :instant: Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
-
-
-### Mutare
-
-| Name | Level | Descrition |
-| :--- | :---: | :---: |
-| Dragons | Ⅰ | :instant: Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for a Dragons [unit](units.md). |
-| Dragons | Ⅳ | :ongoing: For this Combat, your selected [unit's](units.md) :health_points: is increased by 1.<br><br>This effect doubles for a Dragons [unit](units.md). |
-| Dragons | Ⅵ | :ongoing: For this Combat, your selected [unit's](units.md) :initiative: is increased by 1.<br><br>This effect doubles for a Dragons [unit](units.md). |
+| [Alamar](heroes/alamar.md) | [Dungeon](towns/dungeon.md) | :magic: Warlock | [Wisdom](abilities/wisdom.md) | [Resurrection](heroes/alamar.md#specialty) | Core |
+| [Deemer](heroes/deemer.md) | [Dungeon](towns/dungeon.md) | :magic: Warlock | [Scouting](abilities/scouting.md) | [Meteor Shower](heroes/deemer.md#specialty) | Tower |
+| [Jeddite](heroes/jeddite.md) | [Dungeon](towns/dungeon.md) | :magic: Warlock | [Sorcery](abilities/sorcery.md) | [Mysterious Warlock](heroes/jeddite.md#specialty) | Tower |
+| [Mutare](heroes/mutare.md) | [Dungeon](towns/dungeon.md) | :might: Overlord | [Tactics](abilities/tactics.md) | [Dragons](heroes/mutare.md#specialty) | Core |
 
 
 ## Tower
