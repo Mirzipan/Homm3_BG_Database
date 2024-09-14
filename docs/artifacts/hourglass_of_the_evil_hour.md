@@ -7,7 +7,7 @@ Hourglass of the Evil Hour is a minor artifact that comes with the [Core Game](.
 
 ## Effect
 
-:instant: If the enemy has :morale_positive:, they gain :morale_negative:.<br><br>— OR —<br><br>:instant: Roll the [Attack die](dice.md#attack-die). On a "0" result, you gain :morale_positive:.
+:instant: If the enemy has :morale_positive:, they gain :morale_negative:.<br><br>— OR —<br><br>:instant: Roll the [Attack die](../dice.md#attack-die). On a "0" result, you gain :morale_positive:.
 
 
 ## See Also

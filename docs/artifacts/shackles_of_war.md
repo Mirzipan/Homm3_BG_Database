@@ -7,7 +7,7 @@ Shackles of War is a major artifact that comes with the [Core Game](../content.m
 
 ## Effect
 
-:instant: If played at the start of Combat, the Enemy [Hero](heroes.md) can neither Retreat nor Surrender.<br><br>— OR —<br><br>:instant: Draw 2 cards, choose 1 card and discard the other.
+:instant: If played at the start of Combat, the Enemy [Hero](../heroes.md) can neither Retreat nor Surrender.<br><br>— OR —<br><br>:instant: Draw 2 cards, choose 1 card and discard the other.
 
 
 ## See Also

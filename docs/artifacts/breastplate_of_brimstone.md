@@ -7,7 +7,7 @@ Breastplate of Brimstone is a major artifact that comes with the [Inferno Expans
 
 ## Effect
 
-:instant: **Search(2)** [:spellpower:](spells.md).<br><br>— OR —<br><br>:instant: +1 :empower:, then discard up to 3 cards from your hand to gain +1 :empower: per card discarded.
+:instant: **Search(../2)** [:spellpower:](../spells.md).<br><br>— OR —<br><br>:instant: +1 :empower:, then discard up to 3 cards from your hand to gain +1 :empower: per card discarded.
 
 
 ## See Also

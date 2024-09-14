@@ -7,7 +7,7 @@ Boots of Polarity is a relic artifact that comes with the [Tower Expansion](../c
 
 ## Effect
 
-:instant: Play this card after an enemy casts a [spell](spells.md). Roll 2 [Attack dice](dice.md#attack-die) and choose one. On a "+1 ", ignore the [:spellpower:](spells.md) effect.<br><br>— OR —<br><br>:activation: Remove 1 :ongoing: effect.
+:instant: Play this card after an enemy casts a [spell](../spells.md). Roll 2 [Attack dice](../dice.md#attack-die) and choose one. On a "+1 ", ignore the [:spellpower:](../spells.md) effect.<br><br>— OR —<br><br>:activation: Remove 1 :ongoing: effect.
 
 
 ## See Also

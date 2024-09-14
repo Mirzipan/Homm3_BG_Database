@@ -7,7 +7,7 @@ Golden Bow is a major artifact that comes with the [Rampart Expansion](../conten
 
 ## Effect
 
-:ongoing: During this Combat, your :unit_ranged: [units](units.md) ignore the combat penalty.<br><br>— OR —<br><br>:instant: A :unit_ranged: [unit](units.md) of your choice gains +2 :attack:.
+:ongoing: During this Combat, your :unit_ranged: [units](../units.md) ignore the combat penalty.<br><br>— OR —<br><br>:instant: A :unit_ranged: [unit](../units.md) of your choice gains +2 :attack:.
 
 
 ## See Also

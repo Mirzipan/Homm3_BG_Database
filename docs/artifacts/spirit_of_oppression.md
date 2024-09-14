@@ -7,7 +7,7 @@ Spirit of Oppression is a minor artifact that comes with the [Fortress Expansion
 
 ## Effect
 
-:ongoing: During this Combat, neither player can use the :morale_positive: token or reroll [Attack dice](dice.md#attack-die).<br><br>— OR —<br><br>:instant: +1 :empower:
+:ongoing: During this Combat, neither player can use the :morale_positive: token or reroll [Attack dice](../dice.md#attack-die).<br><br>— OR —<br><br>:instant: +1 :empower:
 
 
 ## See Also

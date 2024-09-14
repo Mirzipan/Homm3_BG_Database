@@ -7,7 +7,7 @@ Cape of Velocity is a major artifact that comes with the [Rampart Expansion](../
 
 ## Effect
 
-:ongoing: Until the end of the Combat, this [unit](units.md) gains +2 :initiative:.<br><br>— OR —<br><br>:instant: Gain 2 :gold:.
+:ongoing: Until the end of the Combat, this [unit](../units.md) gains +2 :initiative:.<br><br>— OR —<br><br>:instant: Gain 2 :gold:.
 
 
 ## See Also

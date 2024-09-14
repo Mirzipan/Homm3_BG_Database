@@ -7,7 +7,7 @@ Arms of Legion is a major artifact that comes with the [Fortress Expansion](../c
 
 ## Effect
 
-:instant: Reduce the Recruitment or Reinforcement cost of a [unit](units.md) by 5 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :building_materials:.
+:instant: Reduce the Recruitment or Reinforcement cost of a [unit](../units.md) by 5 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :building_materials:.
 
 
 ## See Also

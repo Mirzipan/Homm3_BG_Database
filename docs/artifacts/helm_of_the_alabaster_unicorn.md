@@ -7,7 +7,7 @@ Helm of the Alabaster Unicorn is a minor artifact that comes with the [Tower Exp
 
 ## Effect
 
-:instant: Return 1 [:spellpower:](spells.md) of your choice from your discard pile to your hand.<br><br>— OR —<br><br>:instant: Cast a [spell](spells.md) from the top of the [:spellpower:](spells.md) deck discard pile and Remove this card.
+:instant: Return 1 [:spellpower:](../spells.md) of your choice from your discard pile to your hand.<br><br>— OR —<br><br>:instant: Cast a [spell](../spells.md) from the top of the [:spellpower:](../spells.md) deck discard pile and Remove this card.
 
 
 ## See Also

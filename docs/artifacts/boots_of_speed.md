@@ -7,7 +7,7 @@ Boots of Speed is a minor artifact that comes with the [Inferno Expansion](../co
 
 ## Effect
 
-:instant: Your [hero](heroes.md) gains +1 :movement:.<br><br>— OR —<br><br>:ongoing: For this Combat, your selected [unit](units.md) gains +1 :initiative:.
+:instant: Your [hero](../heroes.md) gains +1 :movement:.<br><br>— OR —<br><br>:ongoing: For this Combat, your selected [unit](../units.md) gains +1 :initiative:.
 
 
 ## See Also

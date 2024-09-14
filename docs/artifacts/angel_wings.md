@@ -7,7 +7,7 @@ Angel Wings is a relic artifact that comes with the [Core Game](../content.md).
 
 ## Effect
 
-:effect_map: Chosen [Hero](heroes.md) gain +1 :movement: and can move through any fields without resolving them. The last visited field must be resolved normally.<br><br>— OR —<br><br>:instant: Draw a card.
+:effect_map: Chosen [Hero](../heroes.md) gain +1 :movement: and can move through any fields without resolving them. The last visited field must be resolved normally.<br><br>— OR —<br><br>:instant: Draw a card.
 
 
 ## See Also

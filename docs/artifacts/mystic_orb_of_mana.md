@@ -7,7 +7,7 @@ Mystic Orb of Mana is a major artifact that comes with the [Tower Expansion](../
 
 ## Effect
 
-:instant: **Search(4)** your discard pile.<br><br>— OR —<br><br>:instant: Only if your discard pile is empty. Draw 2 cards.
+:instant: **Search(../4)** your discard pile.<br><br>— OR —<br><br>:instant: Only if your discard pile is empty. Draw 2 cards.
 
 
 ## See Also

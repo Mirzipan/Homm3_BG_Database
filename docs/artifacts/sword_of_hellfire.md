@@ -7,7 +7,7 @@ Sword of Hellfire is a major artifact that comes with the [Fortress Expansion](.
 
 ## Effect
 
-:instant: +3 :attack:. This [unit](units.md) suffers 1 :damage:. This effect cannot be used on an enemy unit.<br><br>— OR —<br><br>:instant: +4 :attack:. This [unit](units.md) suffers 2 :damage:. This effect cannot be used on an enemy unit.
+:instant: +3 :attack:. This [unit](../units.md) suffers 1 :damage:. This effect cannot be used on an enemy unit.<br><br>— OR —<br><br>:instant: +4 :attack:. This [unit](../units.md) suffers 2 :damage:. This effect cannot be used on an enemy unit.
 
 
 ## See Also

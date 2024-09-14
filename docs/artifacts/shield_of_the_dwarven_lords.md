@@ -7,7 +7,7 @@ Shield of the Dwarven Lords is a minor artifact that comes with the [Core Game](
 
 ## Effect
 
-:instant: Use this after the [Attack die](dice.md#attack-die) roll. Ignore the [Attack die](dice.md#attack-die) and any additional effects it triggered.<br><br>— OR —<br><br>:instant: +1 :defense:
+:instant: Use this after the [Attack die](../dice.md#attack-die) roll. Ignore the [Attack die](../dice.md#attack-die) and any additional effects it triggered.<br><br>— OR —<br><br>:instant: +1 :defense:
 
 
 ## See Also

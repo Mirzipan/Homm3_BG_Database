@@ -7,7 +7,7 @@ Blackshard of the Dead Knight is a minor artifact that comes with the [Core Game
 
 ## Effect
 
-:instant: +3 :attack: and discard 1 card. If the discarded card was a [spell](spells.md), draw 1 card.<br><br>— OR —<br><br>:instant: +1 :attack:
+:instant: +3 :attack: and discard 1 card. If the discarded card was a [spell](../spells.md), draw 1 card.<br><br>— OR —<br><br>:instant: +1 :attack:
 
 
 ## See Also

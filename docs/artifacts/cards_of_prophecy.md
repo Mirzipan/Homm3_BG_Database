@@ -7,7 +7,7 @@ Cards of Prophecy is a major artifact that comes with the [Tower Expansion](../c
 
 ## Effect
 
-:instant: Reroll any [die](dice.md).<br><br>— OR —<br><br>:instant: Set a :trasuredie: or :treasure: on the side of your choice.
+:instant: Reroll any [die](../dice.md).<br><br>— OR —<br><br>:instant: Set a :trasuredie: or :treasure: on the side of your choice.
 
 
 ## See Also

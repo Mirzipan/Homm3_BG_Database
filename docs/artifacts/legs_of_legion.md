@@ -7,7 +7,7 @@ Legs of Legion is a minor artifact that comes with the [Core Game](../content.md
 
 ## Effect
 
-:instant: Reduce the Recruitment or Reinforcement cost of a [unit](units.md) by 4 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :gold:.
+:instant: Reduce the Recruitment or Reinforcement cost of a [unit](../units.md) by 4 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :gold:.
 
 
 ## See Also

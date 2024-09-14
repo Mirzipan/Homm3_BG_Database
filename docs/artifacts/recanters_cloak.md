@@ -7,7 +7,7 @@ Recanter's Cloak is a major artifact that comes with the [Fortress Expansion](..
 
 ## Effect
 
-:ongoing: During this Combat, no [Hero](heroes.md) can use [spell](spells.md)s with Power "0".<br><br>— OR —<br><br> :ongoing: During this Combat, no [Hero](heroes.md) can use Spells. Remove this card after Combat.
+:ongoing: During this Combat, no [Hero](../heroes.md) can use [spell](../spells.md)s with Power "0".<br><br>— OR —<br><br> :ongoing: During this Combat, no [Hero](../heroes.md) can use Spells. Remove this card after Combat.
 
 
 ## See Also

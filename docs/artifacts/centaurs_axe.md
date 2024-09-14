@@ -7,7 +7,7 @@ Centaur's Axe is a minor artifact that comes with the [Core Game](../content.md)
 
 ## Effect
 
-:instant: Triple the [Attack die's](dice.md#attack-die) outcome.<br><br>— OR —<br><br>:instant: +1 :attack:
+:instant: Triple the [Attack die's](../dice.md#attack-die) outcome.<br><br>— OR —<br><br>:instant: +1 :attack:
 
 
 ## See Also

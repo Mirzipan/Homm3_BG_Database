@@ -7,7 +7,7 @@ Vial of Lifeblood is a major artifact that comes with the [Core Game](../content
 
 ## Effect
 
-:instant: Remove up to 3 :damage: from one of your units.<br><br>— OR —<br><br> :ongoing: For this Combat, your selected [unit](units.md) gains +1 :health_points:.
+:instant: Remove up to 3 :damage: from one of your units.<br><br>— OR —<br><br> :ongoing: For this Combat, your selected [unit](../units.md) gains +1 :health_points:.
 
 
 ## See Also

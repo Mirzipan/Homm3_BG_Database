@@ -7,7 +7,7 @@ Head of Legion is a major artifact that comes with the [Core Game](../content.md
 
 ## Effect
 
-:instant: Reduce the Recruitment or Reinforcement cost of a [unit](units.md) by 6 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 3 :gold:.
+:instant: Reduce the Recruitment or Reinforcement cost of a [unit](../units.md) by 6 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 3 :gold:.
 
 
 ## See Also

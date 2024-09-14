@@ -7,7 +7,7 @@ Shield of the Damned is a major artifact that comes with the [Inferno Expansion]
 
 ## Effect
 
-:instant: Target [unit](units.md) gains +3 :defense: and suffers 1 :damage:. It cannot be used on an enemy unit.<br><br>— OR —<br><br>:instant: Target [unit](units.md) gains +5 :defense: and suffers 2 :damage:. It cannot be used on an enemy unit.
+:instant: Target [unit](../units.md) gains +3 :defense: and suffers 1 :damage:. It cannot be used on an enemy unit.<br><br>— OR —<br><br>:instant: Target [unit](../units.md) gains +5 :defense: and suffers 2 :damage:. It cannot be used on an enemy unit.
 
 
 ## See Also

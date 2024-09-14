@@ -7,7 +7,7 @@ Orb of Inhibition is a relic artifact that comes with the [Tower Expansion](../c
 
 ## Effect
 
-:ongoing: During this Combat, all [:spellpower:](spells.md) and [Specialty](heroes.md) cards deal 0 :damage:. Remove this card instead of discaring it.<br><br>— OR —<br><br> :ongoing: During this Combat round, [units](units.md) cannot use their special abilities.
+:ongoing: During this Combat, all [:spellpower:](../spells.md) and [Specialty](../heroes.md) cards deal 0 :damage:. Remove this card instead of discaring it.<br><br>— OR —<br><br> :ongoing: During this Combat round, [units](../units.md) cannot use their special abilities.
 
 
 ## See Also

@@ -7,7 +7,7 @@ Equestrian's Gloves is a minor artifact that comes with the [Tower Expansion](..
 
 ## Effect
 
-:ongoing: For this Combat, your selected [unit](units.md) gains +1 :initiative:.<br><br>— OR —<br><br>:instant: Your [Hero](heroes.md) gains +1 :movement:.
+:ongoing: For this Combat, your selected [unit](../units.md) gains +1 :initiative:.<br><br>— OR —<br><br>:instant: Your [Hero](../heroes.md) gains +1 :movement:.
 
 
 ## See Also

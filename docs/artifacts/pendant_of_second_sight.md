@@ -7,7 +7,7 @@ Pendant of Second Sight is a major artifact that comes with the [Tower Expansion
 
 ## Effect
 
-:ongoing: Selected [unit](units.md) cannot gain :paralysis: during this Combat.<br><br>— OR —<br><br>:instant: Remove 1 :paralysis: token.
+:ongoing: Selected [unit](../units.md) cannot gain :paralysis: during this Combat.<br><br>— OR —<br><br>:instant: Remove 1 :paralysis: token.
 
 
 ## See Also
