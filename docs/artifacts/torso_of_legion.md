@@ -1,6 +1,6 @@
-# Torse of Legion
+# Torso of Legion
 
-Torse of Legion is a minor artifact that comes with the [Rampart Expansion](../content.md).
+Torso of Legion is a minor artifact that comes with the [Rampart Expansion](../content.md).
 
 *Searching a ruin, you are amazed to find a piece of the Statue of Legion. You carefully dust it off before placing it in your pack.*
 
