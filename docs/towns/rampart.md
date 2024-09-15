@@ -1,6 +1,6 @@
 # Rampart
 
-Rampart town comes with the [Rampart Expansion](content.md).
+Rampart town comes with the [Rampart Expansion](../content.md).
 
 
 ## Buildings

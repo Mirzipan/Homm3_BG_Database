@@ -1,6 +1,6 @@
 # Cove
 
-Cove town comes with the [Cove Expansion](content.md).
+Cove town comes with the [Cove Expansion](../content.md).
 
 
 ## Buildings

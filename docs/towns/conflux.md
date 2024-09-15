@@ -1,6 +1,6 @@
 # Conflux
 
-Conflux town comes with the [Conflux Expansion](content.md).
+Conflux town comes with the [Conflux Expansion](../content.md).
 
 
 ## Buildings

@@ -1,6 +1,6 @@
 # Dungeon
 
-Dungeon town comes with the [Core Game](content.md).
+Dungeon town comes with the [Core Game](../content.md).
 
 
 ## Buildings

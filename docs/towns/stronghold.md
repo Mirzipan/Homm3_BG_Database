@@ -1,6 +1,6 @@
 # Stronghold
 
-Stronghold town comes with the [Stronghold Expansion](content.md).
+Stronghold town comes with the [Stronghold Expansion](../content.md).
 
 
 ## Buildings

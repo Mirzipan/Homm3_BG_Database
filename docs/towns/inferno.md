@@ -1,6 +1,6 @@
 # Inferno
 
-Inferno town comes with the [Inferno Expansion](content.md).
+Inferno town comes with the [Inferno Expansion](../content.md).
 
 
 ## Buildings

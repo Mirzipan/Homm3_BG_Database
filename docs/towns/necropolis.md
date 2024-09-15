@@ -1,6 +1,6 @@
 # Necropolis
 
-Necropolis town comes with the [Core Game](content.md).
+Necropolis town comes with the [Core Game](../content.md).
 
 
 ## Buildings

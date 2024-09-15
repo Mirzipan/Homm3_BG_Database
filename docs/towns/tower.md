@@ -1,6 +1,6 @@
 # Tower
 
-Tower town comes with the [Tower Expansion](content.md).
+Tower town comes with the [Tower Expansion](../content.md).
 
 
 ## Buildings

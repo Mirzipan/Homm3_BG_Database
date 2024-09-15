@@ -1,6 +1,6 @@
 # Fortress
 
-Fortress town comes with the [Fortress Expansion](content.md).
+Fortress town comes with the [Fortress Expansion](../content.md).
 
 
 ## Buildings

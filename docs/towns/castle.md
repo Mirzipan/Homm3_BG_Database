@@ -1,6 +1,6 @@
 # Castle
 
-Castle town comes with the [Core Game](content.md).
+Castle town comes with the [Core Game](../content.md).
 
 
 ## Buildings
