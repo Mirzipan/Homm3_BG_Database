@@ -7,5 +7,5 @@
 
 ## See Also
 
-- [List of Statistics](../statistics.md)
 - [List of Heroes](../heroes.md)
+- [List of Statistics](../statistics.md)

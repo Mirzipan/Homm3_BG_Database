@@ -2,7 +2,7 @@
 
 | Effect | :expert: Effect | Empowered Effect |
 | :--- | :--- | :--- |
-| :instant: Play this card after casting a spell. Instead of discarding the Spell card, take it back to your hand. | :instant: Play this card after casting a spell. Instead of discarding the Spell card, take it back to your hand. During this combat round, your spell limit increases by 1. | :instant: Play this card after casting a spell. Instead of discarding the Spell card, take it back to your hand. During this combat round, your spell limit increases by 1. |
+| :instant: Play this card after casting a [spell](../spells.md). Instead of discarding the [Spell](../spells.md) card, take it back to your hand. | :instant: Play this card after casting a [spell](../spells.md). Instead of discarding the [Spell](../spells.md) card, take it back to your hand. During this combat round, your [spell](../spells.md) limit increases by 1. | :instant: Play this card after casting a [spell](../spells.md). Instead of discarding the [Spell](../spells.md) card, take it back to your hand. During this combat round, your [spell](../spells.md) limit increases by 1. |
 
 
 ## Notes
@@ -12,5 +12,5 @@
 
 ## See Also
 
-- [List of Statistics](../statistics.md)
 - [List of Heroes](../heroes.md)
+- [List of Statistics](../statistics.md)
