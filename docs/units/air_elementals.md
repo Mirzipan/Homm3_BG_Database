@@ -2,7 +2,7 @@
 
 Air Elementals are a :bronze: [neutral](../towns/neutral.md) summoned unit that comes with the [Conflux Expansion](../content.md).
 
-It is summoned by [Summon Air Elemental](../spells/summon_air_elemental.md)
+It is summoned by [Summon Air Elemental](../spells/summon_air_elemental.md).
 
 
 | Statistics | Few | Pack |

@@ -2,7 +2,7 @@
 
 Earth Elementals are a 🚧 [neutral](../towns/neutral.md) summoned unit that comes with the [Conflux Expansion](../content.md).
 
-It is summoned by [Summon Earth Elemental](../spells/summon_earth_elemental.md)
+It is summoned by [Summon Earth Elemental](../spells/summon_earth_elemental.md).
 
 
 | Statistics | Few | Pack |

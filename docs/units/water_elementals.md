@@ -2,7 +2,7 @@
 
 Water Elementals are a 🚧 [neutral](../towns/neutral.md) summoned unit that comes with the [Conflux Expansion](../content.md).
 
-It is summoned by [Summon Water Elemental](../spells/summon_water_elemental.md)
+It is summoned by [Summon Water Elemental](../spells/summon_water_elemental.md).
 
 
 | Statistics | Few | Pack |
