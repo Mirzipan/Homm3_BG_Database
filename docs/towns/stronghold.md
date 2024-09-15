@@ -22,6 +22,14 @@ Stronghold town comes with the [Stronghold Expansion](../content.md).
 
 ## Units
 
+- :bronze: [Goblins](../units/goblins.md)
+- :bronze: [Wolf Raiders](../units/wolf_raiders.md)
+- :bronze: [Orcs](../units/orcs.md)
+- :silver: [Ogres](../units/ogres.md)
+- :silver: [Thunderbirds](../units/thunderbirds.md)
+- :golden: [Cyclops](../units/cyclops.md)
+- :golden: [Behemoths](../units/behemoths.md)
+
 
 ## See Also
 

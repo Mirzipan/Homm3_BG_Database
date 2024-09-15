@@ -165,20 +165,20 @@ Inferno units come from the [Inferno Expansion](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Goblins | Few | :bronze: | :unit_ground: | 1 | 0 | 4 | 6 | 1 :gold: | - |
-| Goblins | Pack | :bronze: | :unit_ground: | **2** | 0 | 4 | **8** | 2 :gold: | - |
-| Wolf Raiders | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 7 | 3 :gold: | - |
-| Wolf Raiders | Pack | :bronze: | :unit_ground: | 2 | 0 | **5** | **8** | 5 :gold: | :unit_attack: Attack this target again. The second attack happens after the target retaliates (if possible). |
-| Orcs | Few | :bronze: | :unit_ground: | 2 | 1 | 4 | 4 | 4 | - |
-| Orcs | Pack | :bronze: | :unit_ground: | **3** | 1 | **5** | **5** | 7 :gold: | - |
-| Ogres | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 4 | 6 :gold: | :unit_other: Place a +1 :attack: token on a chosen :unit_ground: or :unit_flying: unit for 2 Combat rounds. |
-| Ogres | Pack | :silver: | :unit_ground: | 3 | 2 | **5** | **5** | 8 :gold: | :unit_other: Place a +2 :attack: token on a chosen :unit_ground: or :unit_flying: unit for 2 Combat rounds. |
-| Thunderbirds | Few | :silver: | :unit_flying: | 4 | 1 | 6 | 9 | 8 :gold: | - |
-| Thunderbirds | Pack | :silver: | :unit_flying: | **5** | 1 | 6 | **11** | 14 :gold: | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](dice.md#attack-die), on a "+1", deal 1 :spell: :damage: to the target. |
-| Cyclops | Few | :golden: | :unit_ranged: | 4 | 1 | 6 | 6 | 13 :gold: | :unit_other: This unit can destroy the Gate or a Wall. |
-| Cyclops | Pack | :golden: | :unit_ranged: | **5** | 1 | **7** | **8** | 17 :gold:<br>1 :valuables: | :unit_other: This unit can destroy the Gate, a Wall, or the Arrow Tower. |
-| Behemoths | Few | :golden: | :unit_ground: | 7 | 2 | 8 | 6 | 19 :gold:<br>1 :valuables: | :unit_attack: Decrease the target's :defense: by 1 (to a minimum of 0). |
-| Behemoths | Pack | :golden: | :unit_ground: | **8** | 2 | **10** | **9** | 29 :gold:<br>2 :valuables: | :unit_attack: Decrease the target's :defense: by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. |
+| [Goblins](units/goblins.md) | Few | :bronze: | :unit_ground: | 1 | 0 | 4 | 6 | 1 :gold: | - |
+| [Goblins](units/goblins.md) | Pack | :bronze: | :unit_ground: | **2** | 0 | 4 | **8** | 2 :gold: | - |
+| [Wolf Raiders](units/wolf_raiders.md) | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 7 | 3 :gold: | - |
+| [Wolf Raiders](units/wolf_raiders.md) | Pack | :bronze: | :unit_ground: | 2 | 0 | **5** | **8** | 5 :gold: | :unit_attack: Attack this target again. The second attack happens after the target retaliates (if possible). |
+| [Orcs](units/orcs.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 4 | 4 | 4 | - |
+| [Orcs](units/orcs.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | **5** | **5** | 7 :gold: | - |
+| [Ogres](units/ogres.md) | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 4 | 6 :gold: | :unit_other: Place a +1 :attack: token on a chosen :unit_ground: or :unit_flying: unit for 2 Combat rounds. |
+| [Ogres](units/ogres.md) | Pack | :silver: | :unit_ground: | 3 | 2 | **5** | **5** | 8 :gold: | :unit_other: Place a +2 :attack: token on a chosen :unit_ground: or :unit_flying: unit for 2 Combat rounds. |
+| [Thunderbirds](units/thunderbirds.md) | Few | :silver: | :unit_flying: | 4 | 1 | 6 | 9 | 8 :gold: | - |
+| [Thunderbirds](units/thunderbirds.md) | Pack | :silver: | :unit_flying: | **5** | 1 | 6 | **11** | 14 :gold: | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](dice.md#attack-die), on a "+1", deal 1 :spell: :damage: to the target. |
+| [Cyclops](units/cyclops.md) | Few | :golden: | :unit_ranged: | 4 | 1 | 6 | 6 | 13 :gold: | :unit_other: This unit can destroy the Gate or a Wall. |
+| [Cyclops](units/cyclops.md) | Pack | :golden: | :unit_ranged: | **5** | 1 | **7** | **8** | 17 :gold:<br>1 :valuables: | :unit_other: This unit can destroy the Gate, a Wall, or the [Arrow Tower](units/arrow_tower.md). |
+| [Behemoths](units/behemoths.md) | Few | :golden: | :unit_ground: | 7 | 2 | 8 | 6 | 19 :gold:<br>1 :valuables: | :unit_attack: Decrease the target's :defense: by 1 (to a minimum of 0). |
+| [Behemoths](units/behemoths.md) | Pack | :golden: | :unit_ground: | **8** | 2 | **10** | **9** | 29 :gold:<br>2 :valuables: | :unit_attack: Decrease the target's :defense: by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. |
 
 
 ## Conflux
