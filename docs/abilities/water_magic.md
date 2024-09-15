@@ -4,7 +4,7 @@ Water Magic is an ability that comes with the [Tower Expansion](../content.md).
 
 | Effect | :expert: Effect |
 | :---: | :---: |
-| :permanent: +1 :empower: for spells from [School of Water Magic](../spells.md#water-magic). | While casting :spellpower: from the [School of Water](../spells.md#water-magic), you can discard this card, then gain +3 :empower:. |
+| :permanent: +1 :empower: for spells from [School of Water Magic](../spells/school_of_water_magic.md). | While casting :spellpower: from the [School of Water](../spells/school_of_water_magic.md), you can discard this card, then gain +3 :empower:. |
 
 
 ## See Also

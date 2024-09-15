@@ -7,7 +7,7 @@ Scorched Ground is an astrologers proclaim card that comes with the [Tower Expan
 
 ## Effect
 
-Until the next Astrologers round, all [:spellpower:](../spells.md) from the [Earth Magic](../spells.md#earth-magic) and [Fire Magic](../spells.md#fire-magic) Schools are cast at a +1 :empower:.
+Until the next Astrologers round, all [:spellpower:](../spells.md) from the [Earth Magic](../spells/school_of_earth_magic.md) and [Fire Magic](../spells/school_of_fire_magic.md) Schools are cast at a +1 :empower:.
 
 
 ## See Also
