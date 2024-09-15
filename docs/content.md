@@ -2,12 +2,12 @@
 
 | Name | Description |
 | :--- | :---: |
-| Core Game | Vanilla Game<br>[Castle Faction](factions.md#castle)<br>[Necropolis Faction](factions.md#necropolis)<br>[Dungeon Faction](factions.md#dungeon) |
-| Tower Expansion | [Tower Faction](factions.md#tower)<br>Stretch Goals |
-| Rampart Expansion | [Rampart Faction](factions.md#rampart)<br>[War Machines](war_machines.md) |
-| Fortress Expansion | [Fortress Faction](factions.md#fortress)<br>[Events](events.md) |
-| Inferno Expansion | [Inferno Faction](factions.md#inferno)<br>Empowered [Statistics](statistics.md) |
-| Stronghold Expansion | *Upcoming Expansion*<br>[Stronghold Faction](factions.md#stronghold)<br>[Underground Tiles](tiles.md#underground) |
-| Conflux Expansion | *Upcoming Expansion*<br>[Conflux Faction](factions.md#conflux)<br>Portals |
-| Cove Expansion | *Upcoming Expansion*<br>[Cove Faction](factions.md#cove)<br>[Water Tiles](tiles.md#water) |
+| Core Game | Vanilla Game<br>[Castle Faction](towns/castle.md)<br>[Necropolis Faction](towns/necropolis.md)<br>[Dungeon Faction](towns/dungeon.md) |
+| Tower Expansion | [Tower Faction](towns/tower.md)<br>Stretch Goals |
+| Rampart Expansion | [Rampart Faction](towns/rampart.md)<br>[War Machines](war_machines.md) |
+| Fortress Expansion | [Fortress Faction](towns/fortress.md)<br>[Events](events.md) |
+| Inferno Expansion | [Inferno Faction](towns/inferno.md)<br>Empowered [Statistics](statistics.md) |
+| Stronghold Expansion | *Upcoming Expansion*<br>[Stronghold Faction](towns/stronghold.md)<br>[Underground Tiles](tiles.md#underground) |
+| Conflux Expansion | *Upcoming Expansion*<br>[Conflux Faction](towns/conflux.md)<br>Portals |
+| Cove Expansion | *Upcoming Expansion*<br>[Cove Faction](towns/cove.md)<br>[Water Tiles](tiles.md#water) |
 | Battlefield Expansion | Hex Battlefield With Obstacles<br>Adventure<br>Positive Morale Cards<br>Negative Morale Cards |
