@@ -77,20 +77,20 @@ Tower units come from the [Tower Expansion](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Gremlins | Few | :bronze: | :unit_ground: | 2 | 0 | 2 | 4 | 0 :gold: | - |
-| Gremlins | Pack | :bronze: | :unit_ranged: | 2 | 0 | 2 | **5** | 2 :gold: | - |
-| Gargoyles | Few | :bronze: | :unit_flying: | 2 | 1 | 3 | 6 | 3 :gold: | :unit_passive: This unit ignores any :ongoing: [Spell](spells.md) effects. |
-| Gargoyles | Pack | :bronze: | :unit_flying: | **3** | 1 | 3 | **9** | 4 :gold: | :unit_passive: This unit ignores any :ongoing: [Spell](spells.md) effects. |
-| Iron Golems | Few | :bronze: | :unit_ground: | 3 | 1 | 3 | 4 | 4 :gold: | :unit_passive: This unit reduces any :damage: it takes from [spells](spells.md) by 1 - to a minimum of 0. |
-| Iron Golems | Pack | :bronze: | :unit_ground: | 3 | **2** | 3 | **5** | 7 :gold: | :unit_passive: This unit reduces any :damage: it takes from [spells](spells.md) by 2 - to a minimum of 0. |
-| Magi | Few | :silver: | :unit_ranged: | 3 | 0 | 4 | 5 | 6 :gold: | :unit_attack: Ignore combat penalties. |
-| Magi | Pack | :silver: | :unit_ranged: | **4** | **1** | 4 | 6 | 11 :gold: | :unit_attack: Ignore combat penalties. :activation: Add +1 :empower: to the first [spell](spells.md) you cast this round. |
-| Genies | Few | :silver: | :unit_flying: | 3 | 1 | 6 | 7 | 8 :gold: | :unit_other: Discard 3 cards from your deck and take a [:spellpower:](spells.md) discarded this way to your hand. |
-| Genies | Pack | :silver: | :unit_flying: | **4** | 1 | 6 | **8** | 12 :gold: | :unit_attack: Discard 3 cards from your deck and take a [:spellpower:](spells.md) discarded this way to your hand. |
-| Nagas | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 6 | 13 :gold: | :unit_attack: Ignore Retaliation Attacks. |
-| Nagas | Pack | :golden: | :unit_ground: | **6** | 2 | 7 | **8** | 18 :gold:<br>1 :valuables: | :unit_attack: Ignore Retaliation Attacks. |
-| Titans | Few | :golden: | :unit_ground: | 6 | 3 | 8 | 7 | 18 :gold:<br>1 :valuables: | :unit_passive: Ignore any :ongoing: effects on this unit. |
-| Titans | Pack | :golden: | :unit_ranged: | 6 | 3 | 8 | **11** | 32 :gold:<br>2 :valuables: | :unit_passive: Ignore any :ongoing: effects on this unit and combat penalties against adjacent units. |
+| [Gremlins](units/gremlins.md) | Few | :bronze: | :unit_ground: | 2 | 0 | 2 | 4 | 0 :gold: | - |
+| [Gremlins](units/gremlins.md) | Pack | :bronze: | :unit_ranged: | 2 | 0 | 2 | **5** | 2 :gold: | - |
+| [Gargoyles](units/gargoyles.md) | Few | :bronze: | :unit_flying: | 2 | 1 | 3 | 6 | 3 :gold: | :unit_passive: This unit ignores any :ongoing: [Spell](spells.md) effects. |
+| [Gargoyles](units/gargoyles.md) | Pack | :bronze: | :unit_flying: | **3** | 1 | 3 | **9** | 4 :gold: | :unit_passive: This unit ignores any :ongoing: [Spell](spells.md) effects. |
+| [Iron Golems](units/iron_golems.md) | Few | :bronze: | :unit_ground: | 3 | 1 | 3 | 4 | 4 :gold: | :unit_passive: This unit reduces any :damage: it takes from [spells](spells.md) by 1 - to a minimum of 0. |
+| [Iron Golems](units/iron_golems.md) | Pack | :bronze: | :unit_ground: | 3 | **2** | 3 | **5** | 7 :gold: | :unit_passive: This unit reduces any :damage: it takes from [spells](spells.md) by 2 - to a minimum of 0. |
+| [Magi](units/magi.md) | Few | :silver: | :unit_ranged: | 3 | 0 | 4 | 5 | 6 :gold: | :unit_attack: Ignore combat penalties. |
+| [Magi](units/magi.md) | Pack | :silver: | :unit_ranged: | **4** | **1** | 4 | 6 | 11 :gold: | :unit_attack: Ignore combat penalties. :activation: Add +1 :empower: to the first [spell](spells.md) you cast this round. |
+| [Genies](units/genies.md) | Few | :silver: | :unit_flying: | 3 | 1 | 6 | 7 | 8 :gold: | :unit_other: Discard 3 cards from your deck and take a [:spellpower:](spells.md) discarded this way to your hand. |
+| [Genies](units/genies.md) | Pack | :silver: | :unit_flying: | **4** | 1 | 6 | **8** | 12 :gold: | :unit_attack: Discard 3 cards from your deck and take a [:spellpower:](spells.md) discarded this way to your hand. |
+| [Nagas](units/nagas.md) | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 6 | 13 :gold: | :unit_attack: Ignore Retaliation Attacks. |
+| [Nagas](units/nagas.md) | Pack | :golden: | :unit_ground: | **6** | 2 | 7 | **8** | 18 :gold:<br>1 :valuables: | :unit_attack: Ignore Retaliation Attacks. |
+| [Titans](units/titans.md) | Few | :golden: | :unit_ground: | 6 | 3 | 8 | 7 | 18 :gold:<br>1 :valuables: | :unit_passive: Ignore any :ongoing: effects on this unit. |
+| [Titans](units/titans.md) | Pack | :golden: | :unit_ranged: | 6 | 3 | 8 | **11** | 32 :gold:<br>2 :valuables: | :unit_passive: Ignore any :ongoing: effects on this unit and combat penalties against adjacent units. |
 
 
 ## Rampart

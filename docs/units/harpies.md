@@ -1,6 +1,6 @@
 # Harpies
 
-Harpies are a :bronze: unit that belongs to [Dungeon](../towns/castle.md).
+Harpies are a :bronze: unit that belongs to [Dungeon](../towns/dungeon.md).
 
 
 | Statistics | Few | Pack | Neutral |

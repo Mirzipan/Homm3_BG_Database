@@ -22,6 +22,14 @@ Tower town comes with the [Tower Expansion](../content.md).
 
 ## Units
 
+- :bronze: [Gremlins](../units/gremlins.md)
+- :bronze: [Gargoyles](../units/gargoyles.md)
+- :bronze: [Iron Golems](../units/iron_golems.md)
+- :silver: [Magi](../units/magi.md)
+- :silver: [Genies](../units/genies.md)
+- :golden: [Nagas](../units/nagas.md)
+- :golden: [Titans](../units/titans.md)
+
 
 ## See Also
 
