@@ -1,7 +1,5 @@
 # Astrologers Proclaim
 
-You may also want to see [events](events.md).
-
 All of the cards start with a prefix of 'Astrologers proclaim week of the'. In the interest of readibility, this prefix has been removed from the names in the following table.
 
 | Name | Effect | Flavor Text | [Content](content.md) |
@@ -38,3 +36,8 @@ All of the cards start with a prefix of 'Astrologers proclaim week of the'. In t
 | [Unexpected Reinforcements](astrologers_proclaim/unexpected_reinforcements.md) | Each player can immediately search the [Neutral Units](units.md#neutral) deck and **Recruite** 1 chosen unit associated with their faction for free. Each player still needs to have the corresponding [dwelling](towns.md) built in their [town](towns.md). | "My Lord, my Lady! We're at your command!" | Tower |
 | [White Raven](astrologers_proclaim/white_raven.md) | Each player immediately rolls 1 [Resource die](dice.md#resource-die) and gains the rolled resources. | "Where do you go, fantastic dream bird?"<br>"Eeofol, Deyja, Place Between Planes... Still interested?" | Core |
 | [Wild Debauchery](astrologers_proclaim/wild_debauchery.md) | At the beginning of the next Resource round, all players gain 5 less :gold:. | Sit down, there's a party in the tavern today!<br>We are thirsty again!<br>La la la!<br>We drink for a week of Wild Debauchery<br>For seven days now!<br>La la la! | Core |
+
+
+## See Also
+
+- [List of Events](events.md)
