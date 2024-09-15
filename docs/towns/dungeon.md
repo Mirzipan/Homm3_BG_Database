@@ -27,6 +27,14 @@ Dungeon town comes with the [Core Game](../content.md).
 
 ## Units
 
+- :bronze: [Troglodytes](../units/troglodytes.md)
+- :bronze: [Harpies](../units/harpies.md)
+- :bronze: [Evil Eyes](../units/evil_eyes.md)
+- :silver: [Medusas](../units/medusas.md)
+- :silver: [Minotaurs](../units/minotaurs.md)
+- :golden: [Manticores](../units/manticores.md)
+- :golden: [Black Dragons](../units/black_dragons.md)
+
 
 ## See Also
 

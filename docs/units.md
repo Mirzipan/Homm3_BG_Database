@@ -55,20 +55,20 @@ Dungeon units come from the [Core Game](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Troglodytes | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
-| Troglodytes | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: This unit ignores :paralysis: effect. |
-| Harpies | Few | :bronze: | :unit_flying: | 2 | 0 | 3 | 6 | 3 :gold: | :unit_attack: After the enemy's Retaliation Attack, this unit can return to the space from which it moved to attack. |
-| Harpies | Pack | :bronze: | :unit_flying: | **3** | 0 | 3 | **9** | 5 :gold: | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. |
-| Evil Eyes | Few | :bronze: | :unit_ranged: | 3 | 0 | 3 | 5 | 4 :gold: | - |
-| Evil Eyes | Pack | :bronze: | :unit_ranged: | 3 | **1** | 3 | **7** | 6 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. |
-| Medusas | Few | :silver: | :unit_ranged: | 3 | 1 | 4 | 5 | 6 :gold: | :unit_passive: After the Retaliation Attack, roll an [Attack die](dice.md#attack-die), on a "0" the target is :paralysis:. |
-| Medusas | Pack | :silver: | :unit_ranged: | **4** | 1 | 4 | **6** | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. |
-| Minotaurs | Few | :silver: | :unit_ground: | 4 | 2 | 4 | 6 | 8 :gold: | :unit_attack: If you resolve a "-1" on the [Attack die](dice.md#attack-die), draw a card, |
-| Minotaurs | Pack | :silver: | :unit_ground: | **5** | 2 | 4 | **8** | 14 :gold: | :unit_attack: If you resolve a "-1" on the [Attack die](dice.md#attack-die), draw a card, |
-| Manticores | Few | :golden: | :unit_flying: | 5 | 1 | 6 | 7 | 10 :gold: | - |
-| Manticores | Pack | :golden: | :unit_flying: | 5 | 1 | 6 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: For this attack, ignore the :defense: value from the target unit's card. |
-| Black Dragons | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 11 | 19 :gold:<br>1 :valuables: | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](spells.md) by 2 to a minimum of 0. |
-| Black Dragons | Pack | :golden: | :unit_flying: | **8** | 3 | 8 | **15** | 33 :gold:<br>2 :valuables: | :unit_passive: Ignore any [:spellpower:](spells.md) effects and :damage: from [Specialty](heroes.md). |
+| [Troglodytes](units/troglodytes.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - |
+| [Troglodytes](units/troglodytes.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: This unit ignores :paralysis: effect. |
+| [Harpies](units/harpies.md) | Few | :bronze: | :unit_flying: | 2 | 0 | 3 | 6 | 3 :gold: | :unit_attack: After the enemy's Retaliation Attack, this unit can return to the space from which it moved to attack. |
+| [Harpies](units/harpies.md) | Pack | :bronze: | :unit_flying: | **3** | 0 | 3 | **9** | 5 :gold: | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. |
+| [Evil Eyes](units/evil_eyes.md) | Few | :bronze: | :unit_ranged: | 3 | 0 | 3 | 5 | 4 :gold: | - |
+| [Evil Eyes](units/evil_eyes.md) | Pack | :bronze: | :unit_ranged: | 3 | **1** | 3 | **7** | 6 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. |
+| [Medusas](units/medusas.md) | Few | :silver: | :unit_ranged: | 3 | 1 | 4 | 5 | 6 :gold: | :unit_passive: After the Retaliation Attack, roll an [Attack die](dice.md#attack-die), on a "0" the target is :paralysis:. |
+| [Medusas](units/medusas.md) | Pack | :silver: | :unit_ranged: | **4** | 1 | 4 | **6** | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. |
+| [Minotaurs](units/minotaurs.md) | Few | :silver: | :unit_ground: | 4 | 2 | 4 | 6 | 8 :gold: | :unit_attack: If you resolve a "-1" on the [Attack die](dice.md#attack-die), draw a card, |
+| [Minotaurs](units/minotaurs.md) | Pack | :silver: | :unit_ground: | **5** | 2 | 4 | **8** | 14 :gold: | :unit_attack: If you resolve a "-1" on the [Attack die](dice.md#attack-die), draw a card, |
+| [Manticores](units/manticores.md) | Few | :golden: | :unit_flying: | 5 | 1 | 6 | 7 | 10 :gold: | - |
+| [Manticores](units/manticores.md) | Pack | :golden: | :unit_flying: | 5 | 1 | 6 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: For this attack, ignore the :defense: value from the target unit's card. |
+| [Black Dragons](units/black_dragons.md) | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 11 | 19 :gold:<br>1 :valuables: | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](spells.md) by 2 to a minimum of 0. |
+| [Black Dragons](units/black_dragons.md) | Pack | :golden: | :unit_flying: | **8** | 3 | 8 | **15** | 33 :gold:<br>2 :valuables: | :unit_passive: Ignore any [:spellpower:](spells.md) effects and :damage: from [Specialty](heroes.md). |
 
 
 ## Tower
