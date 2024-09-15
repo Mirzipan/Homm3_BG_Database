@@ -1,6 +1,6 @@
 # Cystral Dragons
 
-Cystral Dragons is a :azure: neutral unit that comes with the [Core Game](../content.md).
+Cystral Dragons is a :azure: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
 
 
 | Statistics | Neutral |

@@ -1,6 +1,6 @@
 # Trolls
 
-Trolls is a :golden: neutral unit that comes with the [Core Game](../content.md).
+Trolls is a :golden: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
 
 
 | Statistics | Neutral |

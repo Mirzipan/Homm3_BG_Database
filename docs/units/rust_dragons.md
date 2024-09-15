@@ -1,6 +1,6 @@
 # Rust Dragons
 
-Rust Dragons is a :azure: neutral unit that comes with the [Fortress Expansion](../content.md).
+Rust Dragons is a :azure: [neutral](../towns/neutral.md) unit that comes with the [Fortress Expansion](../content.md).
 
 
 | Statistics | Neutral |

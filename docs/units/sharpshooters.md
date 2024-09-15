@@ -1,6 +1,6 @@
 # Sharpshooters
 
-Sharpshooters is a :silver: neutral unit that comes with the [Core Game](../content.md).
+Sharpshooters is a :silver: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
 
 
 | Statistics | Neutral |

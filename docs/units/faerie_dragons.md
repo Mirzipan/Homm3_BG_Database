@@ -1,6 +1,6 @@
 # Faerie Dragons
 
-Faerie Dragons is a :azure: neutral unit that comes with the [Rampart Expansion](../content.md).
+Faerie Dragons is a :azure: [neutral](../towns/neutral.md) unit that comes with the [Rampart Expansion](../content.md).
 
 
 | Statistics | Neutral |

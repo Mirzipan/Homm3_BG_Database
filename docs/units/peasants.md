@@ -1,6 +1,6 @@
 # Peasants
 
-Peasants is a :bronze: neutral unit that comes with the [Core Game](../content.md).
+Peasants is a :bronze: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
 
 
 | Statistics | Neutral |

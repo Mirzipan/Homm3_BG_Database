@@ -1,6 +1,6 @@
 # Nomads
 
-Nomads is a :silver: neutral unit that comes with the [Core Game](../content.md).
+Nomads is a :silver: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
 
 
 | Statistics | Neutral |

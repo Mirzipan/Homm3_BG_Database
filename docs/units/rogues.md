@@ -1,6 +1,6 @@
 # Rogues
 
-Rogues is a :bronze: neutral unit that comes with the [Core Game](../content.md).
+Rogues is a :bronze: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
 
 
 | Statistics | Neutral |
