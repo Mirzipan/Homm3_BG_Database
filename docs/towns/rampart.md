@@ -22,6 +22,14 @@ Rampart town comes with the [Rampart Expansion](../content.md).
 
 ## Units
 
+- :bronze: [Centaurs](../units/centaurs.md)
+- :bronze: [Dwarves](../units/dwarves.md)
+- :bronze: [Elves](../units/elves.md)
+- :silver: [Pegasi](../units/pegasi.md)
+- :silver: [Dendroids](../units/dendroids.md)
+- :golden: [Unicorns](../units/unicorns.md)
+- :golden: [Gold Dragons](../units/gold_dragons.md)
+
 
 ## See Also
 

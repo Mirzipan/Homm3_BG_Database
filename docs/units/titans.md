@@ -1,7 +1,7 @@
 # Titans
 
 Titans are a :golden: unit that belongs to [Tower](../towns/tower.md).
-Their neutral version is an :azure: unit.
+Their neutral version is an :azure: unit that comes with the [Tower Expansion](../content.md).
 
 
 | Statistics | Few | Pack | Neutral |

@@ -99,20 +99,20 @@ Rampart units come from the [Rampart Expansion](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Centaurs | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 6 | 2 :gold: | - |
-| Centaurs | Pack | :bronze: | :unit_ground: | **3** | 0 | 3 | **8** | 3 :gold: | - |
-| Dwarves | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: If this unit is targeted by any [Spell](spells.md) or [Specialty](heroes.md) card, roll 1 [Attack die](dice.md#attack-die). On a "+1" result, ignore the card's effect. |
-| Dwarves | Pack | :bronze: | :unit_ground: | **3** | 1 | 3 | **5** | 4 :gold: | :unit_passive: If this unit is targeted by any [Spell](spells.md) or [Specialty](heroes.md) card, roll 1 [Attack die](dice.md#attack-die). On a "+1" result, ignore the card's effect. |
-| Elves | Few | :bronze: | :unit_ranged: | 2 | 1 | 3 | 6 | 4 :gold: | - |
-| Elves | Pack | :bronze: | :unit_ranged: | **3** | 1 | 3 | **7** | 7 :gold: | :unit_attack: If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. |
-| Pegasi | Few | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 6 :gold: | - |
-| Pegasi | Pack | :silver: | :unit_flying: | **4** | 0 | **6** | **12** | 10 :gold: | :unit_passive: The :empower: of all enemy [spells](spells.md) is reduced by 1 (to a minimum of 0). |
-| Dendroids | Few | :silver: | :unit_ground: | 4 | 2 | 5 | 3 | 8 :gold: | - |
-| Dendroids | Pack | :silver: | :unit_ground: | 4 | 2 | **6** | **4** | 15 :gold: | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. |
-| Unicorns | Few | :golden: | :unit_ground: | 5 | 1 | 8 | 7 | 11 :gold: | :unit_passive: Reduce any :damage: from [:spellpower:](spells.md) dealt to this unit by 1 (to a minimum of 0), |
-| Unicorns | Pack | :golden: | :unit_ground: | **6** | 1 | 8 | **9** | 18 :gold:<br>1 :valuables: | :unit_passive: Reduce any :damage: from [:spellpower:](spells.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), |
-| Gold Dragons | Few | :golden: | :unit_ground: | 5 | 3 | 9 | 10 | 22 :gold:<br>1 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, |
-| Gold Dragons | Pack | :golden: | :unit_ground: | **6** | 3 | **10** | **16** | 30 :gold:<br>2 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |
+| [Centaurs](units/centaurs.md) | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 6 | 2 :gold: | - |
+| [Centaurs](units/centaurs.md) | Pack | :bronze: | :unit_ground: | **3** | 0 | 3 | **8** | 3 :gold: | - |
+| [Dwarves](units/dwarves.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: If this unit is targeted by any [Spell](spells.md) or [Specialty](heroes.md) card, roll 1 [Attack die](dice.md#attack-die). On a "+1" result, ignore the card's effect. |
+| [Dwarves](units/dwarves.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 3 | **5** | 4 :gold: | :unit_passive: If this unit is targeted by any [Spell](spells.md) or [Specialty](heroes.md) card, roll 1 [Attack die](dice.md#attack-die). On a "+1" result, ignore the card's effect. |
+| [Elves](units/elves.md) | Few | :bronze: | :unit_ranged: | 2 | 1 | 3 | 6 | 4 :gold: | - |
+| [Elves](units/elves.md) | Pack | :bronze: | :unit_ranged: | **3** | 1 | 3 | **7** | 7 :gold: | :unit_attack: If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. |
+| [Pegasi](units/pegasi.md) | Few | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 6 :gold: | - |
+| [Pegasi](units/pegasi.md) | Pack | :silver: | :unit_flying: | **4** | 0 | **6** | **12** | 10 :gold: | :unit_passive: The :empower: of all enemy [spells](spells.md) is reduced by 1 (to a minimum of 0). |
+| [Dendroids](units/dendroids.md) | Few | :silver: | :unit_ground: | 4 | 2 | 5 | 3 | 8 :gold: | - |
+| [Dendroids](units/dendroids.md) | Pack | :silver: | :unit_ground: | 4 | 2 | **6** | **4** | 15 :gold: | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. |
+| [Unicorns](units/unicorns.md) | Few | :golden: | :unit_ground: | 5 | 1 | 8 | 7 | 11 :gold: | :unit_passive: Reduce any :damage: from [:spellpower:](spells.md) dealt to this unit by 1 (to a minimum of 0), |
+| [Unicorns](units/unicorns.md) | Pack | :golden: | :unit_ground: | **6** | 1 | 8 | **9** | 18 :gold:<br>1 :valuables: | :unit_passive: Reduce any :damage: from [:spellpower:](spells.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), |
+| [Gold Dragons](units/gold_dragons.md) | Few | :golden: | :unit_ground: | 5 | 3 | 9 | 10 | 22 :gold:<br>1 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, |
+| [Gold Dragons](units/gold_dragons.md) | Pack | :golden: | :unit_ground: | **6** | 3 | **10** | **16** | 30 :gold:<br>2 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |
 
 
 ## Fortress
