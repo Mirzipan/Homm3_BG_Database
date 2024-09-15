@@ -1,11 +1,11 @@
 # Magic Arrow
 
-Magic Arrow is a basic spell that belongs to all schools of magic, and comes with the [Core Game](../content.md), [Rampart Expansion](../content.md), [Fortress Expansion](../content.md), and [Inferno Expansion](../content.md).
+Magic Arrow is a basic spell that belongs to every school of magic and comes with the [Core Game](../content.md), [Rampart Expansion](../content.md), [Fortress Expansion](../content.md), and [Inferno Expansion](../content.md).
 
 
 ## Effect
 
-:activation: The selected [unit](units.md) suffers:<br><br>:empower: 0 - 1 :damage:<br>:empower: 1 - 2 :damage:<br>:empower: 2 - 3 :damage:
+:activation: The selected [unit](../units.md) suffers:<br><br>:empower: 0 - 1 :damage:<br>:empower: 1 - 2 :damage:<br>:empower: 2 - 3 :damage:
 
 
 ## Notes
@@ -17,3 +17,7 @@ Magic Arrow is a basic spell that belongs to all schools of magic, and comes wit
 ## See Also
 
 - [List of Spells](../spells.md)
+- [School of Air Magic](school_of_air_magic.md)
+- [School of Earth Magic](school_of_earth_magic.md)
+- [School of Fire Magic](school_of_fire_magic.md)
+- [School of Water Magic](school_of_water_magic.md)
