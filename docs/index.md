@@ -10,9 +10,8 @@ Every now and then I want to see what some cards do, either while theorycrafting
 
 ## :defense: Future Plans?
 
-* Information about origins of content - some people may not have all of the expansions and it would be nice for them to know what I have or lack.
-* Rewrite card text to improve consistency and clarify issues - I value the clarity and consistency over preserving the original card text, so I will be incorporating answers and explanations by the BGG community and game designers.
-* Including pictures for quick visual reference
+* Have a separate page for each card
+* Include pictures for quick visual reference
 
 
 ## :empower: Disclaimer
