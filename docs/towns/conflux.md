@@ -22,6 +22,14 @@ Conflux town comes with the [Conflux Expansion](../content.md).
 
 ## Units
 
+- :bronze: [Sprites](../units/sprites.md)
+- :bronze: [Storm Elementals](../units/storm_elementals.md)
+- :bronze: [Ice Elementals](../units/ice_elementals.md)
+- :silver: [Energy Elementals](../units/energy_elementals.md)
+- :silver: [Magma Elementals](../units/magma_elementals.md)
+- :golden: [Magic Elementals](../units/magic_elementals.md)
+- :golden: [Phoenixes](../units/phoenixes.md)
+
 
 ## See Also
 

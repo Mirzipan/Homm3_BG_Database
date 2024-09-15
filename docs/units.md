@@ -187,20 +187,20 @@ Inferno units come from the [Inferno Expansion](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Sprites | Few | :bronze: | :unit_flying: | 2 | 0 | 2 | 7 | 2 :gold: | - |
-| Sprites | Pack | :bronze: | :unit_flying: | 2 | 0 | **4** | **9** | 4 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. |
-| Storm Elementals  | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 7 | 3 :gold: | - |
-| Storm Elementals  | Pack | :bronze: | :unit_ranged: | 2 | 0 | **5** | **8** | 5 :gold: | :activation: Add +1 :empower: to the first Air Magic spell you cast during this Activation. |
-| Ice Elementals  | Few | :bronze: | :unit_ground: | 2 | 1 | 4 | 5 | 4 :gold: | - |
-| Ice Elementals  | Pack | :bronze: | :unit_ranged: | **3** | 1 | **5** | **6** | 7 :gold: | :activation: Add +1 :empower: to the first Water Magic spell you cast during this Activation. |
-| Energy Elementals | Few | :silver: | :unit_flying: | 3 | 1 | 5 | 5 | 5 :gold: | - |
-| Energy Elementals | Pack | :silver: | :unit_flying: | **4** | 1 | **6** | **8** | 8 :gold: | :activation: Add +1 :empower: to the first Fire Magic spell you cast during this Activation. |
-| Magma Elementals | Few | :silver: | :unit_ground: | 4 | 2 | 6 | 4 | 9 :gold: | - |
-| Magma Elementals | Pack | :silver: | :unit_ground: | **5** | 2 | **6** | **6** | 13 :gold: | :activation: Add +1 :empower: to the first Earth Magic spell you cast during this Activation. |
-| Magic Elementals | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 7 | 12 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. |
-| Magic Elementals | Pack | :golden: | :unit_ground: | **6** | 2 | **8** | **9** | 18 :gold:<br>1 :valuables: | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. :unit_passive: Ignore any :spell: effects and :damage: from Specialty. |
-| Phoenixes | Few | :golden: | :unit_flying: | 6 | 2 | 7 | 12 | 21 :gold:<br>1 :valuables: | :unit_passive: Once per Combat. When this unit's :health: drops to 0, set it to 1 instead. :unit_passive: Immune to Fire Magic :spell:. |
-| Phoenixes | Pack | :golden: | :unit_flying: | **7** | 2 | **9** | **18** | 27 :gold:<br>2 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. :unit_passive: Immune to Fire Magic :spell:. |
+| [Sprites](units/sprites.md) | Few | :bronze: | :unit_flying: | 2 | 0 | 2 | 7 | 2 :gold: | - |
+| [Sprites](units/sprites.md) | Pack | :bronze: | :unit_flying: | 2 | 0 | **4** | **9** | 4 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. |
+| [Storm Elementals](units/storm_elementals.md)  | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 7 | 3 :gold: | - |
+| [Storm Elementals](units/storm_elementals.md)  | Pack | :bronze: | :unit_ranged: | 2 | 0 | **5** | **8** | 5 :gold: | :activation: Add +1 :empower: to the first [Air Magic](spells/school_of_air_magic.md) spell you cast during this Activation. |
+| [Ice Elementals](units/ice_elementals.md)  | Few | :bronze: | :unit_ground: | 2 | 1 | 4 | 5 | 4 :gold: | - |
+| [Ice Elementals](units/ice_elementals.md)  | Pack | :bronze: | :unit_ranged: | **3** | 1 | **5** | **6** | 7 :gold: | :activation: Add +1 :empower: to the first [Water Magic](spells/school_of_water_magic.md) spell you cast during this Activation. |
+| [Energy Elementals](units/energy_elementals.md) | Few | :silver: | :unit_flying: | 3 | 1 | 5 | 5 | 5 :gold: | - |
+| [Energy Elementals](units/energy_elementals.md) | Pack | :silver: | :unit_flying: | **4** | 1 | **6** | **8** | 8 :gold: | :activation: Add +1 :empower: to the first [Fire Magic](spells/school_of_fire_magic.md) spell you cast during this Activation. |
+| [Magma Elementals](units/magma_elementals.md) | Few | :silver: | :unit_ground: | 4 | 2 | 6 | 4 | 9 :gold: | - |
+| [Magma Elementals](units/magma_elementals.md) | Pack | :silver: | :unit_ground: | **5** | 2 | **6** | **6** | 13 :gold: | :activation: Add +1 :empower: to the first [Earth Magic](spells/school_of_earth_magic.md) spell you cast during this Activation. |
+| [Magic Elementals](units/magic_elementals.md) | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 7 | 12 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. |
+| [Magic Elementals](units/magic_elementals.md) | Pack | :golden: | :unit_ground: | **6** | 2 | **8** | **9** | 18 :gold:<br>1 :valuables: | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. :unit_passive: Ignore any [:spell:](spells.md) effects and :damage: from Specialty. |
+| [Phoenixes](units/phoenixes.md) | Few | :golden: | :unit_flying: | 6 | 2 | 7 | 12 | 21 :gold:<br>1 :valuables: | :unit_passive: Once per Combat. When this unit's :health: drops to 0, set it to 1 instead. :unit_passive: Immune to [Fire Magic](spells/school_of_fire_magic.md) :spell:. |
+| [Phoenixes](units/phoenixes.md) | Pack | :golden: | :unit_flying: | **7** | 2 | **9** | **18** | 27 :gold:<br>2 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. :unit_passive: Immune to [Fire Magic](spells/school_of_fire_magic.md) :spell:. |
 
 
 ## Cove
