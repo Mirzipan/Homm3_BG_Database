@@ -121,20 +121,20 @@ Fortress units come from the [Fortress Expansion](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Gnolls | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 4 | 2 :gold: | - |
-| Gnolls | Pack | :bronze: | :unit_ground: | 2 | 1 | **4** | **5** | 3 :gold: | - |
-| Lizardmen | Few | :bronze: | :unit_ranged: | 2 | 0 | 3 | 4 | 3 :gold: | - |
-| Lizardmen | Pack | :bronze: | :unit_ranged: | **3** | 0 | 3 | **5** | 5 :gold: | - |
-| Dragon Flies | Few | :bronze: | :unit_flying: | 3 | 0 | 3 | 8 | 4 :gold: | :unit_attack: Remove all :ongoing: effects played on the target by the enemy player. |
-| Dragon Flies | Pack | :bronze: | :unit_flying: | 3 | **1** | 3 | **12** | 7 :gold: | :unit_attack: Remove all :ongoing: effects played on the target by the enemy player. If the target retaliates, it suffers - 1 :attack:. |
-| Basilisks | Few | :silver: | :unit_ground: | 4 | 1 | 4 | 5 | 6 :gold: | :unit_attack: On "-1" outcomes on the [Attack die](dice.md#attack-die), the attacked unit gains a :paralysis: token. |
-| Basilisks | Pack | :silver: | :unit_ground: | 4 | 1 | **5** | **7** | 9 :gold: | :unit_attack: On "-1" outcomes on the [Attack die](dice.md#attack-die), the attacked unit gains a :paralysis: token. |
-| Gorgons | Few | :silver: | :unit_ground: | 4 | 2 | 5 | 5 | 9 :gold: | - |
-| Gorgons | Pack | :silver: | :unit_ground: | **5** | 2 | 5 | **6** | 14 :gold: | :unit_attack: After the attack, roll 2 [Attack dice](dice.md#attack-die); on a double "0", decrease the target unit's :health_points: to 0. |
-| Wyverns | Few | :golden: | :unit_flying: | 5 | 1 | 8 | 7 | 12 :gold: | :unit_attack: Place 1 faction cube on the target. At the beginning of its every activation, remove it to inflict 1 :damage:. |
-| Wyverns | Pack | :golden: | :unit_flying: | **6** | 1 | 8 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:, |
-| Hydras | Few | :golden: | :unit_ground: | 6 | 3 | 8 | 5 | 20 :gold:<br>1 :valuables: | :unit_attack: Ignore the Retaliation Attack. |
-| Hydras | Pack | :golden: | :unit_ground: | **7** | 3 | **10** | **7** | 28 :gold:<br>2 :valuables: | :unit_attack: Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. |
+| [Gnolls](units/gnolls.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 4 | 2 :gold: | - |
+| [Gnolls](units/gnolls.md) | Pack | :bronze: | :unit_ground: | 2 | 1 | **4** | **5** | 3 :gold: | - |
+| [Lizardmen](units/lizardmen.md) | Few | :bronze: | :unit_ranged: | 2 | 0 | 3 | 4 | 3 :gold: | - |
+| [Lizardmen](units/lizardmen.md) | Pack | :bronze: | :unit_ranged: | **3** | 0 | 3 | **5** | 5 :gold: | - |
+| [Dragon Flies](units/dragon_flies.md) | Few | :bronze: | :unit_flying: | 3 | 0 | 3 | 8 | 4 :gold: | :unit_attack: Remove all :ongoing: effects played on the target by the enemy player. |
+| [Dragon Flies](units/dragon_flies.md) | Pack | :bronze: | :unit_flying: | 3 | **1** | 3 | **12** | 7 :gold: | :unit_attack: Remove all :ongoing: effects played on the target by the enemy player. If the target retaliates, it suffers - 1 :attack:. |
+| [Basilisks](units/basilisks.md) | Few | :silver: | :unit_ground: | 4 | 1 | 4 | 5 | 6 :gold: | :unit_attack: On "-1" outcomes on the [Attack die](dice.md#attack-die), the attacked unit gains a :paralysis: token. |
+| [Basilisks](units/basilisks.md) | Pack | :silver: | :unit_ground: | 4 | 1 | **5** | **7** | 9 :gold: | :unit_attack: On "-1" outcomes on the [Attack die](dice.md#attack-die), the attacked unit gains a :paralysis: token. |
+| [Gorgons](units/gorgons.md) | Few | :silver: | :unit_ground: | 4 | 2 | 5 | 5 | 9 :gold: | - |
+| [Gorgons](units/gorgons.md) | Pack | :silver: | :unit_ground: | **5** | 2 | 5 | **6** | 14 :gold: | :unit_attack: After the attack, roll 2 [Attack dice](dice.md#attack-die); on a double "0", decrease the target unit's :health_points: to 0. |
+| [Wyverns](units/wyverns.md) | Few | :golden: | :unit_flying: | 5 | 1 | 8 | 7 | 12 :gold: | :unit_attack: Place 1 faction cube on the target. At the beginning of its every activation, remove it to inflict 1 :damage:. |
+| [Wyverns](units/wyverns.md) | Pack | :golden: | :unit_flying: | **6** | 1 | 8 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:. |
+| [Hydras](units/hydras.md) | Few | :golden: | :unit_ground: | 6 | 3 | 8 | 5 | 20 :gold:<br>1 :valuables: | :unit_attack: Ignore the Retaliation Attack. |
+| [Hydras](units/hydras.md) | Pack | :golden: | :unit_ground: | **7** | 3 | **10** | **7** | 28 :gold:<br>2 :valuables: | :unit_attack: Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. |
 
 
 ## Inferno

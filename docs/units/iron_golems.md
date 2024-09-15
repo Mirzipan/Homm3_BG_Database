@@ -13,7 +13,7 @@ Their neutral version comes with the [Tower Expansion](../content.md).
 | :health_points: | 3 | 3 | 4 |
 | :initiative: | 4 | **5** | 3 |
 | Cost | 4 :gold: | 7 :gold: | 6 :gold: |
-| Abilities | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells.md) by 1 - to a minimum of 0. | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells.md) by 2 - to a minimum of 0. | :unit_passive: Reduce any :damage: from [spells](spells.md) by 2 - to a minimum of 0. |
+| Abilities | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells.md) by 1 - to a minimum of 0. | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells.md) by 2 - to a minimum of 0. | :unit_passive: Reduce any :damage: from [spells](../spells.md) by 2 - to a minimum of 0. |
 
 
 ## See Also

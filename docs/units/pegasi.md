@@ -13,7 +13,7 @@ Their neutral version comes with the [Tower Expansion](../content.md).
 | :health_points: | 5 | **6** | 5 |
 | :initiative: | 8 | **12** | 8 |
 | Cost | 6 :gold: | 10 :gold: | 14 :gold: |
-| Abilities | - | :unit_passive: The :empower: of all enemy [spells](../spells.md) is reduced by 1 (to a minimum of 0). | :unit_passive: Whenever an enemy casts a [:spellpower:](spells.md), they much discard an additional card woth :empower:. |
+| Abilities | - | :unit_passive: The :empower: of all enemy [spells](../spells.md) is reduced by 1 (to a minimum of 0). | :unit_passive: Whenever an enemy casts a [:spellpower:](../spells.md), they much discard an additional card woth :empower:. |
 
 
 ## See Also

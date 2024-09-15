@@ -22,6 +22,14 @@ Fortress town comes with the [Fortress Expansion](../content.md).
 
 ## Units
 
+- :bronze: [Gnolls](../units/gnolls.md)
+- :bronze: [Lizardmen](../units/lizardmen.md)
+- :bronze: [Dragon Flies](../units/dragon_flies.md)
+- :silver: [Basilisks](../units/basilisks.md)
+- :silver: [Gorgons](../units/gorgons.md)
+- :golden: [Wyverns](../units/wyverns.md)
+- :golden: [Hydras](../units/hydras.md
+
 
 ## See Also
 
