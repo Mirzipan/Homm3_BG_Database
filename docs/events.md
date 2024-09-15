@@ -1,4 +1,4 @@
-# Events
+# List of Events
 
 
 | Name | Effect | [Content](content.md) |
