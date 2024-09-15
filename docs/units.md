@@ -148,15 +148,15 @@ Inferno units come from the [Inferno Expansion](content.md).
 | [Magogs](units/magogs.md) | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 3 :gold: | - |
 | [Magogs](units/magogs.md) | Pack | :bronze: | :unit_ranged: | 2 | 0 | **3** | **6** | 5 :gold: | :unit_attack: When [Magogs](units/magogs.md) attack a target that is not adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. |
 | [Cerberi](units/cerberi.md) | Few | :bronze: | :unit_ground: | 3 | 0 | 4 | 7 | 4 :gold: | - |
-| [Cerberi](units/cerberi.md) | Pack | :bronze: | :unit_ground: | 3 | **1** | **5** | **8** | 7 :gold: | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to [Cerberi](units/cerberi.md). |
+| [Cerberi](units/cerberi.md) | Pack | :bronze: | :unit_ground: | 3 | **1** | **5** | **8** | 7 :gold: | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. |
 | [Demons](units/demons.md) | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 6 :gold: | - |
 | [Demons](units/demons.md) | Pack | :silver: | :unit_ground: | 3 | 2 | **5** | **6** | 8 :gold: | - |
 | [Pit Lords](units/pit_lords.md) | Few | :silver: | :unit_ground: | 4 | 1 | 6 | 6 | 8 :gold: | - |
-| [Pit Lords](units/pit_lords.md) | Pack | :silver: | :unit_ground: | **5** | 1 | 6 | **7** | 15 :gold: | :unit_other: If one of your units has been removed from the board during this Combat, Summon or Reinforce Demons. |
+| [Pit Lords](units/pit_lords.md) | Pack | :silver: | :unit_ground: | **5** | 1 | 6 | **7** | 15 :gold: | :unit_other: If one of your units has been removed from the board during this Combat, Summon or Reinforce [Demons](units/demons.md. |
 | [Efreet](units/efreet.md) | Few | :golden: | :unit_flying: | 5 | 1 | 7 | 9 | 12 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells/magic_arrow.md). |
 | [Efreet](units/efreet.md) | Pack | :golden: | :unit_flying: | **6** | 1 | 7 | **13** | 18 :gold:<br>1 :valuables: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells/magic_arrow.md) or [spells](spells.md) from the [Fire School of Magic](spells/school_of_fire_magic.md). |
 | [Arch Devils](units/arch_devils.md) | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 11 | 22 :gold:<br>1 :valuables: | :unit_attack: Ignores Retaliation Attacks. |
-| [Arch Devils](units/arch_devils.md) | Pack | :golden: | :unit_flying: | **7** | 3 | **9** | **15** | 30 :gold:<br>2 :valuables: | :unit_attack: Ignores Retaliation Attacks.<br>:unit_passive: As a regular movement, the [Arch Devils](units/arch_devils.md) can move to any empty space. |
+| [Arch Devils](units/arch_devils.md) | Pack | :golden: | :unit_flying: | **7** | 3 | **9** | **15** | 30 :gold:<br>2 :valuables: | :unit_attack: Ignores Retaliation Attacks.<br>:unit_passive: As a regular movement, the Arch Devils can move to any empty space. |
 
 
 ## Stronghold
@@ -209,20 +209,20 @@ Inferno units come from the [Inferno Expansion](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Oceanids | Few | :bronze: | :unit_flying: | 2 | 0 | 3 | 6 | 2 :gold: | - |
-| Oceanids | Pack | :bronze: | :unit_flying: | 2 | 0 | **4** | **8** | 3 :gold: | :unit_passive: Ignore any effect from spells from the School of Water Magic. |
-| Seamen | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 5 | 3 :gold: | - |
-| Seamen | Pack | :bronze: | :unit_ground: | 2 | 1 | **5** | **6** | 5 :gold: | :effect_map: +1 :movement: if you start the round on a Sea tile. |
-| Sea Dogs | Few | :bronze: | :unit_ranged: | 2 | 0 | 4 | 6 | 4 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. |
-| Sea Dogs | Pack | :bronze: | :unit_ranged: | 3 | 0 | **5** | **8** | 6 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack.<br>:unit_passive: Ignore the combat penalty against adjacent units. |
-| Ayssids | Few | :silver: | :unit_flying: | 3 | 1 | 5 | 9 | 6 :gold: | - |
-| Ayssids | Pack | :silver: | :unit_flying: | 3 | 1 | **6** | **11** | 10 :gold: | :unit_attack: If the attack reduces the target to 0 :health:, the Ayssids can attack another unit adjacent to them. |
-| Sorceresses | Few | :silver: | :unit_ranged: | 4 | 1 | 5 | 6 | 8 :gold: | :unit_other: Place a Weakness token on any unit for 2 Combat rounds. |
-| Sorceresses | Pack | :silver: | :unit_ranged: | **5** | 1 | **6** | 6 | 13 :gold: | :unit_attack: After the attack, place a Weakness token on the target for 2 Combat rounds. |
-| Nix | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 6 | 12 :gold: | - |
-| Nix | Pack | :golden: | :unit_ground: | **6** | 2 | **8** | **7** | 20 :gold:<br>1 :valuables: | :unit_passive: This unit cannot take more than 4 :damage: from a single attack. |
-| Haspids | Few | :golden: | :unit_ground: | 5 | 3 | 7 | 9 | 18 :gold:<br>1 :valuables: | :unit_attack: If this unit turns from Pack side in this combat, gain +2 :attack: |
-| Haspids | Pack | :golden: | :unit_ground: | **6** | 3 | **9** | **12** | 32 :gold:<br>2 :valuables: | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:. |
+| [Oceanids](units/oceanids.md) | Few | :bronze: | :unit_flying: | 2 | 0 | 3 | 6 | 2 :gold: | - |
+| [Oceanids](units/oceanids.md) | Pack | :bronze: | :unit_flying: | 2 | 0 | **4** | **8** | 3 :gold: | :unit_passive: Ignore any effect from spells from the [School of Water Magic](spells/school_of_water_magic.md. |
+| [Seamen](units/seamen.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 5 | 3 :gold: | - |
+| [Seamen](units/seamen.md) | Pack | :bronze: | :unit_ground: | 2 | 1 | **5** | **6** | 5 :gold: | :effect_map: +1 :movement: if you start the round on a Sea tile. |
+| [Sea Dogs](units/sea_dogs.md) | Few | :bronze: | :unit_ranged: | 2 | 0 | 4 | 6 | 4 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. |
+| [Sea Dogs](units/sea_dogs.md) | Pack | :bronze: | :unit_ranged: | 3 | 0 | **5** | **8** | 6 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack.<br>:unit_passive: Ignore the combat penalty against adjacent units. |
+| [Ayssids](units/ayssids.md) | Few | :silver: | :unit_flying: | 3 | 1 | 5 | 9 | 6 :gold: | - |
+| [Ayssids](units/ayssids.md) | Pack | :silver: | :unit_flying: | 3 | 1 | **6** | **11** | 10 :gold: | :unit_attack: If the attack reduces the target to 0 :health:, the [Ayssids](units/ayssids.md) can attack another unit adjacent to them. |
+| [Sorceresses](units/sorceresses.md) | Few | :silver: | :unit_ranged: | 4 | 1 | 5 | 6 | 8 :gold: | :unit_other: Place a Weakness token on any unit for 2 Combat rounds. |
+| [Sorceresses](units/sorceresses.md) | Pack | :silver: | :unit_ranged: | **5** | 1 | **6** | 6 | 13 :gold: | :unit_attack: After the attack, place a Weakness token on the target for 2 Combat rounds. |
+| [Nix](units/nix.md) | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 6 | 12 :gold: | - |
+| [Nix](units/nix.md) | Pack | :golden: | :unit_ground: | **6** | 2 | **8** | **7** | 20 :gold:<br>1 :valuables: | :unit_passive: This unit cannot take more than 4 :damage: from a single attack. |
+| [Haspids](units/haspids.md) | Few | :golden: | :unit_ground: | 5 | 3 | 7 | 9 | 18 :gold:<br>1 :valuables: | :unit_attack: If this unit turns from Pack side in this combat, gain +2 :attack: |
+| [Haspids](units/haspids.md) | Pack | :golden: | :unit_ground: | **6** | 3 | **9** | **12** | 32 :gold:<br>2 :valuables: | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:. |
 
 
 ## Neutral

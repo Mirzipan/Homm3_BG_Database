@@ -22,6 +22,14 @@ Cove town comes with the [Cove Expansion](../content.md).
 
 ## Units
 
+- :bronze: [Oceanids](../units/oceanids.md)
+- :bronze: [Seamen](../units/seamen.md)
+- :bronze: [Sea Dogs](../units/sea_dogs.md)
+- :silver: [Ayssids](../units/ayssids.md)
+- :silver: [Sorceresses](../units/sorceresses.md)
+- :golden: [Nix](../units/nix.md)
+- :golden: [Haspids](../units/haspids.md)
+
 
 ## See Also
 
