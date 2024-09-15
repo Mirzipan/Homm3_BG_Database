@@ -153,8 +153,8 @@ Inferno units come from the [Inferno Expansion](content.md).
 | Demons | Pack | :silver: | :unit_ground: | 3 | 2 | **5** | **6** | 8 :gold: | - |
 | Pit Lords | Few | :silver: | :unit_ground: | 4 | 1 | 6 | 6 | 8 :gold: | - |
 | Pit Lords | Pack | :silver: | :unit_ground: | **5** | 1 | 6 | **7** | 15 :gold: | :unit_other: If one of your units has been removed from the board during this Combat, Summon or Reinforce Demons. |
-| Efreet | Few | :golden: | :unit_flying: | 5 | 1 | 7 | 9 | 12 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells.md). |
-| Efreet | Pack | :golden: | :unit_flying: | **6** | 1 | 7 | **13** | 18 :gold:<br>1 :valuables: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells.md) or [spells](spells.md) from the [Fire School of Magic](spells.md#fire-magic). |
+| Efreet | Few | :golden: | :unit_flying: | 5 | 1 | 7 | 9 | 12 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells/magic_arrow.md). |
+| Efreet | Pack | :golden: | :unit_flying: | **6** | 1 | 7 | **13** | 18 :gold:<br>1 :valuables: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells/magic_arrow.md) or [spells](spells.md) from the [Fire School of Magic](spells/school_of_fire_magic.md). |
 | Arch Devils | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 11 | 22 :gold:<br>1 :valuables: | :unit_attack: Ignores Retaliation Attacks. |
 | Arch Devils | Pack | :golden: | :unit_flying: | **7** | 3 | **9** | **15** | 30 :gold:<br>2 :valuables: | :unit_attack: Ignores Retaliation Attacks.<br>:unit_passive: As a regular movement, the Arch Devils can move to any empty space. |
 
@@ -277,7 +277,7 @@ Inferno units come from the [Inferno Expansion](content.md).
 | [Champions](units/champions.md) | :golden: | :unit_ground: | 4 | 2 | 6 | 8 | 18 :gold: | :unit_attack: Roll 2 [Attack dice](dice.md#attack-die) and aplly both outcomes.<br>:unit_passive: Reroll this unit's all "-1" rolls. | Core |
 | Diamond Golems | :golden: | :unit_ground: | 4 | 2 | 6 | 6 | 16 :gold: | :unit_passive: Reduce any :damage: from [spells](spells.md) by 3 - to a minimum of 0. | Core |
 | [Dread Knights](units/dread_knights.md) | :golden: | :unit_ground: | 5 | 1 | 7 | 7 | 18 :gold: | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. | Core |
-| Efreet | :golden: | :unit_flying: | 4 | 2 | 6 | 13 | 20 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells.md) or [spells](spells.md) from the[Fire School of Magic](spells.md#fire-magic). | Inferno |
+| Efreet | :golden: | :unit_flying: | 4 | 2 | 6 | 13 | 20 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells/magic_arrow.md) or [spells](spells.md) from the[Fire School of Magic](spells/school_of_fire_magic.md). | Inferno |
 | Enchanters | :golden: | :unit_ranged: | 4 | 1 | 5 | 5 | 16 :gold: | :activation: Remove up to 2 :damage: from a friendly unit. Otherwise, Enchanters gain +1 :attack:. | Core |
 | [Ghost Dragons](units/ghost_dragons.md) | :golden: | :unit_flying: | 5 | 2 | 6 | 9 | 28 :gold: | :unit_attack: After the attack, roll 1 [Attack die](dice.md#attack-die); if the result is "0", the target must immediately move away 1 space. | Core |
 | Gold Golems | :golden: | :unit_ground: | 3 | 2 | 6 | 5 | 14 :gold: | :unit_passive: Reduce any :damage: from [spells](spells.md) by 2 - to a minimum of 0. | Core |
