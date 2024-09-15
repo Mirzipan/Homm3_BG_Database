@@ -1,6 +1,7 @@
 # Dendroids
 
 Dendroids are a :silver: unit that belongs to [Rampart](../towns/rampart.md).
+
 Their neutral version comes with the [Tower Expansion](../content.md).
 
 

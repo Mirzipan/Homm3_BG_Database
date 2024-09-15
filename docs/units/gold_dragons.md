@@ -1,6 +1,7 @@
 # Gold Dragons
 
 Gold Dragons are a :golden: unit that belongs to [Rampart](../towns/rampart.md).
+
 Their neutral version is an :azure: unit that comes with the [Tower Expansion](../content.md).
 
 

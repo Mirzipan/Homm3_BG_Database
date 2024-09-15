@@ -1,6 +1,7 @@
 # Iron Golems
 
 Iron Golems are a :bronze: unit that belongs to [Tower](../towns/tower.md).
+
 Their neutral version comes with the [Tower Expansion](../content.md).
 
 

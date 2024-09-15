@@ -1,6 +1,7 @@
 # Genies
 
 Genies are a :silver: unit that belongs to [Tower](../towns/tower.md).
+
 Their neutral version comes with the [Tower Expansion](../content.md).
 
 
