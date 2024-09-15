@@ -1,11 +1,7 @@
 # List of Heroes
 
-List of heroes and their specialities.
 
-You might also want to see [towns](towns.md).
-
-
-| Name | Town | Class | [Ability](abilities.md) | Specialty | [Content](content.md) |
+| Name | [Town](towns.md) | Class | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Adelaide](heroes/adelaide.md) | [Castle](towns/castle.md) | :magic: Cleric | [Wisdom](abilities/wisdom.md) | [Frost Ring](heroes/adelaide.md#specialty) | Tower |
 | [Catherine](heroes/catherine.md) | [Castle](towns/castle.md) | :might: Knight | [Leadership](abilities/leadership.md) | [Crusaders](heroes/catherine.md#specialty) | Core |
@@ -348,3 +344,8 @@ You might also want to see [towns](towns.md).
 | Forgetfulness | Ⅰ | 🚧 |
 | Forgetfulness | Ⅳ | 🚧 |
 | Forgetfulness | Ⅵ | 🚧 |
+
+
+## See Also
+
+- [List of Towns](towns.md).
