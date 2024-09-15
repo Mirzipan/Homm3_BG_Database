@@ -124,9 +124,9 @@
 
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
-| Fire Magic | Ⅰ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](spells.md#fire-magic) are cast with +1 :empower:. |
+| Fire Magic | Ⅰ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/school_of_fire_magic.md) are cast with +1 :empower:. |
 | Fire Magic | Ⅳ | :instant: **Search (3)** your deck, then shuffle your cards from the discard pile into the deck. |
-| Fire Magic | Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](spells.md#fire-magic) are cast with +2 :empower:. |
+| Fire Magic | Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/school_of_fire_magic.md) are cast with +2 :empower:. |
 
 
 ### Bron
