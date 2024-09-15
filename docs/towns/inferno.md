@@ -22,6 +22,14 @@ Inferno town comes with the [Inferno Expansion](../content.md).
 
 ## Units
 
+- :bronze: [Familiars](../units/familiars.md)
+- :bronze: [Magogs](../units/magogs.md)
+- :bronze: [Cerberi](../units/cerberi.md)
+- :silver: [Demons](../units/demons.md)
+- :silver: [Pit Lords](../units/pit_lords.md)
+- :golden: [Efreet](../units/efreet.md)
+- :golden: [Arch Devils](../units/arch_devils.md)
+
 
 ## See Also
 

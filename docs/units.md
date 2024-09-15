@@ -143,20 +143,20 @@ Inferno units come from the [Inferno Expansion](content.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| Familiars | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 5 | 2 :gold: | - |
-| Familiars | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **7** | 3 :gold: | :unit_passive: Whenever an enemy casts a [:spellpower:](spells.md) from hand, they must discard 1 card from hand. |
-| Magogs | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 3 :gold: | - |
-| Magogs | Pack | :bronze: | :unit_ranged: | 2 | 0 | **3** | **6** | 5 :gold: | :unit_attack: When Magogs attack a target that is not adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. |
-| Cerberi | Few | :bronze: | :unit_ground: | 3 | 0 | 4 | 7 | 4 :gold: | - |
-| Cerberi | Pack | :bronze: | :unit_ground: | 3 | **1** | **5** | **8** | 7 :gold: | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. |
-| Demons | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 6 :gold: | - |
-| Demons | Pack | :silver: | :unit_ground: | 3 | 2 | **5** | **6** | 8 :gold: | - |
-| Pit Lords | Few | :silver: | :unit_ground: | 4 | 1 | 6 | 6 | 8 :gold: | - |
-| Pit Lords | Pack | :silver: | :unit_ground: | **5** | 1 | 6 | **7** | 15 :gold: | :unit_other: If one of your units has been removed from the board during this Combat, Summon or Reinforce Demons. |
-| Efreet | Few | :golden: | :unit_flying: | 5 | 1 | 7 | 9 | 12 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells/magic_arrow.md). |
-| Efreet | Pack | :golden: | :unit_flying: | **6** | 1 | 7 | **13** | 18 :gold:<br>1 :valuables: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells/magic_arrow.md) or [spells](spells.md) from the [Fire School of Magic](spells/school_of_fire_magic.md). |
-| Arch Devils | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 11 | 22 :gold:<br>1 :valuables: | :unit_attack: Ignores Retaliation Attacks. |
-| Arch Devils | Pack | :golden: | :unit_flying: | **7** | 3 | **9** | **15** | 30 :gold:<br>2 :valuables: | :unit_attack: Ignores Retaliation Attacks.<br>:unit_passive: As a regular movement, the Arch Devils can move to any empty space. |
+| [Familiars](units/familiars.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 5 | 2 :gold: | - |
+| [Familiars](units/familiars.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **7** | 3 :gold: | :unit_passive: Whenever an enemy casts a [:spellpower:](spells.md) from hand, they must discard 1 card from hand. |
+| [Magogs](units/magogs.md) | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 3 :gold: | - |
+| [Magogs](units/magogs.md) | Pack | :bronze: | :unit_ranged: | 2 | 0 | **3** | **6** | 5 :gold: | :unit_attack: When [Magogs](units/magogs.md) attack a target that is not adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. |
+| [Cerberi](units/cerberi.md) | Few | :bronze: | :unit_ground: | 3 | 0 | 4 | 7 | 4 :gold: | - |
+| [Cerberi](units/cerberi.md) | Pack | :bronze: | :unit_ground: | 3 | **1** | **5** | **8** | 7 :gold: | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to [Cerberi](units/cerberi.md). |
+| [Demons](units/demons.md) | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 6 :gold: | - |
+| [Demons](units/demons.md) | Pack | :silver: | :unit_ground: | 3 | 2 | **5** | **6** | 8 :gold: | - |
+| [Pit Lords](units/pit_lords.md) | Few | :silver: | :unit_ground: | 4 | 1 | 6 | 6 | 8 :gold: | - |
+| [Pit Lords](units/pit_lords.md) | Pack | :silver: | :unit_ground: | **5** | 1 | 6 | **7** | 15 :gold: | :unit_other: If one of your units has been removed from the board during this Combat, Summon or Reinforce Demons. |
+| [Efreet](units/efreet.md) | Few | :golden: | :unit_flying: | 5 | 1 | 7 | 9 | 12 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells/magic_arrow.md). |
+| [Efreet](units/efreet.md) | Pack | :golden: | :unit_flying: | **6** | 1 | 7 | **13** | 18 :gold:<br>1 :valuables: | :unit_passive: Ignores any :damage: from [Magic Arrows](spells/magic_arrow.md) or [spells](spells.md) from the [Fire School of Magic](spells/school_of_fire_magic.md). |
+| [Arch Devils](units/arch_devils.md) | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 11 | 22 :gold:<br>1 :valuables: | :unit_attack: Ignores Retaliation Attacks. |
+| [Arch Devils](units/arch_devils.md) | Pack | :golden: | :unit_flying: | **7** | 3 | **9** | **15** | 30 :gold:<br>2 :valuables: | :unit_attack: Ignores Retaliation Attacks.<br>:unit_passive: As a regular movement, the [Arch Devils](units/arch_devils.md) can move to any empty space. |
 
 
 ## Stronghold
@@ -250,7 +250,7 @@ Inferno units come from the [Inferno Expansion](content.md).
 | [Marksmen](units/marksmen.md) | :bronze: | :unit_ranged: | 2 | 0 | 3 | 5 | 7 :gold: | :unit_attack: If a target is a non-adjacent unit, attack this target again. | Core |
 | Peasants | :bronze: | :unit_ground: | 1 | 0 | 2 | 3 | 3 :gold: | :effect_map: At the beginning of each Resource round, gain 3 :gold:. | Core |
 | Rogues | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 5 :gold: | :effect_map: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. | Core |
-| [Skeletons](units/skeletons.md) | :bronze: | :unit_ground: | 2 | 0 | 3 | 4 | 3 :gold: | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](heroes.md#necropolis), immediately Reinforce 1 of your :bronze: units. | Core |
+| [Skeletons](units/skeletons.md) | :bronze: | :unit_ground: | 2 | 0 | 3 | 4 | 3 :gold: | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](towns/necropolis.md#heroes), immediately Reinforce 1 of your :bronze: units. | Core |
 | Troglodytes | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 4 :gold: | :unit_passive: This unit ignores :paralysis: effects. | Core |
 | [Wraiths](units/wraiths.md) | :bronze: | :unit_flying: | 2 | 0 | 4 | 7 | 7 :gold: | :activation: Remove up to 2 :damage: from this unit. | Core |
 | [Zombies](units/zombies.md) | :bronze: | :unit_ground: | 2 | 0 | 4 | 3 | 5 :gold: | :unit_passive: If the attacker resolves a "0" or a "+1" on an [Attack die](dice.md#attack-die), gain +1 :defense: | Core |
@@ -258,7 +258,7 @@ Inferno units come from the [Inferno Expansion](content.md).
 | [Crusaders](units/crusaders.md) | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 11 :gold: | :unit_passive: During any attack, roll 2 [Attack dice](dice.md#attack-die) and resolve the higher outcome. | Core |
 | Demons | :silver: | :unit_ground: | 3 | 0 | 8 | 6 | 13 :gold: | - | Inferno |
 | Dendroids | :silver: | :unit_ground: | 3 | 2 | 6 | 3 | 12 :gold: | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. | Tower |
-| Genies | :silver: | :unit_flying: | 3 | 1 | 4 | 9 | 11 :gold: | :unit_attack: When attacking Efreet, this unit gains +1 :attack:. | Tower |
+| Genies | :silver: | :unit_flying: | 3 | 1 | 4 | 9 | 11 :gold: | :unit_attack: When attacking [Efreet](units/efreet.md), this unit gains +1 :attack:. | Tower |
 | Gorgons | :silver: | :unit_ground: | 4 | 2 | 4 | 5 | 13 :gold: | :unit_attack: After the attack, roll 2 [Attack dice](dice.md#attack-die). On two "-1" results, reduce the attacked unit's :health_points: to 0. | Tower |
 | [Liches](units/liches.md) | :silver: | :unit_ranged: | 3 | 0 | 6 | 7 | 12 :gold: | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. | Core |
 | Magi | :silver: | :unit_ranged: | 3 | 0 | 5 | 6 | 11 :gold: | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. | Tower |
@@ -271,7 +271,7 @@ Inferno units come from the [Inferno Expansion](content.md).
 | Sharpshooters | :silver: | :unit_ranged: | 3 | 0 | 6 | 9 | 10 :gold: | :unit_attack: Ignore the combat penalties. | Core |
 | [Vampires](units/vampires.md) | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 9 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. Then remove up to 2 :damage: from this unit. | Core |
 | [Zealots](units/zealots.md) | :silver: | :unit_ranged: | 3 | 0 | 5 | 5 | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. | Core |
-| Arch Devils | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 23 :gold: | :unit_attack: When attacking Archangels, this unit gains +2 :attack:. | Inferno |
+| Arch Devils | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 23 :gold: | :unit_attack: When attacking [Archangels](units/archangels.md), this unit gains +2 :attack:. | Inferno |
 | [Archangels](units/archangels.md) | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 29 :gold: | :unit_attack: When attacking Arch Devils, this unit gains +2 :attack:. | Core |
 | Black Dragons | :golden: | :unit_flying: | 5 | 2 | 7 | 9 | 30 :gold: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. | Core |
 | [Champions](units/champions.md) | :golden: | :unit_ground: | 4 | 2 | 6 | 8 | 18 :gold: | :unit_attack: Roll 2 [Attack dice](dice.md#attack-die) and aplly both outcomes.<br>:unit_passive: Reroll this unit's all "-1" rolls. | Core |
