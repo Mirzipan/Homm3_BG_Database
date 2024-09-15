@@ -13,7 +13,7 @@ Their neutral version is an :azure: unit that comes with the [Tower Expansion](.
 | :health_points: | 8 | 8 | 10 |
 | :initiative: | 7 | **11** | 10 |
 | Cost | 18 :gold:<br>1 :valuables: | 32 :gold:<br>2 :valuables: | 39 :gold: |
-| Abilities | :unit_passive: Ignore any :ongoing: effects on this unit. | :unit_passive: Ignore any :ongoing: effects on this unit and combat penalties against adjacent units. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking Black Dragons, this unit gains +2 :attack:. |
+| Abilities | :unit_passive: Ignore any :ongoing: effects on this unit. | :unit_passive: Ignore any :ongoing: effects on this unit and combat penalties against adjacent units. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking [Black Dragons](black_dragons.md), this unit gains +2 :attack:. |
 
 
 ## See Also
