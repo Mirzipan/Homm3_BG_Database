@@ -2,6 +2,9 @@
 
 Necropolis town comes with the [Core Game](content.md).
 
+
+## Buildings
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 4 :gold:<br><br>— OR —<br><br>:instant:**Reinforce 1** :bronze: for free. |
@@ -40,4 +43,4 @@ Necropolis town comes with the [Core Game](content.md).
 
 ## See Also
 
-- List of [Towns](../towns.md)
+- [List of Towns](../towns.md)

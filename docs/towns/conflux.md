@@ -2,6 +2,9 @@
 
 Conflux town comes with the [Conflux Expansion](content.md).
 
+
+## Buildings
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:ongoing:️ +1 :hand: for this round.<br><br>— OR —<br><br>:instant: Buying spells in this Town is for free. |
@@ -22,4 +25,4 @@ Conflux town comes with the [Conflux Expansion](content.md).
 
 ## See Also
 
-- List of [Towns](../towns.md)
+- [List of Towns](../towns.md)

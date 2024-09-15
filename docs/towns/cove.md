@@ -2,6 +2,9 @@
 
 Cove town comes with the [Cove Expansion](content.md).
 
+
+## Buildings
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 12 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Astrologers' round, choose:<br>:instant:️ +3 :gold:<br><br>— OR —<br><br>:instant: +1 :movement: when a Hero is on Water. |
@@ -22,4 +25,4 @@ Cove town comes with the [Cove Expansion](content.md).
 
 ## See Also
 
-- List of [Towns](../towns.md)
+- [List of Towns](../towns.md)

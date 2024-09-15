@@ -1,171 +1,20 @@
 # List of Towns
 
-List of towns and their buildings.
-
-You might also want to see [heroes](heroes.md).
-
-
-## Castle
-
-Castle town comes from the [Core Game](content.md).
-
-| Name | Building Cost | Effect |
-| :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: +1:movement: |
-| Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](units.md#castle). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
-| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 6 :gold: to **Search(2)** [:spellpower:](spells.md). |
-| Towers | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#castle). |
-| Holy Grounds | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](units.md#castle). |
-| Glory of Erathia | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](units.md#castle). |
-| Brotherhood of the Sword | 8 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, gain a :morale_positive:. |
-| Blacksmith | 4 :gold:<br>3 :building_materials:<br>0 :valuables: | During your turn, choose one:<br><br>**1.** Remove an [:artifact:](artifacts.md) card from your hand to gain 4 :gold:.<br><br>**2.** :pay: 6 :gold: to **Search(2)** [:artifact:](artifacts.md). |
+| Name | [Content](content.md) |
+| :--- | :--- |
+| [Castle](towns/castle.md) | Core |
+| [Necropolis](towns/necropolis.md) | Core |
+| [Dungeon](towns/dungeon.md) | Core |
+| [Tower](towns/tower.md) | Tower |
+| [Rampart](towns/rampart.md) | Rampart |
+| [Fortress](towns/fortress.md) | Fortress |
+| [Inferno](towns/inferno.md) | Inferno |
+| [Stronghold](towns/stronghold.md) | Stronghold |
+| [Conflux](towns/conflux.md) | Conflux |
+| [Cove](towns/cove.md) | Cove |
 
 
-## Necropolis
+## See Also
 
-Castle town comes from the [Core Game](content.md).
-
-| Name | Building Cost | Effect |
-| :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 4 :gold:<br><br>— OR —<br><br>:instant:**Reinforce 1** :bronze: for free. |
-| Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](units.md#necropolis). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
-| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
-| Old Cemetery | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#necropolis). |
-| Mausoleum Domain | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](units.md#necropolis). |
-| Vaults of Darkness | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](units.md#necropolis). |
-| Necromancy Amplifier | 7 :gold:<br>3 :building_materials:<br>1 :valuables: | At the beginning of your turn, choose one:<br><br>**1.** Search the [Ability](abilities.md) card deck for a [Necromancy](abilities.md) card and put it in your hand.<br><br>**2.** Take 1 [Specialty](heroes.md#necropolis) card from your discard pile to your hand. |
-| Cover of Darkness | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | During your turn, choose one:<br><br>**1.** Discard up to 2 Might and Magic cards to draw that many cards.<br><br>**2.** At the beginning of Combat with an Enemy [Hero](heroes.md), discard 1 random card from the enemy's hand. |
-
-
-## Dungeon
-
-Castle town comes from the [Core Game](content.md).
-
-| Name | Building Cost | Effect |
-| :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: 1 :valuables: |
-| Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](units.md#dungeon). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
-| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
-| Warrens | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#dungeon). |
-| Inner Labyrinths | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](units.md#dungeon). |
-| Ancient Lairs | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](units.md#dungeon). |
-| Portal of Summoning | 7 :gold:<br>3 :building_materials:<br>1 :valuables: | At the beginning of your turn, you can draw 1 [Neutral Unit](units.md#neutral) card from decks corresponding to the Dwellings in your Town and :pay: the Recruitment cost to **Recruit** this [unit](units.md#neutral). |
-| Mana Vortex | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | At the beginning of your turn, discard 1 card from your hand to shuffle your discard pile back into your deck of Might and Magic. Then **Search(3)** from it. |
-
-
-## Tower
-
-Tower town comes from the [Tower Expansion](content.md).
-
-| Name | Building Cost | Effect |
-| :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 4 :gold:<br><br>— OR —<br><br>:instant: Draw a card from your deck. |
-| Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](units.md#tower). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
-| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
-| Alchemical Workshop | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#tower). |
-| Enchanted Towers | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](units.md#tower). |
-| Golden Temples | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](units.md#tower). |
-| Artifact Merchants | 8 :gold:<br>6 :building_materials:<br>1 :valuables: | During your turn, choose one:<br><br>**1.** :pay: 7 :gold: to **Search(2)** [:artifact:](artifacts.md).<br><br>**2.** Remove an [Artifact](artifacts.md) card from your hand to gain 2 :gold:. |
-| Wall of Knowledge | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | At the beginning of each [Astrologer's round](astrologers_proclaim.md), you can take 1 [Knowledge](statistics.md) or 1 [Power Statistic](statistics.md) card from your discard pile to your hand. |
-
-
-## Rampart
-
-Rampart town comes from the [Rampart Expansion](content.md).
-
-| Name | Building Cost | Effect |
-| :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>6 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, gain :instant: 7 :gold:. |
-| Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](units.md#rampart). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
-| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
-| Housing Estate | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#rampart). |
-| Spring upon Arches | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](units.md#rampart). | 
-| Cliff behind the Glade | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](units.md#rampart). |
-| Mystic Pond | 7 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, roll 1 [Resource die](dice.md#resource-die) and gain the rolled resources. |
-| Saplings | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | At the beginning of each [Astrologer's round](astrologers_proclaim.md), instantly **Reinforce** 1 of your :bronze: or :silver: [units](units.md#rampart) for half of the  :gold: cost. |
-
-
-## Fortress
-
-Fortress town comes from the [Fortress Expansion](content.md).
-
-| Name | Building Cost | Effect |
-| :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>Exchange resources like in the Trading Post. |
-| Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](units.md#fortress). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
-| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
-| Den | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#fortress). |
-| Swamp Lairs | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](units.md#fortress). |
-| Nest upon the Pond | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](units.md#fortress). |
-| Blood Obelisk | 6 :gold:<br>6 :building_materials:<br>0 :valuables: | At the beginning of each Resource round or instantly, after your Town has been sieged, you can **Search(4)** your discard pile. |
-| Cage of Warlords | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | When built and at the beginning of each Resource round, place a faction cube here (to a maximum of 2). During any Combat, a player can remove them to gain +1:attack: or +1:defense: per 1 cube. |
-
-
-## Inferno
-
-Inferno town comes from the [Inferno Expansion](content.md).
-
-| Name | Building Cost | Effect |
-| :--- | ---: | :---: |
-| City Hall | 13 :gold:<br>5 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 6 :gold:<br><br>— OR —<br><br>:instant: 3 :building_materials: |
-| Citadel | 9 :gold:<br>4 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](units.md#inferno). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
-| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
-| Crucible of Sins | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#inferno). |
-| Gates of Abyss | 9 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](units.md#inferno). |
-| Hellfire Palace | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](units.md#inferno). |
-| Castle Gate | 7 :gold:<br>5 :building_materials:<br>0 :valuables: | During your turn, choose one:<br><br>**1.** :pay: 3 :gold: to discard 1 random card from your opponent's hand.<br><br>**2.** If your [Hero](heroes.md#inferno) is in a Town or Settlement, move them to another Town or Settlement under your control. |
-| Brimstone Stormclouds | 6 :gold:<br>3 :building_materials:<br>2 :valuables: | When built and at the beginning of each [Astrologer's round](astrologers_proclaim.md), place your faction cube here (to a maximum of 3). During any Combat, you can remove them to gain +1:empower: per 1 cube. Only one cube can be used per 1 [:spellpower:](spells.md). |
-
-
-## Stronghold
-
-🔮 Unrelased and incomplete content.
-
-Stronghold town comes from the [Stronghold Expansion](content.md).
-
-| Name | Building Cost | Effect |
-| :--- | ---: | :---: |
-| City Hall | 12 :gold:<br>5 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: Draw 2 cards from M&M Deck.<br><br>— OR —<br><br>:instant: 2 :building_materials: |
-| Citadel | 8 :gold:<br>4 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](units.md#stronghold). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
-| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 6 :gold: to **Search(2)** [:spellpower:](spells.md). |
-| Barracks Tower | 4 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#stronghold). |
-| Fort under the Nest | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](units.md#stronghold). |
-| Mountain Caves | 10 :gold:<br>8 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](units.md#stronghold). |
-| Hall of Valhalla | 7 :gold:<br>3 :building_materials:<br>0 :valuables: | Once per round, one of your units gains +1 :attack: to a single attack. |
-| Freelancer's Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | Each time you win against [Neutral Units](units.md#neutral), gain 1 :gold:. When **Reinforcing** or **Recruiting** you can use :building_materials: and :valuables: like :gold:. |
-
-
-## Conflux
-
-🔮 Unrelased and incomplete content.
-
-Conflux town comes from the [Conflux Expansion](content.md).
-
-| Name | Building Cost | Effect |
-| :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:ongoing:️ +1 :hand: for this round.<br><br>— OR —<br><br>:instant: Buying spells in this Town is for free. |
-| Citadel | 8 :gold:<br>4 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](units.md#conflux). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
-| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
-| Altars of Air and Water | 4 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#conflux). |
-| Altars of Fire and Earth | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](units.md#conflux). |
-| Magical Pyre | 9 :gold:<br>8 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](units.md#conflux). |
-| Magic University | 7 :gold:<br>3 :building_materials:<br>0 :valuables: | When using a Magic Guild instead of the **Search** action, choose a [School of Magic](spells.md), discard cards from the top of the [Spell](spells.md) deck until you find a [Spell](spells.md) from the chosen school, and then take it. |
-| Garden of Life | 2 :gold:<br>1 :building_materials:<br>1 :valuables: | At the beginning of each round, **Recruit** or **Reinforce** Sprites for free. |
-
-
-## Cove
-
-🔮 Unrelased and incomplete content.
-
-Cove town comes from the [Cove Expansion](content.md).
-
-| Name | Building Cost | Effect |
-| :--- | ---: | :---: |
-| City Hall | 12 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Astrologers' round, choose:<br>:instant:️ +3 :gold:<br><br>— OR —<br><br>:instant: +1 :movement: when a Hero is on Water. |
-| Citadel | 8 :gold:<br>4 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](units.md#cove). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](units.md#other) cards to the Combat board. |
-| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](spells.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](spells.md). |
-| Bay | 4 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](units.md#cove). |
-| Towers of the Seas | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](units.md#cove). |
-| Maelstorm | 10 :gold:<br>8 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](units.md#cove). |
-| Thieves' Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | Once during your turn, choose one deck, look at the top 2 cards, then put one of them back and discard the other. |
-| Pub | 3 :gold:<br>2 :building_materials:<br>0 :valuables: | Once during Astrologers' round, while **Reinforcing** a unit, reduce the reinforcement cost by 3 :gold: (to a minimum of 0). |
+- [List of Heroes](heroes.md)
+- [List of Units](units.md)

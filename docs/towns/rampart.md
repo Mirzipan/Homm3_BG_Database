@@ -2,6 +2,9 @@
 
 Rampart town comes with the [Rampart Expansion](content.md).
 
+
+## Buildings
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 10 :gold:<br>6 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, gain :instant: 7 :gold:. |
@@ -22,4 +25,4 @@ Rampart town comes with the [Rampart Expansion](content.md).
 
 ## See Also
 
-- List of [Towns](../towns.md)
+- [List of Towns](../towns.md)

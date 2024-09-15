@@ -2,6 +2,9 @@
 
 Inferno town comes with the [Inferno Expansion](content.md).
 
+
+## Buildings
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 13 :gold:<br>5 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 6 :gold:<br><br>— OR —<br><br>:instant: 3 :building_materials: |
@@ -22,4 +25,4 @@ Inferno town comes with the [Inferno Expansion](content.md).
 
 ## See Also
 
-- List of [Towns](../towns.md)
+- [List of Towns](../towns.md)

@@ -2,6 +2,9 @@
 
 Stronghold town comes with the [Stronghold Expansion](content.md).
 
+
+## Buildings
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 12 :gold:<br>5 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: Draw 2 cards from M&M Deck.<br><br>— OR —<br><br>:instant: 2 :building_materials: |
@@ -22,4 +25,4 @@ Stronghold town comes with the [Stronghold Expansion](content.md).
 
 ## See Also
 
-- List of [Towns](../towns.md)
+- [List of Towns](../towns.md)
