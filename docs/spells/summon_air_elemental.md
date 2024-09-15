@@ -5,7 +5,7 @@ Summon Air Elemental is an expert spell that belongs to the [Air School of Magic
 
 ## Effect
 
-🚧
+:activation: On a chosen emptry space:<br><br>:empower: 0 - No effect<br>:empower: 2 - Summon a Few [Air Elementals](../units/air_elementals.md)<br>:empower: 4 - Summon a Pack of [Air Elementals](../units/air_elementals.md)
 
 
 ## See Also

@@ -5,7 +5,7 @@ Summon Fire Elemental is an expert spell that belongs to the [Fire School of Mag
 
 ## Effect
 
-🚧
+:activation: On a chosen emptry space:<br><br>:empower: 0 - No effect<br>:empower: 2 - Summon a Few [Fire Elementals](../units/fire_elementals.md)<br>:empower: 4 - Summon a Pack of [Fire Elementals](../units/fire_elementals.md)
 
 
 ## See Also

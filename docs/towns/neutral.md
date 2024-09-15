@@ -25,6 +25,14 @@ This list excludes the neutral units that have a town variant.
 - :azure: [Rust Dragons](../units/rust_dragons.md)
 
 
+## Summoned Units
+
+- :bronze: [Air Elementals](../units/air_elementals.md)
+- 🚧 [Earth Elementals](../units/earth_elementals.md)
+- 🚧 [Fire Elementals](../units/fire_elementals.md)
+- 🚧 [Water Elementals](../units/water_elementals.md)
+
+
 ## See Also
 
 - [List of Towns](../towns.md)

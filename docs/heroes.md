@@ -219,8 +219,8 @@
 | Name | Level | Descrition |
 | :--- | :---: | :---: |
 | Offense | Ⅰ | :ongoing: Your selected [unit](units.md) gains +1 :attack: |
-| Offense | Ⅳ | 🚧 |
-| Offense | Ⅵ | 🚧 |
+| Offense | Ⅳ | :ongoing: For this Combat, every card you play can grant you +1 :attack: instead of its regular effect. |
+| Offense | Ⅵ | :ongoing: Your selected [unit](units.md) gains +1 :attack:. You can discard a card to gain additional +1 :attack:. |
 
 
 ### Gundula
