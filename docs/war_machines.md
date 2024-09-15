@@ -1,9 +1,9 @@
 # War Machines
 
 
-| Name | Cost at Blacksmith | Cost at Trade Post | Ability | [Content](content.md) |
-| :--- | ---: | ---: | :--- | :--- |
-| Ammo Cart | 5 :gold: | 8 :gold: | :permanent: Your :unit_ranged: units ignore combat penalties and gain "+2 :initiative:". | Rampart |
-| Ballista | 7 :gold: | 10 :gold: | :permanent: At the beginning of each Combat round, deal 1 :damage: to the enemy unit with the lowest :initiative:. | Rampart |
-| Cannon | 🚧 | 🚧 | 🚧 | Cove |
-| First Aid Tent | 3 :gold: | 6 :gold: | :permanent: Once during each Combat round, remove 1 :damage: from your selected unit. | Rampart |
+| Name | Ability | Cost at Blacksmith | Cost at Trade Post | [Content](content.md) |
+| :--- | :--- | ---: | ---: | :--- |
+| [Ammo Cart](war_machines/ammo_cart.md) | :permanent: Your :unit_ranged: units ignore combat penalties and gain "+2 :initiative:". | 5 :gold: | 8 :gold: | Rampart |
+| [Ballista](war_machines/ballista.md) | :permanent: At the beginning of each Combat round, deal 1 :damage: to the enemy unit with the lowest :initiative:. | 7 :gold: | 10 :gold: | Rampart |
+| [Cannon](war_machines/cannon.md) | 🚧 | 🚧 | 🚧 | Cove |
+| [First Aid Tent](war_machines/first_aid_tent.md) | :permanent: Once during each Combat round, remove 1 :damage: from your selected unit. | 3 :gold: | 6 :gold: | Rampart |
