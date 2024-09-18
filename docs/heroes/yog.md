@@ -4,7 +4,7 @@ Yog is a :might: Barbarian hero that belongs to [Stronghold](../towns/stronghold
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 4 | 0 | 1 | 1 | Offense | [Cyclops](#specialty) |
+| 4 | 0 | 1 | 1 | [Offense](../abilities/offense.md) | [Cyclops](#specialty) |
 
 
 ## Specialty

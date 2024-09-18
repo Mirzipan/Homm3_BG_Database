@@ -4,7 +4,7 @@ Tarnum is a :might: Barbarian hero that belongs to [Stronghold](../towns/strongh
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 4 | 0 | 1 | 1 | Offense | [Offense](#specialty) |
+| 4 | 0 | 1 | 1 | [Offense](../abilities/offense.md) | [Offense](#specialty) |
 
 
 ## Specialty

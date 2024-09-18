@@ -4,7 +4,7 @@ Josephine is a :might: Alchemist hero that belongs to [Tower](../towns/tower.md)
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 1 | 2 | 2 | Sorcery | [Golems](#specialty) |
+| 1 | 1 | 2 | 2 | [Sorcery](../abilities/sorcery.md) | [Golems](#specialty) |
 
 
 ## Specialty

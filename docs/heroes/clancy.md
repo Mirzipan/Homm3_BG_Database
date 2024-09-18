@@ -4,7 +4,7 @@ Clancy is a :might: Ranger hero that belongs to [Rampart](../towns/rampart.md), 
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 3 | 1 | 1 | Pathfinding | [Unicorns](#specialty) |
+| 1 | 3 | 1 | 1 | [Pathfinding](../abilities/pathfinding.md) | [Unicorns](#specialty) |
 
 
 ## Specialty

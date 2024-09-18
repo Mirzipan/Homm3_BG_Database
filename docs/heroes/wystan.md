@@ -4,7 +4,7 @@ Wystan is a :might: Beastmaster hero that belongs to [Fortress](../towns/fortres
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 0 | 4 | 1 | 1 | Archery | [Lizardmen](#specialty) |
+| 0 | 4 | 1 | 1 | [Archery](../abilities/archery.md) | [Lizardmen](#specialty) |
 
 
 ## Specialty

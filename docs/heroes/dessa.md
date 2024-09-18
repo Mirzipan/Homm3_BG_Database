@@ -4,7 +4,7 @@ Dessa is a :magic: Battle Mage hero that belongs to [Stronghold](../towns/strong
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 2 | 1 | 1 | 1 | Logistics | [Logistics](#specialty) |
+| 2 | 1 | 1 | 1 | [Logistics](../abilities/logistics.md) | [Logistics](#specialty) |
 
 
 ## Specialty

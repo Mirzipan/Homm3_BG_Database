@@ -4,7 +4,7 @@ Cassiopeia is a :might: Captain hero that belongs to [Cove](../towns/cove.md), a
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 3 | 0 | 2 | 1 | Tactics | [Oceanids](#specialty) |
+| 3 | 0 | 2 | 1 | [Tactics](../abilities/tactics.md) | [Oceanids](#specialty) |
 
 
 ## Specialty

@@ -4,7 +4,7 @@ Ciele is a :magic: Elementalist hero that belongs to [Conflux](../towns/conflux.
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 0 | 0 | 2 | 3 | Water Magic | [Magic Arrow](#specialty) |
+| 0 | 0 | 2 | 3 | [Water Magic](../abilities/water_magic.md) | [Magic Arrow](#specialty) |
 
 
 ## Specialty

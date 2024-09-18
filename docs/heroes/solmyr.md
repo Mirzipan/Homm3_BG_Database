@@ -4,7 +4,7 @@ Solmyr is a :magic: Wizard hero that belongs to [Tower](../towns/tower.md), and 
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 0 | 0 | 2 | 3 | Sorcery | [Chain Lightning](#specialty) |
+| 0 | 0 | 2 | 3 | [Sorcery](../abilities/sorcery.md) | [Chain Lightning](#specialty) |
 
 
 ## Specialty

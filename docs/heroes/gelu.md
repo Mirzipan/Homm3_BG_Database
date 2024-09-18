@@ -4,7 +4,7 @@ Gelu is a :might: Ranger hero that belongs to [Rampart](../towns/rampart.md), an
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 3 | 1 | 1 | Archery | [Sharpshooters](#specialty) |
+| 1 | 3 | 1 | 1 | [Archery](../abilities/archery.md) | [Sharpshooters](#specialty) |
 
 
 ## Specialty

@@ -4,7 +4,7 @@ Monere is a :might: Planeswalker hero that belongs to [Conflux](../towns/conflux
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 3 | 1 | 1 | 1 | Logistics | [Magic Elementals](#specialty) |
+| 3 | 1 | 1 | 1 | [Logistics](../abilities/logistics.md) | [Magic Elementals](#specialty) |
 
 
 ## Specialty

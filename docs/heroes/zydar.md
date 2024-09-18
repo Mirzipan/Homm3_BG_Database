@@ -4,7 +4,7 @@ Zydar is a :magic: Heretic hero that belongs to [Inferno](../towns/inferno.md), 
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 1 | 2 | 1 | Sorcery | [Sorcery](#specialty) |
+| 1 | 1 | 2 | 1 | [Sorcery](../abilities/sorcery.md) | [Sorcery](#specialty) |
 
 
 ## Specialty

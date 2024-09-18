@@ -4,7 +4,7 @@ Dracon is a :magic: Wizard hero that belongs to [Tower](../towns/tower.md), and 
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 0 | 0 | 2 | 3 | Wisdom | [Enchanters](#specialty) |
+| 0 | 0 | 2 | 3 | [Wisdom](../abilities/wisdom.md) | [Enchanters](#specialty) |
 
 
 ## Specialty

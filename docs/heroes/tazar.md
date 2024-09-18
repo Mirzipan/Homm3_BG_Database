@@ -4,7 +4,7 @@ Tazar is a :might: Beastmaster hero that belongs to [Fortress](../towns/fortress
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 0 | 4 | 1 | 1 | Armorer | [War Hero](#specialty) |
+| 0 | 4 | 1 | 1 | [Armorer](../abilities/armorer.md) | [War Hero](#specialty) |
 
 
 ## Specialty

@@ -4,7 +4,7 @@ Zilare is a :magic: Navigator hero that belongs to [Cove](../towns/cove.md), and
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 2 | 1 | 1 | 1 | Interference | [Forgetfulness](#specialty) |
+| 2 | 1 | 1 | 1 | [Interference](../abilities/interference.md) | [Forgetfulness](#specialty) |
 
 
 ## Specialty

@@ -4,7 +4,7 @@ Adrienne is a :magic: Witch hero that belongs to [Fortress](../towns/fortress.md
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 0 | 1 | 2 | 2 | Wisdom | [Fire Magic](#specialty) |
+| 0 | 1 | 2 | 2 | [Wisdom](../abilities/wisdom.md) | [Fire Magic](#specialty) |
 
 
 ## Specialty

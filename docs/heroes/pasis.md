@@ -4,7 +4,7 @@ Pasis is a :might: Planeswalker hero that belongs to [Conflux](../towns/conflux.
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 3 | 1 | 1 | 1 | Artillery | [Magic Elementals](#specialty) |
+| 3 | 1 | 1 | 1 | [Artillery](../abilities/artillery.md) | [Magic Elementals](#specialty) |
 
 
 ## Specialty
