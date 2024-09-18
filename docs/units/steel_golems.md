@@ -1,6 +1,6 @@
 # Steel Golems
 
-Steel Golems is a :silver: [neutral](../towns/neutral.md) unit that comes with the [Stretch Goals](../content.md).
+Steel Golems is a :silver: [neutral](../towns/neutral.md) unit that comes with the [Regular Stretch Goals](../content.md).
 
 
 | Statistics | Neutral |

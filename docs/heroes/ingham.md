@@ -1,6 +1,6 @@
 # Ingham
 
-Ingham is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), and comes with the [Stretch Goals](../content.md).
+Ingham is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), and comes with the [Regular Stretch Goals](../content.md).
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |

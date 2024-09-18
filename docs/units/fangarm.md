@@ -1,6 +1,6 @@
 # Fangarm
 
-Fangarm is a :silver: [neutral](../towns/neutral.md) unit that comes with the [Stretch Goals](../content.md).
+Fangarm is a :silver: [neutral](../towns/neutral.md) unit that comes with the [Regular Stretch Goals](../content.md).
 
 
 | Statistics | Neutral |
