@@ -11,9 +11,9 @@ Adrienne is a :magic: Witch hero that belongs to [Fortress](../towns/fortress.md
 
 | Level | Descrition |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/school_of_fire_magic.md) are cast with +1 :empower:. |
+| Ⅳ | :instant: **Search (3)** your deck, then shuffle your cards from the discard pile into the deck. |
+| Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/school_of_fire_magic.md) are cast with +2 :empower:. |
 
 
 ## See Also

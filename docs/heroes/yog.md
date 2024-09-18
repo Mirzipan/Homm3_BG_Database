@@ -12,7 +12,7 @@ Yog is a :might: Barbarian hero that belongs to [Stronghold](../towns/stronghold
 | Level | Descrition |
 | :---: | :---: |
 | Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
+| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Cyclops unit](../units/cyclops.md). |
 | Ⅵ | 🚧 |
 
 

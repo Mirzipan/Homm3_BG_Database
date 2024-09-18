@@ -11,9 +11,9 @@ Pasis is a :might: Planeswalker hero that belongs to [Conflux](../towns/conflux.
 
 | Level | Descrition |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :ongoing: For this Combat, your selected [unit's](../units.md) :health_points: is increased by 1.<br><br>This effect doubles for the 🚧 Elementals unit. |
+| Ⅳ | :instant: Your selected [unit](../units.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units.md) gains +1 :defense:<br><br>This effect doubles for the 🚧 Elementals unit. |
+| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units.md) :initiative: is increased by 2.<br><br>This effect doubles for the 🚧 Elementals unit. |
 
 
 ## See Also

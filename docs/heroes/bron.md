@@ -11,9 +11,9 @@ Bron is a :might: Beastmaster hero that belongs to [Fortress](../towns/fortress.
 
 | Level | Descrition |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Your selected [unit](../units.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units.md) gains +1 :defense:<br><br>This effect doubles for the [Basilisks unit](../units/basilisks.md). |
+| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Basilisks unit](../units/basilisks.md). |
+| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units.md) :initiative: is increased by 2.<br><br>This effect doubles for the [Basilisks unit](../units/basilisks.md). |
 
 
 ## See Also

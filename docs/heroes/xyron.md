@@ -11,9 +11,9 @@ Xyron is a :magic: Heretic hero that belongs to [Inferno](../towns/inferno.md), 
 
 | Level | Descrition |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :activation: Discard 2 cards. Then select a space. All [units](../units.md) on this and the adjacent spaces take 1 :damage:. |
+| Ⅳ | :activation: Discard 1 card. Then select a space. All [units](../units.md) on this and the adjacent spaces take 1 :damage:. |
+| Ⅵ | :activation: Select a space. All [units](../units.md) on this and the adjacent spaces take 1 :damage:. |
 
 
 ## See Also

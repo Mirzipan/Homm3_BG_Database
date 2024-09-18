@@ -11,9 +11,9 @@ Zydar is a :magic: Heretic hero that belongs to [Inferno](../towns/inferno.md), 
 
 | Level | Descrition |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Play this card after casting a [:spellpower:](../spells.md), then draw 1 card.<br><br>— OR —<br><br>:instant: +1 :empower: |
+| Ⅳ | :instant: The next [:spellpower:](../spells.md) you cast does not count toward the limit.<br><br>— OR —<br><br>:instant: +2 :empower: |
+| Ⅵ | :ongoing: Until the end of the Combat round, after casting a [:spellpower:](../spells.md), draw 1 card.<br><br>:instant: +2 :empower: |
 
 
 ## See Also

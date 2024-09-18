@@ -11,9 +11,9 @@ Tarnum is a :might: Barbarian hero that belongs to [Stronghold](../towns/strongh
 
 | Level | Descrition |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :ongoing: Your selected unit gains +1 :attack:. |
+| Ⅳ | 🚧 Your selected unit gains +1 :attack:. |
+| Ⅵ | 🚧 Your selected unit gains +2 :attack:. |
 
 
 ## See Also

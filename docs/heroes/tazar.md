@@ -11,9 +11,9 @@ Tazar is a :might: Beastmaster hero that belongs to [Fortress](../towns/fortress
 
 | Level | Descrition |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: +2 :defense: |
+| Ⅳ | :ongoing: For this Combat, your selected [unit](../units.md) gains +1 :defense:. |
+| Ⅵ | :effect_map: Fron your hand, Remove 1 card or Discard 3 cards to draw an [Artifact](../artifacts.md) card from the top of the [Artifact](../artifacts.md) deck. |
 
 
 ## See Also

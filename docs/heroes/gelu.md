@@ -11,9 +11,9 @@ Gelu is a :might: Ranger hero that belongs to [Rampart](../towns/rampart.md), an
 
 | Level | Descrition |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Your selected [unit](../units.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units.md) gains +1 :defense:<br><br>This effect doubles for the [Elves](../units/elves.md) and [Sharpshooters units](../units/sharpshooters.md). |
+| Ⅳ | :effect_map: If you have a [Pack of Elves Unit](../units/elves.md) card, discard it. Then, search the [Neutral Unit](../units.md) :silver: deck for the [Sharpshooters](../units/sharpshooters.md) card and add it to your [Unit](../units.md) deck. You can control only 1 [Sharpshooters](../units/sharpshooters.md) [unit](../units.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |
+| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units.md) :initiative: is increased by 2.<br><br>This effect doubles for the [Elves](../units/elves.md) and [Sharpshooters units](../units/sharpshooters.md). |
 
 
 ## See Also

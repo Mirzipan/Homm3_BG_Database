@@ -11,9 +11,9 @@ Mephala is a :might: Ranger hero that belongs to [Rampart](../towns/rampart.md),
 
 | Level | Descrition |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: +2 :defense: |
+| Ⅳ | :instant: +3 :defense: |
+| Ⅵ | :instant: +4 :defense: |
 
 
 ## See Also
