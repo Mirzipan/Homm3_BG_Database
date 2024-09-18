@@ -10,11 +10,15 @@ Every unit of every town has a neutral variant.
 This list excludes the neutral units that have a town variant.
 
 - :bronze: [Boars](../units/boars.md)
+- :bronze: [Leprechaun](../units/leprechaun.md)
 - :bronze: [Peasants](../units/peasants.md)
 - :bronze: [Rogues](../units/rogues.md)
+- :silver: [Fangarm](../units/fangarm.md)
 - :silver: [Mummies](../units/mummies.md)
 - :silver: [Nomads](../units/nomads.md)
+- :silver: [Satyrs](../units/satyrs.md)
 - :silver: [Sharpshooters](../units/sharpshooters.md)
+- :silver: [Steel Golems](../units/steel_golems.md)
 - :golden: [Diamond Golems](../units/diamond_golems.md)
 - :golden: [Enchanters](../units/enchanters.md)
 - :golden: [Gold Golems](../units/gold_golems.md)
