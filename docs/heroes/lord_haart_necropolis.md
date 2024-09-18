@@ -18,6 +18,6 @@ Lord Haart is a :might: Death Knight hero that belongs to [Necropolis](../towns/
 
 ## See Also
 
-- [Lord Haart (Castle)](lord_haart.md)
+- [Lord Haart (Castle)](lord_haart_castle.md)
 - [List of Heroes](../heroes.md)
 - [List of Towns](../towns.md)
