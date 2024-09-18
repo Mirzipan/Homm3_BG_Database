@@ -5,8 +5,10 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Adelaide](heroes/adelaide.md) | [Castle](towns/castle.md) | :magic: Cleric | [Wisdom](abilities/wisdom.md) | [Frost Ring](heroes/adelaide.md#specialty) | Tower |
 | [Catherine](heroes/catherine.md) | [Castle](towns/castle.md) | :might: Knight | [Leadership](abilities/leadership.md) | [Crusaders](heroes/catherine.md#specialty) | Core |
+| [Ingham](heroes/ingham.md) | [Castle](towns/castle.md) | :magic: Cleric | [Mysticism](abilities/mysticism.md) | [Zealots](heroes/ingham.md#specialty) | Stretch Goals |
 | [Lord Haart](heroes/lord_haart.md) | [Castle](towns/castle.md) | :might: Knight | [Estates](abilities/estates.md) | [Estates](heroes/lord_haart.md#specialty) | Tower |
 | [Rion](heroes/rion.md) | [Castle](towns/castle.md) | :magic: Cleric | [Wisdom](abilities/wisdom.md) | [Battlefield Medic](heroes/rion.md#specialty) | Core |
+| [Valeska](heroes/valeska.md) | [Castle](towns/castle.md) | :might: Knight | [Archery](abilities/archery.md) | [Marksmen](heroes/valeska.md#specialty) | Stretch Goals |
 | [Lord Haart](heroes/lord_haart_necropolis.md) | [Necropolis](towns/necropolis.md) | :might: Death Knight | [Necromancy](abilities/necromancy.md) | [Dread Knights](heroes/lord_haart_necropolis.md#specialty) | Tower |
 | [Sandro](heroes/sandro.md) | [Necropolis](towns/necropolis.md) | :magic: Necromancer | [Sorcery](abilities/sorcery.md) | [Cloak of the Undead King](heroes/sandro.md#specialty) | Core |
 | [Tamika](heroes/tamika.md) | [Necropolis](towns/necropolis.md) | :might: Death Knight | [Offense](abilities/offense.md) | [Dread Knights](heroes/tamika.md#specialty) | Core |
