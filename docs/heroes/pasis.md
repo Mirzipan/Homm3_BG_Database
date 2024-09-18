@@ -1,6 +1,6 @@
 # Pasis
 
-Pasis is a :might: Planeswalker hero that belongs to [Stretch Goals](../towns/stretch_goals.md), and comes with the [Stretch Goals Expansion](../content.md).
+Pasis is a :might: Planeswalker hero that belongs to [Conflux](../towns/conflux.md), and comes with the [Regular Stretch Goals](../content.md).
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |

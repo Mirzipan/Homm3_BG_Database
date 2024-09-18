@@ -1,6 +1,6 @@
 # Tarnum (Stronghold)
 
-Tarnum is a :might: Barbarian hero that belongs to [Stronghold](../towns/stronghold.md), and comes with the [Stronghold Expansion](../content.md).
+Tarnum is a :might: Barbarian hero that belongs to [Stronghold](../towns/stronghold.md), and comes with the [Regular Stretch Goals](../content.md).
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |

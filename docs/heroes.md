@@ -17,38 +17,38 @@
 | [Deemer](heroes/deemer.md) | [Dungeon](towns/dungeon.md) | :magic: Warlock | [Scouting](abilities/scouting.md) | [Meteor Shower](heroes/deemer.md#specialty) | Tower |
 | [Jeddite](heroes/jeddite.md) | [Dungeon](towns/dungeon.md) | :magic: Warlock | [Sorcery](abilities/sorcery.md) | [Mysterious Warlock](heroes/jeddite.md#specialty) | Tower |
 | [Mutare](heroes/mutare.md) | [Dungeon](towns/dungeon.md) | :might: Overlord | [Tactics](abilities/tactics.md) | [Dragons](heroes/mutare.md#specialty) | Core |
-| [Dracon](heroes/dracon.md) | [Tower](../towns/tower.md) | :magic: Wizard | Wisdom | Enchanters | Tower |
-| [Iona](heroes/iona.md) | [Tower](../towns/tower.md) | :might: Alchemist | Intelligence | Genies | Tower |
-| [Josephine](heroes/josephine.md) | [Tower](../towns/tower.md) | :might: Alchemist | Sorcery | Golems | Tower |
-| [Solmyr](heroes/solmyr.md) | [Tower](../towns/tower.md) | :magic: Wizard | Sorcery | Chain Lightning | Tower |
-| [Clancy](heroes/clancy.md) | [Tower](../towns/tower.md) | :might: Ranger | Pathfinding | Unicorns | Tower |
-| [Gelu](heroes/gelu.md) | [Rampart](../towns/rampart.md) | :might: Ranger | Archery | Sharpshooters | Rampart |
-| [Gem](heroes/gem.md) | [Rampart](../towns/rampart.md) | :magic: Druid | First Aid | First Aid | Rampart |
-| [Mephala](heroes/mephala.md) | [Tower](../towns/tower.md) | :might: Ranger | Leadership | Armorer | Tower |
-| [Adrienne](heroes/adrienne.md) | [Fortress](../towns/fortress.md) | :magic: Witch | Wisdom | Fire Magic | Fortress |
-| [Bron](heroes/bron.md) | [Tower](../towns/tower.md) | :might: Beastmaster | Resistance | Basilisks | Tower |
-| [Tazar](heroes/tazar.md) | [Tower](../towns/tower.md) | :might: Beastmaster | Armorer | War Hero | Tower |
-| [Wystan](heroes/wystan.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | Archery | Lizardmen | Fortress |
-| [Fiona](heroes/fiona.md) | [Inferno](../towns/inferno.md) | :might: Demoniac | Scouting | Cerberi | Inferno |
-| [Rashka](heroes/rashka.md) | [Inferno](../towns/inferno.md) | :might: Demoniac | Scholar | Efreet | Inferno |
-| [Xyron](heroes/xyron.md) | [Inferno](../towns/inferno.md) | :magic: Heretic | Wisdom | Inferno | Inferno |
-| [Zydar](heroes/zydar.md) | [Inferno](../towns/inferno.md) | :magic: Heretic | Sorcery | Sorcery | Inferno |
-| [Crag Hack](heroes/crag_hack.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | Offense | Offense | Stronghold |
-| [Dessa](heroes/dessa.md) | [Stronghold](../towns/stronghold.md) | :magic: Battle Mage | Logistics | Logistics | Stronghold |
-| [Gundula](heroes/gundula.md) | [Stronghold](../towns/stronghold.md) | :magic: Battle Mage | Wisdom | 🚧 | Stronghold |
-| [Shiva](heroes/shiva.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | Scouting | Thunderbirds | Stronghold |
-| [Tarnum](heroes/tarnum_stronghold.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | Offense | Offense | Stronghold |
-| [Yog](heroes/yog.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | Offense | Cyclops | Stronghold |
-| [Ciele](heroes/ciele.md) | [Stretch Goals](../towns/stretch_goals.md) | :magic: Elementalist | Water Magic | Magic Arrow | Stretch Goals |
-| [Erdamon](heroes/erdamon.md) | [Conflux](../towns/conflux.md) | :might: Planeswalker | Estates | Magma Elementals | Conflux |
-| [Luna](heroes/luna.md) | [Conflux](../towns/conflux.md) | :magic: Elementalist | Fire Magic | Fire Wall | Conflux |
-| [Monere](heroes/monere.md) | [Conflux](../towns/conflux.md) | :might: Planeswalker | Logistics | Magic Elementals | Conflux |
-| [Pasis](heroes/pasis.md) | [Stretch Goals](../towns/stretch_goals.md) | :might: Planeswalker | Artillery | Magic Elementals | Stretch Goals |
-| [Tarnum](heroes/tarnum_conflux.md) | [Conflux](../towns/conflux.md) | :magic: Elementalist | Wisdom | 🚧 | Conflux |
-| [Casmetra](heroes/casmetra.md) | [Cove](../towns/cove.md) | :magic: Navigator | Wisdom | 🚧 | Cove |
-| [Cassiopeia](heroes/cassiopeia.md) | [Cove](../towns/cove.md) | :might: Captain | Tactics | Oceanids | Cove |
-| [Jeremy](heroes/jeremy.md) | [Cove](../towns/cove.md) | :might: Captain | Offense | Cannon | Cove |
-| [Zilare](heroes/zilare.md) | [Cove](../towns/cove.md) | :magic: Navigator | Interference | Forgetfulness | Cove |
+| [Dracon](heroes/dracon.md) | [Tower](towns/tower.md) | :magic: Wizard | Wisdom | Enchanters | Tower |
+| [Iona](heroes/iona.md) | [Tower](towns/tower.md) | :might: Alchemist | Intelligence | Genies | Tower |
+| [Josephine](heroes/josephine.md) | [Tower](towns/tower.md) | :might: Alchemist | Sorcery | Golems | Tower |
+| [Solmyr](heroes/solmyr.md) | [Tower](towns/tower.md) | :magic: Wizard | Sorcery | Chain Lightning | Tower |
+| [Clancy](heroes/clancy.md) | [Rampart](towns/rampart.md) | :might: Ranger | Pathfinding | Unicorns | Tower |
+| [Gelu](heroes/gelu.md) | [Rampart](towns/rampart.md) | :might: Ranger | Archery | Sharpshooters | Rampart |
+| [Gem](heroes/gem.md) | [Rampart](towns/rampart.md) | :magic: Druid | First Aid | First Aid | Rampart |
+| [Mephala](heroes/mephala.md) | [Rampart](towns/rampart.md) | :might: Ranger | Leadership | Armorer | Tower |
+| [Adrienne](heroes/adrienne.md) | [Fortress](towns/fortress.md) | :magic: Witch | Wisdom | Fire Magic | Fortress |
+| [Bron](heroes/bron.md) | [Fortress](towns/fortress.md) | :might: Beastmaster | Resistance | Basilisks | Tower |
+| [Tazar](heroes/tazar.md) | [Fortress](towns/fortress.md) | :might: Beastmaster | Armorer | War Hero | Tower |
+| [Wystan](heroes/wystan.md) | [Fortress](towns/fortress.md) | :might: Beastmaster | Archery | Lizardmen | Fortress |
+| [Fiona](heroes/fiona.md) | [Inferno](towns/inferno.md) | :might: Demoniac | Scouting | Cerberi | Inferno |
+| [Rashka](heroes/rashka.md) | [Inferno](towns/inferno.md) | :might: Demoniac | Scholar | Efreet | Inferno |
+| [Xyron](heroes/xyron.md) | [Inferno](towns/inferno.md) | :magic: Heretic | Wisdom | Inferno | Inferno |
+| [Zydar](heroes/zydar.md) | [Inferno](towns/inferno.md) | :magic: Heretic | Sorcery | Sorcery | Inferno |
+| [Crag Hack](heroes/crag_hack.md) | [Stronghold](towns/stronghold.md) | :might: Barbarian | Offense | Offense | Stronghold |
+| [Dessa](heroes/dessa.md) | [Stronghold](towns/stronghold.md) | :magic: Battle Mage | Logistics | Logistics | Regular Stretch Goals |
+| [Gundula](heroes/gundula.md) | [Stronghold](towns/stronghold.md) | :magic: Battle Mage | Wisdom | 🚧 | Stronghold |
+| [Shiva](heroes/shiva.md) | [Stronghold](towns/stronghold.md) | :might: Barbarian | Scouting | Thunderbirds | Stronghold |
+| [Tarnum](heroes/tarnum_stronghold.md) | [Stronghold](towns/stronghold.md) | :might: Barbarian | Offense | Offense | Regular Stretch Goals |
+| [Yog](heroes/yog.md) | [Stronghold](towns/stronghold.md) | :might: Barbarian | Offense | Cyclops | Stronghold |
+| [Ciele](heroes/ciele.md) | [Conflux](towns/conflux.md) | :magic: Elementalist | Water Magic | Magic Arrow | Regular Stretch Goals |
+| [Erdamon](heroes/erdamon.md) | [Conflux](towns/conflux.md) | :might: Planeswalker | Estates | Magma Elementals | Conflux |
+| [Luna](heroes/luna.md) | [Conflux](towns/conflux.md) | :magic: Elementalist | Fire Magic | Fire Wall | Conflux |
+| [Monere](heroes/monere.md) | [Conflux](towns/conflux.md) | :might: Planeswalker | Logistics | Magic Elementals | Conflux |
+| [Pasis](heroes/pasis.md) | [Conflux](towns/conflux.md) | :might: Planeswalker | Artillery | Magic Elementals | Regular Stretch Goals |
+| [Tarnum](heroes/tarnum_conflux.md) | [Conflux](towns/conflux.md) | :magic: Elementalist | Wisdom | 🚧 | Conflux |
+| [Casmetra](heroes/casmetra.md) | [Cove](towns/cove.md) | :magic: Navigator | Wisdom | 🚧 | Cove |
+| [Cassiopeia](heroes/cassiopeia.md) | [Cove](towns/cove.md) | :might: Captain | Tactics | Oceanids | Cove |
+| [Jeremy](heroes/jeremy.md) | [Cove](towns/cove.md) | :might: Captain | Offense | Cannon | Cove |
+| [Zilare](heroes/zilare.md) | [Cove](towns/cove.md) | :magic: Navigator | Interference | Forgetfulness | Cove |
 
 
 ## Tower

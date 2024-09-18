@@ -1,6 +1,6 @@
 # Clancy
 
-Clancy is a :might: Ranger hero that belongs to [Tower](../towns/tower.md), and comes with the [Tower Expansion](../content.md).
+Clancy is a :might: Ranger hero that belongs to [Rampart](../towns/rampart.md), and comes with the [Tower Expansion](../content.md).
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
