@@ -19,6 +19,11 @@ Fortress town comes with the [Fortress Expansion](../content.md).
 
 ## Heroes
 
+- :magic: [Adrienne](../heroes/adrienne.md)
+- :might: [Bron](../heroes/bron.md)
+- :might: [Tazar](../heroes/tazar.md)
+- :might: [Wystan](../heroes/wystan.md)
+
 
 ## Units
 

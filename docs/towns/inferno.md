@@ -19,6 +19,11 @@ Inferno town comes with the [Inferno Expansion](../content.md).
 
 ## Heroes
 
+- :might: [Fiona](../heroes/fiona.md)
+- :might: [Rashka](../heroes/rashka.md)
+- :magic: [Xyron](../heroes/xyron.md)
+- :magic: [Zydar](../heroes/zydar.md)
+
 
 ## Units
 

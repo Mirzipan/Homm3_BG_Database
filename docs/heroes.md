@@ -211,8 +211,10 @@
 | Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
 | Crag Hack | :might: Barbarian | 4 | 0 | 1 | 1 | Offense | Offense | Stronghold |
+| Dessa | :magic: Battle Mage | 2 | 1 | 1 | 1 | Logistics | Logistics | Stronghold |
 | Gundula | :magic: Battle Mage | 2 | 1 | 1 | 1 | Wisdom | 🚧 | Stronghold |
 | Shiva | :might: Barbarian | 4 | 0 | 1 | 1 | Scouting | Thunderbirds | Stronghold |
+| Tarnum | :might: Barbarian | 4 | 0 | 1 | 1 | Offense | Offense | Stronghold |
 | Yog | :might: Barbarian | 4 | 0 | 1 | 1 | Offense | Cyclops | Stronghold |
 
 
@@ -223,6 +225,15 @@
 | Offense | Ⅰ | :ongoing: Your selected [unit](units.md) gains +1 :attack: |
 | Offense | Ⅳ | :ongoing: For this Combat, every card you play can grant you +1 :attack: instead of its regular effect. |
 | Offense | Ⅵ | :ongoing: Your selected [unit](units.md) gains +1 :attack:. You can discard a card to gain additional +1 :attack:. |
+
+
+### Dessa
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Logistics | Ⅰ | :instant: Extend your Combat for another round. |
+| Logistics | Ⅳ | :effect_map: Gain 1 :movement:. |
+| Logistics | Ⅵ | 🚧 |
 
 
 ### Gundula
@@ -243,6 +254,15 @@
 | Thunderbirds | Ⅵ | 🚧 |
 
 
+### Tarnum
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Offense | Ⅰ | :ongoing: Your selected unit gains +1 :attack:. |
+| Offense | Ⅳ | 🚧 Your selected unit gains +1 :attack:. |
+| Offense | Ⅵ | 🚧 Your selected unit gains +2 :attack:. |
+
+
 ### Yog
 
 | Name | Level | Descrition |
@@ -258,10 +278,21 @@
 
 | Name | Class | :attack: | :defense: | :empower: | :skill: | [Ability](abilities.md) | Specialty | [Content](content.md) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
+| Ciele | :magic: Elementalist | 0 | 0 | 2 | 3 | Water Magic | Magic Arrow | Stretch Goals |
 | Erdamon | :might: Planeswalker | 3 | 1 | 1 | 1 | Estates | Magma Elementals | Conflux |
 | Luna | :magic: Elementalist | 0 | 0 | 2 | 3 | Fire Magic |  Fire Wall |Conflux |
 | Monere | :might: Planeswalker | 3 | 1 | 1 | 1 | Logistics | Magic Elementals | Conflux |
+| Pasis | :might: Planeswalker | 3 | 1 | 1 | 1 | Artillery | Magic Elementals | Stretch Goals |
 | Tarnum | :magic: Elementalist | 0 | 0 | 2 | 3 | Wisdom | 🚧 | Conflux |
+
+
+### Ciele
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Magic Arrow | Ⅰ | :instant: Take a [Magic Arrow](spells/magic_arrow.md) spell from your discard pile and put it into your hand.<br><br>— OR —<br><br>:instant: +1 :empower: |
+| Magic Arrow | Ⅳ | :instant: Take a [Magic Arrow](spells/magic_arrow.md) spell from your discard pile and cast it.<br><br>— OR —<br><br>:instant: +1 :empower: |
+| Magic Arrow | Ⅵ | 🚧 Selected unit suffers 2 :damage:.<br><br>— OR —<br><br>:instant: +2 :empower: |
 
 
 ### Erdamon
@@ -289,6 +320,15 @@
 | Magic Elementals | Ⅰ | 🚧 |
 | Magic Elementals | Ⅳ | 🚧 |
 | Magic Elementals | Ⅵ | 🚧 |
+
+
+### Pasis
+
+| Name | Level | Descrition |
+| :--- | :---: | :---: |
+| Magic Elementals | Ⅰ | :ongoing: For this Combat, your selected [unit's](units.md) :health_points: is increased by 1.<br><br>This effect doubles for the 🚧 Elementals unit. |
+| Magic Elementals | Ⅳ | :instant: Your selected [unit](units.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](units.md) gains +1 :defense:<br><br>This effect doubles for the 🚧 Elementals unit. |
+| Magic Elementals | Ⅵ | :ongoing: For this Combat, your selected [unit's](units.md) :initiative: is increased by 2.<br><br>This effect doubles for the 🚧 Elementals unit. |
 
 
 ### Tarnum

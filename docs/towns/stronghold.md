@@ -19,6 +19,13 @@ Stronghold town comes with the [Stronghold Expansion](../content.md).
 
 ## Heroes
 
+- :might: [Crag Hack](../heroes/crag_hack.md)
+- :magic: [Dessa](../heroes/dessa.md)
+- :magic: [Gundula](../heroes/gundula.md)
+- :might: [Shiva](../heroes/shiva.md)
+- :might: [Tarnum](../heroes/tarnum_stronghold.md)
+- :might: [Yog](../heroes/yog.md)
+
 
 ## Units
 

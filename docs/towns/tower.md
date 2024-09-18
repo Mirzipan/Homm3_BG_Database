@@ -19,6 +19,11 @@ Tower town comes with the [Tower Expansion](../content.md).
 
 ## Heroes
 
+- :magic: [Dracon](../heroes/dracon.md)
+- :might: [Iona](../heroes/iona.md)
+- :might: [Josephine](../heroes/josephine.md)
+- :magic: [Solmyr](../heroes/solmyr.md)
+
 
 ## Units
 

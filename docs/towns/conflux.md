@@ -19,6 +19,13 @@ Conflux town comes with the [Conflux Expansion](../content.md).
 
 ## Heroes
 
+- :magic: [Ciele](../heroes/ciele.md) 
+- :might: [Erdamon](../heroes/erdamon.md) 
+- :magic: [Luna](../heroes/luna.md) 
+- :might: [Monere](../heroes/monere.md) 
+- :might: [Pasis](../heroes/pasis.md) 
+- :magic: [Tarnum](../heroes/tarnum_conflux.md) 
+
 
 ## Units
 

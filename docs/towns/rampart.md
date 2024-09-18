@@ -19,6 +19,11 @@ Rampart town comes with the [Rampart Expansion](../content.md).
 
 ## Heroes
 
+- :might: [Clancy](../heroes/clancy.md)
+- :might: [Gelu](../heroes/gelu.md)
+- :magic: [Gem](../heroes/gem.md)
+- :might: [Mephala](../heroes/mephala.md)
+
 
 ## Units
 
