@@ -1,4 +1,4 @@
-![Ambassador's Sash](../assets/artifacts_major-ambassadors_sash.webp){ width="340" align=left }
+![Ambassador's Sash](../assets/artifacts_major-ambassadors_sash.webp){ width="340" align=right }
 
 # Ambassador's Sash
 ___
