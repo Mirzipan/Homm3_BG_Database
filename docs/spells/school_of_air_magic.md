@@ -5,22 +5,22 @@ One of the four schools of magic.
 
 ## Basic
 
-- [Disrupting Ray](spells/disrupting_ray.md)
-- [Fortune](spells/fortune.md)
-- [Haste](spells/haste.md)
-- [Lightning Bolt](spells/lightning_bolt.md)
-- [Magic Arrow](spells/magic_arrow.md)
-- [Precision](spells/precision.md)
-- [View Air](spells/view_air.md)
+- [Disrupting Ray](disrupting_ray.md)
+- [Fortune](fortune.md)
+- [Haste](haste.md)
+- [Lightning Bolt](lightning_bolt.md)
+- [Magic Arrow](magic_arrow.md)
+- [Precision](precision.md)
+- [View Air](view_air.md)
 
 
 ## Expert
 
-- [Chain Lightning](spells/chain_lightning.md)
-- [Counterstrike](spells/counterstrike.md)
-- [Dimension Door](spells/dimension_door.md)
-- [Fly](spells/fly.md)
-- [Summon Air Elemental](spells/summon_air_elemental.md)
+- [Chain Lightning](chain_lightning.md)
+- [Counterstrike](counterstrike.md)
+- [Dimension Door](dimension_door.md)
+- [Fly](fly.md)
+- [Summon Air Elemental](summon_air_elemental.md)
 
 
 ## See Also

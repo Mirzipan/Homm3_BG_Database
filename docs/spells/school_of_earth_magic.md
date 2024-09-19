@@ -5,22 +5,22 @@ One of the four schools of magic.
 
 ## Basic
 
-- [Anti-Magic](spells/anti-magic.md)
-- [Earthquake](spells/earthquake.md)
-- [Magic Arrow](spells/magic_arrow.md)
-- [Shield](spells/shield.md)
-- [Slow](spells/slow.md)
-- [Stone Skin](spells/stone_skin.md)
-- [View Earth](spells/view_earth.md)
+- [Anti-Magic](anti-magic.md)
+- [Earthquake](earthquake.md)
+- [Magic Arrow](magic_arrow.md)
+- [Shield](shield.md)
+- [Slow](slow.md)
+- [Stone Skin](stone_skin.md)
+- [View Earth](view_earth.md)
 
 
 ## Expert
 
-- [Implosion](spells/implosion.md)
-- [Resurrection](spells/resurrection.md)
-- [Sorrow](spells/sorrow.md)
-- [Summon Earth Elemental](spells/summon_earth_elemental.md)
-- [Town Portal](spells/town_portal.md)
+- [Implosion](implosion.md)
+- [Resurrection](resurrection.md)
+- [Sorrow](sorrow.md)
+- [Summon Earth Elemental](summon_earth_elemental.md)
+- [Town Portal](town_portal.md)
 
 
 ## See Also

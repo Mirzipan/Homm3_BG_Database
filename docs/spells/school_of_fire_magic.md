@@ -5,24 +5,24 @@ One of the four schools of magic.
 
 ## Basic
 
-- [Blind](spells/blind.md)
-- [Bloodlust](spells/bloodlust.md)
-- [Curse](spells/curse.md)
-- [Fire Wall](spells/fire_wall.md)
-- [Magic Arrow](spells/magic_arrow.md)
-- [Misfortune](spells/misfortune.md)
-- [Visions](spells/visions.md)
+- [Blind](blind.md)
+- [Bloodlust](bloodlust.md)
+- [Curse](curse.md)
+- [Fire Wall](fire_wall.md)
+- [Magic Arrow](magic_arrow.md)
+- [Misfortune](misfortune.md)
+- [Visions](visions.md)
 
 
 ## Expert
 
-- [Berserk](spells/berserk.md)
-- [Fire Shield](spells/fire_shield.md)
-- [Fireball](spells/fireball.md)
-- [Frenzy](spells/frenzy.md)
-- [Inferno](spells/inferno.md)
-- [Slayer](spells/slayer.md)
-- [Summon Fire Elemental](spells/summon_fire_elemental.md)
+- [Berserk](berserk.md)
+- [Fire Shield](fire_shield.md)
+- [Fireball](fireball.md)
+- [Frenzy](frenzy.md)
+- [Inferno](inferno.md)
+- [Slayer](slayer.md)
+- [Summon Fire Elemental](summon_fire_elemental.md)
 
 
 ## See Also

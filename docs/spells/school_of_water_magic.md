@@ -5,22 +5,22 @@ One of the four schools of magic.
 
 ## Basic
 
-- [Bless](spells/bless.md)
-- [Cure](spells/cure.md)
-- [Dispel](spells/dispel.md)
-- [Forgetfulness](spells/forgetfulness.md)
-- [Magic Arrow](spells/magic_arrow.md)
-- [Remove Obstacle](spells/remove_obstacle.md)
-- [Weakness](spells/weakness.md)
+- [Bless](bless.md)
+- [Cure](cure.md)
+- [Dispel](dispel.md)
+- [Forgetfulness](forgetfulness.md)
+- [Magic Arrow](magic_arrow.md)
+- [Remove Obstacle](remove_obstacle.md)
+- [Weakness](weakness.md)
 
 
 ## Expert
 
-- [Frost Ring](spells/frost_ring.md)
-- [Mirth](spells/mirth.md)
-- [Prayer](spells/prayer.md)
-- [Summon Water Elemental](spells/summon_water_elemental.md)
-- [Teleport](spells/teleport.md)
+- [Frost Ring](frost_ring.md)
+- [Mirth](mirth.md)
+- [Prayer](prayer.md)
+- [Summon Water Elemental](summon_water_elemental.md)
+- [Teleport](teleport.md)
 
 
 ## See Also
