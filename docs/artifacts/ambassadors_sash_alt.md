@@ -8,7 +8,7 @@ ___
 ___
 *You pause to help a diplomat with a broken axle to fix his problem. In gratitude, he gives you a sash with magical properties which he says will, "help people see things your way."*
 
-## Content
+## Comes With
 
 - [Rampart Expansion](../content.md)
 

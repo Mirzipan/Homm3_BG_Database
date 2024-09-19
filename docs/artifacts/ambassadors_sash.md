@@ -2,8 +2,6 @@
 
 Ambassador's Sash is a major artifact that comes with the [Rampart Expansion](../content.md).
 
-![Ambassador's Sash](../assets/artifacts_major-ambassadors_sash.webp){ width="340" align=left }
-
 *You pause to help a diplomat with a broken axle to fix his problem. In gratitude, he gives you a sash with magical properties which he says will, "help people see things your way."*
 
 
