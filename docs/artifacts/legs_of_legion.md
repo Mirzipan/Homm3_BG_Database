@@ -16,4 +16,8 @@ ___
 
 ## See Also
 
+- [Arms of Legion](arms_of_legion.md)
+- [Head of Legion](head_of_legion.md)
+- [Loins of Legion](loins_of_legion.md)
+- [Torso of Legion](torso_of_legion.md)
 - [List of Artifacts](../artifacts.md)
