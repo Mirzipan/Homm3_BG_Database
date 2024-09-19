@@ -2,6 +2,8 @@ site_name: "Heroes of Might and Magic 3: The Board Game Database"
 site_url: https://mirzipan.github.io/Homm3_BG_Database/
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
