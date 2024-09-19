@@ -16,4 +16,9 @@ ___
 
 ## See Also
 
+- [Dragon Scale Armor](dragon_scale_armor.md)
+- [Dragon Scale Shield](dragon_scale_shield.md)
+- [Dragon Wing Tabard](dragon_wing_tabard.md)
+- [Necklace of Dragonteeth](necklace_of_dragonteeth.md)
+- [Red Dragon Flame Tongue](red_dragon_flame_tongue.md)
 - [List of Artifacts](../artifacts.md)
