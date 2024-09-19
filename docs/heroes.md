@@ -10,7 +10,9 @@
 | [Rion](heroes/rion.md) | [Castle](towns/castle.md) | :magic: Cleric | [Wisdom](abilities/wisdom.md) | [Battlefield Medic](heroes/rion.md#specialty) | Core |
 | [Valeska](heroes/valeska.md) | [Castle](towns/castle.md) | :might: Knight | [Archery](abilities/archery.md) | [Marksmen](heroes/valeska.md#specialty) | Stretch Goals |
 | [Lord Haart](heroes/lord_haart_necropolis.md) | [Necropolis](towns/necropolis.md) | :might: Death Knight | [Necromancy](abilities/necromancy.md) | [Dread Knights](heroes/lord_haart_necropolis.md#specialty) | Tower |
+| [Moandor](heroes/moandor.md) | [Necropolis](towns/necropolis.md) | :might: Death Knight | [Necromancy](abilities/necromancy.md) | [Liches](heroes/moandor.md#specialty) | Regular Stretch Goals |
 | [Sandro](heroes/sandro.md) | [Necropolis](towns/necropolis.md) | :magic: Necromancer | [Sorcery](abilities/sorcery.md) | [Cloak of the Undead King](heroes/sandro.md#specialty) | Core |
+| [Septienna](heroes/septienna.md) | [Necropolis](towns/necropolis.md) | :magic: Necromancer | [Necromancy](abilities/necromancy.md) | [Death Ripple](heroes/septienna.md#specialty) | Regular Stretch Goals |
 | [Tamika](heroes/tamika.md) | [Necropolis](towns/necropolis.md) | :might: Death Knight | [Offense](abilities/offense.md) | [Dread Knights](heroes/tamika.md#specialty) | Core |
 | [Vidomina](heroes/vidomina.md) | [Necropolis](towns/necropolis.md) | :magic: Necromancer | [Necromancy](abilities/necromancy.md) | [Necromancy](heroes/vidomina.md#specialty) | Tower |
 | [Alamar](heroes/alamar.md) | [Dungeon](towns/dungeon.md) | :magic: Warlock | [Wisdom](abilities/wisdom.md) | [Resurrection](heroes/alamar.md#specialty) | Core |

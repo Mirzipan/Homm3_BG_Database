@@ -20,7 +20,9 @@ Necropolis town comes with the [Core Game](../content.md).
 ## Heroes
 
 - :might: [Lord Haart](../heroes/lord_haart_necropolis.md)
+- :might: [Moandor](../heroes/moandor.md)
 - :magic: [Sandro](../heroes/sandro.md)
+- :magic: [Septienna](../heroes/septienna.md)
 - :might: [Tamika](../heroes/tamika.md)
 - :magic: [Vidomina](../heroes/vidomina.md)
 
