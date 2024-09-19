@@ -16,4 +16,7 @@ ___
 
 ## See Also
 
+- [Blackshard of the Dead Knight](blackshard_of_the_dead_knight.md)
+- [Rib Cage](rib_cage.md)
+- [Shield of the Yawning Dead](shield_of_the_yawning_dead.md)
 - [List of Artifacts](../artifacts.md)
