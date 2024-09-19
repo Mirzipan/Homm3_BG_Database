@@ -73,8 +73,8 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Dendroids](units/dendroids.md) | [Rampart](towns/rampart.md) | Pack | :silver: | :unit_ground: | 4 | 2 | **6** | **4** | 15 :gold: | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. | Rampart |
 | [Unicorns](units/unicorns.md) | [Rampart](towns/rampart.md) | Few | :golden: | :unit_ground: | 5 | 1 | 8 | 7 | 11 :gold: | :unit_passive: Reduce any :damage: from [:spellpower:](spells.md) dealt to this unit by 1 (to a minimum of 0), | Rampart |
 | [Unicorns](units/unicorns.md) | [Rampart](towns/rampart.md) | Pack | :golden: | :unit_ground: | **6** | 1 | 8 | **9** | 18 :gold:<br>1 :valuables: | :unit_passive: Reduce any :damage: from [:spellpower:](spells.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), | Rampart |
-| [Gold Dragons](units/gold_dragons.md) | [Rampart](towns/rampart.md) | Few | :golden: | :unit_ground: | 5 | 3 | 9 | 10 | 22 :gold:<br>1 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, | Rampart |
-| [Gold Dragons](units/gold_dragons.md) | [Rampart](towns/rampart.md) | Pack | :golden: | :unit_ground: | **6** | 3 | **10** | **16** | 30 :gold:<br>2 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | Rampart |
+| [Gold Dragons](units/gold_dragons.md) | [Rampart](towns/rampart.md) | Few | :golden: | :unit_flying: | 5 | 3 | 9 | 10 | 22 :gold:<br>1 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, | Rampart |
+| [Gold Dragons](units/gold_dragons.md) | [Rampart](towns/rampart.md) | Pack | :golden: | :unit_flying: | **6** | 3 | **10** | **16** | 30 :gold:<br>2 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | Rampart |
 | [Gnolls](units/gnolls.md) | [Fortress](towns/fortress.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 4 | 2 :gold: | - | Fortress |
 | [Gnolls](units/gnolls.md) | [Fortress](towns/fortress.md) | Pack | :bronze: | :unit_ground: | 2 | 1 | **4** | **5** | 3 :gold: | - | Fortress |
 | [Lizardmen](units/lizardmen.md) | [Fortress](towns/fortress.md) | Few | :bronze: | :unit_ranged: | 2 | 0 | 3 | 4 | 3 :gold: | - | Fortress |
@@ -107,8 +107,8 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Goblins](units/goblins.md) | [Stronghold](towns/stronghold.md) | Pack | :bronze: | :unit_ground: | **2** | 0 | 4 | **8** | 2 :gold: | - | Stronghold |
 | [Wolf Raiders](units/wolf_raiders.md) | [Stronghold](towns/stronghold.md) | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 7 | 3 :gold: | - | Stronghold |
 | [Wolf Raiders](units/wolf_raiders.md) | [Stronghold](towns/stronghold.md) | Pack | :bronze: | :unit_ground: | 2 | 0 | **5** | **8** | 5 :gold: | :unit_attack: Attack this target again. The second attack happens after the target retaliates (if possible). | Stronghold |
-| [Orcs](units/orcs.md) | [Stronghold](towns/stronghold.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 4 | 4 | 4 | - | Stronghold |
-| [Orcs](units/orcs.md) | [Stronghold](towns/stronghold.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | **5** | **5** | 7 :gold: | - | Stronghold |
+| [Orcs](units/orcs.md) | [Stronghold](towns/stronghold.md) | Few | :bronze: | :unit_ranged: | 2 | 1 | 4 | 4 | 4 | - | Stronghold |
+| [Orcs](units/orcs.md) | [Stronghold](towns/stronghold.md) | Pack | :bronze: | :unit_ranged: | **3** | 1 | **5** | **5** | 7 :gold: | - | Stronghold |
 | [Ogres](units/ogres.md) | [Stronghold](towns/stronghold.md) | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 4 | 6 :gold: | :unit_other: Place a +1 :attack: token on a chosen :unit_ground: or :unit_flying: unit for 2 Combat rounds. | Stronghold |
 | [Ogres](units/ogres.md) | [Stronghold](towns/stronghold.md) | Pack | :silver: | :unit_ground: | 3 | 2 | **5** | **5** | 8 :gold: | :unit_other: Place a +2 :attack: token on a chosen :unit_ground: or :unit_flying: unit for 2 Combat rounds. | Stronghold |
 | [Thunderbirds](units/thunderbirds.md) | [Stronghold](towns/stronghold.md) | Few | :silver: | :unit_flying: | 4 | 1 | 6 | 9 | 8 :gold: | - | Stronghold |

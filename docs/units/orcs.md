@@ -7,7 +7,7 @@ Their neutral version comes with the [Stronghold Expansion](../content.md).
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
-| Type | :unit_ground: | :unit_ground: | 🚧 |
+| Type | :unit_ranged: | :unit_ranged: | 🚧 |
 | :attack: | 2 | **3** | 🚧 |
 | :defense: | 1 | 1 | 🚧 |
 | :health_points: | 4 | **5** | 🚧 |

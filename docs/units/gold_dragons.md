@@ -7,7 +7,7 @@ Their neutral variant is an :azure: unit that comes with the [Tower Expansion](.
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
-| Type | :unit_ground: | :unit_ground: | :unit_flying: |
+| Type | :unit_flying: | :unit_flying: | :unit_flying: |
 | :attack: | 5 | **6** | 6 |
 | :defense: | 3 | 3 | 3 |
 | :health_points: | 9 | **10** | 9 |
