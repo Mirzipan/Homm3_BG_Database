@@ -1,6 +1,6 @@
-![Torso of Legion](../assets/artifacts_minor-torso_of_legion.webp){ width="340" align=right }
-
 # Torso of Legion
+
+![Torso of Legion](../assets/artifacts_minor-torso_of_legion.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

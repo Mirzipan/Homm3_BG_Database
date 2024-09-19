@@ -1,6 +1,6 @@
-![Sword of Hellfire](../assets/artifacts_major-sword_of_hellfire.webp){ width="340" align=right }
-
 # Sword of Hellfire
+
+![Sword of Hellfire](../assets/artifacts_major-sword_of_hellfire.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

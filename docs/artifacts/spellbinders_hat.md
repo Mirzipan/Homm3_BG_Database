@@ -1,6 +1,6 @@
-![Spellbinder's Hat](../assets/artifacts_relic-spellbinders_hat.webp){ width="340" align=right }
-
 # Spellbinder's Hat
+
+![Spellbinder's Hat](../assets/artifacts_relic-spellbinders_hat.webp){ width="340" align=right }
 ___
 Relic Artifact
 ___

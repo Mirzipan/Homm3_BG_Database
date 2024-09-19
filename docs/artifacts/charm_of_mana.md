@@ -1,6 +1,6 @@
-![Charm of Mana](../assets/artifacts_minor-charm_of_mana.webp){ width="340" align=right }
-
 # Charm of Mana
+
+![Charm of Mana](../assets/artifacts_minor-charm_of_mana.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

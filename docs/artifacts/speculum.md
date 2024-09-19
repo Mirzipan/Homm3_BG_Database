@@ -1,6 +1,6 @@
-![Speculum](../assets/artifacts_minor-speculum.webp){ width="340" align=right }
-
 # Speculum
+
+![Speculum](../assets/artifacts_minor-speculum.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

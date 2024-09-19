@@ -1,6 +1,6 @@
-![Glyph of Gallantry](../assets/artifacts_minor-glyph_of_gallantry.webp){ width="340" align=right }
-
 # Glyph of Gallantry
+
+![Glyph of Gallantry](../assets/artifacts_minor-glyph_of_gallantry.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

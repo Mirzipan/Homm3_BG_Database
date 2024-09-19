@@ -1,6 +1,6 @@
-![Spirit of Oppression](../assets/artifacts_minor-spirit_of_oppression.webp){ width="340" align=right }
-
 # Spirit of Oppression
+
+![Spirit of Oppression](../assets/artifacts_minor-spirit_of_oppression.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

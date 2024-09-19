@@ -1,6 +1,6 @@
-![Loins of Legion](../assets/artifacts_minor-loins_of_legion.webp){ width="340" align=right }
-
 # Loins of Legion
+
+![Loins of Legion](../assets/artifacts_minor-loins_of_legion.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

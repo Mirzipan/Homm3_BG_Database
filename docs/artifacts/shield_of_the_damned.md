@@ -1,6 +1,6 @@
-![Shield of the Damned](../assets/artifacts_major-shield_of_the_damned.webp){ width="340" align=right }
-
 # Shield of the Damned
+
+![Shield of the Damned](../assets/artifacts_major-shield_of_the_damned.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

@@ -1,6 +1,6 @@
-![Angel Wings](../assets/artifacts_relic-angel_wings.webp){ width="340" align=right }
-
 # Angel Wings
+
+![Angel Wings](../assets/artifacts_relic-angel_wings.webp){ width="340" align=right }
 ___
 Relic Artifact
 ___

@@ -1,6 +1,6 @@
-![Golden Bow](../assets/artifacts_major-golden_bow.webp){ width="340" align=right }
-
 # Golden Bow
+
+![Golden Bow](../assets/artifacts_major-golden_bow.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

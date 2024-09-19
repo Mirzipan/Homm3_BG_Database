@@ -1,6 +1,6 @@
-![Boots of Polarity](../assets/artifacts_relic-boots_of_polarity.webp){ width="340" align=right }
-
 # Boots of Polarity
+
+![Boots of Polarity](../assets/artifacts_relic-boots_of_polarity.webp){ width="340" align=right }
 ___
 Relic Artifact
 ___

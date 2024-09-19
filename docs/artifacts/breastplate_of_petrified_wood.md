@@ -1,6 +1,6 @@
-![Breastplate of Petrified Wood](../assets/artifacts_minor-breastplate_of_petrified_wood.webp){ width="340" align=right }
-
 # Breastplate of Petrified Wood
+
+![Breastplate of Petrified Wood](../assets/artifacts_minor-breastplate_of_petrified_wood.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

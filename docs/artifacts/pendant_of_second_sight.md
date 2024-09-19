@@ -1,6 +1,6 @@
-![Pendant of Second Sight](../assets/artifacts_major-pendant_of_second_sight.webp){ width="340" align=right }
-
 # Pendant of Second Sight
+
+![Pendant of Second Sight](../assets/artifacts_major-pendant_of_second_sight.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

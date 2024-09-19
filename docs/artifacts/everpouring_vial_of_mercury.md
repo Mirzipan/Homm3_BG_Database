@@ -1,6 +1,6 @@
-![Everpouring Vial of Mercury](../assets/artifacts_major-everpouring_vial_of_mercury.webp){ width="340" align=right }
-
 # Everpouring Vial of Mercury
+
+![Everpouring Vial of Mercury](../assets/artifacts_major-everpouring_vial_of_mercury.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

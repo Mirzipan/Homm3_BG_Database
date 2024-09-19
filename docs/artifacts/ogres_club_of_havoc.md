@@ -1,6 +1,6 @@
-![Ogre's Club of Havoc](../assets/artifacts_major-ogres_club_of_havoc.webp){ width="340" align=right }
-
 # Ogre's Club of Havoc
+
+![Ogre's Club of Havoc](../assets/artifacts_major-ogres_club_of_havoc.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

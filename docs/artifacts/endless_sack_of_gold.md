@@ -1,6 +1,6 @@
-![Endless Sack of Gold](../assets/artifacts_relic-endless_sack_of_gold.webp){ width="340" align=right }
-
 # Endless Sack of Gold
+
+![Endless Sack of Gold](../assets/artifacts_relic-endless_sack_of_gold.webp){ width="340" align=right }
 ___
 Relic Artifact
 ___

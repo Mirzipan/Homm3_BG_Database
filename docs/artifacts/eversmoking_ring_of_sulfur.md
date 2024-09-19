@@ -1,6 +1,6 @@
-![Eversmoking Ring of Sulfur](../assets/artifacts_minor-eversmoking_ring_of_sulfur.webp){ width="340" align=right }
-
 # Eversmoking Ring of Sulfur
+
+![Eversmoking Ring of Sulfur](../assets/artifacts_minor-eversmoking_ring_of_sulfur.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

@@ -1,6 +1,6 @@
-![Legs of Legion](../assets/artifacts_minor-legs_of_legion.webp){ width="340" align=right }
-
 # Legs of Legion
+
+![Legs of Legion](../assets/artifacts_minor-legs_of_legion.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

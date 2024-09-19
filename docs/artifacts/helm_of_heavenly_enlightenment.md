@@ -1,6 +1,6 @@
-![Helm of Heavenly Enlightenment](../assets/artifacts_relic-helm_of_heavenly_enlightenment.webp){ width="340" align=right }
-
 # Helm of Heavenly Enlightenment
+
+![Helm of Heavenly Enlightenment](../assets/artifacts_relic-helm_of_heavenly_enlightenment.webp){ width="340" align=right }
 ___
 Relic Artifact
 ___

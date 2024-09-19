@@ -1,6 +1,6 @@
-![Boots of Speed](../assets/artifacts_minor-boots_of_speed.webp){ width="340" align=right }
-
 # Boots of Speed
+
+![Boots of Speed](../assets/artifacts_minor-boots_of_speed.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

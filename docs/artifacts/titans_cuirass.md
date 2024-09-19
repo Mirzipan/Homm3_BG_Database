@@ -1,6 +1,6 @@
-![Titan's Cuirass](../assets/artifacts_relic-titans_cuirass.webp){ width="340" align=right }
-
 # Titan's Cuirass
+
+![Titan's Cuirass](../assets/artifacts_relic-titans_cuirass.webp){ width="340" align=right }
 ___
 Relic Artifact
 ___

@@ -1,6 +1,6 @@
-![Red Dragon Flame Tongue](../assets/artifacts_minor-red_dragon_flame_tongue.webp){ width="340" align=right }
-
 # Red Dragon Flame Tongue
+
+![Red Dragon Flame Tongue](../assets/artifacts_minor-red_dragon_flame_tongue.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

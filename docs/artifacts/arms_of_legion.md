@@ -1,6 +1,6 @@
-![Arms of Legion](../assets/artifacts_major-arms_of_legion.webp){ width="340" align=right }
-
 # Arms of Legion
+
+![Arms of Legion](../assets/artifacts_major-arms_of_legion.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

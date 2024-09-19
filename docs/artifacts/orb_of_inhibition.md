@@ -1,6 +1,6 @@
-![Orb of Inhibition](../assets/artifacts_relic-orb_of_inhibition.webp){ width="340" align=right }
-
 # Orb of Inhibition
+
+![Orb of Inhibition](../assets/artifacts_relic-orb_of_inhibition.webp){ width="340" align=right }
 ___
 Relic Artifact
 ___

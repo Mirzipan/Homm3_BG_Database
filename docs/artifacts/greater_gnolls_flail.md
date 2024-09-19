@@ -1,6 +1,6 @@
-![Greater Gnoll's Flail](../assets/artifacts_minor-greater_gnolls_flail.webp){ width="340" align=right }
-
 # Greater Gnoll's Flail
+
+![Greater Gnoll's Flail](../assets/artifacts_minor-greater_gnolls_flail.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

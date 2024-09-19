@@ -1,6 +1,6 @@
-![Vial of Lifeblood](../assets/artifacts_major-vial_of_lifeblood.webp){ width="340" align=right }
-
 # Vial of Lifeblood
+
+![Vial of Lifeblood](../assets/artifacts_major-vial_of_lifeblood.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

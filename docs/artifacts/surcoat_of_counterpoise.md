@@ -1,6 +1,6 @@
-![Surcoat of Counterpoise](../assets/artifacts_major-surcoat_of_counterpoise.webp){ width="340" align=right }
-
 # Surcoat of Counterpoise
+
+![Surcoat of Counterpoise](../assets/artifacts_major-surcoat_of_counterpoise.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

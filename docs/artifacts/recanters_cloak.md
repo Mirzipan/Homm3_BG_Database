@@ -1,6 +1,6 @@
-![Recanter's Cloak](../assets/artifacts_major-recanters_cloak.webp){ width="340" align=right }
-
 # Recanter's Cloak
+
+![Recanter's Cloak](../assets/artifacts_major-recanters_cloak.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

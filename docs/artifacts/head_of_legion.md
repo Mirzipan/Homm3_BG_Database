@@ -1,6 +1,6 @@
-![Head of Legion](../assets/artifacts_major-head_of_legion.webp){ width="340" align=right }
-
 # Head of Legion
+
+![Head of Legion](../assets/artifacts_major-head_of_legion.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

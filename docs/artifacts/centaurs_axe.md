@@ -1,6 +1,6 @@
-![Centaur's Axe](../assets/artifacts_minor-centaurs_axe.webp){ width="340" align=right }
-
 # Centaur's Axe
+
+![Centaur's Axe](../assets/artifacts_minor-centaurs_axe.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

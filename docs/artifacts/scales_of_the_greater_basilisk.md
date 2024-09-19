@@ -1,6 +1,6 @@
-![Scales of the Greater Basilisk](../assets/artifacts_minor-scales_of_the_greater_basilisk.webp){ width="340" align=right }
-
 # Scales of the Greater Basilisk
+
+![Scales of the Greater Basilisk](../assets/artifacts_minor-scales_of_the_greater_basilisk.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

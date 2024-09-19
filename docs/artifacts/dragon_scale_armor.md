@@ -1,6 +1,6 @@
-![Dragon Scale Armor](../assets/artifacts_relic-dragon_scale_armor.webp){ width="340" align=right }
-
 # Dragon Scale Armor
+
+![Dragon Scale Armor](../assets/artifacts_relic-dragon_scale_armor.webp){ width="340" align=right }
 ___
 Relic Artifact
 ___

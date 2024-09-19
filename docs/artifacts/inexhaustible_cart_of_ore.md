@@ -1,6 +1,6 @@
-![Inexhaustible Cart of Ore](../assets/artifacts_minor-inexhaustible_cart_of_ore.webp){ width="340" align=right }
-
 # Inexhaustible Cart of Ore
+
+![Inexhaustible Cart of Ore](../assets/artifacts_minor-inexhaustible_cart_of_ore.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

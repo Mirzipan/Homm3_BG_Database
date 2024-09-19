@@ -1,6 +1,6 @@
-![Sword of Judgement](../assets/artifacts_relic-sword_of_judgement.webp){ width="340" align=right }
-
 # Sword of Judgement
+
+![Sword of Judgement](../assets/artifacts_relic-sword_of_judgement.webp){ width="340" align=right }
 ___
 Relic Artifact
 ___

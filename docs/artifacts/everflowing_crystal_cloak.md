@@ -1,6 +1,6 @@
-![Everflowing Crystal Cloak](../assets/artifacts_major-everflowing_crystal_cloak.webp){ width="340" align=right }
-
 # Everflowing Crystal Cloak
+
+![Everflowing Crystal Cloak](../assets/artifacts_major-everflowing_crystal_cloak.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

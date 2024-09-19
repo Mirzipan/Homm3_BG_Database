@@ -1,6 +1,6 @@
-![Shackles of War](../assets/artifacts_major-shackles_of_war.webp){ width="340" align=right }
-
 # Shackles of War
+
+![Shackles of War](../assets/artifacts_major-shackles_of_war.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

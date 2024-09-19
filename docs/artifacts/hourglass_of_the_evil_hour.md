@@ -1,6 +1,6 @@
-![Hourglass of the Evil Hour](../assets/artifacts_minor-hourglass_of_the_evil_hour.webp){ width="340" align=right }
-
 # Hourglass of the Evil Hour
+
+![Hourglass of the Evil Hour](../assets/artifacts_minor-hourglass_of_the_evil_hour.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

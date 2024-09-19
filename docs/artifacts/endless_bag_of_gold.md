@@ -1,6 +1,6 @@
-![Endless Bag of Gold](../assets/artifacts_major-endless_bag_of_gold.webp){ width="340" align=right }
-
 # Endless Bag of Gold
+
+![Endless Bag of Gold](../assets/artifacts_major-endless_bag_of_gold.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

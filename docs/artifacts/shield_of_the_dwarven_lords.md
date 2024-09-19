@@ -1,6 +1,6 @@
-![Shield of the Dwarven Lords](../assets/artifacts_minor-shield_of_the_dwarven_lords.webp){ width="340" align=right }
-
 # Shield of the Dwarven Lords
+
+![Shield of the Dwarven Lords](../assets/artifacts_minor-shield_of_the_dwarven_lords.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

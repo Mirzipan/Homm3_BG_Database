@@ -1,6 +1,6 @@
-![Titan's Gladius](../assets/artifacts_relic-titans_gladius.webp){ width="340" align=right }
-
 # Titan's Gladius
+
+![Titan's Gladius](../assets/artifacts_relic-titans_gladius.webp){ width="340" align=right }
 ___
 Relic Artifact
 ___

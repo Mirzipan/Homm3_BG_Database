@@ -1,6 +1,6 @@
-![Cards of Prophecy](../assets/artifacts_major-cards_of_prophecy.webp){ width="340" align=right }
-
 # Cards of Prophecy
+
+![Cards of Prophecy](../assets/artifacts_major-cards_of_prophecy.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

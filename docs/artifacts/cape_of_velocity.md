@@ -1,6 +1,6 @@
-![Cape of Velocity](../assets/artifacts_major-cape_of_velocity.webp){ width="340" align=right }
-
 # Cape of Velocity
+
+![Cape of Velocity](../assets/artifacts_major-cape_of_velocity.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

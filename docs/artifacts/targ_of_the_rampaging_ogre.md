@@ -1,6 +1,6 @@
-![Targ of the Rampaging Ogre](../assets/artifacts_major-targ_of_the_rampaging_ogre.webp){ width="340" align=right }
-
 # Targ of the Rampaging Ogre
+
+![Targ of the Rampaging Ogre](../assets/artifacts_major-targ_of_the_rampaging_ogre.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

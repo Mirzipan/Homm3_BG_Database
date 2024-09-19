@@ -1,6 +1,6 @@
-![Mystic Orb of Mana](../assets/artifacts_major-mystic_orb_of_mana.webp){ width="340" align=right }
-
 # Mystic Orb of Mana
+
+![Mystic Orb of Mana](../assets/artifacts_major-mystic_orb_of_mana.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

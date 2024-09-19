@@ -1,6 +1,6 @@
-![Breastplate of Brimstone](../assets/artifacts_major-breastplate_of_brimstone.webp){ width="340" align=right }
-
 # Breastplate of Brimstone
+
+![Breastplate of Brimstone](../assets/artifacts_major-breastplate_of_brimstone.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

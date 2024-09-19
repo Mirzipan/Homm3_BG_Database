@@ -1,6 +1,6 @@
-![Dragon Scale Shield](../assets/artifacts_major-dragon_scale_shield.webp){ width="340" align=right }
-
 # Dragon Scale Shield
+
+![Dragon Scale Shield](../assets/artifacts_major-dragon_scale_shield.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

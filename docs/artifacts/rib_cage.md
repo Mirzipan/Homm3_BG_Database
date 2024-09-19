@@ -1,6 +1,6 @@
-![Rib Cage](../assets/artifacts_minor-rib_cage.webp){ width="340" align=right }
-
 # Rib Cage
+
+![Rib Cage](../assets/artifacts_minor-rib_cage.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

@@ -1,6 +1,6 @@
-![Tunic of the Cyclops King](../assets/artifacts_major-tunic_of_the_cyclops_king.webp){ width="340" align=right }
-
 # Tunic of the Cyclops King
+
+![Tunic of the Cyclops King](../assets/artifacts_major-tunic_of_the_cyclops_king.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

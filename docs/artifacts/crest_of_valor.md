@@ -1,6 +1,6 @@
-![Crest of Valor](../assets/artifacts_minor-crest_of_valor.webp){ width="340" align=right }
-
 # Crest of Valor
+
+![Crest of Valor](../assets/artifacts_minor-crest_of_valor.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

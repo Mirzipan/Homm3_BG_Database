@@ -1,6 +1,6 @@
-![Necklace of Swiftness](../assets/artifacts_minor-necklace_of_swiftness.webp){ width="340" align=right }
-
 # Necklace of Swiftness
+
+![Necklace of Swiftness](../assets/artifacts_minor-necklace_of_swiftness.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

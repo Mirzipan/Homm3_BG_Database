@@ -1,6 +1,6 @@
-![Equestrian's Gloves](../assets/artifacts_minor-equestrians_gloves.webp){ width="340" align=right }
-
 # Equestrian's Gloves
+
+![Equestrian's Gloves](../assets/artifacts_minor-equestrians_gloves.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

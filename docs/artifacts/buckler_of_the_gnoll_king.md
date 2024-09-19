@@ -1,6 +1,6 @@
-![Buckler of the Gnoll King](../assets/artifacts_minor-buckler_of_the_gnoll_king.webp){ width="340" align=right }
-
 # Buckler of the Gnoll King
+
+![Buckler of the Gnoll King](../assets/artifacts_minor-buckler_of_the_gnoll_king.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

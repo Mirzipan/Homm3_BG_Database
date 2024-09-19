@@ -1,6 +1,6 @@
-![Dragon Wing Tabard](../assets/artifacts_minor-dragon_wing_tabard.webp){ width="340" align=right }
-
 # Dragon Wing Tabard
+
+![Dragon Wing Tabard](../assets/artifacts_minor-dragon_wing_tabard.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

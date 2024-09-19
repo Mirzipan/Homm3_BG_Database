@@ -1,6 +1,6 @@
-![Endless Purse of Gold](../assets/artifacts_major-endless_purse_of_gold.webp){ width="340" align=right }
-
 # Endless Purse of Gold
+
+![Endless Purse of Gold](../assets/artifacts_major-endless_purse_of_gold.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

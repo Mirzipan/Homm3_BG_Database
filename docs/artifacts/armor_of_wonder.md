@@ -1,6 +1,6 @@
-![Armor of Wonder](../assets/artifacts_minor-armor_of_wonder.webp){ width="340" align=right }
-
 # Armor of Wonder
+
+![Armor of Wonder](../assets/artifacts_minor-armor_of_wonder.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

@@ -1,6 +1,6 @@
-![Blackshard of the Dead Knight](../assets/artifacts_minor-blackshard_of_the_dead_knight.webp){ width="340" align=right }
-
 # Blackshard of the Dead Knight
+
+![Blackshard of the Dead Knight](../assets/artifacts_minor-blackshard_of_the_dead_knight.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

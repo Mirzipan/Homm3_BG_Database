@@ -1,6 +1,6 @@
-![Sentinel's Shield](../assets/artifacts_relic-sentinels_shield.webp){ width="340" align=right }
-
 # Sentinel's Shield
+
+![Sentinel's Shield](../assets/artifacts_relic-sentinels_shield.webp){ width="340" align=right }
 ___
 Relic Artifact
 ___

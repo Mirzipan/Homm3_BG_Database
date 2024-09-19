@@ -1,6 +1,6 @@
-![Pendant of Negativity](../assets/artifacts_major-pendant_of_negativity.webp){ width="340" align=right }
-
 # Pendant of Negativity
+
+![Pendant of Negativity](../assets/artifacts_major-pendant_of_negativity.webp){ width="340" align=right }
 ___
 Major Artifact
 ___

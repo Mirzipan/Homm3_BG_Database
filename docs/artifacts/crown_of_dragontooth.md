@@ -1,6 +1,6 @@
-![Crown of Dragontooth](../assets/artifacts_relic-crown_of_dragontooth.webp){ width="340" align=right }
-
 # Crown of Dragontooth
+
+![Crown of Dragontooth](../assets/artifacts_relic-crown_of_dragontooth.webp){ width="340" align=right }
 ___
 Relic Artifact
 ___

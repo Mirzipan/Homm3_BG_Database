@@ -1,6 +1,6 @@
-![Ring of the Wayfarer](../assets/artifacts_minor-ring_of_the_wayfarer.webp){ width="340" align=right }
-
 # Ring of the Wayfarer
+
+![Ring of the Wayfarer](../assets/artifacts_minor-ring_of_the_wayfarer.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

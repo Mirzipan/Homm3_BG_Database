@@ -1,6 +1,6 @@
-![Helm of the Alabaster Unicorn](../assets/artifacts_minor-helm_of_the_alabaster_unicorn.webp){ width="340" align=right }
-
 # Helm of the Alabaster Unicorn
+
+![Helm of the Alabaster Unicorn](../assets/artifacts_minor-helm_of_the_alabaster_unicorn.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

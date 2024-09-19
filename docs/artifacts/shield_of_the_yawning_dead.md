@@ -1,6 +1,6 @@
-![Shield of the Yawning Dead](../assets/artifacts_minor-shield_of_the_yawning_dead.webp){ width="340" align=right }
-
 # Shield of the Yawning Dead
+
+![Shield of the Yawning Dead](../assets/artifacts_minor-shield_of_the_yawning_dead.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___

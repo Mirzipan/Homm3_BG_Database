@@ -1,6 +1,6 @@
-![Skull Helmet](../assets/artifacts_minor-skull_helmet.webp){ width="340" align=right }
-
 # Skull Helmet
+
+![Skull Helmet](../assets/artifacts_minor-skull_helmet.webp){ width="340" align=right }
 ___
 Minor Artifact
 ___
