@@ -1,13 +1,17 @@
+![Necklace of Dragonteeth](../assets/artifacts_major-necklace_of_dragonteeth.webp){ width="340" align=right }
+
 # Necklace of Dragonteeth
-
-Necklace of Dragonteeth is a major artifact that comes with the [Regular Stretch Goals](../content.md).
-
+___
+Major Artifact
+___
+:instant: +2 :empower:.<br><br>— OR —<br><br>:ongoing: During this Combat, you can cast 2 [:spellpower:](../spells.md) per Combat round.
+___
 *🚧*
 
 
-## Effect
+## Comes With
 
-:instant: +2 :empower:.<br><br>— OR —<br><br>:ongoing: During this Combat, you can cast 2 [:spellpower:](../spells.md) per Combat round.
+- [Regular Stretch Goals](../content.md)
 
 
 ## See Also

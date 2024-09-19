@@ -1,13 +1,17 @@
+![Inexhaustible Card of Lumber](../assets/artifacts_minor-inexhaustible_card_of_lumber.webp){ width="340" align=right }
+
 # Inexhaustible Card of Lumber
-
-Inexhaustible Card of Lumber is a minor artifact that comes with the [Core Game](../content.md).
-
+___
+Minor Artifact
+___
+:instant: Gain 2 :building_materials:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 4 :building_materials:.
+___
 *Pausing to rest and light a cook fire, you pull wood out of a nearby lumber cart. As you keep pulling wood from the cart, you notice its cargo does not shrink. You realize to your delight that the cart is enchanted, so you take it along.*
 
 
-## Effect
+## Comes With
 
-:instant: Gain 2 :building_materials:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 4 :building_materials:.
+- [Core Game](../content.md)
 
 
 ## See Also

@@ -1,13 +1,17 @@
+![Sentinel's Shield](../assets/artifacts_relic-sentinels_shield.webp){ width="340" align=right }
+
 # Sentinel's Shield
-
-Sentinel's Shield is a relic artifact that comes with the [Core Game](../content.md).
-
+___
+Relic Artifact
+___
+:instant: Discard 1 card to gain +3 :defense:.<br><br>— OR —<br><br>:instant: +2 :defense:
+___
 *You find a large box that seems to be made from some unknown material. When you touch it, the box opens with a load hiss, revealing a gleaming shield within.*
 
 
-## Effect
+## Comes With
 
-:instant: Discard 1 card to gain +3 :defense:.<br><br>— OR —<br><br>:instant: +2 :defense:
+- [Core Game](../content.md)
 
 
 ## See Also

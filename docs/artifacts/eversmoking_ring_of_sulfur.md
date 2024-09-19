@@ -1,13 +1,17 @@
+![Eversmoking Ring of Sulfur](../assets/artifacts_minor-eversmoking_ring_of_sulfur.webp){ width="340" align=right }
+
 # Eversmoking Ring of Sulfur
-
-Eversmoking Ring of Sulfur is a minor artifact that comes with the [Regular Stretch Goals](../content.md).
-
+___
+Minor Artifact
+___
+:permanent: At the beginning of each Resources round, gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 2 :valuables:.
+___
 *🚧*
 
 
-## Effect
+## Comes With
 
-:permanent: At the beginning of each Resources round, gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 2 :valuables:.
+- [Regular Stretch Goals](../content.md)
 
 
 ## See Also

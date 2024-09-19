@@ -1,13 +1,17 @@
+![Pendant of Courage](../assets/artifacts_major-pendant_of_courage.webp){ width="340" align=right }
+
 # Pendant of Courage
-
-Pendant of Courage is a major artifact that comes with the [Regular Stretch Goals](../content.md).
-
+___
+Major Artifact
+___
+🚧
+___
 *🚧*
 
 
-## Effect
+## Comes With
 
-🚧
+- [Regular Stretch Goals](../content.md)
 
 
 ## See Also

@@ -1,13 +1,17 @@
+![Angel Wings](../assets/artifacts_relic-angel_wings.webp){ width="340" align=right }
+
 # Angel Wings
-
-Angel Wings is a relic artifact that comes with the [Core Game](../content.md).
-
+___
+Relic Artifact
+___
+:effect_map: Chosen [Hero](../heroes.md) gain +1 :movement: and can move through any fields without resolving them. The last visited field must be resolved normally.<br><br>— OR —<br><br>:instant: Draw a card.
+___
 *Not really wanting to know where the Angel, whose wings these belong to, is, you take the wings and quickly depart.*
 
 
-## Effect
+## Comes With
 
-:effect_map: Chosen [Hero](../heroes.md) gain +1 :movement: and can move through any fields without resolving them. The last visited field must be resolved normally.<br><br>— OR —<br><br>:instant: Draw a card.
+- [Core Game](../content.md)
 
 
 ## See Also

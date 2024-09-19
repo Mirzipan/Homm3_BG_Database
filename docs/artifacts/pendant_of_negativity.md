@@ -1,13 +1,17 @@
+![Pendant of Negativity](../assets/artifacts_major-pendant_of_negativity.webp){ width="340" align=right }
+
 # Pendant of Negativity
-
-Pendant of Negativity is a major artifact that comes with the [Regular Stretch Goals](../content.md).
-
+___
+Major Artifact
+___
+:instant: Ignore the effect of a [spell](../spells.md) from the [School of Air Magic](../spells/school_of_air_magic.md)<br><br>— OR —<br><br>:ongoing: Ignore the effect of a [spell](../spells.md) from the [School of Air Magic](../spells/school_of_air_magic.md)
+___
 *🚧*
 
 
-## Effect
+## Comes With
 
-:instant: Ignore the effect of a [spell](../spells.md) from the [School of Air Magic](../spells/school_of_air_magic.md)<br><br>— OR —<br><br>:ongoing: Ignore the effect of a [spell](../spells.md) from the [School of Air Magic](../spells/school_of_air_magic.md)
+- [Regular Stretch Goals](../content.md)
 
 
 ## See Also

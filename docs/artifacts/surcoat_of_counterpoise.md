@@ -1,13 +1,17 @@
+![Surcoat of Counterpoise](../assets/artifacts_major-surcoat_of_counterpoise.webp){ width="340" align=right }
+
 # Surcoat of Counterpoise
-
-Surcoat of Counterpoise is a major artifact that comes with the [Tower Expansion](../content.md).
-
+___
+Major Artifact
+___
+:instant: Play this card immediately after an enemty casts a [:spellpower:](../spells.md). If it was cast with 1:empower: or less, ignore the [:spellpower:](../spells.md) effect.<br><br>— OR —<br><br>:instant: Remove this card, then **Search(1)**:artifact:.
+___
 *The Necromancer blasts the Paladin with a fire bolt, bringing him to his knees. You slay the evil one before the final blow. The grateful Paladin gives you the cloak that saved him.*
 
 
-## Effect
+## Comes With
 
-:instant: Play this card immediately after an enemty casts a [:spellpower:](../spells.md). If it was cast with 1:empower: or less, ignore the [:spellpower:](../spells.md) effect.<br><br>— OR —<br><br>:instant: Remove this card, then **Search(1)**:artifact:.
+- [Tower Expansion](../content.md)
 
 
 ## See Also

@@ -1,13 +1,17 @@
+![Necklace of Swiftness](../assets/artifacts_minor-necklace_of_swiftness.webp){ width="340" align=right }
+
 # Necklace of Swiftness
-
-Necklace of Swiftness is a minor artifact that comes with the [Regular Stretch Goals](../content.md).
-
+___
+Minor Artifact
+___
+🚧
+___
 *🚧*
 
 
-## Effect
+## Comes With
 
-🚧
+- [Regular Stretch Goals](../content.md)
 
 
 ## See Also

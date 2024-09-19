@@ -1,13 +1,17 @@
+![Scales of the Greater Basilisk](../assets/artifacts_minor-scales_of_the_greater_basilisk.webp){ width="340" align=right }
+
 # Scales of the Greater Basilisk
-
-Scales of the Greater Basilisk is a minor artifact that comes with the [Fortress Expansion](../content.md).
-
+___
+Minor Artifact
+___
+:instant: +1 :defense:<br><br>— OR —<br><br>:instant: +1 :attack:
+___
 *You meet an old Armorer, who claims he owes you a favor. Taking him up on it, he pieces together some Basilisk scales, forming a well-fashioned breastplate.*
 
 
-## Effect
+## Comes With
 
-:instant: +1 :defense:<br><br>— OR —<br><br>:instant: +1 :attack:
+- [Fortress Expansion](../content.md)
 
 
 ## See Also

@@ -1,13 +1,17 @@
+![Breastplate of Brimstone](../assets/artifacts_major-breastplate_of_brimstone.webp){ width="340" align=right }
+
 # Breastplate of Brimstone
-
-Breastplate of Brimstone is a major artifact that comes with the [Inferno Expansion](../content.md).
-
+___
+Major Artifact
+___
+:instant: **Search(../2)** [:spellpower:](../spells.md).<br><br>— OR —<br><br>:instant: +1 :empower:, then discard up to 3 cards from your hand to gain +1 :empower: per card discarded.
+___
 *You meet a blacksmith who is melting down old pieces of armor. When he learns of your quest, he gives you a breastplate that he claimes refused to melt, and is therefore of no value to him.*
 
 
-## Effect
+## Comes With
 
-:instant: **Search(../2)** [:spellpower:](../spells.md).<br><br>— OR —<br><br>:instant: +1 :empower:, then discard up to 3 cards from your hand to gain +1 :empower: per card discarded.
+- [Inferno Expansion](../content.md)
 
 
 ## See Also

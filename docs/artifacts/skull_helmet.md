@@ -1,13 +1,17 @@
+![Skull Helmet](../assets/artifacts_minor-skull_helmet.webp){ width="340" align=right }
+
 # Skull Helmet
-
-Skull Helmet is a minor artifact that comes with the [Regular Stretch Goals](../content.md).
-
+___
+Minor Artifact
+___
+🚧
+___
 *🚧*
 
 
-## Effect
+## Comes With
 
-🚧
+- [Regular Stretch Goals](../content.md)
 
 
 ## See Also
