@@ -18,6 +18,6 @@
 
 ## See Also
 
-- [[Minor Artifact](major_artifacts.md)s](minor_artifacts.md)
-- [[Major Artifact](major_artifacts.md)s](major_artifacts.md)
+- [Minor Artifact](minor_artifacts.md)
+- [Major Artifact](major_artifacts.md)
 - [List of Artifacts](../artifacts.md)
