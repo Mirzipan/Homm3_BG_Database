@@ -6,7 +6,7 @@
 ___
 :permanent: +1 :empower: for spells from [School of Air Magic](../spells/school_of_air_magic.md).
 ___ 
-<p style="text-align:center;"> :expert: </p>
+<span style="text-align: center;"> :expert: </span>
 While casting :spellpower: from the [School of Air](../spells/school_of_air_magic.md), you can discard this card, then gain +3 :empower:.
 ___
 
