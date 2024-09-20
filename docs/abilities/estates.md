@@ -1,10 +1,19 @@
 # Estates
 
-Estates is an ability that comes with the [Core Game](../content.md).
+![Estates](../assets/abilities-estates.webp){ width="340" align=right }
 
-| Effect | :expert: Effect |
-| :---: | :---: |
-| :instant: Gain 3 :gold:. | :instant: Gain 6 :gold:. |
+___
+:instant: Gain 3 :gold:.
+___
+<p style="text-align: center;" markdown> :expert: </p>
+
+:instant: Gain 6 :gold:.
+___
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

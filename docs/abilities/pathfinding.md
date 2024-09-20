@@ -1,10 +1,19 @@
 # Pathfinding
 
-Pathfinding is an ability that comes with the [Tower Expansion](../content.md).
+![Pathfinding](../assets/abilities-pathfinding.webp){ width="340" align=right }
 
-| Effect | :expert: Effect |
-| :---: | :---: |
-| :effect_map: This turn, your Hero can move through fields with Neutral Units and Enemy Heroes, but if they end their movement in one of these fields, Combat begins. | :effect_map: Your Hero can move over the yellow border and blocked fields, but cannot end movement on them. |
+___
+:effect_map: This turn, your Hero can move through fields with Neutral Units and Enemy Heroes, but if they end their movement in one of these fields, Combat begins.
+___
+<p style="text-align: center;" markdown> :expert: </p>
+
+:effect_map: Your Hero can move over the yellow border and blocked fields, but cannot end movement on them.
+___
+
+
+## Comes With
+
+- [Tower Expansion](../content.md)
 
 
 ## See Also

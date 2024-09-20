@@ -1,10 +1,19 @@
 # Tactics
 
-Tactics is an ability that comes with the [Core Game](../content.md).
+![Tactics](../assets/abilities-tactics.webp){ width="340" align=right }
 
-| Effect | :expert: Effect |
-| :---: | :---: |
-| :instant: At the start of Combat, you can switch the position of any 2 of your [units](../units.md). | :activation: During Combat, you can switch the position of any 2 of your [units](../units.md). |
+___
+:instant: At the start of Combat, you can switch the position of any 2 of your [units](../units.md).
+___
+<p style="text-align: center;" markdown> :expert: </p>
+
+:activation: During Combat, you can switch the position of any 2 of your [units](../units.md).
+___
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

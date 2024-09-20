@@ -1,10 +1,19 @@
 # Offense
 
-Offense is an ability that comes with the [Core Game](../content.md).
+![Offense](../assets/abilities-offense.webp){ width="340" align=right }
 
-| Effect | :expert: Effect |
-| :---: | :---: |
-| :instant: +1 :attack:<br>Then draw 1 card. | :instant: +2 :attack:<br>Then draw 1 card. |
+___
+:instant: +1 :attack:<br>Then draw 1 card.
+___
+<p style="text-align: center;" markdown> :expert: </p>
+
+:instant: +2 :attack:<br>Then draw 1 card.
+___
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

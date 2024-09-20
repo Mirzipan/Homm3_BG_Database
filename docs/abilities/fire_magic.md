@@ -1,10 +1,19 @@
 # Fire Magic
 
-Fire Magic is an ability that comes with the [Tower Expansion](../content.md).
+![Fire Magic](../assets/abilities-fire_magic.webp){ width="340" align=right }
 
-| Effect | :expert: Effect |
-| :---: | :---: |
-| :permanent: +1 :empower: for spells from [School of Fire Magic](../spells/school_of_fire_magic.md). | While casting :spellpower: from the [School of Fire](../spells/school_of_fire_magic.md), you can discard this card, then gain +3 :empower:. |
+___
+:permanent: +1 :empower: for spells from [School of Fire Magic](../spells/school_of_fire_magic.md).
+___
+<p style="text-align: center;" markdown> :expert: </p>
+
+While casting :spellpower: from the [School of Fire](../spells/school_of_fire_magic.md), you can discard this card, then gain +3 :empower:.
+___
+
+
+## Comes With
+
+- [Tower Expansion](../content.md)
 
 
 ## See Also

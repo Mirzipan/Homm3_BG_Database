@@ -1,12 +1,19 @@
 # Necromancy
 
-Necromancy is an ability that comes with the [Core Game](../content.md).
+![Necromancy](../assets/abilities-necromancy.webp){ width="340" align=right }
 
-It is currently the only ability that is strictly limited to the [Necropolis Faction](../towns/necropolis.md), which is indicated by the :necro: emblem.
+___
+:effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](../units.md) of your choice for half the :gold: cost (rounded down).
+___
+<p style="text-align: center;" markdown> :expert: </p>
 
-| Effect | :expert: Effect |
-| :---: | :---: |
-| :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](../units.md) of your choice for half the :gold: cost (rounded down). | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units.md) of your choice for half the :gold: cost (rounded down). |
+:effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units.md) of your choice for half the :gold: cost (rounded down).
+___
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## Notes

@@ -1,10 +1,19 @@
 # Interference
 
-Interference is an ability that comes with the [Cove Expansion](../content.md).
+![Interference](../assets/abilities-interference.webp){ width="340" align=right }
 
-| Effect | :expert: Effect |
-| :---: | :---: |
-| 🚧 | 🚧 |
+___
+🚧
+___
+<p style="text-align: center;" markdown> :expert: </p>
+
+🚧
+___
+
+
+## Comes With
+
+- [Cove Expansion](../content.md)
 
 
 ## See Also

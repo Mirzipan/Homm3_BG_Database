@@ -1,10 +1,19 @@
 # Logistics
 
-Logistics is an ability that comes with the [Core Game](../content.md).
+![Logistics](../assets/abilities-logistics.webp){ width="340" align=right }
 
-| Effect | :expert: Effect |
-| :---: | :---: |
-| :ongoing: At the end of your turn, move your Hero's model to an adjacent empty field. | :instant: Your Hero gains +1 Movement. |
+___
+:ongoing: At the end of your turn, move your Hero's model to an adjacent empty field.
+___
+<p style="text-align: center;" markdown> :expert: </p>
+
+:instant: Your Hero gains +1 Movement.
+___
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

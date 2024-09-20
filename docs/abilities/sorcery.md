@@ -1,10 +1,19 @@
 # Sorcery
 
-Sorcery is an ability that comes with the [Core Game](../content.md).
+![Sorcery](../assets/abilities-sorcery.webp){ width="340" align=right }
 
-| Effect | :expert: Effect |
-| :---: | :---: |
-| :instant: +1 :empower:<br>Then draw 1 card. | :instant: +2 :empower:<br>Then draw 1 card. |
+___
+:instant: +1 :empower:<br>Then draw 1 card.
+___
+<p style="text-align: center;" markdown> :expert: </p>
+
+:instant: +2 :empower:<br>Then draw 1 card.
+___
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

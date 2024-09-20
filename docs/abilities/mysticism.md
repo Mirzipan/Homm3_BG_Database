@@ -1,10 +1,19 @@
 # Mysticism
 
-Mysticism is an ability that comes with the [Core Game](../content.md).
+![Mysticism](../assets/abilities-mysticism.webp){ width="340" align=right }
 
-| Effect | :expert: Effect |
-| :---: | :---: |
-| :instant: Play this card immediately after casting a spell. Instead of discarding the [Spell](../spells.md) card, take it back into your hand. | :instant: Play this card immediately after casting a spell. Instead of discarding the [Spell](../spells.md) card and all other cards player together with it, take them back to your hand. |
+___
+:instant: Play this card immediately after casting a spell. Instead of discarding the [Spell](../spells.md) card, take it back into your hand.
+___
+<p style="text-align: center;" markdown> :expert: </p>
+
+:instant: Play this card immediately after casting a spell. Instead of discarding the [Spell](../spells.md) card and all other cards player together with it, take them back to your hand.
+___
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also
