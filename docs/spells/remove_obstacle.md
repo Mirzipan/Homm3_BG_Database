@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Water Spell](school_of_water_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Remove \* obstacles (except [units](../units.md)) from the Combat board.<br><br>:empower: 0 - \*1<br>:empower: 1 - \*2<br>:empower: 2 - \*3</p>
+<p style="text-align: center;" markdown>:instant: Remove \* obstacles (except [units](../units.md)) from the Combat board.<br><br>:empower: 0 - \*1<br>:empower: 1 - \*2<br>:empower: 2 - \*3<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 

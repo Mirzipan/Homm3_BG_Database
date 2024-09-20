@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Water Spell](school_of_water_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: You can reroll each of your [Attack dice](../dice.md#attack-die) once. During:<br><br>:empower: 0 - This Activation<br>:empower: 2 - This Combat round<br>:empower: 4 - This Combat</p>
+<p style="text-align: center;" markdown>:ongoing: You can reroll each of your [Attack dice](../dice.md#attack-die) once. During:<br><br>:empower: 0 - This Activation<br>:empower: 2 - This Combat round<br>:empower: 4 - This Combat<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 
