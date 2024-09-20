@@ -11,44 +11,44 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 
 | Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content.md) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| S1 | Dirt | ❌ | - | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | [Necropolis Town](towns.md#necropolis) | [Resources](fields.md#visitable) | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | Core |
-| S2 | Subterranean | - | ❌ | [Resources](fields.md#visitable) | [Dungeon Town](towns.md#dungeon) | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | Core |
-| S3 | Grass | ❌ | - | Ⅰ<br><br>[Treasure](fields.md#visitable) | [Castle Town](towns.md#castle) | [Resources](fields.md#visitable) | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | - | Core |
-| S4 | Grass | - | [Resources](fields.md#visitable) | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | [Rampart Town](towns.md#rampart) | ❌ | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | Rampart |
-| S5 | Swamp | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | ❌ | [Fortress Town](towns.md#fortress) | [Resources](fields.md#visitable) | - | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | Fortress |
-| S6 | Dirt | [Resources](fields.md#visitable) | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | - | [Inferno Town](towns.md#inferno) | ❌ | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | Inferno |
-| S7 🔮 | Rough | [Resources](fields.md#visitable) | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | - | [Stronghold Town](towns.md#stronghold) | ❌ | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | Stronghold |
-| S8 🔮 | Grass | [Resources](fields.md#visitable) | - | ❌| [Conflux Town](towns.md#conflux) | Ⅰ<br><br>[Treasure](fields.md#visitable) |Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | - | Conflux |
-| S9 🔮 | Highlands | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | - | ❌| [Cove Town](towns.md#cove) | - | Ⅰ<br><br>[Treasure](fields.md#visitable) | [Resources](fields.md#visitable) | Cove |
-| #S1 | Snow | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | ❌ | - | [Tower Town](towns.md#tower) | - | [Resources](fields.md#visitable) | Ⅰ<br><br>[Treasure](fields.md#visitable) | Tower |
+| S1 | Dirt | ❌ | - | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | [Necropolis Town](towns/necropolis.md) | [Resources](fields.md#visitable) | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | Core |
+| S2 | Subterranean | - | ❌ | [Resources](fields.md#visitable) | [Dungeon Town](towns/dungeon.md) | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | Core |
+| S3 | Grass | ❌ | - | Ⅰ<br><br>[Treasure](fields.md#visitable) | [Castle Town](towns/castle.md) | [Resources](fields.md#visitable) | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | - | Core |
+| S4 | Grass | - | [Resources](fields.md#visitable) | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | [Rampart Town](towns/rampart.md) | ❌ | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | Rampart |
+| S5 | Swamp | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | ❌ | [Fortress Town](towns/fortress.md) | [Resources](fields.md#visitable) | - | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | Fortress |
+| S6 | Dirt | [Resources](fields.md#visitable) | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | - | [Inferno Town](towns/inferno.md) | ❌ | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | Inferno |
+| S7 🔮 | Rough | [Resources](fields.md#visitable) | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | - | [Stronghold Town](towns/stronghold.md) | ❌ | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | Stronghold |
+| S8 🔮 | Grass | [Resources](fields.md#visitable) | - | ❌| [Conflux Town](towns/conflux.md) | Ⅰ<br><br>[Treasure](fields.md#visitable) |Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | - | Conflux |
+| S9 🔮 | Highlands | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | - | ❌| [Cove Town](towns/cove.md) | - | Ⅰ<br><br>[Treasure](fields.md#visitable) | [Resources](fields.md#visitable) | Cove |
+| #S1 | Snow | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | ❌ | - | [Tower Town](towns/tower.md) | - | [Resources](fields.md#visitable) | Ⅰ<br><br>[Treasure](fields.md#visitable) | Tower |
 
 
 ## Far
 
 | Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content.md) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| F1 | Dirt | Ⅲ<br><br>[Necropolis Settlement](towns.md#necropolis) | [Windmill](fields.md#visitable) | ❌ | - | Ⅱ<br><br>[Artifact](artifacts.md) | [Trading Post](trading.md) | [Stables](fields.md#revisitable) | Core |
-| F2 | Subterranean | [Trading Post](trading.md) | Ⅲ<br><br>[Dungeon Settlement](towns.md#dungeon) | [Shrine of Magic Incantation](spells.md) | - | Magic Spring | ❌ | [Artifact](artifacts.md) | Core |
-| F3 | Grass | Water Wheel | Learning Stone | Ⅲ<br><br>[Castle Settlement](towns.md#castle) | Ⅱ<br><br>[Artifact](artifacts.md) | [Stables](fields.md#revisitable) | - | ❌ | Core |
+| F1 | Dirt | Ⅲ<br><br>[Necropolis Settlement](towns/necropolis.md) | [Windmill](fields.md#visitable) | ❌ | - | Ⅱ<br><br>[Artifact](artifacts.md) | [Trading Post](trading.md) | [Stables](fields.md#revisitable) | Core |
+| F2 | Subterranean | [Trading Post](trading.md) | Ⅲ<br><br>[Dungeon Settlement](towns/dungeon.md) | [Shrine of Magic Incantation](spells.md) | - | Magic Spring | ❌ | [Artifact](artifacts.md) | Core |
+| F3 | Grass | Water Wheel | Learning Stone | Ⅲ<br><br>[Castle Settlement](towns/castle.md) | Ⅱ<br><br>[Artifact](artifacts.md) | [Stables](fields.md#revisitable) | - | ❌ | Core |
 | F4 | Dirt | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) | Ⅱ<br><br>Magic Spring | Water Wheel | ❌ | [Trading Post](trading.md) | Temple | - | Core |
 | F5 | Subterranean | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) | Ⅱ<br><br>Mystical Garden | - | Redwood Observatory | ❌ | [Trading Post](trading.md) | Learning Stone | Core |
 | F6 | Grass | Ⅱ<br><br>[Artifact](artifacts.md) | [Trading Post](trading.md) | Water Wheel | ❌ | [Shrine of Magic Incantation](spells.md) | - | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) | Core |
 | F7 | Dirt | Ⅱ<br><br>[Treasure](fields.md#visitable) | ❌ | Learning Stone | [Shrine of Magic Gesture](spells.md) | - | Redwood Observatory | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | Core |
 | F8 | Subterranean | [Stables](fields.md#revisitable) | - | Temple | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | [Windmill](fields.md#visitable) | Ⅱ<br><br>[Treasure](fields.md#visitable) | ❌ | Core |
 | F9 | Grass | - | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | ❌ | Redwood Observatory | Fountain of Youth | Ⅱ<br><br>[Treasure](fields.md#visitable) | Learning Stone | Core |
-| F10 | Grass | Ⅲ<br><br>[Rampart Settlement](towns.md#rampart) | [Trading Post](trading.md) | ❌ | [Windmill](fields.md#visitable) | Ⅱ<br><br>Magic Spring | - | Learning Stone | Rampart |
+| F10 | Grass | Ⅲ<br><br>[Rampart Settlement](towns/rampart.md) | [Trading Post](trading.md) | ❌ | [Windmill](fields.md#visitable) | Ⅱ<br><br>Magic Spring | - | Learning Stone | Rampart |
 | F11 | Grass | [Shrine of Magic Gesture](spells.md) | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) | [Trading Post](trading.md) | Ⅱ<br><br>Mystical Garden | Temple | - | ❌ | Rampart |
 | F12 | Grass | Ⅱ<br><br>Witch Hut | ❌ | [Artifact](artifacts.md) | War Machine Factory | Mystical Garden | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | - | Rampart |
-| F13 | Swamp | Water Wheel | ❌ | Ⅱ<br><br>[Treasure](fields.md#visitable) | Scholar | Learning Stone | - | Ⅲ<br><br>[Fortress Settlement](towns.md#fortress) | Fortress |
+| F13 | Swamp | Water Wheel | ❌ | Ⅱ<br><br>[Treasure](fields.md#visitable) | Scholar | Learning Stone | - | Ⅲ<br><br>[Fortress Settlement](towns/fortress.md) | Fortress |
 | F14 | Swamp | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) | [Windmill](fields.md#visitable) | - | ❌ | [Stables](fields.md#revisitable) | Ⅱ<br><br>[Artifact](artifacts.md) | [Treasure](fields.md#visitable) | Fortress |
 | F15 | Swamp | [Trading Post](trading.md) | Witch Hut | Redwood Observatory | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | Ⅱ<br><br>Scholar | ❌ | - | Fortress |
-| F16 | Dirt | [Shrine of Magic Incantation](spells.md) | Ⅲ<br><br>[Inferno Settlement](towns.md#inferno) | Learning Stone | - | Ⅱ<br><br>[Artifact](artifacts.md) | ❌ | [Windmill](fields.md#visitable) | Inferno |
+| F16 | Dirt | [Shrine of Magic Incantation](spells.md) | Ⅲ<br><br>[Inferno Settlement](towns/inferno.md) | Learning Stone | - | Ⅱ<br><br>[Artifact](artifacts.md) | ❌ | [Windmill](fields.md#visitable) | Inferno |
 | F17 | Dirt | - | Ⅱ<br><br>Magic Spring | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) | Star Axis | Water Wheel | [Stables](fields.md#revisitable) | ❌ | Inferno |
 | F18 | Dirt | [Windmill](fields.md#visitable) | ❌ | Ⅱ<br><br>Witch Hut | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | Tree of Knowledge | - | [Trading Post](trading.md) | Inferno |
-| F19 🔮 | Rough | - | Ⅱ<br><br>Learning Stone | Temple | ❌ | Stables | Ⅲ<br><br>[Stronghold Settlement](towns.md#stronghold) | [Shrine of Magic Incantation](spells.md) | 🚧 |
+| F19 🔮 | Rough | - | Ⅱ<br><br>Learning Stone | Temple | ❌ | Stables | Ⅲ<br><br>[Stronghold Settlement](towns/stronghold.md) | [Shrine of Magic Incantation](spells.md) | 🚧 |
 | F20 🔮 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |
 | F21 🔮 | Rough | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | 🚧 | ❌ | - | Ⅱ<br><br>Mystical Garden | Redwood Observatory | Fountain of Youth | 🚧 |
-| #F1 | Snow | - | [Windmill](fields.md#visitable) | Ⅲ<br><br>[Tower Settlement](towns.md#tower) | ❌ | Ⅱ<br><br>[Treasure](fields.md#visitable) | [Stables](fields.md#revisitable) | Witch Hut | Tower |
+| #F1 | Snow | - | [Windmill](fields.md#visitable) | Ⅲ<br><br>[Tower Settlement](towns/tower.md) | ❌ | Ⅱ<br><br>[Treasure](fields.md#visitable) | [Stables](fields.md#revisitable) | Witch Hut | Tower |
 | #F2 | Snow | [Trading Post](trading.md) | Ⅱ<br><br>[Artifact](artifacts.md) | [Resources](fields.md#visitable) | - | Learning Stone | ❌ | Ⅲ<br><br>:gold: [Mine](fields.md#flaggable) | Tower |
 | #F3 | Snow | ❌ | Redwood Observatory | Ⅱ<br><br>Mystical Garden | Ⅲ<br><br>:valuables: [Mine](fields.md#flaggable) | [Shrine of Magic Incantation](spells.md) | - | Water Wheel | Tower |
 | #F4 | Grass |  Water Wheel | [Shrine of Magic Incantation](spells.md) | Witch Hut | Ⅲ<br><br>:building_materials: [Mine](fields.md#flaggable) | ❌ | [Trading Post](trading.md) | Ⅱ<br><br>Market of Time | Tower |
@@ -92,7 +92,7 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 | C3 | Grass | War Machine Factory | Warrior's Tomb | ❌ | Ⅶ<br><br>[Dragon Utopia](fields.md#flaggable) | [Trading Post](trading.md) | Ⅵ<br><br>Pandora's Box | Ⅵ<br><br>Magic Spring | Rampart |
 | C4 | Swamp | Sanctuary | Ⅵ<br><br>Scholar | ❌ | Ⅶ<br><br>Grail | [Trading Post](trading.md) | Mystical Garden | Ⅵ<br><br>Temple | Fortress |
 | C5 | Dirt | Ⅵ<br><br>Tree of Knowledge | Warrior's Tomb | ❌ | Ⅶ<br><br>[Random Town](towns.md) | Temple | Ⅵ<br><br>Star Axis | Sanctuary | Inferno |
-| #C1 | Snow | [Shrine of Magic Gesture](spells.md) | Ⅵ<br><br>:building_materials: [Mine](fields.md#flaggable) | Ⅵ<br><br>Warrior's Tomb | Ⅶ<br><br>[Tower Settlement](towns.md#tower) | Sanctuary | Water Wheel | ❌ | Tower |
+| #C1 | Snow | [Shrine of Magic Gesture](spells.md) | Ⅵ<br><br>:building_materials: [Mine](fields.md#flaggable) | Ⅵ<br><br>Warrior's Tomb | Ⅶ<br><br>[Tower Settlement](towns/tower.md) | Sanctuary | Water Wheel | ❌ | Tower |
 
 
 ## Underground

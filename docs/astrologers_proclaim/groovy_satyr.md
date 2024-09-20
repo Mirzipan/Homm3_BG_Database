@@ -7,7 +7,7 @@ Groovy Satyr is an astrologers proclaim card that comes with the [Core Game](../
 
 ## Effect
 
-Until the next Astrologers' round:<br><br>Whenever you trigger Combat with any [Neutral Units](../units.md#neutral), you may choose a [Neutral Unit](../units.md#neutral) card to discard and draw another card of the same tier instead.
+Until the next Astrologers' round:<br><br>Whenever you trigger Combat with any [Neutral Units](../units.md), you may choose a [Neutral Unit](../units.md) card to discard and draw another card of the same tier instead.
 
 
 ## See Also

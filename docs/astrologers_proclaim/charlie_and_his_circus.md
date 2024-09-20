@@ -7,7 +7,7 @@ Charlie and his Circus is an astrologers proclaim card that comes with the [Ramp
 
 ## Effect
 
-At the beginning of this round and the next one, each player can draw up to 3 cards from any [Neutral Units](../units.md#neutral) deck(s) and **Recruit** one of them. The Players must still :pay: the recruitment cost and have the corresponding [Dwelling](../towns.md) in their [Town(s)](../towns.md). Shuffle the remaining cards back into their respective deck(s) afterwards.
+At the beginning of this round and the next one, each player can draw up to 3 cards from any [Neutral Units](../units.md) deck(s) and **Recruit** one of them. The Players must still :pay: the recruitment cost and have the corresponding [Dwelling](../towns.md) in their [Town(s)](../towns.md). Shuffle the remaining cards back into their respective deck(s) afterwards.
 
 
 ## See Also

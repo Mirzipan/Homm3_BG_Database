@@ -7,7 +7,7 @@ Mercenary Camp is an event that comes with the [Fortress Expansion](../content.m
 
 ## Effect
 
-Each player can draw up to 2 [Neutral Unit](../units.md#neutral) from one of the chosen decks. Then they are spread on the table, and each player can **Recruit** one of them.
+Each player can draw up to 2 [Neutral Unit](../units.md) from one of the chosen decks. Then they are spread on the table, and each player can **Recruit** one of them.
 
 
 ## See Also

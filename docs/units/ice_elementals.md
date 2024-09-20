@@ -13,7 +13,7 @@ Their neutral version comes with the [Conflux Expansion](../content.md).
 | :health_points: | 4 | **5** | 🚧 |
 | :initiative: | 5 | **6** | 🚧 |
 | Cost | 4 :gold: | 7 :gold: | 🚧 |
-| Abilities | - | :activation: Add +1 :empower: to the first [Water Magic](spells/school_of_water_magic.md) spell you cast during this Activation. | 🚧 |
+| Abilities | - | :activation: Add +1 :empower: to the first [Water Magic](../spells/school_of_water_magic.md) spell you cast during this Activation. | 🚧 |
 
 
 ## See Also

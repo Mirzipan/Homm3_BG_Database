@@ -13,7 +13,7 @@ Their neutral version comes with the [Conflux Expansion](../content.md).
 | :health_points: | 5 | **6** | 🚧 |
 | :initiative: | 5 | **8** | 🚧 |
 | Cost | 5 :gold: | 8 :gold: | 🚧 |
-| Abilities | - | :activation: Add +1 :empower: to the first [Fire Magic](spells/school_of_fire_magic.md) spell you cast during this Activation. | 🚧 |
+| Abilities | - | :activation: Add +1 :empower: to the first [Fire Magic](../spells/school_of_fire_magic.md) spell you cast during this Activation. | 🚧 |
 
 
 ## See Also

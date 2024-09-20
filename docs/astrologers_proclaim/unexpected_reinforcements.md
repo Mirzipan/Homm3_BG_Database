@@ -7,7 +7,7 @@ Unexpected Reinforcements is an astrologers proclaim card that comes with the [T
 
 ## Effect
 
-Each player can immediately search the [Neutral Units](../units.md#neutral) deck and **Recruite** 1 chosen unit associated with their faction for free. Each player still needs to have the corresponding [dwelling](../towns.md) built in their [town](../towns.md).
+Each player can immediately search the [Neutral Units](../units.md) deck and **Recruite** 1 chosen unit associated with their faction for free. Each player still needs to have the corresponding [dwelling](../towns.md) built in their [town](../towns.md).
 
 
 ## See Also

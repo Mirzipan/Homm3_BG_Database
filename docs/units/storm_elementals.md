@@ -13,7 +13,7 @@ Their neutral version comes with the [Conflux Expansion](../content.md).
 | :health_points: | 3 | **5** | 🚧 |
 | :initiative: | 7 | **8** | 🚧 |
 | Cost | 3 :gold: | 5 :gold: | 🚧 |
-| Abilities | - | :activation: Add +1 :empower: to the first [Air Magic](spells/school_of_air_magic.md) spell you cast during this Activation. | 🚧 |
+| Abilities | - | :activation: Add +1 :empower: to the first [Air Magic](../spells/school_of_air_magic.md) spell you cast during this Activation. | 🚧 |
 
 
 ## See Also

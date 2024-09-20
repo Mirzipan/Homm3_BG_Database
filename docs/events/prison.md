@@ -7,7 +7,7 @@ Prison is an event that comes with the [Fortress Expansion](../content.md).
 
 ## Effect
 
-Draw 2 [Neutral Unit](../units.md#neutral) cards from any deck (except for Azure). You can buy one of them or discard it to gain 3 :gold:. After that, pass the remaining card to the next player. That player also draws a [Neutral Unit](../units.md#neutral) card from any deck (except for Azure) and repeats the rest of the process. The exchange goes on till every player has a chance to choose something.
+Draw 2 [Neutral Unit](../units.md) cards from any deck (except for Azure). You can buy one of them or discard it to gain 3 :gold:. After that, pass the remaining card to the next player. That player also draws a [Neutral Unit](../units.md) card from any deck (except for Azure) and repeats the rest of the process. The exchange goes on till every player has a chance to choose something.
 
 
 ## See Also
