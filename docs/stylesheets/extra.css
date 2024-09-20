@@ -2,7 +2,7 @@
     min-width: 2rem !important;
 }
 
-.md-emoji-centered {
+.flexbox {
     display: flex;
     justify-content: center;
     align-items: center;
