@@ -16,4 +16,6 @@ ___
 
 ## See Also
 
+- [Everflowing Crystal Cloak](everflowing_crystal_cloak.md)
+- [Everpouring Vial of Mercury](everpouring_vial_of_mercury.md)
 - [List of Artifacts](../artifacts.md)
