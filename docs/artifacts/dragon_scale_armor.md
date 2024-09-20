@@ -2,11 +2,11 @@
 
 ![Dragon Scale Armor](../assets/artifacts_relic-dragon_scale_armor.webp){ width="340" align=right }
 ___
-Relic Artifact
+<p style="text-align: center;" markdown>Relic Artifact</p>
 ___
-:instant: +2 :attack:<br><br>— OR —<br><br>:instant: +2 :defense:
+<p style="text-align: center;" markdown>:instant: +2 :attack:<br><br>— OR —<br><br>:instant: +2 :defense:</p>
 ___
-*You meet an old Armorer, who claims he owes you a favor. Taking him up on it, he pieces together some Dragon scales, forming a well-fashioned breastplate.*
+<p style="text-align: center;" markdown>*You meet an old Armorer, who claims he owes you a favor. Taking him up on it, he pieces together some Dragon scales, forming a well-fashioned breastplate.*</p>
 
 
 ## Comes With

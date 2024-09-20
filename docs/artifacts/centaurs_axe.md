@@ -2,11 +2,11 @@
 
 ![Centaur's Axe](../assets/artifacts_minor-centaurs_axe.webp){ width="340" align=right }
 ___
-Minor Artifact
+<p style="text-align: center;" markdown>Minor Artifact</p>
 ___
-:instant: Triple the [Attack die's](../dice.md#attack-die) outcome.<br><br>— OR —<br><br>:instant: +1 :attack:
+<p style="text-align: center;" markdown>:instant: Triple the [Attack die's](../dice.md#attack-die) outcome.<br><br>— OR —<br><br>:instant: +1 :attack:</p>
 ___
-*You see a heavy axe embedded deeply in the ground. After several unseccessful attempts by your army to remove it, you tighly grip the handle of the axe and effortlessly pull it free.*
+<p style="text-align: center;" markdown>*You see a heavy axe embedded deeply in the ground. After several unseccessful attempts by your army to remove it, you tighly grip the handle of the axe and effortlessly pull it free.*</p>
 
 
 ## Comes With

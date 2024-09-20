@@ -2,11 +2,11 @@
 
 ![Crown of Dragontooth](../assets/artifacts_relic-crown_of_dragontooth.webp){ width="340" align=right }
 ___
-Relic Artifact
+<p style="text-align: center;" markdown>Relic Artifact</p>
 ___
-:instant: Select 2 [Spell](../spells.md) cards from your discard pile and put them back in your hand.<br><br>— OR —<br><br>:instant: Remove 1 [:spellpower:](../spells.md) from hand, then **Search(2)** [:spellpower:](../spells.md).
+<p style="text-align: center;" markdown>:instant: Select 2 [Spell](../spells.md) cards from your discard pile and put them back in your hand.<br><br>— OR —<br><br>:instant: Remove 1 [:spellpower:](../spells.md) from hand, then **Search(2)** [:spellpower:](../spells.md).</p>
 ___
-*Your troops find a crown. They hand it to you, and you notice an inscription. It reads: "Brains best brawn, and magic beats might. Heed my words, and you'll win every fight."*
+<p style="text-align: center;" markdown>*Your troops find a crown. They hand it to you, and you notice an inscription. It reads: "Brains best brawn, and magic beats might. Heed my words, and you'll win every fight."*</p>
 
 
 ## Comes With

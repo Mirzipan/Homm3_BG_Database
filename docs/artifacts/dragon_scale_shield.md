@@ -2,11 +2,11 @@
 
 ![Dragon Scale Shield](../assets/artifacts_major-dragon_scale_shield.webp){ width="340" align=right }
 ___
-Major Artifact
+<p style="text-align: center;" markdown>Major Artifact</p>
 ___
-:instant: +2 :attack:<br><br>— OR —<br><br>:instant: +2 :defense:
+<p style="text-align: center;" markdown>:instant: +2 :attack:<br><br>— OR —<br><br>:instant: +2 :defense:</p>
 ___
-*You meet an old Armorer, who claims he owes you a favor. Taking him up on it, he pieces together some Dragon scales, forming a well-fashioned shield.*
+<p style="text-align: center;" markdown>*You meet an old Armorer, who claims he owes you a favor. Taking him up on it, he pieces together some Dragon scales, forming a well-fashioned shield.*</p>
 
 
 ## Comes With

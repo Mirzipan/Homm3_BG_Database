@@ -2,11 +2,11 @@
 
 ![Rib Cage](../assets/artifacts_minor-rib_cage.webp){ width="340" align=right }
 ___
-Minor Artifact
+<p style="text-align: center;" markdown>Minor Artifact</p>
 ___
-:instant: Select 1 Spell card from you discard pile and put it back into your hand. Then, shuffle your discard pile back into your deck of Might and Magic.<br><br>— OR —<br><br>:instant: +1 :empower:
+<p style="text-align: center;" markdown>:instant: Select 1 Spell card from you discard pile and put it back into your hand. Then, shuffle your discard pile back into your deck of Might and Magic.<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
-*You trip over, what was, the rib cage of a large creature. Upon further examination, you discover the rib cage to be a piece of armor.*
+<p style="text-align: center;" markdown>*You trip over, what was, the rib cage of a large creature. Upon further examination, you discover the rib cage to be a piece of armor.*</p>
 
 
 ## Comes With

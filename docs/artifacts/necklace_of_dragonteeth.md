@@ -2,11 +2,11 @@
 
 ![Necklace of Dragonteeth](../assets/artifacts_major-necklace_of_dragonteeth.webp){ width="340" align=right }
 ___
-Major Artifact
+<p style="text-align: center;" markdown>Major Artifact</p>
 ___
-:instant: +2 :empower:.<br><br>— OR —<br><br>:ongoing: During this Combat, you can cast 2 [:spellpower:](../spells.md) per Combat round.
+<p style="text-align: center;" markdown>:instant: +2 :empower:.<br><br>— OR —<br><br>:ongoing: During this Combat, you can cast 2 [:spellpower:](../spells.md) per Combat round.</p>
 ___
-*🚧*
+<p style="text-align: center;" markdown>*🚧*</p>
 
 
 ## Comes With

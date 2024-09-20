@@ -2,11 +2,11 @@
 
 ![Helm of Heavenly Enlightenment](../assets/artifacts_relic-helm_of_heavenly_enlightenment.webp){ width="340" align=right }
 ___
-Relic Artifact
+<p style="text-align: center;" markdown>Relic Artifact</p>
 ___
-:instant: Gain :expert:.<br><br>— OR —<br><br>:instant: Draw 2 cards.
+<p style="text-align: center;" markdown>:instant: Gain :expert:.<br><br>— OR —<br><br>:instant: Draw 2 cards.</p>
 ___
-*You spy a gleaming object poking up out of the ground. You send a member of your party over to investigate. He comes back with a golden helmet in his hands. You realize that it must be the Helm of Heavenly Enlightenment, the only helm ever rumored to be made from solid gold.*
+<p style="text-align: center;" markdown>*You spy a gleaming object poking up out of the ground. You send a member of your party over to investigate. He comes back with a golden helmet in his hands. You realize that it must be the Helm of Heavenly Enlightenment, the only helm ever rumored to be made from solid gold.*</p>
 
 
 ## Comes With

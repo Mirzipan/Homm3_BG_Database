@@ -2,11 +2,11 @@
 
 ![Boots of Speed](../assets/artifacts_minor-boots_of_speed.webp){ width="340" align=right }
 ___
-Minor Artifact
+<p style="text-align: center;" markdown>Minor Artifact</p>
 ___
-:instant: Your [hero](../heroes.md) gains +1 :movement:.<br><br>— OR —<br><br>:ongoing: For this Combat, your selected [unit](../units.md) gains +1 :initiative:.
+<p style="text-align: center;" markdown>:instant: Your [hero](../heroes.md) gains +1 :movement:.<br><br>— OR —<br><br>:ongoing: For this Combat, your selected [unit](../units.md) gains +1 :initiative:.</p>
 ___
-*Visiting a local wise man, you explain the intent of your journey. He reaches into a chest and withdraws a strange pair of boots which he hands to you.*
+<p style="text-align: center;" markdown>*Visiting a local wise man, you explain the intent of your journey. He reaches into a chest and withdraws a strange pair of boots which he hands to you.*</p>
 
 
 ## Comes With

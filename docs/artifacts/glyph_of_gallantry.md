@@ -2,11 +2,11 @@
 
 ![Glyph of Gallantry](../assets/artifacts_minor-glyph_of_gallantry.webp){ width="340" align=right }
 ___
-Minor Artifact
+<p style="text-align: center;" markdown>Minor Artifact</p>
 ___
-:instant: Gain a :morale_positive: token.<br><br>— OR —<br><br>:instant: +1 :defense:
+<p style="text-align: center;" markdown>:instant: Gain a :morale_positive: token.<br><br>— OR —<br><br>:instant: +1 :defense:</p>
 ___
-*Ridding the countryside of the hideous Minotaur who made a sport of eatig noblemen's Knights, you are honored with the Glyph of Gallantry.*
+<p style="text-align: center;" markdown>*Ridding the countryside of the hideous Minotaur who made a sport of eatig noblemen's Knights, you are honored with the Glyph of Gallantry.*</p>
 
 
 ## Comes With

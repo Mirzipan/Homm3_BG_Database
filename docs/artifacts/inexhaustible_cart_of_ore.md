@@ -2,11 +2,11 @@
 
 ![Inexhaustible Cart of Ore](../assets/artifacts_minor-inexhaustible_cart_of_ore.webp){ width="340" align=right }
 ___
-Minor Artifact
+<p style="text-align: center;" markdown>Minor Artifact</p>
 ___
-:permanent: At the beginning of each Resources round, gain 1 :building_materials:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 3 :building_materials:.
+<p style="text-align: center;" markdown>:permanent: At the beginning of each Resources round, gain 1 :building_materials:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 3 :building_materials:.</p>
 ___
-*You've found a Goblin weapon smithy makign weapons for use against humans. With a tremendous yell you and your army descend upon their camp and drive them away. A search finds a magic card that never runs out of ore.*
+<p style="text-align: center;" markdown>*You've found a Goblin weapon smithy makign weapons for use against humans. With a tremendous yell you and your army descend upon their camp and drive them away. A search finds a magic card that never runs out of ore.*</p>
 
 
 ## Comes With

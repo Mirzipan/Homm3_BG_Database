@@ -2,11 +2,11 @@
 
 ![Skull Helmet](../assets/artifacts_minor-skull_helmet.webp){ width="340" align=right }
 ___
-Minor Artifact
+<p style="text-align: center;" markdown>Minor Artifact</p>
 ___
-🚧
+<p style="text-align: center;" markdown>🚧</p>
 ___
-*🚧*
+<p style="text-align: center;" markdown>*🚧*</p>
 
 
 ## Comes With

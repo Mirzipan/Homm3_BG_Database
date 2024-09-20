@@ -2,11 +2,11 @@
 
 ![Everpouring Vial of Mercury](../assets/artifacts_major-everpouring_vial_of_mercury.webp){ width="340" align=right }
 ___
-Major Artifact
+<p style="text-align: center;" markdown>Major Artifact</p>
 ___
-:instant: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 2 :valuables:.
+<p style="text-align: center;" markdown>:instant: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 2 :valuables:.</p>
 ___
-*A brief stop at a hastily abandoned Wizard's tower, you discover a magical vial of mercury that, as always, has a little left in the bottom. Recognizing a treasure when you see one, you cap it and slip it into your pocket.*
+<p style="text-align: center;" markdown>*A brief stop at a hastily abandoned Wizard's tower, you discover a magical vial of mercury that, as always, has a little left in the bottom. Recognizing a treasure when you see one, you cap it and slip it into your pocket.*</p>
 
 
 ## Comes With

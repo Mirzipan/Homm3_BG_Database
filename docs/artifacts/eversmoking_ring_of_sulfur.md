@@ -2,11 +2,11 @@
 
 ![Eversmoking Ring of Sulfur](../assets/artifacts_minor-eversmoking_ring_of_sulfur.webp){ width="340" align=right }
 ___
-Minor Artifact
+<p style="text-align: center;" markdown>Minor Artifact</p>
 ___
-:permanent: At the beginning of each Resources round, gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 2 :valuables:.
+<p style="text-align: center;" markdown>:permanent: At the beginning of each Resources round, gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 2 :valuables:.</p>
 ___
-*🚧*
+<p style="text-align: center;" markdown>*🚧*</p>
 
 
 ## Comes With

@@ -2,11 +2,11 @@
 
 ![Necklace of Swiftness](../assets/artifacts_minor-necklace_of_swiftness.webp){ width="340" align=right }
 ___
-Minor Artifact
+<p style="text-align: center;" markdown>Minor Artifact</p>
 ___
-🚧
+<p style="text-align: center;" markdown>🚧</p>
 ___
-*🚧*
+<p style="text-align: center;" markdown>*🚧*</p>
 
 
 ## Comes With
