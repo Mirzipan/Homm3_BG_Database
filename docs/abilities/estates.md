@@ -3,11 +3,11 @@
 ![Estates](../assets/abilities-estates.webp){ width="340" align=right }
 
 ___
-:instant: Gain 3 :gold:.
+<p style="text-align: center;" markdown>:instant: Gain 3 :gold:.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-:instant: Gain 6 :gold:.
+<p style="text-align: center;" markdown>:instant: Gain 6 :gold:.</p>
 ___
 
 

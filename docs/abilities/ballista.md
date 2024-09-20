@@ -3,11 +3,11 @@
 ![Ballista](../assets/abilities-ballista.webp){ width="340" align=right }
 
 ___
-:instant: Play this card during a siege.<br>Destroy 1 Wall or Gate.
+<p style="text-align: center;" markdown>:instant: Play this card during a siege.<br>Destroy 1 Wall or Gate.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-:instant: Play this card during a siege.<br>Destroy the [Arrow Tower](../units/arrow_tower.md).
+<p style="text-align: center;" markdown>:instant: Play this card during a siege.<br>Destroy the [Arrow Tower](../units/arrow_tower.md).</p>
 ___
 
 

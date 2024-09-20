@@ -3,11 +3,11 @@
 ![Scouting](../assets/abilities-scouting.webp){ width="340" align=right }
 
 ___
-:instant: Play this card before taking a **Search** action, then do **Search(3)** instead.
+<p style="text-align: center;" markdown>:instant: Play this card before taking a **Search** action, then do **Search(3)** instead.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-:instant: Play this card before taking a **Search** action, then do **Search(5)** instead.
+<p style="text-align: center;" markdown>:instant: Play this card before taking a **Search** action, then do **Search(5)** instead.</p>
 ___
 
 

@@ -3,11 +3,11 @@
 ![Leadership](../assets/abilities-leadership.webp){ width="340" align=right }
 
 ___
-:instant: Gain a :morale_positive: token.
+<p style="text-align: center;" markdown>:instant: Gain a :morale_positive: token.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-:instant: Draw 2 cards.<br>Then, gain a :morale_positive: token.
+<p style="text-align: center;" markdown>:instant: Draw 2 cards.<br>Then, gain a :morale_positive: token.</p>
 ___
 
 

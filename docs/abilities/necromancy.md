@@ -3,11 +3,11 @@
 ![Necromancy](../assets/abilities-necromancy.webp){ width="340" align=right }
 
 ___
-:effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](../units.md) of your choice for half the :gold: cost (rounded down).
+<p style="text-align: center;" markdown>:effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](../units.md) of your choice for half the :gold: cost (rounded down).</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-:effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units.md) of your choice for half the :gold: cost (rounded down).
+<p style="text-align: center;" markdown>:effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units.md) of your choice for half the :gold: cost (rounded down).</p>
 ___
 
 
