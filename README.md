@@ -1,10 +1,6 @@
 # Heroes of Might and Magic 3: The Board Game card database
 
-[>>> Website <<<](https://mirzipan.github.io/Homm3_BG_Database/)
-
-A simple collection of cards contained within the Homm3 boardgame.
-
-🚧Work In Progress🚧
+## [>>> WEBSITE <<<](https://mirzipan.github.io/Homm3_BG_Database/)
 
 
 ## ⚔️ What Is This?
