@@ -1,17 +1,16 @@
-🚧 Work In Progress - Stronghold, Conflux, and Cove 🚧
-
+# Home
 
 ## :attack: What Is This?
 
-A simple collection of cards contained within the Homm3 boardgame.
+A simple collection of cards contained within the Heroes of Might and Magic 3: The Board Game, that also offers extra explanations for how some cards work or interact with others.
 
-Every now and then I want to see what some cards do, either while theorycrafting about what to play, or even during play, when I want to check or reference something.
+Every now and then I want to see what some cards do, either while theorycrafting about what to play, or even during play, when I want to check or reference something. This database is meant to provide an easy way to find any card contained within the game, including a visual reference and extra information where necessary or applicable.
 
 
 ## :defense: Future Plans?
 
-* Have a separate page for each card
-* Include pictures for quick visual reference
+* Adding extra explanations to all cards that may need some
+* Fixing incorrect information (all of the cards were put in by hand, there is a chance that some may contains typos or other inaccuracies)
 
 
 ## :empower: Disclaimer
