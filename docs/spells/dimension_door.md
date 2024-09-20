@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Air Spell](school_of_air_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:effect_map: Move a [Hero](../heroes.md) up to \* field(s). Ignore any obstacles and fields in-between and resolve the last one normally.<br><br>:empower: 0 - \*1<br>:empower: 2 - \*2<br>:empower: 4 - \*3<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:effect_map: Move a [Hero](../heroes.md) up to \* field(s). Ignore any obstacles and fields in-between and resolve the last one normally.<br><br>:empower: 0 - \*1<br>:empower: 2 - \*2<br>:empower: 4 - \*3</p>
 ___
 
 

@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Air Spell](school_of_air_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Remove the Black cube from the selected \* [Unit](../units.md) card - that [unit](../units.md) is now able to perform a Retaliation Attack action again:<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:instant: Remove the Black cube from the selected \* [Unit](../units.md) card - that [unit](../units.md) is now able to perform a Retaliation Attack action again:<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:</p>
 ___
 
 
