@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Water Spell](school_of_water_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Remove any effect or :paralysis: from the selected [unit](../units.md), and remove from this [unit](../units.md) up to:<br><br>:empower: 0 - 1 :damage:<br>:empower: 1 - 2 :damage:<br>:empower: 2 - 3 :damage:</p>
+<p style="text-align: center;" markdown>:instant: Remove any effect or :paralysis: from the selected [unit](../units.md), and remove from this [unit](../units.md) up to:<br><br>:empower: 0 - 1 :damage:<br>:empower: 1 - 2 :damage:<br>:empower: 2 - 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 

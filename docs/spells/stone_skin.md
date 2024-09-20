@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Earth Spell](school_of_earth_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: The selected [unit](../units.md) gains:<br><br>:empower: 0 - +1 :defense:<br>:empower: 1 - +2 :defense:<br>:empower: 2 - +3 :defense:</p>
+<p style="text-align: center;" markdown>:instant: The selected [unit](../units.md) gains:<br><br>:empower: 0 - +1 :defense:<br>:empower: 1 - +2 :defense:<br>:empower: 2 - +3 :defense:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 

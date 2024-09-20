@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Fire Spell](school_of_fire_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:activation: On a chosen emptry space:<br><br>:empower: 0 - No effect<br>:empower: 2 - Summon a Few [Fire Elementals](../units/fire_elementals.md)<br>:empower: 4 - Summon a Pack of [Fire Elementals](../units/fire_elementals.md)</p>
+<p style="text-align: center;" markdown>:activation: On a chosen emptry space:<br><br>:empower: 0 - No effect<br>:empower: 2 - Summon a Few [Fire Elementals](../units/fire_elementals.md)<br>:empower: 4 - Summon a Pack of [Fire Elementals](../units/fire_elementals.md)<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 

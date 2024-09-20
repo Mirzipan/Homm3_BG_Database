@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Fire Spell](school_of_fire_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: This [unit](../units.md) ignores the :defense: of the attacked \* [unit](../units.md).<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:</p>
+<p style="text-align: center;" markdown>:instant: This [unit](../units.md) ignores the :defense: of the attacked \* [unit](../units.md).<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 

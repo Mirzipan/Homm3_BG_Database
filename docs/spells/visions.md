@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Fire Spell](school_of_fire_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Draw \* from any Neutral [Unit](../units.md) deck. You can discard any of them and return the remaining cards in any order.<br><br>:empower: 0 - \*1 card<br>:empower: 1 - \*2 cards<br>:empower: 2 - \*3 cards</p>
+<p style="text-align: center;" markdown>:instant: Draw \* from any Neutral [Unit](../units.md) deck. You can discard any of them and return the remaining cards in any order.<br><br>:empower: 0 - \*1 card<br>:empower: 1 - \*2 cards<br>:empower: 2 - \*3 cards<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 

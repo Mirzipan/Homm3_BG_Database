@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Earth Spell](school_of_earth_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Choose enemy Mine within \* fields. Replace the owner's cube with yours.<br><br>:empower: 0 - 1<br>:empower: 1 - 2<br>:empower: 2 - \*3</p>
+<p style="text-align: center;" markdown>:instant: Choose enemy Mine within \* fields. Replace the owner's cube with yours.<br><br>:empower: 0 - 1<br>:empower: 1 - 2<br>:empower: 2 - \*3<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 
