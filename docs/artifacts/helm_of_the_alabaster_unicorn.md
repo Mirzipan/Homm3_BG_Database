@@ -2,7 +2,7 @@
 
 ![Helm of the Alabaster Unicorn](../assets/artifacts_minor-helm_of_the_alabaster_unicorn.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>Minor Artifact</p>
+<p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Return 1 [:spellpower:](../spells.md) of your choice from your discard pile to your hand.<br><br>— OR —<br><br>:instant: Cast a [spell](../spells.md) from the top of the [:spellpower:](../spells.md) deck discard pile and Remove this card.</p>
 ___

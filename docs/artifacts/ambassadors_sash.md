@@ -2,7 +2,7 @@
 
 ![Ambassador's Sash](../assets/artifacts_major-ambassadors_sash.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>Major Artifact</p>
+<p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:effect_map: For every [Dwelling](../towns.md) you have, draw 1 corresponding [Neutral Unit](../units.md) card. You can **Recruit** one of these units.<br><br>— OR —<br><br>:instant: Reroll a [die](../dice.md).</p>
 ___

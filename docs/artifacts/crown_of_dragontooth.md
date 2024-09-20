@@ -2,7 +2,7 @@
 
 ![Crown of Dragontooth](../assets/artifacts_relic-crown_of_dragontooth.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>Relic Artifact</p>
+<p style="text-align: center;" markdown>[Relic Artifact](relic_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Select 2 [Spell](../spells.md) cards from your discard pile and put them back in your hand.<br><br>— OR —<br><br>:instant: Remove 1 [:spellpower:](../spells.md) from hand, then **Search(2)** [:spellpower:](../spells.md).</p>
 ___

@@ -2,7 +2,7 @@
 
 ![Boots of Speed](../assets/artifacts_minor-boots_of_speed.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>Minor Artifact</p>
+<p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Your [hero](../heroes.md) gains +1 :movement:.<br><br>— OR —<br><br>:ongoing: For this Combat, your selected [unit](../units.md) gains +1 :initiative:.</p>
 ___

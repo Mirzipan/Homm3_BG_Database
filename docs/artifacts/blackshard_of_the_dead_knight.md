@@ -2,7 +2,7 @@
 
 ![Blackshard of the Dead Knight](../assets/artifacts_minor-blackshard_of_the_dead_knight.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>Minor Artifact</p>
+<p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: +3 :attack: and discard 1 card. If the discarded card was a [spell](../spells.md), draw 1 card.<br><br>— OR —<br><br>:instant: +1 :attack:</p>
 ___

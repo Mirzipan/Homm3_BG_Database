@@ -2,7 +2,7 @@
 
 ![Buckler of the Gnoll King](../assets/artifacts_minor-buckler_of_the_gnoll_king.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>Minor Artifact</p>
+<p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: +2 :defense:<br>:ongoing: Until the end of the Combat, this [unit](../units.md) suffers -1 :attack: (to a minimum of 0).<br><br>— OR —<br><br>:instant: +1 :defense:</p>
 ___

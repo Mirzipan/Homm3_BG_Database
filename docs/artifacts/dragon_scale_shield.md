@@ -2,7 +2,7 @@
 
 ![Dragon Scale Shield](../assets/artifacts_major-dragon_scale_shield.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>Major Artifact</p>
+<p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: +2 :attack:<br><br>— OR —<br><br>:instant: +2 :defense:</p>
 ___

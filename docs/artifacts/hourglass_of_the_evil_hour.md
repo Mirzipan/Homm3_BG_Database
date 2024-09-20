@@ -2,7 +2,7 @@
 
 ![Hourglass of the Evil Hour](../assets/artifacts_minor-hourglass_of_the_evil_hour.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>Minor Artifact</p>
+<p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: If the enemy has :morale_positive:, they gain :morale_negative:.<br><br>— OR —<br><br>:instant: Roll the [Attack die](../dice.md#attack-die). On a "0" result, you gain :morale_positive:.</p>
 ___

@@ -2,7 +2,7 @@
 
 ![Cards of Prophecy](../assets/artifacts_major-cards_of_prophecy.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>Major Artifact</p>
+<p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Reroll any [die](../dice.md).<br><br>— OR —<br><br>:instant: Set a :trasuredie: or :treasure: on the side of your choice.</p>
 ___
