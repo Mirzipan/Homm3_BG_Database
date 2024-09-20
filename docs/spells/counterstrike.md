@@ -1,11 +1,17 @@
 # Counterstrike
 
-Counterstrike is an expert spell that belongs to the [Air School of Magic](school_of_air_magic.md) and comes with the [Core Game](../content.md).
+![Counterstrike](../assets/spells-counterstrike.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Air School of Magic](school_of_air_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:instant: Remove the Black cube from the selected \* [Unit](../units.md) card - that [unit](../units.md) is now able to perform a Retaliation Attack action again:<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:</p>
+___
 
 
-## Effect
+## Comes With
 
-:instant: Remove the Black cube from the selected \* [Unit](../units.md) card - that [unit](../units.md) is now able to perform a Retaliation Attack action again:<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:
+- [Core Game](../content.md)
 
 
 ## See Also

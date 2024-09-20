@@ -1,11 +1,17 @@
 # Berserk
 
-Berserk is an expert spell that belongs to the [Fire School of Magic](school_of_fire_magic.md) and comes with the [Tower Expansion](../content.md).
+![Berserk](../assets/spells-berserk.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Fire School of Magic](school_of_fire_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:ongoing: Select a \* [unit](../units.md). In its activation, this [unit](../units.md) must either attack the nearest [unit](../units.md) or move to the nearest [unit](../units.md) and attack it.<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:silver:<br>:empower: 4 - \*:golden:</p>
+___
 
 
-## Effect
+## Comes With
 
-:ongoing: Select a \* [unit](../units.md). In its activation, this [unit](../units.md) must either attack the nearest [unit](../units.md) or move to the nearest [unit](../units.md) and attack it.<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:silver:<br>:empower: 4 - \*:golden:
+- [Tower Expansion](../content.md)
 
 
 ## See Also

@@ -1,11 +1,17 @@
 # Shield
 
-Shield is a basic spell that belongs to the [Earth School of Magic](school_of_earth_magic.md) and comes with the [Tower Expansion](../content.md).
+![Shield](../assets/spells-shield.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Earth School of Magic](school_of_earth_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:instant: The defending [unit](../units.md) gains \* against a :unit_ground: or :unit_flying: [unit](../units.md).<br><br>:empower: 0 - \*+1 :defense:<br>:empower: 1 - \*+2 :defense:<br>:empower: 2 - \*+3 :defense:</p>
+___
 
 
-## Effect
+## Comes With
 
-:instant: The defending [unit](../units.md) gains \* against a :unit_ground: or :unit_flying: [unit](../units.md).<br><br>:empower: 0 - \*+1 :defense:<br>:empower: 1 - \*+2 :defense:<br>:empower: 2 - \*+3 :defense:
+- [Tower Expansion](../content.md)
 
 
 ## See Also

@@ -1,11 +1,17 @@
 # Slayer
 
-Slayer is an expert spell that belongs to the [Fire School of Magic](school_of_fire_magic.md) and comes with the [Rampart Expansion](../content.md).
+![Slayer](../assets/spells-slayer.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Fire School of Magic](school_of_fire_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:instant: When attacking a :golden: [unit](../units.md), roll an [Attack die](../dice.md#attack-die) \* and apply all the results (except for a "-1"). After resolving this :attack:, draw 1 card.<br><br>:empower: 0 - \*twice<br>:empower: 2 - \*4 times<br>:empower: 4 - \*6 times</p>
+___
 
 
-## Effect
+## Comes With
 
-:instant: When attacking a :golden: [unit](../units.md), roll an [Attack die](../dice.md#attack-die) \* and apply all the results (except for a "-1"). After resolving this :attack:, draw 1 card.<br><br>:empower: 0 - \*twice<br>:empower: 2 - \*4 times<br>:empower: 4 - \*6 times
+- [Rampart Expansion](../content.md)
 
 
 ## See Also

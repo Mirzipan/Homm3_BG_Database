@@ -1,11 +1,17 @@
 # Blind
 
-Blind is a basic spell that belongs to the [Fire School of Magic](school_of_fire_magic.md) and comes with the [Core Game](../content.md).
+![Blind](../assets/spells-blind.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Fire School of Magic](school_of_fire_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:activation: Place a :paralysis: token on the selected \* [unit](../units.md):<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:</p>
+___
 
 
-## Effect
+## Comes With
 
-:activation: Place a :paralysis: token on the selected \* [unit](../units.md):<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:
+- [Core Game](../content.md)
 
 
 ## See Also

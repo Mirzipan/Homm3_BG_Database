@@ -1,11 +1,17 @@
 # Frost Ring
 
-Frost Ring is an expert spell that belongs to the [Water School of Magic](school_of_water_magic.md) and comes with the [Fortress Expansion](../content.md).
+![Frost Ring](../assets/spells-frost_ring.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Water School of Magic](school_of_water_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:activation: Select a space on the Combat board. 2 [units](../units.md) adjacent to this space suffer:<br><br>:empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage:</p>
+___
 
 
-## Effect
+## Comes With
 
-:activation: Select a space on the Combat board. 2 [units](../units.md) adjacent to this space suffer:<br><br>:empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage:
+- [Fortress Expansion](../content.md)
 
 
 ## See Also

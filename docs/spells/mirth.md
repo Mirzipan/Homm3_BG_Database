@@ -1,11 +1,17 @@
 # Mirth
 
-Mirth is an expert spell that belongs to the [Water School of Magic](school_of_water_magic.md) and comes with the [Rampart Expansion](../content.md).
+![Mirth](../assets/spells-mirth.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Water School of Magic](school_of_water_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:ongoing: You can reroll each of your [Attack dice](../dice.md#attack-die) once. During:<br><br>:empower: 0 - This Activation<br>:empower: 2 - This Combat round<br>:empower: 4 - This Combat</p>
+___
 
 
-## Effect
+## Comes With
 
-:ongoing: You can reroll each of your [Attack dice](../dice.md#attack-die) once. During:<br><br>:empower: 0 - This Activation<br>:empower: 2 - This Combat round<br>:empower: 4 - This Combat
+- [Rampart Expansion](../content.md)
 
 
 ## See Also

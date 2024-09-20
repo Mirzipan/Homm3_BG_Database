@@ -1,11 +1,17 @@
 # Forgetfulness
 
-Forgetfulness is a basic spell that belongs to the [Water School of Magic](school_of_water_magic.md) and comes with the [Rampart Expansion](../content.md).
+![Forgetfulness](../assets/spells-forgetfulness.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Water School of Magic](school_of_water_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:ongoing: During its next activation, a \* :unit_ranged: [unit](../units.md) if your choice cannot :attack:.<br><br>:empower: 0 - \*:bronze:<br>:empower: 1 - \*:bronze: or :silver:<br>:empower: 2 - \*:bronze: or :silver: or :golden:</p>
+___
 
 
-## Effect
+## Comes With
 
-:ongoing: During its next activation, a \* :unit_ranged: [unit](../units.md) if your choice cannot :attack:.<br><br>:empower: 0 - \*:bronze:<br>:empower: 1 - \*:bronze: or :silver:<br>:empower: 2 - \*:bronze: or :silver: or :golden:
+- [Rampart Expansion](../content.md)
 
 
 ## See Also

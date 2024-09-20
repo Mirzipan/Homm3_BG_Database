@@ -1,11 +1,17 @@
 # Fly
 
-Fly is an expert spell that belongs to the [Air School of Magic](school_of_air_magic.md) and comes with the [Fortress Expansion](../content.md).
+![Fly](../assets/spells-fly.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Air School of Magic](school_of_air_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:ongoing: During this turn, your [Hero](../heroes.md) can move through the blocked fields (but cannot end their movement there) and:<br><br>:empower: 0 - No additional effect<br>:empower: 2 - +1 :movement:<br>:empower: 4 - +2 :movement:</p>
+___
 
 
-## Effect
+## Comes With
 
-:ongoing: During this turn, your [Hero](../heroes.md) can move through the blocked fields (but cannot end their movement there) and:<br><br>:empower: 0 - No additional effect<br>:empower: 2 - +1 :movement:<br>:empower: 4 - +2 :movement:
+- [Fortress Expansion](../content.md)
 
 
 ## See Also

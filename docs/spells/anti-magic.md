@@ -1,11 +1,17 @@
 # Anti-Magic
 
-Anti-Magic is a basic spell that belongs to the [Earth School of Magic](school_of_earth_magic.md) and comes with the [Core Game](../content.md).
+![Anti-Magic](../assets/spells-anti-magic.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Earth School of Magic](school_of_earth_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:ongoing: Until the end of the Combat, the selected \* [unit](../units.md) cannot be targeted by spells:<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:</p>
+___
 
 
-## Effect
+## Comes With
 
-:ongoing: Until the end of the Combat, the selected \* [unit](../units.md) cannot be targeted by spells:<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:
+- [Core Game](../content.md)
 
 
 ## See Also

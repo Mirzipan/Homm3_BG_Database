@@ -1,11 +1,17 @@
 # Bloodlust
 
-Bloodlust is a basic spell that belongs to the [Fire School of Magic](school_of_fire_magic.md) and comes with the [Core Game](../content.md).
+![Bloodlust](../assets/spells-bloodlust.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Fire School of Magic](school_of_fire_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:instant: The selected :unit_ground: or :unit_flying: [unit](../units.md) gains:<br><br>:empower: 0 - +1 :attack:<br>:empower: 1 - +2 :attack:<br>:empower: 2 - +3 :attack:</p>
+___
 
 
-## Effect
+## Comes With
 
-:instant: The selected :unit_ground: or :unit_flying: [unit](../units.md) gains:<br><br>:empower: 0 - +1 :attack:<br>:empower: 1 - +2 :attack:<br>:empower: 2 - +3 :attack:
+- [Core Game](../content.md)
 
 
 ## See Also

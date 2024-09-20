@@ -1,11 +1,17 @@
 # Slow
 
-Slow is a basic spell that belongs to the [Earth School of Magic](school_of_earth_magic.md) and comes with the [Core Game](../content.md).
+![Slow](../assets/spells-slow.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Earth School of Magic](school_of_earth_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:ongoing: Until the end of the Combat, the selected [unit](../units.md) suffers:<br><br>:empower: 0 - -1 :initiative:<br>:empower: 1 - -2 :initiative:<br>:empower: 2 - -3 :initiative:</p>
+___
 
 
-## Effect
+## Comes With
 
-:ongoing: Until the end of the Combat, the selected [unit](../units.md) suffers:<br><br>:empower: 0 - -1 :initiative:<br>:empower: 1 - -2 :initiative:<br>:empower: 2 - -3 :initiative:
+- [Core Game](../content.md)
 
 
 ## See Also

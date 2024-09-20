@@ -1,11 +1,17 @@
 # Disrupting Ray
 
-Disrupting Ray is a basic spell that belongs to the [Air School of Magic](school_of_air_magic.md) and comes with the [Core Game](../content.md).
+![Disrupting Ray](../assets/spells-disrupting_ray.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Air School of Magic](school_of_air_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:ongoing: Until the end of the Combat, the selected \* [unit](../units.md) cannot use their special ability:<br><br>:empower: 0 - \*:bronze:<br>:empower: 1 - \*:bronze: or :silver:<br>:empower: 2 - \*:bronze: or :silver: or :golden:</p>
+___
 
 
-## Effect
+## Comes With
 
-:ongoing: Until the end of the Combat, the selected \* [unit](../units.md) cannot use their special ability:<br><br>:empower: 0 - \*:bronze:<br>:empower: 1 - \*:bronze: or :silver:<br>:empower: 2 - \*:bronze: or :silver: or :golden:
+- [Core Game](../content.md)
 
 
 ## See Also

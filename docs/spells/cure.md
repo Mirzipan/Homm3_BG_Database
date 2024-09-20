@@ -1,11 +1,17 @@
 # Cure
 
-Cure is a basic spell that belongs to the [Water School of Magic](school_of_water_magic.md) and comes with the [Core Game](../content.md).
+![Cure](../assets/spells-cure.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Water School of Magic](school_of_water_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:instant: Remove any effect or :paralysis: from the selected [unit](../units.md), and remove from this [unit](../units.md) up to:<br><br>:empower: 0 - 1 :damage:<br>:empower: 1 - 2 :damage:<br>:empower: 2 - 3 :damage:</p>
+___
 
 
-## Effect
+## Comes With
 
-:instant: Remove any effect or :paralysis: from the selected [unit](../units.md), and remove from this [unit](../units.md) up to:<br><br>:empower: 0 - 1 :damage:<br>:empower: 1 - 2 :damage:<br>:empower: 2 - 3 :damage:
+- [Core Game](../content.md)
 
 
 ## See Also

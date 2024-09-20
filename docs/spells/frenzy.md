@@ -1,11 +1,17 @@
 # Frenzy
 
-Frenzy is an expert spell that belongs to the [Fire School of Magic](school_of_fire_magic.md) and comes with the [Fortress Expansion](../content.md).
+![Frenzy](../assets/spells-frenzy.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Fire School of Magic](school_of_fire_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:instant: This [unit](../units.md) ignores the :defense: of the attacked \* [unit](../units.md).<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:</p>
+___
 
 
-## Effect
+## Comes With
 
-:instant: This [unit](../units.md) ignores the :defense: of the attacked \* [unit](../units.md).<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:
+- [Fortress Expansion](../content.md)
 
 
 ## See Also

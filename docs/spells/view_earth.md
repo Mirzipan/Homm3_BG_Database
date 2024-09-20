@@ -1,11 +1,17 @@
 # View Earth
 
-View Earth is a basic spell that belongs to the [Earth School of Magic](school_of_earth_magic.md) and comes with the [Fortress Expansion](../content.md).
+![View Earth](../assets/spells-view_earth.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Earth School of Magic](school_of_earth_magic.md)</p>
+___
+<p style="text-align: center;" markdown>:instant: Choose enemy Mine within \* fields. Replace the owner's cube with yours.<br><br>:empower: 0 - 1<br>:empower: 1 - 2<br>:empower: 2 - \*3</p>
+___
 
 
-## Effect
+## Comes With
 
-:instant: Choose enemy Mine within \* fields. Replace the owner's cube with yours.<br><br>:empower: 0 - 1<br>:empower: 1 - 2<br>:empower: 2 - \*3
+- [Fortress Expansion](../content.md)
 
 
 ## See Also
