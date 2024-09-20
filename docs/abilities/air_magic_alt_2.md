@@ -2,7 +2,7 @@
 
 ![Ambassador's Sash](../assets/skills-air_magic.webp){ width="340" align=right }
 
-<div style="display: flex; text-align: center; justify-content: center; align-items: center;">
+<div style="display: flex; text-align: center; justify-content: center; align-items: center;" markdown>
 ___
 :permanent: +1 :empower: for spells from [School of Air Magic](../spells/school_of_air_magic.md).
 ___
