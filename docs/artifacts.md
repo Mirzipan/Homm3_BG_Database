@@ -22,7 +22,7 @@
 | [Legs of Legion](artifacts/legs_of_legion.md) | Minor | :instant: Reduce the Recruitment or Reinforcement cost of a [unit](units.md) by 4 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :gold:. | Core |
 | [Loins of Legion](artifacts/loins_of_legion.md) | Minor | :instant: Reduce the Recruitment or Reinforcement cost of a [unit](units.md) by 5 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :gold:. | Core |
 | [Necklace of Swiftness](artifacts/necklace_of_swiftness.md) | Minor | 🚧 | Regular Stretch Goals |
-| [Red Dragon Flame Tongue](artifacts/red_dragon_flame_tongue.md) | Minor | :instant: +3 :empower:<br><br>— OR —<br><br>:instant: +1 :empower:, then, draw a card. | Core |
+| [Red Dragon Flame Tongue](artifacts/red_dragon_flame_tongue.md) | Minor | :instant: +1 :defense:<br><br>— OR —<br><br>:instant: +1 :attack: | Core |
 | [Rib Cage](artifacts/rib_cage.md) | Minor | :instant: Select 1 Spell card from you discard pile and put it back into your hand. Then, shuffle your discard pile back into your deck of Might and Magic.<br><br>— OR —<br><br>:instant: +1 :empower: | Core |
 | [Ring of the Wayfarer](artifacts/ring_of_the_wayfarer.md) | Minor | :ongoing: For this Combat, your selected [unit](units.md) gains +1 :initiative:.<br><br>— OR —<br><br>:instant: At start of Combat with [Neutral Units](units.md#neutral) put :paralysis: token on any [unit](units.md) except :azure:. | Tower |
 | [Scales of the Greater Basilisk](artifacts/scales_of_the_greater_basilisk.md) | Minor | :instant: +1 :defense:<br><br>— OR —<br><br>:instant: +1 :attack: | Fortress |
