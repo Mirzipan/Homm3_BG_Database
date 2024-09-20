@@ -3,7 +3,7 @@
 ![Magic Arrow](../assets/spells-magic_arrow.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>All Schools of Magic</p>
+<p style="text-align: center;" markdown>Basic Spell</p>
 ___
 <p style="text-align: center;" markdown>:activation: The selected [unit](../units.md) suffers:<br><br>:empower: 0 - 1 :damage:<br>:empower: 1 - 2 :damage:<br>:empower: 2 - 3 :damage:</p>
 ___
@@ -25,8 +25,8 @@ ___
 
 ## See Also
 
-- [List of Spells](../spells.md)
 - [School of Air Magic](school_of_air_magic.md)
 - [School of Earth Magic](school_of_earth_magic.md)
 - [School of Fire Magic](school_of_fire_magic.md)
 - [School of Water Magic](school_of_water_magic.md)
+- [List of Spells](../spells.md)

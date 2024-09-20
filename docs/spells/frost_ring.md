@@ -3,7 +3,7 @@
 ![Frost Ring](../assets/spells-frost_ring.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Water School of Magic](school_of_water_magic.md)</p>
+<p style="text-align: center;" markdown>[Expert Water Spell](school_of_water_magic.md)</p>
 ___
 <p style="text-align: center;" markdown>:activation: Select a space on the Combat board. 2 [units](../units.md) adjacent to this space suffer:<br><br>:empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage:</p>
 ___
@@ -16,5 +16,5 @@ ___
 
 ## See Also
 
-- [List of Spells](../spells.md)
 - [School of Water Magic](school_of_water_magic.md)
+- [List of Spells](../spells.md)

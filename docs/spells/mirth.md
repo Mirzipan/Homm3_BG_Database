@@ -3,7 +3,7 @@
 ![Mirth](../assets/spells-mirth.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Water School of Magic](school_of_water_magic.md)</p>
+<p style="text-align: center;" markdown>[Expert Water Spell](school_of_water_magic.md)</p>
 ___
 <p style="text-align: center;" markdown>:ongoing: You can reroll each of your [Attack dice](../dice.md#attack-die) once. During:<br><br>:empower: 0 - This Activation<br>:empower: 2 - This Combat round<br>:empower: 4 - This Combat</p>
 ___
@@ -16,5 +16,5 @@ ___
 
 ## See Also
 
-- [List of Spells](../spells.md)
 - [School of Water Magic](school_of_water_magic.md)
+- [List of Spells](../spells.md)
