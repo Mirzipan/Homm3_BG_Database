@@ -1,3 +1,9 @@
 .md-typeset table:not([class]) th {
     min-width: 2rem !important;
 }
+
+.md-emoji-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
