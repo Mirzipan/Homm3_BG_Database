@@ -14,7 +14,7 @@ Necropolis town comes with the [Core Game](../content.md).
 | Mausoleum Domain | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |
 | Vaults of Darkness | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
 | Necromancy Amplifier | 7 :gold:<br>3 :building_materials:<br>1 :valuables: | At the beginning of your turn, choose one:<br><br>**1.** Search the [Ability](../abilities.md) card deck for a [Necromancy](../abilities.md) card and put it in your hand.<br><br>**2.** Take 1 [Specialty](#heroes) card from your discard pile to your hand. |
-| Cover of Darkness | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | During your turn, choose one:<br><br>**1.** Discard up to 2 Might and Magic cards to draw that many cards.<br><br>**2.** At the beginning of Combat with an Enemy [Hero](heroes.md), discard 1 random card from the enemy's hand. |
+| Cover of Darkness | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | During your turn, choose one:<br><br>**1.** Discard up to 2 Might and Magic cards to draw that many cards.<br><br>**2.** At the beginning of Combat with an Enemy [Hero](../heroes.md), discard 1 random card from the enemy's hand. |
 
 
 ## Heroes

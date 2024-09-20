@@ -13,7 +13,7 @@ Dungeon town comes with the [Core Game](../content.md).
 | Warrens | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |
 | Inner Labyrinths | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |
 | Ancient Lairs | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
-| Portal of Summoning | 7 :gold:<br>3 :building_materials:<br>1 :valuables: | At the beginning of your turn, you can draw 1 [Neutral Unit](../units.md#neutral) card from decks corresponding to the Dwellings in your Town and :pay: the Recruitment cost to **Recruit** this [unit](units.md#neutral). |
+| Portal of Summoning | 7 :gold:<br>3 :building_materials:<br>1 :valuables: | At the beginning of your turn, you can draw 1 [Neutral Unit](../units.md) card from decks corresponding to the Dwellings in your Town and :pay: the Recruitment cost to **Recruit** this [unit](../units.md). |
 | Mana Vortex | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | At the beginning of your turn, discard 1 card from your hand to shuffle your discard pile back into your deck of Might and Magic. Then **Search(3)** from it. |
 
 

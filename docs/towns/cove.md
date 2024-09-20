@@ -19,10 +19,10 @@ Cove town comes with the [Cove Expansion](../content.md).
 
 ## Heroes
 
-- :magic: [Casmetra](..heroes/casmetra.md)
-- :might: [Cassiopeia](..heroes/cassiopeia.md)
-- :might: [Jeremy](..heroes/jeremy.md)
-- :magic: [Zilare](..heroes/zilare.md)
+- :magic: [Casmetra](../heroes/casmetra.md)
+- :might: [Cassiopeia](../heroes/cassiopeia.md)
+- :might: [Jeremy](../heroes/jeremy.md)
+- :magic: [Zilare](../heroes/zilare.md)
 
 
 ## Units

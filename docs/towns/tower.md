@@ -14,7 +14,7 @@ Tower town comes with the [Tower Expansion](../content.md).
 | Enchanted Towers | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |
 | Golden Temples | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
 | Artifact Merchants | 8 :gold:<br>6 :building_materials:<br>1 :valuables: | During your turn, choose one:<br><br>**1.** :pay: 7 :gold: to **Search(2)** [:artifact:](../artifacts.md).<br><br>**2.** Remove an [Artifact](../artifacts.md) card from your hand to gain 2 :gold:. |
-| Wall of Knowledge | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | At the beginning of each [Astrologer's round](../astrologers_proclaim.md), you can take 1 [Knowledge](..statistics/knowledge.md) or 1 [Power Statistic](..statistics/power.md) card from your discard pile to your hand. |
+| Wall of Knowledge | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | At the beginning of each [Astrologer's round](../astrologers_proclaim.md), you can take 1 [Knowledge](../statistics/knowledge.md) or 1 [Power Statistic](../statistics/power.md) card from your discard pile to your hand. |
 
 
 ## Heroes
