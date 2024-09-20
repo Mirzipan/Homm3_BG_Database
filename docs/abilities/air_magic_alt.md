@@ -1,4 +1,4 @@
-# Air Magic
+# Air Magic (Alt)
 
 ![Ambassador's Sash](../assets/skills-air_magic.webp){ width="340" align=right }
 ___
@@ -12,7 +12,7 @@ ___
 
 ## Comes With
 
-- [Tower Expansion](../content.md).
+- [Tower Expansion](../content.md)
 
 
 ## See Also
