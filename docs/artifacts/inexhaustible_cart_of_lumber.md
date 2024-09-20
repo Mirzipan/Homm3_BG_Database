@@ -1,6 +1,6 @@
-# Inexhaustible Card of Lumber
+# Inexhaustible Cart of Lumber
 
-![Inexhaustible Card of Lumber](../assets/artifacts_minor-inexhaustible_card_of_lumber.webp){ width="340" align=right }
+![Inexhaustible Cart of Lumber](../assets/artifacts_minor-inexhaustible_cart_of_lumber.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>Minor Artifact</p>
 ___

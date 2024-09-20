@@ -4,7 +4,7 @@ Tamika is a :might: Death Knight hero that belongs to [Necropolis](../towns/necr
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 2 | 2 | 1 | [Offense](abilities/offense.md) | [Dread Knights](#specialty) |
+| 1 | 2 | 2 | 1 | [Offense](../abilities/offense.md) | [Dread Knights](#specialty) |
 
 
 ## Specialty

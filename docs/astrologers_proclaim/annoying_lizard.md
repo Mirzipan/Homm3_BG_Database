@@ -7,7 +7,7 @@ Annoying Lizard is an astrologers proclaim card that comes with the [Core Game](
 
 ## Effect
 
-Each player must shuffle all [Artifact](artifacts.md) and [Spell](../spells.md) cards from their hand back into their deck and draw the same number of cards from the top of their deck of Might and Magic.
+Each player must shuffle all [Artifact](../artifacts.md) and [Spell](../spells.md) cards from their hand back into their deck and draw the same number of cards from the top of their deck of Might and Magic.
 
 
 ## See Also

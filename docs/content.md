@@ -11,5 +11,5 @@
 | Conflux Expansion | *Upcoming Expansion*<br>[Conflux Faction](towns/conflux.md)<br>Monoliths |
 | Cove Expansion | *Upcoming Expansion*<br>[Cove Faction](towns/cove.md)<br>[Water Tiles](tiles.md#water) |
 | Battlefield Expansion | Hex Battlefield With Obstacles<br>Adventure<br>Positive Morale Cards<br>Negative Morale Cards |
-| Regular Stretch Goals | *Upcoming Expansion*<br>[Neutral Units](towns/neutral.md)<br>[Extra Heroes](heroes.md)<br>[Alternative Pack of Manticores](units/manticore.md) |
+| Regular Stretch Goals | *Upcoming Expansion*<br>[Neutral Units](towns/neutral.md)<br>[Extra Heroes](heroes.md)<br>[Alternative Pack of Manticores](units/manticores.md) |
 | Crystal Stretch Goals | *Upcoming Expansion*<br>🚧 |

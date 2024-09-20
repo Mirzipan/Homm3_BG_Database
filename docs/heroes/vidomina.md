@@ -4,7 +4,7 @@ Vidomina is a :magic: Necromancer hero that belongs to [Necropolis](../towns/nec
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 0 | 2 | 2 | [Necromancy](abilities/necromancy.md) | [Necromancy](#specialty) |
+| 1 | 0 | 2 | 2 | [Necromancy](../abilities/necromancy.md) | [Necromancy](#specialty) |
 
 
 ## Specialty
