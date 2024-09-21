@@ -18,4 +18,4 @@ ___
 
 ## See Also
 
-- [List of Abilities](../abilities.md)
+- [List of Abilities](index.md)

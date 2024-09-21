@@ -25,4 +25,4 @@ ___
 ## See Also
 
 - [Necropolis Town](../towns/necropolis.md)
-- [List of Abilities](../abilities.md)
+- [List of Abilities](index.md)
