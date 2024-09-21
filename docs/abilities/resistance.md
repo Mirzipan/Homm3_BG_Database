@@ -3,6 +3,8 @@
 ![Resistance](../assets/abilities-resistance.webp){ width="340" align=right }
 
 ___
+<p style="text-align: center;" markdown>Ability</p>
+___
 <p style="text-align: center;" markdown>:instant: Play this card immediately after the enemy casts a spell. If the spell was cast with 1 :empower: or less, ignore the [Spell](../spells/index.md) card's effect.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>

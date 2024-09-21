@@ -3,6 +3,8 @@
 ![Sorcery](../assets/abilities-sorcery.webp){ width="340" align=right }
 
 ___
+<p style="text-align: center;" markdown>Ability</p>
+___
 <p style="text-align: center;" markdown>:instant: +1 :empower:<br>Then draw 1 card.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>

@@ -3,6 +3,8 @@
 ![Earth Magic](../assets/abilities-earth_magic.webp){ width="340" align=right }
 
 ___
+<p style="text-align: center;" markdown>Ability</p>
+___
 <p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Earth Magic](../spells/school_of_earth_magic.md).</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>

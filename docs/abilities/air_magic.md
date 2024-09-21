@@ -3,6 +3,8 @@
 ![Air Magic](../assets/abilities-air_magic.webp){ width="340" align=right }
 
 ___
+<p style="text-align: center;" markdown>Ability</p>
+___
 <p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Air Magic](../spells/school_of_air_magic.md).</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>

@@ -3,6 +3,8 @@
 ![Luck](../assets/abilities-luck.webp){ width="340" align=right }
 
 ___
+<p style="text-align: center;" markdown>Ability</p>
+___
 <p style="text-align: center;" markdown>:ongoing: You can reroll a [Treasure die](../dice.md#treasure-die) and a [Resource die](../dice.md#resource-die) once during this turn.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>

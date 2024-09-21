@@ -3,6 +3,8 @@
 ![Pathfinding](../assets/abilities-pathfinding.webp){ width="340" align=right }
 
 ___
+<p style="text-align: center;" markdown>Ability</p>
+___
 <p style="text-align: center;" markdown>:effect_map: This turn, your Hero can move through fields with Neutral Units and Enemy Heroes, but if they end their movement in one of these fields, Combat begins.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
