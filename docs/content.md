@@ -6,7 +6,7 @@
 | Tower Expansion | [Tower Faction](towns/tower.md)<br>Stretch Goals |
 | Rampart Expansion | [Rampart Faction](towns/rampart.md)<br>[War Machines](war_machines/index.md) |
 | Fortress Expansion | [Fortress Faction](towns/fortress.md)<br>[Events](events/index.md) |
-| Inferno Expansion | [Inferno Faction](towns/inferno.md)<br>Empowered [Statistics](statistics.md) |
+| Inferno Expansion | [Inferno Faction](towns/inferno.md)<br>Empowered [Statistics](statistics/index.md) |
 | Stronghold Expansion | *Upcoming Expansion*<br>[Stronghold Faction](towns/stronghold.md)<br>[Underground Tiles](tiles.md#underground) |
 | Conflux Expansion | *Upcoming Expansion*<br>[Conflux Faction](towns/conflux.md)<br>Monoliths |
 | Cove Expansion | *Upcoming Expansion*<br>[Cove Faction](towns/cove.md)<br>[Water Tiles](tiles.md#water) |

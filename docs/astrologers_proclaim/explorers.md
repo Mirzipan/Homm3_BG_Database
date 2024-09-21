@@ -7,10 +7,10 @@ Explorers is an astrologers proclaim card that comes with the [Inferno Expansion
 
 ## Effect
 
-During this round, players do not draw cards at the start of their turns. Instead, each player draws cards up their :hand:. Then, each of them may discard any number of cards. For every 3 cards discarded this way, they can Remove one [Statistic](../statistics.md) card and replace it with an [Empowered Statistic](../statistics.md) card of the same type.
+During this round, players do not draw cards at the start of their turns. Instead, each player draws cards up their :hand:. Then, each of them may discard any number of cards. For every 3 cards discarded this way, they can Remove one [Statistic](../statistics/index.md) card and replace it with an [Empowered Statistic](../statistics/index.md) card of the same type.
 
 
 ## See Also
 
 - [List of Astrologers Proclaim Cards](index.md)
-- [List of Statistics](../statistics.md)
+- [List of Statistics](../statistics/index.md)
