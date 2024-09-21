@@ -32,6 +32,7 @@ theme:
   features:
     - content.code.copy
     - navigation.indexes
+    - navigation.top
     - search.suggest
     - search.highlight
   palette:
