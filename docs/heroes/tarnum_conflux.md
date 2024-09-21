@@ -18,5 +18,6 @@ Tarnum is a :magic: Elementalist hero that belongs to [Conflux](../towns/conflux
 
 ## See Also
 
+- [Tarnum (Stronghold)](tarnum_stronghold.md)
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)

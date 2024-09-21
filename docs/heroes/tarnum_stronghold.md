@@ -18,5 +18,6 @@ Tarnum is a :might: Barbarian hero that belongs to [Stronghold](../towns/strongh
 
 ## See Also
 
+- [Tarnum (Conflux)](tarnum_conflux.md)
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
