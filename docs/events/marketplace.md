@@ -1,13 +1,23 @@
 # Marketplace
 
-Marketplace is an event that comes with the [Fortress Expansion](../content.md).
+<figure markdown="span">
 
-*While passing through a small town, you find a lively marketplace. Despite all the turmoil in the world, this place seems strangely cheerful and happy. Will you stop to see what they offer?*
+![Marketplace](../assets/events-marketplace.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Event</p>
+___
+<p style="text-align: center;" markdown>**Each player chooses one option:** <br>Roll 1 [:trasuredie:](../dice.md#resource-die) and resolve its effects.<br><br>— OR —<br><br>[Trade](../trading.md) resources using Trading Post rules.<br><br>— OR —<br><br>Propose an exchange of resources with other players - one type of resource for one type of resource. Each player can propose one deal.</p>
+___
+<p style="text-align: center;" markdown>*While passing through a small town, you find a lively marketplace. Despite all the turmoil in the world, this place seems strangely cheerful and happy. Will you stop to see what they offer?*</p>
+___
 
 
-## Effect
+## Comes With
 
-**Each player chooses one option:** <br>Roll 1 [:trasuredie:](../dice.md#resource-die) and resolve its effects.<br><br>— OR —<br><br>[Trade](../trading.md) resources using Trading Post rules.<br><br>— OR —<br><br>Propose an exchange of resources with other players - one type of resource for one type of resource. Each player can propose one deal.
+- [Fortress Expansion](../content.md)
 
 
 ## See Also

@@ -1,13 +1,23 @@
 # Cursed Swamp
 
-Cursed Swamp is an event that comes with the [Fortress Expansion](../content.md).
+<figure markdown="span">
 
-**On your journey, you wander into a swamp. Only after some time do you notice the eerie atmosphere surrounding this place and the eyes lurking just beneath the water's surface. Eyes of the dead. Your army tremples in panic while you gather your thoughts. Will you force them to go on or, maybe, shield them with your magic?**
+![Cursed Swamp](../assets/events-cursed_swamp.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Event</p>
+___
+<p style="text-align: center;" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 :treasure: and choose one result.<br><br>— OR —<br><br>Remove one or more [:spellpower:](../spells/index.md) from your hand; if you remove at least 2, **Search (3)** the Artifact deck.<br><br>— OR —<br><br>Discard your cheapest unit.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for free.</p>
+___
+<p style="text-align: center;" markdown>**On your journey, you wander into a swamp. Only after some time do you notice the eerie atmosphere surrounding this place and the eyes lurking just beneath the water's surface. Eyes of the dead. Your army tremples in panic while you gather your thoughts. Will you force them to go on or, maybe, shield them with your magic?**</p>
+___
 
 
-## Effect
+## Comes With
 
-**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 :treasure: and choose one result.<br><br>— OR —<br><br>Remove one or more [:spellpower:](../spells/index.md) from your hand; if you remove at least 2, **Search (3)** the Artifact deck.<br><br>— OR —<br><br>Discard your cheapest unit.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for free.
+- [Fortress Expansion](../content.md)
 
 
 ## See Also

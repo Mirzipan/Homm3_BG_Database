@@ -1,13 +1,23 @@
 # Den of Thieves
 
-Den of Thieves is an event that comes with the [Fortress Expansion](../content.md).
+<figure markdown="span">
 
-*Searching through the underbrush, you find the secret entrance to the Den of Thieves. In there, an old "acquaintance" grabs your arm and starts talking abouut all the "secrets" she has learned since you last meeting.*
+![Den of Thieves](../assets/events-den_of_thieves.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Event</p>
+___
+<p style="text-align: center;" markdown>Take the top 2 cards from a [Neutral Unit](../units/index.md) deck of your choice. You may buy one of them. Then decide what to do with the remaining card(s) - you may place them at the bottom or top of the respective [Neutral Unit](../units/index.md) deck.</p>
+___
+<p style="text-align: center;" markdown>*Searching through the underbrush, you find the secret entrance to the Den of Thieves. In there, an old "acquaintance" grabs your arm and starts talking abouut all the "secrets" she has learned since you last meeting.*</p>
+___
 
 
-## Effect
+## Comes With
 
-Take the top 2 cards from a [Neutral Unit](../units/index.md) deck of your choice. You may buy one of them. Then decide what to do with the remaining card(s) - you may place them at the bottom or top of the respective [Neutral Unit](../units/index.md) deck.
+- [Fortress Expansion](../content.md)
 
 
 ## See Also
