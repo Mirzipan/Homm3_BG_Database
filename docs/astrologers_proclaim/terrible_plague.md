@@ -1,13 +1,23 @@
 # Terrible Plague
 
-Terrible Plague is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*All populations are halved.<br>Snap.*
+![Terrible Plague](../assets/astrologers_proclaim-terrible_plague.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>All players flip one of their [units](../units/index.md) from the "Pack" to the "Few" side, if possible.</p>
+___
+<p style="text-align: center;" markdown>*All populations are halved.<br>Snap.*</p>
+___
 
 
-## Effect
+## Comes With
 
-All players flip one of their [units](../units/index.md) from the "Pack" to the "Few" side, if possible.
+- [Core Game](../content.md)
 
 
 ## See Also

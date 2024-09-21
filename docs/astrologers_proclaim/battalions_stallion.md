@@ -1,13 +1,23 @@
 # Battalion's Stallion
 
-Battalion's Stallion is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*"Yo, Adrienne, I did it!"*
+![Battalion's Stallion](../assets/astrologers_proclaim-battalions_stallion.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement.</p>
+___
+<p style="text-align: center;" markdown>*"Yo, Adrienne, I did it!"*</p>
+___
 
 
-## Effect
+## Comes With
 
-Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement.
+- [Core Game](../content.md)
 
 
 ## See Also

@@ -1,13 +1,23 @@
 # Fluffy Rabbit
 
-Fluffy Rabbit is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*Hurry, hurry, get your free treasures, every treasure's a vote for Fluffy Rabbit!*
+![Fluffy Rabbit](../assets/astrologers_proclaim-fluffy_rabbit.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Each player immediately rolls 1 [Treasure die](../dice.md#treasure-die) and gains the rolled bonus.</p>
+___
+<p style="text-align: center;" markdown>*Hurry, hurry, get your free treasures, every treasure's a vote for Fluffy Rabbit!*</p>
+___
 
 
-## Effect
+## Comes With
 
-Each player immediately rolls 1 [Treasure die](../dice.md#treasure-die) and gains the rolled bonus.
+- [Core Game](../content.md)
 
 
 ## See Also

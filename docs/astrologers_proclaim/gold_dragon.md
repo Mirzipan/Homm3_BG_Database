@@ -1,13 +1,23 @@
 # Gold Dragon
 
-Gold Dragon is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*Gold, gold, gold, live it up to your love.<br>Gold, gold, gold, live it up to your hope.<br>Gold, gold, gold, live it up to your dream.<br>Gold, gold, gold, live it up to your soul.*
+![Gold Dragon](../assets/astrologers_proclaim-gold_dragon.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>At the beginning of the next Resource round, all players gain 5 :gold:.</p>
+___
+<p style="text-align: center;" markdown>*Gold, gold, gold, live it up to your love.<br>Gold, gold, gold, live it up to your hope.<br>Gold, gold, gold, live it up to your dream.<br>Gold, gold, gold, live it up to your soul.*</p>
+___
 
 
-## Effect
+## Comes With
 
-At the beginning of the next Resource round, all players gain 5 :gold:.
+- [Core Game](../content.md)
 
 
 ## See Also

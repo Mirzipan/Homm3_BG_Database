@@ -1,13 +1,23 @@
 # Dead Silence
 
-Dead Silence is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*Hello silence, my old friend.<br>I've come to chat with you again.*
+![Dead Silence](../assets/astrologers_proclaim-dead_silence.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Nothing changes.</p>
+___
+<p style="text-align: center;" markdown>*Hello silence, my old friend.<br>I've come to chat with you again.*</p>
+___
 
 
-## Effect
+## Comes With
 
-Nothing changes.
+- [Core Game](../content.md)
 
 
 ## See Also

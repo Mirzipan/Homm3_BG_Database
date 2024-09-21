@@ -1,13 +1,23 @@
 # Greedy Dragon
 
-Greedy Dragon is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*Never laugh at live dragons, Dracon, you fool!*
+![Greedy Dragon](../assets/astrologers_proclaim-greedy_dragon.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>At the beginning of the next Resource round, all players gain 1 less :valuables:, down to a minimum of 0.</p>
+___
+<p style="text-align: center;" markdown>*Never laugh at live dragons, Dracon, you fool!*</p>
+___
 
 
-## Effect
+## Comes With
 
-At the beginning of the next Resource round, all players gain 1 less :valuables:, down to a minimum of 0.
+- [Core Game](../content.md)
 
 
 ## See Also

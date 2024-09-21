@@ -1,13 +1,23 @@
 # Grim Warlock
 
-Grim Warlock is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*Against the power of Eeofol, there can be no victory!*
+![Grim Warlock](../assets/astrologers_proclaim-grim_warlock.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card played in each player's turn gets +1 :empower:.</p>
+___
+<p style="text-align: center;" markdown>*Against the power of Eeofol, there can be no victory!*</p>
+___
 
 
-## Effect
+## Comes With
 
-Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card played in each player's turn gets +1 :empower:.
+- [Core Game](../content.md)
 
 
 ## See Also

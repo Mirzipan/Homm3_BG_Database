@@ -1,13 +1,23 @@
 # Society
 
-Society is an astrologers proclaim card that comes with the [Tower Expansion](../content.md).
+<figure markdown="span">
 
-*Some Kreegan has told me: "Hell is other people."*
+![Society](../assets/astrologers_proclaim-society.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Each player gains :morale_negative:.</p>
+___
+<p style="text-align: center;" markdown>*Some Kreegan has told me: "Hell is other people."*</p>
+___
 
 
-## Effect
+## Comes With
 
-Each player gains :morale_negative:.
+- [Tower Expansion](../content.md)
 
 
 ## See Also

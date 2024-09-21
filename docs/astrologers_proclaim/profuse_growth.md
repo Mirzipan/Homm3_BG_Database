@@ -1,13 +1,23 @@
 # Profuse Growth
 
-Profuse Growth is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*A horn of plenty spills from your hands into the starved lives of hundreds...*
+![Profuse Growth](../assets/astrologers_proclaim-profuse_growth.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Until the next Astrologers' round:<br><br>Your hand limit is increased by 1.</p>
+___
+<p style="text-align: center;" markdown>*A horn of plenty spills from your hands into the starved lives of hundreds...*</p>
+___
 
 
-## Effect
+## Comes With
 
-Until the next Astrologers' round:<br><br>Your hand limit is increased by 1.
+- [Core Game](../content.md)
 
 
 ## See Also

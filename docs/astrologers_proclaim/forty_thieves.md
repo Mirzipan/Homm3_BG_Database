@@ -1,13 +1,23 @@
 # Forty Thieves
 
-Forty Thieves is an astrologers proclaim card that comes with the [Fortress Expansion](../content.md).
+<figure markdown="span">
 
-*As I walk through the lands of the shadow of death<br>I look back at my deeds and realize there's not much left<br>You better watcha 'what you're talkin', and where you're walkin'<br>Or you and your army might be covered with Rust Dragon's spit.*
+![Forty Thieves](../assets/astrologers_proclaim-forty_thieves.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Until the next Astrologers round, whenever a player is about to draw an [Event](../events/index.md) card, they deaw 2 cards instead of 1, choose 1 to resolve, and put the other at the bottom of the [Event](../events/index.md) deck.</p>
+___
+<p style="text-align: center;" markdown>*As I walk through the lands of the shadow of death<br>I look back at my deeds and realize there's not much left<br>You better watcha 'what you're talkin', and where you're walkin'<br>Or you and your army might be covered with Rust Dragon's spit.*</p>
+___
 
 
-## Effect
+## Comes With
 
-Until the next Astrologers round, whenever a player is about to draw an [Event](../events/index.md) card, they deaw 2 cards instead of 1, choose 1 to resolve, and put the other at the bottom of the [Event](../events/index.md) deck.
+- [Fortress Expansion](../content.md)
 
 
 ## See Also

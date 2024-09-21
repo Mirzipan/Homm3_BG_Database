@@ -1,13 +1,23 @@
 # Annoying Lizard
 
-Annoying Lizard is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*Hey, Hero! Hero! Hey, Hero! Hero! Hey!*
+![Annoying Lizard](../assets/astrologers_proclaim-annoying_lizard.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Each player must shuffle all [Artifact](../artifacts/index.md) and [Spell](../spells/index.md) cards from their hand back into their deck and draw the same number of cards from the top of their deck of Might and Magic.</p>
+___
+<p style="text-align: center;" markdown>*Hey, Hero! Hero! Hey, Hero! Hero! Hey!*</p>
+___
 
 
-## Effect
+## Comes With
 
-Each player must shuffle all [Artifact](../artifacts/index.md) and [Spell](../spells/index.md) cards from their hand back into their deck and draw the same number of cards from the top of their deck of Might and Magic.
+- [Core Game](../content.md)
 
 
 ## See Also

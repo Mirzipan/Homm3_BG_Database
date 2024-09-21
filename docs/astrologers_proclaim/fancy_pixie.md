@@ -1,13 +1,23 @@
 # Fancy Pixie
 
-Fancy Pixie is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*I decided to take, into my own hands, fate.<br>This was the firdt time for love, I made.<br>We were young, I was the moment's owner.<br>We went out on a data to Skeleton Transformer.<br>Her heart is on my sleeve, we know each other, thoroughly.<br>I've looked right through her, I know evrty bonr of she.*
+![Fancy Pixie](../assets/astrologers_proclaim-fancy_pixie.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Each player immediately gains 1 :morale_positive:</p>
+___
+<p style="text-align: center;" markdown>*I decided to take, into my own hands, fate.<br>This was the firdt time for love, I made.<br>We were young, I was the moment's owner.<br>We went out on a data to Skeleton Transformer.<br>Her heart is on my sleeve, we know each other, thoroughly.<br>I've looked right through her, I know evrty bonr of she.*</p>
+___
 
 
-## Effect
+## Comes With
 
-Each player immediately gains 1 :morale_positive:
+- [Core Game](../content.md)
 
 
 ## See Also

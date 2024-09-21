@@ -1,13 +1,23 @@
 # Blue Sky
 
-Blue Sky is an astrologers proclaim card that comes with the [Tower Expansion](../content.md).
+<figure markdown="span">
 
-*Hey Elemental Faces<br>Welcome to the Enroth Races<br>A celebration, Blue Sky's up there waiting<br>And now is the day we've waited for*
+![Blue Sky](../assets/astrologers_proclaim-blue_sky.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Until the next Astrologers' round, all [:spellpower:](../spells/index.md) from the [Air Magic](../spells/school_of_air_magic.md) and [Water Magic](../spells/school_of_water_magic.md) Schools are cast at a +1 :empower:.</p>
+___
+<p style="text-align: center;" markdown>*Hey Elemental Faces<br>Welcome to the Enroth Races<br>A celebration, Blue Sky's up there waiting<br>And now is the day we've waited for*</p>
+___
 
 
-## Effect
+## Comes With
 
-Until the next Astrologers' round, all [:spellpower:](../spells/index.md) from the [Air Magic](../spells/school_of_air_magic.md) and [Water Magic](../spells/school_of_water_magic.md) Schools are cast at a +1 :empower:.
+- [Tower Expansion](../content.md)
 
 
 ## See Also

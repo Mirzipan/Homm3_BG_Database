@@ -1,13 +1,23 @@
 # Big Cleanup
 
-Big Cleanup is an astrologers proclaim card that comes with the [Fortress Expansion](../content.md).
+<figure markdown="span">
 
-*- It's time for spring cleaning!<br>- It's winter. We're in Eeofol... Duh...*
+![Big Cleanup](../assets/astrologers_proclaim-big_cleanup.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Each player must immediately discard all cards from their hand and draw the same number of cards.</p>
+___
+<p style="text-align: center;" markdown>*- It's time for spring cleaning!<br>- It's winter. We're in Eeofol... Duh...*</p>
+___
 
 
-## Effect
+## Comes With
 
-Each player must immediately discard all cards from their hand and draw the same number of cards.
+- [Fortress Expansion](../content.md)
 
 
 ## See Also

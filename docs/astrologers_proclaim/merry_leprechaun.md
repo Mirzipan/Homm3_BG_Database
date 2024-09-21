@@ -1,13 +1,23 @@
 # Merry Leprechaun
 
-Merry Leprechaun is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*"I wasn't aware that leprechaun gold vanishes." "How could it be else when you just have taken it from me...?"*
+![Merry Leprechaun](../assets/astrologers_proclaim-merry_leprechaun.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>At the beginning of the next Resource round, all players gain 1 :valuables:.</p>
+___
+<p style="text-align: center;" markdown>*"I wasn't aware that leprechaun gold vanishes." "How could it be else when you just have taken it from me...?"*</p>
+___
 
 
-## Effect
+## Comes With
 
-At the beginning of the next Resource round, all players gain 1 :valuables:.
+- [Core Game](../content.md)
 
 
 ## See Also

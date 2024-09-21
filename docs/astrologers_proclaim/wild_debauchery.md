@@ -1,13 +1,23 @@
 # Wild Debauchery
 
-Wild Debauchery is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*Sit down, there's a party in the tavern today!<br>We are thirsty again!<br>La la la!<br>We drink for a week of Wild Debauchery<br>For seven days now!<br>La la la!*
+![Wild Debauchery](../assets/astrologers_proclaim-wild_debauchery.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>At the beginning of the next Resource round, all players gain 5 less :gold:.</p>
+___
+<p style="text-align: center;" markdown>*Sit down, there's a party in the tavern today!<br>We are thirsty again!<br>La la la!<br>We drink for a week of Wild Debauchery<br>For seven days now!<br>La la la!*</p>
+___
 
 
-## Effect
+## Comes With
 
-At the beginning of the next Resource round, all players gain 5 less :gold:.
+- [Core Game](../content.md)
 
 
 ## See Also

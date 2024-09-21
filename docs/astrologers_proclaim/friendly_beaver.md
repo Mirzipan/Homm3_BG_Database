@@ -1,13 +1,23 @@
 # Friendly Beaver
 
-Friendly Beaver is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*"When the Sword of Frost touches Armageddon's Blade, the time of Enroth will be no longer then."<br>"Do you know that doesn't really rhyme?"*
+![Friendly Beaver](../assets/astrologers_proclaim-friendly_beaver.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>If you draw this card on the first Astrologers' round, discard it and draw another card.<br><br>Immediately remove all Black cubes from all locations on the map.</p>
+___
+<p style="text-align: center;" markdown>*"When the Sword of Frost touches Armageddon's Blade, the time of Enroth will be no longer then."<br>"Do you know that doesn't really rhyme?"*</p>
+___
 
 
-## Effect
+## Comes With
 
-If you draw this card on the first Astrologers' round, discard it and draw another card.<br><br>Immediately remove all Black cubes from all locations on the map.
+- [Core Game](../content.md)
 
 
 ## See Also

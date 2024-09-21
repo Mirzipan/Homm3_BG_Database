@@ -1,13 +1,23 @@
 # Magic Tortoise
 
-Magic Tortoise is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*Men live and die, and the Tortoise Moves. Empires grow and crumble, and the Tortoise Moves. Gods come and go, and still the Tortoise Moves. The Tortoise Moves.*
+![Magic Tortoise](../assets/astrologers_proclaim-magic_tortoise.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Unitil the next Astrologer's round:<br><br>Each [Hero](../heroes/index.md) suffers -1 Movement.</p>
+___
+<p style="text-align: center;" markdown>*Men live and die, and the Tortoise Moves. Empires grow and crumble, and the Tortoise Moves. Gods come and go, and still the Tortoise Moves. The Tortoise Moves.*</p>
+___
 
 
-## Effect
+## Comes With
 
-Unitil the next Astrologer's round:<br><br>Each [Hero](../heroes/index.md) suffers -1 Movement.
+- [Core Game](../content.md)
 
 
 ## See Also

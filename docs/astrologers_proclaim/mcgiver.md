@@ -1,13 +1,23 @@
 # McGiver
 
-McGiver is an astrologers proclaim card that comes with the [Rampart Expansion](../content.md).
+<figure markdown="span">
 
-*Hi, this is McGiver. We all know how the War Machines work, so when you hear the vrrrum, go for it.*
+![McGiver](../assets/astrologers_proclaim-mcgiver.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>At the beginning of the next round, each player can take 1 [War Machine](../war_machines/index.md) of their choice from the [War Machines](../war_machines/index.md) deck at not cost.</p>
+___
+<p style="text-align: center;" markdown>*Hi, this is McGiver. We all know how the War Machines work, so when you hear the vrrrum, go for it.*</p>
+___
 
 
-## Effect
+## Comes With
 
-At the beginning of the next round, each player can take 1 [War Machine](../war_machines/index.md) of their choice from the [War Machines](../war_machines/index.md) deck at not cost.
+- [Rampart Expansion](../content.md)
 
 
 ## See Also

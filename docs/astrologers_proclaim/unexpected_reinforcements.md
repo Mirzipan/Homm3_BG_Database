@@ -1,13 +1,23 @@
 # Unexpected Reinforcements
 
-Unexpected Reinforcements is an astrologers proclaim card that comes with the [Tower Expansion](../content.md).
+<figure markdown="span">
 
-*"My Lord, my Lady! We're at your command!"*
+![Unexpected Reinforcements](../assets/astrologers_proclaim-unexpected_reinforcements.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Each player can immediately search the [Neutral Units](../units/index.md) deck and **Recruite** 1 chosen unit associated with their faction for free. Each player still needs to have the corresponding [dwelling](../towns/index.md) built in their [town](../towns/index.md).</p>
+___
+<p style="text-align: center;" markdown>*"My Lord, my Lady! We're at your command!"*</p>
+___
 
 
-## Effect
+## Comes With
 
-Each player can immediately search the [Neutral Units](../units/index.md) deck and **Recruite** 1 chosen unit associated with their faction for free. Each player still needs to have the corresponding [dwelling](../towns/index.md) built in their [town](../towns/index.md).
+- [Tower Expansion](../content.md)
 
 
 ## See Also

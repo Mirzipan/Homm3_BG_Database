@@ -1,13 +1,23 @@
 # White Raven
 
-White Raven is an astrologers proclaim card that comes with the [Core Game](../content.md).
+<figure markdown="span">
 
-*"Where do you go, fantastic dream bird?"<br>"Eeofol, Deyja, Place Between Planes... Still interested?"*
+![White Raven](../assets/astrologers_proclaim-white_raven.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+___
+<p style="text-align: center;" markdown>Each player immediately rolls 1 [Resource die](../dice.md#resource-die) and gains the rolled resources.</p>
+___
+<p style="text-align: center;" markdown>*"Where do you go, fantastic dream bird?"<br>"Eeofol, Deyja, Place Between Planes... Still interested?"*</p>
+___
 
 
-## Effect
+## Comes With
 
-Each player immediately rolls 1 [Resource die](../dice.md#resource-die) and gains the rolled resources.
+- [Core Game](../content.md)
 
 
 ## See Also
