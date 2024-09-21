@@ -1,8 +1,18 @@
 # Power
 
-| Effect | :expert: Effect | Empowered Effect |
+<figure markdown="span">
+
+![Power](../assets/statistics-power.webp){ width="340" align=left }
+
+![Empowered Power](../assets/statistics-power-empowered.webp){ width="340" align=right }
+
+</figure>
+
+
+| Type |Effect | :expert: Effect |
 | :--- | :--- | :--- |
-| :instant: +1 :empower: | :instant: +2 :empower: | :instant: +2 :empower: |
+| Regular | :instant: +1 :empower: | :instant: +2 :empower: |
+| Empowered | :instant: +2 :empower: | - |
 
 
 ## See Also

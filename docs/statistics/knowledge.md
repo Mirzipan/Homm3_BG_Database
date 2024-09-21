@@ -1,8 +1,18 @@
 # Knowledge
 
-| Effect | :expert: Effect | Empowered Effect |
+<figure markdown="span">
+
+![Knowledge](../assets/statistics-knowledge.webp){ width="340" align=left }
+
+![Empowered Knowledge](../assets/statistics-knowledge-empowered.webp){ width="340" align=right }
+
+</figure>
+
+
+| Type |Effect | :expert: Effect |
 | :--- | :--- | :--- |
-| :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. |
+| Regular | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1.  |
+| Empowered | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. | - |
 
 
 ## Notes
