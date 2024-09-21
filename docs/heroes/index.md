@@ -21,10 +21,12 @@
 | [Lorelei](lorelei.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Scouting](../abilities/scouting.md) | [Harpies](lorelei.md#specialty) | Regular Stretch Goals |
 | [Mutare](mutare.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Tactics](../abilities/tactics.md) | [Dragons](mutare.md#specialty) | Core |
 | [Sephinroth](sephinroth.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Intelligence](../abilities/intelligence.md) | [Valueables](jeddite.md#specialty) | Regular Stretch Goals |
+| [Cyra](cyra.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Diplomacy](../abilities/diplomacy.md) | [Haste](cyra.md.md#specialty) | Regular Stretch Goals |
 | [Dracon](dracon.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Wisdom](../abilities/wisdom.md) | [Enchanters](dracon.md#specialty) | Tower |
 | [Iona](iona.md) | [Tower](../towns/tower.md) | :might: Alchemist | [Intelligence](../abilities/intelligence.md) | [Genies](iona.md#specialty) | Tower |
 | [Josephine](josephine.md) | [Tower](../towns/tower.md) | :might: Alchemist | [Sorcery](../abilities/sorcery.md) | [Golems](josephine.md#specialty) | Tower |
 | [Solmyr](solmyr.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Sorcery](../abilities/sorcery.md) | [Chain Lightning](solmyr.md#specialty) | Tower |
+| [Torosar](torosar.md) | [Tower](../towns/tower.md) | :might: Wizard | [Mysticism](../abilities/mysticism.md) | [Ballista](torosar.md.md#specialty) | Regular Stretch Goals |
 | [Clancy](clancy.md) | [Tower](../towns/tower.md) | :might: Ranger | [Pathfinding](../abilities/pathfinding.md) | [Unicorns](clancy.md#specialty) | Tower |
 | [Gelu](gelu.md) | [Rampart](../towns/rampart.md) | :might: Ranger | [Archery](../abilities/archery.md) | [Sharpshooters](gelu.md#specialty) | Rampart |
 | [Gem](gem.md) | [Rampart](../towns/rampart.md) | :magic: Druid | [First Aid](../abilities/first_aid.md) | [First Aid](gem.md#specialty) | Rampart |
