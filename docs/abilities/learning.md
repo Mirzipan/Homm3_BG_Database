@@ -5,11 +5,11 @@
 ___
 <p style="text-align: center;" markdown>Ability</p>
 ___
-<p style="text-align: center;" markdown>:instant: Play when the Hero is about to level up. Advance their :experience: Level by an additional half level.</p>
+<p style="text-align: center;" markdown>:instant: Play when the Hero is about to level up. Advance their Experience Level by an additional half level.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:instant: Play when the Hero is about to level up. Advance their :experience: Level by an additional level, then Remove this card.</p>
+<p style="text-align: center;" markdown>:instant: Play when the Hero is about to level up. Advance their Experience Level by an additional level, then Remove this card.</p>
 ___
 
 

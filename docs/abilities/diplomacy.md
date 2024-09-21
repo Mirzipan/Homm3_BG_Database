@@ -9,7 +9,7 @@ ___
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:instant: Skip Combat with [Neutral Units](../units/index.md) on a field whose Field Difficulty is equal to your Hero's level. Visit the field. This Hero gains no :experience:.</p>
+<p style="text-align: center;" markdown>:instant: Skip Combat with [Neutral Units](../units/index.md) on a field whose Field Difficulty is equal to your Hero's level. Visit the field. This Hero gains no Experience.</p>
 ___
 
 
