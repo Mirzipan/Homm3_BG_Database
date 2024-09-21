@@ -41,14 +41,14 @@
 | [Dessa](dessa.md) | [Stronghold](../towns/stronghold.md) | :magic: Battle Mage | [Logistics](../abilities/logistics.md) | [Logistics](dessa.md#specialty) | Regular Stretch Goals |
 | [Gundula](gundula.md) | [Stronghold](../towns/stronghold.md) | :magic: Battle Mage | [Wisdom](../abilities/wisdom.md) | [🚧](gundula.md#specialty) | Stronghold |
 | [Shiva](shiva.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | [Scouting](../abilities/scouting.md) | [Thunderbirds](shiva.md#specialty) | Stronghold |
-| [Tarnum_Stronghold](tarnum_stronghold.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Offense](tarnum_stronghold.md#specialty) | Regular Stretch Goals |
+| [Tarnum](tarnum_stronghold.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Offense](tarnum_stronghold.md#specialty) | Regular Stretch Goals |
 | [Yog](yog.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Cyclops](yog.md#specialty) | Stronghold |
 | [Ciele](ciele.md) | [Conflux](../towns/conflux.md) | :magic: Elementalist | [Water Magic](../abilities/water_magic.md) | [Magic Arrow](ciele.md#specialty) | Regular Stretch Goals |
 | [Erdamon](erdamon.md) | [Conflux](../towns/conflux.md) | :might: Planeswalker | [Estates](../abilities/estates.md) | [Magma Elementals](erdamon.md#specialty) | Conflux |
 | [Luna](luna.md) | [Conflux](../towns/conflux.md) | :magic: Elementalist | [Fire Magic](../abilities/fire_magic.md) | [Fire Wall](luna.md#specialty) | Conflux |
 | [Monere](monere.md) | [Conflux](../towns/conflux.md) | :might: Planeswalker | [Logistics](../abilities/logistics.md) | [Magic Elementals](monere.md#specialty) | Conflux |
 | [Pasis](pasis.md) | [Conflux](../towns/conflux.md) | :might: Planeswalker | [Artillery](../abilities/artillery.md) | [Magic Elementals](pasis.md#specialty) | Regular Stretch Goals |
-| [Tarnum_Conflux](tarnum_conflux.md) | [Conflux](../towns/conflux.md) | :magic: Elementalist | [Wisdom](../abilities/wisdom.md) | [🚧](tarnum_conflux.md#specialty) | Conflux |
+| [Tarnum](tarnum_conflux.md) | [Conflux](../towns/conflux.md) | :magic: Elementalist | [Wisdom](../abilities/wisdom.md) | [🚧](tarnum_conflux.md#specialty) | Conflux |
 | [Casmetra](casmetra.md) | [Cove](../towns/cove.md) | :magic: Navigator | [Wisdom](../abilities/wisdom.md) | [🚧](casmetra.md#specialty) | Cove |
 | [Cassiopeia](cassiopeia.md) | [Cove](../towns/cove.md) | :might: Captain | [Tactics](../abilities/tactics.md) | [Oceanids](cassiopeia.md#specialty) | Cove |
 | [Jeremy](jeremy.md) | [Cove](../towns/cove.md) | :might: Captain | [Offense](../abilities/offense.md) | [Cannon](jeremy.md#specialty) | Cove |
