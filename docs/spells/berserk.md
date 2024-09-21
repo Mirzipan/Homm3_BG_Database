@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Fire Spell](school_of_fire_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: Select a \* [unit](../units.md). In its activation, this [unit](../units.md) must either attack the nearest [unit](../units.md) or move to the nearest [unit](../units.md) and attack it.<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:silver:<br>:empower: 4 - \*:golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:ongoing: Select a \* [unit](../units/index.md). In its activation, this [unit](../units/index.md) must either attack the nearest [unit](../units/index.md) or move to the nearest [unit](../units/index.md) and attack it.<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:silver:<br>:empower: 4 - \*:golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 
@@ -17,4 +17,4 @@ ___
 ## See Also
 
 - [School of Fire Magic](school_of_fire_magic.md)
-- [List of Spells](../spells.md)
+- [List of Spells](index.md)

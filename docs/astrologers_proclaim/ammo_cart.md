@@ -7,10 +7,10 @@ Ammo Cart is an astrologers proclaim card that comes with the [Rampart Expansion
 
 ## Effect
 
-Until the next Astrologers round, each [Ballista](../war_machines.md) deals +1 :damage:, each [First Aid Tent](../war_machines.md) heals +1 :health_points:‍, and each [Ammo Cart](../war_machines.md) allows re-rolling 1 [Attack die](../dice.md#attack-die) for all ranged [units](../units.md).
+Until the next Astrologers round, each [Ballista](../war_machines/index.md) deals +1 :damage:, each [First Aid Tent](../war_machines/index.md) heals +1 :health_points:‍, and each [Ammo Cart](../war_machines/index.md) allows re-rolling 1 [Attack die](../dice.md#attack-die) for all ranged [units](../units/index.md).
 
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
-- [List of War Machines](../war_machines.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of War Machines](../war_machines/index.md)

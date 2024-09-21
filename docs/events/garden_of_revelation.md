@@ -7,11 +7,11 @@ Garden of Revelation is an event that comes with the [Fortress Expansion](../con
 
 ## Effect
 
-**Each player chooses one option:** <br>Draw 4 cards either from your discard pile or your deck. Then Remove any number of [Spell](../spells.md) or [Ability](../abilities.md) cards from your hand. For every two cards removed  this way, you can perform **Search(2)** the [Spell](../spells.md) deck or the [Ability](../abilities.md) deck. After that, discard all cards from hand and draw up to your :hand:.<br><br>— OR —<br><br>Leave and gain nothing.
+**Each player chooses one option:** <br>Draw 4 cards either from your discard pile or your deck. Then Remove any number of [Spell](../spells/index.md) or [Ability](../abilities/index.md) cards from your hand. For every two cards removed  this way, you can perform **Search(2)** the [Spell](../spells/index.md) deck or the [Ability](../abilities/index.md) deck. After that, discard all cards from hand and draw up to your :hand:.<br><br>— OR —<br><br>Leave and gain nothing.
 
 
 ## See Also
 
-- [List of Abilities](../abilities.md)
-- [List of Events](../events.md)
-- [List of Spells](../spells.md)
+- [List of Abilities](../abilities/index.md)
+- [List of Events](index.md)
+- [List of Spells](../spells/index.md)

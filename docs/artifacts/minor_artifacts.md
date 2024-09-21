@@ -36,4 +36,4 @@
 
 - [Major Artifact](major_artifacts.md)
 - [Relic Artifact](relic_artifacts.md)
-- [List of Artifacts](../artifacts.md)
+- [List of Artifacts](../artifacts/index.md)

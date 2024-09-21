@@ -18,4 +18,4 @@ ___
 
 - [Everflowing Crystal Cloak](everflowing_crystal_cloak.md)
 - [Eversmoking Ring of Sulfur](eversmoking_ring_of_sulfur.md)
-- [List of Artifacts](../artifacts.md)
+- [List of Artifacts](../artifacts/index.md)

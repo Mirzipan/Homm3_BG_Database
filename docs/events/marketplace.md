@@ -12,4 +12,4 @@ Marketplace is an event that comes with the [Fortress Expansion](../content.md).
 
 ## See Also
 
-- [List of Events](../events.md)
+- [List of Events](index.md)

@@ -17,4 +17,4 @@ ___
 ## See Also
 
 - [School of Earth Magic](school_of_earth_magic.md)
-- [List of Spells](../spells.md)
+- [List of Spells](index.md)

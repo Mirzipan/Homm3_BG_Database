@@ -1,6 +1,6 @@
 # Arrow Tower
 
-Arrow Tower is a special unit that is only present for the defending side of a siege, if they have the Citadel built in their [town](../towns.md).
+Arrow Tower is a special unit that is only present for the defending side of a siege, if they have the Citadel built in their [town](../towns/index.md).
 
 | Statistics | Siege |
 | :--- | :---: |
@@ -15,5 +15,5 @@ Arrow Tower is a special unit that is only present for the defending side of a s
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

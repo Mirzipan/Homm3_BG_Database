@@ -7,10 +7,10 @@ Isra's Friends is an astrologers proclaim card that comes with the [Core Game](.
 
 ## Effect
 
-Each player can immediately **Reinforce** a [unit](../units.md) on the "Few" side at half the cost.
+Each player can immediately **Reinforce** a [unit](../units/index.md) on the "Few" side at half the cost.
 
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
-- [List of Units](../units.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Units](../units/index.md)

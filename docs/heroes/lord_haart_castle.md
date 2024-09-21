@@ -2,7 +2,7 @@
 
 Lord Haart is a :might: Knight hero that belongs to [Castle](../towns/castle.md), and comes with the [Tower Expansion](../content.md).
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
+| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
 | 2 | 2 | 1 | 1 | [Estates](../abilities/estates.md) | [Estates](#specialty) |
 
@@ -19,5 +19,5 @@ Lord Haart is a :might: Knight hero that belongs to [Castle](../towns/castle.md)
 ## See Also
 
 - [Lord Haart (Necropolis)](lord_haart_necropolis.md)
-- [List of Heroes](../heroes.md)
-- [List of Towns](../towns.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)

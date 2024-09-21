@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Return 1 [:spellpower:](../spells.md) of your choice from your discard pile to your hand.<br><br>— OR —<br><br>:instant: Cast a [spell](../spells.md) from the top of the [:spellpower:](../spells.md) deck discard pile and Remove this card.</p>
+<p style="text-align: center;" markdown>:instant: Return 1 [:spellpower:](../spells/index.md) of your choice from your discard pile to your hand.<br><br>— OR —<br><br>:instant: Cast a [spell](../spells/index.md) from the top of the [:spellpower:](../spells/index.md) deck discard pile and Remove this card.</p>
 ___
 <p style="text-align: center;" markdown>*A travelling tinker in need of supplies offers your a helm with a unicorn's horn on its top in exchange for food and water. You accept, and later find out that the helm is magical.*</p>
 
@@ -16,4 +16,4 @@ ___
 
 ## See Also
 
-- [List of Artifacts](../artifacts.md)
+- [List of Artifacts](../artifacts/index.md)

@@ -12,4 +12,4 @@ Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement.
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
+- [List of Astrologers Proclaim Cards](index.md)

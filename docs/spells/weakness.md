@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Water Spell](school_of_water_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: The selected [unit](../units.md) suffers (to a minimum of 0):<br><br>:empower: 0 - -1 :attack:<br>:empower: 1 - -2 :attack:<br>:empower: 2 - -3 :attack:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:instant: The selected [unit](../units/index.md) suffers (to a minimum of 0):<br><br>:empower: 0 - -1 :attack:<br>:empower: 1 - -2 :attack:<br>:empower: 2 - -3 :attack:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 
@@ -17,4 +17,4 @@ ___
 ## See Also
 
 - [School of Water Magic](school_of_water_magic.md)
-- [List of Spells](../spells.md)
+- [List of Spells](index.md)

@@ -12,5 +12,5 @@ During this round, players do not draw cards at the start of their turns. Instea
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
+- [List of Astrologers Proclaim Cards](index.md)
 - [List of Statistics](../statistics.md)

@@ -11,10 +11,10 @@ Faerie Dragons is a :azure: [neutral](../towns/neutral.md) unit that comes with 
 | :health_points: | 8 |
 | :initiative: | 15 |
 | Cost | 35 :gold:<br>2 :valuables: |
-| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](../spells.md) that does not count towards your [spell](../spells.md) limit. |
+| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. |
 
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

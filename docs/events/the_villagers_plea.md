@@ -7,12 +7,12 @@ The Villagers' Plea is an event that comes with the [Fortress Expansion](../cont
 
 ## Effect
 
-**Each player chooses one option:** <br>Remove an [Artifact](../artifacts.md) or [Spell](../spells.md) card from your hand.<br><br>— OR —<br><br>:pay: 1 :building_materials:<br><br>— OR —<br><br>:pay: 5 :gold:<br><br>— OR —<br><br>:pay: 1 :movement: from any of your [heroes](../heroes.md).
+**Each player chooses one option:** <br>Remove an [Artifact](../artifacts/index.md) or [Spell](../spells/index.md) card from your hand.<br><br>— OR —<br><br>:pay: 1 :building_materials:<br><br>— OR —<br><br>:pay: 5 :gold:<br><br>— OR —<br><br>:pay: 1 :movement: from any of your [heroes](../heroes/index.md).
 
 
 ## See Also
 
-- [List of Artifacts](../artifacts.md)
-- [List of Events](../events.md)
-- [List of Heroes](../heroes.md)
-- [List of Spells](../spells.md)
+- [List of Artifacts](../artifacts/index.md)
+- [List of Events](index.md)
+- [List of Heroes](../heroes/index.md)
+- [List of Spells](../spells/index.md)

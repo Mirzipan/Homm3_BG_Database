@@ -7,10 +7,10 @@ Grim Warlock is an astrologers proclaim card that comes with the [Core Game](../
 
 ## Effect
 
-Until the next Astrologers' round:<br><br>The first [Spell](../spells.md) card played in each player's turn gets +1 :empower:.
+Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card played in each player's turn gets +1 :empower:.
 
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
-- [List of Spells](../spells.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Spells](../spells/index.md)

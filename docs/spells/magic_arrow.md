@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>Basic Spell</p>
 ___
-<p style="text-align: center;" markdown>:activation: The selected [unit](../units.md) suffers:<br><br>:empower: 0 - 1 :damage:<br>:empower: 1 - 2 :damage:<br>:empower: 2 - 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:activation: The selected [unit](../units/index.md) suffers:<br><br>:empower: 0 - 1 :damage:<br>:empower: 1 - 2 :damage:<br>:empower: 2 - 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 
@@ -29,4 +29,4 @@ ___
 - [School of Earth Magic](school_of_earth_magic.md)
 - [School of Fire Magic](school_of_fire_magic.md)
 - [School of Water Magic](school_of_water_magic.md)
-- [List of Spells](../spells.md)
+- [List of Spells](index.md)

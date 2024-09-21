@@ -12,4 +12,4 @@ Until the next Astrologer's round:<br><br>Once per turn, each player can reroll 
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
+- [List of Astrologers Proclaim Cards](index.md)

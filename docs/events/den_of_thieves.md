@@ -7,10 +7,10 @@ Den of Thieves is an event that comes with the [Fortress Expansion](../content.m
 
 ## Effect
 
-Take the top 2 cards from a [Neutral Unit](../units.md) deck of your choice. You may buy one of them. Then decide what to do with the remaining card(s) - you may place them at the bottom or top of the respective [Neutral Unit](../units.md) deck.
+Take the top 2 cards from a [Neutral Unit](../units/index.md) deck of your choice. You may buy one of them. Then decide what to do with the remaining card(s) - you may place them at the bottom or top of the respective [Neutral Unit](../units/index.md) deck.
 
 
 ## See Also
 
-- [List of Events](../events.md)
-- [List of Units](../units.md)
+- [List of Events](index.md)
+- [List of Units](../units/index.md)

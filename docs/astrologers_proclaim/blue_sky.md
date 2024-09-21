@@ -7,10 +7,10 @@ Blue Sky is an astrologers proclaim card that comes with the [Tower Expansion](.
 
 ## Effect
 
-Until the next Astrologers' round, all [:spellpower:](../spells.md) from the [Air Magic](../spells/school_of_air_magic.md) and [Water Magic](../spells/school_of_water_magic.md) Schools are cast at a +1 :empower:.
+Until the next Astrologers' round, all [:spellpower:](../spells/index.md) from the [Air Magic](../spells/school_of_air_magic.md) and [Water Magic](../spells/school_of_water_magic.md) Schools are cast at a +1 :empower:.
 
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
-- [List of Spells](../spells.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Spells](../spells/index.md)

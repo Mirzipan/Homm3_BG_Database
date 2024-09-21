@@ -12,4 +12,4 @@ Until the next Astrologers' round:<br><br>Your hand limit is increased by 1.
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
+- [List of Astrologers Proclaim Cards](index.md)

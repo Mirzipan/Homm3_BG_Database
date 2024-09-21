@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Relic Artifact](relic_artifacts.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Select 2 [Spell](../spells.md) cards from your discard pile and put them back in your hand.<br><br>— OR —<br><br>:instant: Remove 1 [:spellpower:](../spells.md) from hand, then **Search(2)** [:spellpower:](../spells.md).</p>
+<p style="text-align: center;" markdown>:instant: Select 2 [Spell](../spells/index.md) cards from your discard pile and put them back in your hand.<br><br>— OR —<br><br>:instant: Remove 1 [:spellpower:](../spells/index.md) from hand, then **Search(2)** [:spellpower:](../spells/index.md).</p>
 ___
 <p style="text-align: center;" markdown>*Your troops find a crown. They hand it to you, and you notice an inscription. It reads: "Brains best brawn, and magic beats might. Heed my words, and you'll win every fight."*</p>
 
@@ -21,4 +21,4 @@ ___
 - [Dragon Wing Tabard](dragon_wing_tabard.md)
 - [Necklace of Dragonteeth](necklace_of_dragonteeth.md)
 - [Red Dragon Flame Tongue](red_dragon_flame_tongue.md)
-- [List of Artifacts](../artifacts.md)
+- [List of Artifacts](../artifacts/index.md)

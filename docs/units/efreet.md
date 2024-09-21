@@ -13,10 +13,10 @@ Their neutral version comes with the [Inferno Expansion](../content.md).
 | :health_points: | 7 | 7 | 6 |
 | :initiative: | 9 | **13** | 13 |
 | Cost | 12 :gold: | 18 :gold:<br>1 :valuables: | 20 :gold: |
-| Abilities | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells.md) from the [Fire School of Magic](../spells/school_of_fire_magic.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells.md) from the[Fire School of Magic](../spells/school_of_fire_magic.md). |
+| Abilities | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the [Fire School of Magic](../spells/school_of_fire_magic.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the[Fire School of Magic](../spells/school_of_fire_magic.md). |
 
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

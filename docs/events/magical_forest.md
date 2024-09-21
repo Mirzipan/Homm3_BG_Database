@@ -7,12 +7,12 @@ Magical Forest is an event that comes with the [Fortress Expansion](../content.m
 
 ## Effect
 
-Choose 1 [Spell](../spells.md), [Artifact](../artifacts.md), or [Ability](../abilities.md) card from your hand and put it face-down on the table.<br><br>— OR —<br><br>Draw and view 1 card from the [Spell](../spells.md), [Artifact](../artifacts.md), or [Ability](../abilities.md) deck and put it face-down on the table.<br><br>When all players have added a card to the pool, shuffle it. Each player can now either take a card from the pool or gain 4 :gold:.
+Choose 1 [Spell](../spells/index.md), [Artifact](../artifacts/index.md), or [Ability](../abilities/index.md) card from your hand and put it face-down on the table.<br><br>— OR —<br><br>Draw and view 1 card from the [Spell](../spells/index.md), [Artifact](../artifacts/index.md), or [Ability](../abilities/index.md) deck and put it face-down on the table.<br><br>When all players have added a card to the pool, shuffle it. Each player can now either take a card from the pool or gain 4 :gold:.
 
 
 ## See Also
 
-- [List of Abilities](../abilities.md)
-- [List of Artifacts](../artifacts.md)
-- [List of Events](../events.md)
-- [List of Spells](../spells.md)
+- [List of Abilities](../abilities/index.md)
+- [List of Artifacts](../artifacts/index.md)
+- [List of Events](index.md)
+- [List of Spells](../spells/index.md)

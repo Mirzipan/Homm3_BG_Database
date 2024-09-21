@@ -2,7 +2,7 @@
 
 Sephinroth is a :magic: Warlock hero that belongs to [Dungeon](../towns/dungeon.md), and comes with the [Regular Stretch Goals](../content.md).
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
+| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
 | 0 | 0 | 3 | 2 | [Intelligence](../abilities/intelligence.md) | [Valueables](#specialty) |
 
@@ -23,5 +23,5 @@ Sephinroth is a :magic: Warlock hero that belongs to [Dungeon](../towns/dungeon.
 
 ## See Also
 
-- [List of Heroes](../heroes.md)
-- [List of Towns](../towns.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)

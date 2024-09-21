@@ -12,4 +12,4 @@ Pool 2 [:treasure:](../dice.md#treasure-die) and 2 [:trasuredie:](../dice.md#res
 
 ## See Also
 
-- [List of Events](../events.md)
+- [List of Events](index.md)

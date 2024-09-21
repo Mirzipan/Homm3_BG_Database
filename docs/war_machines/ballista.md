@@ -20,4 +20,4 @@ Ballista is a war machine that comes with the [Rampart Expansion](../content.md)
 
 ## See Also
 
-- [List of War Machines](../war_machines.md)
+- [List of War Machines](index.md)

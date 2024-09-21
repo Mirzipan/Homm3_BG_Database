@@ -12,4 +12,4 @@ If you draw this card on the first Astrologers' round, discard it and draw anoth
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
+- [List of Astrologers Proclaim Cards](index.md)

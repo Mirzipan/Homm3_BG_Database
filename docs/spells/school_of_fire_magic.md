@@ -27,7 +27,7 @@ One of the four schools of magic.
 
 ## See Also
 
-- [List of Spells](../spells.md)
+- [List of Spells](index.md)
 - [School of Air Magic](school_of_air_magic.md)
 - [School of Earth Magic](school_of_earth_magic.md)
 - [School of Water Magic](school_of_water_magic.md)

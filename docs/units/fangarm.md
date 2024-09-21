@@ -11,10 +11,10 @@ Fangarm is a :silver: [neutral](../towns/neutral.md) unit that comes with the [R
 | :health_points: | 5 |
 | :initiative: | 8 |
 | Cost | 14 :gold: |
-| Abilities | :unit_passive: Ignore all [:spellpower:](../spells.md) and [Specialty](../heroes.md) effects other than :damage:. |
+| Abilities | :unit_passive: Ignore all [:spellpower:](../spells/index.md) and [Specialty](../heroes/index.md) effects other than :damage:. |
 
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

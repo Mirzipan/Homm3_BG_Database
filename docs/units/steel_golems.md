@@ -11,10 +11,10 @@ Steel Golems is a :silver: [neutral](../towns/neutral.md) unit that comes with t
 | :health_points: | 3 |
 | :initiative: | 5 |
 | Cost | 12 :gold: |
-| Abilities | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](../spells.md) or [Specialty](../heroes.md) by 2 - to a minimum of 0. |
+| Abilities | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](../spells/index.md) or [Specialty](../heroes/index.md) by 2 - to a minimum of 0. |
 
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

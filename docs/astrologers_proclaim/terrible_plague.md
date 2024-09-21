@@ -7,10 +7,10 @@ Terrible Plague is an astrologers proclaim card that comes with the [Core Game](
 
 ## Effect
 
-All players flip one of their [units](../units.md) from the "Pack" to the "Few" side, if possible.
+All players flip one of their [units](../units/index.md) from the "Pack" to the "Few" side, if possible.
 
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
-- [List of Units](../units.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Units](../units/index.md)

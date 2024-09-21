@@ -13,10 +13,10 @@ Their neutral version comes with the [Tower Expansion](../content.md).
 | :health_points: | 8 | 8 | 7 |
 | :initiative: | 7 | **9** | 7 |
 | Cost | 11 :gold: | 18 :gold:<br>1 :valuables: | 18 :gold: |
-| Abilities | :unit_passive: Reduce any :damage: from [:spellpower:](../spells.md) dealt to this unit by 1 (to a minimum of 0), | :unit_passive: Reduce any :damage: from [:spellpower:](../spells.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), | :unit_retaliate: The target is :paralysis:. |
+| Abilities | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this unit by 1 (to a minimum of 0), | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), | :unit_retaliate: The target is :paralysis:. |
 
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

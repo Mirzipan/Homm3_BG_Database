@@ -30,7 +30,7 @@
 | :---: |
 | :experience: |
 | :experience: |
-| [:artifact:](artifacts.md) |
-| [:artifact:](artifacts.md) |
+| [:artifact:](artifacts/index.md) |
+| [:artifact:](artifacts/index.md) |
 | :trasuredie: |
 | 2:trasuredie: |

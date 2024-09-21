@@ -15,5 +15,5 @@ Ghost Dragons are a :golden: unit that belongs to [Necropolis](../towns/necropol
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

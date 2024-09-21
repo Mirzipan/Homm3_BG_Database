@@ -7,10 +7,10 @@ Library of Enlightenment is an event that comes with the [Fortress Expansion](..
 
 ## Effect
 
-For every player in the game, draw the top two [Spell](../spells.md) cards and put them face-up within all players' reach. Each player can buy once of these [:spellpower:](../spells.md) for 6 :gold: or 2 :valuables:.
+For every player in the game, draw the top two [Spell](../spells/index.md) cards and put them face-up within all players' reach. Each player can buy once of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables:.
 
 
 ## See Also
 
-- [List of Events](../events.md)
-- [List of Spells](../spells.md)
+- [List of Events](index.md)
+- [List of Spells](../spells/index.md)

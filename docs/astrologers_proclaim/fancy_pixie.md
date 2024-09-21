@@ -12,4 +12,4 @@ Each player immediately gains 1 :morale_positive:
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
+- [List of Astrologers Proclaim Cards](index.md)

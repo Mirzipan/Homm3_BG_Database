@@ -12,4 +12,4 @@ Each player immediately rolls 1 [Resource die](../dice.md#resource-die) and gain
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
+- [List of Astrologers Proclaim Cards](index.md)

@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Reduce the Recruitment or Reinforcement cost of a [unit](../units.md) by 4 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :gold:.</p>
+<p style="text-align: center;" markdown>:instant: Reduce the Recruitment or Reinforcement cost of a [unit](../units/index.md) by 4 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :gold:.</p>
 ___
 <p style="text-align: center;" markdown>*Searching a ruin, you are amazed to find a piece of the Statue of Legion. You carefully dust it off before placing it into your pack.*</p>
 
@@ -20,4 +20,4 @@ ___
 - [Head of Legion](head_of_legion.md)
 - [Loins of Legion](loins_of_legion.md)
 - [Torso of Legion](torso_of_legion.md)
-- [List of Artifacts](../artifacts.md)
+- [List of Artifacts](../artifacts/index.md)

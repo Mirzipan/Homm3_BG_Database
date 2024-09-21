@@ -7,10 +7,10 @@ Crazy Wizard is an astrologers proclaim card that comes with the [Core Game](../
 
 ## Effect
 
-Until the next Astrologers' round:<br><br>The first [Spell](../spells.md) card player by each player is returned to the player's hand, instead of being discarded.
+Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card player by each player is returned to the player's hand, instead of being discarded.
 
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
-- [List of Spells](../spells.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Spells](../spells/index.md)

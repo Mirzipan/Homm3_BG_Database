@@ -12,4 +12,4 @@ Each player must immediately discard all cards from their hand and draw the same
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
+- [List of Astrologers Proclaim Cards](index.md)

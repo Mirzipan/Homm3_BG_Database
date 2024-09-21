@@ -7,10 +7,10 @@ Withered Hermit is an event that comes with the [Fortress Expansion](../content.
 
 ## Effect
 
-**Each player chooses one option:** <br>Name a resource that will not show on any of the dice, then roll 3 [:trasuredie:](../dice.md#resource-die). If you are correct, resolve one of the dice. If you are wrong, choose one result and subtract it from you resources.<br><br>— OR —<br><br>Roll 1 [:trasuredie:](../dice.md#resource-die). You may pay the indicated resources to **Search(2)** the [Artifact](../artifacts.md) deck.<br><br>— OR —<br><br>Leave and gain nothing.
+**Each player chooses one option:** <br>Name a resource that will not show on any of the dice, then roll 3 [:trasuredie:](../dice.md#resource-die). If you are correct, resolve one of the dice. If you are wrong, choose one result and subtract it from you resources.<br><br>— OR —<br><br>Roll 1 [:trasuredie:](../dice.md#resource-die). You may pay the indicated resources to **Search(2)** the [Artifact](../artifacts/index.md) deck.<br><br>— OR —<br><br>Leave and gain nothing.
 
 
 ## See Also
 
-- [List of Artifacts](../artifacts.md)
-- [List of Events](../events.md)
+- [List of Artifacts](../artifacts/index.md)
+- [List of Events](index.md)

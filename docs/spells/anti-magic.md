@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Earth Spell](school_of_earth_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: Until the end of the Combat, the selected \* [unit](../units.md) cannot be targeted by spells:<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:ongoing: Until the end of the Combat, the selected \* [unit](../units/index.md) cannot be targeted by spells:<br><br>:empower: 0 - \*:bronze:<br>:empower: 2 - \*:bronze: or :silver:<br>:empower: 4 - \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 
@@ -17,4 +17,4 @@ ___
 ## See Also
 
 - [School of Earth Magic](school_of_earth_magic.md)
-- [List of Spells](../spells.md)
+- [List of Spells](index.md)

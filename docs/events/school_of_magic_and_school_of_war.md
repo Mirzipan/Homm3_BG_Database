@@ -12,4 +12,4 @@ School of Magic and School of War is an event that comes with the [Fortress Expa
 
 ## See Also
 
-- [List of Events](../events.md)
+- [List of Events](index.md)

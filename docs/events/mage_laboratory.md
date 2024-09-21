@@ -7,10 +7,10 @@ Mage Laboratory is an event that comes with the [Fortress Expansion](../content.
 
 ## Effect
 
-For every player in the game, draw two [Spell](../spells.md) cards and place them face-up within all players' reach. Each player can buy one of these [:spellpower:](../spells.md) for 4 :gold: or 1 :valuables:. If a player buys a card, they immediatelly shuffle their deck and discard pile along with the newly bought card.
+For every player in the game, draw two [Spell](../spells/index.md) cards and place them face-up within all players' reach. Each player can buy one of these [:spellpower:](../spells/index.md) for 4 :gold: or 1 :valuables:. If a player buys a card, they immediatelly shuffle their deck and discard pile along with the newly bought card.
 
 
 ## See Also
 
-- [List of Events](../events.md)
-- [List of Spells](../spells.md)
+- [List of Events](index.md)
+- [List of Spells](../spells/index.md)

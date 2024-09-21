@@ -7,10 +7,10 @@ Magic Tortoise is an astrologers proclaim card that comes with the [Core Game](.
 
 ## Effect
 
-Unitil the next Astrologer's round:<br><br>Each [Hero](../heroes.md) suffers -1 Movement.
+Unitil the next Astrologer's round:<br><br>Each [Hero](../heroes/index.md) suffers -1 Movement.
 
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
-- [List of Heroes](../heroes.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Heroes](../heroes/index.md)

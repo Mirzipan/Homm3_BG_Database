@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: Selected [unit](../units.md) cannot gain :paralysis: during this Combat.<br><br>— OR —<br><br>:instant: Remove 1 :paralysis: token.</p>
+<p style="text-align: center;" markdown>:ongoing: Selected [unit](../units/index.md) cannot gain :paralysis: during this Combat.<br><br>— OR —<br><br>:instant: Remove 1 :paralysis: token.</p>
 ___
 <p style="text-align: center;" markdown>*You come upon a very old woman dying alone. You tend to her final needs and promise a proper burial. Grateful, she gives you a magic pendant emblazoned with a stylized eye. It lets you see with your eyes closed.*</p>
 
@@ -16,4 +16,4 @@ ___
 
 ## See Also
 
-- [List of Artifacts](../artifacts.md)
+- [List of Artifacts](../artifacts/index.md)

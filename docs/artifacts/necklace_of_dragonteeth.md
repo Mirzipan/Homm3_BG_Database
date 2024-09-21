@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: +2 :empower:.<br><br>— OR —<br><br>:ongoing: During this Combat, you can cast 2 [:spellpower:](../spells.md) per Combat round.</p>
+<p style="text-align: center;" markdown>:instant: +2 :empower:.<br><br>— OR —<br><br>:ongoing: During this Combat, you can cast 2 [:spellpower:](../spells/index.md) per Combat round.</p>
 ___
 <p style="text-align: center;" markdown>*🚧*</p>
 
@@ -21,4 +21,4 @@ ___
 - [Dragon Scale Shield](dragon_scale_shield.md)
 - [Dragon Wing Tabard](dragon_wing_tabard.md)
 - [Red Dragon Flame Tongue](red_dragon_flame_tongue.md)
-- [List of Artifacts](../artifacts.md)
+- [List of Artifacts](../artifacts/index.md)

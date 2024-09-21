@@ -7,10 +7,10 @@ Forty Thieves is an astrologers proclaim card that comes with the [Fortress Expa
 
 ## Effect
 
-Until the next Astrologers round, whenever a player is about to draw an [Event](../events.md) card, they deaw 2 cards instead of 1, choose 1 to resolve, and put the other at the bottom of the [Event](../events.md) deck.
+Until the next Astrologers round, whenever a player is about to draw an [Event](../events/index.md) card, they deaw 2 cards instead of 1, choose 1 to resolve, and put the other at the bottom of the [Event](../events/index.md) deck.
 
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
-- [List of Events](../events.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Events](../events/index.md)

@@ -17,4 +17,4 @@ ___
 ## See Also
 
 - [School of Air Magic](school_of_air_magic.md)
-- [List of Spells](../spells.md)
+- [List of Spells](index.md)

@@ -1,20 +1,20 @@
 # List of Towns
 
-| Name | [Content](content.md) |
+| Name | [Content](../content.md) |
 | :--- | :--- |
-| [Castle](towns/castle.md) | Core |
-| [Necropolis](towns/necropolis.md) | Core |
-| [Dungeon](towns/dungeon.md) | Core |
-| [Tower](towns/tower.md) | Tower |
-| [Rampart](towns/rampart.md) | Rampart |
-| [Fortress](towns/fortress.md) | Fortress |
-| [Inferno](towns/inferno.md) | Inferno |
-| [Stronghold](towns/stronghold.md) | Stronghold |
-| [Conflux](towns/conflux.md) | Conflux |
-| [Cove](towns/cove.md) | Cove |
+| [Castle](castle.md) | Core |
+| [Necropolis](necropolis.md) | Core |
+| [Dungeon](dungeon.md) | Core |
+| [Tower](tower.md) | Tower |
+| [Rampart](rampart.md) | Rampart |
+| [Fortress](fortress.md) | Fortress |
+| [Inferno](inferno.md) | Inferno |
+| [Stronghold](stronghold.md) | Stronghold |
+| [Conflux](conflux.md) | Conflux |
+| [Cove](cove.md) | Cove |
 
 
 ## See Also
 
-- [List of Heroes](heroes.md)
-- [List of Units](units.md)
+- [List of Heroes](../heroes/index.md)
+- [List of Units](../units/index.md)

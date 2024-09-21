@@ -18,6 +18,6 @@ It is summoned by [Summon Air Elemental](../spells/summon_air_elemental.md).
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Spells](../spells.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Spells](../spells/index.md)
+- [List of Towns](../towns/index.md)

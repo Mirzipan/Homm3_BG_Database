@@ -18,5 +18,5 @@ Their neutral variant is an :azure: unit that comes with the [Tower Expansion](.
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

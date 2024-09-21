@@ -12,4 +12,4 @@ At the beginning of the next Resource round, all players gain 5 less :gold:.
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
+- [List of Astrologers Proclaim Cards](index.md)

@@ -2,7 +2,7 @@
 
 Adelaide is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), and comes with the [Tower Expansion](../content.md).
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities.md) | Specialty |
+| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
 | 1 | 0 | 2 | 2 | [Wisdom](../abilities/wisdom.md) | [Frost Ring](#specialty) |
 
@@ -11,9 +11,9 @@ Adelaide is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), 
 
 | Level | Descrition |
 | :---: | :---: |
-| Ⅰ | :instant: Discard 1 card. Target a space on the Combat board. All [units](../units.md) adjacent to this space suffer 1 :damage:. |
-| Ⅳ | :instant: Select 1 [Spell](../spells.md) or Specialty card from your discard pile and put it back in your hand. |
-| Ⅵ | :instant: Discard 2 cards. Target a space on the Combat board. All [units](../units.md) adjacent to this space suffer 2 :damage:. |
+| Ⅰ | :instant: Discard 1 card. Target a space on the Combat board. All [units](../units/index.md) adjacent to this space suffer 1 :damage:. |
+| Ⅳ | :instant: Select 1 [Spell](../spells/index.md) or Specialty card from your discard pile and put it back in your hand. |
+| Ⅵ | :instant: Discard 2 cards. Target a space on the Combat board. All [units](../units/index.md) adjacent to this space suffer 2 :damage:. |
 
 
 ## Notes
@@ -23,5 +23,5 @@ Adelaide is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), 
 
 ## See Also
 
-- [List of Heroes](../heroes.md)
-- [List of Towns](../towns.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)

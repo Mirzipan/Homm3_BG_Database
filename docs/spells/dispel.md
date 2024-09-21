@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Water Spell](school_of_water_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Remove all :ongoing: effects from a space or a \* [unit](../units.md) and the space it occupies.<br><br>:empower: 0 - \*:bronze:<br>:empower: 1 - \*:bronze: or :silver:<br>:empower: 2 - \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:instant: Remove all :ongoing: effects from a space or a \* [unit](../units/index.md) and the space it occupies.<br><br>:empower: 0 - \*:bronze:<br>:empower: 1 - \*:bronze: or :silver:<br>:empower: 2 - \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 
@@ -17,4 +17,4 @@ ___
 ## See Also
 
 - [School of Water Magic](school_of_water_magic.md)
-- [List of Spells](../spells.md)
+- [List of Spells](index.md)

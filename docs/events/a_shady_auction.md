@@ -7,10 +7,10 @@ A Shady Auction is an event that comes with the [Fortress Expansion](../content.
 
 ## Effect
 
-Repeat 3 times: Reveal the top card from the [Artifact](../artifacts.md) deck. In secret, each player takes as much :gold: in their hand as they are willing to pay for it. Then reveal your bets at the same time. The one with the highest proposal discards the :gold: and claims the card. If there are no bets or there is a tie, discard the card.
+Repeat 3 times: Reveal the top card from the [Artifact](../artifacts/index.md) deck. In secret, each player takes as much :gold: in their hand as they are willing to pay for it. Then reveal your bets at the same time. The one with the highest proposal discards the :gold: and claims the card. If there are no bets or there is a tie, discard the card.
 
 
 ## See Also
 
-- [List of Artifacts](../artifacts.md)
-- [List of Events](../events.md)
+- [List of Artifacts](../artifacts/index.md)
+- [List of Events](index.md)

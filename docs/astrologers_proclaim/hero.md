@@ -12,5 +12,5 @@ Each player can :pay: 4 :gold: to Remove a [Statistic](../statistics.md) card fr
 
 ## See Also
 
-- [List of Astrologers Proclaim Cards](../astrologers_proclaim.md)
+- [List of Astrologers Proclaim Cards](index.md)
 - [List of Statistics](../statistics.md)

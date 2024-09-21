@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Target [unit](../units.md) gains +3 :defense: and suffers 1 :damage:. It cannot be used on an enemy unit.<br><br>— OR —<br><br>:instant: Target [unit](../units.md) gains +5 :defense: and suffers 2 :damage:. It cannot be used on an enemy unit.</p>
+<p style="text-align: center;" markdown>:instant: Target [unit](../units/index.md) gains +3 :defense: and suffers 1 :damage:. It cannot be used on an enemy unit.<br><br>— OR —<br><br>:instant: Target [unit](../units/index.md) gains +5 :defense: and suffers 2 :damage:. It cannot be used on an enemy unit.</p>
 ___
 <p style="text-align: center;" markdown>*A Sprite is carrying a Shield as big as it is. Yuu ask, "Need help?" The Sprite glares at you and answers, "You think this is funny? Fine. You can carry it. I much prefer flying anyway."*</p>
 
@@ -16,4 +16,4 @@ ___
 
 ## See Also
 
-- [List of Artifacts](../artifacts.md)
+- [List of Artifacts](../artifacts/index.md)

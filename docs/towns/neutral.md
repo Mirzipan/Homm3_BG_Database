@@ -1,6 +1,6 @@
 # Neutral
 
-Neutral is not a real town, just a term for [units](../units.md) that are not associated with any [town](../towns.md).
+Neutral is not a real town, just a term for [units](../units/index.md) that are not associated with any [town](../towns/index.md).
 
 Every unit of every town has a neutral variant.
 
@@ -39,5 +39,5 @@ This list excludes the neutral units that have a town variant.
 
 ## See Also
 
-- [List of Towns](../towns.md)
-- [List of Units](../units.md)
+- [List of Towns](../towns/index.md)
+- [List of Units](../units/index.md)

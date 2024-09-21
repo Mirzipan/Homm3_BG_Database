@@ -3,7 +3,7 @@
 ![First Aid](../assets/abilities-first_aid.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>:instant: Remove 1 :damage: from one of your [units](../units.md).</p>
+<p style="text-align: center;" markdown>:instant: Remove 1 :damage: from one of your [units](../units/index.md).</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 

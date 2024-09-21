@@ -11,10 +11,10 @@ Diamond Golems is a :golden: [neutral](../towns/neutral.md) unit that comes with
 | :health_points: | 6 |
 | :initiative: | 6 |
 | Cost | 16 :gold: |
-| Abilities | :unit_passive: Reduce any :damage: from [spells](../spells.md) by 3 - to a minimum of 0. |
+| Abilities | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 3 - to a minimum of 0. |
 
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

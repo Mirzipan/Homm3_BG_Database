@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Play this card immediately after an enemty casts a [:spellpower:](../spells.md). If it was cast with 1:empower: or less, ignore the [:spellpower:](../spells.md) effect.<br><br>— OR —<br><br>:instant: Remove this card, then **Search(1)**:artifact:.</p>
+<p style="text-align: center;" markdown>:instant: Play this card immediately after an enemty casts a [:spellpower:](../spells/index.md). If it was cast with 1:empower: or less, ignore the [:spellpower:](../spells/index.md) effect.<br><br>— OR —<br><br>:instant: Remove this card, then **Search(1)**:artifact:.</p>
 ___
 <p style="text-align: center;" markdown>*The Necromancer blasts the Paladin with a fire bolt, bringing him to his knees. You slay the evil one before the final blow. The grateful Paladin gives you the cloak that saved him.*</p>
 
@@ -16,4 +16,4 @@ ___
 
 ## See Also
 
-- [List of Artifacts](../artifacts.md)
+- [List of Artifacts](../artifacts/index.md)

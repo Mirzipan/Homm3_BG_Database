@@ -17,4 +17,4 @@ ___
 ## See Also
 
 - [School of Water Magic](school_of_water_magic.md)
-- [List of Spells](../spells.md)
+- [List of Spells](index.md)

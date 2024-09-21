@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Ignore the effect of a [spell](../spells.md) from the [School of Air Magic](../spells/school_of_air_magic.md)<br><br>— OR —<br><br>:ongoing: Ignore the effect of a [spell](../spells.md) from the [School of Air Magic](../spells/school_of_air_magic.md)</p>
+<p style="text-align: center;" markdown>:instant: Ignore the effect of a [spell](../spells/index.md) from the [School of Air Magic](../spells/school_of_air_magic.md)<br><br>— OR —<br><br>:ongoing: Ignore the effect of a [spell](../spells/index.md) from the [School of Air Magic](../spells/school_of_air_magic.md)</p>
 ___
 <p style="text-align: center;" markdown>*🚧*</p>
 
@@ -16,4 +16,4 @@ ___
 
 ## See Also
 
-- [List of Artifacts](../artifacts.md)
+- [List of Artifacts](../artifacts/index.md)

@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: If played at the start of Combat, the Enemy [Hero](../heroes.md) can neither Retreat nor Surrender.<br><br>— OR —<br><br>:instant: Draw 2 cards, choose 1 card and discard the other.</p>
+<p style="text-align: center;" markdown>:instant: If played at the start of Combat, the Enemy [Hero](../heroes/index.md) can neither Retreat nor Surrender.<br><br>— OR —<br><br>:instant: Draw 2 cards, choose 1 card and discard the other.</p>
 ___
 <p style="text-align: center;" markdown>*Walking through the ruins of an ancient walled city, you find the instrument of the city's destruction, the elaborately crafted Shackles of War.*</p>
 
@@ -16,4 +16,4 @@ ___
 
 ## See Also
 
-- [List of Artifacts](../artifacts.md)
+- [List of Artifacts](../artifacts/index.md)

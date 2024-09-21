@@ -16,5 +16,5 @@ Trolls is a :golden: [neutral](../towns/neutral.md) unit that comes with the [Co
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

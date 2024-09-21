@@ -11,10 +11,10 @@ Azure Dragons is a :azure: [neutral](../towns/neutral.md) unit that comes with t
 | :health_points: | 10 |
 | :initiative: | 19 |
 | Cost | 45 :gold:<br>2 :valuables: |
-| Abilities | :unit_attack: If you resolve a "-1" on the [Attack die](../dice.md#attack-die), the target gains :paralysis:.<br>:unit_passive: Ignore any [:spellpower:](../spells.md) effects and :damage: from [Specialty](../heroes.md). |
+| Abilities | :unit_attack: If you resolve a "-1" on the [Attack die](../dice.md#attack-die), the target gains :paralysis:.<br>:unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). |
 
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

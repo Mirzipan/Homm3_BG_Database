@@ -11,10 +11,10 @@ Gold Golems is a :golden: [neutral](../towns/neutral.md) unit that comes with th
 | :health_points: | 6 |
 | :initiative: | 5 |
 | Cost | 14 :gold: |
-| Abilities | :unit_passive: Reduce any :damage: from [spells](../spells.md) by 2 - to a minimum of 0. |
+| Abilities | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 2 - to a minimum of 0. |
 
 
 ## See Also
 
-- [List of Units](../units.md)
-- [List of Towns](../towns.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

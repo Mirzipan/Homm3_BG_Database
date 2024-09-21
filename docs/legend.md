@@ -47,8 +47,8 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :spellpower: | [Spell](spells.md) |
-| :artifact: | [Artifact](artifacts.md) |
+| :spellpower: | [Spell](spells/index.md) |
+| :artifact: | [Artifact](artifacts/index.md) |
 
 ## Resources
 
