@@ -31,6 +31,7 @@ theme:
   logo: assets/game_logo.png
   features:
     - content.code.copy
+    - navigation.indexes
     - search.suggest
     - search.highlight
   palette:
