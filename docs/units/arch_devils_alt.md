@@ -2,8 +2,6 @@
 
 Arch Devils are a :golden: unit that belongs to [Inferno](../towns/inferno.md).
 
-Their neutral version comes with the [Inferno Expansion](../content.md).
-
 === "Few"
 
 	![Few Arch Devils](../assets/units-6-inferno-7-arch_devils-few.webp){ width="340" align=right }
@@ -45,6 +43,11 @@ Their neutral version comes with the [Inferno Expansion](../content.md).
 	| :initiative: | 10 |
 	| Cost | 23 :gold: |
 	| Abilities | :unit_attack: When attacking [Archangels](archangels.md), this unit gains +2 :attack:. |
+
+
+## Comes With
+
+- [Inferno Expansion](../content.md)
 
 
 ## See Also
