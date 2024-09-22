@@ -3,19 +3,19 @@
 === "Few"
 
 	<figure markdown="span">
-		![Few Arch Devils](../assets/units-6-inferno-7-arch_devils-few.webp){ width="340" align=right }
+		![Few Arch Devils](../assets/units-inferno-golden-arch_devils-few.webp){ width="340" align=right }
 	</figure>
 
 === "Pack "
 
 	<figure markdown="span">
-		![Pack Arch Devils](../assets/units-6-inferno-7-arch_devils-pack.webp){ width="340" align=right }
+		![Pack Arch Devils](../assets/units-inferno-golden-arch_devils-pack.webp){ width="340" align=right }
 	</figure>
 
 === "Neutral"
 
 	<figure markdown="span">
-		![Neutral Arch Devils](../assets/neutral-gold-arch_devils.webp){ width="340" align=right }
+		![Neutral Arch Devils](../assets/neutral-golden-arch_devils.webp){ width="340" align=right }
 	</figure>
 
 

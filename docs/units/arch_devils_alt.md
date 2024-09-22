@@ -4,7 +4,7 @@ Arch Devils are a :golden: unit that belongs to [Inferno](../towns/inferno.md).
 
 === "Few"
 
-	![Few Arch Devils](../assets/units-6-inferno-7-arch_devils-few.webp){ width="340" align=right }
+	![Few Arch Devils](../assets/units-inferno-golden-arch_devils-few.webp){ width="340" align=right }
 
 	| Statistics | Few |
 	| :--- | :---: |
@@ -18,7 +18,7 @@ Arch Devils are a :golden: unit that belongs to [Inferno](../towns/inferno.md).
 
 === "Pack "
 
-	![Pack Arch Devils](../assets/units-6-inferno-7-arch_devils-pack.webp){ width="340" align=right }
+	![Pack Arch Devils](../assets/units-inferno-golden-arch_devils-pack.webp){ width="340" align=right }
 
 	| Statistics | Pack |
 	| :--- | :---: |
@@ -32,7 +32,7 @@ Arch Devils are a :golden: unit that belongs to [Inferno](../towns/inferno.md).
 
 === "Neutral"
 
-	![Neutral Arch Devils](../assets/neutral-gold-arch_devils.webp){ width="340" align=right }
+	![Neutral Arch Devils](../assets/neutral-golden-arch_devils.webp){ width="340" align=right }
 
 	| Statistics | Neutral |
 	| :--- | :---: |
