@@ -11,9 +11,9 @@ Torosar is a :might: Alchemist hero that belongs to [Tower](../towns/tower.md), 
 
 | Level | Descrition |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :effect_map: Until the end of the round during combat, gain an extra 1 Ballista.</br></br>When player, this card counts as a Ballista. |
+| Ⅳ | :effect_map: Until the end of the round during combat, gain an extra 1 Ballista. This and 1 other Ballista can be activated now.</br></br>When player, this card counts as a Ballista. |
+| Ⅵ | :effect_map: Until the end of the round during combat, gain an extra 1 Ballista. This and all other Ballistas can be activated now.</br></br>When player, this card counts as a Ballista. |
 
 
 ## See Also
