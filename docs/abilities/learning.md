@@ -3,7 +3,7 @@
 ![Learning](../assets/abilities-learning.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>Ability</p>
+<p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Play when the Hero is about to level up. Advance their Experience Level by an additional half level.</p>
 ___

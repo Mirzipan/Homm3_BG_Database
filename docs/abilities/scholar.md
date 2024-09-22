@@ -3,7 +3,7 @@
 ![Scholar](../assets/abilities-scholar.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>Ability</p>
+<p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Choose 1 card from your discard pile and add it to your hand.</p>
 ___

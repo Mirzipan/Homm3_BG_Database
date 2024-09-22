@@ -3,7 +3,7 @@
 ![Intelligence](../assets/abilities-intelligence.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>Ability</p>
+<p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. You can still only play a [Spell](../spells/index.md) card during a Combat round.</p>
 ___

@@ -3,7 +3,7 @@
 ![Leadership](../assets/abilities-leadership.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>Ability</p>
+<p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Gain a :morale_positive: token.</p>
 ___

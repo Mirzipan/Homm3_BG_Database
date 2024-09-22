@@ -3,7 +3,7 @@
 ![Interference](../assets/abilities-interference.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>Ability</p>
+<p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
 <p style="text-align: center;" markdown>🚧</p>
 ___

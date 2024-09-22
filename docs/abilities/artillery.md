@@ -3,7 +3,7 @@
 ![Artillery](../assets/abilities-artillery.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>Ability</p>
+<p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Deal 1 :damage: to an enemy [unit](../units/index.md) with the lowest :initiative:.</p>
 ___

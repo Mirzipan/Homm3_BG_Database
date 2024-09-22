@@ -3,7 +3,7 @@
 ![Ballistics](../assets/abilities-ballistics.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>Ability</p>
+<p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Play this card during a siege.<br>Destroy 1 Wall or Gate.</p>
 ___

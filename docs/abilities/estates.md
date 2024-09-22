@@ -3,7 +3,7 @@
 ![Estates](../assets/abilities-estates.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>Ability</p>
+<p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Gain 3 :gold:.</p>
 ___

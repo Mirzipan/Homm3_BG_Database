@@ -3,7 +3,7 @@
 ![Logistics](../assets/abilities-logistics.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>Ability</p>
+<p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
 <p style="text-align: center;" markdown>:ongoing: At the end of your turn, move your Hero's model to an adjacent empty field.</p>
 ___
