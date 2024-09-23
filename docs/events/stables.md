@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Event</p>
+<p style="text-align: center;" markdown>[Event](index.md)</p>
 ___
 <p style="text-align: center;" markdown>**Each player chooses one option:** <br>Your Main [hero](../heroes/index.md) gains +1 :movement:.<br><br>— OR —<br><br>:pay: 1 :movement: from any of your [heroes](../heroes/index.md) to roll 1 [:trasuredie:](../dice.md#resource-die).</p>
 ___

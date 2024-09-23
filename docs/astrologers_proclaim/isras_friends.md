@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Each player can immediately **Reinforce** a [unit](../units/index.md) on the "Few" side at half the cost.</p>
 ___

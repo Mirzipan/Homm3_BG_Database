@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Nothing changes.</p>
 ___

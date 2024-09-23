@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Until the next Astrologers round, whenever a player is about to draw an [Event](../events/index.md) card, they deaw 2 cards instead of 1, choose 1 to resolve, and put the other at the bottom of the [Event](../events/index.md) deck.</p>
 ___

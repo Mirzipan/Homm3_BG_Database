@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Each player can immediately Remove up to 2 cards from their hand or from their discard pile.</p>
 ___

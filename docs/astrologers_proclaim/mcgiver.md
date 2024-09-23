@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>At the beginning of the next round, each player can take 1 [War Machine](../war_machines/index.md) of their choice from the [War Machines](../war_machines/index.md) deck at not cost.</p>
 ___

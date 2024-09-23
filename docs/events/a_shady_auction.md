@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Event</p>
+<p style="text-align: center;" markdown>[Event](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Repeat 3 times: Reveal the top card from the [Artifact](../artifacts/index.md) deck. In secret, each player takes as much :gold: in their hand as they are willing to pay for it. Then reveal your bets at the same time. The one with the highest proposal discards the :gold: and claims the card. If there are no bets or there is a tie, discard the card.</p>
 ___

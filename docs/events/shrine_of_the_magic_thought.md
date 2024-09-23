@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Event</p>
+<p style="text-align: center;" markdown>[Event](index.md)</p>
 ___
 <p style="text-align: center;" markdown>For every player in the game, draw two random [Spell](../spells/index.md) cards and place them face-up within all players' reach. Each player can either buy one of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables: or roll and resolve 1 [:trasuredie:](../dice.md#resource-die). Place the remaining, not bought, cards in the [Spell](../spells/index.md) discard pile.</p>
 ___

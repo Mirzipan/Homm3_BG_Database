@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Event</p>
+<p style="text-align: center;" markdown>[Event](index.md)</p>
 ___
 <p style="text-align: center;" markdown>For every player in the game, draw the top two [Spell](../spells/index.md) cards and put them face-up within all players' reach. Each player can buy once of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables:.</p>
 ___

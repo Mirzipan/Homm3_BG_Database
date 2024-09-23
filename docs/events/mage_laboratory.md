@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Event</p>
+<p style="text-align: center;" markdown>[Event](index.md)</p>
 ___
 <p style="text-align: center;" markdown>For every player in the game, draw two [Spell](../spells/index.md) cards and place them face-up within all players' reach. Each player can buy one of these [:spellpower:](../spells/index.md) for 4 :gold: or 1 :valuables:. If a player buys a card, they immediatelly shuffle their deck and discard pile along with the newly bought card.</p>
 ___

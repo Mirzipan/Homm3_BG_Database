@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Event</p>
+<p style="text-align: center;" markdown>[Event](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Each player can draw up to 2 [Neutral Unit](../units/index.md) from one of the chosen decks. Then they are spread on the table, and each player can **Recruit** one of them.</p>
 ___

@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Event</p>
+<p style="text-align: center;" markdown>[Event](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Pool 2 [:treasure:](../dice.md#treasure-die) and 2 [:trasuredie:](../dice.md#resource-die), roll them, and put them within all players' reach. Starting from the player who drew this event, each player rolls 1 [:treasure:](../dice.md#treasure-die) and 1 [:trasuredie:](../dice.md#resource-die). If they can match any of the pool's rolls, they may take one matching die from the pool and resolve its effects.</p>
 ___

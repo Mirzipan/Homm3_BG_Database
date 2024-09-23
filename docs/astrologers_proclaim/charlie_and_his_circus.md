@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>At the beginning of this round and the next one, each player can draw up to 3 cards from any [Neutral Units](../units/index.md) deck(s) and **Recruit** one of them. The Players must still :pay: the recruitment cost and have the corresponding [Dwelling](../towns/index.md) in their [Town(s)](../towns/index.md). Shuffle the remaining cards back into their respective deck(s) afterwards.</p>
 ___

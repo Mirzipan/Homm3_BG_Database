@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Event</p>
+<p style="text-align: center;" markdown>[Event](index.md)</p>
 ___
 <p style="text-align: center;" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 [:treasure:](../dice.md#treasure-die). If any of them shows #, you gain nothing. Otherwise, resolve one result.<br><br>— OR —<br><br>Gain Positive Morale.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for half the cost.</p>
 ___

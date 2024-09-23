@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card player by each player is returned to the player's hand, instead of being discarded.</p>
 ___

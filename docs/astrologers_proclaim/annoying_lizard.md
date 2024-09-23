@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Each player must shuffle all [Artifact](../artifacts/index.md) and [Spell](../spells/index.md) cards from their hand back into their deck and draw the same number of cards from the top of their deck of Might and Magic.</p>
 ___

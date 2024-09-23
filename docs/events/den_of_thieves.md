@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Event</p>
+<p style="text-align: center;" markdown>[Event](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Take the top 2 cards from a [Neutral Unit](../units/index.md) deck of your choice. You may buy one of them. Then decide what to do with the remaining card(s) - you may place them at the bottom or top of the respective [Neutral Unit](../units/index.md) deck.</p>
 ___

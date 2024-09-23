@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Astrologers Proclaim</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Until the next Astrologers' round:<br><br>Whenever you trigger Combat with any [Neutral Units](../units/index.md), you may choose a [Neutral Unit](../units/index.md) card to discard and draw another card of the same tier instead.</p>
 ___

@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Event</p>
+<p style="text-align: center;" markdown>[Event](index.md)</p>
 ___
 <p style="text-align: center;" markdown>**Each player chooses one option:** <br>Remove an [Artifact](../artifacts/index.md) or [Spell](../spells/index.md) card from your hand.<br><br>— OR —<br><br>:pay: 1 :building_materials:<br><br>— OR —<br><br>:pay: 5 :gold:<br><br>— OR —<br><br>:pay: 1 :movement: from any of your [heroes](../heroes/index.md).</p>
 ___

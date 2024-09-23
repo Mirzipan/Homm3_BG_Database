@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>Event</p>
+<p style="text-align: center;" markdown>[Event](index.md)</p>
 ___
 <p style="text-align: center;" markdown>**Each player chooses one option:** <br>Discard as many cards as you want, then draw new cards up to your :hand: +2. Remove any number of Ability or Spell cards from your hand. For every two cards removed this way, you can perform **Search (2)** the Ability deck or the Spell deck.<br><br>— OR —<br><br>Leave and gain nothing.</p>
 ___
