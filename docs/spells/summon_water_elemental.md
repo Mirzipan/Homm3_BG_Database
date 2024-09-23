@@ -16,5 +16,8 @@ ___
 
 ## See Also
 
+- [Summon Air Elemental](summon_air_elemental.md)
+- [Summon Earth Elemental](summon_earth_elemental.md)
+- [Summon Fire Elemental](summon_fire_elemental.md)
 - [School of Water Magic](school_of_water_magic.md)
 - [List of Spells](index.md)
