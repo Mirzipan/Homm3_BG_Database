@@ -4,7 +4,7 @@ All of the cards start with a prefix of 'Astrologers proclaim week of the'. In t
 
 | Name | Effect | [Content](../content.md) |
 | :--- | :---: | :--- |
-| [Ammo Cart](ammo_cart.md) | Until the next Astrologers round, each [Ballista](../war_machines/index.md) deals +1 :damage:, each [First Aid Tent](../war_machines/index.md) heals +1 :health_points:‍, and each [Ammo Cart](../war_machines/index.md) allows re-rolling 1 [Attack die](../dice.md#attack-die) for all ranged [units](../units/index.md). | Rampart |
+| [Ammo Cart](ammo_cart.md) | Until the next Astrologers round, each [Ballista](../war_machines/ballista.md) deals +1 :damage:, each [First Aid Tent](../war_machines/first_aid_tent.md) heals +1 :health_points:‍, and each [Ammo Cart](../war_machines/ammo_cart.md) allows re-rolling 1 [Attack die](../dice.md#attack-die) for all ranged [units](../units/index.md). | Rampart |
 | [Annoying Lizard](annoying_lizard.md) | Each player must shuffle all [Artifact](../artifacts/index.md) and [Spell](../spells/index.md) cards from their hand back into their deck and draw the same number of cards from the top of their deck of Might and Magic. | Core |
 | [Battalion's Stallion](battalions_stallion.md) | Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement. | Core |
 | [Big Cleanup](big_cleanup.md) | Each player must immediately discard all cards from their hand and draw the same number of cards. | Fortress |
