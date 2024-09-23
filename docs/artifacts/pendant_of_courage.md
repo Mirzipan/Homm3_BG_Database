@@ -1,6 +1,6 @@
 # Pendant of Courage
 
-![Pendant of Courage](../assets/artifacts_major-pendant_of_courage.webp){ width="340" align=right }
+![Pendant of Courage](../assets/player-deck-back.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
 ___

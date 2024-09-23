@@ -1,6 +1,6 @@
 # Necklace of Dragonteeth
 
-![Necklace of Dragonteeth](../assets/artifacts_major-necklace_of_dragonteeth.webp){ width="340" align=right }
+![Necklace of Dragonteeth](../assets/player-deck-back.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
 ___

@@ -1,6 +1,6 @@
 # Summon Air Elemental
 
-![Summon Air Elemental](../assets/spells-summon_air_elemental.webp){ width="340" align=right }
+![Summon Air Elemental](../assets/player-deck-back.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Expert Air Spell](school_of_air_magic.md)</p>

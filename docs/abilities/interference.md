@@ -1,6 +1,6 @@
 # Interference
 
-![Interference](../assets/abilities-interference.webp){ width="340" align=right }
+![Interference](../assets/player-deck-back.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>

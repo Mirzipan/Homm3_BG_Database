@@ -1,6 +1,6 @@
 # Summon Earth Elemental
 
-![Summon Earth Elemental](../assets/spells-summon_earth_elemental.webp){ width="340" align=right }
+![Summon Earth Elemental](../assets/player-deck-back.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Expert Earth Spell](school_of_earth_magic.md)</p>

@@ -23,4 +23,12 @@ This project is a fan project, and is in no way official or affiliated with [Arc
 Here are some projects within the homm3bg community that are definitely worth a visit.
 
 - [Rulebook Rewrite Project](https://github.com/Heegu-sama/Homm3BG)
-- [Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book).
+- [Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book)
+
+
+## :initiative: Credits & Thanks
+
+- **Main Developer:** Mirzipan
+- **Visual References:** FlatPanda
+
+Thanks to the community for miscellaneous help, pointers, and ideas.

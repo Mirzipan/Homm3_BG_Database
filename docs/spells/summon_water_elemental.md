@@ -1,6 +1,6 @@
 # Summon Water Elemental
 
-![Summon Water Elemental](../assets/spells-summon_water_elemental.webp){ width="340" align=right }
+![Summon Water Elemental](../assets/player-deck-back.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Expert Water Spell](school_of_water_magic.md)</p>
