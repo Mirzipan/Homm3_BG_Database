@@ -1,21 +1,19 @@
 # Ammo Cart
 
-Ammo Cart is a war machine that comes with the [Rampart Expansion](../content.md).
+![Ammo Cart](../assets/war_machines-ammo_cart.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[War Machine](index.md)</p>
+___
+<p style="text-align: center;" markdown>:permanent: Your :unit_ranged: units ignore combat penalties and gain "+2 :initiative:".
+</p>
+___
+<p style="text-align: center;" markdown>:pay: 5 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 8 :gold: at Trade Post</p>
 
 
-## Effect
+## Comes With
 
-:permanent: Your :unit_ranged: units ignore combat penalties and gain "+2 :initiative:".
-
-
-## Cost at Blacksmith
-
-5 :gold:
-
-
-## Cost at Trade Post
-
-8 :gold:
+- [Rampart Expansion](../content.md)
 
 
 ## See Also

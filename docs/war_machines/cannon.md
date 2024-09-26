@@ -1,21 +1,18 @@
 # Cannon
 
-Cannon is a war machine that comes with the [Cove Expansion](../content.md).
+![Cannon](../assets/player-deck-back.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[War Machine](index.md)</p>
+___
+<p style="text-align: center;" markdown>:permanent: Once during each Combat round, deal 2 :damage: to a selected enemy unit.</p>
+___
+<p style="text-align: center;" markdown>:pay: 10 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 14 :gold: at Trade Post</p>
 
 
-## Effect
+## Comes With
 
-:permanent: Once during each Combat round, deal 2 :damage: to a selected enemy unit.
-
-
-## Cost at Blacksmith
-
-10 :gold:
-
-
-## Cost at Trade Post
-
-14 :gold:
+- [Cove Expansion](../content.md)
 
 
 ## See Also

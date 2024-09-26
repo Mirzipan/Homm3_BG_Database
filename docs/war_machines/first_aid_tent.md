@@ -1,21 +1,18 @@
 # First Aid Tent
 
-First Aid Tent is a war machine that comes with the [Rampart Expansion](../content.md).
+![First Aid Tent](../assets/war_machines-first_aid_tent.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[War Machine](index.md)</p>
+___
+<p style="text-align: center;" markdown>:permanent: Once during each Combat round, remove 1 :damage: from your selected unit.</p>
+___
+<p style="text-align: center;" markdown>:pay: 3 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 6 :gold: at Trade Post</p>
 
 
-## Effect
+## Comes With
 
-:permanent: Once during each Combat round, remove 1 :damage: from your selected unit.
-
-
-## Cost at Blacksmith
-
-3 :gold:
-
-
-## Cost at Trade Post
-
-6 :gold:
+- [Rampart Expansion](../content.md)
 
 
 ## See Also

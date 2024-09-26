@@ -1,21 +1,18 @@
 # Ballista
 
-Ballista is a war machine that comes with the [Rampart Expansion](../content.md).
+![Ballista](../assets/war_machines-ballista.webp){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[War Machine](index.md)</p>
+___
+<p style="text-align: center;" markdown>:permanent: At the beginning of each Combat round, deal 1 :damage: to the enemy unit with the lowest :initiative:.</p>
+___
+<p style="text-align: center;" markdown>:pay: 7 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 10 :gold: at Trade Post</p>
 
 
-## Effect
+## Comes With
 
-:permanent: At the beginning of each Combat round, deal 1 :damage: to the enemy unit with the lowest :initiative:.
-
-
-## Cost at Blacksmith
-
-7 :gold:
-
-
-## Cost at Trade Post
-
-10 :gold:
+- [Rampart Expansion](../content.md)
 
 
 ## See Also
