@@ -21,6 +21,7 @@ One of the four schools of magic.
 - [Fireball](fireball.md)
 - [Frenzy](frenzy.md)
 - [Inferno](inferno.md)
+- [Sacrifice](sacrifice.md)
 - [Slayer](slayer.md)
 - [Summon Fire Elemental](summon_fire_elemental.md)
 

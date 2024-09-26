@@ -5,6 +5,7 @@ One of the four schools of magic.
 
 ## Basic
 
+- [Air Shield](air_shield.md)
 - [Disrupting Ray](disrupting_ray.md)
 - [Fortune](fortune.md)
 - [Haste](haste.md)
