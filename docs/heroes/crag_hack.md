@@ -12,8 +12,8 @@ Crag Hack is a :might: Barbarian hero that belongs to [Stronghold](../towns/stro
 | Level | Descrition |
 | :---: | :---: |
 | Ⅰ | :ongoing: Your selected [unit](../units/index.md) gains +1 :attack: |
-| Ⅳ | :ongoing: For this Combat, every card you play can grant you +1 :attack: instead of its regular effect. |
-| Ⅵ | :ongoing: Your selected [unit](../units/index.md) gains +1 :attack:. You can discard a card to gain additional +1 :attack:. |
+| Ⅳ | :ongoing: Your selected [unit](../units/index.md) gains +1 :attack:. You can discard a card to gain additional +1 :attack:. |
+| Ⅵ | :ongoing: For this Combat, every card you play can grant you +1 :attack: instead of its regular effect. |
 
 
 ## See Also

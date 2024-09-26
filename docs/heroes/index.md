@@ -43,7 +43,7 @@
 | [Zydar](zydar.md) | [Inferno](../towns/inferno.md) | :magic: Heretic | [Sorcery](../abilities/sorcery.md) | [Sorcery](zydar.md#specialty) | Inferno |
 | [Crag Hack](crag_hack.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Offense](crag_hack.md#specialty) | Stronghold |
 | [Dessa](dessa.md) | [Stronghold](../towns/stronghold.md) | :magic: Battle Mage | [Logistics](../abilities/logistics.md) | [Logistics](dessa.md#specialty) | Regular Stretch Goals |
-| [Gundula](gundula.md) | [Stronghold](../towns/stronghold.md) | :magic: Battle Mage | [Wisdom](../abilities/wisdom.md) | [🚧](gundula.md#specialty) | Stronghold |
+| [Gundula](gundula.md) | [Stronghold](../towns/stronghold.md) | :magic: Battle Mage | [Wisdom](../abilities/wisdom.md) | [Slow](gundula.md#specialty) | Stronghold |
 | [Shiva](shiva.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | [Scouting](../abilities/scouting.md) | [Thunderbirds](shiva.md#specialty) | Stronghold |
 | [Tarnum](tarnum_stronghold.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Offense](tarnum_stronghold.md#specialty) | Regular Stretch Goals |
 | [Yog](yog.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Cyclops](yog.md#specialty) | Stronghold |
