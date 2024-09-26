@@ -1,6 +1,6 @@
 # Sacrifice
 
-![Sacrifice](../assets/spells-sacrifice.webp){ width="340" align=right }
+![Sacrifice](../assets/player-deck-back.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Expert Fire Spell](school_of_fire_magic.md)</p>
