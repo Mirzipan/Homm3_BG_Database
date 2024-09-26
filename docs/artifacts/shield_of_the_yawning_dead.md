@@ -19,4 +19,5 @@ ___
 - [Blackshard of the Dead Knight](blackshard_of_the_dead_knight.md)
 - [Rib Cage](rib_cage.md)
 - [Skull Helmet](skull_helmet.md)
-- [List of Artifacts](../artifacts/index.md)
+
+- [List of Artifacts](index.md)

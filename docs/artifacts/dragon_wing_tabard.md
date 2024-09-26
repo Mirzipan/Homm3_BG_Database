@@ -21,4 +21,5 @@ ___
 - [Dragon Scale Shield](dragon_scale_shield.md)
 - [Necklace of Dragonteeth](necklace_of_dragonteeth.md)
 - [Red Dragon Flame Tongue](red_dragon_flame_tongue.md)
-- [List of Artifacts](../artifacts/index.md)
+
+- [List of Artifacts](index.md)

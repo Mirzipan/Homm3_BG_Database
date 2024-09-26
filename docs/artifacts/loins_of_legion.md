@@ -20,4 +20,5 @@ ___
 - [Head of Legion](head_of_legion.md)
 - [Legs of Legion](legs_of_legion.md)
 - [Torso of Legion](torso_of_legion.md)
-- [List of Artifacts](../artifacts/index.md)
+
+- [List of Artifacts](index.md)

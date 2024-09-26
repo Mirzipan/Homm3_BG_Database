@@ -19,4 +19,5 @@ ___
 - [Blackshard of the Dead Knight](blackshard_of_the_dead_knight.md)
 - [Shield of the Yawning Dead](shield_of_the_yawning_dead.md)
 - [Skull Helmet](skull_helmet.md)
-- [List of Artifacts](../artifacts/index.md)
+
+- [List of Artifacts](index.md)

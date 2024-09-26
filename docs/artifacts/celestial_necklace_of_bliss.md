@@ -1,6 +1,6 @@
 # Celestial Necklace of Bliss
 
-![Celestial Necklace of Bliss](../assets/artifacts_relic-celestial_necklace_of_bliss.webp){ width="340" align=right }
+![Celestial Necklace of Bliss](../assets/player-deck-back.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Relic Artifact](relic_artifacts.md)</p>
 ___
@@ -16,4 +16,5 @@ ___
 
 ## See Also
 
-- [List of Artifacts](../artifacts/index.md)
+
+- [List of Artifacts](index.md)

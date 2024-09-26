@@ -23,4 +23,5 @@
 
 - [Minor Artifact](minor_artifacts.md)
 - [Major Artifact](major_artifacts.md)
-- [List of Artifacts](../artifacts/index.md)
+
+- [List of Artifacts](index.md)

@@ -19,4 +19,5 @@ ___
 - [Rib Cage](rib_cage.md)
 - [Shield of the Yawning Dead](shield_of_the_yawning_dead.md)
 - [Skull Helmet](skull_helmet.md)
-- [List of Artifacts](../artifacts/index.md)
+
+- [List of Artifacts](index.md)

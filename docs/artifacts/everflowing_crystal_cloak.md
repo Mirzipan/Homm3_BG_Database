@@ -18,4 +18,5 @@ ___
 
 - [Everpouring Vial of Mercury](everpouring_vial_of_mercury.md)
 - [Eversmoking Ring of Sulfur](eversmoking_ring_of_sulfur.md)
-- [List of Artifacts](../artifacts/index.md)
+
+- [List of Artifacts](index.md)

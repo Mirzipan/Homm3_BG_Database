@@ -16,4 +16,5 @@ ___
 
 ## See Also
 
-- [List of Artifacts](../artifacts/index.md)
+
+- [List of Artifacts](index.md)
