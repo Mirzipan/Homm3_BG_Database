@@ -27,10 +27,12 @@
 | [Josephine](josephine.md) | [Tower](../towns/tower.md) | :might: Alchemist | [Sorcery](../abilities/sorcery.md) | [Golems](josephine.md#specialty) | Tower |
 | [Solmyr](solmyr.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Sorcery](../abilities/sorcery.md) | [Chain Lightning](solmyr.md#specialty) | Tower |
 | [Torosar](torosar.md) | [Tower](../towns/tower.md) | :might: Wizard | [Mysticism](../abilities/mysticism.md) | [Ballista](torosar.md.md#specialty) | Regular Stretch Goals |
-| [Clancy](clancy.md) | [Tower](../towns/tower.md) | :might: Ranger | [Pathfinding](../abilities/pathfinding.md) | [Unicorns](clancy.md#specialty) | Tower |
+| [Clancy](clancy.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Pathfinding](../abilities/pathfinding.md) | [Unicorns](clancy.md#specialty) | Tower |
 | [Gelu](gelu.md) | [Rampart](../towns/rampart.md) | :might: Ranger | [Archery](../abilities/archery.md) | [Sharpshooters](gelu.md#specialty) | Rampart |
 | [Gem](gem.md) | [Rampart](../towns/rampart.md) | :magic: Druid | [First Aid](../abilities/first_aid.md) | [First Aid](gem.md#specialty) | Rampart |
-| [Mephala](mephala.md) | [Tower](../towns/tower.md) | :might: Ranger | [Leadership](../abilities/leadership.md) | [Armorer](mephala.md#specialty) | Tower |
+| [Ivor](ivor.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Offense](../abilities/offense.md) | [Elves](ivor.md#specialty) | Regular Stretch Goals |
+| [Melodia](melodia.md) | [Rampart](../towns/rampart.md) | :magic: Druid | [Luck](../abilities/luck.md) | [Fortune](melodia.md#specialty) | Regular Stretch Goals |
+| [Mephala](mephala.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Leadership](../abilities/leadership.md) | [Armorer](mephala.md#specialty) | Tower |
 | [Adrienne](adrienne.md) | [Fortress](../towns/fortress.md) | :magic: Witch | [Wisdom](../abilities/wisdom.md) | [Fire Magic](adrienne.md#specialty) | Fortress |
 | [Bron](bron.md) | [Tower](../towns/tower.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](bron.md#specialty) | Tower |
 | [Tazar](tazar.md) | [Tower](../towns/tower.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [War Hero](tazar.md#specialty) | Tower |
