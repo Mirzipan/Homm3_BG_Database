@@ -26,6 +26,11 @@
 | Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic](../spells/school_of_air_magic.md) :spellpower:. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic](../spells/school_of_air_magic.md) :spellpower:. |
 
 
+## Notes
+
+- Summoned by [Summon Air Elemental](../spells/summon_air_elemental.md).
+
+
 ## Comes With
 
 - [Conflux Expansion](../content.md)

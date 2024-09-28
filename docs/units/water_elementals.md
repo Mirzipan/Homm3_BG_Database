@@ -1,12 +1,22 @@
 # Water Elementals
 
-Water Elementals are a 🚧 [neutral](../towns/neutral.md) summoned unit that comes with the [Conflux Expansion](../content.md).
+=== "Few"
 
-It is summoned by [Summon Water Elemental](../spells/summon_water_elemental.md).
+    <figure markdown="span">
+        ![Few of Water Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Water Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack |
 | :--- | :---: | :---: |
+| Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |
+| Tier | 🚧 | 🚧 |
 | Type | 🚧 | 🚧 |
 | :attack: | 🚧 | 🚧 |
 | :defense: | 🚧 | 🚧 |
@@ -14,6 +24,16 @@ It is summoned by [Summon Water Elemental](../spells/summon_water_elemental.md).
 | :initiative: | 🚧 | 🚧 |
 | Cost | 🚧 | 🚧 |
 | Abilities | 🚧 | 🚧 |
+
+
+## Notes
+
+- Summoned by [Summon Water Elemental](../spells/summon_water_elemental.md).
+
+
+## Comes With
+
+- [Conflux Expansion](../content.md)
 
 
 ## See Also
