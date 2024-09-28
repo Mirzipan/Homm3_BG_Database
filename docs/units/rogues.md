@@ -1,10 +1,14 @@
 # Rogues
 
-Rogues is a :bronze: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
+<figure markdown="span">
+    ![Neutral Rogues](../assets/units-neutral-bronze-rogues.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: |
 | Type | :unit_ground: |
 | :attack: | 2 |
 | :defense: | 1 |
@@ -12,6 +16,11 @@ Rogues is a :bronze: [neutral](../towns/neutral.md) unit that comes with the [Co
 | :initiative: | 6 |
 | Cost | 5 :gold: |
 | Abilities | :effect_map: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

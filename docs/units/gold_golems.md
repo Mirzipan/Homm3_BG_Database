@@ -1,10 +1,14 @@
 # Gold Golems
 
-Gold Golems is a :golden: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
+<figure markdown="span">
+    ![Neutral Gold Golems](../assets/units-neutral-golden-gold_golems.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :golden: |
 | Type | :unit_ground: |
 | :attack: | 3 |
 | :defense: | 2 |
@@ -12,6 +16,11 @@ Gold Golems is a :golden: [neutral](../towns/neutral.md) unit that comes with th
 | :initiative: | 5 |
 | Cost | 14 :gold: |
 | Abilities | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 2 - to a minimum of 0. |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

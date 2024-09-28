@@ -1,10 +1,14 @@
 # Trolls
 
-Trolls is a :golden: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
+<figure markdown="span">
+    ![Neutral Trolls](../assets/units-neutral-golden-trolls.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :golden: |
 | Type | :unit_ground: |
 | :attack: | 4 |
 | :defense: | 0 |
@@ -12,6 +16,11 @@ Trolls is a :golden: [neutral](../towns/neutral.md) unit that comes with the [Co
 | :initiative: | 7 |
 | Cost | 13 :gold: |
 | Abilities | :activation: Remove up to 3 :damage: from this unit. |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

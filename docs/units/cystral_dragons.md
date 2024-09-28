@@ -1,10 +1,14 @@
 # Cystral Dragons
 
-Cystral Dragons is a :azure: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
+<figure markdown="span">
+    ![Neutral Cystral Dragons](../assets/units-neutral-azure-cystral_dragons.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :azure: |
 | Type | :unit_ground: |
 | :attack: | 7 |
 | :defense: | 3 |
@@ -12,6 +16,11 @@ Cystral Dragons is a :azure: [neutral](../towns/neutral.md) unit that comes with
 | :initiative: | 16 |
 | Cost | 40 :gold:<br>2 :valuables: |
 | Abilities | :effect_map: At the beginning of each Resource round, gain 2 :valuables:. |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

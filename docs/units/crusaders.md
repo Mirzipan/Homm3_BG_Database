@@ -1,9 +1,28 @@
 # Crusaders
 
-Crusaders are a :silver: unit that belongs to [Castle](../towns/castle.md).
+=== "Few"
+
+    <figure markdown="span">
+        ![Few of Crusaders](../assets/units-castle-silver-crusaders-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Crusaders](../assets/units-castle-silver-crusaders-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Crusaders](../assets/units-neutral-silver-crusaders.webp){ width="340" align=right }
+    </figure>
+
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |
+| Tier | :silver: | :silver: | :silver: |
 | Type | :unit_ground: | :unit_ground: | :unit_ground: |
 | :attack: | 3 | **4** | 3 |
 | :defense: | 2 | 2 | 2 |
@@ -16,6 +35,11 @@ Crusaders are a :silver: unit that belongs to [Castle](../towns/castle.md).
 ## Notes
 
 - The [Attack die](../dice.md#attack-die) may be rerolled until the number on the die no longer equals "0".
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

@@ -1,9 +1,28 @@
 # Marksmen
 
-Marksmen are a :bronze: unit that belongs to [Castle](../towns/castle.md).
+=== "Few"
+
+    <figure markdown="span">
+        ![Few of Marksmen](../assets/units-castle-bronze-marksmen-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Marksmen](../assets/units-castle-bronze-marksmen-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Marksmen](../assets/units-neutral-bronze-marksmen.webp){ width="340" align=right }
+    </figure>
+
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: | :bronze: | :bronze: |
 | Type | :unit_ranged: | :unit_ranged: | :unit_ranged: |
 | :attack: | 2 | 2 | 2 |
 | :defense: | 0 | 0 | 0 |
@@ -16,6 +35,11 @@ Marksmen are a :bronze: unit that belongs to [Castle](../towns/castle.md).
 ## Notes
 
 - The Marksmen can attack at most one additional time per activation, not more.
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

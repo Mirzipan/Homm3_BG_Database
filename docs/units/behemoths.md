@@ -1,12 +1,28 @@
 # Behemoths
 
-Behemoths are a :golden: unit that belongs to [Stronghold](../towns/stronghold.md).
+=== "Few"
 
-Their neutral version comes with the [Stronghold Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Behemoths](../assets/units-stronghold-golden-behemoths-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Behemoths](../assets/units-stronghold-golden-behemoths-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Behemoths](../assets/units-neutral-golden-behemoths.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |
+| Tier | :golden: | :golden: | :golden: |
 | Type | :unit_ground: | :unit_ground: | 🚧 |
 | :attack: | 7 | **8** | 🚧 |
 | :defense: | 2 | 2 | 🚧 |
@@ -14,6 +30,11 @@ Their neutral version comes with the [Stronghold Expansion](../content.md).
 | :initiative: | 6 | **9** | 🚧 |
 | Cost | 19 :gold:<br>1 :valuables: | 29 :gold:<br>2 :valuables: | 🚧 |
 | Abilities | :unit_attack: Decrease the target's :defense: by 1 (to a minimum of 0). | :unit_attack: Decrease the target's :defense: by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. | 🚧 |
+
+
+## Comes With
+
+- [Stronghold Expansion](../content.md)
 
 
 ## See Also

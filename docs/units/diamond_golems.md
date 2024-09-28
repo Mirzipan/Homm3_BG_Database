@@ -1,10 +1,14 @@
 # Diamond Golems
 
-Diamond Golems is a :golden: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
+<figure markdown="span">
+    ![Neutral Diamond Golems](../assets/units-neutral-golden-diamond_golems.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :golden: |
 | Type | :unit_ground: |
 | :attack: | 4 |
 | :defense: | 2 |
@@ -12,6 +16,11 @@ Diamond Golems is a :golden: [neutral](../towns/neutral.md) unit that comes with
 | :initiative: | 6 |
 | Cost | 16 :gold: |
 | Abilities | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 3 - to a minimum of 0. |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

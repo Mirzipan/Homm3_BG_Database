@@ -1,10 +1,14 @@
 # Boars
 
-Boars is a :bronze: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
+<figure markdown="span">
+    ![Neutral Boars](../assets/units-neutral-bronze-boars.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: |
 | Type | :unit_ground: |
 | :attack: | 2 |
 | :defense: | 0 |
@@ -12,6 +16,11 @@ Boars is a :bronze: [neutral](../towns/neutral.md) unit that comes with the [Cor
 | :initiative: | 6 |
 | Cost | 4 :gold: |
 | Abilities | - |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

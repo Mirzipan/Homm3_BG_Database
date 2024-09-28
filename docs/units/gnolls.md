@@ -1,12 +1,28 @@
 # Gnolls
 
-Gnolls are a :bronze: unit that belongs to [Fortress](../towns/fortress.md).
+=== "Few"
 
-Their neutral version comes with the [Tower Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Gnolls](../assets/units-fortress-bronze-gnolls-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Gnolls](../assets/units-fortress-bronze-gnolls-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Gnolls](../assets/units-neutral-bronze-gnolls.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: | :bronze: | :bronze: |
 | Type | :unit_ground: | :unit_ground: | :unit_ground: |
 | :attack: | 2 | 2 | 2 |
 | :defense: | 1 | 1 | 1 |
@@ -14,6 +30,12 @@ Their neutral version comes with the [Tower Expansion](../content.md).
 | :initiative: | 4 | **5** | 4 |
 | Cost | 2 :gold: | 3 :gold: | 3 :gold: |
 | Abilities | - | - | - |
+
+
+## Comes With
+
+- [Fortress Expansion](../content.md)
+- [Tower Expansion](../content.md) (Neutral)
 
 
 ## See Also

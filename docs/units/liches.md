@@ -1,9 +1,28 @@
 # Liches
 
-Liches are a :silver: unit that belongs to [Necropolis](../towns/necropolis.md).
+=== "Few"
+
+    <figure markdown="span">
+        ![Few of Liches](../assets/units-necropolis-silver-liches-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Liches](../assets/units-necropolis-silver-liches-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Liches](../assets/units-neutral-silver-liches.webp){ width="340" align=right }
+    </figure>
+
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |
+| Tier | :silver: | :silver: | :silver: |
 | Type | :unit_ranged: | :unit_ranged: | :unit_ranged: |
 | :attack: | 3 | **4** | 3 |
 | :defense: | 1 | 1 | 0 |
@@ -24,6 +43,11 @@ Liches are a :silver: unit that belongs to [Necropolis](../towns/necropolis.md).
 - (?) Only on the large Battlefield: Should the Liches attack an adjacent unit, and both them, and their target have a common adjacent enemy to them, and this common adjacent unit is dealt damage from the secondary attack, both, the original target and the target of their secondary attack perform a retaliation attack against the Liches.
 
 *Lines prefixed with (?) are not officially confirmed by game designers, and are therefore considered Community rules.*
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

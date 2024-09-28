@@ -1,10 +1,14 @@
 # Leprechaun
 
-Leprechaun is a :bronze: [neutral](../towns/neutral.md) unit that comes with the [Regular Stretch Goals](../content.md).
+<figure markdown="span">
+    ![Neutral Leprechaun](../assets/units-neutral-bronze-leprechaun.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: |
 | Type | :unit_ground: |
 | :attack: | 2 |
 | :defense: | 0 |
@@ -12,6 +16,11 @@ Leprechaun is a :bronze: [neutral](../towns/neutral.md) unit that comes with the
 | :initiative: | 5 |
 | Cost | 3 :gold: |
 | Abilities | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher one. |
+
+
+## Comes With
+
+- [Regular Stretch Goals](../content.md)
 
 
 ## See Also

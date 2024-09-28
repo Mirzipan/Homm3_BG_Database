@@ -1,12 +1,28 @@
 # Dwarves
 
-Dwarves are a :bronze: unit that belongs to [Rampart](../towns/rampart.md).
+=== "Few"
 
-Their neutral version comes with the [Tower Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Dwarves](../assets/units-rampart-bronze-dwarves-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Dwarves](../assets/units-rampart-bronze-dwarves-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Dwarves](../assets/units-neutral-bronze-dwarves.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: | :bronze: | :bronze: |
 | Type | :unit_ground: | :unit_ground: | :unit_ground: |
 | :attack: | 2 | **3** | 2 |
 | :defense: | 1 | 1 | 1 |
@@ -14,6 +30,12 @@ Their neutral version comes with the [Tower Expansion](../content.md).
 | :initiative: | 3 | **5** | 3 |
 | Cost | 3 :gold: | 4 :gold: | 4 :gold: |
 | Abilities | :unit_passive: If this unit is targeted by any [Spell](../spells/index.md) or [Specialty](../heroes/index.md) card, roll 1 [Attack die](../dice.md#attack-die). On a "+1" result, ignore the card's effect. | :unit_passive: If this unit is targeted by any [Spell](../spells/index.md) or [Specialty](../heroes/index.md) card, roll 1 [Attack die](../dice.md#attack-die). On a "+1" result, ignore the card's effect. | :unit_passive: If this unit is targeted by any [Spell](../spells/index.md) or [Specialty](../heroes/index.md) card, roll 1 [Attack die](../dice.md#attack-die). On a "+1" result, ignore the card's effect. |
+
+
+## Comes With
+
+- [Rampart Expansion](../content.md)
+- [Tower Expansion](../content.md) (Neutral)
 
 
 ## See Also

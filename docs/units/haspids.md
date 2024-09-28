@@ -1,12 +1,28 @@
 # Haspids
 
-Haspids are a :golden: unit that belongs to [Cove](../towns/cove.md).
+=== "Few"
 
-Their neutral version comes with the [Cove Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Haspids](../assets/units-cove-golden-haspids-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Haspids](../assets/units-cove-golden-haspids-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Haspids](../assets/units-neutral-golden-haspids.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
+| Tier | :golden: | :golden: | :golden: |
 | Type | :unit_ground: | :unit_ground: | 🚧 |
 | :attack: | 5 | **6** | 🚧 |
 | :defense: | 3 | 3 | 🚧 |
@@ -14,6 +30,11 @@ Their neutral version comes with the [Cove Expansion](../content.md).
 | :initiative: | 9 | **12** | 🚧 |
 | Cost | 18 :gold:<br>1 :valuables: | 32 :gold:<br>2 :valuables: | 🚧 |
 | Abilities | :unit_attack: If this unit turns from Pack side in this combat, gain +2 :attack: | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:. | 🚧 |
+
+
+## Comes With
+
+- [Cove Expansion](../content.md)
 
 
 ## See Also

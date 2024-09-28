@@ -1,9 +1,28 @@
 # Vampires
 
-Vampires are a :silver: unit that belongs to [Necropolis](../towns/necropolis.md).
+=== "Few"
+
+    <figure markdown="span">
+        ![Few of Vampires](../assets/units-necropolis-silver-vampires-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Vampires](../assets/units-necropolis-silver-vampires-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Vampires](../assets/units-neutral-silver-vampires.webp){ width="340" align=right }
+    </figure>
+
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |
+| Tier | :silver: | :silver: | :silver: |
 | Type | :unit_flying: | :unit_flying: | :unit_flying: |
 | :attack: | 4 | **5** | 3 |
 | :defense: | 1 | 1 | 0 |
@@ -16,6 +35,11 @@ Vampires are a :silver: unit that belongs to [Necropolis](../towns/necropolis.md
 ## Notes
 
 - Vampires heal on each attack, that include the attack against a Wall.
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

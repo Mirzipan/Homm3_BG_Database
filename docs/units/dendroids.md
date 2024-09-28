@@ -1,12 +1,28 @@
 # Dendroids
 
-Dendroids are a :silver: unit that belongs to [Rampart](../towns/rampart.md).
+=== "Few"
 
-Their neutral version comes with the [Tower Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Dendroids](../assets/units-rampart-silver-dendroids-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Dendroids](../assets/units-rampart-silver-dendroids-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Dendroids](../assets/units-neutral-silver-dendroids.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |
+| Tier | :silver: | :silver: | :silver: |
 | Type | :unit_ground: | :unit_ground: | :unit_ground: |
 | :attack: | 4 | 4 | 3 |
 | :defense: | 2 | 2 | 2 |
@@ -14,6 +30,12 @@ Their neutral version comes with the [Tower Expansion](../content.md).
 | :initiative: | 3 | **4** | 3 |
 | Cost | 8 :gold: | 15 :gold: | 12 :gold: |
 | Abilities | - | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. |
+
+
+## Comes With
+
+- [Rampart Expansion](../content.md)
+- [Tower Expansion](../content.md) (Neutral)
 
 
 ## See Also

@@ -1,10 +1,28 @@
 # Troglodytes
 
-Troglodytes are a :bronze: unit that belongs to [Dungeon](../towns/dungeon.md).
+=== "Few"
+
+    <figure markdown="span">
+        ![Few of Troglodytes](../assets/units-dungeon-bronze-troglodytes-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Troglodytes](../assets/units-dungeon-bronze-troglodytes-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Troglodytes](../assets/units-neutral-bronze-troglodytes.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: | :bronze: | :bronze: |
 | Type | :unit_ground: | :unit_ground: | :unit_ground: |
 | :attack: | 2 | **3** | 2 |
 | :defense: | 1 | 1 | 1 |
@@ -12,6 +30,11 @@ Troglodytes are a :bronze: unit that belongs to [Dungeon](../towns/dungeon.md).
 | :initiative: | 4 | **5** | 6 |
 | Cost | 2 :gold: | 3 :gold: | 4 :gold: |
 | Abilities | - | :unit_passive: This unit ignores :paralysis: effect. | :unit_passive: This unit ignores :paralysis: effects. |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

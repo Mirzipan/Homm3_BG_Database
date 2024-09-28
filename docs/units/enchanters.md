@@ -1,10 +1,14 @@
 # Enchanters
 
-Enchanters is a :golden: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
+<figure markdown="span">
+    ![Neutral Enchanters](../assets/units-neutral-golden-enchanters.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :golden: |
 | Type | :unit_ranged: |
 | :attack: | 4 |
 | :defense: | 1 |
@@ -12,6 +16,11 @@ Enchanters is a :golden: [neutral](../towns/neutral.md) unit that comes with the
 | :initiative: | 5 |
 | Cost | 16 :gold: |
 | Abilities | :activation: Remove up to 2 :damage: from a friendly unit. Otherwise, Enchanters gain +1 :attack:. |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

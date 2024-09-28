@@ -1,10 +1,28 @@
 # Evil Eyes
 
-Evil Eyes are a :bronze: unit that belongs to [Dungeon](../towns/dungeon.md).
+=== "Few"
+
+    <figure markdown="span">
+        ![Few of Evil Eyes](../assets/units-dungeon-bronze-evil_eyes-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Evil Eyes](../assets/units-dungeon-bronze-evil_eyes-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Evil Eyes](../assets/units-neutral-bronze-evil_eyes.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: | :bronze: | :bronze: |
 | Type | :unit_ranged: | :unit_ranged: | :unit_ranged: |
 | :attack: | 3 | 3 | 2 |
 | :defense: | 0 | **1** | 1 |
@@ -12,6 +30,11 @@ Evil Eyes are a :bronze: unit that belongs to [Dungeon](../towns/dungeon.md).
 | :initiative: | 5 | **7** | 6 |
 | Cost | 4 :gold: | 6 :gold: | 6 :gold: |
 | Abilities | - | :unit_passive: Ignore the combat penalty against adjacent units. | :unit_passive: Ignore the combat penalty against adjacent units. |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

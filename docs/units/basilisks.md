@@ -1,12 +1,28 @@
 # Basilisks
 
-Basilisks are a :silver: unit that belongs to [Fortress](../towns/fortress.md).
+=== "Few"
 
-Their neutral version comes with the [Tower Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Basilisks](../assets/units-fortress-silver-basilisks-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Basilisks](../assets/units-fortress-silver-basilisks-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Basilisks](../assets/units-neutral-silver-basilisks.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |
+| Tier | :silver: | :silver: | :silver: |
 | Type | :unit_ground: | :unit_ground: | :unit_ground: |
 | :attack: | 4 | 4 | 4 |
 | :defense: | 1 | 1 | 1 |
@@ -14,6 +30,12 @@ Their neutral version comes with the [Tower Expansion](../content.md).
 | :initiative: | 5 | **7** | 5 |
 | Cost | 6 :gold: | 9 :gold: | 12 :gold: |
 | Abilities | :unit_attack: On "-1" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: On "-1" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die). On a "0" result, :paralysis: the target. |
+
+
+## Comes With
+
+- [Fortress Expansion](../content.md)
+- [Tower Expansion](../content.md) (Neutral)
 
 
 ## See Also

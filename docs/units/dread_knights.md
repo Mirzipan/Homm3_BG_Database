@@ -1,9 +1,28 @@
 # Dread Knights
 
-Dread Knights are a :golden: unit that belongs to [Necropolis](../towns/necropolis.md).
+=== "Few"
+
+    <figure markdown="span">
+        ![Few of Dread Knights](../assets/units-necropolis-golden-dread_knights-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Dread Knights](../assets/units-necropolis-golden-dread_knights-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Dread Knights](../assets/units-neutral-golden-dread_knights.webp){ width="340" align=right }
+    </figure>
+
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |
+| Tier | :golden: | :golden: | :golden: |
 | Type | :unit_ground: | :unit_ground: | :unit_ground: |
 | :attack: | 5 | **6** | 5 |
 | :defense: | 2 | 2 | 1 |
@@ -16,6 +35,11 @@ Dread Knights are a :golden: unit that belongs to [Necropolis](../towns/necropol
 ## Notes
 
 - (?) Should the Dread Knights attack neutral [Crusaders](../units/crusaders.md), when the [Crusaders](../units/crusaders.md) retaliate against a few Dread Knights, they're abilities cancel out and a single [Attack die](../dice.md#attack-die) is rolled as if it was a regular attack.
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

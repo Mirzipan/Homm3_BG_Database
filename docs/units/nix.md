@@ -1,12 +1,28 @@
 # Nix
 
-Nix are a :golden: unit that belongs to [Cove](../towns/cove.md).
+=== "Few"
 
-Their neutral version comes with the [Cove Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Nix](../assets/units-cove-golden-nix-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Nix](../assets/units-cove-golden-nix-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Nix](../assets/units-neutral-golden-nix.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
+| Tier | :golden: | :golden: | :golden: |
 | Type | :unit_ground: | :unit_ground: | 🚧 |
 | :attack: | 5 | **6** | 🚧 |
 | :defense: | 2 | 2 | 🚧 |
@@ -14,6 +30,11 @@ Their neutral version comes with the [Cove Expansion](../content.md).
 | :initiative: | 6 | **7** | 🚧 |
 | Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 🚧 |
 | Abilities | - | :unit_passive: This unit cannot take more than 4 :damage: from a single attack. | 🚧 |
+
+
+## Comes With
+
+- [Cove Expansion](../content.md)
 
 
 ## See Also

@@ -1,9 +1,28 @@
 # Archangels
 
-Archangels are a :golden: unit that belongs to [Castle](../towns/castle.md).
+=== "Few"
+
+    <figure markdown="span">
+        ![Few of Archangels](../assets/units-castle-golden-archangels-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Archangels](../assets/units-castle-golden-archangels-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Archangels](../assets/units-neutral-golden-archangels.webp){ width="340" align=right }
+    </figure>
+
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |
+| Tier | :golden: | :golden: | :golden: |
 | Type | :unit_flying: | :unit_flying: | :unit_flying: |
 | :attack: | 6 | **7** | 5 |
 | :defense: | 3 | 3 | 2 |
@@ -16,6 +35,11 @@ Archangels are a :golden: unit that belongs to [Castle](../towns/castle.md).
 ## Notes
 
 - The passive ability can be used at the moment when a friendly unit would be defeated.
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

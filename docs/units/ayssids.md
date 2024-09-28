@@ -1,12 +1,28 @@
 # Ayssids
 
-Ayssids are a :silver: unit that belongs to [Cove](../towns/cove.md).
+=== "Few"
 
-Their neutral version comes with the [Cove Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Ayssids](../assets/units-cove-silver-ayssids-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Ayssids](../assets/units-cove-silver-ayssids-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Ayssids](../assets/units-neutral-silver-ayssids.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
+| Tier | :silver: | :silver: | :silver: |
 | Type | :unit_flying: | :unit_flying: | 🚧 |
 | :attack: | 3 | 3 | 🚧 |
 | :defense: | 1 | 1 | 🚧 |
@@ -14,6 +30,11 @@ Their neutral version comes with the [Cove Expansion](../content.md).
 | :initiative: | 9 | **11** | 🚧 |
 | Cost | 6 :gold: | 10 :gold: | 🚧 |
 | Abilities | - | :unit_attack: If the attack reduces the target to 0 :health:, the Ayssids can attack another unit adjacent to them. | 🚧 |
+
+
+## Comes With
+
+- [Cove Expansion](../content.md)
 
 
 ## See Also

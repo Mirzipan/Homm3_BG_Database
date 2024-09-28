@@ -1,10 +1,14 @@
 # Fangarm
 
-Fangarm is a :silver: [neutral](../towns/neutral.md) unit that comes with the [Regular Stretch Goals](../content.md).
+<figure markdown="span">
+    ![Neutral Fangarm](../assets/units-neutral-silver-fangarm.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :silver: |
 | Type | :unit_flying: |
 | :attack: | 3 |
 | :defense: | 1 |
@@ -12,6 +16,11 @@ Fangarm is a :silver: [neutral](../towns/neutral.md) unit that comes with the [R
 | :initiative: | 8 |
 | Cost | 14 :gold: |
 | Abilities | :unit_passive: Ignore all [:spellpower:](../spells/index.md) and [Specialty](../heroes/index.md) effects other than :damage:. |
+
+
+## Comes With
+
+- [Regular Stretch Goals](../content.md)
 
 
 ## See Also

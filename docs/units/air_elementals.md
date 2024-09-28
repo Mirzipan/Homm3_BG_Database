@@ -1,12 +1,22 @@
 # Air Elementals
 
-Air Elementals are a :bronze: [neutral](../towns/neutral.md) summoned unit that comes with the [Conflux Expansion](../content.md).
+=== "Few"
 
-It is summoned by [Summon Air Elemental](../spells/summon_air_elemental.md).
+    <figure markdown="span">
+        ![Few of Air Elementals](../assets/units-neutral-bronze-air_elementals-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Air Elementals](../assets/units-neutral-bronze-air_elementals-pack.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack |
 | :--- | :---: | :---: |
+| Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: | :bronze: |
 | Type | :unit_ground: | :unit_ground: |
 | :attack: | 2 | **3** |
 | :defense: | 1 | 1 |
@@ -14,6 +24,11 @@ It is summoned by [Summon Air Elemental](../spells/summon_air_elemental.md).
 | :initiative: | 7 | 7 |
 | Cost | 5 :gold: | 7 :gold: |
 | Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic](../spells/school_of_air_magic.md) :spellpower:. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic](../spells/school_of_air_magic.md) :spellpower:. |
+
+
+## Comes With
+
+- [Conflux Expansion](../content.md)
 
 
 ## See Also

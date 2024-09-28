@@ -1,10 +1,14 @@
 # Rust Dragons
 
-Rust Dragons is a :azure: [neutral](../towns/neutral.md) unit that comes with the [Fortress Expansion](../content.md).
+<figure markdown="span">
+    ![Neutral Rust Dragons](../assets/units-neutral-azure-rust_dragons.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :azure: |
 | Type | :unit_flying: |
 | :attack: | 7 |
 | :defense: | 3 |
@@ -12,6 +16,11 @@ Rust Dragons is a :azure: [neutral](../towns/neutral.md) unit that comes with th
 | :initiative: | 17 |
 | Cost | 38 :gold:<br>1 :valuables: |
 | Abilities | :unit_attack: On "-1" results on the [Attack die](../dice.md#attack-die), decrease the attacked unit's :defense: by 2 - to a minimum of 0. |
+
+
+## Comes With
+
+- [Fortress Expansion](../content.md)
 
 
 ## See Also

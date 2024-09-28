@@ -1,10 +1,14 @@
 # Nomads
 
-Nomads is a :silver: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
+<figure markdown="span">
+    ![Neutral Nomads](../assets/units-neutral-silver-nomads.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :silver: |
 | Type | :unit_ground: |
 | :attack: | 3 |
 | :defense: | 1 |
@@ -12,6 +16,11 @@ Nomads is a :silver: [neutral](../towns/neutral.md) unit that comes with the [Co
 | :initiative: | 7 |
 | Cost | 10 :gold: |
 | Abilities | :effect_map: At the end of your turn, move your [Hero's](../heroes/index.md) model to an adjacent empty field. |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

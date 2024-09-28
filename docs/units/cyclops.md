@@ -1,12 +1,28 @@
 # Cyclops
 
-Cyclops are a :golden: unit that belongs to [Stronghold](../towns/stronghold.md).
+=== "Few"
 
-Their neutral version comes with the [Stronghold Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Cyclops](../assets/units-stronghold-golden-cyclops-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Cyclops](../assets/units-stronghold-golden-cyclops-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Cyclops](../assets/units-neutral-golden-cyclops.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |
+| Tier | :golden: | :golden: | :golden: |
 | Type | :unit_ranged: | :unit_ranged: | 🚧 |
 | :attack: | 4 | **5** | 🚧 |
 | :defense: | 1 | 1 | 🚧 |
@@ -14,6 +30,11 @@ Their neutral version comes with the [Stronghold Expansion](../content.md).
 | :initiative: | 6 | **8** | 🚧 |
 | Cost | 13 :gold: | 17 :gold:<br>1 :valuables: | 🚧 |
 | Abilities | :unit_other: This unit can destroy the Gate or a Wall. | :unit_other: This unit can destroy the Gate, a Wall, or the [Arrow Tower](arrow_tower.md). | 🚧 |
+
+
+## Comes With
+
+- [Stronghold Expansion](../content.md)
 
 
 ## See Also

@@ -1,12 +1,28 @@
 # Demons
 
-Demons are a :silver: unit that belongs to [Inferno](../towns/inferno.md).
+=== "Few"
 
-Their neutral version comes with the [Inferno Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Demons](../assets/units-inferno-silver-demons-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Demons](../assets/units-inferno-silver-demons-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Demons](../assets/units-neutral-silver-demons.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |
+| Tier | :silver: | :silver: | :silver: |
 | Type | :unit_ground: | :unit_ground: | :unit_ground: |
 | :attack: | 3 | 3 | 3 |
 | :defense: | 2 | 2 | 0 |
@@ -14,6 +30,11 @@ Their neutral version comes with the [Inferno Expansion](../content.md).
 | :initiative: | 5 | **6** | 6 |
 | Cost | 6 :gold: | 8 :gold: | 13 :gold: |
 | Abilities | - | - | - |
+
+
+## Comes With
+
+- [Inferno Expansion](../content.md)
 
 
 ## See Also

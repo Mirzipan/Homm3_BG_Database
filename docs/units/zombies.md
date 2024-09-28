@@ -1,9 +1,28 @@
 # Zombies
 
-Zombies are a :bronze: unit that belongs to [Necropolis](../towns/necropolis.md).
+=== "Few"
+
+    <figure markdown="span">
+        ![Few of Zombies](../assets/units-necropolis-bronze-zombies-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Zombies](../assets/units-necropolis-bronze-zombies-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Zombies](../assets/units-neutral-bronze-zombies.webp){ width="340" align=right }
+    </figure>
+
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: | :bronze: | :bronze: |
 | Type | :unit_ground: | :unit_ground: | :unit_ground: |
 | :attack: | 2 | 2 | 2 |
 | :defense: | 1 | 1 | 0 |
@@ -16,6 +35,11 @@ Zombies are a :bronze: unit that belongs to [Necropolis](../towns/necropolis.md)
 ## Notes
 
 - The ability is triggered when Zombies are performing a regular attack, as well as a retaliation attack.
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

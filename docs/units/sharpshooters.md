@@ -1,10 +1,14 @@
 # Sharpshooters
 
-Sharpshooters is a :silver: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
+<figure markdown="span">
+    ![Neutral Sharpshooters](../assets/units-neutral-silver-sharpshooters.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :silver: |
 | Type | :unit_ranged: |
 | :attack: | 3 |
 | :defense: | 0 |
@@ -12,6 +16,11 @@ Sharpshooters is a :silver: [neutral](../towns/neutral.md) unit that comes with 
 | :initiative: | 9 |
 | Cost | 10 :gold: |
 | Abilities | :unit_attack: Ignore the combat penalties. |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

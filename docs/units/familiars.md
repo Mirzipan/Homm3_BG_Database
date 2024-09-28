@@ -1,12 +1,28 @@
 # Familiars
 
-Familiars are a :bronze: unit that belongs to [Inferno](../towns/inferno.md).
+=== "Few"
 
-Their neutral version comes with the [Inferno Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Familiars](../assets/units-inferno-bronze-familiars-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Familiars](../assets/units-inferno-bronze-familiars-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Familiars](../assets/units-neutral-bronze-familiars.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: | :bronze: | :bronze: |
 | Type | :unit_ground: | :unit_ground: | :unit_ground: |
 | :attack: | 2 | **3** | 3 |
 | :defense: | 1 | 1 | 1 |
@@ -14,6 +30,11 @@ Their neutral version comes with the [Inferno Expansion](../content.md).
 | :initiative: | 5 | **7** | 7 |
 | Cost | 2 :gold: | 3 :gold: | 6 :gold: |
 | Abilities | - | :unit_passive: Whenever an enemy casts a [:spellpower:](../spells/index.md) from hand, they must discard 1 card from hand. | :unit_passive: Whenever an enemy cast a [:spellpower:](../spells/index.md) from hand, they must discard 1 card from hand. |
+
+
+## Comes With
+
+- [Inferno Expansion](../content.md)
 
 
 ## See Also

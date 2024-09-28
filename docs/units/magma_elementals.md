@@ -1,12 +1,28 @@
 # Magma Elementals
 
-Magma Elementals are a :silver: unit that belongs to [Conflux](../towns/conflux.md).
+=== "Few"
 
-Their neutral version comes with the [Conflux Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Magma Elementals](../assets/units-conflux-silver-magma_elementals-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Magma Elementals](../assets/units-conflux-silver-magma_elementals-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Magma Elementals](../assets/units-neutral-silver-magma_elementals.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
+| Tier | :silver: | :silver: | :silver: |
 | Type | :unit_ground: | :unit_ground: | 🚧 |
 | :attack: | 4 | **5** | 🚧 |
 | :defense: | 2 | 2 | 🚧 |
@@ -14,6 +30,11 @@ Their neutral version comes with the [Conflux Expansion](../content.md).
 | :initiative: | 4 | **6** | 🚧 |
 | Cost | 9 :gold: | 13 :gold: | 🚧 |
 | Abilities | - | :activation: Add +1 :empower: to the first [Earth Magic](../spells/school_of_earth_magic.md) spell you cast during this Activation. | 🚧 |
+
+
+## Comes With
+
+- [Conflux Expansion](../content.md)
 
 
 ## See Also

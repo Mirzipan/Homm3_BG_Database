@@ -1,19 +1,40 @@
 # Gold Dragons
 
-Gold Dragons are a :golden: unit that belongs to [Rampart](../towns/rampart.md).
+=== "Few"
 
-Their neutral variant is an :azure: unit that comes with the [Tower Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Gold Dragons](../assets/units-rampart-golden-gold_dragons-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Gold Dragons](../assets/units-rampart-golden-gold_dragons-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Gold Dragons](../assets/units-neutral-golden-gold_dragons.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
-| Type | :unit_flying: | :unit_flying: | :unit_flying: |
+| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |
+| Tier | :golden: | :golden: | :golden: |
+| Type | :unit_flying: | :unit_flying: | :azure: |
 | :attack: | 5 | **6** | 6 |
 | :defense: | 3 | 3 | 3 |
 | :health_points: | 9 | **10** | 9 |
 | :initiative: | 10 | **16** | 10 |
 | Cost | 22 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 42 :gold: |
 | Abilities | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |
+
+
+## Comes With
+
+- [Tower Expansion](../content.md)
 
 
 ## See Also

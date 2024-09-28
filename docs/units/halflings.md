@@ -1,10 +1,14 @@
 # Halflings
 
-Halflings is a :bronze: [neutral](../towns/neutral.md) unit that comes with the [Core Game](../content.md).
+<figure markdown="span">
+    ![Neutral Halflings](../assets/units-neutral-bronze-halflings.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: |
 | Type | :unit_ranged: |
 | :attack: | 2 |
 | :defense: | 0 |
@@ -12,6 +16,11 @@ Halflings is a :bronze: [neutral](../towns/neutral.md) unit that comes with the 
 | :initiative: | 6 |
 | Cost | 5 :gold: |
 | Abilities | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher one. Ignore combat penalties. |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

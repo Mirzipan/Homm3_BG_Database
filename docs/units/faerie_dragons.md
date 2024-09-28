@@ -1,10 +1,14 @@
 # Faerie Dragons
 
-Faerie Dragons is a :azure: [neutral](../towns/neutral.md) unit that comes with the [Rampart Expansion](../content.md).
+<figure markdown="span">
+    ![Neutral Faerie Dragons](../assets/units-neutral-azure-faerie_dragons.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :azure: |
 | Type | :unit_flying: |
 | :attack: | 5 |
 | :defense: | 2 |
@@ -12,6 +16,11 @@ Faerie Dragons is a :azure: [neutral](../towns/neutral.md) unit that comes with 
 | :initiative: | 15 |
 | Cost | 35 :gold:<br>2 :valuables: |
 | Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. |
+
+
+## Comes With
+
+- [Rampart Expansion](../content.md)
 
 
 ## See Also

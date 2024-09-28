@@ -1,12 +1,28 @@
 # Sorceresses
 
-Sorceresses are a :silver: unit that belongs to [Cove](../towns/cove.md).
+=== "Few"
 
-Their neutral version comes with the [Cove Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Sorceresses](../assets/units-cove-silver-sorceresses-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Sorceresses](../assets/units-cove-silver-sorceresses-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Sorceresses](../assets/units-neutral-silver-sorceresses.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
+| Tier | :silver: | :silver: | :silver: |
 | Type | :unit_ranged: | :unit_ranged: | 🚧 |
 | :attack: | 4 | **5** | 🚧 |
 | :defense: | 1 | 1 | 🚧 |
@@ -14,6 +30,11 @@ Their neutral version comes with the [Cove Expansion](../content.md).
 | :initiative: | 6 | 6 | 🚧 |
 | Cost | 8 :gold: | 13 :gold: | 🚧 |
 | Abilities | :unit_other: Place a Weakness token on any unit for 2 Combat rounds. | :unit_attack: After the attack, place a Weakness token on the target for 2 Combat rounds. | 🚧 |
+
+
+## Comes With
+
+- [Cove Expansion](../content.md)
 
 
 ## See Also

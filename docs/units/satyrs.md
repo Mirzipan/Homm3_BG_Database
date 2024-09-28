@@ -1,10 +1,14 @@
 # Satyrs
 
-Satyrs is a :silver: [neutral](../towns/neutral.md) unit that comes with the [Regular Stretch Goals](../content.md).
+<figure markdown="span">
+    ![Neutral Satyrs](../assets/units-neutral-silver-satyrs.webp){ width="340" align=right }
+</figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :silver: |
 | Type | :unit_ground: |
 | :attack: | 3 |
 | :defense: | 0 |
@@ -12,6 +16,11 @@ Satyrs is a :silver: [neutral](../towns/neutral.md) unit that comes with the [Re
 | :initiative: | 7 |
 | Cost | 11 :gold: |
 | Abilities | :effect_map: Roll a [die](../dice.md#attack-die). On a "-1" outcome, gain a :morale_positive: token. |
+
+
+## Comes With
+
+- [Regular Stretch Goals](../content.md)
 
 
 ## See Also

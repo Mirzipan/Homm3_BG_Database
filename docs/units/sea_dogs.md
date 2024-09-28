@@ -1,12 +1,28 @@
 # Sea Dogs
 
-Sea Dogs are a :bronze: unit that belongs to [Cove](../towns/cove.md).
+=== "Few"
 
-Their neutral version comes with the [Cove Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Sea Dogs](../assets/units-cove-bronze-sea_dogs-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Sea Dogs](../assets/units-cove-bronze-sea_dogs-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Sea Dogs](../assets/units-neutral-bronze-sea_dogs.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: | :bronze: | :bronze: |
 | Type | :unit_ranged: | :unit_ranged: | 🚧 |
 | :attack: | 2 | 3 | 🚧 |
 | :defense: | 0 | 0 | 🚧 |
@@ -14,6 +30,11 @@ Their neutral version comes with the [Cove Expansion](../content.md).
 | :initiative: | 6 | **8** | 🚧 |
 | Cost | 4 :gold: | 6 :gold: | 🚧 |
 | Abilities | :unit_passive: Ignore the combat penalty against adjacent units. | :unit_attack: Ignore Enemy's Retaliation Attack.<br>:unit_passive: Ignore the combat penalty against adjacent units. | 🚧 |
+
+
+## Comes With
+
+- [Cove Expansion](../content.md)
 
 
 ## See Also

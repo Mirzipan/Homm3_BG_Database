@@ -1,12 +1,28 @@
 # Gargoyles
 
-Gargoyles are a :bronze: unit that belongs to [Tower](../towns/tower.md).
+=== "Few"
 
-Their neutral version comes with the [Tower Expansion](../content.md).
+    <figure markdown="span">
+        ![Few of Gargoyles](../assets/units-tower-bronze-gargoyles-few.webp){ width="340" align=right }
+    </figure>
+
+=== "Pack"
+
+    <figure markdown="span">
+        ![Pack of Gargoyles](../assets/units-tower-bronze-gargoyles-pack.webp){ width="340" align=right }
+    </figure>
+
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Gargoyles](../assets/units-neutral-bronze-gargoyles.webp){ width="340" align=right }
+    </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
+| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: | :bronze: | :bronze: |
 | Type | :unit_flying: | :unit_flying: | :unit_flying: |
 | :attack: | 2 | **3** | 2 |
 | :defense: | 1 | 1 | 1 |
@@ -14,6 +30,11 @@ Their neutral version comes with the [Tower Expansion](../content.md).
 | :initiative: | 6 | **9** | 9 |
 | Cost | 3 :gold: | 4 :gold: | 4 :gold: |
 | Abilities | :unit_passive: This unit ignores any :ongoing: [Spell](../spells/index.md) effects. | :unit_passive: This unit ignores any :ongoing: [Spell](../spells/index.md) effects. | :unit_passive: This unit ignores :paralysis: effect. |
+
+
+## Comes With
+
+- [Tower Expansion](../content.md)
 
 
 ## See Also
