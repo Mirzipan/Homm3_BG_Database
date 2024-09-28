@@ -15,7 +15,7 @@
 === "Pack alt"
 
     <figure markdown="span">
-        ![Pack alt of Manticores](../assets/units-dungeon-golden-manticores-pack_alt.webp){ width="340" align=right }
+        ![Pack alt of Manticores](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"

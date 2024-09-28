@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Sea Dogs](../assets/units-cove-bronze-sea_dogs-few.webp){ width="340" align=right }
+        ![Few of Sea Dogs](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Sea Dogs](../assets/units-cove-bronze-sea_dogs-pack.webp){ width="340" align=right }
+        ![Pack of Sea Dogs](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Sea Dogs](../assets/units-neutral-bronze-sea_dogs.webp){ width="340" align=right }
+        ![Neutral Sea Dogs](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 

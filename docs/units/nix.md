@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Nix](../assets/units-cove-golden-nix-few.webp){ width="340" align=right }
+        ![Few of Nix](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Nix](../assets/units-cove-golden-nix-pack.webp){ width="340" align=right }
+        ![Pack of Nix](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Nix](../assets/units-neutral-golden-nix.webp){ width="340" align=right }
+        ![Neutral Nix](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 

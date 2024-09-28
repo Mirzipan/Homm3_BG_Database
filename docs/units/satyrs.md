@@ -1,7 +1,7 @@
 # Satyrs
 
 <figure markdown="span">
-    ![Neutral Satyrs](../assets/units-neutral-silver-satyrs.webp){ width="340" align=right }
+    ![Neutral Satyrs](../assets/units-blank-silver.webp){ width="340" align=right }
 </figure>
 
 

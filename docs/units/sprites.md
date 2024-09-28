@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Sprites](../assets/units-conflux-bronze-sprites-few.webp){ width="340" align=right }
+        ![Few of Sprites](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Sprites](../assets/units-conflux-bronze-sprites-pack.webp){ width="340" align=right }
+        ![Pack of Sprites](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Sprites](../assets/units-neutral-bronze-sprites.webp){ width="340" align=right }
+        ![Neutral Sprites](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 

@@ -15,7 +15,7 @@
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Gold Dragons](../assets/units-neutral-golden-gold_dragons.webp){ width="340" align=right }
+        ![Neutral Gold Dragons](../assets/units-neutral-azure-gold_dragons.webp){ width="340" align=right }
     </figure>
 
 

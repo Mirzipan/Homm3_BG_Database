@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Behemoths](../assets/units-stronghold-golden-behemoths-few.webp){ width="340" align=right }
+        ![Few of Behemoths](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Behemoths](../assets/units-stronghold-golden-behemoths-pack.webp){ width="340" align=right }
+        ![Pack of Behemoths](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Behemoths](../assets/units-neutral-golden-behemoths.webp){ width="340" align=right }
+        ![Neutral Behemoths](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 

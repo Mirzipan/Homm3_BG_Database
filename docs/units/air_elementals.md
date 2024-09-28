@@ -3,13 +3,13 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Air Elementals](../assets/units-neutral-bronze-air_elementals-few.webp){ width="340" align=right }
+        ![Few of Air Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Air Elementals](../assets/units-neutral-bronze-air_elementals-pack.webp){ width="340" align=right }
+        ![Pack of Air Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 

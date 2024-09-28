@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Storm Elementals](../assets/units-conflux-bronze-storm_elementals-few.webp){ width="340" align=right }
+        ![Few of Storm Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Storm Elementals](../assets/units-conflux-bronze-storm_elementals-pack.webp){ width="340" align=right }
+        ![Pack of Storm Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Storm Elementals](../assets/units-neutral-bronze-storm_elementals.webp){ width="340" align=right }
+        ![Neutral Storm Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 

@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Seamen](../assets/units-cove-bronze-seamen-few.webp){ width="340" align=right }
+        ![Few of Seamen](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Seamen](../assets/units-cove-bronze-seamen-pack.webp){ width="340" align=right }
+        ![Pack of Seamen](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Seamen](../assets/units-neutral-bronze-seamen.webp){ width="340" align=right }
+        ![Neutral Seamen](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 

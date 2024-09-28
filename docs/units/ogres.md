@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Ogres](../assets/units-stronghold-silver-ogres-few.webp){ width="340" align=right }
+        ![Few of Ogres](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Ogres](../assets/units-stronghold-silver-ogres-pack.webp){ width="340" align=right }
+        ![Pack of Ogres](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Ogres](../assets/units-neutral-silver-ogres.webp){ width="340" align=right }
+        ![Neutral Ogres](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 

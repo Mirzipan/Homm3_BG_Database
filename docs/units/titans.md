@@ -15,7 +15,7 @@
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Titans](../assets/units-neutral-golden-titans.webp){ width="340" align=right }
+        ![Neutral Titans](../assets/units-neutral-azure-titans.webp){ width="340" align=right }
     </figure>
 
 

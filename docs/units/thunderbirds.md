@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Thunderbirds](../assets/units-stronghold-silver-thunderbirds-few.webp){ width="340" align=right }
+        ![Few of Thunderbirds](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Thunderbirds](../assets/units-stronghold-silver-thunderbirds-pack.webp){ width="340" align=right }
+        ![Pack of Thunderbirds](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Thunderbirds](../assets/units-neutral-silver-thunderbirds.webp){ width="340" align=right }
+        ![Neutral Thunderbirds](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 

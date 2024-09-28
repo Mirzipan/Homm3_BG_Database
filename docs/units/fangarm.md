@@ -1,7 +1,7 @@
 # Fangarm
 
 <figure markdown="span">
-    ![Neutral Fangarm](../assets/units-neutral-silver-fangarm.webp){ width="340" align=right }
+    ![Neutral Fangarm](../assets/units-blank-silver.webp){ width="340" align=right }
 </figure>
 
 

@@ -1,7 +1,7 @@
 # Leprechaun
 
 <figure markdown="span">
-    ![Neutral Leprechaun](../assets/units-neutral-bronze-leprechaun.webp){ width="340" align=right }
+    ![Neutral Leprechaun](../assets/units-blank-bronze.webp){ width="340" align=right }
 </figure>
 
 

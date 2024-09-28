@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Wolf Raiders](../assets/units-stronghold-bronze-wolf_raiders-few.webp){ width="340" align=right }
+        ![Few of Wolf Raiders](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Wolf Raiders](../assets/units-stronghold-bronze-wolf_raiders-pack.webp){ width="340" align=right }
+        ![Pack of Wolf Raiders](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Wolf Raiders](../assets/units-neutral-bronze-wolf_raiders.webp){ width="340" align=right }
+        ![Neutral Wolf Raiders](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 

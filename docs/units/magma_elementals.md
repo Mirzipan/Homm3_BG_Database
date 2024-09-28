@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Magma Elementals](../assets/units-conflux-silver-magma_elementals-few.webp){ width="340" align=right }
+        ![Few of Magma Elementals](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Magma Elementals](../assets/units-conflux-silver-magma_elementals-pack.webp){ width="340" align=right }
+        ![Pack of Magma Elementals](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Magma Elementals](../assets/units-neutral-silver-magma_elementals.webp){ width="340" align=right }
+        ![Neutral Magma Elementals](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 

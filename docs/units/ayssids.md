@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Ayssids](../assets/units-cove-silver-ayssids-few.webp){ width="340" align=right }
+        ![Few of Ayssids](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Ayssids](../assets/units-cove-silver-ayssids-pack.webp){ width="340" align=right }
+        ![Pack of Ayssids](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Ayssids](../assets/units-neutral-silver-ayssids.webp){ width="340" align=right }
+        ![Neutral Ayssids](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 

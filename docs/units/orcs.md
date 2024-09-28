@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Orcs](../assets/units-stronghold-bronze-orcs-few.webp){ width="340" align=right }
+        ![Few of Orcs](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Orcs](../assets/units-stronghold-bronze-orcs-pack.webp){ width="340" align=right }
+        ![Pack of Orcs](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Orcs](../assets/units-neutral-bronze-orcs.webp){ width="340" align=right }
+        ![Neutral Orcs](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 

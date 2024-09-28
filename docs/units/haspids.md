@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Haspids](../assets/units-cove-golden-haspids-few.webp){ width="340" align=right }
+        ![Few of Haspids](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Haspids](../assets/units-cove-golden-haspids-pack.webp){ width="340" align=right }
+        ![Pack of Haspids](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Haspids](../assets/units-neutral-golden-haspids.webp){ width="340" align=right }
+        ![Neutral Haspids](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 

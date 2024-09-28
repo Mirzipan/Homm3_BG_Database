@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Oceanids](../assets/units-cove-bronze-oceanids-few.webp){ width="340" align=right }
+        ![Few of Oceanids](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Oceanids](../assets/units-cove-bronze-oceanids-pack.webp){ width="340" align=right }
+        ![Pack of Oceanids](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Oceanids](../assets/units-neutral-bronze-oceanids.webp){ width="340" align=right }
+        ![Neutral Oceanids](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 

@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Ice Elementals](../assets/units-conflux-bronze-ice_elementals-few.webp){ width="340" align=right }
+        ![Few of Ice Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Ice Elementals](../assets/units-conflux-bronze-ice_elementals-pack.webp){ width="340" align=right }
+        ![Pack of Ice Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Ice Elementals](../assets/units-neutral-bronze-ice_elementals.webp){ width="340" align=right }
+        ![Neutral Ice Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 

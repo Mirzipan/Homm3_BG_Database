@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Sorceresses](../assets/units-cove-silver-sorceresses-few.webp){ width="340" align=right }
+        ![Few of Sorceresses](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Sorceresses](../assets/units-cove-silver-sorceresses-pack.webp){ width="340" align=right }
+        ![Pack of Sorceresses](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Sorceresses](../assets/units-neutral-silver-sorceresses.webp){ width="340" align=right }
+        ![Neutral Sorceresses](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 

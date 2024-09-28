@@ -1,7 +1,7 @@
 # Steel Golems
 
 <figure markdown="span">
-    ![Neutral Steel Golems](../assets/units-neutral-silver-steel_golems.webp){ width="340" align=right }
+    ![Neutral Steel Golems](../assets/units-blank-silver.webp){ width="340" align=right }
 </figure>
 
 

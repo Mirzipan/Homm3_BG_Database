@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Magic Elementals](../assets/units-conflux-golden-magic_elementals-few.webp){ width="340" align=right }
+        ![Few of Magic Elementals](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Magic Elementals](../assets/units-conflux-golden-magic_elementals-pack.webp){ width="340" align=right }
+        ![Pack of Magic Elementals](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Magic Elementals](../assets/units-neutral-golden-magic_elementals.webp){ width="340" align=right }
+        ![Neutral Magic Elementals](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 

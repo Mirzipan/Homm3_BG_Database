@@ -15,7 +15,7 @@
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Evil Eyes](../assets/units-neutral-bronze-evil_eyes.webp){ width="340" align=right }
+        ![Neutral Evil Eyes](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 

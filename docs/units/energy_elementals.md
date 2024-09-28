@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Energy Elementals](../assets/units-conflux-silver-energy_elementals-few.webp){ width="340" align=right }
+        ![Few of Energy Elementals](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Energy Elementals](../assets/units-conflux-silver-energy_elementals-pack.webp){ width="340" align=right }
+        ![Pack of Energy Elementals](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Energy Elementals](../assets/units-neutral-silver-energy_elementals.webp){ width="340" align=right }
+        ![Neutral Energy Elementals](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 

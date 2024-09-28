@@ -4,7 +4,7 @@ Ivor is a :might: Ranger hero that belongs to [Rampart](../towns/rampart.md), an
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 3 | 1 | 1 | [Offense](../abilities/offense.md) | [Elves](specialty) |
+| 1 | 3 | 1 | 1 | [Offense](../abilities/offense.md) | [Elves](#specialty) |
 
 
 ## Specialty

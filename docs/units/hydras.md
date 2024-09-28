@@ -15,7 +15,7 @@
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Hydras](../assets/units-neutral-golden-hydras.webp){ width="340" align=right }
+        ![Neutral Hydras](../assets/units-neutral-azure-hydras.webp){ width="340" align=right }
     </figure>
 
 
