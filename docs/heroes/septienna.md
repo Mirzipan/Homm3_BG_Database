@@ -9,7 +9,7 @@ Septienna is a :magic: Necromancer hero that belongs to [Necropolis](../towns/ne
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :activation: Enemy :bronze: units suffer 1 :damage:. |
 | Ⅳ | :activation: Enemy :silver: units suffer 1 :damage:. |

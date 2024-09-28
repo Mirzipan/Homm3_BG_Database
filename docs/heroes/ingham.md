@@ -9,7 +9,7 @@ Ingham is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), an
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | 🚧 |
 | Ⅳ | 🚧 |

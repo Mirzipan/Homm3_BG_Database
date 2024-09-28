@@ -9,7 +9,7 @@ Erdamon is a :might: Planeswalker hero that belongs to [Conflux](../towns/conflu
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | 🚧 |
 | Ⅳ | 🚧 |

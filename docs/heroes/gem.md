@@ -9,7 +9,7 @@ Gem is a :magic: Druid hero that belongs to [Rampart](../towns/rampart.md), and 
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Take a [First Aid Tent](../war_machines/first_aid_tent.md) card from the [War Machine](../war_machines/index.md) deck at no cost.<br><br>— OR —<br><br>:instant: If you already have a [First Aid Tent](../war_machines/first_aid_tent.md), draw 1 card. |
 | Ⅳ | :instant: Remove 2 :damage: from one of your [units](../units/index.md). |

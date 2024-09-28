@@ -9,9 +9,9 @@
 ___
 <p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Until the next Astrologers round, whenever a player is about to draw an [Event](../events/index.md) card, they deaw 2 cards instead of 1, choose 1 to resolve, and put the other at the bottom of the [Event](../events/index.md) deck.</p>
+<p style="text-align: center;" markdown>Until the next Astrologers round, whenever a player is about to draw an [Event](../events/index.md) card, they draw 2 cards instead of 1, choose 1 to resolve, and put the other at the bottom of the [Event](../events/index.md) deck.</p>
 ___
-<p style="text-align: center;" markdown>*As I walk through the lands of the shadow of death<br>I look back at my deeds and realize there's not much left<br>You better watcha 'what you're talkin', and where you're walkin'<br>Or you and your army might be covered with Rust Dragon's spit.*</p>
+<p style="text-align: center;" markdown>*As I walk through the lands of the shadow of death<br>I look back at my deeds and realize there's not much left<br>You better watcha' what you're talkin', and where you're walkin'<br>Or you and your army might be covered with Rust Dragon's spit.*</p>
 ___
 
 

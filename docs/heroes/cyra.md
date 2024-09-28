@@ -9,7 +9,7 @@ Cyra is a :magic: Wizard hero that belongs to [Tower](../towns/tower.md), and co
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1. |
 | Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2. |

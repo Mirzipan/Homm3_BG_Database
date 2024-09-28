@@ -1,6 +1,6 @@
 # List of Statistics
 
-To learn about statistics of a specifiec hero, see [heroes](../heroes/index.md).
+To learn about statistics of a specific hero, see [heroes](../heroes/index.md).
 
 | Name | Effect | :expert: Effect |
 | :--- | :--- | :--- |
@@ -10,5 +10,5 @@ To learn about statistics of a specifiec hero, see [heroes](../heroes/index.md).
 | [Empowered Defense](defense.md) | :instant: +2 :defense: | - |
 | [Power](power.md) | :instant: +1 :empower: | :instant: +2 :empower: |
 | [Empowered Power](power.md) | :instant: +2 :empower: | - |
-| [Knowledge](knowledge.md) | :instant: Play this card after casting a [spell](../spells/index.md). Instread of discarding the [Spell](../spells/index.md) card, take it back to your hand. | :instant: Play this card after casting a [spell](../spells/index.md). Instread of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. |
-| [Empowered Knowledge](knowledge.md) | :instant: Play this card after casting a [spell](../spells/index.md). Instread of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. | - |
+| [Knowledge](knowledge.md) | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. |
+| [Empowered Knowledge](knowledge.md) | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. | - |

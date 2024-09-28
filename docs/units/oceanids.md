@@ -29,7 +29,7 @@
 | :health_points: | 3 | **4** | 🚧 |
 | :initiative: | 6 | **8** | 🚧 |
 | Cost | 2 :gold: | 3 :gold: | 🚧 |
-| Abilities | - | :unit_passive: Ignore any effect from spells from the [School of Water Magic](../spells/school_of_water_magic.md. | 🚧 |
+| Abilities | - | :unit_passive: Ignore any effect from spells from the [School of Water Magic](../spells/school_of_water_magic.md). | 🚧 |
 
 
 ## Comes With

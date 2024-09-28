@@ -9,7 +9,7 @@ Melodia is a :magic: Druid hero that belongs to [Rampart](../towns/rampart.md), 
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Gain :morale_positive:. |
 | Ⅳ | :instant: Use this after any roll. You can reroll the [dice](../dice.md). |

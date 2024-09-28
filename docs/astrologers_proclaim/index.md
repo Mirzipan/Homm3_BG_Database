@@ -1,6 +1,6 @@
 # Astrologers Proclaim
 
-All of the cards start with a prefix of 'Astrologers proclaim week of the'. In the interest of readibility, this prefix has been removed from the names in the following table.
+All of the cards start with a prefix of 'Astrologers proclaim week of the'. In the interest of readability, this prefix has been removed from the names in the following table.
 
 | Name | Effect | [Content](../content.md) |
 | :--- | :---: | :--- |
@@ -16,7 +16,7 @@ All of the cards start with a prefix of 'Astrologers proclaim week of the'. In t
 | [Explorers](explorers.md) | During this round, players do not draw cards at the start of their turns. Instead, each player draws cards up their :hand:. Then, each of them may discard any number of cards. For every 3 cards discarded this way, they can Remove one [Statistic](../statistics/index.md) card and replace it with an [Empowered Statistic](../statistics/index.md) card of the same type. | Inferno |
 | [Fancy Pixie](fancy_pixie.md) | Each player immediately gains 1 :morale_positive: | Core |
 | [Fluffy Rabbit](fluffy_rabbit.md) | Each player immediately rolls 1 [Treasure die](../dice.md#treasure-die) and gains the rolled bonus. | Core |
-| [Forty Thieves](forty_thieves.md) | Until the next Astrologers round, whenever a player is about to draw an [Event](../events/index.md) card, they deaw 2 cards instead of 1, choose 1 to resolve, and put the other at the bottom of the [Event](../events/index.md) deck. | Fortress |
+| [Forty Thieves](forty_thieves.md) | Until the next Astrologers round, whenever a player is about to draw an [Event](../events/index.md) card, they draw 2 cards instead of 1, choose 1 to resolve, and put the other at the bottom of the [Event](../events/index.md) deck. | Fortress |
 | [Friendly Beaver](friendly_beaver.md) | If you draw this card on the first Astrologers' round, discard it and draw another card.<br><br>Immediately remove all Black cubes from all locations on the map. | Core |
 | [Gold Dragon](gold_dragon.md) | At the beginning of the next Resource round, all players gain 5 :gold:. | Core |
 | [Greedy Dragon](greedy_dragon.md) | At the beginning of the next Resource round, all players gain 1 less :valuables:, down to a minimum of 0. | Core |
@@ -24,7 +24,7 @@ All of the cards start with a prefix of 'Astrologers proclaim week of the'. In t
 | [Groovy Satyr](groovy_satyr.md) | Until the next Astrologers' round:<br><br>Whenever you trigger Combat with any [Neutral Units](../units/index.md), you may choose a [Neutral Unit](../units/index.md) card to discard and draw another card of the same tier instead. | Core |
 | [Hero](hero.md) | Each player can :pay: 4 :gold: to Remove a [Statistic](../statistics/index.md) card from their hand and replace it with an [Empowered Statistic](../statistics/index.md) card of the same type. Each player may do so twice, but both exchanges must be made on the same turn. Once a player makes the exchange, they place their faction cube on this card to mark the fact. | Inferno |
 | [Isra's Friends](isras_friends.md) | Each player can immediately **Reinforce** a [unit](../units/index.md) on the "Few" side at half the cost. | Core |
-| [Magic Tortoise](magic_tortoise.md) | Unitil the next Astrologer's round:<br><br>Each [Hero](../heroes/index.md) suffers -1 Movement. | Core |
+| [Magic Tortoise](magic_tortoise.md) | Until the next Astrologer's round:<br><br>Each [Hero](../heroes/index.md) suffers -1 Movement. | Core |
 | [McGiver](mcgiver.md) | At the beginning of the next round, each player can take 1 [War Machine](../war_machines/index.md) of their choice from the [War Machines](../war_machines/index.md) deck at not cost. | Rampart |
 | [Merry Leprechaun](merry_leprechaun.md) | At the beginning of the next Resource round, all players gain 1 :valuables:. | Core |
 | [Plane Between Planes](plane_between_planes.md) | Each player can immediately Remove up to 2 cards from their hand or from their discard pile. | Fortress |
@@ -33,7 +33,7 @@ All of the cards start with a prefix of 'Astrologers proclaim week of the'. In t
 | [Society](society.md) | Each player gains :morale_negative:. | Tower |
 | [Swift Weasel](swift_weasel.md) | Until the next Astrologer's round:<br><br>Once per turn, each player can reroll a [Treasure die](../dice.md#treasure-die) or a [Resource die](../dice.md#resource-die). | Core |
 | [Terrible Plague](terrible_plague.md) | All players flip one of their [units](../units/index.md) from the "Pack" to the "Few" side, if possible. | Core |
-| [Unexpected Reinforcements](unexpected_reinforcements.md) | Each player can immediately search the [Neutral Units](../units/index.md) deck and **Recruite** 1 chosen unit associated with their faction for free. Each player still needs to have the corresponding [dwelling](../towns/index.md) built in their [town](../towns/index.md). | Tower |
+| [Unexpected Reinforcements](unexpected_reinforcements.md) | Each player can immediately search the [Neutral Units](../units/index.md) deck and **Recruit** 1 chosen unit associated with their faction for free. Each player still needs to have the corresponding [dwelling](../towns/index.md) built in their [town](../towns/index.md). | Tower |
 | [White Raven](white_raven.md) | Each player immediately rolls 1 [Resource die](../dice.md#resource-die) and gains the rolled resources. | Core |
 | [Wild Debauchery](wild_debauchery.md) | At the beginning of the next Resource round, all players gain 5 less :gold:. | Core |
 

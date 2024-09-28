@@ -9,7 +9,7 @@ Jeremy is a :might: Captain hero that belongs to [Cove](../towns/cove.md), and c
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | 🚧 |
 | Ⅳ | 🚧 |

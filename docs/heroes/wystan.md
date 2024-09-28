@@ -9,7 +9,7 @@ Wystan is a :might: Beastmaster hero that belongs to [Fortress](../towns/fortres
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Lizardmen unit](../units/lizardmen.md). |
 | Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Lizardmen unit](../units/lizardmen.md). |

@@ -9,7 +9,7 @@ Ivor is a :might: Ranger hero that belongs to [Rampart](../towns/rampart.md), an
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Change your next Attack roll to "0". |
 | Ⅳ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Ranged unit](../units/index.md). |

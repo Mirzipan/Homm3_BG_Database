@@ -9,7 +9,7 @@ Lorelei is a :might: Overlord hero that belongs to [Dungeon](../towns/dungeon.md
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Harpies unit](../units/harpies.md). |
 | Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Harpies unit](../units/harpies.md). |

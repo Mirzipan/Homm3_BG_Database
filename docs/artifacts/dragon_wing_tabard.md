@@ -6,7 +6,7 @@ ___
 ___
 <p style="text-align: center;" markdown>:instant: Discard 1 random card from the enemy's hand.<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
-<p style="text-align: center;" markdown>*Ridding the countryside of the hideous Dragon who made a sport of eatig noblemen's Knights, you are honored with the Dragon Wing Tabard.*</p>
+<p style="text-align: center;" markdown>*Ridding the countryside of the hideous Dragon who made a sport of eating noblemen's Knights, you are honored with the Dragon Wing Tabard.*</p>
 
 
 ## Comes With

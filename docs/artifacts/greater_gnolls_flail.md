@@ -6,7 +6,7 @@ ___
 ___
 <p style="text-align: center;" markdown>:instant: +2 :attack:<br>:ongoing: Until the end of the Combat, this [unit](../units/index.md) suffers -1 :defense: (to a minimum of 0).<br><br>— OR —<br><br>:instant: +1 :attack:</p>
 ___
-<p style="text-align: center;" markdown>*A clumsy Gnoll has killed himself with his own flail. Knowing your superior skill with this weapon, you confidently remvoe the spectacular flail from the falled creature.*</p>
+<p style="text-align: center;" markdown>*A clumsy Gnoll has killed himself with his own flail. Knowing your superior skill with this weapon, you confidently remove the spectacular flail from the fallen creature.*</p>
 
 
 ## Comes With

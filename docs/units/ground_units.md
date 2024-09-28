@@ -46,5 +46,5 @@
 - :golden: [Titans](titans.md)
 - :golden: [Trolls](trolls.md)
 - :golden: [Unicorns](unicorns.md)
-- :azure: [Cystral Dragons](cystral_dragons.md)
+- :azure: [Crystal Dragons](crystal_dragons.md)
 - :azure: [Hydras](hydras.md)

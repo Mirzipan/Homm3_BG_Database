@@ -6,7 +6,7 @@ ___
 ___
 <p style="text-align: center;" markdown>:instant: Draw 1 card and gain +1 :attack:.<br><br>— OR —<br><br>:instant: Draw 1 card and gain +1 :defense:.</p>
 ___
-<p style="text-align: center;" markdown>*A gang of Rogues is sifting through the possessions of some dead warriors. Scaring off the scavengers, you notice the Rogues had overlooked a dirty, but servicable, breastplate.*</p>
+<p style="text-align: center;" markdown>*A gang of Rogues is sifting through the possessions of some dead warriors. Scaring off the scavengers, you notice the Rogues had overlooked a dirty, but serviceable, breastplate.*</p>
 
 
 ## Comes With

@@ -9,7 +9,7 @@ Rashka is a :might: Demoniac hero that belongs to [Inferno](../towns/inferno.md)
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Efreet unit](../units/efreet.md). |
 | Ⅳ | :ongoing: Until the end of Combat, when your selected [unit](../units/index.md) is attacked by a :unit_ground: or :unit_flying: [unit](../units/index.md), the attacker takes 1 :damage:. |

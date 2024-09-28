@@ -9,7 +9,7 @@ Tarnum is a :magic: Elementalist hero that belongs to [Conflux](../towns/conflux
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | 🚧 |
 | Ⅳ | 🚧 |

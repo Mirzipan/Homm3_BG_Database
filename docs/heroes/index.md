@@ -20,7 +20,7 @@
 | [Jeddite](jeddite.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Sorcery](../abilities/sorcery.md) | [Mysterious Warlock](jeddite.md#specialty) | Tower |
 | [Lorelei](lorelei.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Scouting](../abilities/scouting.md) | [Harpies](lorelei.md#specialty) | Regular Stretch Goals |
 | [Mutare](mutare.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Tactics](../abilities/tactics.md) | [Dragons](mutare.md#specialty) | Core |
-| [Sephinroth](sephinroth.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Intelligence](../abilities/intelligence.md) | [Valueables](jeddite.md#specialty) | Regular Stretch Goals |
+| [Sephinroth](sephinroth.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Intelligence](../abilities/intelligence.md) | [Valuables](sephinroth.md#specialty) | Regular Stretch Goals |
 | [Cyra](cyra.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Diplomacy](../abilities/diplomacy.md) | [Haste](cyra.md#specialty) | Regular Stretch Goals |
 | [Dracon](dracon.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Wisdom](../abilities/wisdom.md) | [Enchanters](dracon.md#specialty) | Tower |
 | [Iona](iona.md) | [Tower](../towns/tower.md) | :might: Alchemist | [Intelligence](../abilities/intelligence.md) | [Genies](iona.md#specialty) | Tower |

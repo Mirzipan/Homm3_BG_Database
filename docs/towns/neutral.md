@@ -24,7 +24,7 @@ This list excludes the neutral units that have a town variant.
 - :golden: [Gold Golems](../units/gold_golems.md)
 - :golden: [Trolls](../units/trolls.md)
 - :azure: [Azure Dragons](../units/azure_dragons.md)
-- :azure: [Cystral Dragons](../units/cystral_dragons.md)
+- :azure: [Crystal Dragons](../units/crystal_dragons.md)
 - :azure: [Faerie Dragons](../units/faerie_dragons.md)
 - :azure: [Rust Dragons](../units/rust_dragons.md)
 

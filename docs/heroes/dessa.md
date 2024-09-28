@@ -9,7 +9,7 @@ Dessa is a :magic: Battle Mage hero that belongs to [Stronghold](../towns/strong
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Extend your Combat for another round. |
 | Ⅳ | :effect_map: Gain 1 :movement:. |

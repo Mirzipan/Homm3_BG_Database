@@ -9,7 +9,7 @@ Luna is a :magic: Elementalist hero that belongs to [Conflux](../towns/conflux.m
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :ongoing: For this Combat, place this card in an empty space on the Combat board. Deal 1 :damage: to any [unit](../units/index.md) stopping here and to any :unit_ground: or :unit_ranged: [unit](../units/index.md) passing through. |
 | Ⅳ | 🚧 |

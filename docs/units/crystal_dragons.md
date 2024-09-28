@@ -1,7 +1,7 @@
-# Cystral Dragons
+# Crystal Dragons
 
 <figure markdown="span">
-    ![Neutral Cystral Dragons](../assets/units-blank-azure.webp){ width="340" align=right }
+    ![Neutral Crystal Dragons](../assets/units-blank-azure.webp){ width="340" align=right }
 </figure>
 
 

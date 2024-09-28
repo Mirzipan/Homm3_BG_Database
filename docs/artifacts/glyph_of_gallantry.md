@@ -6,7 +6,7 @@ ___
 ___
 <p style="text-align: center;" markdown>:instant: Gain a :morale_positive: token.<br><br>— OR —<br><br>:instant: +1 :defense:</p>
 ___
-<p style="text-align: center;" markdown>*Ridding the countryside of the hideous Minotaur who made a sport of eatig noblemen's Knights, you are honored with the Glyph of Gallantry.*</p>
+<p style="text-align: center;" markdown>*Ridding the countryside of the hideous Minotaur who made a sport of eating noblemen's Knights, you are honored with the Glyph of Gallantry.*</p>
 
 
 ## Comes With

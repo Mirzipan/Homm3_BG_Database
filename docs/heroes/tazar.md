@@ -9,7 +9,7 @@ Tazar is a :might: Beastmaster hero that belongs to [Fortress](../towns/fortress
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: +2 :defense: |
 | Ⅳ | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :defense:. |

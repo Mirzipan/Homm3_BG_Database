@@ -9,7 +9,7 @@ Lord Haart is a :might: Knight hero that belongs to [Castle](../towns/castle.md)
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Gain 2 :gold:. |
 | Ⅳ | :instant: Gain 3 :gold:. |

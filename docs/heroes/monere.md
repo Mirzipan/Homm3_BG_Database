@@ -9,7 +9,7 @@ Monere is a :might: Planeswalker hero that belongs to [Conflux](../towns/conflux
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | 🚧 |
 | Ⅳ | 🚧 |

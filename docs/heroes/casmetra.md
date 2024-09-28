@@ -9,7 +9,7 @@ Casmetra is a :magic: Navigator hero that belongs to [Cove](../towns/cove.md), a
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | 🚧 |
 | Ⅳ | 🚧 |

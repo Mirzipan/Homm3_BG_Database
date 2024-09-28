@@ -9,7 +9,7 @@ Gundula is a :magic: Battle Mage hero that belongs to [Stronghold](../towns/stro
 
 ## Specialty
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is decreased by 1. |
 | Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is decreased by 2. |
