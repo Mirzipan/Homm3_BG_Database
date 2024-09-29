@@ -21,6 +21,11 @@ Jeddite is a :magic: Warlock hero that belongs to [Dungeon](../towns/dungeon.md)
 - The specialty can be improved by spell power, just like a regular spell.
 
 
+## Comes With
+
+- [Tower Expansion](../content.md)
+
+
 ## See Also
 
 - [List of Heroes](index.md)

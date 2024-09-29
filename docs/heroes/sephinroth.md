@@ -21,6 +21,11 @@ Sephinroth is a :magic: Warlock hero that belongs to [Dungeon](../towns/dungeon.
 - The specialty can be improved by spell power, just like a regular spell.
 
 
+## Comes With
+
+- [Regular Stretch Goals](../content.md)
+
+
 ## See Also
 
 - [List of Heroes](index.md)

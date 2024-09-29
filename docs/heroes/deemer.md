@@ -22,6 +22,11 @@ Deemer is a :magic: Warlock hero that belongs to [Dungeon](../towns/dungeon.md),
 - The damage from Meteor Shower can also be dealt to friendly units.
 
 
+## Comes With
+
+- [Tower Expansion](../content.md)
+
+
 ## See Also
 
 - [List of Heroes](index.md)

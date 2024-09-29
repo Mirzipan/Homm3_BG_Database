@@ -21,6 +21,11 @@ Alamar is a :magic: Warlock hero that belongs to [Dungeon](../towns/dungeon.md),
 - The specialty can be improved by spell power, just like a regular spell.
 
 
+## Comes With
+
+- [Core Game](../content.md)
+
+
 ## See Also
 
 - [List of Heroes](index.md)

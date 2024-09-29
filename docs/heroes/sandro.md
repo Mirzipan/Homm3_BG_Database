@@ -23,6 +23,11 @@ Sandro is a :magic: Necromancer hero that belongs to [Necropolis](../towns/necro
 - Cloak of the Undead King Ⅵ - any amount of Skeletons may be upgraded to a "Legion". If the Skeletons are upgraded to a "Legion", they may be further upgraded to a "Pack" or a "Horde", but the "Legion" stays on top and its statistics are applied until defeated.
 
 
+## Comes With
+
+- [Core Game](../content.md)
+
+
 ## See Also
 
 - [List of Heroes](index.md)

@@ -21,6 +21,11 @@ Adelaide is a :magic: Cleric hero that belongs to [Castle](../towns/castle.md), 
 - The :damage: of Frost Ring also applies to friendly units.
 
 
+## Comes With
+
+- [Tower Expansion](../content.md)
+
+
 ## See Also
 
 - [List of Heroes](index.md)
