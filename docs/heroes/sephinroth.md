@@ -41,14 +41,14 @@ ___
 | Ⅵ | :effect_map: Gain 2 :valuables: or 6 :gold:. |
 
 
-## Comes With
-
-- [Regular Stretch Goals](../content.md)
-
-
 ## Notes
 
 - The specialty can be improved by spell power, just like a regular spell.
+
+
+## Comes With
+
+- [Regular Stretch Goals](../content.md)
 
 
 ## See Also

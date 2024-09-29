@@ -41,14 +41,14 @@ ___
 | Ⅵ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \*:bronze:<br>:empower: 0 - \*:silver:<br>:empower: 2 - \*:golden: |
 
 
-## Comes With
-
-- [Core Game](../content.md)
-
-
 ## Notes
 
 - The specialty can be improved by spell power, just like a regular spell.
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

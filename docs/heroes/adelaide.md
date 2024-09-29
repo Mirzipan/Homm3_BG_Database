@@ -41,14 +41,14 @@ ___
 | Ⅵ | :instant: Discard 2 cards. Target a space on the Combat board. All [units](../units/index.md) adjacent to this space suffer 2 :damage:. |
 
 
-## Comes With
-
-- [Tower Expansion](../content.md)
-
-
 ## Notes
 
 - The :damage: of Frost Ring also applies to friendly units.
+
+
+## Comes With
+
+- [Tower Expansion](../content.md)
 
 
 ## See Also

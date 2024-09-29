@@ -41,14 +41,14 @@ ___
 | Ⅵ | :instant: Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
 
 
-## Comes With
-
-- [Tower Expansion](../content.md)
-
-
 ## Notes
 
 - The specialty can be improved by spell power, just like a regular spell.
+
+
+## Comes With
+
+- [Tower Expansion](../content.md)
 
 
 ## See Also

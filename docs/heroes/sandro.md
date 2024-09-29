@@ -41,16 +41,16 @@ ___
 | Ⅵ | Put this card on the [Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Legion of Skeletons**<br>:attack: 4 :defense: 1 :health_points: 2 :initiative: 6 |
 
 
-## Comes With
-
-- [Core Game](../content.md)
-
-
 ## Notes
 
 - Cloak of the Undead King Ⅰ and Ⅳ - this can only be played on a pack of Skeletons or Zombies, adding another amount to them, named "Horde".
 - Cloak of the Undead King Ⅳ - the abilities of the Pack of Zombies become inactive if they are upgraded to a "Horde". Once the "Horde" is defeated and they become a "Pack" again, their abilities function as usual.
 - Cloak of the Undead King Ⅵ - any amount of Skeletons may be upgraded to a "Legion". If the Skeletons are upgraded to a "Legion", they may be further upgraded to a "Pack" or a "Horde", but the "Legion" stays on top and its statistics are applied until defeated.
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also
