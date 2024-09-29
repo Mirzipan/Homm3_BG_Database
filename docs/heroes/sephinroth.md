@@ -1,19 +1,49 @@
 # Sephinroth
 
-Sephinroth is a :magic: Warlock hero that belongs to [Dungeon](../towns/dungeon.md), and comes with the [Regular Stretch Goals](../content.md).
+___
+<p style="text-align: center;" markdown>[:magic: Warlock](index.md)</p>
+___
+<p style="text-align: center;" markdown>[Dungeon](../towns/dungeon.md)</p>
+___
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
 | 0 | 0 | 3 | 2 | [Intelligence](../abilities/intelligence.md) | [Valueables](#specialty) |
 
+___
+
 
 ## Specialty
+
+=== "Valueables Ⅰ"
+
+    <figure markdown="span">
+        ![Valueables Ⅰ](../assets/hero_specialties-dungeon-sephinroth-1.webp){ width="340" align=right }
+    </figure>
+
+=== "Valueables Ⅳ"
+
+    <figure markdown="span">
+        ![Valueables Ⅳ](../assets/hero_specialties-dungeon-sephinroth-4.webp){ width="340" align=right }
+    </figure>
+
+=== "Valueables Ⅵ"
+
+    <figure markdown="span">
+        ![Valueables Ⅵ](../assets/hero_specialties-dungeon-sephinroth-7.webp){ width="340" align=right }
+    </figure>
+
 
 | Level | Descrition |
 | :---: | :---: |
 | Ⅰ | :effect_map: Pay 2 :gold: to gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card. |
 | Ⅳ | :effect_map: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card. |
 | Ⅵ | :effect_map: Gain 2 :valuables: or 6 :gold:. |
+
+
+## Comes With
+
+- [Regular Stretch Goals](../content.md)
 
 
 ## Notes

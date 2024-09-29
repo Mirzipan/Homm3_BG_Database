@@ -1,19 +1,49 @@
 # Sandro
 
-Sandro is a :magic: Necromancer hero that belongs to [Necropolis](../towns/necropolis.md), and comes with the [Core Game](../content.md).
+___
+<p style="text-align: center;" markdown>[:magic: Necromancer](index.md)</p>
+___
+<p style="text-align: center;" markdown>[Necropolis](../towns/necropolis.md)</p>
+___
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
 | 1 | 0 | 2 | 2 | [Sorcery](../abilities/sorcery.md) | [Cloak of the Undead King](#specialty) |
 
+___
+
 
 ## Specialty
+
+=== "Cloak of the Undead King Ⅰ"
+
+    <figure markdown="span">
+        ![Cloak of the Undead King Ⅰ](../assets/hero_specialties-necropolis-sandro-1.webp){ width="340" align=right }
+    </figure>
+
+=== "Cloak of the Undead King Ⅳ"
+
+    <figure markdown="span">
+        ![Cloak of the Undead King Ⅳ](../assets/hero_specialties-necropolis-sandro-4.webp){ width="340" align=right }
+    </figure>
+
+=== "Cloak of the Undead King Ⅵ"
+
+    <figure markdown="span">
+        ![Cloak of the Undead King Ⅵ](../assets/hero_specialties-necropolis-sandro-7.webp){ width="340" align=right }
+    </figure>
+
 
 | Level | Descrition |
 | :---: | :---: |
 | Ⅰ | Put this card on the [Pack of Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack: 3 :defense: 1 :health_points: 2 :initiative: 6 |
 | Ⅳ | Put this card on the [Pack of Zombies Unit](../units/zombies.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Zombies**<br>:attack: 4 :defense: 1 :health_points: 3 :initiative: 5 |
 | Ⅵ | Put this card on the [Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Legion of Skeletons**<br>:attack: 4 :defense: 1 :health_points: 2 :initiative: 6 |
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## Notes

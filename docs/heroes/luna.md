@@ -1,19 +1,49 @@
 # Luna
 
-Luna is a :magic: Elementalist hero that belongs to [Conflux](../towns/conflux.md), and comes with the [Conflux Expansion](../content.md).
+___
+<p style="text-align: center;" markdown>[:magic: Elementalist](index.md)</p>
+___
+<p style="text-align: center;" markdown>[Conflux](../towns/conflux.md)</p>
+___
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
 | 0 | 0 | 2 | 3 | [Fire Magic](../abilities/fire_magic.md) | [Fire Wall](#specialty) |
 
+___
+
 
 ## Specialty
+
+=== "Fire Wall Ⅰ"
+
+    <figure markdown="span">
+        ![Fire Wall Ⅰ](../assets/hero_specialties-conflux-luna-1.webp){ width="340" align=right }
+    </figure>
+
+=== "Fire Wall Ⅳ"
+
+    <figure markdown="span">
+        ![Fire Wall Ⅳ](../assets/hero_specialties-conflux-luna-4.webp){ width="340" align=right }
+    </figure>
+
+=== "Fire Wall Ⅵ"
+
+    <figure markdown="span">
+        ![Fire Wall Ⅵ](../assets/hero_specialties-conflux-luna-7.webp){ width="340" align=right }
+    </figure>
+
 
 | Level | Descrition |
 | :---: | :---: |
 | Ⅰ | :ongoing: For this Combat, place this card in an empty space on the Combat board. Deal 1 :damage: to any [unit](../units/index.md) stopping here and to any :unit_ground: or :unit_ranged: [unit](../units/index.md) passing through. |
 | Ⅳ | 🚧 |
 | Ⅵ | 🚧 |
+
+
+## Comes With
+
+- [Conflux Expansion](../content.md)
 
 
 ## See Also

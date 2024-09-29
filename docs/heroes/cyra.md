@@ -1,19 +1,49 @@
 # Cyra
 
-Cyra is a :magic: Wizard hero that belongs to [Tower](../towns/tower.md), and comes with the [Tower Expansion](../content.md).
+___
+<p style="text-align: center;" markdown>[:magic: Wizard](index.md)</p>
+___
+<p style="text-align: center;" markdown>[Tower](../towns/tower.md)</p>
+___
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
 | 0 | 0 | 2 | 3 | [Diplomacy](../abilities/diplomacy.md) | [Haste](#specialty) |
 
+___
+
 
 ## Specialty
+
+=== "Haste Ⅰ"
+
+    <figure markdown="span">
+        ![Haste Ⅰ](../assets/hero_specialties-tower-cyra-1.webp){ width="340" align=right }
+    </figure>
+
+=== "Haste Ⅳ"
+
+    <figure markdown="span">
+        ![Haste Ⅳ](../assets/hero_specialties-tower-cyra-4.webp){ width="340" align=right }
+    </figure>
+
+=== "Haste Ⅵ"
+
+    <figure markdown="span">
+        ![Haste Ⅵ](../assets/hero_specialties-tower-cyra-7.webp){ width="340" align=right }
+    </figure>
+
 
 | Level | Descrition |
 | :---: | :---: |
 | Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1. |
 | Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2. |
 | Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 3. |
+
+
+## Comes With
+
+- [Tower Expansion](../content.md)
 
 
 ## See Also

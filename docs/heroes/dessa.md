@@ -1,19 +1,49 @@
 # Dessa
 
-Dessa is a :magic: Battle Mage hero that belongs to [Stronghold](../towns/stronghold.md), and comes with the [Regular Stretch Goals](../content.md).
+___
+<p style="text-align: center;" markdown>[:magic: Battle Mage](index.md)</p>
+___
+<p style="text-align: center;" markdown>[Stronghold](../towns/stronghold.md)</p>
+___
 
 | [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
 | :---: | :---: | :---: | :---: | :--- | :--- |
 | 2 | 1 | 1 | 1 | [Logistics](../abilities/logistics.md) | [Logistics](#specialty) |
 
+___
+
 
 ## Specialty
+
+=== "Logistics Ⅰ"
+
+    <figure markdown="span">
+        ![Logistics Ⅰ](../assets/hero_specialties-stronghold-dessa-1.webp){ width="340" align=right }
+    </figure>
+
+=== "Logistics Ⅳ"
+
+    <figure markdown="span">
+        ![Logistics Ⅳ](../assets/hero_specialties-stronghold-dessa-4.webp){ width="340" align=right }
+    </figure>
+
+=== "Logistics Ⅵ"
+
+    <figure markdown="span">
+        ![Logistics Ⅵ](../assets/hero_specialties-stronghold-dessa-7.webp){ width="340" align=right }
+    </figure>
+
 
 | Level | Descrition |
 | :---: | :---: |
 | Ⅰ | :instant: Extend your Combat for another round. |
 | Ⅳ | :effect_map: Gain 1 :movement:. |
 | Ⅵ | 🚧 |
+
+
+## Comes With
+
+- [Regular Stretch Goals](../content.md)
 
 
 ## See Also
