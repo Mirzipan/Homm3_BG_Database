@@ -18,19 +18,19 @@ ___
 === "Zealots Ⅰ"
 
     <figure markdown="span">
-        ![Zealots Ⅰ](../assets/hero_specialties-castle-ingham-1.webp){ width="340" align=right }
+        ![Zealots Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Zealots Ⅳ"
 
     <figure markdown="span">
-        ![Zealots Ⅳ](../assets/hero_specialties-castle-ingham-4.webp){ width="340" align=right }
+        ![Zealots Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Zealots Ⅵ"
 
     <figure markdown="span">
-        ![Zealots Ⅵ](../assets/hero_specialties-castle-ingham-7.webp){ width="340" align=right }
+        ![Zealots Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

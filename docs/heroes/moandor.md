@@ -18,19 +18,19 @@ ___
 === "Liches Ⅰ"
 
     <figure markdown="span">
-        ![Liches Ⅰ](../assets/hero_specialties-necropolis-moandor-1.webp){ width="340" align=right }
+        ![Liches Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Liches Ⅳ"
 
     <figure markdown="span">
-        ![Liches Ⅳ](../assets/hero_specialties-necropolis-moandor-4.webp){ width="340" align=right }
+        ![Liches Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Liches Ⅵ"
 
     <figure markdown="span">
-        ![Liches Ⅵ](../assets/hero_specialties-necropolis-moandor-7.webp){ width="340" align=right }
+        ![Liches Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

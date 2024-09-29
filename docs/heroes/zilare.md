@@ -18,19 +18,19 @@ ___
 === "Forgetfulness Ⅰ"
 
     <figure markdown="span">
-        ![Forgetfulness Ⅰ](../assets/hero_specialties-cove-zilare-1.webp){ width="340" align=right }
+        ![Forgetfulness Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Forgetfulness Ⅳ"
 
     <figure markdown="span">
-        ![Forgetfulness Ⅳ](../assets/hero_specialties-cove-zilare-4.webp){ width="340" align=right }
+        ![Forgetfulness Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Forgetfulness Ⅵ"
 
     <figure markdown="span">
-        ![Forgetfulness Ⅵ](../assets/hero_specialties-cove-zilare-7.webp){ width="340" align=right }
+        ![Forgetfulness Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

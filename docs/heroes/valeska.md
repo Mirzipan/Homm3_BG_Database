@@ -18,19 +18,19 @@ ___
 === "Marksmen Ⅰ"
 
     <figure markdown="span">
-        ![Marksmen Ⅰ](../assets/hero_specialties-castle-valeska-1.webp){ width="340" align=right }
+        ![Marksmen Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Marksmen Ⅳ"
 
     <figure markdown="span">
-        ![Marksmen Ⅳ](../assets/hero_specialties-castle-valeska-4.webp){ width="340" align=right }
+        ![Marksmen Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Marksmen Ⅵ"
 
     <figure markdown="span">
-        ![Marksmen Ⅵ](../assets/hero_specialties-castle-valeska-7.webp){ width="340" align=right }
+        ![Marksmen Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

@@ -18,19 +18,19 @@ ___
 === "Oceanids Ⅰ"
 
     <figure markdown="span">
-        ![Oceanids Ⅰ](../assets/hero_specialties-cove-cassiopeia-1.webp){ width="340" align=right }
+        ![Oceanids Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Oceanids Ⅳ"
 
     <figure markdown="span">
-        ![Oceanids Ⅳ](../assets/hero_specialties-cove-cassiopeia-4.webp){ width="340" align=right }
+        ![Oceanids Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Oceanids Ⅵ"
 
     <figure markdown="span">
-        ![Oceanids Ⅵ](../assets/hero_specialties-cove-cassiopeia-7.webp){ width="340" align=right }
+        ![Oceanids Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

@@ -18,19 +18,19 @@ ___
 === "Harpies Ⅰ"
 
     <figure markdown="span">
-        ![Harpies Ⅰ](../assets/hero_specialties-dungeon-lorelei-1.webp){ width="340" align=right }
+        ![Harpies Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Harpies Ⅳ"
 
     <figure markdown="span">
-        ![Harpies Ⅳ](../assets/hero_specialties-dungeon-lorelei-4.webp){ width="340" align=right }
+        ![Harpies Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Harpies Ⅵ"
 
     <figure markdown="span">
-        ![Harpies Ⅵ](../assets/hero_specialties-dungeon-lorelei-7.webp){ width="340" align=right }
+        ![Harpies Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

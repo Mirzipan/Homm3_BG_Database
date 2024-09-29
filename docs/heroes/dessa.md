@@ -18,19 +18,19 @@ ___
 === "Logistics Ⅰ"
 
     <figure markdown="span">
-        ![Logistics Ⅰ](../assets/hero_specialties-stronghold-dessa-1.webp){ width="340" align=right }
+        ![Logistics Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Logistics Ⅳ"
 
     <figure markdown="span">
-        ![Logistics Ⅳ](../assets/hero_specialties-stronghold-dessa-4.webp){ width="340" align=right }
+        ![Logistics Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Logistics Ⅵ"
 
     <figure markdown="span">
-        ![Logistics Ⅵ](../assets/hero_specialties-stronghold-dessa-7.webp){ width="340" align=right }
+        ![Logistics Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

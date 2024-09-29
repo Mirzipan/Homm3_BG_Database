@@ -18,19 +18,19 @@ ___
 === "Elves Ⅰ"
 
     <figure markdown="span">
-        ![Elves Ⅰ](../assets/hero_specialties-rampart-ivor-1.webp){ width="340" align=right }
+        ![Elves Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Elves Ⅳ"
 
     <figure markdown="span">
-        ![Elves Ⅳ](../assets/hero_specialties-rampart-ivor-4.webp){ width="340" align=right }
+        ![Elves Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Elves Ⅵ"
 
     <figure markdown="span">
-        ![Elves Ⅵ](../assets/hero_specialties-rampart-ivor-7.webp){ width="340" align=right }
+        ![Elves Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

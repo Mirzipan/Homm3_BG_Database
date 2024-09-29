@@ -18,19 +18,19 @@ ___
 === "Slow Ⅰ"
 
     <figure markdown="span">
-        ![Slow Ⅰ](../assets/hero_specialties-stronghold-gundula-1.webp){ width="340" align=right }
+        ![Slow Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Slow Ⅳ"
 
     <figure markdown="span">
-        ![Slow Ⅳ](../assets/hero_specialties-stronghold-gundula-4.webp){ width="340" align=right }
+        ![Slow Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Slow Ⅵ"
 
     <figure markdown="span">
-        ![Slow Ⅵ](../assets/hero_specialties-stronghold-gundula-7.webp){ width="340" align=right }
+        ![Slow Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

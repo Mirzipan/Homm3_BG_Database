@@ -18,19 +18,19 @@ ___
 === "Fire Wall Ⅰ"
 
     <figure markdown="span">
-        ![Fire Wall Ⅰ](../assets/hero_specialties-conflux-luna-1.webp){ width="340" align=right }
+        ![Fire Wall Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Fire Wall Ⅳ"
 
     <figure markdown="span">
-        ![Fire Wall Ⅳ](../assets/hero_specialties-conflux-luna-4.webp){ width="340" align=right }
+        ![Fire Wall Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Fire Wall Ⅵ"
 
     <figure markdown="span">
-        ![Fire Wall Ⅵ](../assets/hero_specialties-conflux-luna-7.webp){ width="340" align=right }
+        ![Fire Wall Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

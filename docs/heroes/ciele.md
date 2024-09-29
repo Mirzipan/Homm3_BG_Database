@@ -18,19 +18,19 @@ ___
 === "Magic Arrow Ⅰ"
 
     <figure markdown="span">
-        ![Magic Arrow Ⅰ](../assets/hero_specialties-conflux-ciele-1.webp){ width="340" align=right }
+        ![Magic Arrow Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Magic Arrow Ⅳ"
 
     <figure markdown="span">
-        ![Magic Arrow Ⅳ](../assets/hero_specialties-conflux-ciele-4.webp){ width="340" align=right }
+        ![Magic Arrow Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Magic Arrow Ⅵ"
 
     <figure markdown="span">
-        ![Magic Arrow Ⅵ](../assets/hero_specialties-conflux-ciele-7.webp){ width="340" align=right }
+        ![Magic Arrow Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

@@ -18,19 +18,19 @@ ___
 === "🚧 Ⅰ"
 
     <figure markdown="span">
-        ![🚧 Ⅰ](../assets/hero_specialties-cove-casmetra-1.webp){ width="340" align=right }
+        ![🚧 Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "🚧 Ⅳ"
 
     <figure markdown="span">
-        ![🚧 Ⅳ](../assets/hero_specialties-cove-casmetra-4.webp){ width="340" align=right }
+        ![🚧 Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "🚧 Ⅵ"
 
     <figure markdown="span">
-        ![🚧 Ⅵ](../assets/hero_specialties-cove-casmetra-7.webp){ width="340" align=right }
+        ![🚧 Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

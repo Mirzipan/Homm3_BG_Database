@@ -18,19 +18,19 @@ ___
 === "Valueables Ⅰ"
 
     <figure markdown="span">
-        ![Valueables Ⅰ](../assets/hero_specialties-dungeon-sephinroth-1.webp){ width="340" align=right }
+        ![Valueables Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Valueables Ⅳ"
 
     <figure markdown="span">
-        ![Valueables Ⅳ](../assets/hero_specialties-dungeon-sephinroth-4.webp){ width="340" align=right }
+        ![Valueables Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Valueables Ⅵ"
 
     <figure markdown="span">
-        ![Valueables Ⅵ](../assets/hero_specialties-dungeon-sephinroth-7.webp){ width="340" align=right }
+        ![Valueables Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

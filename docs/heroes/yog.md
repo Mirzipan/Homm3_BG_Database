@@ -18,19 +18,19 @@ ___
 === "Cyclops Ⅰ"
 
     <figure markdown="span">
-        ![Cyclops Ⅰ](../assets/hero_specialties-stronghold-yog-1.webp){ width="340" align=right }
+        ![Cyclops Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Cyclops Ⅳ"
 
     <figure markdown="span">
-        ![Cyclops Ⅳ](../assets/hero_specialties-stronghold-yog-4.webp){ width="340" align=right }
+        ![Cyclops Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Cyclops Ⅵ"
 
     <figure markdown="span">
-        ![Cyclops Ⅵ](../assets/hero_specialties-stronghold-yog-7.webp){ width="340" align=right }
+        ![Cyclops Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

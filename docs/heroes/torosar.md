@@ -18,19 +18,19 @@ ___
 === "Ballista Ⅰ"
 
     <figure markdown="span">
-        ![Ballista Ⅰ](../assets/hero_specialties-tower-torosar-1.webp){ width="340" align=right }
+        ![Ballista Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Ballista Ⅳ"
 
     <figure markdown="span">
-        ![Ballista Ⅳ](../assets/hero_specialties-tower-torosar-4.webp){ width="340" align=right }
+        ![Ballista Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Ballista Ⅵ"
 
     <figure markdown="span">
-        ![Ballista Ⅵ](../assets/hero_specialties-tower-torosar-7.webp){ width="340" align=right }
+        ![Ballista Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 
