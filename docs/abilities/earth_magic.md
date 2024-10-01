@@ -21,3 +21,4 @@ ___
 ## See Also
 
 - [List of Abilities](index.md)
+- [School of Earth Magic](../spells/school_of_earth_magic.md)

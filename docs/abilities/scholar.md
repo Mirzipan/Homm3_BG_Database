@@ -21,3 +21,4 @@ ___
 ## See Also
 
 - [List of Abilities](index.md)
+- [List of Statistics](../statistics/index.md)

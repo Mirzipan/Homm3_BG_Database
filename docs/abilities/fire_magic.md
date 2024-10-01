@@ -21,3 +21,4 @@ ___
 ## See Also
 
 - [List of Abilities](index.md)
+- [School of Fire Magic](../spells/school_of_fire_magic.md)
