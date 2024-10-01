@@ -20,10 +20,10 @@ Castle town comes with the [Core Game](../content.md).
 ## Heroes
 
 - :magic: [Adelaide](../heroes/adelaide.md)
-- :magic: [Ingham](../heroes/ingham.md)
-- :magic: [Rion](../heroes/rion.md)
 - :might: [Catherine](../heroes/catherine.md)
+- :magic: [Ingham](../heroes/ingham.md)
 - :might: [Lord Haart](../heroes/lord_haart_castle.md)
+- :magic: [Rion](../heroes/rion.md)
 - :might: [Valeska](../heroes/valeska.md)
 
 
