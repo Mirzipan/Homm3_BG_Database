@@ -32,6 +32,11 @@
 | Abilities | :unit_attack: On "-1" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: On "-1" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die). On a "0" result, :paralysis: the target. |
 
 
+## Heroes With A Specialty
+
+- [:might: Bron](../heroes/bron.md#specialty)
+
+
 ## Comes With
 
 - [Fortress Expansion](../content.md)

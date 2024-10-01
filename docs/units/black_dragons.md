@@ -32,6 +32,11 @@
 | Abilities | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](../spells/index.md) by 2 to a minimum of 0. | :unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. |
 
 
+## Heroes With A Specialty
+
+- [:might: Mutare](../heroes/mutare.md#specialty)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

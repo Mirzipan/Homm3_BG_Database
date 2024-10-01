@@ -32,6 +32,11 @@
 | Abilities | - | :unit_attack: You can reroll every "0" on this unit's [Attack die](../dice.md#attack-die). | :unit_passive: During any attack, roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher outcome. |
 
 
+## Heroes With A Specialty
+
+- [:might: Catherine](../heroes/catherine.md#specialty)
+
+
 ## Notes
 
 - The [Attack die](../dice.md#attack-die) may be rerolled until the number on the die no longer equals "0".

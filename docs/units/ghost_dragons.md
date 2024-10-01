@@ -32,6 +32,11 @@
 | Abilities | :activation: Discard the enemy's :morale_positive: token. | :activation: Discard the enemy's :morale_positive: token.<br>:unit_attack: Add +1 to your [Attack die](../dice.md#attack-die) result. | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die); if the result is "0", the target must immediately move away 1 space. |
 
 
+## Heroes With A Specialty
+
+- [:might: Mutare](../heroes/mutare.md#specialty)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

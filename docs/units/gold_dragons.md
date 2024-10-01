@@ -32,6 +32,11 @@
 | Abilities | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |
 
 
+## Heroes With A Specialty
+
+- [:might: Mutare](../heroes/mutare.md#specialty)
+
+
 ## Comes With
 
 - [Tower Expansion](../content.md)
