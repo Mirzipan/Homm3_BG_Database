@@ -18,6 +18,11 @@
 | Abilities | :effect_map: At the beginning of each Resource round, gain 2 :valuables:. |
 
 
+## Heroes With A Specialty
+
+- [:might: Mutare](../heroes/mutare.md#specialty)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

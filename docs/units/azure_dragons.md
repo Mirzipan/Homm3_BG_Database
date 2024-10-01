@@ -18,6 +18,11 @@
 | Abilities | :unit_attack: If you resolve a "-1" on the [Attack die](../dice.md#attack-die), the target gains :paralysis:.<br>:unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). |
 
 
+## Heroes With A Specialty
+
+- [:might: Mutare](../heroes/mutare.md#specialty)
+
+
 ## Comes With
 
 - [Core Game](../content.md)
