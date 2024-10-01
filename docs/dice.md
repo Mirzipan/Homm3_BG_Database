@@ -32,5 +32,5 @@
 | :experience: |
 | [:artifact:](artifacts/index.md) |
 | [:artifact:](artifacts/index.md) |
-| :trasuredie: |
-| 2:trasuredie: |
+| :resource_die: |
+| 2:resource_die: |

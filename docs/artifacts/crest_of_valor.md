@@ -6,7 +6,7 @@ ___
 ___
 <p style="text-align: center;" markdown>:instant: Gain a :morale_positive: token.<br><br>— OR —<br><br>:effect_map: Ignore :morale_negative: effect from a field.</p>
 ___
-<p style="text-align: center;" markdown>*After freeing a princess of a neighbouring kingdom from the evil clutches of despicable slavers, she awards you with a Crest of Valor.*</p>
+<p style="text-align: center;" markdown>*After freeing a princess of a neighboring kingdom from the evil clutches of despicable slavers, she awards you with a Crest of Valor.*</p>
 
 
 ## Comes With

@@ -11,7 +11,7 @@ ___
 ___
 <p style="text-align: center;" markdown>Until the next Astrologers' round:<br><br>Whenever you trigger Combat with any [Neutral Units](../units/index.md), you may choose a [Neutral Unit](../units/index.md) card to discard and draw another card of the same tier instead.</p>
 ___
-<p style="text-align: center;" markdown>*"Are you familiaer with any AvLee melodies?"<br>"Sorry, no."<br>"Well, that's good because this probably won't sound anything like one."*</p>
+<p style="text-align: center;" markdown>*"Are you familiar with any AvLee melodies?"<br>"Sorry, no."<br>"Well, that's good because this probably won't sound anything like one."*</p>
 ___
 
 

@@ -63,9 +63,9 @@ Quick reference for what the different glyphs mean.
 | Icon | Description |
 | :---: | :--- |
 | :treasure: | [Treasure die](dice.md#treasure-die) |
-| :trasuredie: | [Resource die](dice.md#resource-die) |
+| :resource_die: | [Resource die](dice.md#resource-die) |
 
-## Miscellanous
+## Miscellaneous
 
 | Icon | Description |
 | :---: | :--- |

@@ -29,7 +29,7 @@
 | :health_points: | 5 | **6** | 🚧 |
 | :initiative: | 9 | **11** | 🚧 |
 | Cost | 6 :gold: | 10 :gold: | 🚧 |
-| Abilities | - | :unit_attack: If the attack reduces the target to 0 :health:, the Ayssids can attack another unit adjacent to them. | 🚧 |
+| Abilities | - | :unit_attack: If the attack reduces the target to 0 :health_points:, the Ayssids can attack another unit adjacent to them. | 🚧 |
 
 
 ## Comes With

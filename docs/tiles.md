@@ -4,7 +4,7 @@ You might also want to see individual [fields](fields.md).
 
 Roman numerals present on some fields represent [difficulty](difficulties.md).
 
-🔮 - Unrelased and incomplete content
+🔮 - Unreleased and incomplete content
 
 
 ## Starting
