@@ -2,7 +2,7 @@
 
 ![Spellbinder's Hat](../assets/artifacts_relic-spellbinders_hat.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Relic Artifact](relic_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Relic Artifact](03_relic_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Remove 1 card from your hand, then **Search(2)** the card's deck.<br><br>— OR —<br><br>:instant: Remove this card and another one from your hand or discard pile.</p>
 ___

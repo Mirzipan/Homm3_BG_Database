@@ -1,4 +1,4 @@
-# Major Artifacts
+# List of Major Artifacts
 
 - [Ambassador's Sash](ambassadors_sash.md)
 - [Arms of Legion](arms_of_legion.md)
@@ -12,7 +12,7 @@
 - [Everpouring Vial of Mercury](everpouring_vial_of_mercury.md)
 - [Golden Bow](golden_bow.md)
 - [Head of Legion](head_of_legion.md)
-- [Minor Artifacts](minor_artifacts.md)
+- [Minor Artifacts](01_minor_artifacts.md)
 - [Mystic Orb of Mana](mystic_orb_of_mana.md)
 - [Necklace of Dragonteeth](necklace_of_dragonteeth.md)
 - [Ogre's Club of Havoc](ogres_club_of_havoc.md)
@@ -31,7 +31,7 @@
 
 ## See Also
 
-- [Minor Artifact](minor_artifacts.md)
-- [Relic Artifact](relic_artifacts.md)
+- [Minor Artifact](01_minor_artifacts.md)
+- [Relic Artifact](03_relic_artifacts.md)
 
 - [List of Artifacts](index.md)

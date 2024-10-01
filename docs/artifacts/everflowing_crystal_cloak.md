@@ -2,7 +2,7 @@
 
 ![Everflowing Crystal Cloak](../assets/artifacts_major-everflowing_crystal_cloak.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](02_major_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Discard 3 cards to gain 2 :valuables:.<br><br>— OR —<br><br>:instant: Gain 1 :valuables:.</p>
 ___

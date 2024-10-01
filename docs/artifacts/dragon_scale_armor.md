@@ -2,7 +2,7 @@
 
 ![Dragon Scale Armor](../assets/artifacts_relic-dragon_scale_armor.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Relic Artifact](relic_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Relic Artifact](03_relic_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: +2 :attack:<br><br>— OR —<br><br>:instant: +2 :defense:</p>
 ___

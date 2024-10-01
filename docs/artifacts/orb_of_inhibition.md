@@ -2,7 +2,7 @@
 
 ![Orb of Inhibition](../assets/artifacts_relic-orb_of_inhibition.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Relic Artifact](relic_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Relic Artifact](03_relic_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:ongoing: During this Combat, all [:spellpower:](../spells/index.md) and [Specialty](../heroes/index.md) cards deal 0 :damage:. Remove this card instead of discarding it.<br><br>— OR —<br><br> :ongoing: During this Combat round, [units](../units/index.md) cannot use their special abilities.</p>
 ___

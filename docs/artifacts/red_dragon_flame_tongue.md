@@ -2,7 +2,7 @@
 
 ![Red Dragon Flame Tongue](../assets/artifacts_minor-red_dragon_flame_tongue.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](01_minor_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: +1 :defense:<br><br>— OR —<br><br>:instant: +1 :attack:</p>
 ___

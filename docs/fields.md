@@ -49,7 +49,7 @@ Field are single cells on a [tile](tiles.md).
 
 | Name | Count | Effect |
 | :--- | :---: | :--- |
-| Black Market | 1 | Look at the top 4 cards from the [Artifact](artifacts/index.md) Discard Pile. You may buy one of them for:<br><br>5 :gold: if it is a [Minor Artifact](artifacts/minor_artifacts.md)<br>7 :gold: if it is a [Major Artifact](artifacts/major_artifacts.md)<br>10 :gold: if it is a [Relic Artifact](artifacts/relic_artifacts.md) |
+| Black Market | 1 | Look at the top 4 cards from the [Artifact](artifacts/index.md) Discard Pile. You may buy one of them for:<br><br>5 :gold: if it is a [Minor Artifact](artifacts/01_minor_artifacts.md)<br>7 :gold: if it is a [Major Artifact](artifacts/02_major_artifacts.md)<br>10 :gold: if it is a [Relic Artifact](artifacts/03_relic_artifacts.md) |
 | Sanctuary | 6 | Heroes on this Field cannot be attacked by other [Heroes](heroes/index.md). Friendly Heroes can move through enemy [Heroes](heroes/index.md) on this Field but cannot stop here. |
 | Stables | 9 | Gain +1 :movement: for this turn. |
 | Tavern | 1 | You can :pay: 7 :gold: to gain a Secondary [Hero](heroes/index.md). Place their model on this Field. Then, choose one enemy player to discard 1 random card from their hand. |

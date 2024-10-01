@@ -1,4 +1,4 @@
-# Ground Units
+# List of Ground Units
 
 - :bronze: [Boars](boars.md)
 - :bronze: [Centaurs](centaurs.md)

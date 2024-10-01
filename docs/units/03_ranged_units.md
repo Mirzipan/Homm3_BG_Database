@@ -1,4 +1,4 @@
-# Ranged Units
+# List of Ranged Units
 
 - :bronze: [Elves](elves.md)
 - :bronze: [Evil Eyes](evil_eyes.md)

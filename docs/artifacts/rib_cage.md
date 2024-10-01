@@ -2,7 +2,7 @@
 
 ![Rib Cage](../assets/artifacts_minor-rib_cage.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](01_minor_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Select 1 Spell card from you discard pile and put it back into your hand. Then, shuffle your discard pile back into your deck of Might and Magic.<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___

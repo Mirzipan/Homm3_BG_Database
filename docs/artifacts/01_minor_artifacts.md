@@ -1,4 +1,4 @@
-# Minor Artifacts
+# List of Minor Artifacts
 
 - [Armor of Wonder](armor_of_wonder.md)
 - [Blackshard of the Dead Knight](blackshard_of_the_dead_knight.md)
@@ -34,7 +34,7 @@
 
 ## See Also
 
-- [Major Artifact](major_artifacts.md)
-- [Relic Artifact](relic_artifacts.md)
+- [Major Artifact](02_major_artifacts.md)
+- [Relic Artifact](03_relic_artifacts.md)
 
 - [List of Artifacts](index.md)

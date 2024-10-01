@@ -2,7 +2,7 @@
 
 ![Charm of Mana](../assets/artifacts_minor-charm_of_mana.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](01_minor_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Discard 2 cards, then draw 3 cards.<br><br>— OR —<br><br>:instant: Draw 2 cards, then discard 1 card.</p>
 ___

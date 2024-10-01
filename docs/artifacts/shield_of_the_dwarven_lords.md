@@ -2,7 +2,7 @@
 
 ![Shield of the Dwarven Lords](../assets/artifacts_minor-shield_of_the_dwarven_lords.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](01_minor_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Use this after the [Attack die](../dice.md#attack-die) roll. Ignore the [Attack die](../dice.md#attack-die) and any additional effects it triggered.<br><br>— OR —<br><br>:instant: +1 :defense:</p>
 ___

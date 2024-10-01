@@ -2,7 +2,7 @@
 
 ![Endless Purse of Gold](../assets/artifacts_major-endless_purse_of_gold.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](02_major_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Gain 3 :gold:.<br><br>— OR —<br><br>:instant: Remove this card and discard 2 cards from your hand, then gain 8 :gold:.</p>
 ___

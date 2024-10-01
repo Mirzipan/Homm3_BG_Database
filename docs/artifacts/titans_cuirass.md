@@ -2,7 +2,7 @@
 
 ![Titan's Cuirass](../assets/artifacts_relic-titans_cuirass.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Relic Artifact](relic_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Relic Artifact](03_relic_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Discard 1 card to gain +4 :empower:.<br><br>— OR —<br><br>:instant: +2 :empower:.</p>
 ___

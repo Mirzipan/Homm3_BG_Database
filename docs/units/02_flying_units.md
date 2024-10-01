@@ -1,4 +1,4 @@
-# Flying Units
+# List of Flying Units
 
 - :bronze: [Dragon Flies](dragon_flies.md)
 - :bronze: [Gargoyles](gargoyles.md)

@@ -2,7 +2,7 @@
 
 ![Armor of Wonder](../assets/artifacts_minor-armor_of_wonder.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](01_minor_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Draw 1 card and gain +1 :attack:.<br><br>— OR —<br><br>:instant: Draw 1 card and gain +1 :defense:.</p>
 ___

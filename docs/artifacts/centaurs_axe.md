@@ -2,7 +2,7 @@
 
 ![Centaur's Axe](../assets/artifacts_minor-centaurs_axe.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](minor_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](01_minor_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Triple the [Attack die's](../dice.md#attack-die) outcome.<br><br>— OR —<br><br>:instant: +1 :attack:</p>
 ___

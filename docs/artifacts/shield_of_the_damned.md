@@ -2,7 +2,7 @@
 
 ![Shield of the Damned](../assets/artifacts_major-shield_of_the_damned.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](major_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](02_major_artifacts.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Target [unit](../units/index.md) gains +3 :defense: and suffers 1 :damage:. It cannot be used on an enemy unit.<br><br>— OR —<br><br>:instant: Target [unit](../units/index.md) gains +5 :defense: and suffers 2 :damage:. It cannot be used on an enemy unit.</p>
 ___
