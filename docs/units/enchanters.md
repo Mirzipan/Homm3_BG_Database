@@ -18,6 +18,11 @@
 | Abilities | :activation: Remove up to 2 :damage: from a friendly unit. Otherwise, Enchanters gain +1 :attack:. |
 
 
+## Heroes With A Specialty
+
+- [:magic: Dracon](../heroes/dracon.md#specialty)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

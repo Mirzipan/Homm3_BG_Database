@@ -32,6 +32,12 @@
 | Abilities | - | - | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](../towns/necropolis.md#heroes), immediately Reinforce 1 of your :bronze: units. |
 
 
+## Heroes With A Specialty
+
+- [:magic: Sandro](../heroes/sandro.md#specialty)
+- [:magic: Vidomina](../heroes/vidomina.md#specialty)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

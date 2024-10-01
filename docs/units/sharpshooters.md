@@ -18,6 +18,11 @@
 | Abilities | :unit_attack: Ignore the combat penalties. |
 
 
+## Heroes With A Specialty
+
+- [:might: Gelu](../heroes/gelu.md#specialty)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

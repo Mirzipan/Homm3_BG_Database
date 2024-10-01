@@ -32,6 +32,11 @@
 | Abilities | - | - | - |
 
 
+## Heroes With A Specialty
+
+- [:might: Wystan](../heroes/wystan.md#specialty)
+
+
 ## Comes With
 
 - [Fortress Expansion](../content.md)

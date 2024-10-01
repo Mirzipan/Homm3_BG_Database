@@ -32,6 +32,11 @@
 | Abilities | - | :unit_attack: If a target is a non-adjacent unit, attack this target again. | :unit_attack: If a target is a non-adjacent unit, attack this target again. |
 
 
+## Heroes With A Specialty
+
+- [:might: Valeska](../heroes/valeska.md#specialty)
+
+
 ## Notes
 
 - The Marksmen can attack at most one additional time per activation, not more.

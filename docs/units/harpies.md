@@ -32,6 +32,11 @@
 | Abilities | :unit_attack: After the enemy's Retaliation Attack, this unit can return to the space from which it moved to attack. | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. |
 
 
+## Heroes With A Specialty
+
+- [:might: Lorelei](../heroes/lorelei.md#specialty)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

@@ -32,6 +32,11 @@
 | Abilities | :unit_attack: Ignore combat penalties. | :unit_attack: Ignore combat penalties. :activation: Add +1 :empower: to the first [spell](../spells/index.md) you cast this round. | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. |
 
 
+## Heroes With A Specialty
+
+- [:magic: Dracon](../heroes/dracon.md#specialty)
+
+
 ## Comes With
 
 - [Tower Expansion](../content.md)

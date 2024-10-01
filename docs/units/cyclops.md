@@ -32,6 +32,11 @@
 | Abilities | :unit_other: This unit can destroy the Gate or a Wall. | :unit_other: This unit can destroy the Gate, a Wall, or the [Arrow Tower](arrow_tower.md). | 🚧 |
 
 
+## Heroes With A Specialty
+
+- [:might: Yog](../heroes/yog.md#specialty)
+
+
 ## Comes With
 
 - [Stronghold Expansion](../content.md)

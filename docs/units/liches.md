@@ -32,6 +32,11 @@
 | Abilities | - | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. |
 
 
+## Heroes With A Specialty
+
+- [:might: Moandor](../heroes/moandor.md#specialty)
+
+
 ## Notes
 
 - Liches can only do one extra attack, not more.

@@ -32,6 +32,11 @@
 | Abilities | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this unit by 1 (to a minimum of 0), | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), | :unit_retaliate: The target is :paralysis:. |
 
 
+## Heroes With A Specialty
+
+- [:might: Clancy](../heroes/clancy.md#specialty)
+
+
 ## Comes With
 
 - [Rampart Expansion](../content.md)

@@ -32,6 +32,11 @@
 | Abilities | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells/index.md) by 1 - to a minimum of 0. | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells/index.md) by 2 - to a minimum of 0. | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 2 - to a minimum of 0. |
 
 
+## Heroes With A Specialty
+
+- [:might: Josephine](../heroes/josephine.md#specialty)
+
+
 ## Comes With
 
 - [Tower Expansion](../content.md)

@@ -32,6 +32,11 @@
 | Abilities | :unit_other: Discard 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: Discard 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: When attacking [Efreet](efreet.md), this unit gains +1 :attack:. |
 
 
+## Heroes With A Specialty
+
+- [:might: Iona](../heroes/iona.md#specialty)
+
+
 ## Comes With
 
 - [Tower Expansion](../content.md)

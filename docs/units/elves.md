@@ -32,6 +32,11 @@
 | Abilities | - | :unit_attack: If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. | :unit_attack: If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. |
 
 
+## Heroes With A Specialty
+
+- [:might: Gelu](../heroes/gelu.md#specialty)
+
+
 ## Comes With
 
 - [Rampart Expansion](../content.md)
