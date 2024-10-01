@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Gain 2 :gold:. |
 | Ⅳ | :instant: Gain 3 :gold:. |

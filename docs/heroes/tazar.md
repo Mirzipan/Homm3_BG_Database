@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: +2 :defense: |
 | Ⅳ | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :defense:. |

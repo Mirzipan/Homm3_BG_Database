@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :activation: Select a [unit](../units/index.md) and another 2 [units](../units/index.md) closest to it. Allocate 1/1/0 :damage:. starting with the first selected [unit](../units/index.md). |
 | Ⅳ | :instant: Discard up to 3 cards from your Might and Magic deck and return 1 of them to your hand. |

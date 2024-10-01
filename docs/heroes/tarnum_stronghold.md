@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :ongoing: Your selected unit gains +1 :attack:. |
 | Ⅳ | 🚧 Your selected unit gains +1 :attack:. |

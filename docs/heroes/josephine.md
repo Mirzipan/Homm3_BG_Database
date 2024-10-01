@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Golems unit](../units/iron_golems.md). |
 | Ⅳ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Golems unit](../units/iron_golems.md). |

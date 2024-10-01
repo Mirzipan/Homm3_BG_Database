@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: +2 :defense: |
 | Ⅳ | :instant: +3 :defense: |

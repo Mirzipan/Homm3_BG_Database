@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 1 - \*:bronze:<br>:empower: 2 - \*:silver:<br>:empower: 4 - \*:golden: |
 | Ⅳ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \*:bronze:<br>:empower: 1 - \*:silver:<br>:empower: 3 - \*:golden: |

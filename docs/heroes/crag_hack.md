@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :ongoing: Your selected [unit](../units/index.md) gains +1 :attack: |
 | Ⅳ | :ongoing: Your selected [unit](../units/index.md) gains +1 :attack:. You can discard a card to gain additional +1 :attack:. |

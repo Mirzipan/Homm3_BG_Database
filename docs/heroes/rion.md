@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Remove 1 :damage: from one of your [units](../units/index.md), then draw 1 card. |
 | Ⅳ | :instant: Remove 1 :damage: or :paralysis: from one of your [units](../units/index.md), then draw 1 card. |

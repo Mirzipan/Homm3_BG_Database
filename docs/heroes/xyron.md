@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :activation: Discard 2 cards. Then select a space. All [units](../units/index.md) on this and the adjacent spaces take 1 :damage:. |
 | Ⅳ | :activation: Discard 1 card. Then select a space. All [units](../units/index.md) on this and the adjacent spaces take 1 :damage:. |

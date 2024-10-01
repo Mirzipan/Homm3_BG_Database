@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and put it into your hand.<br><br>— OR —<br><br>:instant: +1 :empower: |
 | Ⅳ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and cast it.<br><br>— OR —<br><br>:instant: +1 :empower: |

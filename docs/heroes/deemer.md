@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Select a [unit](../units/index.md) and 1 [unit](../units/index.md) adjacent to it. Deal \* to both selected [units](../units/index.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |
 | Ⅳ | :instant: +1 :empower:<br><br>— OR —<br><br>:instant: Shuffle your discard pile back into your deck, then draw 1 card. |

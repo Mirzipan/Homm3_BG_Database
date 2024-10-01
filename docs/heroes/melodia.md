@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Gain :morale_positive:. |
 | Ⅳ | :instant: Use this after any roll. You can reroll the [dice](../dice.md). |

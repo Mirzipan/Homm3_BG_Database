@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Discard 1 card. Target a space on the Combat board. All [units](../units/index.md) adjacent to this space suffer 1 :damage:. |
 | Ⅳ | :instant: Select 1 [Spell](../spells/index.md) or Specialty card from your discard pile and put it back in your hand. |

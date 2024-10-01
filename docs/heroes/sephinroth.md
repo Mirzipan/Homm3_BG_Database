@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :effect_map: Pay 2 :gold: to gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card. |
 | Ⅳ | :effect_map: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card. |

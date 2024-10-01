@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Draw up to 3 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
 | Ⅳ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \*:bronze: Unit<br>:empower: 1 - \*:silver: Unit<br>:empower: 2 - \*:golden: Unit |

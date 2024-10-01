@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Reduce the :damage: from enemy retaliation by 1.<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md). |
 | Ⅳ | :ongoing: For this Combat, when an enemy performs a Retaliation Attack against this [unit](../units/index.md), roll 2 [Attack dice](../dice.md#attack-die) and resolve the lower outcome. |

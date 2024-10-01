@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | Put this card on the [Pack of Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack: 3 :defense: 1 :health_points: 2 :initiative: 6 |
 | Ⅳ | Put this card on the [Pack of Zombies Unit](../units/zombies.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Zombies**<br>:attack: 4 :defense: 1 :health_points: 3 :initiative: 5 |

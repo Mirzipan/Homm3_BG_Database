@@ -34,7 +34,7 @@ ___
     </figure>
 
 
-| Level | Descrition |
+| Level | Description |
 | :---: | :---: |
 | Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Marksmen unit](../units/marksmen.md). |
 | Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Marksmen unit](../units/marksmen.md). |
