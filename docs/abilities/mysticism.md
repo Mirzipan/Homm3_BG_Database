@@ -13,6 +13,12 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:magic: Ingham](../heroes/ingham.md)
+- [:might: Torosar](../heroes/torosar.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

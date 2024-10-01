@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:might: Tazar](../heroes/tazar.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

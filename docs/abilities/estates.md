@@ -13,6 +13,12 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:might: Erdamon](../heroes/erdamon.md)
+- [:might: Lord Haart (Castle)](../heroes/lord_haart_castle_.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

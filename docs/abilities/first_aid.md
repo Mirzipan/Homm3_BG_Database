@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:magic: Gem](../heroes/gem.md)
+
+
 ## Comes With
 
 - [Rampart Expansion](../content.md)

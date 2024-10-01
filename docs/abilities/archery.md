@@ -13,6 +13,13 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:might: Gelu](../heroes/gelu.md)
+- [:might: Valeska](../heroes/valeska.md)
+- [:might: Wystan](../heroes/wystan.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

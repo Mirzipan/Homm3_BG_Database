@@ -13,6 +13,12 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:might: Catherine](../heroes/catherine.md)
+- [:might: Mephala](../heroes/mephala.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:magic: Luna](../heroes/luna.md)
+
+
 ## Comes With
 
 - [Tower Expansion](../content.md)

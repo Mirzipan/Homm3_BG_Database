@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:magic: Ciele](../heroes/ciele.md)
+
+
 ## Comes With
 
 - [Tower Expansion](../content.md)

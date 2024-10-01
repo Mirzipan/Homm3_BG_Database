@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:magic: Melodia](../heroes/melodia.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

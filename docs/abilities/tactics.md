@@ -13,6 +13,12 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:might: Cassiopeia](../heroes/cassiopeia.md)
+- [:might: Mutare](../heroes/mutare.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

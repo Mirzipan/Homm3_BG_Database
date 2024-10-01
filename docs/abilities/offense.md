@@ -13,6 +13,16 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:might: Crag Hack](../heroes/crag_hack.md)
+- [:might: Ivor](../heroes/ivor.md)
+- [:might: Jeremy](../heroes/jeremy.md)
+- [:might: Tamika](../heroes/tamika.md)
+- [:might: Tarnum (Stronghold)](../heroes/tarnum_stronghold_.md)
+- [:might: Yog](../heroes/yog.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

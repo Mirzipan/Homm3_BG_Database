@@ -13,6 +13,12 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:magic: Dessa](../heroes/dessa.md)
+- [:might: Monere](../heroes/monere.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

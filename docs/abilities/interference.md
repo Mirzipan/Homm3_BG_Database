@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:magic: Zilare](../heroes/zilare.md)
+
+
 ## Comes With
 
 - [Cove Expansion](../content.md)

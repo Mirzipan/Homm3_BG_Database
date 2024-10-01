@@ -13,6 +13,19 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:magic: Adelaide](../heroes/adelaide.md)
+- [:magic: Adrienne](../heroes/adrienne.md)
+- [:magic: Alamar](../heroes/alamar.md)
+- [:magic: Casmetra](../heroes/casmetra.md)
+- [:magic: Dracon](../heroes/dracon.md)
+- [:magic: Gundula](../heroes/gundula.md)
+- [:magic: Rion](../heroes/rion.md)
+- [:magic: Tarnum (Conflux)](../heroes/tarnum_conflux_.md)
+- [:magic: Xyron](../heroes/xyron.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

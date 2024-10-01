@@ -13,6 +13,14 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:magic: Deemer](../heroes/deemer.md)
+- [:might: Fiona](../heroes/fiona.md)
+- [:might: Lorelei](../heroes/lorelei.md)
+- [:might: Shiva](../heroes/shiva.md)
+
+
 ## Comes With
 
 - [Tower Expansion](../content.md)

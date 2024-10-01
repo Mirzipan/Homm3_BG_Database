@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:might: Pasis](../heroes/pasis.md)
+
+
 ## Comes With
 
 - [Rampart Expansion](../content.md)

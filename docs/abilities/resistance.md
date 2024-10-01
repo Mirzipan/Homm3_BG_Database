@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:might: Bron](../heroes/bron.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

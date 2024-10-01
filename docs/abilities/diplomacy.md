@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:magic: Cyra](../heroes/cyra.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

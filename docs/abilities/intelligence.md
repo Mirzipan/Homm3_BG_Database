@@ -13,6 +13,12 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:might: Iona](../heroes/iona.md)
+- [:magic: Sephinroth](../heroes/sephinroth.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

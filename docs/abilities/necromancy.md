@@ -13,6 +13,14 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:might: Lord Haart (Necropolis)](../heroes/lord_haart_necropolis_.md)
+- [:might: Moandor](../heroes/moandor.md)
+- [:magic: Septienna](../heroes/septienna.md)
+- [:magic: Vidomina](../heroes/vidomina.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)

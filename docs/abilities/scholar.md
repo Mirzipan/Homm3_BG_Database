@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:might: Rashka](../heroes/rashka.md)
+
+
 ## Comes With
 
 - [Inferno Expansion](../content.md)

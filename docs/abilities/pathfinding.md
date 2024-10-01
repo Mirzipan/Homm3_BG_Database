@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:might: Clancy](../heroes/clancy.md)
+
+
 ## Comes With
 
 - [Tower Expansion](../content.md)

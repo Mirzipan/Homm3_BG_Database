@@ -13,6 +13,15 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:magic: Jeddite](../heroes/jeddite.md)
+- [:might: Josephine](../heroes/josephine.md)
+- [:magic: Sandro](../heroes/sandro.md)
+- [:magic: Solmyr](../heroes/solmyr.md)
+- [:magic: Zydar](../heroes/zydar.md)
+
+
 ## Comes With
 
 - [Core Game](../content.md)
