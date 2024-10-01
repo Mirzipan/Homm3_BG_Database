@@ -41,6 +41,13 @@ ___
 | Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2.<br><br>This effect doubles for the [Lizardmen unit](../units/lizardmen.md). |
 
 
+## Appearances As Player Hero
+
+- Playing With Fire - 1. Farming Towns
+- Playing With Fire - 2. March Of The Undead
+- Playing With Fire - 3. Burning Of Tatalia
+
+
 ## Comes With
 
 - [Fortress Expansion](../content.md)

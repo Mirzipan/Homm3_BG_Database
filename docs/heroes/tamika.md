@@ -41,6 +41,13 @@ ___
 | Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md). |
 
 
+## Appearances As Player Hero
+
+- Rise Of The Necromancer - 1. Target
+- Rise Of The Necromancer - 2. Master
+- Rise Of The Necromancer - 3. Duke Alarice
+
+
 ## Comes With
 
 - [Core Game](../content.md)

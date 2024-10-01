@@ -41,6 +41,14 @@ ___
 | Ⅵ | :activation: Select a [unit](../units/index.md) and another 2 [units](../units/index.md) closest to it. Allocate 2/1/1 :damage:. starting with the first selected [unit](../units/index.md). |
 
 
+## Appearances As Player Hero
+
+- The Dragon Slayer - 1. Crystal Dragons
+- The Dragon Slayer - 2. Rust Dragons
+- The Dragon Slayer - 3. Faerie Dragons
+- The Dragon Slayer - 4. Azure Dragons
+
+
 ## Comes With
 
 - [Tower Expansion](../content.md)

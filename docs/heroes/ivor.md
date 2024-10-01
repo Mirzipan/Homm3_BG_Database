@@ -41,6 +41,11 @@ ___
 | Ⅵ | :instant: Change your next attack roll on any side. |
 
 
+## Appearances As Enemy Hero
+
+- Rise Of The Necromancer - 2. Master
+
+
 ## Comes With
 
 - [Regular Stretch Goals](../content.md)

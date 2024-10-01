@@ -41,6 +41,11 @@ ___
 | Ⅵ | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
 
 
+## Appearances As Enemy Hero
+
+- Dead-cold Revenge - 3. Agents Of Vengeance
+
+
 ## Comes With
 
 - [Tower Expansion](../content.md)

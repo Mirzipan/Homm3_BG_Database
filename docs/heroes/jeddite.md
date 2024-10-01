@@ -41,6 +41,11 @@ ___
 | Ⅵ | :instant: Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
 
 
+## Appearances As Enemy Hero
+
+- Rise Of The Necromancer - 1. Target
+
+
 ## Notes
 
 - The specialty can be improved by spell power, just like a regular spell.

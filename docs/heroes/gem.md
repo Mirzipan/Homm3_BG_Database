@@ -41,6 +41,12 @@ ___
 | Ⅵ | :ongoing: For this Combat, double your [First Aid Tent's](../war_machines/first_aid_tent.md) effect. |
 
 
+## Appearances As Player Hero
+
+- Dead-cold Revenge - 2. Final Peace
+- Dead-cold Revenge - 3. Agents Of Vengeance
+
+
 ## Comes With
 
 - [Rampart Expansion](../content.md)

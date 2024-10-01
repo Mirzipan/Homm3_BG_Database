@@ -41,6 +41,13 @@ ___
 | Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/school_of_fire_magic.md) are cast with +2 :empower:. |
 
 
+## Appearances As Player Hero
+
+- Playing With Fire - 1. Farming Towns
+- Playing With Fire - 2. March Of The Undead
+- Playing With Fire - 3. Burning Of Tatalia
+
+
 ## Comes With
 
 - [Fortress Expansion](../content.md)

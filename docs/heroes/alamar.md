@@ -41,6 +41,12 @@ ___
 | Ⅵ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \*:bronze:<br>:empower: 0 - \*:silver:<br>:empower: 2 - \*:golden: |
 
 
+## Appearances As Player Hero
+
+- Dragon’s Blood - 2. Blood Of The Dragon Father
+- Dragon’s Blood - 3. Blood Thirsty
+
+
 ## Notes
 
 - The specialty can be improved by spell power, just like a regular spell.

@@ -41,6 +41,11 @@ ___
 | Ⅵ | :instant: Your selected [unit](../units/index.md) gains +2 :attack: |
 
 
+## Appearances As Enemy Hero
+
+- Rise Of The Necromancer - 1. Target
+
+
 ## Comes With
 
 - [Stronghold Expansion](../content.md)

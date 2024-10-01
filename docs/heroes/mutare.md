@@ -41,6 +41,13 @@ ___
 | Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for a Dragons [unit](../units/index.md). |
 
 
+## Appearances As Player Hero
+
+- Dragon’s Blood - 1. Savaging The Scavengers
+- Dragon’s Blood - 2. Blood Of The Dragon Father
+- Dragon’s Blood - 3. Blood Thirsty
+
+
 ## Comes With
 
 - [Core Game](../content.md)

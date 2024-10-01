@@ -41,6 +41,13 @@ ___
 | Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Crusaders unit](../units/crusaders.md). |
 
 
+## Appearances As Player Hero
+
+- Long Live The Queen - 1. Homecoming
+- Long Live The Queen - 2. Guardian Angels
+- Long Live The Queen - 3. Steadwick's Liberation
+
+
 ## Comes With
 
 - [Core Game](../content.md)

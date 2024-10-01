@@ -41,6 +41,11 @@ ___
 | Ⅵ | 🚧 |
 
 
+## Appearances As Enemy Hero
+
+- Rise Of The Necromancer - 3. Duke Alarice
+
+
 ## Comes With
 
 - [Regular Stretch Goals](../content.md)

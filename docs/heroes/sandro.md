@@ -41,6 +41,13 @@ ___
 | Ⅵ | Put this card on the [Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Legion of Skeletons**<br>:attack: 4 :defense: 1 :health_points: 2 :initiative: 6 |
 
 
+## Appearances As Player Hero
+
+- Rise Of The Necromancer - 1. Target
+- Rise Of The Necromancer - 2. Master
+- Rise Of The Necromancer - 3. Duke Alarice
+
+
 ## Notes
 
 - Cloak of the Undead King Ⅰ and Ⅳ - this can only be played on a pack of Skeletons or Zombies, adding another amount to them, named "Horde".

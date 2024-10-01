@@ -41,6 +41,12 @@ ___
 | Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2.<br><br>This effect doubles for the [Elves](../units/elves.md) and [Sharpshooters units](../units/sharpshooters.md). |
 
 
+## Appearances As Player Hero
+
+- Dead-cold Revenge - 1. Search For A Killer
+- Dead-cold Revenge - 3. Agents Of Vengeance
+
+
 ## Comes With
 
 - [Rampart Expansion](../content.md)

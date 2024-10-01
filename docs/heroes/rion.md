@@ -41,6 +41,12 @@ ___
 | Ⅵ | :instant: Remove up to 2 :damage: or :paralysis: from one of your [units](../units/index.md), then draw 2 cards and discard 1 card from your hand. |
 
 
+## Appearances As Player Hero
+
+- Long Live The Queen - 2. Guardian Angels
+- Long Live The Queen - 3. Steadwick's Liberation
+
+
 ## Comes With
 
 - [Core Game](../content.md)

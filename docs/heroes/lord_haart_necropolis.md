@@ -41,6 +41,11 @@ ___
 | Ⅵ | :instant: Reduce the :damage: from enemy retaliation by 2.<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md). |
 
 
+## Appearances As Enemy Hero
+
+- Playing With Fire - 3. Burning Of Tatalia
+
+
 ## Comes With
 
 - [Tower Expansion](../content.md)

@@ -41,6 +41,14 @@ ___
 | Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2.<br><br>This effect doubles for the [Magi](../units/magi.md) and [Enchanters units](../units/enchanters.md). |
 
 
+## Appearances
+
+- The Dragon Slayer - 1. Crystal Dragons
+- The Dragon Slayer - 2. Rust Dragons
+- The Dragon Slayer - 3. Faerie Dragons
+- The Dragon Slayer - 4. Azure Dragons
+
+
 ## Comes With
 
 - [Tower Expansion](../content.md)
