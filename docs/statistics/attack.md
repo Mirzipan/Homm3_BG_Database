@@ -1,12 +1,16 @@
 # Attack
 
-<figure markdown="span">
+=== "Regular"
 
-![Attack](../assets/statistics-attack.webp){ width="340" align=left }
+    <figure markdown="span">
+        ![Regular Attack](../assets/statistics-attack.webp){ width="340" align=right }
+    </figure>
 
-![Empowered Attack](../assets/statistics-attack-empowered.webp){ width="340" align=right }
+=== "Empowered"
 
-</figure>
+    <figure markdown="span">
+        ![Empowered Attack](../assets/statistics-attack-empowered.webp){ width="340" align=right }
+    </figure>
 
 
 | Type |Effect | :expert: Effect |

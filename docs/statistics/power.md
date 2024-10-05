@@ -1,12 +1,16 @@
 # Power
 
-<figure markdown="span">
+=== "Regular"
 
-![Power](../assets/statistics-power.webp){ width="340" align=left }
+    <figure markdown="span">
+        ![Regular Power](../assets/statistics-power.webp){ width="340" align=right }
+    </figure>
 
-![Empowered Power](../assets/statistics-power-empowered.webp){ width="340" align=right }
+=== "Empowered"
 
-</figure>
+    <figure markdown="span">
+        ![Empowered Power](../assets/statistics-power-empowered.webp){ width="340" align=right }
+    </figure>
 
 
 | Type |Effect | :expert: Effect |

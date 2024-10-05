@@ -1,12 +1,16 @@
 # Defense
 
-<figure markdown="span">
+=== "Regular"
 
-![Defense](../assets/statistics-defense.webp){ width="340" align=left }
+    <figure markdown="span">
+        ![Regular Defense](../assets/statistics-defense.webp){ width="340" align=right }
+    </figure>
 
-![Empowered Defense](../assets/statistics-defense-empowered.webp){ width="340" align=right }
+=== "Empowered"
 
-</figure>
+    <figure markdown="span">
+        ![Empowered Defense](../assets/statistics-defense-empowered.webp){ width="340" align=right }
+    </figure>
 
 
 | Type |Effect | :expert: Effect |

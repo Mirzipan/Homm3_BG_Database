@@ -1,12 +1,16 @@
 # Knowledge
 
-<figure markdown="span">
+=== "Regular"
 
-![Knowledge](../assets/statistics-knowledge.webp){ width="340" align=left }
+    <figure markdown="span">
+        ![Regular Knowledge](../assets/statistics-knowledge.webp){ width="340" align=right }
+    </figure>
 
-![Empowered Knowledge](../assets/statistics-knowledge-empowered.webp){ width="340" align=right }
+=== "Empowered"
 
-</figure>
+    <figure markdown="span">
+        ![Empowered Knowledge](../assets/statistics-knowledge-empowered.webp){ width="340" align=right }
+    </figure>
 
 
 | Type |Effect | :expert: Effect |
