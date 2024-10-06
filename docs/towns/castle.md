@@ -1,9 +1,24 @@
 # Castle
 
-Castle town comes with the [Core Game](../content.md).
-
-
 ## Buildings
+
+=== "Empty"
+
+    <figure markdown="span">
+        ![Empty Castle](../assets/towns-castle-empty.webp){ width="680" align=right }
+    </figure>
+
+=== "Fully Built"
+
+    <figure markdown="span">
+        ![Fully Built Castle](../assets/towns-castle-full.webp){ width="680" align=right }
+    </figure>
+
+=== "Back Side"
+
+    <figure markdown="span">
+        ![Back Side Of Castle](../assets/towns-castle-back.webp){ width="680" align=right }
+    </figure>
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
@@ -36,6 +51,11 @@ Castle town comes with the [Core Game](../content.md).
 - :silver: [Zealots](../units/zealots.md)
 - :golden: [Champions](../units/champions.md)
 - :golden: [Archangels](../units/archangels.md)
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

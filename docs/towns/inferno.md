@@ -1,9 +1,24 @@
 # Inferno
 
-Inferno town comes with the [Inferno Expansion](../content.md).
-
-
 ## Buildings
+
+=== "Empty"
+
+    <figure markdown="span">
+        ![Empty Inferno](../assets/towns-inferno-empty.webp){ width="680" align=right }
+    </figure>
+
+=== "Fully Built"
+
+    <figure markdown="span">
+        ![Fully Built Inferno](../assets/towns-inferno-full.webp){ width="680" align=right }
+    </figure>
+
+=== "Back Side"
+
+    <figure markdown="span">
+        ![Back Side Of Inferno](../assets/towns-inferno-back.webp){ width="680" align=right }
+    </figure>
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
@@ -34,6 +49,11 @@ Inferno town comes with the [Inferno Expansion](../content.md).
 - :silver: [Pit Lords](../units/pit_lords.md)
 - :golden: [Efreet](../units/efreet.md)
 - :golden: [Arch Devils](../units/arch_devils.md)
+
+
+## Comes With
+
+- [Inferno Expansion](../content.md)
 
 
 ## See Also

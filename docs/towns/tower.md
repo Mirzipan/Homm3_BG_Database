@@ -1,9 +1,24 @@
 # Tower
 
-Tower town comes with the [Tower Expansion](../content.md).
-
-
 ## Buildings
+
+=== "Empty"
+
+    <figure markdown="span">
+        ![Empty Tower](../assets/towns-tower-empty.webp){ width="680" align=right }
+    </figure>
+
+=== "Fully Built"
+
+    <figure markdown="span">
+        ![Fully Built Tower](../assets/towns-tower-full.webp){ width="680" align=right }
+    </figure>
+
+=== "Back Side"
+
+    <figure markdown="span">
+        ![Back Side Of Tower](../assets/towns-tower-back.webp){ width="680" align=right }
+    </figure>
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
@@ -34,6 +49,11 @@ Tower town comes with the [Tower Expansion](../content.md).
 - :silver: [Genies](../units/genies.md)
 - :golden: [Nagas](../units/nagas.md)
 - :golden: [Titans](../units/titans.md)
+
+
+## Comes With
+
+- [Tower Expansion](../content.md)
 
 
 ## See Also

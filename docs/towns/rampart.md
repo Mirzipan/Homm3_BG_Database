@@ -1,9 +1,24 @@
 # Rampart
 
-Rampart town comes with the [Rampart Expansion](../content.md).
-
-
 ## Buildings
+
+=== "Empty"
+
+    <figure markdown="span">
+        ![Empty Rampart](../assets/towns-rampart-empty.webp){ width="680" align=right }
+    </figure>
+
+=== "Fully Built"
+
+    <figure markdown="span">
+        ![Fully Built Rampart](../assets/towns-rampart-full.webp){ width="680" align=right }
+    </figure>
+
+=== "Back Side"
+
+    <figure markdown="span">
+        ![Back Side Of Rampart](../assets/towns-rampart-back.webp){ width="680" align=right }
+    </figure>
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
@@ -34,6 +49,11 @@ Rampart town comes with the [Rampart Expansion](../content.md).
 - :silver: [Dendroids](../units/dendroids.md)
 - :golden: [Unicorns](../units/unicorns.md)
 - :golden: [Gold Dragons](../units/gold_dragons.md)
+
+
+## Comes With
+
+- [Rampart Expansion](../content.md)
 
 
 ## See Also

@@ -1,9 +1,24 @@
 # Fortress
 
-Fortress town comes with the [Fortress Expansion](../content.md).
-
-
 ## Buildings
+
+=== "Empty"
+
+    <figure markdown="span">
+        ![Empty Fortress](../assets/towns-fortress-empty.webp){ width="680" align=right }
+    </figure>
+
+=== "Fully Built"
+
+    <figure markdown="span">
+        ![Fully Built Fortress](../assets/towns-fortress-full.webp){ width="680" align=right }
+    </figure>
+
+=== "Back Side"
+
+    <figure markdown="span">
+        ![Back Side Of Fortress](../assets/towns-fortress-back.webp){ width="680" align=right }
+    </figure>
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
@@ -34,6 +49,11 @@ Fortress town comes with the [Fortress Expansion](../content.md).
 - :silver: [Gorgons](../units/gorgons.md)
 - :golden: [Wyverns](../units/wyverns.md)
 - :golden: [Hydras](../units/hydras.md)
+
+
+## Comes With
+
+- [Fortress Expansion](../content.md)
 
 
 ## See Also

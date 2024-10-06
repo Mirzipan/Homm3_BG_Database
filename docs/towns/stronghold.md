@@ -1,8 +1,5 @@
 # Stronghold
 
-Stronghold town comes with the [Stronghold Expansion](../content.md).
-
-
 ## Buildings
 
 | Name | Building Cost | Effect |
@@ -36,6 +33,11 @@ Stronghold town comes with the [Stronghold Expansion](../content.md).
 - :silver: [Thunderbirds](../units/thunderbirds.md)
 - :golden: [Cyclops](../units/cyclops.md)
 - :golden: [Behemoths](../units/behemoths.md)
+
+
+## Comes With
+
+- [Stronghold Expansion](../content.md)
 
 
 ## See Also

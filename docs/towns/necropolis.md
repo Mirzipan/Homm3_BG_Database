@@ -1,9 +1,24 @@
 # Necropolis
 
-Necropolis town comes with the [Core Game](../content.md).
-
-
 ## Buildings
+
+=== "Empty"
+
+    <figure markdown="span">
+        ![Empty Necropolis](../assets/towns-necropolis-empty.webp){ width="680" align=right }
+    </figure>
+
+=== "Fully Built"
+
+    <figure markdown="span">
+        ![Fully Built Necropolis](../assets/towns-necropolis-full.webp){ width="680" align=right }
+    </figure>
+
+=== "Back Side"
+
+    <figure markdown="span">
+        ![Back Side Of Necropolis](../assets/towns-necropolis-back.webp){ width="680" align=right }
+    </figure>
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
@@ -41,6 +56,11 @@ Necropolis town comes with the [Core Game](../content.md).
 ## Abilities
 
 - :necro: [Necromancy](../abilities/necromancy.md)
+
+
+## Comes With
+
+- [Core Game](../content.md)
 
 
 ## See Also

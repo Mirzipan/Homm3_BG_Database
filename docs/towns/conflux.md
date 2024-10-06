@@ -1,8 +1,5 @@
 # Conflux
 
-Conflux town comes with the [Conflux Expansion](../content.md).
-
-
 ## Buildings
 
 | Name | Building Cost | Effect |
@@ -36,6 +33,11 @@ Conflux town comes with the [Conflux Expansion](../content.md).
 - :silver: [Magma Elementals](../units/magma_elementals.md)
 - :golden: [Magic Elementals](../units/magic_elementals.md)
 - :golden: [Phoenixes](../units/phoenixes.md)
+
+
+## Comes With
+
+- [Conflux Expansion](../content.md)
 
 
 ## See Also

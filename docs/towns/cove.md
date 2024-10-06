@@ -1,8 +1,5 @@
 # Cove
 
-Cove town comes with the [Cove Expansion](../content.md).
-
-
 ## Buildings
 
 | Name | Building Cost | Effect |
@@ -34,6 +31,11 @@ Cove town comes with the [Cove Expansion](../content.md).
 - :silver: [Sorceresses](../units/sorceresses.md)
 - :golden: [Nix](../units/nix.md)
 - :golden: [Haspids](../units/haspids.md)
+
+
+## Comes With
+
+- [Cove Expansion](../content.md)
 
 
 ## See Also
