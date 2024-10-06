@@ -16,7 +16,7 @@ ___
 ## Heroes With Starting Ability
 
 - [:might: Erdamon](../heroes/erdamon.md)
-- [:might: Lord Haart (Castle)](../heroes/lord_haart_castle_.md)
+- [:might: Lord Haart (Castle)](../heroes/lord_haart_castle.md)
 
 
 ## Comes With

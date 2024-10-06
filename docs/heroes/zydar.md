@@ -1,17 +1,16 @@
 # Zydar
 
+<p style="text-align: center;" markdown>![Zydar](../assets/heroes-inferno-magic-zydar.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Heretic](index.md)</p>
 ___
 <p style="text-align: center;" markdown>[Inferno](../towns/inferno.md)</p>
 ___
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
-| :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 1 | 2 | 1 | [Sorcery](../abilities/sorcery.md) | [Sorcery](#specialty) |
-
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
 ___
-
+<p style="text-align: center;" markdown>[Sorcery](../abilities/sorcery.md)</p>
+___
 
 ## Specialty
 
@@ -50,3 +49,4 @@ ___
 
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
+

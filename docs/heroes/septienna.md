@@ -1,17 +1,16 @@
 # Septienna
 
+<p style="text-align: center;" markdown>![Septienna](../assets/player-deck-back.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Necromancer](index.md)</p>
 ___
 <p style="text-align: center;" markdown>[Necropolis](../towns/necropolis.md)</p>
 ___
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
-| :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 0 | 2 | 2 | [Necromancy](../abilities/necromancy.md) | [Death Ripple](#specialty) |
-
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
 ___
-
+<p style="text-align: center;" markdown>[Necromancy](../abilities/necromancy.md)</p>
+___
 
 ## Specialty
 
@@ -50,3 +49,4 @@ ___
 
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
+

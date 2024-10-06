@@ -1,36 +1,35 @@
 # Tarnum (Conflux)
 
+<p style="text-align: center;" markdown>![Tarnum (Conflux)](../assets/player-deck-back.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Elementalist](index.md)</p>
 ___
 <p style="text-align: center;" markdown>[Conflux](../towns/conflux.md)</p>
 ___
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
-| :---: | :---: | :---: | :---: | :--- | :--- |
-| 0 | 0 | 2 | 3 | [Wisdom](../abilities/wisdom.md) | [🚧](#specialty) |
-
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>
 ___
-
+<p style="text-align: center;" markdown>[Wisdom](../abilities/wisdom.md)</p>
+___
 
 ## Specialty
 
 === "🚧 Ⅰ"
 
     <figure markdown="span">
-        ![🚧 Ⅰ](../assets/hero_specialties-conflux-tarnum-1.webp){ width="340" align=right }
+        ![🚧 Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "🚧 Ⅳ"
 
     <figure markdown="span">
-        ![🚧 Ⅳ](../assets/hero_specialties-conflux-tarnum-4.webp){ width="340" align=right }
+        ![🚧 Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "🚧 Ⅵ"
 
     <figure markdown="span">
-        ![🚧 Ⅵ](../assets/hero_specialties-conflux-tarnum-7.webp){ width="340" align=right }
+        ![🚧 Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 
@@ -51,3 +50,4 @@ ___
 - [Tarnum (Stronghold)](tarnum_stronghold.md)
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
+

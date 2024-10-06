@@ -1,17 +1,16 @@
 # Gelu
 
+<p style="text-align: center;" markdown>![Gelu](../assets/heroes-rampart-might-gelu.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Ranger](index.md)</p>
 ___
 <p style="text-align: center;" markdown>[Rampart](../towns/rampart.md)</p>
 ___
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
-| :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 3 | 1 | 1 | [Archery](../abilities/archery.md) | [Sharpshooters](#specialty) |
-
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;3</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
 ___
-
+<p style="text-align: center;" markdown>[Archery](../abilities/archery.md)</p>
+___
 
 ## Specialty
 
@@ -56,3 +55,4 @@ ___
 
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
+

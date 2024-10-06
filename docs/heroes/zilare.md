@@ -1,17 +1,16 @@
 # Zilare
 
+<p style="text-align: center;" markdown>![Zilare](../assets/player-deck-back.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Navigator](index.md)</p>
 ___
 <p style="text-align: center;" markdown>[Cove](../towns/cove.md)</p>
 ___
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
-| :---: | :---: | :---: | :---: | :--- | :--- |
-| 2 | 1 | 1 | 1 | [Interference](../abilities/interference.md) | [Forgetfulness](#specialty) |
-
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
 ___
-
+<p style="text-align: center;" markdown>[Interference](../abilities/interference.md)</p>
+___
 
 ## Specialty
 
@@ -50,3 +49,4 @@ ___
 
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
+

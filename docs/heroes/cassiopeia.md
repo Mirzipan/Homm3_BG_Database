@@ -1,17 +1,16 @@
 # Cassiopeia
 
+<p style="text-align: center;" markdown>![Cassiopeia](../assets/player-deck-back.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Captain](index.md)</p>
 ___
 <p style="text-align: center;" markdown>[Cove](../towns/cove.md)</p>
 ___
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
-| :---: | :---: | :---: | :---: | :--- | :--- |
-| 3 | 0 | 2 | 1 | [Tactics](../abilities/tactics.md) | [Oceanids](#specialty) |
-
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;3</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
 ___
-
+<p style="text-align: center;" markdown>[Tactics](../abilities/tactics.md)</p>
+___
 
 ## Specialty
 
@@ -50,3 +49,4 @@ ___
 
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
+

@@ -34,7 +34,7 @@
 
 ## Heroes With A Specialty
 
-- [:might: Lord Haart (Necropolis)](../heroes/lord_haart_necropolis_.md#specialty)
+- [:might: Lord Haart (Necropolis)](../heroes/lord_haart_necropolis.md#specialty)
 - [:might: Tamika](../heroes/tamika.md#specialty)
 
 

@@ -1,17 +1,16 @@
 # Lord Haart (Castle)
 
+<p style="text-align: center;" markdown>![Lord Haart (Castle)](../assets/heroes-castle-might-lord_haart.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Knight](index.md)</p>
 ___
 <p style="text-align: center;" markdown>[Castle](../towns/castle.md)</p>
 ___
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
-| :---: | :---: | :---: | :---: | :--- | :--- |
-| 2 | 2 | 1 | 1 | [Estates](../abilities/estates.md) | [Estates](#specialty) |
-
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
 ___
-
+<p style="text-align: center;" markdown>[Estates](../abilities/estates.md)</p>
+___
 
 ## Specialty
 
@@ -51,3 +50,4 @@ ___
 - [Lord Haart (Necropolis)](lord_haart_necropolis.md)
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
+

@@ -1,17 +1,16 @@
 # Bron
 
+<p style="text-align: center;" markdown>![Bron](../assets/heroes-fortress-might-bron.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Beastmaster](index.md)</p>
 ___
 <p style="text-align: center;" markdown>[Fortress](../towns/fortress.md)</p>
 ___
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
-| :---: | :---: | :---: | :---: | :--- | :--- |
-| 0 | 4 | 1 | 1 | [Resistance](../abilities/resistance.md) | [Basilisks](#specialty) |
-
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;4</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
 ___
-
+<p style="text-align: center;" markdown>[Resistance](../abilities/resistance.md)</p>
+___
 
 ## Specialty
 
@@ -50,3 +49,4 @@ ___
 
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
+

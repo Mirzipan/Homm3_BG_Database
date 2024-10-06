@@ -1,17 +1,16 @@
 # Iona
 
+<p style="text-align: center;" markdown>![Iona](../assets/heroes-tower-might-iona.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Alchemist](index.md)</p>
 ___
 <p style="text-align: center;" markdown>[Tower](../towns/tower.md)</p>
 ___
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
-| :---: | :---: | :---: | :---: | :--- | :--- |
-| 1 | 1 | 2 | 2 | [Intelligence](../abilities/intelligence.md) | [Genies](#specialty) |
-
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
 ___
-
+<p style="text-align: center;" markdown>[Intelligence](../abilities/intelligence.md)</p>
+___
 
 ## Specialty
 
@@ -50,3 +49,4 @@ ___
 
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
+

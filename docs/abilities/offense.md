@@ -19,7 +19,7 @@ ___
 - [:might: Ivor](../heroes/ivor.md)
 - [:might: Jeremy](../heroes/jeremy.md)
 - [:might: Tamika](../heroes/tamika.md)
-- [:might: Tarnum (Stronghold)](../heroes/tarnum_stronghold_.md)
+- [:might: Tarnum (Stronghold)](../heroes/tarnum_stronghold.md)
 - [:might: Yog](../heroes/yog.md)
 
 

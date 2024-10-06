@@ -21,4 +21,4 @@ ___
 ## See Also
 
 - [List of Abilities](index.md)
-- [List of Spells](..spells/index.md)
+- [List of Spells](../spells/index.md)

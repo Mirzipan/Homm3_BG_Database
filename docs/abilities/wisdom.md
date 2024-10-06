@@ -22,7 +22,7 @@ ___
 - [:magic: Dracon](../heroes/dracon.md)
 - [:magic: Gundula](../heroes/gundula.md)
 - [:magic: Rion](../heroes/rion.md)
-- [:magic: Tarnum (Conflux)](../heroes/tarnum_conflux_.md)
+- [:magic: Tarnum (Conflux)](../heroes/tarnum_conflux.md)
 - [:magic: Xyron](../heroes/xyron.md)
 
 

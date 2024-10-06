@@ -1,17 +1,16 @@
 # Catherine
 
+<p style="text-align: center;" markdown>![Catherine](../assets/heroes-castle-might-catherine.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Knight](index.md)</p>
 ___
 <p style="text-align: center;" markdown>[Castle](../towns/castle.md)</p>
 ___
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
-| :---: | :---: | :---: | :---: | :--- | :--- |
-| 2 | 2 | 1 | 1 | [Leadership](../abilities/leadership.md) | [Crusaders](#specialty) |
-
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
 ___
-
+<p style="text-align: center;" markdown>[Leadership](../abilities/leadership.md)</p>
+___
 
 ## Specialty
 
@@ -57,3 +56,4 @@ ___
 
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
+

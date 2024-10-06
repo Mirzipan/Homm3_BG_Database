@@ -1,17 +1,16 @@
 # Solmyr
 
+<p style="text-align: center;" markdown>![Solmyr](../assets/heroes-tower-magic-solmyr.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Wizard](index.md)</p>
 ___
 <p style="text-align: center;" markdown>[Tower](../towns/tower.md)</p>
 ___
 
-| [:attack:](../statistics/attack.md) | [:defense:](../statistics/defense.md) | [:empower:](../statistics/power.md) | [:skill:](../statistics/knowledge.md) | [Ability](../abilities/index.md) | Specialty |
-| :---: | :---: | :---: | :---: | :--- | :--- |
-| 0 | 0 | 2 | 3 | [Sorcery](../abilities/sorcery.md) | [Chain Lightning](#specialty) |
-
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>
 ___
-
+<p style="text-align: center;" markdown>[Sorcery](../abilities/sorcery.md)</p>
+___
 
 ## Specialty
 
@@ -58,3 +57,4 @@ ___
 
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
+
