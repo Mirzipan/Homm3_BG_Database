@@ -1,6 +1,6 @@
-# Adelaide
+# Adelaide (Alt)
 
-<p style="text-align: center;" markdown>![Air Magic](../assets/heroes-castle-magic-adelaide.webp){ width="340" align=right }</p>
+<p style="text-align: center;" markdown>![Air Magic](../assets/heroes-castle-magic-adelaide.webp){ width="680" align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Cleric](index.md)</p>
 ___
