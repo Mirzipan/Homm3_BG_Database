@@ -18,6 +18,11 @@ ___
 - [:might: Tazar](../heroes/tazar.md)
 
 
+## Notes
+
+- Armorer may also be played outside of Combat, in order to draw a card. In such case, the defense bonus is unused and lost.
+
+
 ## Comes With
 
 - [Core Game](../content.md)

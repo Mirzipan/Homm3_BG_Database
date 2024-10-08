@@ -20,6 +20,11 @@ ___
 - [:might: Wystan](../heroes/wystan.md)
 
 
+## Notes
+
+- This ability is active during each ranged attack of the Combat round, which means that it applies to both attacks of Elves and Sharpshooters.
+
+
 ## Comes With
 
 - [Core Game](../content.md)

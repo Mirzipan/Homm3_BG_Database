@@ -18,6 +18,12 @@ ___
 - [:might: Bron](../heroes/bron.md)
 
 
+## Notes
+
+- The player's primary hero must take part in the Combat. It is not possible to play Resistance if the enemy hero is in Combat with neutral units or another player.
+- Resistance can nullify any spells cast by the enemy, not just those that target friendly units.
+
+
 ## Comes With
 
 - [Core Game](../content.md)

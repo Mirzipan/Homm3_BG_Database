@@ -26,6 +26,7 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons/glyphs
+  - footnotes
 
 theme:
   name: material

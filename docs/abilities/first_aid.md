@@ -18,6 +18,12 @@ ___
 - [:magic: Gem](../heroes/gem.md)
 
 
+## Notes
+
+- The expert effect can only be played when the First Aid Tent activates, which can only happen at the beginning of each Combat round.
+- Without an active First Aid Tent, only the basic effect of this ability can be resolved. 
+
+
 ## Comes With
 
 - [Rampart Expansion](../content.md)

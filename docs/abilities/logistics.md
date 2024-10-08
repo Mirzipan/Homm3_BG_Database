@@ -19,6 +19,13 @@ ___
 - [:might: Monere](../heroes/monere.md)
 
 
+## Notes
+
+- Fields are considered empty if they can not provide an effect or no longer provide an effect. This means that fields with black cubes or the player's faction cubes count as empty.
+- The additional Movement point may also be granted to the secondary hero.
+- The additional Movement point is single use effect, it does not permanently increase the maximum movement points of a hero.
+
+
 ## Comes With
 
 - [Core Game](../content.md)

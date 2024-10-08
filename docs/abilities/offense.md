@@ -23,6 +23,11 @@ ___
 - [:might: Yog](../heroes/yog.md)
 
 
+## Notes
+
+- Offense may also be played outside of Combat, in order to draw a card. In such case, the attack bonus is unused and lost.
+
+
 ## Comes With
 
 - [Core Game](../content.md)

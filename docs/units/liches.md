@@ -43,11 +43,9 @@
 - The extra attacks of Liches also trigger when attacking an adjacent target.
 - Should the Liches attack a unit and there is only a friendly unit adjacent to their target, then the friendly unit will be the target of their secondary attack.
 - Should the Liches attack an adjacent unit, and there is no other unit adjacent to the target, the Liches deal the damage of the second attack to themselves.
-- (?) Should the Liches attack an adjacent unit, and there is another friendly unit adjacent to the target, they may target themselves for the second attack.
-- (?) Should the Liches attack an adjacent unit, and the Liches die as a result of their target retaliation attack, the secondary attack is still carried out.
-- (?) Only on the large Battlefield: Should the Liches attack an adjacent unit, and both them, and their target have a common adjacent enemy to them, and this common adjacent unit is dealt damage from the secondary attack, both, the original target and the target of their secondary attack perform a retaliation attack against the Liches.
-
-*Lines prefixed with (?) are not officially confirmed by game designers, and are therefore considered Community rules.*
+- [^1] Should the Liches attack an adjacent unit, and there is another friendly unit adjacent to the target, they may target themselves for the second attack.
+- [^1] Should the Liches attack an adjacent unit, and the Liches die as a result of their target retaliation attack, the secondary attack is still carried out.
+- [^1] Only on the large Battlefield: Should the Liches attack an adjacent unit, and both them, and their target have a common adjacent enemy to them, and this common adjacent unit is dealt damage from the secondary attack, both, the original target and the target of their secondary attack perform a retaliation attack against the Liches.
 
 
 ## Comes With
@@ -59,3 +57,6 @@
 
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)
+
+
+[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.
