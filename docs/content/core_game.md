@@ -15,3 +15,8 @@ ___
 ## See Also
 
 - [List of Content](index.md)
+
+
+## External Links
+
+- [Archon - Buy Core Game](https://archon-studio.com/homm3boardgame)
