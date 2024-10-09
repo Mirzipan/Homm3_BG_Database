@@ -75,6 +75,9 @@ extra_javascript:
 
 plugins:
   - search
+  - exclude-search:
+      exclude:
+        - /*/index.md
 
 repo_url: https://github.com/Mirzipan/Homm3_BG_Database
 repo_name: Mirzipan/Homm3_BG_Database
