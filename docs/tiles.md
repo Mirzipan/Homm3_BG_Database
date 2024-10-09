@@ -9,7 +9,7 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 
 ## Starting
 
-| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content.md) |
+| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content/index.md) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | S1 | Dirt | ❌ | - | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | [Necropolis Town](towns/necropolis.md) | [Resources](fields.md#visitable) | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | Core |
 | S2 | Subterranean | - | ❌ | [Resources](fields.md#visitable) | [Dungeon Town](towns/dungeon.md) | Ⅰ<br><br>:building_materials: [Mine](fields.md#flaggable) | Ⅰ<br><br>[Treasure](fields.md#visitable) | - | Core |
@@ -25,7 +25,7 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 
 ## Far
 
-| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content.md) |
+| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content/index.md) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | F1 | Dirt | Ⅲ<br><br>[Necropolis Settlement](towns/necropolis.md) | [Windmill](fields.md#visitable) | ❌ | - | Ⅱ<br><br>[Artifact](artifacts/index.md) | [Trading Post](trading.md) | [Stables](fields.md#revisitable) | Core |
 | F2 | Subterranean | [Trading Post](trading.md) | Ⅲ<br><br>[Dungeon Settlement](towns/dungeon.md) | [Shrine of Magic Incantation](spells/index.md) | - | Magic Spring | ❌ | [Artifact](artifacts/index.md) | Core |
@@ -62,7 +62,7 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 
 ## Near
 
-| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content.md) |
+| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content/index.md) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | N1 | Dirt | ❌ | [Windmill](fields.md#visitable) | Tree of Knowledge | Ⅳ<br><br>Witch Hut | Sanctuary | [Trading Post](trading.md) | Ⅴ<br><br>:valuables: [Mine](fields.md#flaggable) | Core |
 | N2 | Subterranean | Tree of Knowledge | ❌ | Ⅳ<br><br>Warrior's Tomb | Witch Hut | Sanctuary | Ⅴ<br><br>:valuables: [Mine](fields.md#flaggable) | [Shrine of Magic Gesture](spells/index.md) | Core |
@@ -85,7 +85,7 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 
 ## Center
 
-| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content.md) |
+| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content/index.md) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | C1 | Subterranean | Ⅵ<br><br>Pandora's Box | Fountain of Youth | Warrior's Tomb | Ⅶ<br><br>[Dragon Utopia](fields.md#flaggable) | ❌ | Mystical Garden | Ⅵ<br><br>[Shrine of Magic Gesture](spells/index.md) | Core |
 | C2 | Subterranean | Ⅵ<br><br>Tree of Knowledge | [Shrine of Magic Gesture](spells/index.md) | Mystical Garden | Ⅶ<br><br>Grail | Temple | Ⅵ<br><br>Pandora's Box | ❌ | Core |
@@ -97,7 +97,7 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 
 ## Underground
 
-| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content.md) |
+| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content/index.md) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | U1 🔮 | Subterranean | ❌ | Ⅴ<br><br>:building_materials: [Mine](fields.md#flaggable) | Learning Stone | - | Subterranean Gate | Spell Scroll | Ⅳ<br><br>[Treasure](fields.md#visitable) | 🚧 |
 | U2 🔮 | Subterranean | 🚧 | ❌ | - | Ⅴ<br><br>:building_materials: [Mine](fields.md#flaggable) | Magic Spring | [Resources](fields.md#visitable) | Witch Hut | 🚧 |
@@ -105,7 +105,7 @@ Roman numerals present on some fields represent [difficulty](difficulties.md).
 
 ## Water
 
-| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content.md) |
+| Identifier | Terrain | Top Left | Top Right | Left | Center | Right | Bottom Left | Bottom Right | [Content](content/index.md) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | W1 🔮 | Water | Ⅴ<br><br>:gold: [Mine](fields.md#flaggable) | [Resources](fields.md#visitable) | - | [Shrine of Magic Incantation](spells/index.md) | Learning Stone | ❌ | [Artifact](artifacts/index.md) | 🚧 |
 | W2 🔮 | Water | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 | 🚧 |

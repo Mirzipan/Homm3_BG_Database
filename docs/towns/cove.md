@@ -35,7 +35,7 @@
 
 ## Comes With
 
-- [Cove Expansion](../content.md)
+- [Cove Expansion](../content/cove_expansion.md)
 
 
 ## See Also

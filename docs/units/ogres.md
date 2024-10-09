@@ -34,7 +34,7 @@
 
 ## Comes With
 
-- [Stronghold Expansion](../content.md)
+- [Stronghold Expansion](../content/stronghold_expansion.md)
 
 
 ## See Also

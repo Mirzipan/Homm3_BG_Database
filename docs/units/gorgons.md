@@ -34,8 +34,8 @@
 
 ## Comes With
 
-- [Fortress Expansion](../content.md)
-- [Tower Expansion](../content.md) (Neutral)
+- [Fortress Expansion](../content/fortress_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md) (Neutral)
 
 
 ## See Also

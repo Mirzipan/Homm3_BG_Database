@@ -9,9 +9,15 @@ ___
 ___
 
 
+## Notes
+
+- If there are multiple units that the shortest path away from the target of this spell, the player owning the unit decides the direction of movement and the target of the attack.
+- 
+
+
 ## Comes With
 
-- [Tower Expansion](../content.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
 ## See Also

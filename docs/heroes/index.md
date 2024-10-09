@@ -1,7 +1,7 @@
 # List of Heroes
 
 
-| Name | [Town](../towns/index.md) | Class | [Ability](../abilities/index.md) | Specialty | [Content](../content.md) |
+| Name | [Town](../towns/index.md) | Class | [Ability](../abilities/index.md) | Specialty | [Content](../content/index.md) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Adelaide](adelaide.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Frost Ring](adelaide.md#specialty) | Tower |
 | [Catherine](catherine.md) | [Castle](../towns/castle.md) | :might: Knight | [Leadership](../abilities/leadership.md) | [Crusaders](catherine.md#specialty) | Core |

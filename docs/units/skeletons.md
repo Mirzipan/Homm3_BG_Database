@@ -40,7 +40,7 @@
 
 ## Comes With
 
-- [Core Game](../content.md)
+- [Core Game](../content/core_game.md)
 
 
 ## See Also

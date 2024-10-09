@@ -2,7 +2,7 @@
 
 In addition to their regular effects, any spell can also be discarded to provide +1 :empower:. This option is omitted from the table below to avoid information duplication.
 
-| Name | School | Level | Effect | [Content](../content.md) |
+| Name | School | Level | Effect | [Content](../content/index.md) |
 | :--- | :---: | :---: | :---: | :--- |
 | [Magic Arrow](magic_arrow.md) | All | Basic | :activation: The selected [unit](../units/index.md) suffers:<br><br>:empower: 0 - 1 :damage:<br>:empower: 1 - 2 :damage:<br>:empower: 2 - 3 :damage: | Core<br>Rampart<br>Fortress<br>Inferno |
 | [Air Shield](air_shield.md) | [Air](school_of_air_magic.md) | Basic | :ongoing: Until the end of the Combat, the selected [unit](../units/index.md) gains \* whenever it is attacked by a :unit_ranged: [unit](../units/index.md).<br><br>:empower: 0 - +1 :defense:<br>:empower: 1 - +2 :defense:<br>:empower: 2 - +3 :defense: | Regular Stretch Goals |

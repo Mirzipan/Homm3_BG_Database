@@ -49,7 +49,7 @@ ___
 
 ## Comes With
 
-- [Fortress Expansion](../content.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
 
 
 ## See Also

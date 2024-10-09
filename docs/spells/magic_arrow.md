@@ -17,10 +17,10 @@ ___
 
 ## Comes With
 
-- [Core Game](../content.md)
-- [Rampart Expansion](../content.md)
-- [Fortress Expansion](../content.md)
-- [Inferno Expansion](../content.md)
+- [Core Game](../content/core_game.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
+- [Inferno Expansion](../content/inferno_expansion.md)
 
 
 ## See Also

@@ -33,7 +33,7 @@
 
 ## Comes With
 
-- [Conflux Expansion](../content.md)
+- [Conflux Expansion](../content/conflux_expansion.md)
 
 
 ## See Also

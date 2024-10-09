@@ -34,8 +34,8 @@
 
 ## Comes With
 
-- [Rampart Expansion](../content.md)
-- [Tower Expansion](../content.md) (Neutral)
+- [Rampart Expansion](../content/rampart_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md) (Neutral)
 
 
 ## See Also

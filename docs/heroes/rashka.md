@@ -42,7 +42,7 @@ ___
 
 ## Comes With
 
-- [Inferno Expansion](../content.md)
+- [Inferno Expansion](../content/inferno_expansion.md)
 
 
 ## See Also

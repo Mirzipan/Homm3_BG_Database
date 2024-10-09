@@ -20,7 +20,7 @@
 
 ## Comes With
 
-- [Regular Stretch Goals](../content.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
 ## See Also

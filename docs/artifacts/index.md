@@ -1,6 +1,6 @@
 # List of Artifacts
 
-| Name | Quality | Effect | [Content](../content.md) |
+| Name | Quality | Effect | [Content](../content/index.md) |
 | :--- | :---: | :---: | :--- |
 | [Armor of Wonder](armor_of_wonder.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Draw 1 card and gain +1 :attack:.<br><br>— OR —<br><br>:instant: Draw 1 card and gain +1 :defense:. | Core |
 | [Blackshard of the Dead Knight](blackshard_of_the_dead_knight.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: +3 :attack: and discard 1 card. If the discarded card was a [spell](../spells/index.md), draw 1 card.<br><br>— OR —<br><br>:instant: +1 :attack: | Core |

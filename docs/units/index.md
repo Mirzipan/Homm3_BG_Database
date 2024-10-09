@@ -2,7 +2,7 @@
 
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
-| Name | Town | # |Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities | [Content](../content.md) |
+| Name | Town | # |Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities | [Content](../content/index.md) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- | :--- |
 | [Halberdiers](halberdiers.md) | [Castle](../towns/castle.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - | Core |
 | [Halberdiers](halberdiers.md) | [Castle](../towns/castle.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](../dice.md#attack-die) roll result. | Core |

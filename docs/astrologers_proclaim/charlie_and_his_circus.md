@@ -17,7 +17,7 @@ ___
 
 ## Comes With
 
-- [Rampart Expansion](../content.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
 
 
 ## See Also

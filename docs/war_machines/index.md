@@ -1,7 +1,7 @@
 # War Machines
 
 
-| Name | Ability | Cost at Blacksmith | Cost at Trade Post | [Content](../content.md) |
+| Name | Ability | Cost at Blacksmith | Cost at Trade Post | [Content](../content/index.md) |
 | :--- | :--- | ---: | ---: | :--- |
 | [Ammo Cart](ammo_cart.md) | :permanent: Your :unit_ranged: units ignore combat penalties and gain "+2 :initiative:". | 5 :gold: | 8 :gold: | Rampart |
 | [Ballista](ballista.md) | :permanent: At the beginning of each Combat round, deal 1 :damage: to the enemy unit with the lowest :initiative:. | 7 :gold: | 10 :gold: | Rampart |

@@ -9,9 +9,15 @@ ___
 ___
 
 
+## Notes
+
+- Only damage from an attack can be nullified. If the health points are reduced by other means of damage (such as abilities, spells, specialties, etc.), Ressurection cannot be played.
+- If damage from an attack is nullified, the resurrected unit will not retaliate, even if it has not performed a retaliation this round.
+
+
 ## Comes With
 
-- [Core Game](../content.md)
+- [Core Game](../content/core_game.md)
 
 
 ## See Also

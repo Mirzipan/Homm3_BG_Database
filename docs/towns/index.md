@@ -1,6 +1,6 @@
 # List of Towns
 
-| Name | [Content](../content.md) |
+| Name | [Content](../content/index.md) |
 | :--- | :--- |
 | [Castle](castle.md) | Core |
 | [Necropolis](necropolis.md) | Core |

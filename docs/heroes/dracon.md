@@ -50,7 +50,7 @@ ___
 
 ## Comes With
 
-- [Tower Expansion](../content.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
 ## See Also
