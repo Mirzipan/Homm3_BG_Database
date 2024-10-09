@@ -2,9 +2,9 @@
 
 | Name | [Content](../content/index.md) |
 | :--- | :--- |
-| [Castle](castle.md) | Core |
-| [Necropolis](necropolis.md) | Core |
-| [Dungeon](dungeon.md) | Core |
+| [Castle](castle.md) | [Core Game](../content/core_game.md) |
+| [Necropolis](necropolis.md) | [Core Game](../content/core_game.md) |
+| [Dungeon](dungeon.md) | [Core Game](../content/core_game.md) |
 | [Tower](tower.md) | Tower |
 | [Rampart](rampart.md) | Rampart |
 | [Fortress](fortress.md) | Fortress |

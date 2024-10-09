@@ -4,22 +4,22 @@
 | Name | [Town](../towns/index.md) | Class | [Ability](../abilities/index.md) | Specialty | [Content](../content/index.md) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Adelaide](adelaide.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Frost Ring](adelaide.md#specialty) | Tower |
-| [Catherine](catherine.md) | [Castle](../towns/castle.md) | :might: Knight | [Leadership](../abilities/leadership.md) | [Crusaders](catherine.md#specialty) | Core |
+| [Catherine](catherine.md) | [Castle](../towns/castle.md) | :might: Knight | [Leadership](../abilities/leadership.md) | [Crusaders](catherine.md#specialty) | [Core Game](../content/core_game.md) |
 | [Ingham](ingham.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Mysticism](../abilities/mysticism.md) | [Zealots](ingham.md#specialty) | Regular Stretch Goals |
 | [Lord Haart](lord_haart_castle.md) | [Castle](../towns/castle.md) | :might: Knight | [Estates](../abilities/estates.md) | [Estates](lord_haart_castle.md#specialty) | Tower |
-| [Rion](rion.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Battlefield Medic](rion.md#specialty) | Core |
+| [Rion](rion.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Battlefield Medic](rion.md#specialty) | [Core Game](../content/core_game.md) |
 | [Valeska](valeska.md) | [Castle](../towns/castle.md) | :might: Knight | [Archery](../abilities/archery.md) | [Marksmen](valeska.md#specialty) | Regular Stretch Goals |
 | [Lord Haart](lord_haart_necropolis.md) | [Necropolis](../towns/necropolis.md) | :might: Death Knight | [Necromancy](../abilities/necromancy.md) | [Dread Knights](lord_haart_necropolis.md#specialty) | Tower |
 | [Moandor](moandor.md) | [Necropolis](../towns/necropolis.md) | :might: Death Knight | [Necromancy](../abilities/necromancy.md) | [Liches](moandor.md#specialty) | Regular Stretch Goals |
-| [Sandro](sandro.md) | [Necropolis](../towns/necropolis.md) | :magic: Necromancer | [Sorcery](../abilities/sorcery.md) | [Cloak of the Undead King](sandro.md#specialty) | Core |
+| [Sandro](sandro.md) | [Necropolis](../towns/necropolis.md) | :magic: Necromancer | [Sorcery](../abilities/sorcery.md) | [Cloak of the Undead King](sandro.md#specialty) | [Core Game](../content/core_game.md) |
 | [Septienna](septienna.md) | [Necropolis](../towns/necropolis.md) | :magic: Necromancer | [Necromancy](../abilities/necromancy.md) | [Death Ripple](septienna.md#specialty) | Regular Stretch Goals |
-| [Tamika](tamika.md) | [Necropolis](../towns/necropolis.md) | :might: Death Knight | [Offense](../abilities/offense.md) | [Dread Knights](tamika.md#specialty) | Core |
+| [Tamika](tamika.md) | [Necropolis](../towns/necropolis.md) | :might: Death Knight | [Offense](../abilities/offense.md) | [Dread Knights](tamika.md#specialty) | [Core Game](../content/core_game.md) |
 | [Vidomina](vidomina.md) | [Necropolis](../towns/necropolis.md) | :magic: Necromancer | [Necromancy](../abilities/necromancy.md) | [Necromancy](vidomina.md#specialty) | Tower |
-| [Alamar](alamar.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Wisdom](../abilities/wisdom.md) | [Resurrection](alamar.md#specialty) | Core |
+| [Alamar](alamar.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Wisdom](../abilities/wisdom.md) | [Resurrection](alamar.md#specialty) | [Core Game](../content/core_game.md) |
 | [Deemer](deemer.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Scouting](../abilities/scouting.md) | [Meteor Shower](deemer.md#specialty) | Tower |
 | [Jeddite](jeddite.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Sorcery](../abilities/sorcery.md) | [Mysterious Warlock](jeddite.md#specialty) | Tower |
 | [Lorelei](lorelei.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Scouting](../abilities/scouting.md) | [Harpies](lorelei.md#specialty) | Regular Stretch Goals |
-| [Mutare](mutare.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Tactics](../abilities/tactics.md) | [Dragons](mutare.md#specialty) | Core |
+| [Mutare](mutare.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Tactics](../abilities/tactics.md) | [Dragons](mutare.md#specialty) | [Core Game](../content/core_game.md) |
 | [Sephinroth](sephinroth.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Intelligence](../abilities/intelligence.md) | [Valuables](sephinroth.md#specialty) | Regular Stretch Goals |
 | [Cyra](cyra.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Diplomacy](../abilities/diplomacy.md) | [Haste](cyra.md#specialty) | Regular Stretch Goals |
 | [Dracon](dracon.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Wisdom](../abilities/wisdom.md) | [Enchanters](dracon.md#specialty) | Tower |
