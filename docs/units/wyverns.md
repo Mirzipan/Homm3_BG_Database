@@ -32,6 +32,12 @@
 | Abilities | :unit_attack: Place 1 faction cube on the target. At the beginning of its every activation, remove it to inflict 1 :damage:. | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:. | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die). On a "0" result, deal 1 :damage: to the target unit. |
 
 
+## Notes
+
+- **Few, Pack** - Enemy units, that were attacked by the Wyverns, receive damage on each activation, as long as there is at least one faction cube on them.
+- **Few, Pack** - If [Trolls](trolls.md) or [Wraiths](wraiths.md) were attacked by the Wyverns, both the damage and the healing take place simultaneously. This means [Trolls](trolls.md) only remove up to 2 :damage:. Nothing happens for faction (Few, Pack) [Wraiths](wraiths.md), and their Neutral variant removes up to 1 :damage:.
+
+
 ## Comes With
 
 - [Fortress Expansion](../content/fortress_expansion.md)

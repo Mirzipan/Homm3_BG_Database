@@ -40,8 +40,8 @@
 
 ## Notes
 
-- **Pack of Manticores** - Only the :defense: value printed on the target unit's card is ignored, bonuses provided by other cards are still valid.
-- **Pack of Manticores (Alternate)** - See [Paralysis](../keywords/paralysis.md)
+- **Pack** - Only the :defense: value printed on the target unit's card is ignored, bonuses provided by other cards are still valid.
+- **Pack (Alternate)** - See [Paralysis](../keywords/paralysis.md)
 
 
 ## Comes With

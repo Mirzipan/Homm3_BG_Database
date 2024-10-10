@@ -20,8 +20,8 @@ ___
 
 ## Notes
 
-- The expert effect can only be played when the First Aid Tent activates, which can only happen at the beginning of each Combat round.
-- Without an active First Aid Tent, only the basic effect of this ability can be resolved. 
+- The expert effect can only be played when the [First Aid Tent](../war_machines/first_aid_tent.md) activates, which can only happen at the beginning of each Combat round.
+- Without an active [First Aid Tent](../war_machines/first_aid_tent.md), only the basic effect of this ability can be resolved. 
 
 
 ## Comes With

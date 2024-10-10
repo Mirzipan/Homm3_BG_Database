@@ -28,8 +28,8 @@ ___
 
 ## Notes
 
-- Only the heroes belonging to the Necropolis Faction may play Necromancy.
-- If a hero that does not belong to the Necropolis Faction should draw it from the Ability deck, they may put it into the discard pile and draw another card instead. They may also choose to keep the card, they may, however, not play it.
+- Only the heroes belonging to the [Necropolis Faction](../towns/necropolis.md) may play Necromancy.
+- If a hero that does not belong to the [Necropolis Faction](../towns/necropolis.md) should draw it from the [Ability](index.md) deck, they may put it into the discard pile and draw another card instead. They may also choose to keep the card, they may, however, not play it.
 
 
 ## See Also

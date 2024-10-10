@@ -39,8 +39,8 @@
 
 ## Notes
 
-- **Pack of Black Dragons** - The effects of the player's own spells and specialties are also ignored.
-- **Pack of Black Dragons** - Specialties are the hero-specific cards (Ⅰ, Ⅳ, and Ⅵ).
+- **Pack** - The effects of the player's own spells and specialties are also ignored.
+- **Pack** - Specialties are the hero-specific cards (Ⅰ, Ⅳ, and Ⅵ).
 
 
 ## Comes With

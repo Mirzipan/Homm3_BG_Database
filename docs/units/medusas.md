@@ -34,7 +34,7 @@
 
 ## Notes
 
-- **Few Medusas** - after the Retaliation Attack, roll *another* die. The result of the die rolled as part of the attack does not apply to the ability.
+- **Few** - after the Retaliation Attack, roll *another* die. The result of the die rolled as part of the attack does not apply to the ability.
 - See [Paralysis](../keywords/paralysis.md)
 
 

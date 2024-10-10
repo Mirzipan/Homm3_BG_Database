@@ -32,6 +32,13 @@
 | Abilities | :unit_attack: Ignore the Retaliation Attack. | :unit_attack: Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. | :unit_attack: Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |
 
 
+## Notes
+
+- **Pack** - The attacks take place after each other and each of those attacks has a separate Attack Die roll. The player decides the order of attacks.
+- [^1] **Pack** - Neither of the attacks triggers a Retaliation Attack.
+- [^1] **Pack** - Hydras can not attack a unit and a Wall at the same time, only one or the other.
+
+
 ## Comes With
 
 - [Fortress Expansion](../content/fortress_expansion.md)
@@ -42,3 +49,6 @@
 
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)
+
+
+[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.

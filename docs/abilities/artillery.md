@@ -21,8 +21,8 @@ ___
 ## Notes
 
 - If multiple enemy units share the same (lowest) initiative, the player can choose which of those units should this ability deal damage to.
-- The expert effect can only be played when the Ballista activates, which can only happen at the beginning of each Combat round.
-- Without an active Ballista, only the basic effect of this ability can be resolved. 
+- The expert effect can only be played when the [Ballista](../war_machines/ballista.md) activates, which can only happen at the beginning of each Combat round.
+- Without an active [Ballista](../war_machines/ballista.md), only the basic effect of this ability can be resolved. 
 
 
 ## Comes With

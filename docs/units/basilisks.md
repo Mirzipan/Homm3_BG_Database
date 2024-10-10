@@ -37,6 +37,11 @@
 - [:might: Bron](../heroes/bron.md#specialty)
 
 
+## Notes
+
+- See [Paralysis](../keywords/paralysis.md)
+
+
 ## Comes With
 
 - [Fortress Expansion](../content/fortress_expansion.md)

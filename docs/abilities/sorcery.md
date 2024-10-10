@@ -24,8 +24,8 @@ ___
 
 ## Notes
 
-- Sorcery may also be played without playing a spell, in order to draw a card. In such case, the spell power bonus is unused and lost.
-- Sorcery may be played to first draw a card. A spell drawn in this way may then be played immediatelly after being drawn and receive the spell power bonus granted by Sorcery.
+- Sorcery may also be played without playing a [spell](../spells/index.md), in order to draw a card. In such case, the spell power bonus is unused and lost.
+- Sorcery may be played to first draw a card. A [spell](../spells/index.md) drawn in this way may then be played immediatelly after being drawn and receive the spell power bonus granted by Sorcery.
 
 
 ## Comes With

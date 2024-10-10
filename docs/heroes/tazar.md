@@ -40,6 +40,11 @@ ___
 | Ⅵ | :effect_map: Fron your hand, Remove 1 card or Discard 3 cards to draw an [Artifact](../artifacts/index.md) card from the top of the [Artifact](../artifacts/index.md) deck. |
 
 
+## Notes
+
+- **Ⅵ** - The player either removes any 1 card from their hand or they discard 3 cards. In either case, they get to draw the top card of the [Artifact](../artifacts/index.md) deck.
+
+
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)
