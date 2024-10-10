@@ -40,6 +40,11 @@ ___
 | Ⅵ | :activation: Select a space. All [units](../units/index.md) on this and the adjacent spaces take 1 :damage:. |
 
 
+## Notes
+
+- The :damage: from Inferno also applies to friendly units.
+
+
 ## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)

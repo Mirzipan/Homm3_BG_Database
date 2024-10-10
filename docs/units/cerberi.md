@@ -37,6 +37,11 @@
 - [:might: Fiona](../heroes/fiona.md#specialty)
 
 
+## Notes
+
+- **Pack, Neutral** - Should the Cerberi attack a unit and there is only a friendly unit adjacent to their target, then the friendly unit will take the damage.
+
+
 ## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)

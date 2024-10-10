@@ -32,6 +32,12 @@
 | Abilities | - | :unit_attack: When Magogs attack a target that is not adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. | :unit_attack: When Magogs attack a target that is non adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. |
 
 
+## Notes
+
+- **Pack, Neutral** - Should the Magogs attack a unit and there is only a friendly unit adjacent to their target, then the friendly unit will take the 1 :damage:.
+
+
+
 ## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
