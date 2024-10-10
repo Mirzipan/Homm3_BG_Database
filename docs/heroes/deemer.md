@@ -42,8 +42,8 @@ ___
 
 ## Notes
 
-- **Specialty Ⅰ and Ⅵ** - The specialty can be improved by spell power, just like a regular spell.
-- **Specialty Ⅰ and Ⅵ** - The :damage: from Meteor Shower also applies to friendly units.
+- **Ⅰ and Ⅵ** - The specialty can be improved by spell power, just like a regular spell.
+- **Ⅰ and Ⅵ** - The :damage: from Meteor Shower also applies to friendly units.
 - These specialties can be played as *instant* effects at any time during Combat, not just during the friendly unit activations.
 
 

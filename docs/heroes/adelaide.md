@@ -42,7 +42,8 @@ ___
 
 ## Notes
 
-- The :damage: from Frost Ring also applies to friendly units.
+- **Ⅰ and Ⅵ** - The :damage: from Frost Ring also applies to friendly units.
+- These specialties can be played as *instant* effects at any time during Combat, not just during the friendly unit activations.
 
 
 ## Comes With

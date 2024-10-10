@@ -49,7 +49,7 @@ ___
 
 ## Notes
 
-- **Ⅰ, Ⅳ** - this can only be played on a *pack* of [Skeletons](../units/skeletons.md) or [Zombies](../units/zombies.md), adding another amount to them, named "Horde".
+- **Ⅰ and Ⅳ** - this can only be played on a *pack* of [Skeletons](../units/skeletons.md) or [Zombies](../units/zombies.md), adding another amount to them, named "Horde".
 - **Ⅳ** - the abilities of the [Pack of Zombies](../units/zombies.md) become inactive if they are upgraded to a "Horde". Once the "Horde" is defeated and they become a "Pack" again, their abilities function as usual.
 - **Ⅵ** - can be playedon "Few", "Pack", or even "Horde" of [Skeletons](../units/skeletons.md).
 - [^1] **Ⅵ** - If the [Skeletons](../units/skeletons.md) are upgraded to a "Legion", they may be further upgraded to a "Pack" or a "Horde", but the "Legion" stays on top and its statistics are applied until defeated.

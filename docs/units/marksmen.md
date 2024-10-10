@@ -39,7 +39,7 @@
 
 ## Notes
 
-- The Marksmen can attack at most one additional time per activation, not more.
+- **Pack, Neutral** - The Marksmen can attack at most one additional time per activation, not more.
 
 
 ## Comes With

@@ -47,8 +47,8 @@ ___
 
 ## Notes
 
-- **Specialty Ⅳ** - The specialty can be improved by spell power, just like a regular spell.
-- **Specialty Ⅳ** - See [Resurrection Spell](../spells/resurrection.md)
+- **Ⅳ** - The specialty can be improved by spell power, just like a regular spell.
+- **Ⅳ** - See [Resurrection Spell](../spells/resurrection.md)
 
 
 ## Comes With

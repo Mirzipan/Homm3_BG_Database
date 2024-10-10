@@ -34,7 +34,8 @@
 
 ## Notes
 
-- The passive ability can be used at the moment when a friendly unit would be defeated.
+- **Pack** - The passive ability can be used at the moment when a friendly unit would be defeated.
+- **Pack** - See [Resurrection Spell](../spells/resurrection.md)
 
 
 ## Comes With

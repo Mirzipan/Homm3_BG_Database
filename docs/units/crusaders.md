@@ -39,7 +39,7 @@
 
 ## Notes
 
-- The [Attack die](../dice.md#attack-die) may be rerolled until the number on the die no longer equals "0".
+- **Pack, Neutral** - The [Attack die](../dice.md#attack-die) may be rerolled until the number on the die no longer equals "0".
 
 
 ## Comes With
