@@ -11,5 +11,6 @@
 | [Conflux Expansion](conflux_expansion.md) | *Upcoming Expansion*<br>[Conflux Faction](../towns/conflux.md)<br>Monoliths |
 | [Cove Expansion](cove_expansion.md) | *Upcoming Expansion*<br>[Cove Faction](../towns/cove.md)<br>[Water Tiles](../tiles.md#water) |
 | [Battlefield Expansion](battlefield_expansion.md) | Hex Battlefield With Obstacles<br>Adventure<br>Positive Morale Cards<br>Negative Morale Cards |
-| [Regular Stretch Goals](regular_stretch_goals.md) | *Upcoming Expansion*<br>[Neutral Units](../towns/neutral.md)<br>[Extra Heroes](../heroes/index.md)<br>[Alternative Pack of Manticores](../units/manticores.md) |
-| [Crystal Stretch Goals](crystal_stretch_goals.md) | *Upcoming Expansion*<br>🚧 |
+| [Azure Stretch Goals 2022](crystal_stretch_goals.md) | Props<br>Neutral Units<br>Faction Units<br> |
+| [Regular Stretch Goals 2024](regular_stretch_goals.md) | *Upcoming Expansion*<br>[Neutral Units](../towns/neutral.md)<br>[Extra Heroes](../heroes/index.md)<br>[Alternative Pack of Manticores](../units/manticores.md) |
+| [Crystal Stretch Goals 2024](crystal_stretch_goals.md) | *Upcoming Expansion*<br>🚧 |

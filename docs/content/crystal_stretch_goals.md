@@ -1,9 +1,13 @@
 # Crystal Stretch Goals 2024
 
-![Crystal Stretch Goals 2024](../assets/content-crystal_stretch_goals-box.webp){ width=540 align=right }
-___
+<figure markdown="span">
+	![Crystal Stretch Goals 2024](../assets/content-crystal_stretch_goals-box.webp){ width=540 align=right }
+</figure>
+
+
+## Inside The Box
+
 - *Unreleased*
-___
 
 
 ## See Also
