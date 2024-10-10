@@ -30,5 +30,6 @@ Here are some projects within the homm3bg community that are definitely worth a 
 
 - **Main Developer:** Mirzipan
 - **Visual References:** FlatPanda
+- **Notes:** Schlupf
 
 Thanks to the community for miscellaneous help, pointers, and ideas.
