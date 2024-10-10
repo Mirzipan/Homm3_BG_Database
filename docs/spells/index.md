@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # List of Spells
 
 In addition to their regular effects, any spell can also be discarded to provide +1 :empower:. This option is omitted from the table below to avoid information duplication.

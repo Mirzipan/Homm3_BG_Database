@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # List of Heroes
 
 

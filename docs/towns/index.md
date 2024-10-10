@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # List of Towns
 
 | Name | [Content](../content/index.md) |

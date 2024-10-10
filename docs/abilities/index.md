@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # List of Abilities
 
 | Name | Effect | :expert: Effect | [Content](../content/index.md) |

@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # Astrologers Proclaim
 
 All of the cards start with a prefix of 'Astrologers proclaim week of the'. In the interest of readability, this prefix has been removed from the names in the following table.

@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # List of Units
 
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.

@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # List of Artifacts
 
 | Name | Quality | Effect | [Content](../content/index.md) |
