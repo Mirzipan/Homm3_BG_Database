@@ -34,7 +34,7 @@
 
 ## Notes
 
-- Vampires heal on each attack, that include the attack against a Wall.
+- Vampires do not heal when attacking a Wall. Destroying a Wall is considered an action and not an actual attack.
 
 
 ## Comes With

@@ -37,6 +37,11 @@
 - [:might: Mutare](../heroes/mutare.md#specialty)
 
 
+## Notes
+
+- **Pack** - First the +1 is added to the Attack die result, before other effects are applied, such as the effect of the [Centaur's Axe](../artifacts/centaurs_axe.md).
+
+
 ## Comes With
 
 - [Core Game](../content/core_game.md)

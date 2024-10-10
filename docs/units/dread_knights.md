@@ -40,7 +40,7 @@
 
 ## Notes
 
-- [^1] Should the Dread Knights attack neutral [Crusaders](../units/crusaders.md), when the [Crusaders](../units/crusaders.md) retaliate against a few Dread Knights, they're abilities cancel out and a single [Attack die](../dice.md#attack-die) is rolled as if it was a regular attack.
+- [^1] **Few** - Should the Dread Knights attack neutral [Crusaders](../units/crusaders.md), when the [Crusaders](../units/crusaders.md) retaliate against a few Dread Knights, they're abilities cancel out and a single [Attack die](../dice.md#attack-die) is rolled as if it was a regular attack.
 
 
 ## Comes With

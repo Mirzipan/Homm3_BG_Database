@@ -39,13 +39,13 @@
 
 ## Notes
 
-- Liches can only do one extra attack, not more.
-- The extra attacks of Liches also trigger when attacking an adjacent target.
-- Should the Liches attack a unit and there is only a friendly unit adjacent to their target, then the friendly unit will be the target of their secondary attack.
-- Should the Liches attack an adjacent unit, and there is no other unit adjacent to the target, the Liches deal the damage of the second attack to themselves.
-- [^1] Should the Liches attack an adjacent unit, and there is another friendly unit adjacent to the target, they may target themselves for the second attack.
-- [^1] Should the Liches attack an adjacent unit, and the Liches die as a result of their target retaliation attack, the secondary attack is still carried out.
-- [^1] Only on the large Battlefield: Should the Liches attack an adjacent unit, and both them, and their target have a common adjacent enemy to them, and this common adjacent unit is dealt damage from the secondary attack, both, the original target and the target of their secondary attack perform a retaliation attack against the Liches.
+- **Pack, Neutral** - Liches can only do one extra attack, not more.
+- **Pack, Neutral** - The extra attacks of Liches also trigger when attacking an adjacent target.
+- **Pack, Neutral** - Should the Liches attack a unit and there is only a friendly unit adjacent to their target, then the friendly unit will be the target of their secondary attack (even if the unit is undead).
+- **Pack, Neutral** - Should the Liches attack an adjacent unit, and there is no other unit adjacent to the target, the Liches deal the damage of the second attack to themselves.
+- [^1] **Pack, Neutral** - Should the Liches attack an adjacent unit, and there is another friendly unit adjacent to the target, they may target themselves for the second attack.
+- **Pack, Neutral** - Should the Liches attack an adjacent unit, and afterwards use the secondary attack on a unit that is adjacent to their original target, both of those attacks are resolved first. The retaliation attack will only be carried out after the secondary attack of Liches has been resolved.
+- [^1] [^2] **Pack, Neutral** - Only on the large Battlefield: Should the Liches attack an adjacent unit, and both them, and their target have a common adjacent enemy to them, and this common adjacent unit is dealt damage from the secondary attack, both, the original target and the target of their secondary attack perform a retaliation attack against the Liches.
 
 
 ## Comes With
@@ -60,3 +60,4 @@
 
 
 [^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.
+[^2]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text.

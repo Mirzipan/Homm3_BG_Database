@@ -39,7 +39,7 @@
 
 ## Notes
 
-- The ability is triggered when Zombies are performing a regular attack, as well as a retaliation attack.
+- The ability is triggered when a regular attack is performed against the Zombies, as well as a retaliation attack.
 
 
 ## Comes With
