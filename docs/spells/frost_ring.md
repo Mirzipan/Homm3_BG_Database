@@ -5,8 +5,13 @@
 ___
 <p style="text-align: center;" markdown>[Expert Water Spell](school_of_water_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:activation: Select a space on the Combat board. 2 [units](../units/index.md) adjacent to this space suffer:<br><br>:empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:activation: Select a space on the Combat board. 2 [units](../units/index.md) adjacent to this space suffer:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
+
+
+## Notes
+
+- The :damage: from Frost Ring also applies to friendly units.
 
 
 ## Comes With

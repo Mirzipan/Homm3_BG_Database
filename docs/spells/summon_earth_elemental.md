@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Earth Spell](school_of_earth_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:activation: On a chosen empty space:<br><br>:empower: 0 - No effect<br>:empower: 2 - Summon a Few [Earth Elementals](../units/earth_elementals.md)<br>:empower: 4 - Summon a Pack of [Earth Elementals](../units/earth_elementals.md)<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:activation: On a chosen empty space:<br><br>:empower: 0 ➣ No effect<br>:empower: 2 ➣ Summon a Few [Earth Elementals](../units/earth_elementals.md)<br>:empower: 4 ➣ Summon a Pack of [Earth Elementals](../units/earth_elementals.md)<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 

@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Earth Spell](school_of_earth_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:effect_map: Move your [Hero](../heroes/index.md) to a selected [Town](../towns/index.md) or Settlement in your control, and:<br><br>:empower: 0 - No additional effect<br>:empower: 2 - +1 :movement:<br>:empower: 4 - +2 :movement:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:effect_map: Move your [Hero](../heroes/index.md) to a selected [Town](../towns/index.md) or Settlement in your control, and:<br><br>:empower: 0 ➣ No additional effect<br>:empower: 2 ➣ +1 :movement:<br>:empower: 4 ➣ +2 :movement:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 

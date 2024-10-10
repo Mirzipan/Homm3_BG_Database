@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Air Spell](school_of_air_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:effect_map: Gain:<br><br>:empower: 0 - 3 :gold:<br>:empower: 1 - 2 :building_materials:<br>:empower: 2 - 1 :valuables:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:effect_map: Gain:<br><br>:empower: 0 ➣ 3 :gold:<br>:empower: 1 ➣ 2 :building_materials:<br>:empower: 2 ➣ 1 :valuables:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 

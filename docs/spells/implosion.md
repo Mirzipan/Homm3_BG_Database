@@ -5,8 +5,13 @@
 ___
 <p style="text-align: center;" markdown>[Expert Earth Spell](school_of_earth_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:activation: The selected [unit](../units/index.md) suffers:<br><br>:empower: 0 - 2 :damage:<br>:empower: 2 - 4 :damage:<br>:empower: 4 - 6:damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:activation: The selected [unit](../units/index.md) suffers:<br><br>:empower: 1 ➣ 2 :damage:<br>:empower: 3 ➣ 4 :damage:<br>:empower: 5 ➣ 6:damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
+
+
+## Notes
+
+- To play this spell, as least one spell power needs to also be played.
 
 
 ## Comes With

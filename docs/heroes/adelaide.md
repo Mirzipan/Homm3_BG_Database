@@ -42,7 +42,7 @@ ___
 
 ## Notes
 
-- The :damage: of Frost Ring also applies to friendly units.
+- The :damage: from Frost Ring also applies to friendly units.
 
 
 ## Comes With
