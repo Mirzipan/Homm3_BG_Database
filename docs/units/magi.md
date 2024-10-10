@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Magi](../assets/units-tower-silver-magi-few.webp){ width="340" align=right }
+        ![Few Magi](../assets/units-tower-silver-magi-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"

@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Halberdiers](../assets/units-castle-bronze-halberdiers-few.webp){ width="340" align=right }
+        ![Few Halberdiers](../assets/units-castle-bronze-halberdiers-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"

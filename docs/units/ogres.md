@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Ogres](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Few Ogres](../assets/units-blank-silver.webp){ width="340" align=right }
     </figure>
 
 === "Pack"

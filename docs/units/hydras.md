@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Hydras](../assets/units-fortress-golden-hydras-few.webp){ width="340" align=right }
+        ![Few Hydras](../assets/units-fortress-golden-hydras-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"

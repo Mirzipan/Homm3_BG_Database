@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Harpies](../assets/units-dungeon-bronze-harpies-few.webp){ width="340" align=right }
+        ![Few Harpies](../assets/units-dungeon-bronze-harpies-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
@@ -35,6 +35,11 @@
 ## Heroes With A Specialty
 
 - [:might: Lorelei](../heroes/lorelei.md#specialty)
+
+
+## Notes
+
+- The player can freely decided whether the Harpies return back to their starting position after their attack.
 
 
 ## Comes With

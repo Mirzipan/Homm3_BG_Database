@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Troglodytes](../assets/units-dungeon-bronze-troglodytes-few.webp){ width="340" align=right }
+        ![Few Troglodytes](../assets/units-dungeon-bronze-troglodytes-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"

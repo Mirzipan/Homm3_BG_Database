@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Dendroids](../assets/units-rampart-silver-dendroids-few.webp){ width="340" align=right }
+        ![Few Dendroids](../assets/units-rampart-silver-dendroids-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"

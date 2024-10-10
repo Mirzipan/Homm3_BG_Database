@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Evil Eyes](../assets/units-dungeon-bronze-evil_eyes-few.webp){ width="340" align=right }
+        ![Few Evil Eyes](../assets/units-dungeon-bronze-evil_eyes-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"

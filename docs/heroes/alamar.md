@@ -49,6 +49,7 @@ ___
 ## Notes
 
 - The specialty can be improved by spell power, just like a regular spell.
+- See [Resurrection Spell](../spells/resurrection.md)
 
 
 ## Comes With

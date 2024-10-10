@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Arch Devils](../assets/units-inferno-golden-arch_devils-few.webp){ width="340" align=right }
+        ![Few Arch Devils](../assets/units-inferno-golden-arch_devils-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"

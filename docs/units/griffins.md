@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Griffins](../assets/units-castle-bronze-griffins-few.webp){ width="340" align=right }
+        ![Few Griffins](../assets/units-castle-bronze-griffins-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"

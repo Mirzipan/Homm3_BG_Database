@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Black Dragons](../assets/units-dungeon-golden-black_dragons-few.webp){ width="340" align=right }
+        ![Few Black Dragons](../assets/units-dungeon-golden-black_dragons-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
@@ -35,6 +35,12 @@
 ## Heroes With A Specialty
 
 - [:might: Mutare](../heroes/mutare.md#specialty)
+
+
+## Notes
+
+- **Pack of Black Dragons** - The effects of the player's own spells and specialties are also ignored.
+- **Pack of Black Dragons** - Specialties are the hero-specific cards (Ⅰ, Ⅳ, and Ⅵ).
 
 
 ## Comes With

@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Medusas](../assets/units-dungeon-silver-medusas-few.webp){ width="340" align=right }
+        ![Few Medusas](../assets/units-dungeon-silver-medusas-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
@@ -30,6 +30,12 @@
 | :initiative: | 5 | **6** | 6 |
 | Cost | 6 :gold: | 12 :gold: | 11 :gold: |
 | Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../dice.md#attack-die), on a "0" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. |
+
+
+## Notes
+
+- **Few Medusas** - after the Retaliation Attack, roll *another* die. The result of the die rolled as part of the attack does not apply to the ability.
+- See [Paralysis](../keywords/paralysis.md)
 
 
 ## Comes With

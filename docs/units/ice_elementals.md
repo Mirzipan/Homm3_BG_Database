@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Ice Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Few Ice Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Pack"

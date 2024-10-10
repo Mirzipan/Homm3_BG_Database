@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Oceanids](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Few Oceanids](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Pack"

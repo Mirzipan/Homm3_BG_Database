@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Cerberi](../assets/units-inferno-bronze-cerberi-few.webp){ width="340" align=right }
+        ![Few Cerberi](../assets/units-inferno-bronze-cerberi-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"

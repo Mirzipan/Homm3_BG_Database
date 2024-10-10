@@ -3,7 +3,7 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few of Ghost Dragons](../assets/units-necropolis-golden-ghost_dragons-few.webp){ width="340" align=right }
+        ![Few Ghost Dragons](../assets/units-necropolis-golden-ghost_dragons-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
