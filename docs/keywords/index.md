@@ -1,6 +1,11 @@
 # List of Keywords
 
 
+## Effects
+
+- [:permanent: Permanent Effect](permanent_effect.md)
+
+
 ## Unit Types
 
 - [:unit_flying: Flying Unit](flying_unit.md)

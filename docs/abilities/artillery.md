@@ -23,6 +23,7 @@ ___
 - If multiple enemy units share the same (lowest) initiative, the player can choose which of those units should this ability deal damage to.
 - The expert effect can only be played when the [Ballista](../war_machines/ballista.md) activates, which can only happen at the beginning of each Combat round.
 - Without an active [Ballista](../war_machines/ballista.md), only the basic effect of this ability can be resolved. 
+- In combination with [Astrologers proclaim week of the Ammo Cart](../astrologers_proclaim/ammo_cart.md) the expert effect will deal 3 times 2 damage, so 6 damage in total.
 
 
 ## Comes With
