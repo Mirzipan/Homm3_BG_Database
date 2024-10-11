@@ -30,6 +30,6 @@ Here are some projects within the homm3bg community that are definitely worth a 
 
 - **Main Developer:** Mirzipan
 - **Visual References:** FlatPanda
-- **Notes:** Schlupf [Referenz-Regelbuch](https://boardgamegeek.com/filepage/281084/referenz-regelbuch-and-karten-klarstellungen-fanma)
+- **Notes:** Schlupf [Referenz-Regelbuch](https://discord.com/channels/740870068178649108/1269274294408450078/1269274294408450078)
 
 Thanks to the community for miscellaneous help, pointers, and ideas.
