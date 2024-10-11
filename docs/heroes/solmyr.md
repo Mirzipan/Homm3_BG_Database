@@ -48,6 +48,13 @@ ___
 - The Dragon Slayer - 4. Azure Dragons
 
 
+## Notes
+
+- **Ⅰ** - Only 2 units are dealt :damage: to and this cannot be changed by :empower:.
+- **Ⅰ and Ⅵ** - The primary target must be dealt the amount of damage that is printed on the leftmost side. The :damage: numbers printed second and third may be applied to the secondary and tertiary target in any order. The order does not need to strictly follow the order of distances from the primary target.
+- **Ⅰ** - The 0 on the third damage position allows the player to deal 1 :damage: to two units that have a friendly unit between them, as the friendly unit may be assigned the 0.
+
+
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)

@@ -9,6 +9,11 @@ ___
 ___
 
 
+## Notes
+
+- Units that are protected from spells via Anti-Magic are also immune to area effects of spells (e.g. [Fireball spell](../spells/fireball.md)).
+
+
 ## Comes With
 
 - [Core Game](../content/core_game.md)

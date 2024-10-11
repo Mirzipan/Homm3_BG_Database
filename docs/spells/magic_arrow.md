@@ -13,6 +13,7 @@ ___
 
 - Magic Arrow is considered a basic spell, despite having a magic symbol in each corner.
 - Magic Arrow can benefit from spell power bonus to any school of magic, but it can only be affected by a single school of magic at a time.
+- [^1] If a unit ignores a specific school of magic (it's immune to spells of that school of magic), it can *not* ignore the Magic Arrow.
 
 
 ## Comes With
@@ -30,3 +31,6 @@ ___
 - [School of Fire Magic](school_of_fire_magic.md)
 - [School of Water Magic](school_of_water_magic.md)
 - [List of Spells](index.md)
+
+
+[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.

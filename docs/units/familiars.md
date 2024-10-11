@@ -34,7 +34,7 @@
 
 ## Notes
 
-- **Pack, Neutral** - As long as Familiars are in play, the enemy player can only cast a [spell](../spells/index.md) if they can discard a card (the discard is treated as a cost of playing the spell). If they have no card to discard, they can not play any [spells](../spells/index.md).
+- **Pack and Neutral** - As long as Familiars are in play, the enemy player can only cast a [spell](../spells/index.md) if they can discard a card (the discard is treated as a cost of playing the spell). If they have no card to discard, they can not play any [spells](../spells/index.md).
 
 
 ## Comes With

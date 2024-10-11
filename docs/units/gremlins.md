@@ -32,6 +32,11 @@
 | Abilities | - | - | - |
 
 
+## Notes
+
+- **Pack** - Only the Pack of Gremlins are a :unit_ranged:. Few Gremlins are a :unit_ground:.
+
+
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)

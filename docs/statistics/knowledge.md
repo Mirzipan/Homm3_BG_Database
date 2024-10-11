@@ -22,6 +22,7 @@
 ## Notes
 
 - When Knowledge is used on a spell with an ongoing effect, the target spell will only be returned to the hand after its effect expires. Until then, the target spell as well as Knowledge stay in play.
+- Knowledge can also be played on the adventure map.
 
 
 ## See Also

@@ -35,7 +35,7 @@
 ## Notes
 
 - The ability is applied right after the Wraiths are activated.
-- If Wraiths were attacked by [Wyverns](wyverns.md), both the damage and the healing take place simultaneously. Nothing happens for faction (Few, Pack) Wraiths, and the Neutral variant removes up to 1 :damage:.
+- If Wraiths were attacked by [Wyverns](wyverns.md), both the damage and the healing take place simultaneously. Nothing happens for faction (Few and Pack) Wraiths, and the Neutral variant removes up to 1 :damage:.
 
 
 ## Comes With

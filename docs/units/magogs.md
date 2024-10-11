@@ -34,7 +34,7 @@
 
 ## Notes
 
-- **Pack, Neutral** - Should the Magogs attack a unit and there is only a friendly unit adjacent to their target, then the friendly unit will take the 1 :damage:.
+- **Pack and Neutral** - Should the Magogs attack a unit and there is only a friendly unit adjacent to their target, then the friendly unit will take the 1 :damage:.
 
 
 

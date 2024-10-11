@@ -39,7 +39,12 @@
 
 ## Notes
 
-- **Pack, Neutral** - The [Attack die](../dice.md#attack-die) may be rerolled until the number on the die no longer equals "0".
+- **Pack and Neutral** - The [Attack die](../dice.md#attack-die) may be rerolled until the number on the die no longer equals "0".
+- [^1] **Neutral** - Should the Crusaders retaliate against a few [Dread Knights](dread_knights.md), they're abilities cancel out and a single [Attack die](../dice.md#attack-die) is rolled as if it was a regular attack.
+
+
+## Notes
+
 
 
 ## Comes With
@@ -51,3 +56,6 @@
 
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)
+
+
+[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.

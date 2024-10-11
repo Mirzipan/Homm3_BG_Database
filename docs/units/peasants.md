@@ -18,6 +18,11 @@
 | Abilities | :effect_map: At the beginning of each Resource round, gain 3 :gold:. |
 
 
+## Notes
+
+- The effect only triggers if the Peasants are in the player's unit deck, so they had to be recruited beforehand (e.g. by [Diplomacy](../abilities/diplomacy.md)).
+
+
 ## Comes With
 
 - [Core Game](../content/core_game.md)

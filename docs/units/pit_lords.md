@@ -34,7 +34,7 @@
 
 ## Notes
 
-- **Pack** - Should the Pit Lords use thir [alternative action](../keywords/alternative_action.md), they can neither move nor attack or defend.
+- **Pack** - Should the Pit Lords use their [alternative action](../keywords/alternative_action.md), they are not allowed to move, attack or defend.
 - **Pack** - Should the Pit Lords summon [Few Demons](demons.md), they have to be placed adjacent to the Pit Lords.
 - **Pack** - Should the Pit Lords reinforce [Few Demons](demons.md) to a [Pack of Demons](demons.md), there is no recruitment cost to be paid.
 - **Pack** - The summoned [Demons](demons.md) will activate during the Combat round when they were summoned, as long as their initiative is lower or equal to the initialive of the Pit Lords. If the initiative is higher, they are treateed as if they were already activated during this Combat round.

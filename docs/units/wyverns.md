@@ -34,8 +34,8 @@
 
 ## Notes
 
-- **Few, Pack** - Enemy units, that were attacked by the Wyverns, receive damage on each activation, as long as there is at least one faction cube on them.
-- **Few, Pack** - If [Trolls](trolls.md) or [Wraiths](wraiths.md) were attacked by the Wyverns, both the damage and the healing take place simultaneously. This means [Trolls](trolls.md) only remove up to 2 :damage:. Nothing happens for faction (Few, Pack) [Wraiths](wraiths.md), and their Neutral variant removes up to 1 :damage:.
+- **Few and Pack** - Enemy units, that were attacked by the Wyverns, receive damage on each activation, as long as there is at least one faction cube on them.
+- **Few and Pack** - If [Trolls](trolls.md) or [Wraiths](wraiths.md) were attacked by the Wyverns, both the damage and the healing take place simultaneously. This means [Trolls](trolls.md) only remove up to 2 :damage:. Nothing happens for faction (Few and Pack) [Wraiths](wraiths.md), and their Neutral variant removes up to 1 :damage:.
 
 
 ## Comes With

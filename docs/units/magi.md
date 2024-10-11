@@ -37,6 +37,12 @@
 - [:magic: Dracon](../heroes/dracon.md#specialty)
 
 
+## Notes
+
+- **Pack** - A [spell](../spells/index.md) will only receive the +1 :empower: by the Magi, if it's the player's first [spell](../spells/index.md) of the current Combat round and it was played either during the activation of Magi or later.
+- **Neutral** - Should a random card be discarded, the card can not be chosen. In a multiplayer game, another player picks the random card.
+
+
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)

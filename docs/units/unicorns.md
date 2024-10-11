@@ -37,6 +37,11 @@
 - [:might: Clancy](../heroes/clancy.md#specialty)
 
 
+## Notes
+
+- **Neutral** - See [Paralysis](../keywords/paralysis.md)
+
+
 ## Comes With
 
 - [Rampart Expansion](../content/rampart_expansion.md)

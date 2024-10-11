@@ -9,6 +9,11 @@ ___
 ___
 
 
+## Notes
+
+- [^1] If the selected town already has a hero in it, and the teleporting hero would not be able to move out of the city during this turn, they can not teleport to the town.
+
+
 ## Comes With
 
 - [Core Game](../content/core_game.md)
@@ -18,3 +23,6 @@ ___
 
 - [School of Earth Magic](school_of_earth_magic.md)
 - [List of Spells](index.md)
+
+
+[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.

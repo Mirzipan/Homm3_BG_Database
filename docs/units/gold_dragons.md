@@ -37,6 +37,15 @@
 - [:might: Mutare](../heroes/mutare.md#specialty)
 
 
+## Notes
+
+- The first attack targets a unit directly in front of the Gold Dragons. The second attack targets the unit directly behind the primary target in a straight line. There is no choice here.
+- The target of the second attack does not carry out a retaliation attack against the Gold Dragons, as it is not adjacent to it.
+- Should the Gold Dragons attack two units in a line, both of the attacks are resolved first. The retaliation attack will only be carried out after the secondary attack of Gold Dragons has been resolved.
+- Should the Gold Dragons attack a unit, and the unit directly behind the primary target in a straight line happens to be a friendly unit, then the friendly unit will be the target of their secondary attack.
+- Should the Gold Dragons attack a Wall, no secondary attack will take place. Units behind the Wall are protected. Should they attack a unit directly in front of a Wall, the Wall will not take any damage.
+
+
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)

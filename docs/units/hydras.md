@@ -34,9 +34,9 @@
 
 ## Notes
 
-- **Pack** - The attacks take place after each other and each of those attacks has a separate Attack Die roll. The player decides the order of attacks.
-- [^1] **Pack** - Neither of the attacks triggers a Retaliation Attack.
-- [^1] **Pack** - Hydras can not attack a unit and a Wall at the same time, only one or the other.
+- **Pack and Neutral** - The attacks take place after each other and each of those attacks has a separate Attack Die roll. The player decides the order of attacks.
+- **Pack and Neutral** - Neither of the attacks triggers a Retaliation Attack. The :unit_attack: symbol affects both target of the Hydras.
+- [^1] **Pack and Neutral** - Hydras can not attack a unit and a Wall at the same time, only one or the other.
 
 
 ## Comes With

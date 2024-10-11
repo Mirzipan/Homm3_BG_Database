@@ -37,6 +37,11 @@
 - [:might: Gelu](../heroes/gelu.md#specialty)
 
 
+## Notes
+
+- **Pack and Neutral** - The Elves can attack at most one additional time, not more.
+
+
 ## Comes With
 
 - [Rampart Expansion](../content/rampart_expansion.md)

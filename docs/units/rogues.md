@@ -18,6 +18,11 @@
 | Abilities | :effect_map: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. |
 
 
+## Notes
+
+- The effect only triggers if the Rogues are in the player's unit deck, so they had to be recruited beforehand (e.g. by [Diplomacy](../abilities/diplomacy.md)).
+
+
 ## Comes With
 
 - [Core Game](../content/core_game.md)
