@@ -1,7 +1,7 @@
 # Crystal Dragons
 
 <figure markdown="span">
-    ![Neutral Crystal Dragons](../assets/units-blank-azure.webp){ width="340" align=right }
+    ![Neutral Crystal Dragons](../assets/units-neutral-azure-crystal_dragons.webp){ width="340" align=right }
 </figure>
 
 
