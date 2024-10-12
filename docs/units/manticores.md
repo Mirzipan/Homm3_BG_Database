@@ -42,6 +42,7 @@
 
 - **Pack** - Only the :defense: value printed on the target unit's card is ignored, bonuses provided by other cards are still valid.
 - **Pack (Alternate)** - See [Paralysis](../keywords/paralysis.md)
+- **Neutral** - When attacked by neutral [Champions](champions.md), the Manticores receive +2 :defense:, as both Attack dice will always end up as a 0 or a 1.
 
 
 ## Comes With

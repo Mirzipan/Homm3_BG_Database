@@ -18,6 +18,12 @@
 | Abilities | :activation: Remove up to 3 :damage: from this unit. |
 
 
+## Notes
+
+- The ability is applied right after the Wraiths are activated.
+- Should the Trolls be attacked by [Wyverns](wyverns.md), both the damage and the healing take place simultaneously. This means Trolls only remove up to 2 :damage:.
+
+
 ## Comes With
 
 - [Core Game](../content/core_game.md)

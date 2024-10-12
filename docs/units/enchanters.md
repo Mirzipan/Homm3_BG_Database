@@ -23,6 +23,13 @@
 - [:magic: Dracon](../heroes/dracon.md#specialty)
 
 
+## Notes
+
+- If possible, the healing effect has to be chosen. The healing effect can not be skipped in favor of +1 :attack:.
+- The healing is applied right after activation.
+- Enchaters can not heal themselves.
+
+
 ## Comes With
 
 - [Core Game](../content/core_game.md)
@@ -31,4 +38,4 @@
 ## See Also
 
 - [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [List of Towns](../towns/index.md)w

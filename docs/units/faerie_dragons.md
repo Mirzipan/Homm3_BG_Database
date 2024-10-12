@@ -23,6 +23,12 @@
 - [:might: Mutare](../heroes/mutare.md#specialty)
 
 
+## Notes
+
+- The 2 :damage: can be dealt to any unit on the Combat board.
+- The ability counting as a [:spellpower:](../spells/index.md) is only relevant when the Fearie Dragons are in the player's unit deck (e.g. after being recruited by [Diplomacy](../abilities/diplomacy.md)).
+
+
 ## Comes With
 
 - [Rampart Expansion](../content/rampart_expansion.md)

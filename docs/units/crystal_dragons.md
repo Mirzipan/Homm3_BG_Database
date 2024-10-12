@@ -23,6 +23,11 @@
 - [:might: Mutare](../heroes/mutare.md#specialty)
 
 
+## Notes
+
+- The effect only triggers if the Crystal Dragons are in the player's unit deck, so they had to be recruited beforehand (e.g. by [Diplomacy](../abilities/diplomacy.md)).
+
+
 ## Comes With
 
 - [Core Game](../content/core_game.md)

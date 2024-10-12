@@ -23,6 +23,12 @@
 - [:might: Mutare](../heroes/mutare.md#specialty)
 
 
+## Notes
+
+- The effects of the player's own spells and specialties are also ignored.
+- Specialties are the hero-specific cards (Ⅰ, Ⅳ, and Ⅵ).
+
+
 ## Comes With
 
 - [Core Game](../content/core_game.md)
