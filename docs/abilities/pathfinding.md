@@ -18,6 +18,11 @@ ___
 - [:might: Clancy](../heroes/clancy.md)
 
 
+## Notes
+
+- See [Blocked Field](../keywords/blocked_field.md)
+
+
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)

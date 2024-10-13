@@ -9,6 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You've found a Goblin weapon smithy making weapons for use against humans. With a tremendous yell you and your army descend upon their camp and drive them away. A search finds a magic card that never runs out of ore.*</p>
 
 
+## Notes
+
+- The second effect may be played either from hand, or from the field. This does, however, not add the two effects, and the artifact is put into the discard pile after being played.
+- See [Permanent Effect](../keywords/permanent_effect.md)
+
+
 ## Comes With
 
 - [Rampart Expansion](../content/rampart_expansion.md)

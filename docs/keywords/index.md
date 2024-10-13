@@ -26,3 +26,8 @@
 - [:damage: Damage](damage.md)
 - [:paralysis: Paralysis](paralysis.md)
 - [:unit_other: Alternative Action](alternative_action.md)
+
+
+## Map
+
+- [Blocked Field](blocked_field.md)

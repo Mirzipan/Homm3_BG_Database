@@ -9,6 +9,11 @@ ___
 <p style="text-align: center;" markdown>*Searching a ruin, you are amazed to find a piece of the Statue of Legion. You carefully dust it off before placing it into your pack.*</p>
 
 
+## Notes
+
+- See [Arms of Legion](arms_of_legion.md)
+
+
 ## Comes With
 
 - [Core Game](../content/core_game.md)

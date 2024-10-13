@@ -9,6 +9,12 @@ ___
 <p style="text-align: center;" markdown>*Not really wanting to know where the Angel, whose wings these belong to, is, you take the wings and quickly depart.*</p>
 
 
+## Notes
+
+- After playing Angel Wings, the hero may move through borders and blocked fields. They may, however, not end their movement on a blocked field.
+- See [Blocked Field](../keywords/blocked_field.md)
+
+
 ## Comes With
 
 - [Core Game](../content/core_game.md)
