@@ -15,6 +15,11 @@ ___
 ___
 
 
+## Notes
+
+- :azure: units may *not* be recruited via this card.
+
+
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)

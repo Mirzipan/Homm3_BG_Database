@@ -15,6 +15,11 @@ ___
 ___
 
 
+## Notes
+
+- The [war machine](../war_machines/index.md) will be chosen and taken in the resource round that follows the current astrologers proclaim round.
+
+
 ## Comes With
 
 - [Rampart Expansion](../content/rampart_expansion.md)

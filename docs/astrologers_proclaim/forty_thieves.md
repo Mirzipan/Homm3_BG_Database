@@ -15,6 +15,11 @@ ___
 ___
 
 
+## Notes
+
+- In a game without [events](../events/index.md) this card is removed and another card is drawn instead.
+
+
 ## Comes With
 
 - [Fortress Expansion](../content/fortress_expansion.md)

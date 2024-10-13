@@ -15,6 +15,11 @@ ___
 ___
 
 
+## Notes
+
+- Should the expert effect of [Artillery](../abilities/artilery.md) be used during this week, it will deal 3 times 2 damage, so 6 damage in total.
+
+
 ## Comes With
 
 - [Rampart Expansion](../content/rampart_expansion.md)

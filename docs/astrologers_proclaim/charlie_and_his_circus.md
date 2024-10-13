@@ -15,6 +15,12 @@ ___
 ___
 
 
+## Notes
+
+- :azure: units may *not* be recruited via this card.
+- [^1] When played with miniatures (e.g. such as when playing on the large battlefield), this ability cannot be used to recruit units from a faction controller by another player, nor to recruite neutral units that are already recruited by another player. Should a player draw such card, that may not be recruited, they shall draw a replacement card instead.
+
+
 ## Comes With
 
 - [Rampart Expansion](../content/rampart_expansion.md)
@@ -25,3 +31,6 @@ ___
 - [List of Astrologers Proclaim Cards](index.md)
 - [List of Towns](../towns/index.md)
 - [List of Units](../units/index.md)
+
+
+[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text.

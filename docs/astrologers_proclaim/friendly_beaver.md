@@ -15,6 +15,12 @@ ___
 ___
 
 
+## Notes
+
+- Only the black cube are removed, the colored faction cubes remain on fields (e.g. mines).
+- A second grail token can not come into play with this card, even if the field with the grail would be made visitable again.
+
+
 ## Comes With
 
 - [Core Game](../content/core_game.md)

@@ -15,6 +15,11 @@ ___
 ___
 
 
+## Notes
+
+- [^1] The removed [statistic](../statistics/index.md) needs to come from the player's hand. When taking the empowered [statistic](../statistics/index.md), player adds it to their hand.
+
+
 ## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
@@ -24,3 +29,6 @@ ___
 
 - [List of Astrologers Proclaim Cards](index.md)
 - [List of Statistics](../statistics/index.md)
+
+
+[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.
