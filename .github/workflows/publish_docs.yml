@@ -28,6 +28,7 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-exclude-search
+      - run: pip install mkdocs-material \
+               install mkdocs-exclude-search \
+               mkdocs-static-i18n
       - run: mkdocs gh-deploy --force
