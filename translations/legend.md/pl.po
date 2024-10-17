@@ -1,0 +1,163 @@
+# Polish translations for Homm package
+# Copyright (C) 2024 Free Software Foundation, Inc.
+# This file is distributed under the same license as the Homm package.
+# Automatically generated, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Homm 3BG-database\n"
+"POT-Creation-Date: 2024-10-17 23:44+0200\n"
+"PO-Revision-Date: 2024-10-17 23:39+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Title ##
+#: docs/dice.md docs/legend.md
+#, no-wrap
+msgid "Dice"
+msgstr "Kości"
+
+#. type: Title #
+#: docs/legend.md
+#, no-wrap
+msgid "Legend"
+msgstr ""
+
+#. type: Plain text
+#: docs/legend.md
+msgid "Quick reference for what the different glyphs mean."
+msgstr ""
+
+#. type: Title ##
+#: docs/legend.md
+#, no-wrap
+msgid "Units"
+msgstr ""
+
+#. type: Plain text
+#: docs/legend.md
+#, no-wrap
+msgid ""
+"| Icon | Description |\n"
+"| :---: | :--- |\n"
+"| :bronze: | Bronze tier |\n"
+"| :silver: | Silver tier |\n"
+"| :golden: | Gold tier |\n"
+"| :azure: | Azure tier |\n"
+"| :unit_ground: | Ground unit |\n"
+"| :unit_flying: | Flying unit |\n"
+"| :unit_ranged: | Ranged unit |\n"
+"| :attack: | Attack |\n"
+"| :defense: | Defense |\n"
+"| :empower: | Power |\n"
+"| :skill: | Intelligence |\n"
+"| :health_points: | Health |\n"
+"| :damage: | Damage |\n"
+"| :initiative: | Initiative |\n"
+msgstr ""
+
+#. type: Title ##
+#: docs/legend.md
+#, no-wrap
+msgid "Factions"
+msgstr ""
+
+#. type: Plain text
+#: docs/legend.md
+#, no-wrap
+msgid ""
+"| Icon | Description |\n"
+"| :---: | :--- |\n"
+"| :necro: | Necropolis |\n"
+msgstr ""
+
+#. type: Title ##
+#: docs/legend.md
+#, no-wrap
+msgid "Effects And Abilities"
+msgstr ""
+
+#. type: Plain text
+#: docs/legend.md
+#, no-wrap
+msgid ""
+"| Icon | Description |\n"
+"| :---: | :--- |\n"
+"| :effect_map: | Map effect. Can be activated when it's your turn and you are not in a fight |\n"
+"| :unit_attack: | Attack. Triggers when unit is attacking (in case of multiple attacks it triggers for the first one only) |\n"
+"| :unit_retaliate: | Retaliation. Triggers when unit is retaliating |\n"
+"| :activation: | Activation. Triggers when unit activates |\n"
+"| :unit_passive: | Passive. Triggers when condition is met |\n"
+"| :unit_other: | Can be used as alternative to attacking |\n"
+"| :paralysis: | Paralysis |\n"
+"| :ongoing: | Ongoing effect |\n"
+"| :instant: | Instant effect |\n"
+"| :permanent: | Permanent effect |\n"
+msgstr ""
+
+#. type: Title ##
+#: docs/legend.md
+#, no-wrap
+msgid "Card Types"
+msgstr ""
+
+#. type: Plain text
+#: docs/legend.md
+#, no-wrap
+msgid ""
+"| Icon | Description |\n"
+"| :---: | :--- |\n"
+"| :spellpower: | [Spell](spells/index.md) |\n"
+"| :artifact: | [Artifact](artifacts/index.md) |\n"
+msgstr ""
+
+#. type: Title ##
+#: docs/legend.md
+#, no-wrap
+msgid "Resources"
+msgstr ""
+
+#. type: Plain text
+#: docs/legend.md
+#, no-wrap
+msgid ""
+"| Icon | Description |\n"
+"| :---: | :--- |\n"
+"| :gold: | Gold |\n"
+"| :building_materials: | Building materials |\n"
+"| :valuables: | Valuables |\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/legend.md
+#, no-wrap
+msgid ""
+"| Icon | Description |\n"
+"| :---: | :--- |\n"
+"| :treasure: | [Treasure die](dice.md#treasure-die) |\n"
+"| :resource_die: | [Resource die](dice.md#resource-die) |\n"
+msgstr ""
+
+#. type: Title ##
+#: docs/legend.md
+#, no-wrap
+msgid "Miscellaneous"
+msgstr ""
+
+#. type: Plain text
+#: docs/legend.md
+#, no-wrap
+msgid ""
+"| Icon | Description |\n"
+"| :---: | :--- |\n"
+"| :expert: | Expert effect |\n"
+"| :pay: | Pay |\n"
+"| :morale_positive: | Positive morale |\n"
+"| :morale_negative: | Negative morale |\n"
+"| :movement: | Movement point |\n"
+msgstr ""
