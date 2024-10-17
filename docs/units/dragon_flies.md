@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :bronze: |
-| Type | :unit_flying: | :unit_flying: | :unit_flying: |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
 | :attack: | 3 | 3 | 3 |
 | :defense: | 0 | **1** | 0 |
 | :health_points: | 3 | 3 | 3 |

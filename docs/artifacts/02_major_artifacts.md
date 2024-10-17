@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # List of Major Artifacts
 
 - [Ambassador's Sash](ambassadors_sash.md)

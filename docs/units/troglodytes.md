@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :bronze: |
-| Type | :unit_ground: | :unit_ground: | :unit_ground: |
+| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
 | :attack: | 2 | **3** | 2 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 2 | 2 | 3 |

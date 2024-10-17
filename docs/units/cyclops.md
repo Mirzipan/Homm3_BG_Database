@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |
 | Tier | :golden: | :golden: | :golden: |
-| Type | :unit_ranged: | :unit_ranged: | 🚧 |
+| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | 🚧 |
 | :attack: | 4 | **5** | 🚧 |
 | :defense: | 1 | 1 | 🚧 |
 | :health_points: | 6 | **7** | 🚧 |

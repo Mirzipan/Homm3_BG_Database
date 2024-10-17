@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # List of Relic Artifacts
 
 - [Angel Wings](angel_wings.md)

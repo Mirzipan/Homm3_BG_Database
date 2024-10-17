@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | :unit_flying: | :unit_flying: | 🚧 |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | 🚧 |
 | :attack: | 3 | 3 | 🚧 |
 | :defense: | 1 | 1 | 🚧 |
 | :health_points: | 5 | **6** | 🚧 |

@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :bronze: |
-| Type | :unit_flying: | :unit_flying: | :unit_flying: |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
 | :attack: | 3 | 3 | 2 |
 | :defense: | 0 | 0 | 0 |
 | :health_points: | 3 | **5** | 4 |

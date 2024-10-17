@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | :unit_ground: | :unit_ground: | 🚧 |
+| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | 🚧 |
 | :attack: | 4 | **5** | 🚧 |
 | :defense: | 2 | 2 | 🚧 |
 | :health_points: | 6 | **6** | 🚧 |

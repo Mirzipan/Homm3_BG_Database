@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | :unit_flying: | :unit_flying: | 🚧 |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | 🚧 |
 | :attack: | 4 | **5** | 🚧 |
 | :defense: | 1 | 1 | 🚧 |
 | :health_points: | 6 | 6 | 🚧 |

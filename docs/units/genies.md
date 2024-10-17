@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | :unit_flying: | :unit_flying: | :unit_flying: |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
 | :attack: | 3 | **4** | 3 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 6 | 6 | 4 |

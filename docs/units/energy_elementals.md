@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | :unit_flying: | :unit_flying: | 🚧 |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | 🚧 |
 | :attack: | 3 | **4** | 🚧 |
 | :defense: | 1 | 1 | 🚧 |
 | :health_points: | 5 | **6** | 🚧 |

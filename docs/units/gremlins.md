@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :bronze: |
-| Type | :unit_ground: | :unit_ranged: | :unit_ranged: |
+| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |
 | :attack: | 2 | 2 | 2 |
 | :defense: | 0 | 0 | 0 |
 | :health_points: | 2 | 2 | 2 |
@@ -34,7 +34,7 @@
 
 ## Notes
 
-- **Pack** - Only the Pack of Gremlins are a :unit_ranged:. Few Gremlins are a :unit_ground:.
+- **Pack** - Only the Pack of Gremlins are a [:unit_ranged:](../keywords/ranged_unit.md). Few Gremlins are a [:unit_ground:](../keywords/ground_unit.md).
 
 
 ## Comes With

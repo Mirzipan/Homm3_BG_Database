@@ -9,7 +9,7 @@
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
 | Tier | :azure: |
-| Type | :unit_flying: |
+| Type | [:unit_flying:](../keywords/flying_unit.md) |
 | :attack: | 5 |
 | :defense: | 2 |
 | :health_points: | 8 |

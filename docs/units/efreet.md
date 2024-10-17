@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |
 | Tier | :golden: | :golden: | :golden: |
-| Type | :unit_flying: | :unit_flying: | :unit_flying: |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
 | :attack: | 5 | **6** | 4 |
 | :defense: | 1 | 1 | 2 |
 | :health_points: | 7 | 7 | 6 |

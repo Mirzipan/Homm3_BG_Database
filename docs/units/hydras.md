@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |
 | Tier | :golden: | :golden: | :azure: |
-| Type | :unit_ground: | :unit_ground: | :unit_ground: |
+| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
 | :attack: | 6 | **7** | 7 |
 | :defense: | 3 | 3 | 3 |
 | :health_points: | 8 | **10** | 8 |

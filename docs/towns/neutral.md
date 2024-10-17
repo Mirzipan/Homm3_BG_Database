@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # Neutral
 
 Neutral is not a real town, just a term for [units](../units/index.md) that are not associated with any [town](../towns/index.md).

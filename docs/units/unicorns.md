@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |
 | Tier | :golden: | :golden: | :golden: |
-| Type | :unit_ground: | :unit_ground: | :unit_ground: |
+| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
 | :attack: | 5 | **6** | 5 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 8 | 8 | 7 |

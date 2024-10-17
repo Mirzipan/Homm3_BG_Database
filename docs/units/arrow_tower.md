@@ -7,13 +7,13 @@
 
 | Statistics | Siege |
 | :--- | :---: |
-| Type | :unit_ranged: |
+| Type | [:unit_ranged:](../keywords/ranged_unit.md) |
 | :attack: | 4 |
 | :defense: | 2 |
 | :health_points: | 3 |
 | :initiative: | 9 |
 | Cost | - |
-| Abilities | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed.<br>:unit_passive: It can only be attack by :unit_ranged: attacks or card effects. |
+| Abilities | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed.<br>:unit_passive: It can only be attack by [:unit_ranged:](../keywords/ranged_unit.md) attacks or card effects. |
 
 
 ## Comes With

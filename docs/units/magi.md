@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | :unit_ranged: | :unit_ranged: | :unit_ranged: |
+| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |
 | :attack: | 3 | **4** | 3 |
 | :defense: | 0 | **1** | 0 |
 | :health_points: | 4 | 4 | 5 |

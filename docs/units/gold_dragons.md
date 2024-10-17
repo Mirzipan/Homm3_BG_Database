@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |
 | Tier | :golden: | :golden: | :golden: |
-| Type | :unit_flying: | :unit_flying: | :azure: |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | :azure: |
 | :attack: | 5 | **6** | 6 |
 | :defense: | 3 | 3 | 3 |
 | :health_points: | 9 | **10** | 9 |

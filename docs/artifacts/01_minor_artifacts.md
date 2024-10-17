@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # List of Minor Artifacts
 
 - [Armor of Wonder](armor_of_wonder.md)

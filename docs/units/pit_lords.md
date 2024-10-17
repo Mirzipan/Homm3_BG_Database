@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | :unit_ground: | :unit_ground: | :unit_ground: |
+| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
 | :attack: | 4 | **5** | 4 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 6 | 6 | 5 |
