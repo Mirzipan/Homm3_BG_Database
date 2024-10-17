@@ -2,7 +2,7 @@
 
 ![Breastplate of Brimstone](../assets/artifacts_major-breastplate_of_brimstone.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](02_major_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: **Search(../2)** [:spellpower:](../spells/index.md).<br><br>— OR —<br><br>:instant: +1 :empower:, then discard up to 3 cards from your hand to gain +1 :empower: per card discarded.</p>
 ___

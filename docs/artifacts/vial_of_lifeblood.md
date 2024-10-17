@@ -2,7 +2,7 @@
 
 ![Vial of Lifeblood](../assets/artifacts_major-vial_of_lifeblood.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](02_major_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Remove up to 3 :damage: from one of your units.<br><br>— OR —<br><br> :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :health_points:.</p>
 ___

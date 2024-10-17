@@ -2,7 +2,7 @@
 
 ![Pendant of Second Sight](../assets/artifacts_major-pendant_of_second_sight.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](02_major_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
 ___
 <p style="text-align: center;" markdown>:ongoing: Selected [unit](../units/index.md) cannot gain :paralysis: during this Combat.<br><br>— OR —<br><br>:instant: Remove 1 :paralysis: token.</p>
 ___

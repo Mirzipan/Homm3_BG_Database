@@ -2,7 +2,7 @@
 
 ![Skull Helmet](../assets/player-deck-back.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](01_minor_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
 ___
 <p style="text-align: center;" markdown>🚧</p>
 ___

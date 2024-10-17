@@ -2,7 +2,7 @@
 
 ![Torso of Legion](../assets/artifacts_minor-torso_of_legion.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](01_minor_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Reduce the cost of Recruitment or reduce the cost of Reinforcing a [unit](../units/index.md) by 6 :gold: (to a minimum of 0).<br><br>— OR —<br><br>:instant: Gain 1 :valuables: or 2 :building_materials:.</p>
 ___

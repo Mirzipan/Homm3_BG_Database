@@ -2,7 +2,7 @@
 
 ![Targ of the Rampaging Ogre](../assets/artifacts_major-targ_of_the_rampaging_ogre.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](02_major_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Discard 2 cards to gain +2 :defense:. Then, instead of discarding, put this card back into your hand.<br><br>— OR —<br><br>:instant: +1 :defense:</p>
 ___

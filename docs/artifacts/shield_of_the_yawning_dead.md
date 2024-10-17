@@ -2,7 +2,7 @@
 
 ![Shield of the Yawning Dead](../assets/artifacts_minor-shield_of_the_yawning_dead.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](01_minor_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Discard 1 card to gain +2 :defense:.<br><br>— OR —<br><br>:instant: +1 :defense:</p>
 ___

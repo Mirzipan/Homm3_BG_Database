@@ -2,7 +2,7 @@
 
 ![Ogre's Club of Havoc](../assets/artifacts_major-ogres_club_of_havoc.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](02_major_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Discard 1 card to gain +2 :attack:.<br><br>— OR —<br><br>:instant: +1 :attack:</p>
 ___

@@ -2,7 +2,7 @@
 
 ![Helm of Heavenly Enlightenment](../assets/artifacts_relic-helm_of_heavenly_enlightenment.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Relic Artifact](03_relic_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Gain :expert:.<br><br>— OR —<br><br>:instant: Draw 2 cards.</p>
 ___

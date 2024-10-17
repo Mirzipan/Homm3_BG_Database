@@ -2,7 +2,7 @@
 
 ![Recanter's Cloak](../assets/artifacts_major-recanters_cloak.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](02_major_artifacts.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
 ___
 <p style="text-align: center;" markdown>:ongoing: During this Combat, no [Hero](../heroes/index.md) can use [spell](../spells/index.md)s with Power "0".<br><br>— OR —<br><br> :ongoing: During this Combat, no [Hero](../heroes/index.md) can use Spells. Remove this card after Combat.</p>
 ___
