@@ -38,4 +38,4 @@
 ## See Also
 
 - [List of Units](index.md)
-- [List of Towns](../towns/index.md)w
+- [List of Towns](../towns/index.md)
