@@ -26,6 +26,8 @@ jobs:
 
       - name: Check if translations require updating
         run: |
+          find docs -name "*01*"
+          find docs -name "*artifacts\.*"
           export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
           export PERL5LIB="${PO4A_DIR}/lib:${PERL5LIB}"
           ./${PO4A_DIR}/po4a po4a.cfg

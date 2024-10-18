@@ -2,6 +2,9 @@
 
 EXCLUDE="\.pl\.md"
 
+echo "BEFORE GENERATION:"
+grep "artifacts\.\|units\." po4a.cfg
+
 temp_file=$(mktemp)
 trap 'rm -f -- "$temp_file"' EXIT
 
@@ -12,4 +15,10 @@ done
 START='# PO4A TARGETS - START'
 END='# PO4A TARGETS - END'
 
+echo "BEFORE SED:"
+grep "artifacts\.\|units\." $temp_file
+
 sed -i "/$START/,/$END/!b;//!d;/$START/r $temp_file" po4a.cfg
+
+echo "AFTER SED:"
+grep "artifacts\.\|units\." po4a.cfg
