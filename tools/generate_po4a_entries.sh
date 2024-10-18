@@ -1,9 +1,11 @@
 #!/usr/bin/env bash
 
+EXCLUDE="\.pl\.md"
+
 temp_file=$(mktemp)
 trap 'rm -f -- "$temp_file"' EXIT
 
-find docs/ -name "*.md" | grep -v "\.pl\.md" | while read file; do
+find docs/ -name "*.md" | grep -v $EXCLUDE | while read file; do
   echo "[type: markdown] $file \$lang:${file::-3}.\$lang.md" >> $temp_file
 done
 
