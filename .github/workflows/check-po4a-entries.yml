@@ -23,7 +23,7 @@ jobs:
       - name: Check if translations require updating
         run: |
           if [[ `git status --porcelain` ]]; then
-            echo "There are uncommited changes to po4a entries:"
-            git diff
+            git diff --color=always
+            echo "There are uncommited changes to po4a entries, see the output above."
             exit 1
           fi
