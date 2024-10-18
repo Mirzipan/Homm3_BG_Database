@@ -19,8 +19,8 @@ jobs:
 
       - name: Install po4a
         run: |
-          sudo apt-get -q install -y po4a cpanminus  # required as standalone po4a is missing some deps
-          sudo cpanm Syntax::Keyword::Try
+          sudo apt-get -q install -y po4a libsyntax-keyword-try-perl # cpanminus  # required as standalone po4a is missing some deps
+          # sudo cpanm Syntax::Keyword::Try
           wget --quiet ${{ env.PO4A_GH_URL }}/v${{ env.PO4A_VERSION }}/po4a-${{ env.PO4A_VERSION}}.tar.gz  # sadly the version from apt isn't working
           export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
           tar -xf ${PO4A_DIR}.tar.gz
