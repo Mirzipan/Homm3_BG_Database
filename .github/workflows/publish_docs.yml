@@ -10,26 +10,50 @@ on:
       - mkdocs.yml
 permissions:
   contents: write
+
+env:
+  PO4A_VERSION: "0.73"
+  PO4A_GH_URL: https://github.com/mquinson/po4a/releases/download
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Install po4a
+        run: |
+          sudo apt-get -q install -y po4a libsyntax-keyword-try-perl  # required as standalone po4a is missing some deps
+          wget --quiet ${{ env.PO4A_GH_URL }}/v${{ env.PO4A_VERSION }}/po4a-${{ env.PO4A_VERSION}}.tar.gz  # sadly the version from apt isn't working
+          export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
+          tar -xf ${PO4A_DIR}.tar.gz
+
+      - name: Generate translations
+        run: |
+          export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
+          export PERL5LIB="${PO4A_DIR}/lib:${PERL5LIB}"
+          ./${PO4A_DIR}/po4a --no-update po4a.cfg
+
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
+
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+
       - uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
           restore-keys: |
             mkdocs-material-
+
       - run: pip install mkdocs-material \
                install mkdocs-exclude-search \
                mkdocs-static-i18n
+
       - run: mkdocs gh-deploy --force
