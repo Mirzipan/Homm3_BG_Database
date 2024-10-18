@@ -3,11 +3,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'docs/**'
-      - 'overrides/**'
-      - 'translations/**'
-      - mkdocs.yml
 permissions:
   contents: write
 
@@ -53,7 +48,7 @@ jobs:
             mkdocs-material-
 
       - run: pip install mkdocs-material \
-               install mkdocs-exclude-search \
+               mkdocs-exclude-search \
                mkdocs-static-i18n
 
       - run: mkdocs gh-deploy --force
