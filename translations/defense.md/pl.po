@@ -222,7 +222,6 @@ msgstr "Zobacz też"
 #: docs/statistics/defense.md docs/statistics/attack.md
 #: docs/statistics/power.md docs/towns/index.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Heroes](../heroes/index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 
@@ -242,7 +241,6 @@ msgstr ""
 #: docs/statistics/knowledge.md docs/statistics/defense.md
 #: docs/statistics/attack.md docs/statistics/power.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Statistics](index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 

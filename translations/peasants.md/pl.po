@@ -494,7 +494,6 @@ msgstr "Zobacz też"
 #: docs/units/oceanids.md docs/units/ice_elementals.md
 #: docs/units/thunderbirds.md docs/units/champions.md docs/units/griffins.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Units](index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 
@@ -558,7 +557,6 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/towns/conflux.md docs/towns/stronghold.md docs/towns/inferno.md
 #: docs/towns/cove.md docs/towns/castle.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Towns](../towns/index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 

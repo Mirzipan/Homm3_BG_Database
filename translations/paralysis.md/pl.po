@@ -14,8 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/gold_dragons.md docs/units/pit_lords.md
@@ -80,21 +79,15 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/paralysis.md
-msgid ""
-"A paralyzed unit skips its next activation. Instead of activating, the :"
-"paralysis: token is removed from it."
+msgid "A paralyzed unit skips its next activation. Instead of activating, the :paralysis: token is removed from it."
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/paralysis.md
-msgid ""
-"The :paralysis: token is removed prematurely if the paralyzed unit receives "
-"damage. An attack that does not apply any damage does not count towards this."
+msgid "The :paralysis: token is removed prematurely if the paralyzed unit receives damage. An attack that does not apply any damage does not count towards this."
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/paralysis.md
-msgid ""
-"If the paralyzed unit received damage from an attack, it will retaliate (if "
-"not done so prior during this Combat round)."
+msgid "If the paralyzed unit received damage from an attack, it will retaliate (if not done so prior during this Combat round)."
 msgstr ""

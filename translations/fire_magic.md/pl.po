@@ -565,7 +565,6 @@ msgstr ""
 #: docs/abilities/leadership.md docs/abilities/tactics.md
 #: docs/abilities/archery.md docs/abilities/interference.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Abilities](index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 

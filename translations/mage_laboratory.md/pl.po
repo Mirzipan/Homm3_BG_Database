@@ -449,7 +449,6 @@ msgstr ""
 #: docs/abilities/resistance.md docs/abilities/mysticism.md
 #: docs/abilities/wisdom.md docs/abilities/intelligence.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Spells](../spells/index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 
@@ -568,7 +567,6 @@ msgstr ""
 #: docs/events/marketplace.md docs/events/garden_of_revelation.md
 #: docs/events/withered_hermit.md docs/events/a_shady_auction.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Events](index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 

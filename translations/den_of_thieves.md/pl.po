@@ -549,7 +549,6 @@ msgstr ""
 #: docs/events/marketplace.md docs/events/garden_of_revelation.md
 #: docs/events/withered_hermit.md docs/events/a_shady_auction.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Events](index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 
@@ -562,7 +561,6 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/astrologers_proclaim/unexpected_reinforcements.md docs/towns/neutral.md
 #: docs/towns/index.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Units](../units/index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 

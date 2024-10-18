@@ -492,7 +492,6 @@ msgstr "Zobacz też"
 #: docs/towns/conflux.md docs/towns/stronghold.md docs/towns/inferno.md
 #: docs/towns/cove.md docs/towns/castle.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Towns](../towns/index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 
@@ -548,7 +547,6 @@ msgstr ""
 #: docs/heroes/sandro.md docs/heroes/erdamon.md docs/heroes/casmetra.md
 #: docs/heroes/jeddite.md docs/heroes/adelaide.md docs/heroes/xyron.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Heroes](index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 

@@ -568,7 +568,6 @@ msgstr ""
 #: docs/spells/berserk.md docs/spells/magic_arrow.md docs/spells/fortune.md
 #: docs/spells/bless.md docs/spells/prayer.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Spells](index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 

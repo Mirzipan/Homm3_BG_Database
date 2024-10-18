@@ -256,6 +256,5 @@ msgstr ""
 #: docs/content/cove_expansion.md docs/content/tower_expansion.md
 #: docs/content/conflux_expansion.md docs/content/stronghold_expansion.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Content](index.md)"
 msgstr "[Lista Jednostek](units/index.md)"

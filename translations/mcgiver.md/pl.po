@@ -664,6 +664,5 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/mcgiver.md docs/astrologers_proclaim/ammo_cart.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of War Machines](../war_machines/index.md)"
 msgstr "[Lista Jednostek](units/index.md)"

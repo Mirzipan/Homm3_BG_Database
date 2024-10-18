@@ -516,7 +516,6 @@ msgstr ""
 #: docs/artifacts/head_of_legion.md docs/artifacts/armor_of_wonder.md
 #: docs/artifacts/crown_of_dragontooth.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Artifacts](index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 

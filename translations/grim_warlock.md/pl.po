@@ -494,7 +494,6 @@ msgstr ""
 #: docs/abilities/resistance.md docs/abilities/mysticism.md
 #: docs/abilities/wisdom.md docs/abilities/intelligence.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Spells](../spells/index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 

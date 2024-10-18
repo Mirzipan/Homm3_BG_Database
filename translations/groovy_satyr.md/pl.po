@@ -576,7 +576,6 @@ msgstr ""
 #: docs/astrologers_proclaim/unexpected_reinforcements.md docs/towns/neutral.md
 #: docs/towns/index.md
 #, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Units](../units/index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
 
