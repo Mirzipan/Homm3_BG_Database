@@ -8,7 +8,15 @@ grep "artifacts\.\|units\." po4a.cfg
 temp_file=$(mktemp)
 trap 'rm -f -- "$temp_file"' EXIT
 
+echo "ALL THE FILES:"
+find docs/ -name "*.md" | grep -v $EXCLUDE
+
+echo "ALL THE FILES SORTED:"
+find docs/ -name "*.md" | grep -v $EXCLUDE | sort
+
+echo "NOW PROCESSING:"
 find docs/ -name "*.md" | grep -v $EXCLUDE | sort | while read file; do
+  echo "[type: markdown] $file \$lang:${file::-3}.\$lang.md"
   echo "[type: markdown] $file \$lang:${file::-3}.\$lang.md" >> $temp_file
 done
 
