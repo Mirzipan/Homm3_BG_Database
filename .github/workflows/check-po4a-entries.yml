@@ -4,12 +4,8 @@ on:
   pull_request:
     branches: [main]
 
-env:
-  PO4A_VERSION: "0.73"
-  PO4A_GH_URL: https://github.com/mquinson/po4a/releases/download
-
 jobs:
-  check_po4a:
+  check_entries_in_po4a_cfg:
     if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
 
@@ -17,7 +13,7 @@ jobs:
       - name: Set up repository
         uses: actions/checkout@v4
 
-      - name: Install po4a
+      - name: Generate entries in po4a.cfg
         run: ./tools/generate_po4a_entries.sh
 
       - name: Check if translations require updating
