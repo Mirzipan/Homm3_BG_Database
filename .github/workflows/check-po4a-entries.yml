@@ -1,0 +1,25 @@
+name: Check missing po4a entries
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  check_entries_in_po4a_cfg:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up repository
+        uses: actions/checkout@v4
+
+      - name: Generate entries in po4a.cfg
+        run: ./tools/generate_po4a_entries.sh
+
+      - name: Check if translations require updating
+        run: |
+          if [[ `git status --porcelain` ]]; then
+            git diff --color=always
+            echo "There are uncommited changes to po4a entries, see the output above."
+            exit 1
+          fi
