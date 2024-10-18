@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-10-17 23:44+0200\n"
+"POT-Creation-Date: 2024-10-18 10:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,6 +15,750 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title ##
+#: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
+#: docs/units/gold_dragons.md docs/units/halberdiers.md
+#: docs/units/diamond_golems.md docs/units/pit_lords.md docs/units/gremlins.md
+#: docs/units/nix.md docs/units/zealots.md docs/units/dendroids.md
+#: docs/units/unicorns.md docs/units/orcs.md docs/units/nomads.md
+#: docs/units/magma_elementals.md docs/units/arch_devils.md
+#: docs/units/hydras.md docs/units/pegasi.md docs/units/troglodytes.md
+#: docs/units/archangels.md docs/units/familiars.md docs/units/wolf_raiders.md
+#: docs/units/wraiths.md docs/units/gorgons.md docs/units/ghost_dragons.md
+#: docs/units/vampires.md docs/units/energy_elementals.md
+#: docs/units/magic_elementals.md docs/units/lizardmen.md
+#: docs/units/air_elementals.md docs/units/zombies.md docs/units/gnolls.md
+#: docs/units/seamen.md docs/units/index.md docs/units/basilisks.md
+#: docs/units/elves.md docs/units/ogres.md docs/units/fire_elementals.md
+#: docs/units/boars.md docs/units/skeletons.md docs/units/gargoyles.md
+#: docs/units/enchanters.md docs/units/wyverns.md docs/units/dragon_flies.md
+#: docs/units/sorceresses.md docs/units/ayssids.md docs/units/faerie_dragons.md
+#: docs/units/azure_dragons.md docs/units/goblins.md
+#: docs/units/crystal_dragons.md docs/units/cerberi.md docs/units/liches.md
+#: docs/units/storm_elementals.md docs/units/gold_golems.md
+#: docs/units/dwarves.md docs/units/demons.md docs/units/mummies.md
+#: docs/units/water_elementals.md docs/units/centaurs.md docs/units/cyclops.md
+#: docs/units/earth_elementals.md docs/units/rogues.md docs/units/peasants.md
+#: docs/units/efreet.md docs/units/arrow_tower.md docs/units/nagas.md
+#: docs/units/satyrs.md docs/units/dread_knights.md docs/units/sprites.md
+#: docs/units/evil_eyes.md docs/units/manticores.md docs/units/trolls.md
+#: docs/units/halflings.md docs/units/genies.md docs/units/behemoths.md
+#: docs/units/titans.md docs/units/steel_golems.md docs/units/haspids.md
+#: docs/units/marksmen.md docs/units/sharpshooters.md docs/units/fangarm.md
+#: docs/units/minotaurs.md docs/units/magogs.md docs/units/rust_dragons.md
+#: docs/units/black_dragons.md docs/units/leprechaun.md docs/units/medusas.md
+#: docs/units/harpies.md docs/units/phoenixes.md docs/units/crusaders.md
+#: docs/units/oceanids.md docs/units/ice_elementals.md
+#: docs/units/thunderbirds.md docs/units/champions.md docs/units/griffins.md
+#: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
+#: docs/events/artifact_merchant.md docs/events/magical_forest.md
+#: docs/events/index.md docs/events/school_of_magic_and_school_of_war.md
+#: docs/events/prison.md docs/events/mage_laboratory.md
+#: docs/events/shrine_of_the_magic_thought.md docs/events/mercenary_camp.md
+#: docs/events/library_of_enlightenment.md docs/events/den_of_thieves.md
+#: docs/events/mischievous_leprechaun.md docs/events/stables.md
+#: docs/events/the_villagers_plea.md docs/events/market_of_time.md
+#: docs/events/crypt.md docs/events/marketplace.md
+#: docs/events/garden_of_revelation.md docs/events/withered_hermit.md
+#: docs/events/a_shady_auction.md docs/artifacts/dragon_wing_tabard.md
+#: docs/artifacts/orb_of_inhibition.md
+#: docs/artifacts/inexhaustible_cart_of_ore.md
+#: docs/artifacts/orb_of_vulnerability.md docs/artifacts/equestrians_gloves.md
+#: docs/artifacts/recanters_cloak.md docs/artifacts/rib_cage.md
+#: docs/artifacts/spellbinders_hat.md docs/artifacts/speculum.md
+#: docs/artifacts/titans_gladius.md docs/artifacts/angel_wings.md
+#: docs/artifacts/dragon_scale_armor.md
+#: docs/artifacts/helm_of_heavenly_enlightenment.md
+#: docs/artifacts/sword_of_judgement.md
+#: docs/artifacts/lions_shield_of_courage.md
+#: docs/artifacts/sandals_of_the_saint.md docs/artifacts/skull_helmet.md
+#: docs/artifacts/golden_bow.md docs/artifacts/spirit_of_oppression.md
+#: docs/artifacts/sword_of_hellfire.md
+#: docs/artifacts/targ_of_the_rampaging_ogre.md
+#: docs/artifacts/vial_of_lifeblood.md
+#: docs/artifacts/eversmoking_ring_of_sulfur.md
+#: docs/artifacts/shield_of_the_yawning_dead.md
+#: docs/artifacts/endless_sack_of_gold.md docs/artifacts/titans_cuirass.md
+#: docs/artifacts/crest_of_valor.md docs/artifacts/cards_of_prophecy.md
+#: docs/artifacts/torso_of_legion.md docs/artifacts/sentinels_shield.md
+#: docs/artifacts/01_minor_artifacts.md docs/artifacts/shield_of_the_damned.md
+#: docs/artifacts/red_dragon_flame_tongue.md docs/artifacts/cape_of_velocity.md
+#: docs/artifacts/surcoat_of_counterpoise.md docs/artifacts/shackles_of_war.md
+#: docs/artifacts/loins_of_legion.md docs/artifacts/necklace_of_dragonteeth.md
+#: docs/artifacts/dragon_scale_shield.md
+#: docs/artifacts/blackshard_of_the_dead_knight.md
+#: docs/artifacts/glyph_of_gallantry.md docs/artifacts/endless_bag_of_gold.md
+#: docs/artifacts/ambassadors_sash.md docs/artifacts/necklace_of_swiftness.md
+#: docs/artifacts/boots_of_speed.md docs/artifacts/arms_of_legion.md
+#: docs/artifacts/02_major_artifacts.md docs/artifacts/endless_purse_of_gold.md
+#: docs/artifacts/celestial_necklace_of_bliss.md
+#: docs/artifacts/pendant_of_second_sight.md docs/artifacts/centaurs_axe.md
+#: docs/artifacts/breastplate_of_petrified_wood.md
+#: docs/artifacts/helm_of_the_alabaster_unicorn.md
+#: docs/artifacts/scales_of_the_greater_basilisk.md
+#: docs/artifacts/boots_of_polarity.md
+#: docs/artifacts/shield_of_the_dwarven_lords.md
+#: docs/artifacts/greater_gnolls_flail.md
+#: docs/artifacts/everflowing_crystal_cloak.md
+#: docs/artifacts/pendant_of_negativity.md
+#: docs/artifacts/buckler_of_the_gnoll_king.md
+#: docs/artifacts/breastplate_of_brimstone.md
+#: docs/artifacts/hourglass_of_the_evil_hour.md
+#: docs/artifacts/legs_of_legion.md docs/artifacts/pendant_of_courage.md
+#: docs/artifacts/mystic_orb_of_mana.md
+#: docs/artifacts/inexhaustible_cart_of_lumber.md
+#: docs/artifacts/03_relic_artifacts.md docs/artifacts/ogres_club_of_havoc.md
+#: docs/artifacts/tunic_of_the_cyclops_king.md
+#: docs/artifacts/everpouring_vial_of_mercury.md
+#: docs/artifacts/charm_of_mana.md docs/artifacts/ring_of_the_wayfarer.md
+#: docs/artifacts/head_of_legion.md docs/artifacts/armor_of_wonder.md
+#: docs/artifacts/crown_of_dragontooth.md
+#: docs/astrologers_proclaim/groovy_satyr.md
+#: docs/astrologers_proclaim/battalions_stallion.md
+#: docs/astrologers_proclaim/wild_debauchery.md
+#: docs/astrologers_proclaim/friendly_beaver.md
+#: docs/astrologers_proclaim/mcgiver.md docs/astrologers_proclaim/ammo_cart.md
+#: docs/astrologers_proclaim/fancy_pixie.md
+#: docs/astrologers_proclaim/swift_weasel.md
+#: docs/astrologers_proclaim/blue_sky.md docs/astrologers_proclaim/society.md
+#: docs/astrologers_proclaim/plane_between_planes.md
+#: docs/astrologers_proclaim/scorched_ground.md
+#: docs/astrologers_proclaim/fluffy_rabbit.md
+#: docs/astrologers_proclaim/index.md
+#: docs/astrologers_proclaim/forty_thieves.md
+#: docs/astrologers_proclaim/explorers.md
+#: docs/astrologers_proclaim/profuse_growth.md
+#: docs/astrologers_proclaim/terrible_plague.md
+#: docs/astrologers_proclaim/charlie_and_his_circus.md
+#: docs/astrologers_proclaim/isras_friends.md
+#: docs/astrologers_proclaim/greedy_dragon.md
+#: docs/astrologers_proclaim/white_raven.md
+#: docs/astrologers_proclaim/merry_leprechaun.md
+#: docs/astrologers_proclaim/dead_silence.md
+#: docs/astrologers_proclaim/magic_tortoise.md
+#: docs/astrologers_proclaim/annoying_lizard.md
+#: docs/astrologers_proclaim/hero.md docs/astrologers_proclaim/grim_warlock.md
+#: docs/astrologers_proclaim/crazy_wizard.md
+#: docs/astrologers_proclaim/big_cleanup.md
+#: docs/astrologers_proclaim/unexpected_reinforcements.md
+#: docs/astrologers_proclaim/dancing_imp.md
+#: docs/astrologers_proclaim/gold_dragon.md docs/statistics/knowledge.md
+#: docs/statistics/defense.md docs/statistics/attack.md
+#: docs/statistics/power.md docs/abilities/scholar.md
+#: docs/abilities/logistics.md docs/abilities/eagle_eye.md
+#: docs/abilities/learning.md docs/abilities/resistance.md
+#: docs/abilities/air_magic.md docs/abilities/estates.md
+#: docs/abilities/mysticism.md docs/abilities/wisdom.md
+#: docs/abilities/offense.md docs/abilities/ballistics.md
+#: docs/abilities/diplomacy.md docs/abilities/pathfinding.md
+#: docs/abilities/sorcery.md docs/abilities/first_aid.md docs/abilities/luck.md
+#: docs/abilities/necromancy.md docs/abilities/artillery.md
+#: docs/abilities/scouting.md docs/abilities/intelligence.md
+#: docs/abilities/fire_magic.md docs/abilities/earth_magic.md
+#: docs/abilities/water_magic.md docs/abilities/armorer.md
+#: docs/abilities/leadership.md docs/abilities/tactics.md
+#: docs/abilities/archery.md docs/abilities/interference.md
+#: docs/spells/bloodlust.md docs/spells/visions.md docs/spells/fireball.md
+#: docs/spells/earthquake.md docs/spells/resurrection.md
+#: docs/spells/frost_ring.md docs/spells/frenzy.md
+#: docs/spells/school_of_air_magic.md docs/spells/school_of_fire_magic.md
+#: docs/spells/teleport.md docs/spells/precision.md docs/spells/dispel.md
+#: docs/spells/shield.md docs/spells/slayer.md docs/spells/mirth.md
+#: docs/spells/view_earth.md docs/spells/summon_earth_elemental.md
+#: docs/spells/cure.md docs/spells/dimension_door.md docs/spells/curse.md
+#: docs/spells/counterstrike.md docs/spells/stone_skin.md docs/spells/blind.md
+#: docs/spells/index.md docs/spells/anti-magic.md docs/spells/sacrifice.md
+#: docs/spells/summon_air_elemental.md docs/spells/town_portal.md
+#: docs/spells/school_of_water_magic.md docs/spells/lightning_bolt.md
+#: docs/spells/implosion.md docs/spells/forgetfulness.md docs/spells/slow.md
+#: docs/spells/fire_wall.md docs/spells/disrupting_ray.md
+#: docs/spells/weakness.md docs/spells/chain_lightning.md
+#: docs/spells/air_shield.md docs/spells/haste.md docs/spells/view_air.md
+#: docs/spells/remove_obstacle.md docs/spells/fly.md
+#: docs/spells/summon_water_elemental.md docs/spells/school_of_earth_magic.md
+#: docs/spells/inferno.md docs/spells/summon_fire_elemental.md
+#: docs/spells/fire_shield.md docs/spells/sorrow.md docs/spells/misfortune.md
+#: docs/spells/berserk.md docs/spells/magic_arrow.md docs/spells/fortune.md
+#: docs/spells/bless.md docs/spells/prayer.md docs/heroes/zydar.md
+#: docs/heroes/cassiopeia.md docs/heroes/adrienne.md docs/heroes/catherine.md
+#: docs/heroes/tamika.md docs/heroes/ingham.md docs/heroes/septienna.md
+#: docs/heroes/tarnum_stronghold.md docs/heroes/gelu.md docs/heroes/ciele.md
+#: docs/heroes/mephala.md docs/heroes/vidomina.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/shiva.md docs/heroes/alamar.md docs/heroes/wystan.md
+#: docs/heroes/torosar.md docs/heroes/lord_haart_castle.md docs/heroes/dessa.md
+#: docs/heroes/solmyr.md docs/heroes/ivor.md docs/heroes/index.md
+#: docs/heroes/tazar.md docs/heroes/lord_haart_necropolis.md
+#: docs/heroes/fiona.md docs/heroes/josephine.md docs/heroes/cyra.md
+#: docs/heroes/lorelei.md docs/heroes/bron.md docs/heroes/zilare.md
+#: docs/heroes/rashka.md docs/heroes/yog.md docs/heroes/melodia.md
+#: docs/heroes/deemer.md docs/heroes/valeska.md docs/heroes/monere.md
+#: docs/heroes/gem.md docs/heroes/crag_hack.md docs/heroes/sephinroth.md
+#: docs/heroes/mutare.md docs/heroes/dracon.md docs/heroes/clancy.md
+#: docs/heroes/iona.md docs/heroes/moandor.md docs/heroes/gundula.md
+#: docs/heroes/luna.md docs/heroes/jeremy.md docs/heroes/pasis.md
+#: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/erdamon.md
+#: docs/heroes/casmetra.md docs/heroes/jeddite.md docs/heroes/adelaide.md
+#: docs/heroes/xyron.md docs/war_machines/ammo_cart.md
+#: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
+#: docs/war_machines/cannon.md docs/content/crystal_stretch_goals.md
+#: docs/content/inferno_expansion.md docs/content/azure_stretch_goals.md
+#: docs/content/rampart_expansion.md docs/content/core_game.md
+#: docs/content/regular_stretch_goals.md docs/content/fortress_expansion.md
+#: docs/content/battlefield_expansion.md docs/content/cove_expansion.md
+#: docs/content/tower_expansion.md docs/content/conflux_expansion.md
+#: docs/content/stronghold_expansion.md docs/towns/fortress.md
+#: docs/towns/neutral.md docs/towns/tower.md docs/towns/necropolis.md
+#: docs/towns/rampart.md docs/towns/index.md docs/towns/dungeon.md
+#: docs/towns/conflux.md docs/towns/stronghold.md docs/towns/inferno.md
+#: docs/towns/cove.md docs/towns/castle.md docs/difficulties.md
+#, no-wrap
+msgid "See Also"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
+#: docs/units/gold_dragons.md docs/units/halberdiers.md
+#: docs/units/diamond_golems.md docs/units/pit_lords.md docs/units/gremlins.md
+#: docs/units/nix.md docs/units/zealots.md docs/units/dendroids.md
+#: docs/units/unicorns.md docs/units/orcs.md docs/units/nomads.md
+#: docs/units/magma_elementals.md docs/units/arch_devils.md
+#: docs/units/hydras.md docs/units/pegasi.md docs/units/troglodytes.md
+#: docs/units/archangels.md docs/units/familiars.md docs/units/wolf_raiders.md
+#: docs/units/wraiths.md docs/units/gorgons.md docs/units/ghost_dragons.md
+#: docs/units/vampires.md docs/units/energy_elementals.md
+#: docs/units/magic_elementals.md docs/units/lizardmen.md
+#: docs/units/air_elementals.md docs/units/zombies.md docs/units/gnolls.md
+#: docs/units/seamen.md docs/units/index.md docs/units/basilisks.md
+#: docs/units/elves.md docs/units/ogres.md docs/units/fire_elementals.md
+#: docs/units/boars.md docs/units/skeletons.md docs/units/gargoyles.md
+#: docs/units/enchanters.md docs/units/wyverns.md docs/units/dragon_flies.md
+#: docs/units/sorceresses.md docs/units/ayssids.md docs/units/faerie_dragons.md
+#: docs/units/azure_dragons.md docs/units/goblins.md
+#: docs/units/crystal_dragons.md docs/units/cerberi.md docs/units/liches.md
+#: docs/units/storm_elementals.md docs/units/gold_golems.md
+#: docs/units/dwarves.md docs/units/demons.md docs/units/mummies.md
+#: docs/units/water_elementals.md docs/units/centaurs.md docs/units/cyclops.md
+#: docs/units/earth_elementals.md docs/units/rogues.md docs/units/peasants.md
+#: docs/units/efreet.md docs/units/arrow_tower.md docs/units/nagas.md
+#: docs/units/satyrs.md docs/units/dread_knights.md docs/units/sprites.md
+#: docs/units/evil_eyes.md docs/units/manticores.md docs/units/trolls.md
+#: docs/units/halflings.md docs/units/genies.md docs/units/behemoths.md
+#: docs/units/titans.md docs/units/steel_golems.md docs/units/haspids.md
+#: docs/units/marksmen.md docs/units/sharpshooters.md docs/units/fangarm.md
+#: docs/units/minotaurs.md docs/units/magogs.md docs/units/rust_dragons.md
+#: docs/units/black_dragons.md docs/units/leprechaun.md docs/units/medusas.md
+#: docs/units/harpies.md docs/units/phoenixes.md docs/units/crusaders.md
+#: docs/units/oceanids.md docs/units/ice_elementals.md
+#: docs/units/thunderbirds.md docs/units/champions.md docs/units/griffins.md
+#: docs/astrologers_proclaim/charlie_and_his_circus.md
+#: docs/astrologers_proclaim/unexpected_reinforcements.md docs/heroes/zydar.md
+#: docs/heroes/cassiopeia.md docs/heroes/adrienne.md docs/heroes/catherine.md
+#: docs/heroes/tamika.md docs/heroes/ingham.md docs/heroes/septienna.md
+#: docs/heroes/tarnum_stronghold.md docs/heroes/gelu.md docs/heroes/ciele.md
+#: docs/heroes/mephala.md docs/heroes/vidomina.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/shiva.md docs/heroes/alamar.md docs/heroes/wystan.md
+#: docs/heroes/torosar.md docs/heroes/lord_haart_castle.md docs/heroes/dessa.md
+#: docs/heroes/solmyr.md docs/heroes/ivor.md docs/heroes/tazar.md
+#: docs/heroes/lord_haart_necropolis.md docs/heroes/fiona.md
+#: docs/heroes/josephine.md docs/heroes/cyra.md docs/heroes/lorelei.md
+#: docs/heroes/bron.md docs/heroes/zilare.md docs/heroes/rashka.md
+#: docs/heroes/yog.md docs/heroes/melodia.md docs/heroes/deemer.md
+#: docs/heroes/valeska.md docs/heroes/monere.md docs/heroes/gem.md
+#: docs/heroes/crag_hack.md docs/heroes/sephinroth.md docs/heroes/mutare.md
+#: docs/heroes/dracon.md docs/heroes/clancy.md docs/heroes/iona.md
+#: docs/heroes/moandor.md docs/heroes/gundula.md docs/heroes/luna.md
+#: docs/heroes/jeremy.md docs/heroes/pasis.md docs/heroes/rion.md
+#: docs/heroes/sandro.md docs/heroes/erdamon.md docs/heroes/casmetra.md
+#: docs/heroes/jeddite.md docs/heroes/adelaide.md docs/heroes/xyron.md
+#: docs/towns/fortress.md docs/towns/neutral.md docs/towns/tower.md
+#: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/dungeon.md
+#: docs/towns/conflux.md docs/towns/stronghold.md docs/towns/inferno.md
+#: docs/towns/cove.md docs/towns/castle.md
+msgid "[List of Towns](../towns/index.md)"
+msgstr ""
+
+#. type: Title #
+#: docs/units/index.md
+#, no-wrap
+msgid "List of Units"
+msgstr ""
+
+#. type: Plain text
+#: docs/units/index.md
+msgid ""
+"For the \"Few\" and \"Pack\" version of the same unit, stat changes are "
+"shown in **bold**."
+msgstr ""
+
+#. type: Plain text
+#: docs/units/index.md
+#, no-wrap
+msgid ""
+"| Name | Town | # |Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities | [Content](../content/index.md) |\n"
+"| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- | :--- |\n"
+"| [Halberdiers](halberdiers.md) | [Castle](../towns/castle.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - | [Core Game](../content/core_game.md) |\n"
+"| [Halberdiers](halberdiers.md) | [Castle](../towns/castle.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](../dice.md#attack-die) roll result. | [Core Game](../content/core_game.md) |\n"
+"| [Marksmen](marksmen.md) | [Castle](../towns/castle.md) | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 3 :gold: | - | [Core Game](../content/core_game.md) |\n"
+"| [Marksmen](marksmen.md) | [Castle](../towns/castle.md) | Pack | :bronze: | :unit_ranged: | 2 | 0 | 2 | **6** | 5 :gold: | :unit_attack: If a target is a non-adjacent unit, attack this target again. | [Core Game](../content/core_game.md) |\n"
+"| [Griffins](griffins.md) | [Castle](../towns/castle.md) | Few | :bronze: | :unit_flying: | 2 | 0 | 4 | 6 | 4 :gold: | :unit_retaliate: This unit can perform an unlimited number of Retaliation Attacks. | [Core Game](../content/core_game.md) |\n"
+"| [Griffins](griffins.md) | [Castle](../towns/castle.md) | Pack | :bronze: | :unit_flying: | **3** | 0 | 4 | **9** | 6 :gold: | :unit_retaliate: This unit can perform an unlimited number of Retaliation Attacks. | [Core Game](../content/core_game.md) |\n"
+"| [Crusaders](crusaders.md) | [Castle](../towns/castle.md) | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 6 :gold: | - | [Core Game](../content/core_game.md) |\n"
+"| [Crusaders](crusaders.md) | [Castle](../towns/castle.md) | Pack | :silver: | :unit_ground: | **4** | 2 | 4 | **6** | 10 :gold: | :unit_attack: You can reroll every \"0\" on this unit's [Attack die](../dice.md#attack-die). | [Core Game](../content/core_game.md) |\n"
+"| [Zealots](zealots.md) | [Castle](../towns/castle.md) | Few | :silver: | :unit_ranged: | 3 | 1 | 5 | 5 | 8 :gold: | - | [Core Game](../content/core_game.md) |\n"
+"| [Zealots](zealots.md) | [Castle](../towns/castle.md) | Pack | :silver: | :unit_ranged: | **4** | 1 | 5 | **7** | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. | [Core Game](../content/core_game.md) |\n"
+"| [Champions](champions.md) | [Castle](../towns/castle.md) | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 7 | 12 :gold: | :effect_map: If your hero is on a field with Stables, this unit's reinforcement cost is reduced by 6 :gold:. | [Core Game](../content/core_game.md) |\n"
+"| [Champions](champions.md) | [Castle](../towns/castle.md) | Pack | :golden: | :unit_ground: | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: If this unit's movement ends in a space other than where it started, you may reroll an [Attack die](../dice.md#attack-die). | [Core Game](../content/core_game.md) |\n"
+"| [Archangels](archangels.md) | [Castle](../towns/castle.md) | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 12 | 20 :gold:<br>1 :valuables: | :unit_passive: When combat begins, draw 1 card. | [Core Game](../content/core_game.md) |\n"
+"| [Archangels](archangels.md) | [Castle](../towns/castle.md) | Pack | :golden: | :unit_flying: | **7** | 3 | **10** | **18** | 30 :gold:<br>2 :valuables: | :unit_passive: Once per Combat. Cancel an attack that would reduce another unit's :health_points: to 0. | [Core Game](../content/core_game.md) |\n"
+"| [Skeletons](skeletons.md) | [Necropolis](../towns/necropolis.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - | [Core Game](../content/core_game.md) |\n"
+"| [Skeletons](skeletons.md) | [Necropolis](../towns/necropolis.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | - | [Core Game](../content/core_game.md) |\n"
+"| [Zombies](zombies.md) | [Necropolis](../towns/necropolis.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: If the attacker resolves a \"+1\" on [Attack die](../dice.md#attack-die), gain +1 :defense:. | [Core Game](../content/core_game.md) |\n"
+"| [Zombies](zombies.md) | [Necropolis](../towns/necropolis.md) | Pack | :bronze: | :unit_ground: | 2 | 1 | 3 | **4** | 4 :gold: | :unit_passive: If the attacker resolves a \"0\" or a +1\" on [Attack die](../dice.md#attack-die), gain +1 :defense:. | [Core Game](../content/core_game.md) |\n"
+"| [Wraiths](wraiths.md) | [Necropolis](../towns/necropolis.md) | Few | :bronze: | :unit_flying: | 3 | 0 | 3 | 5 | 4 :gold: | :activation: Remove up to 1 :damage: from this unit. | [Core Game](../content/core_game.md) |\n"
+"| [Wraiths](wraiths.md) | [Necropolis](../towns/necropolis.md) | Pack | :bronze: | :unit_flying: | 3 | 0 | **5** | **7** | 6 :gold: | :activation: Remove up to 1 :damage: from this unit, then discard 1 random card from the enemy's hand. | [Core Game](../content/core_game.md) |\n"
+"| [Vampires](vampires.md) | [Necropolis](../towns/necropolis.md) | Few | :silver: | :unit_flying: | 4 | 1 | 4 | 6 | 8 :gold: | :unit_attack: Ignore the Retaliation Attack. | [Core Game](../content/core_game.md) |\n"
+"| [Vampires](vampires.md) | [Necropolis](../towns/necropolis.md) | Pack | :silver: | :unit_flying: | **5** | 1 | 4 | **9** | 12 :gold: | :unit_attack: Ignore the Retaliation Attack. Then remove up to 2 :damage: from this unit. | [Core Game](../content/core_game.md) |\n"
+"| [Liches](liches.md) | [Necropolis](../towns/necropolis.md) | Few | :silver: | :unit_ranged: | 3 | 1 | 5 | 6 | 8 :gold: | - | [Core Game](../content/core_game.md) |\n"
+"| [Liches](liches.md) | [Necropolis](../towns/necropolis.md) | Pack | :silver: | :unit_ranged: | **4** | 1 | 5 | **7** | 14 :gold: | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. | [Core Game](../content/core_game.md) |\n"
+"| [Dread Knights](dread_knights.md) | [Necropolis](../towns/necropolis.md) | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 7 | 12 :gold: | :unit_attack: When retaliating after this attack, the enemy rolls 2 [Attack dice](../dice.md#attack-die) and resolves the lower result. | [Core Game](../content/core_game.md) |\n"
+"| [Dread Knights](dread_knights.md) | [Necropolis](../towns/necropolis.md) | Pack | :golden: | :unit_ground: | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: If you resolve a \"0\" or a \"+1\" on the [Attack die](../dice.md#attack-die), increase this unit's total attack value by another \"+1\". | [Core Game](../content/core_game.md) |\n"
+"| [Ghost Dragons](ghost_dragons.md) | [Necropolis](../towns/necropolis.md) | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 9 | 19 :gold:<br>1 :valuables: | :activation: Discard the enemy's :morale_positive: token. | [Core Game](../content/core_game.md) |\n"
+"| [Ghost Dragons](ghost_dragons.md) | [Necropolis](../towns/necropolis.md) | Pack | :golden: | :unit_flying: | **7** | 3 | **9** | **14** | 32 :gold:<br>2 :valuables: | :activation: Discard the enemy's :morale_positive: token.<br>:unit_attack: Add +1 to your [Attack die](../dice.md#attack-die) result. | [Core Game](../content/core_game.md) |\n"
+"| [Troglodytes](troglodytes.md) | [Dungeon](../towns/dungeon.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 2 :gold: | - | [Core Game](../content/core_game.md) |\n"
+"| [Troglodytes](troglodytes.md) | [Dungeon](../towns/dungeon.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: This unit ignores :paralysis: effect. | [Core Game](../content/core_game.md) |\n"
+"| [Harpies](harpies.md) | [Dungeon](../towns/dungeon.md) | Few | :bronze: | :unit_flying: | 2 | 0 | 3 | 6 | 3 :gold: | :unit_attack: After the enemy's Retaliation Attack, this unit can return to the space from which it moved to attack. | [Core Game](../content/core_game.md) |\n"
+"| [Harpies](harpies.md) | [Dungeon](../towns/dungeon.md) | Pack | :bronze: | :unit_flying: | **3** | 0 | 3 | **9** | 5 :gold: | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. | [Core Game](../content/core_game.md) |\n"
+"| [Evil Eyes](evil_eyes.md) | [Dungeon](../towns/dungeon.md) | Few | :bronze: | :unit_ranged: | 3 | 0 | 3 | 5 | 4 :gold: | - | [Core Game](../content/core_game.md) |\n"
+"| [Evil Eyes](evil_eyes.md) | [Dungeon](../towns/dungeon.md) | Pack | :bronze: | :unit_ranged: | 3 | **1** | 3 | **7** | 6 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. | [Core Game](../content/core_game.md) |\n"
+"| [Medusas](medusas.md) | [Dungeon](../towns/dungeon.md) | Few | :silver: | :unit_ranged: | 3 | 1 | 4 | 5 | 6 :gold: | :unit_passive: After the Retaliation Attack, roll an [Attack die](../dice.md#attack-die), on a \"0\" the target is :paralysis:. | [Core Game](../content/core_game.md) |\n"
+"| [Medusas](medusas.md) | [Dungeon](../towns/dungeon.md) | Pack | :silver: | :unit_ranged: | **4** | 1 | 4 | **6** | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | [Core Game](../content/core_game.md) |\n"
+"| [Minotaurs](minotaurs.md) | [Dungeon](../towns/dungeon.md) | Few | :silver: | :unit_ground: | 4 | 2 | 4 | 6 | 8 :gold: | :unit_attack: If you resolve a \"-1\" on the [Attack die](../dice.md#attack-die), draw a card, | [Core Game](../content/core_game.md) |\n"
+"| [Minotaurs](minotaurs.md) | [Dungeon](../towns/dungeon.md) | Pack | :silver: | :unit_ground: | **5** | 2 | 4 | **8** | 14 :gold: | :unit_attack: If you resolve a \"-1\" on the [Attack die](../dice.md#attack-die), draw a card, | [Core Game](../content/core_game.md) |\n"
+"| [Manticores](manticores.md) | [Dungeon](../towns/dungeon.md) | Few | :golden: | :unit_flying: | 5 | 1 | 6 | 7 | 10 :gold: | - | [Core Game](../content/core_game.md) |\n"
+"| [Manticores](manticores.md) | [Dungeon](../towns/dungeon.md) | Pack | :golden: | :unit_flying: | 5 | 1 | 6 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: For this attack, ignore the :defense: value from the target unit's card. | [Core Game](../content/core_game.md) |\n"
+"| [Manticores](manticores.md) | [Dungeon](../towns/dungeon.md) | Pack Alt | :golden: | :unit_flying: | 5 | **2** | 6 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: After the Attack, roll an [Attack die](../dice.md#attack-die), on a \"0\" or a \"+1\" the target is :paralysis:. | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Black Dragons](black_dragons.md) | [Dungeon](../towns/dungeon.md) | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 11 | 19 :gold:<br>1 :valuables: | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](../spells/index.md) by 2 to a minimum of 0. | [Core Game](../content/core_game.md) |\n"
+"| [Black Dragons](black_dragons.md) | [Dungeon](../towns/dungeon.md) | Pack | :golden: | :unit_flying: | **8** | 3 | 8 | **15** | 33 :gold:<br>2 :valuables: | :unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). | [Core Game](../content/core_game.md) |\n"
+"| [Gremlins](gremlins.md) | [Tower](../towns/tower.md) | Few | :bronze: | :unit_ground: | 2 | 0 | 2 | 4 | 0 :gold: | - | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Gremlins](gremlins.md) | [Tower](../towns/tower.md) | Pack | :bronze: | :unit_ranged: | 2 | 0 | 2 | **5** | 2 :gold: | - | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Gargoyles](gargoyles.md) | [Tower](../towns/tower.md) | Few | :bronze: | :unit_flying: | 2 | 1 | 3 | 6 | 3 :gold: | :unit_passive: This unit ignores any :ongoing: [Spell](../spells/index.md) effects. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Gargoyles](gargoyles.md) | [Tower](../towns/tower.md) | Pack | :bronze: | :unit_flying: | **3** | 1 | 3 | **9** | 4 :gold: | :unit_passive: This unit ignores any :ongoing: [Spell](../spells/index.md) effects. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Iron Golems](iron_golems.md) | [Tower](../towns/tower.md) | Few | :bronze: | :unit_ground: | 3 | 1 | 3 | 4 | 4 :gold: | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells/index.md) by 1 - to a minimum of 0. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Iron Golems](iron_golems.md) | [Tower](../towns/tower.md) | Pack | :bronze: | :unit_ground: | 3 | **2** | 3 | **5** | 7 :gold: | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells/index.md) by 2 - to a minimum of 0. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Magi](magi.md) | [Tower](../towns/tower.md) | Few | :silver: | :unit_ranged: | 3 | 0 | 4 | 5 | 6 :gold: | :unit_attack: Ignore combat penalties. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Magi](magi.md) | [Tower](../towns/tower.md) | Pack | :silver: | :unit_ranged: | **4** | **1** | 4 | 6 | 11 :gold: | :unit_attack: Ignore combat penalties. :activation: Add +1 :empower: to the first [spell](../spells/index.md) you cast this round. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Genies](genies.md) | [Tower](../towns/tower.md) | Few | :silver: | :unit_flying: | 3 | 1 | 6 | 7 | 8 :gold: | :unit_other: Discard 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Genies](genies.md) | [Tower](../towns/tower.md) | Pack | :silver: | :unit_flying: | **4** | 1 | 6 | **8** | 12 :gold: | :unit_attack: Discard 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Nagas](nagas.md) | [Tower](../towns/tower.md) | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 6 | 13 :gold: | :unit_attack: Ignore Retaliation Attacks. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Nagas](nagas.md) | [Tower](../towns/tower.md) | Pack | :golden: | :unit_ground: | **6** | 2 | 7 | **8** | 18 :gold:<br>1 :valuables: | :unit_attack: Ignore Retaliation Attacks. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Titans](titans.md) | [Tower](../towns/tower.md) | Few | :golden: | :unit_ground: | 6 | 3 | 8 | 7 | 18 :gold:<br>1 :valuables: | :unit_passive: Ignore any :ongoing: effects on this unit. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Titans](titans.md) | [Tower](../towns/tower.md) | Pack | :golden: | :unit_ranged: | 6 | 3 | 8 | **11** | 32 :gold:<br>2 :valuables: | :unit_passive: Ignore any :ongoing: effects on this unit and combat penalties against adjacent units. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Centaurs](centaurs.md) | [Rampart](../towns/rampart.md) | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 6 | 2 :gold: | - | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Centaurs](centaurs.md) | [Rampart](../towns/rampart.md) | Pack | :bronze: | :unit_ground: | **3** | 0 | 3 | **8** | 3 :gold: | - | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Dwarves](dwarves.md) | [Rampart](../towns/rampart.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: If this unit is targeted by any [Spell](../spells/index.md) or [Specialty](../heroes/index.md) card, roll 1 [Attack die](../dice.md#attack-die). On a \"+1\" result, ignore the card's effect. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Dwarves](dwarves.md) | [Rampart](../towns/rampart.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 3 | **5** | 4 :gold: | :unit_passive: If this unit is targeted by any [Spell](../spells/index.md) or [Specialty](../heroes/index.md) card, roll 1 [Attack die](../dice.md#attack-die). On a \"+1\" result, ignore the card's effect. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Elves](elves.md) | [Rampart](../towns/rampart.md) | Few | :bronze: | :unit_ranged: | 2 | 1 | 3 | 6 | 4 :gold: | - | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Elves](elves.md) | [Rampart](../towns/rampart.md) | Pack | :bronze: | :unit_ranged: | **3** | 1 | 3 | **7** | 7 :gold: | :unit_attack: If a target is a non adjacent unit, on a \"-1\" or \"0\" result, attack this target again. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Pegasi](pegasi.md) | [Rampart](../towns/rampart.md) | Few | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 6 :gold: | - | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Pegasi](pegasi.md) | [Rampart](../towns/rampart.md) | Pack | :silver: | :unit_flying: | **4** | 0 | **6** | **12** | 10 :gold: | :unit_passive: The :empower: of all enemy [spells](../spells/index.md) is reduced by 1 (to a minimum of 0). | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Dendroids](dendroids.md) | [Rampart](../towns/rampart.md) | Few | :silver: | :unit_ground: | 4 | 2 | 5 | 3 | 8 :gold: | - | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Dendroids](dendroids.md) | [Rampart](../towns/rampart.md) | Pack | :silver: | :unit_ground: | 4 | 2 | **6** | **4** | 15 :gold: | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Unicorns](unicorns.md) | [Rampart](../towns/rampart.md) | Few | :golden: | :unit_ground: | 5 | 1 | 8 | 7 | 11 :gold: | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this unit by 1 (to a minimum of 0), | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Unicorns](unicorns.md) | [Rampart](../towns/rampart.md) | Pack | :golden: | :unit_ground: | **6** | 1 | 8 | **9** | 18 :gold:<br>1 :valuables: | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Gold Dragons](gold_dragons.md) | [Rampart](../towns/rampart.md) | Few | :golden: | :unit_flying: | 5 | 3 | 9 | 10 | 22 :gold:<br>1 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Gold Dragons](gold_dragons.md) | [Rampart](../towns/rampart.md) | Pack | :golden: | :unit_flying: | **6** | 3 | **10** | **16** | 30 :gold:<br>2 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Gnolls](gnolls.md) | [Fortress](../towns/fortress.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 4 | 2 :gold: | - | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Gnolls](gnolls.md) | [Fortress](../towns/fortress.md) | Pack | :bronze: | :unit_ground: | 2 | 1 | **4** | **5** | 3 :gold: | - | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Lizardmen](lizardmen.md) | [Fortress](../towns/fortress.md) | Few | :bronze: | :unit_ranged: | 2 | 0 | 3 | 4 | 3 :gold: | - | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Lizardmen](lizardmen.md) | [Fortress](../towns/fortress.md) | Pack | :bronze: | :unit_ranged: | **3** | 0 | 3 | **5** | 5 :gold: | - | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Dragon Flies](dragon_flies.md) | [Fortress](../towns/fortress.md) | Few | :bronze: | :unit_flying: | 3 | 0 | 3 | 8 | 4 :gold: | :unit_attack: Remove all :ongoing: effects played on the target by the enemy player. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Dragon Flies](dragon_flies.md) | [Fortress](../towns/fortress.md) | Pack | :bronze: | :unit_flying: | 3 | **1** | 3 | **12** | 7 :gold: | :unit_attack: Remove all :ongoing: effects played on the target by the enemy player. If the target retaliates, it suffers - 1 :attack:. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Basilisks](basilisks.md) | [Fortress](../towns/fortress.md) | Few | :silver: | :unit_ground: | 4 | 1 | 4 | 5 | 6 :gold: | :unit_attack: On \"-1\" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Basilisks](basilisks.md) | [Fortress](../towns/fortress.md) | Pack | :silver: | :unit_ground: | 4 | 1 | **5** | **7** | 9 :gold: | :unit_attack: On \"-1\" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Gorgons](gorgons.md) | [Fortress](../towns/fortress.md) | Few | :silver: | :unit_ground: | 4 | 2 | 5 | 5 | 9 :gold: | - | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Gorgons](gorgons.md) | [Fortress](../towns/fortress.md) | Pack | :silver: | :unit_ground: | **5** | 2 | 5 | **6** | 14 :gold: | :unit_attack: After the attack, roll 2 [Attack dice](../dice.md#attack-die); on a double \"0\", decrease the target unit's :health_points: to 0. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Wyverns](wyverns.md) | [Fortress](../towns/fortress.md) | Few | :golden: | :unit_flying: | 5 | 1 | 8 | 7 | 12 :gold: | :unit_attack: Place 1 faction cube on the target. At the beginning of its every activation, remove it to inflict 1 :damage:. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Wyverns](wyverns.md) | [Fortress](../towns/fortress.md) | Pack | :golden: | :unit_flying: | **6** | 1 | 8 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Hydras](hydras.md) | [Fortress](../towns/fortress.md) | Few | :golden: | :unit_ground: | 6 | 3 | 8 | 5 | 20 :gold:<br>1 :valuables: | :unit_attack: Ignore the Retaliation Attack. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Hydras](hydras.md) | [Fortress](../towns/fortress.md) | Pack | :golden: | :unit_ground: | **7** | 3 | **10** | **7** | 28 :gold:<br>2 :valuables: | :unit_attack: Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Familiars](familiars.md) | [Inferno](../towns/inferno.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 2 | 5 | 2 :gold: | - | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Familiars](familiars.md) | [Inferno](../towns/inferno.md) | Pack | :bronze: | :unit_ground: | **3** | 1 | 2 | **7** | 3 :gold: | :unit_passive: Whenever an enemy casts a [:spellpower:](../spells/index.md) from hand, they must discard 1 card from hand. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Magogs](magogs.md) | [Inferno](../towns/inferno.md) | Few | :bronze: | :unit_ranged: | 2 | 0 | 2 | 4 | 3 :gold: | - | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Magogs](magogs.md) | [Inferno](../towns/inferno.md) | Pack | :bronze: | :unit_ranged: | 2 | 0 | **3** | **6** | 5 :gold: | :unit_attack: When [Magogs](magogs.md) attack a target that is not adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Cerberi](cerberi.md) | [Inferno](../towns/inferno.md) | Few | :bronze: | :unit_ground: | 3 | 0 | 4 | 7 | 4 :gold: | - | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Cerberi](cerberi.md) | [Inferno](../towns/inferno.md) | Pack | :bronze: | :unit_ground: | 3 | **1** | **5** | **8** | 7 :gold: | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Demons](demons.md) | [Inferno](../towns/inferno.md) | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 6 :gold: | - | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Demons](demons.md) | [Inferno](../towns/inferno.md) | Pack | :silver: | :unit_ground: | 3 | 2 | **5** | **6** | 8 :gold: | - | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Pit Lords](pit_lords.md) | [Inferno](../towns/inferno.md) | Few | :silver: | :unit_ground: | 4 | 1 | 6 | 6 | 8 :gold: | - | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Pit Lords](pit_lords.md) | [Inferno](../towns/inferno.md) | Pack | :silver: | :unit_ground: | **5** | 1 | 6 | **7** | 15 :gold: | :unit_other: If one of your units has been removed from the board during this Combat, Summon or Reinforce [Demons](demons.md). | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Efreet](efreet.md) | [Inferno](../towns/inferno.md) | Few | :golden: | :unit_flying: | 5 | 1 | 7 | 9 | 12 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md). | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Efreet](efreet.md) | [Inferno](../towns/inferno.md) | Pack | :golden: | :unit_flying: | **6** | 1 | 7 | **13** | 18 :gold:<br>1 :valuables: | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the [Fire School of Magic](../spells/school_of_fire_magic.md). | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Arch Devils](arch_devils.md) | [Inferno](../towns/inferno.md) | Few | :golden: | :unit_flying: | 6 | 3 | 8 | 11 | 22 :gold:<br>1 :valuables: | :unit_attack: Ignores Retaliation Attacks. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Arch Devils](arch_devils.md) | [Inferno](../towns/inferno.md) | Pack | :golden: | :unit_flying: | **7** | 3 | **9** | **15** | 30 :gold:<br>2 :valuables: | :unit_attack: Ignores Retaliation Attacks.<br>:unit_passive: As a regular movement, the Arch Devils can move to any empty space. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Goblins](goblins.md) | [Stronghold](../towns/stronghold.md) | Few | :bronze: | :unit_ground: | 1 | 0 | 4 | 6 | 1 :gold: | - | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Goblins](goblins.md) | [Stronghold](../towns/stronghold.md) | Pack | :bronze: | :unit_ground: | **2** | 0 | 4 | **8** | 2 :gold: | - | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Wolf Raiders](wolf_raiders.md) | [Stronghold](../towns/stronghold.md) | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 7 | 3 :gold: | - | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Wolf Raiders](wolf_raiders.md) | [Stronghold](../towns/stronghold.md) | Pack | :bronze: | :unit_ground: | 2 | 0 | **5** | **8** | 5 :gold: | :unit_attack: Attack this target again. The second attack happens after the target retaliates (if possible). | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Orcs](orcs.md) | [Stronghold](../towns/stronghold.md) | Few | :bronze: | :unit_ranged: | 2 | 1 | 4 | 4 | 4 | - | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Orcs](orcs.md) | [Stronghold](../towns/stronghold.md) | Pack | :bronze: | :unit_ranged: | **3** | 1 | **5** | **5** | 7 :gold: | - | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Ogres](ogres.md) | [Stronghold](../towns/stronghold.md) | Few | :silver: | :unit_ground: | 3 | 2 | 4 | 4 | 6 :gold: | :unit_other: Place a +1 :attack: token on a chosen :unit_ground: or :unit_flying: unit for 2 Combat rounds. | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Ogres](ogres.md) | [Stronghold](../towns/stronghold.md) | Pack | :silver: | :unit_ground: | 3 | 2 | **5** | **5** | 8 :gold: | :unit_other: Place a +2 :attack: token on a chosen :unit_ground: or :unit_flying: unit for 2 Combat rounds. | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Thunderbirds](thunderbirds.md) | [Stronghold](../towns/stronghold.md) | Few | :silver: | :unit_flying: | 4 | 1 | 6 | 9 | 8 :gold: | - | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Thunderbirds](thunderbirds.md) | [Stronghold](../towns/stronghold.md) | Pack | :silver: | :unit_flying: | **5** | 1 | 6 | **11** | 14 :gold: | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](../dice.md#attack-die), on a \"+1\", deal 1 :spell: :damage: to the target. | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Cyclops](cyclops.md) | [Stronghold](../towns/stronghold.md) | Few | :golden: | :unit_ranged: | 4 | 1 | 6 | 6 | 13 :gold: | :unit_other: This unit can destroy the Gate or a Wall. | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Cyclops](cyclops.md) | [Stronghold](../towns/stronghold.md) | Pack | :golden: | :unit_ranged: | **5** | 1 | **7** | **8** | 17 :gold:<br>1 :valuables: | :unit_other: This unit can destroy the Gate, a Wall, or the [Arrow Tower](arrow_tower.md). | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Behemoths](behemoths.md) | [Stronghold](../towns/stronghold.md) | Few | :golden: | :unit_ground: | 7 | 2 | 8 | 6 | 19 :gold:<br>1 :valuables: | :unit_attack: Decrease the target's :defense: by 1 (to a minimum of 0). | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Behemoths](behemoths.md) | [Stronghold](../towns/stronghold.md) | Pack | :golden: | :unit_ground: | **8** | 2 | **10** | **9** | 29 :gold:<br>2 :valuables: | :unit_attack: Decrease the target's :defense: by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Sprites](sprites.md) | [Conflux](../towns/conflux.md) | Few | :bronze: | :unit_flying: | 2 | 0 | 2 | 7 | 2 :gold: | - | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Sprites](sprites.md) | [Conflux](../towns/conflux.md) | Pack | :bronze: | :unit_flying: | 2 | 0 | **4** | **9** | 4 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Storm Elementals](storm_elementals.md)  | [Conflux](../towns/conflux.md) | Few | :bronze: | :unit_ground: | 2 | 0 | 3 | 7 | 3 :gold: | - | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Storm Elementals](storm_elementals.md)  | [Conflux](../towns/conflux.md) | Pack | :bronze: | :unit_ranged: | 2 | 0 | **5** | **8** | 5 :gold: | :activation: Add +1 :empower: to the first [Air Magic](../spells/school_of_air_magic.md) spell you cast during this Activation. | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Ice Elementals](ice_elementals.md)  | [Conflux](../towns/conflux.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 4 | 5 | 4 :gold: | - | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Ice Elementals](ice_elementals.md)  | [Conflux](../towns/conflux.md) | Pack | :bronze: | :unit_ranged: | **3** | 1 | **5** | **6** | 7 :gold: | :activation: Add +1 :empower: to the first [Water Magic](../spells/school_of_water_magic.md) spell you cast during this Activation. | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Energy Elementals](energy_elementals.md) | [Conflux](../towns/conflux.md) | Few | :silver: | :unit_flying: | 3 | 1 | 5 | 5 | 5 :gold: | - | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Energy Elementals](energy_elementals.md) | [Conflux](../towns/conflux.md) | Pack | :silver: | :unit_flying: | **4** | 1 | **6** | **8** | 8 :gold: | :activation: Add +1 :empower: to the first [Fire Magic](../spells/school_of_fire_magic.md) spell you cast during this Activation. | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Magma Elementals](magma_elementals.md) | [Conflux](../towns/conflux.md) | Few | :silver: | :unit_ground: | 4 | 2 | 6 | 4 | 9 :gold: | - | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Magma Elementals](magma_elementals.md) | [Conflux](../towns/conflux.md) | Pack | :silver: | :unit_ground: | **5** | 2 | **6** | **6** | 13 :gold: | :activation: Add +1 :empower: to the first [Earth Magic](../spells/school_of_earth_magic.md) spell you cast during this Activation. | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Magic Elementals](magic_elementals.md) | [Conflux](../towns/conflux.md) | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 7 | 12 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Magic Elementals](magic_elementals.md) | [Conflux](../towns/conflux.md) | Pack | :golden: | :unit_ground: | **6** | 2 | **8** | **9** | 18 :gold:<br>1 :valuables: | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. :unit_passive: Ignore any [:spell:](../spells/index.md) effects and :damage: from Specialty. | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Phoenixes](phoenixes.md) | [Conflux](../towns/conflux.md) | Few | :golden: | :unit_flying: | 6 | 2 | 7 | 12 | 21 :gold:<br>1 :valuables: | :unit_passive: Once per Combat. When this unit's :health_points: drops to 0, set it to 1 instead. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Phoenixes](phoenixes.md) | [Conflux](../towns/conflux.md) | Pack | :golden: | :unit_flying: | **7** | 2 | **9** | **18** | 27 :gold:<br>2 :valuables: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Oceanids](oceanids.md) | [Cove](../towns/cove.md) | Few | :bronze: | :unit_flying: | 2 | 0 | 3 | 6 | 2 :gold: | - | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Oceanids](oceanids.md) | [Cove](../towns/cove.md) | Pack | :bronze: | :unit_flying: | 2 | 0 | **4** | **8** | 3 :gold: | :unit_passive: Ignore any effect from spells from the [School of Water Magic](../spells/school_of_water_magic.md). | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Seamen](seamen.md) | [Cove](../towns/cove.md) | Few | :bronze: | :unit_ground: | 2 | 1 | 3 | 5 | 3 :gold: | - | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Seamen](seamen.md) | [Cove](../towns/cove.md) | Pack | :bronze: | :unit_ground: | 2 | 1 | **5** | **6** | 5 :gold: | :effect_map: +1 :movement: if you start the round on a Sea tile. | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Sea Dogs](sea_dogs.md) | [Cove](../towns/cove.md) | Few | :bronze: | :unit_ranged: | 2 | 0 | 4 | 6 | 4 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Sea Dogs](sea_dogs.md) | [Cove](../towns/cove.md) | Pack | :bronze: | :unit_ranged: | 3 | 0 | **5** | **8** | 6 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack.<br>:unit_passive: Ignore the combat penalty against adjacent units. | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Ayssids](ayssids.md) | [Cove](../towns/cove.md) | Few | :silver: | :unit_flying: | 3 | 1 | 5 | 9 | 6 :gold: | - | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Ayssids](ayssids.md) | [Cove](../towns/cove.md) | Pack | :silver: | :unit_flying: | 3 | 1 | **6** | **11** | 10 :gold: | :unit_attack: If the attack reduces the target to 0 :health:, the Ayssids can attack another unit adjacent to them. | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Sorceresses](sorceresses.md) | [Cove](../towns/cove.md) | Few | :silver: | :unit_ranged: | 4 | 1 | 5 | 6 | 8 :gold: | :unit_other: Place a Weakness token on any unit for 2 Combat rounds. | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Sorceresses](sorceresses.md) | [Cove](../towns/cove.md) | Pack | :silver: | :unit_ranged: | **5** | 1 | **6** | 6 | 13 :gold: | :unit_attack: After the attack, place a Weakness token on the target for 2 Combat rounds. | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Nix](nix.md) | [Cove](../towns/cove.md) | Few | :golden: | :unit_ground: | 5 | 2 | 7 | 6 | 12 :gold: | - | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Nix](nix.md) | [Cove](../towns/cove.md) | Pack | :golden: | :unit_ground: | **6** | 2 | **8** | **7** | 20 :gold:<br>1 :valuables: | :unit_passive: This unit cannot take more than 4 :damage: from a single attack. | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Haspids](haspids.md) | [Cove](../towns/cove.md) | Few | :golden: | :unit_ground: | 5 | 3 | 7 | 9 | 18 :gold:<br>1 :valuables: | :unit_attack: If this unit turns from Pack side in this combat, gain +2 :attack: | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Haspids](haspids.md) | [Cove](../towns/cove.md) | Pack | :golden: | :unit_ground: | **6** | 3 | **9** | **12** | 32 :gold:<br>2 :valuables: | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:. | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Boars](boars.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 2 | 0 | 4 | 6 | 4 :gold: | - | [Core Game](../content/core_game.md) |\n"
+"| [Centaurs](centaurs.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 2 | 0 | 5 | 7 | 3 :gold: | - | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Cerberi](cerberi.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 2 | 0 | 5 | 8 | 10 :gold: | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Dragon Flies](dragon_flies.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_flying: | 3 | 0 | 3 | 8 | 7 :gold: | :unit_attack: Retaliation Attacks against Dragon Flies suffer -1 :attack:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Dwarves](dwarves.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 2 | 1 | 4 | 3 | 4 :gold: | :unit_passive: If this unit is targeted by any [Spell](../spells/index.md) or [Specialty](../heroes/index.md) card, roll 1 [Attack die](../dice.md#attack-die). On a \"+1\" result, ignore the card's effect. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Elves](elves.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ranged: | 2 | 1 | 3 | 6 | 7 :gold: | :unit_attack: If a target is a non adjacent unit, on a \"-1\" or \"0\" result, attack this target again. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Evil Eyes](evil_eyes.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ranged: | 2 | 1 | 3 | 6 | 6 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. | [Core Game](../content/core_game.md) |\n"
+"| [Familiars](familiars.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 3 | 1 | 2 | 7 | 6 :gold: | :unit_passive: Whenever an enemy cast a [:spellpower:](../spells/index.md) from hand, they must discard 1 card from hand. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Gargoyles](gargoyles.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_flying: | 2 | 1 | 3 | 9 | 4 :gold: | :unit_passive: This unit ignores :paralysis: effect. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Gnolls](gnolls.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 2 | 1 | 2 | 4 | 3 :gold: | - | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Gremlins](gremlins.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ranged: | 2 | 0 | 2 | 5 | 2 :gold: | - | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Griffins](griffins.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_flying: | 3 | 0 | 4 | 8 | 7 :gold: | :unit_retaliate: This unit can perform and unlimited number of Retaliation Attacks. | [Core Game](../content/core_game.md) |\n"
+"| [Halberdiers](halberdiers.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 2 | 0 | 4 | 4 | 4 :gold: | :unit_passive: Treat allied adjacent units as if they had a Defense token. | [Core Game](../content/core_game.md) |\n"
+"| [Halflings](halflings.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ranged: | 2 | 0 | 3 | 6 | 5 :gold: | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher one. Ignore combat penalties. | [Core Game](../content/core_game.md) |\n"
+"| [Harpies](harpies.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_flying: | 2 | 0 | 4 | 8 | 5 :gold: | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. | [Core Game](../content/core_game.md) |\n"
+"| [Iron Golems](iron_golems.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 2 | 1 | 4 | 3 | 6 :gold: | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 2 - to a minimum of 0. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Leprechaun](leprechaun.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 2 | 0 | 3 | 5 | 3 :gold: | | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher one. | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Lizardmen](lizardmen.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ranged: | 2 | 0 | 4 | 5 | 4 :gold: | - | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Magogs](magogs.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ranged: | 2 | 0 | 4 | 6 | 8 :gold: | :unit_attack: When Magogs attack a target that is non adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Marksmen](marksmen.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ranged: | 2 | 0 | 3 | 5 | 7 :gold: | :unit_attack: If a target is a non-adjacent unit, attack this target again. | [Core Game](../content/core_game.md) |\n"
+"| [Peasants](peasants.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 1 | 0 | 2 | 3 | 3 :gold: | :effect_map: At the beginning of each Resource round, gain 3 :gold:. | [Core Game](../content/core_game.md) |\n"
+"| [Rogues](rogues.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 5 :gold: | :effect_map: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. | [Core Game](../content/core_game.md) |\n"
+"| [Skeletons](skeletons.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 2 | 0 | 3 | 4 | 3 :gold: | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](../towns/necropolis.md#heroes), immediately Reinforce 1 of your :bronze: units. | [Core Game](../content/core_game.md) |\n"
+"| [Troglodytes](troglodytes.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 2 | 1 | 3 | 6 | 4 :gold: | :unit_passive: This unit ignores :paralysis: effects. | [Core Game](../content/core_game.md) |\n"
+"| [Wraiths](wraiths.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_flying: | 2 | 0 | 4 | 7 | 7 :gold: | :activation: Remove up to 2 :damage: from this unit. | [Core Game](../content/core_game.md) |\n"
+"| [Zombies](zombies.md) | [Neutral](../towns/neutral.md) | - | :bronze: | :unit_ground: | 2 | 0 | 4 | 3 | 5 :gold: | :unit_passive: If the attacker resolves a \"0\" or a \"+1\" on an [Attack die](../dice.md#attack-die), gain +1 :defense: | [Core Game](../content/core_game.md) |\n"
+"| [Basilisks](basilisks.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ground: | 4 | 1 | 4 | 5 | 12 :gold: | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die). On a \"0\" result, :paralysis: the target. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Crusaders](crusaders.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ground: | 3 | 2 | 4 | 5 | 11 :gold: | :unit_passive: During any attack, roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher outcome. | [Core Game](../content/core_game.md) |\n"
+"| [Demons](demons.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ground: | 3 | 0 | 8 | 6 | 13 :gold: | - | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Dendroids](dendroids.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ground: | 3 | 2 | 6 | 3 | 12 :gold: | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Fangarm](fangarm.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_flying: | 3 | 1 | 5 | 8 | 14 :gold: | :unit_passive: Ignore all [:spellpower:](../spells/index.md) and [Specialty](../heroes/index.md) effects other than :damage:. | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Genies](genies.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_flying: | 3 | 1 | 4 | 9 | 11 :gold: | :unit_attack: When attacking [Efreet](efreet.md), this unit gains +1 :attack:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Gorgons](gorgons.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ground: | 4 | 2 | 4 | 5 | 13 :gold: | :unit_attack: After the attack, roll 2 [Attack dice](../dice.md#attack-die). On two \"-1\" results, reduce the attacked unit's :health_points: to 0. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Liches](liches.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ranged: | 3 | 0 | 6 | 7 | 12 :gold: | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. | [Core Game](../content/core_game.md) |\n"
+"| [Magi](magi.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ranged: | 3 | 0 | 5 | 6 | 11 :gold: | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Medusas](medusas.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ranged: | 3 | 1 | 4 | 6 | 11 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. | [Core Game](../content/core_game.md) |\n"
+"| [Minotaurs](minotaurs.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ground: | 3 | 2 | 4 | 7 | 11 :gold: | :unit_attack: Reroll this unit's \"-1\" outcome on the [Attack die](../dice.md#attack-die). | [Core Game](../content/core_game.md) |\n"
+"| [Mummies](mummies.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ground: | 3 | 1 | 4 | 5 | 8 :gold: | :unit_attack: Ignore the result on the [Attack die](../dice.md#attack-die). :unit_passive: Whenever this unit is attacked, set your opponent's [Attack die](../dice.md#attack-die) to \"-1\". | [Core Game](../content/core_game.md) |\n"
+"| [Nomads](nomads.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ground: | 3 | 1 | 4 | 7 | 10 :gold: | :effect_map: At the end of your turn, move your [Hero's](../heroes/index.md) model to an adjacent empty field. | [Core Game](../content/core_game.md) |\n"
+"| [Pegasi](pegasi.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 14 :gold: | :unit_passive: Whenever an enemy casts a [:spellpower:](../spells/index.md), they must discard an additional card with :empower:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Pit Lords](pit_lords.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ground: | 4 | 1 | 5 | 7 | 15 :gold: | - | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Satyrs](satyrs.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ground: | 3 | 0 | 5 | 7 | 11 :gold: | :effect_map: Roll a [die](../dice.md#attack-die). On a \"-1\" outcome, gain a :morale_positive: token. | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Sharpshooters](sharpshooters.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ranged: | 3 | 0 | 6 | 9 | 10 :gold: | :unit_attack: Ignore the combat penalties. | [Core Game](../content/core_game.md) |\n"
+"| [Steel Golems](steel_golems.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ground: | 3 | 2 | 3 | 5 | 12 :gold: | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](../spells/index.md) or [Specialty](../heroes/index.md) by 2 - to a minimum of 0. | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Vampires](vampires.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_flying: | 3 | 0 | 5 | 8 | 9 :gold: | :unit_attack: Ignore Enemy's Retaliation Attack. Then remove up to 2 :damage: from this unit. | [Core Game](../content/core_game.md) |\n"
+"| [Zealots](zealots.md) | [Neutral](../towns/neutral.md) | - | :silver: | :unit_ranged: | 3 | 0 | 5 | 5 | 12 :gold: | :unit_passive: Ignore the combat penalty against adjacent units. | [Core Game](../content/core_game.md) |\n"
+"| [Arch Devils](arch_devils.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 23 :gold: | :unit_attack: When attacking [Archangels](archangels.md), this unit gains +2 :attack:. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Archangels](archangels.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_flying: | 5 | 2 | 7 | 10 | 29 :gold: | :unit_attack: When attacking [Arch Devils](arch_devils.md), this unit gains +2 :attack:. | [Core Game](../content/core_game.md) |\n"
+"| [Black Dragons](black_dragons.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_flying: | 5 | 2 | 7 | 9 | 30 :gold: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. | [Core Game](../content/core_game.md) |\n"
+"| [Champions](champions.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_ground: | 4 | 2 | 6 | 8 | 18 :gold: | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and apply both outcomes.<br>:unit_passive: Reroll this unit's all \"-1\" rolls. | [Core Game](../content/core_game.md) |\n"
+"| [Diamond Golems](diamond_golems.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_ground: | 4 | 2 | 6 | 6 | 16 :gold: | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 3 - to a minimum of 0. | [Core Game](../content/core_game.md) |\n"
+"| [Dread Knights](dread_knights.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_ground: | 5 | 1 | 7 | 7 | 18 :gold: | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. | [Core Game](../content/core_game.md) |\n"
+"| [Efreet](efreet.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_flying: | 4 | 2 | 6 | 13 | 20 :gold: | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the[Fire School of Magic](../spells/school_of_fire_magic.md). | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Enchanters](enchanters.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_ranged: | 4 | 1 | 5 | 5 | 16 :gold: | :activation: Remove up to 2 :damage: from a friendly unit. Otherwise, Enchanters gain +1 :attack:. | [Core Game](../content/core_game.md) |\n"
+"| [Ghost Dragons](ghost_dragons.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_flying: | 5 | 2 | 6 | 9 | 28 :gold: | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die); if the result is \"0\", the target must immediately move away 1 space. | [Core Game](../content/core_game.md) |\n"
+"| [Gold Golems](gold_golems.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_ground: | 3 | 2 | 6 | 5 | 14 :gold: | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 2 - to a minimum of 0. | [Core Game](../content/core_game.md) |\n"
+"| [Manticores](manticores.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_flying: | 4 | 1 | 7 | 8 | 18 :gold: | :unit_passive: On a \"0\" or a \"+1\" outcomes on the enemy's [Attack die](../dice.md#attack-die), gain +1 :defense:. | [Core Game](../content/core_game.md) |\n"
+"| [Nagas](nagas.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_ground: | 5 | 1 | 6 | 6 | 16 :gold: | :unit_attack: Ignore Retaliation Attacks. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Trolls](trolls.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_ground: | 4 | 0 | 7 | 7 | 13 :gold: | :activation: Remove up to 3 :damage: from this unit. | [Core Game](../content/core_game.md) |\n"
+"| [Unicorns](unicorns.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_ground: | 5 | 1 | 7 | 7 | 18 :gold: | :unit_retaliate: The target is :paralysis:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Wyverns](wyverns.md) | [Neutral](../towns/neutral.md) | - | :golden: | :unit_flying: | 4 | 1 | 7 | 8 | 17 :gold: | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die). On a \"0\" result, deal 1 :damage: to the target unit. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Azure Dragons](azure_dragons.md) | [Neutral](../towns/neutral.md) | - | :azure: | :unit_flying: | 8 | 3 | 10 | 19 | 45 :gold:<br>2 :valuables: | :unit_attack: If you resolve a \"-1\" on the [Attack die](../dice.md#attack-die), the target gains :paralysis:.<br>:unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). | [Core Game](../content/core_game.md) |\n"
+"| [Crystal Dragons](crystal_dragons.md) | [Neutral](../towns/neutral.md) | - | :azure: | :unit_ground: | 7 | 3 | 9 | 16 | 40 :gold:<br>2 :valuables: | :effect_map: At the beginning of each Resource round, gain 2 :valuables:. | [Core Game](../content/core_game.md) |\n"
+"| [Faerie Dragons](faerie_dragons.md) | [Neutral](../towns/neutral.md) | - | :azure: | :unit_flying: | 5 | 2 | 8 | 15 | 35 :gold:<br>2 :valuables: | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Gold Dragons](gold_dragons.md) | [Neutral](../towns/neutral.md) | - | :azure: | :unit_flying: | 6 | 3 | 9 | 10 | 42 :gold: | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Hydras](hydras.md) | [Neutral](../towns/neutral.md) | - | :azure: | :unit_ground: | 7 | 3 | 8 | 5 | 40 :gold: | :unit_attack: Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Rust Dragons](rust_dragons.md) | [Neutral](../towns/neutral.md) | - | :azure: | :unit_flying: | 7 | 3 | 10 | 17 | 38 :gold:<br>1 :valuables: | :unit_attack: On \"-1\" results on the [Attack die](../dice.md#attack-die), decrease the attacked unit's :defense: by 2 - to a minimum of 0. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Titans](titans.md) | [Neutral](../towns/neutral.md) | - | :azure: | :unit_ranged: | 6 | 2 | 10 | 10 | 39 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking [Black Dragons](black_dragons.md), this unit gains +2 :attack:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+msgstr ""
+
+#. type: Title ##
+#: docs/units/index.md
+#, no-wrap
+msgid "Other"
+msgstr ""
+
+#. type: Plain text
+#: docs/units/index.md
+#, no-wrap
+msgid ""
+"| Name | Type | :attack: | :defense: | :health_points: | :initiative: | Abilities |\n"
+"| :--- | :---: | :---: | :---: | :---: | :---: | :--- |\n"
+"| [Arrow Tower](arrow_tower.md) | :unit_ranged: | 4 | 2 | 3 | 9 | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed.<br>:unit_passive: It can only be attack by :unit_ranged: attacks or card effects. |\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/units/index.md
+msgid "You can find war machines [here](../war_machines/index.md)."
+msgstr ""
+
+#. type: Title #
+#: docs/events/index.md
+#, no-wrap
+msgid "List of Events"
+msgstr ""
+
+#. type: Plain text
+#: docs/events/index.md
+#, no-wrap
+msgid ""
+"| Name | Effect | [Content](../content/index.md) |\n"
+"| :--- | :---: | :--- |\n"
+"| [A Shady Auction](a_shady_auction.md) | Repeat 3 times: Reveal the top card from the [Artifact](../artifacts/index.md) deck. In secret, each player takes as much :gold: in their hand as they are willing to pay for it. Then reveal your bets at the same time. The one with the highest proposal discards the :gold: and claims the card. If there are no bets or there is a tie, discard the card. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Artifact Merchant](artifact_merchant.md) | Draw 5 [artifacts](../artifacts/index.md). You can buy either any number of them or the face-up card from the [Artifact](../artifacts/index.md) discard pile. After finishing, give the rest of the cards to the player on the left. The exchange goes on until the last card is bought or the cards return to the one who drew them. [Minor Artifacts](../artifacts/01_minor_artifacts.md) cards cost 3 :gold:, [Major](../artifacts/02_major_artifacts.md) 5 :gold:, [Relic](../artifacts/03_relic_artifacts.md) 7 :gold:. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Crypt](crypt.md) | **Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 [:treasure:](../dice.md#treasure-die). If any of them shows #, you gain nothing. Otherwise, resolve one result.<br><br>— OR —<br><br>Gain Positive Morale.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for half the cost. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Cursed Swamp](cursed_swamp.md) | **Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 :treasure: and choose one result.<br><br>— OR —<br><br>Remove one or more [:spellpower:](../spells/index.md) from your hand; if you remove at least 2, **Search (3)** the Artifact deck.<br><br>— OR —<br><br>Discard your cheapest unit.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for free. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Den of Thieves](den_of_thieves.md) | Take the top 2 cards from a [Neutral Unit](../units/index.md) deck of your choice. You may buy one of them. Then decide what to do with the remaining card(s) - you may place them at the bottom or top of the respective [Neutral Unit](../units/index.md) deck. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Garden of Revelation](garden_of_revelation.md) | **Each player chooses one option:** <br>Draw 4 cards either from your discard pile or your deck. Then Remove any number of [Spell](../spells/index.md) or [Ability](../abilities/index.md) cards from your hand. For every two cards removed  this way, you can perform **Search(2)** the [Spell](../spells/index.md) deck or the [Ability](../abilities/index.md) deck. After that, discard all cards from hand and draw up to your :hand:.<br><br>— OR —<br><br>Leave and gain nothing. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Library of Enlightenment](library_of_enlightenment.md) | For every player in the game, draw the top two [Spell](../spells/index.md) cards and put them face-up within all players' reach. Each player can buy once of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables:. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Mage Laboratory](mage_laboratory.md) | For every player in the game, draw two [Spell](../spells/index.md) cards and place them face-up within all players' reach. Each player can buy one of these [:spellpower:](../spells/index.md) for 4 :gold: or 1 :valuables:. If a player buys a card, they immediately shuffle their deck and discard pile along with the newly bought card. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Magical Forest](magical_forest.md) | Choose 1 [Spell](../spells/index.md), [Artifact](../artifacts/index.md), or [Ability](../abilities/index.md) card from your hand and put it face-down on the table.<br><br>— OR —<br><br>Draw and view 1 card from the [Spell](../spells/index.md), [Artifact](../artifacts/index.md), or [Ability](../abilities/index.md) deck and put it face-down on the table.<br><br>When all players have added a card to the pool, shuffle it. Each player can now either take a card from the pool or gain 4 :gold:. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Market of Time](market_of_time.md) | **Each player chooses one option:** <br>Discard as many cards as you want, then draw new cards up to your :hand: +2. Remove any number of [Ability](../abilities/index.md) or [Spell](../spells/index.md) cards from your hand. For every two cards removed this way, you can perform **Search (2)** the [Artifact](../artifacts/index.md) deck.<br><br>— OR —<br><br>Leave and gain nothing. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Marketplace](marketplace.md) | **Each player chooses one option:** <br>Roll 1 [:resource_die:](../dice.md#resource-die) and resolve its effects.<br><br>— OR —<br><br>[Trade](../trading.md) resources using Trading Post rules.<br><br>— OR —<br><br>Propose an exchange of resources with other players - one type of resource for one type of resource. Each player can propose one deal. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Mercenary Camp](mercenary_camp.md) | Each player can draw up to 2 [Neutral Unit](../units/index.md) from one of the chosen decks. Then they are spread on the table, and each player can **Recruit** one of them. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Messenger with Supplies](messenger_with_supplies.md) | Each player draws 2 top cards from the [Artifact](../artifacts/index.md) deck and then chooses one option: <br>Buy one of the cards. [Minor Artifacts](../artifacts/01_minor_artifacts.md) cards cost 3 :gold:, [Major](../artifacts/02_major_artifacts.md) 5 :gold:, [Relic](../artifacts/03_relic_artifacts.md) 7 :gold:.<br><br>— OR —<br><br>Put them both on the [Artifact](../artifacts/index.md) discard pile to roll 2 [:resource_die:](../dice.md#resource-die) and resolve one of them. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Mischievous Leprechaun](mischievous_leprechaun.md) | Pool 2 [:treasure:](../dice.md#treasure-die) and 2 [:resource_die:](../dice.md#resource-die), roll them, and put them within all players' reach. Starting from the player who drew this event, each player rolls 1 [:treasure:](../dice.md#treasure-die) and 1 [:resource_die:](../dice.md#resource-die). If they can match any of the pool's rolls, they may take one matching die from the pool and resolve its effects. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Prison](prison.md) | Draw 2 [Neutral Unit](../units/index.md) cards from any deck (except for Azure). You can buy one of them or discard it to gain 3 :gold:. After that, pass the remaining card to the next player. That player also draws a [Neutral Unit](../units/index.md) card from any deck (except for Azure) and repeats the rest of the process. The exchange goes on till every player has a chance to choose something. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [School of Magic and School of War](school_of_magic_and_school_of_war.md) | **Each player chooses one option:** <br>Discard as many cards as you want, then draw new cards up to your :hand: +2. Remove any number of Ability or Spell cards from your hand. For every two cards removed this way, you can perform **Search (2)** the Ability deck or the Spell deck.<br><br>— OR —<br><br>Leave and gain nothing. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Shrine of the Magic Thought](shrine_of_the_magic_thought.md) | For every player in the game, draw two random [Spell](../spells/index.md) cards and place them face-up within all players' reach. Each player can either buy one of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables: or roll and resolve 1 [:resource_die:](../dice.md#resource-die). Place the remaining, not bought, cards in the [Spell](../spells/index.md) discard pile. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Stables](stables.md) | **Each player chooses one option:** <br>Your Main [hero](../heroes/index.md) gains +1 :movement:.<br><br>— OR —<br><br>:pay: 1 :movement: from any of your [heroes](../heroes/index.md) to roll 1 [:resource_die:](../dice.md#resource-die). | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [The Villagers' Plea](the_villagers_plea.md) | **Each player chooses one option:** <br>Remove an [Artifact](../artifacts/index.md) or [Spell](../spells/index.md) card from your hand.<br><br>— OR —<br><br>:pay: 1 :building_materials:<br><br>— OR —<br><br>:pay: 5 :gold:<br><br>— OR —<br><br>:pay: 1 :movement: from any of your [heroes](../heroes/index.md). | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Withered Hermit](withered_hermit.md) | **Each player chooses one option:** <br>Name a resource that will not show on any of the dice, then roll 3 [:resource_die:](../dice.md#resource-die). If you are correct, resolve one of the dice. If you are wrong, choose one result and subtract it from you resources.<br><br>— OR —<br><br>Roll 1 [:resource_die:](../dice.md#resource-die). You may pay the indicated resources to **Search(2)** the [Artifact](../artifacts/index.md) deck.<br><br>— OR —<br><br>Leave and gain nothing. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/events/index.md
+msgid "[List of Astrologers Proclaim Card](../astrologers_proclaim/index.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/events/prison.md docs/events/mercenary_camp.md
+#: docs/events/den_of_thieves.md docs/astrologers_proclaim/groovy_satyr.md
+#: docs/astrologers_proclaim/terrible_plague.md
+#: docs/astrologers_proclaim/charlie_and_his_circus.md
+#: docs/astrologers_proclaim/isras_friends.md
+#: docs/astrologers_proclaim/unexpected_reinforcements.md docs/towns/neutral.md
+#: docs/towns/index.md
+msgid "[List of Units](../units/index.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/events/stables.md docs/events/the_villagers_plea.md
+#: docs/astrologers_proclaim/magic_tortoise.md docs/statistics/knowledge.md
+#: docs/statistics/defense.md docs/statistics/attack.md
+#: docs/statistics/power.md docs/towns/index.md
+msgid "[List of Heroes](../heroes/index.md)"
+msgstr ""
+
+#. type: Title #
+#: docs/artifacts/index.md
+#, no-wrap
+msgid "List of Artifacts"
+msgstr ""
+
+#. type: Plain text
+#: docs/artifacts/index.md
+#, no-wrap
+msgid ""
+"| Name | Quality | Effect | [Content](../content/index.md) |\n"
+"| :--- | :---: | :---: | :--- |\n"
+"| [Armor of Wonder](armor_of_wonder.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Draw 1 card and gain +1 :attack:.<br><br>— OR —<br><br>:instant: Draw 1 card and gain +1 :defense:. | [Core Game](../content/core_game.md) |\n"
+"| [Blackshard of the Dead Knight](blackshard_of_the_dead_knight.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: +3 :attack: and discard 1 card. If the discarded card was a [spell](../spells/index.md), draw 1 card.<br><br>— OR —<br><br>:instant: +1 :attack: | [Core Game](../content/core_game.md) |\n"
+"| [Boots of Speed](boots_of_speed.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Your [hero](../heroes/index.md) gains +1 :movement:.<br><br>— OR —<br><br>:ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :initiative:. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Breastplate of Petrified Wood](breastplate_of_petrified_wood.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Draw 1 card.<br><br>— OR —<br><br>:instant: +1 :empower: | [Core Game](../content/core_game.md) |\n"
+"| [Buckler of the Gnoll King](buckler_of_the_gnoll_king.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: +2 :defense:<br>:ongoing: Until the end of the Combat, this [unit](../units/index.md) suffers -1 :attack: (to a minimum of 0).<br><br>— OR —<br><br>:instant: +1 :defense: | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Centaur's Axe](centaurs_axe.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Triple the [Attack die's](../dice.md#attack-die) outcome.<br><br>— OR —<br><br>:instant: +1 :attack: | [Core Game](../content/core_game.md) |\n"
+"| [Charm of Mana](charm_of_mana.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Discard 2 cards, then draw 3 cards.<br><br>— OR —<br><br>:instant: Draw 2 cards, then discard 1 card. | [Core Game](../content/core_game.md) |\n"
+"| [Crest of Valor](crest_of_valor.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Gain a :morale_positive: token.<br><br>— OR —<br><br>:effect_map: Ignore :morale_negative: effect from a field. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Dragon Wing Tabard](dragon_wing_tabard.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Discard 1 random card from the enemy's hand.<br><br>— OR —<br><br>:instant: +1 :empower: | [Core Game](../content/core_game.md) |\n"
+"| [Equestrian's Gloves](equestrians_gloves.md) | [Minor Artifact](01_minor_artifacts.md) | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :initiative:.<br><br>— OR —<br><br>:instant: Your [Hero](../heroes/index.md) gains +1 :movement:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Eversmoking Ring of Sulfur](eversmoking_ring_of_sulfur.md) | [Minor Artifact](01_minor_artifacts.md) | :permanent: At the beginning of each Resources round, gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 2 :valuables:. | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Glyph of Gallantry](glyph_of_gallantry.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Gain a :morale_positive: token.<br><br>— OR —<br><br>:instant: +1 :defense: | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Greater Gnoll's Flail](greater_gnolls_flail.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: +2 :attack:<br>:ongoing: Until the end of the Combat, this [unit](../units/index.md) suffers -1 :defense: (to a minimum of 0).<br><br>— OR —<br><br>:instant: +1 :attack: | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Helm of the Alabaster Unicorn](helm_of_the_alabaster_unicorn.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Return 1 [:spellpower:](../spells/index.md) of your choice from your discard pile to your hand.<br><br>— OR —<br><br>:instant: Cast a [spell](../spells/index.md) from the top of the [:spellpower:](../spells/index.md) deck discard pile and Remove this card. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Hourglass of the Evil Hour](hourglass_of_the_evil_hour.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: If the enemy has :morale_positive:, they gain :morale_negative:.<br><br>— OR —<br><br>:instant: Roll the [Attack die](../dice.md#attack-die). On a \"0\" result, you gain :morale_positive:. | [Core Game](../content/core_game.md) |\n"
+"| [Inexhaustible Cart of Lumber](inexhaustible_cart_of_lumber.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Gain 2 :building_materials:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 4 :building_materials:. | [Core Game](../content/core_game.md) |\n"
+"| [Inexhaustible Cart of Ore](inexhaustible_cart_of_ore.md) | [Minor Artifact](01_minor_artifacts.md) | :permanent: At the beginning of each Resources round, gain 1 :building_materials:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 3 :building_materials:. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Legs of Legion](legs_of_legion.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Reduce the Recruitment or Reinforcement cost of a [unit](../units/index.md) by 4 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :gold:. | [Core Game](../content/core_game.md) |\n"
+"| [Loins of Legion](loins_of_legion.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Reduce the Recruitment or Reinforcement cost of a [unit](../units/index.md) by 5 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :gold:. | [Core Game](../content/core_game.md) |\n"
+"| [Necklace of Swiftness](necklace_of_swiftness.md) | [Minor Artifact](01_minor_artifacts.md) | 🚧 | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Red Dragon Flame Tongue](red_dragon_flame_tongue.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: +1 :defense:<br><br>— OR —<br><br>:instant: +1 :attack: | [Core Game](../content/core_game.md) |\n"
+"| [Rib Cage](rib_cage.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Select 1 Spell card from you discard pile and put it back into your hand. Then, shuffle your discard pile back into your deck of Might and Magic.<br><br>— OR —<br><br>:instant: +1 :empower: | [Core Game](../content/core_game.md) |\n"
+"| [Ring of the Wayfarer](ring_of_the_wayfarer.md) | [Minor Artifact](01_minor_artifacts.md) | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :initiative:.<br><br>— OR —<br><br>:instant: At start of Combat with [Neutral Units](../units/index.md) put :paralysis: token on any [unit](../units/index.md) except :azure:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Scales of the Greater Basilisk](scales_of_the_greater_basilisk.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: +1 :defense:<br><br>— OR —<br><br>:instant: +1 :attack: | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Shield of the Dwarven Lords](shield_of_the_dwarven_lords.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Use this after the [Attack die](../dice.md#attack-die) roll. Ignore the [Attack die](../dice.md#attack-die) and any additional effects it triggered.<br><br>— OR —<br><br>:instant: +1 :defense: | [Core Game](../content/core_game.md) |\n"
+"| [Shield of the Yawning Dead](shield_of_the_yawning_dead.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Discard 1 card to gain +2 :defense:.<br><br>— OR —<br><br>:instant: +1 :defense: | [Core Game](../content/core_game.md) |\n"
+"| [Skull Helmet](skull_helmet.md) | [Minor Artifact](01_minor_artifacts.md) | 🚧 | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Speculum](speculum.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Discover any Map tile adjacent to the Map tile your [Hero](../heroes/index.md) is currently on..<br><br>— OR —<br><br>:instant: Remove this card, then draw 1 card. | [Core Game](../content/core_game.md) |\n"
+"| [Spirit of Oppression](spirit_of_oppression.md) | [Minor Artifact](01_minor_artifacts.md) | :ongoing: During this Combat, neither player can use the :morale_positive: token or reroll [Attack dice](../dice.md#attack-die).<br><br>— OR —<br><br>:instant: +1 :empower: | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Torso of Legion](torso_of_legion.md) | [Minor Artifact](01_minor_artifacts.md) | :instant: Reduce the cost of Recruitment or reduce the cost of Reinforcing a [unit](../units/index.md) by 6 :gold: (to a minimum of 0).<br><br>— OR —<br><br>:instant: Gain 1 :valuables: or 2 :building_materials:. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Ambassador's Sash](ambassadors_sash.md) | [Major Artifact](02_major_artifacts.md) | :effect_map: For every [Dwelling](../towns/index.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can **Recruit** one of these units.<br><br>— OR —<br><br>:instant: Reroll a [die](../dice.md). | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Arms of Legion](arms_of_legion.md) | [Major Artifact](02_major_artifacts.md) | :instant: Reduce the Recruitment or Reinforcement cost of a [unit](../units/index.md) by 5 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :building_materials:. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Breastplate of Brimstone](breastplate_of_brimstone.md) | [Major Artifact](02_major_artifacts.md) | :instant: **Search(2)** [:spellpower:](../spells/index.md).<br><br>— OR —<br><br>:instant: +1 :empower:, then discard up to 3 cards from your hand to gain +1 :empower: per card discarded. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Cape of Velocity](cape_of_velocity.md) | [Major Artifact](02_major_artifacts.md) | :ongoing: Until the end of the Combat, this [unit](../units/index.md) gains +2 :initiative:.<br><br>— OR —<br><br>:instant: Gain 2 :gold:. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Cards of Prophecy](cards_of_prophecy.md) | [Major Artifact](02_major_artifacts.md) | :instant: Reroll any [die](../dice.md).<br><br>— OR —<br><br>:instant: Set a :resource_die: or :treasure: on the side of your choice. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Dragon Scale Shield](dragon_scale_shield.md) | [Major Artifact](02_major_artifacts.md) | :instant: +2 :attack:<br><br>— OR —<br><br>:instant: +2 :defense: | [Core Game](../content/core_game.md) |\n"
+"| [Endless Bag of Gold](endless_bag_of_gold.md) | [Major Artifact](02_major_artifacts.md) | :instant: Gain 3 :gold:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 6 :gold:. | [Core Game](../content/core_game.md) |\n"
+"| [Endless Purse of Gold](endless_purse_of_gold.md) | [Major Artifact](02_major_artifacts.md) | :instant: Gain 3 :gold:.<br><br>— OR —<br><br>:instant: Remove this card and discard 2 cards from your hand, then gain 8 :gold:. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Everflowing Crystal Cloak](everflowing_crystal_cloak.md) | [Major Artifact](02_major_artifacts.md) | :instant: Discard 3 cards to gain 2 :valuables:.<br><br>— OR —<br><br>:instant: Gain 1 :valuables:. | [Core Game](../content/core_game.md) |\n"
+"| [Everpouring Vial of Mercury](everpouring_vial_of_mercury.md) | [Major Artifact](02_major_artifacts.md) | :instant: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 2 :valuables:. | [Core Game](../content/core_game.md) |\n"
+"| [Golden Bow](golden_bow.md) | [Major Artifact](02_major_artifacts.md) | :ongoing: During this Combat, your :unit_ranged: [units](../units/index.md) ignore the combat penalty.<br><br>— OR —<br><br>:instant: A :unit_ranged: [unit](../units/index.md) of your choice gains +2 :attack:. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Head of Legion](head_of_legion.md) | [Major Artifact](02_major_artifacts.md) | :instant: Reduce the Recruitment or Reinforcement cost of a [unit](../units/index.md) by 6 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 3 :gold:. | [Core Game](../content/core_game.md) |\n"
+"| [Mystic Orb of Mana](mystic_orb_of_mana.md) | [Major Artifact](02_major_artifacts.md) | :instant: **Search(4)** your discard pile.<br><br>— OR —<br><br>:instant: Only if your discard pile is empty. Draw 2 cards. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Necklace of Dragonteeth](necklace_of_dragonteeth.md) | [Major Artifact](02_major_artifacts.md) | :instant: +2 :empower:.<br><br>— OR —<br><br>:ongoing: During this Combat, you can cast 2 [:spellpower:](../spells/index.md) per Combat round. | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Ogre's Club of Havoc](ogres_club_of_havoc.md) | [Major Artifact](02_major_artifacts.md) | :instant: Discard 1 card to gain +2 :attack:.<br><br>— OR —<br><br>:instant: +1 :attack: | [Core Game](../content/core_game.md) |\n"
+"| [Pendant of Courage](pendant_of_courage.md) | [Major Artifact](02_major_artifacts.md) | 🚧 | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Pendant of Negativity](pendant_of_negativity.md) | [Major Artifact](02_major_artifacts.md) | :instant: Ignore the effect of a [spell](../spells/index.md) from the [School of Air Magic](../spells/school_of_air_magic.md)<br><br>— OR —<br><br>:ongoing: Ignore the effect of a [spell](../spells/index.md) from the [School of Air Magic](../spells/school_of_air_magic.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Pendant of Second Sight](pendant_of_second_sight.md) | [Major Artifact](02_major_artifacts.md) | :ongoing: Selected [unit](../units/index.md) cannot gain :paralysis: during this Combat.<br><br>— OR —<br><br>:instant: Remove 1 :paralysis: token. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Recanter's Cloak](recanters_cloak.md) | [Major Artifact](02_major_artifacts.md) | :ongoing: During this Combat, no [Hero](../heroes/index.md) can use [spell](../spells/index.md)s with Power \"0\".<br><br>— OR —<br><br> :ongoing: During this Combat, no [Hero](../heroes/index.md) can use Spells. Remove this card after Combat. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Shackles of War](shackles_of_war.md) | [Major Artifact](02_major_artifacts.md) | :instant: If played at the start of Combat, the Enemy [Hero](../heroes/index.md) can neither Retreat nor Surrender.<br><br>— OR —<br><br>:instant: Draw 2 cards, choose 1 card and discard the other. | [Core Game](../content/core_game.md) |\n"
+"| [Shield of the Damned](shield_of_the_damned.md) | [Major Artifact](02_major_artifacts.md) | :instant: Target [unit](../units/index.md) gains +3 :defense: and suffers 1 :damage:. It cannot be used on an enemy unit.<br><br>— OR —<br><br>:instant: Target [unit](../units/index.md) gains +5 :defense: and suffers 2 :damage:. It cannot be used on an enemy unit. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Surcoat of Counterpoise](surcoat_of_counterpoise.md) | [Major Artifact](02_major_artifacts.md) | :instant: Play this card immediately after an enemy casts a [:spellpower:](../spells/index.md). If it was cast with 1:empower: or less, ignore the [:spellpower:](../spells/index.md) effect.<br><br>— OR —<br><br>:instant: Remove this card, then **Search(1)**:artifact:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Sword of Hellfire](sword_of_hellfire.md) | [Major Artifact](02_major_artifacts.md) | :instant: +3 :attack:. This [unit](../units/index.md) suffers 1 :damage:. This effect cannot be used on an enemy unit.<br><br>— OR —<br><br>:instant: +4 :attack:. This [unit](../units/index.md) suffers 2 :damage:. This effect cannot be used on an enemy unit. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Targ of the Rampaging Ogre](targ_of_the_rampaging_ogre.md) | [Major Artifact](02_major_artifacts.md) | :instant: Discard 2 cards to gain +2 :defense:. Then, instead of discarding, put this card back into your hand.<br><br>— OR —<br><br>:instant: +1 :defense: | [Core Game](../content/core_game.md) |\n"
+"| [Tunic of the Cyclops King](tunic_of_the_cyclops_king.md) | [Major Artifact](02_major_artifacts.md) | :instant: Draw 1 card and gain +1 :empower:.<br><br>— OR —<br><br>:instant: +2 :empower: | [Core Game](../content/core_game.md) |\n"
+"| [Angel Wings](angel_wings.md) | [Relic Artifact](03_relic_artifacts.md) | :effect_map: Chosen [Hero](../heroes/index.md) gain +1 :movement: and can move through any fields without resolving them. The last visited field must be resolved normally.<br><br>— OR —<br><br>:instant: Draw a card. | [Core Game](../content/core_game.md) |\n"
+"| [Boots of Polarity](boots_of_polarity.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: Play this card after an enemy casts a [spell](../spells/index.md). Roll 2 [Attack dice](../dice.md#attack-die) and choose one. On a \"+1 \", ignore the [:spellpower:](../spells/index.md) effect.<br><br>— OR —<br><br>:activation: Remove 1 :ongoing: effect. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Celestial Necklace of Bliss](celestial_necklace_of_bliss.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: Discard X cards from hand to gain +X :attack:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +3 :attack:. | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Crown of Dragontooth](crown_of_dragontooth.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: Select 2 [Spell](../spells/index.md) cards from your discard pile and put them back in your hand.<br><br>— OR —<br><br>:instant: Remove 1 [:spellpower:](../spells/index.md) from hand, then **Search(2)** [:spellpower:](../spells/index.md). | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Dragon Scale Armor](dragon_scale_armor.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: +2 :attack:<br><br>— OR —<br><br>:instant: +2 :defense: | [Core Game](../content/core_game.md) |\n"
+"| [Endless Sack of Gold](endless_sack_of_gold.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: Gain 5 :gold:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 8 :gold:. | [Core Game](../content/core_game.md) |\n"
+"| [Helm of Heavenly Enlightenment](helm_of_heavenly_enlightenment.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: Gain :expert:.<br><br>— OR —<br><br>:instant: Draw 2 cards. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Lion's Shield of Courage](lions_shield_of_courage.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: Discard X cards from hand to gain +X :defense:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +3 :defense:. | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Orb of Inhibition](orb_of_inhibition.md) | [Relic Artifact](03_relic_artifacts.md) | :ongoing: During this Combat, all [:spellpower:](../spells/index.md) and [Specialty](../heroes/index.md) cards deal 0 :damage:. Remove this card instead of discarding it.<br><br>— OR —<br><br> :ongoing: During this Combat round, [units](../units/index.md) cannot use their special abilities. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Orb of Vulnerability](orb_of_vulnerability.md) | [Relic Artifact](03_relic_artifacts.md) | :ongoing: During this Combat, negate all [units'](../units/index.md) special abilities related to [:spellpower:](../spells/index.md).<br><br>— OR —<br><br>:instant: +2 :empower: | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Sandals of the Saint](sandals_of_the_saint.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: Discard X cards from hand to gain +X :empower:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +3 :empower:. | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Sentinel's Shield](sentinels_shield.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: Discard 1 card to gain +3 :defense:.<br><br>— OR —<br><br>:instant: +2 :defense: | [Core Game](../content/core_game.md) |\n"
+"| [Spellbinder's Hat](spellbinders_hat.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: Remove 1 card from your hand, then **Search(2)** the card's deck.<br><br>— OR —<br><br>:instant: Remove this card and another one from your hand or discard pile. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Sword of Judgement](sword_of_judgement.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: Discard X cards from hand to gain +X :attack:.<br><br>— OR —<br><br>:instant: Discard X cards from hand to gain +X :defense:. | [Core Game](../content/core_game.md) |\n"
+"| [Titan's Cuirass](titans_cuirass.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: Discard 1 card to gain +4 :empower:.<br><br>— OR —<br><br>:instant: +2 :empower:. | [Core Game](../content/core_game.md) |\n"
+"| [Titan's Gladius](titans_gladius.md) | [Relic Artifact](03_relic_artifacts.md) | :instant: Discard 1 card to gain +3 :attack:.<br><br>— OR —<br><br>:instant: +2 :attack: | [Core Game](../content/core_game.md) |\n"
+msgstr ""
+
+#. type: Title #
+#: docs/astrologers_proclaim/index.md
+#, no-wrap
+msgid "Astrologers Proclaim"
+msgstr ""
+
+#. type: Plain text
+#: docs/astrologers_proclaim/index.md
+msgid ""
+"All of the cards start with a prefix of 'Astrologers proclaim week of the'. "
+"In the interest of readability, this prefix has been removed from the names "
+"in the following table."
+msgstr ""
+
+#. type: Plain text
+#: docs/astrologers_proclaim/index.md
+#, no-wrap
+msgid ""
+"| Name | Effect | [Content](../content/index.md) |\n"
+"| :--- | :---: | :--- |\n"
+"| [Ammo Cart](ammo_cart.md) | Until the next Astrologers round, each [Ballista](../war_machines/ballista.md) deals +1 :damage:, each [First Aid Tent](../war_machines/first_aid_tent.md) heals +1 :health_points:‍, and each [Ammo Cart](../war_machines/ammo_cart.md) allows re-rolling 1 [Attack die](../dice.md#attack-die) for all ranged [units](../units/index.md). | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Annoying Lizard](annoying_lizard.md) | Each player must shuffle all [Artifact](../artifacts/index.md) and [Spell](../spells/index.md) cards from their hand back into their deck and draw the same number of cards from the top of their deck of Might and Magic. | [Core Game](../content/core_game.md) |\n"
+"| [Battalion's Stallion](battalions_stallion.md) | Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement. | [Core Game](../content/core_game.md) |\n"
+"| [Big Cleanup](big_cleanup.md) | Each player must immediately discard all cards from their hand and draw the same number of cards. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Blue Sky](blue_sky.md) | Until the next Astrologers' round, all [:spellpower:](../spells/index.md) from the [Air Magic](../spells/school_of_air_magic.md) and [Water Magic](../spells/school_of_water_magic.md) Schools are cast at a +1 :empower:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Charlie and his Circus](charlie_and_his_circus.md) | At the beginning of this round and the next one, each player can draw up to 3 cards from any [Neutral Units](../units/index.md) deck(s) and **Recruit** one of them. The Players must still :pay: the recruitment cost and have the corresponding [Dwelling](../towns/index.md) in their [Town(s)](../towns/index.md). Shuffle the remaining cards back into their respective deck(s) afterwards. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Crazy Wizard](crazy_wizard.md) | Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card player by each player is returned to the player's hand, instead of being discarded. | [Core Game](../content/core_game.md) |\n"
+"| [Dancing Imp](dancing_imp.md) | Each player can Remove a [Statistic](../statistics/index.md) card from their discard pile or hand to gain 1 [Empowered Statistic](../statistics/index.md) card of the same type. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Dead Silence](dead_silence.md) | Nothing changes. | [Core Game](../content/core_game.md) |\n"
+"| [Explorers](explorers.md) | During this round, players do not draw cards at the start of their turns. Instead, each player draws cards up their :hand:. Then, each of them may discard any number of cards. For every 3 cards discarded this way, they can Remove one [Statistic](../statistics/index.md) card and replace it with an [Empowered Statistic](../statistics/index.md) card of the same type. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Fancy Pixie](fancy_pixie.md) | Each player immediately gains 1 :morale_positive: | [Core Game](../content/core_game.md) |\n"
+"| [Fluffy Rabbit](fluffy_rabbit.md) | Each player immediately rolls 1 [Treasure die](../dice.md#treasure-die) and gains the rolled bonus. | [Core Game](../content/core_game.md) |\n"
+"| [Forty Thieves](forty_thieves.md) | Until the next Astrologers round, whenever a player is about to draw an [Event](../events/index.md) card, they draw 2 cards instead of 1, choose 1 to resolve, and put the other at the bottom of the [Event](../events/index.md) deck. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Friendly Beaver](friendly_beaver.md) | If you draw this card on the first Astrologers' round, discard it and draw another card.<br><br>Immediately remove all Black cubes from all locations on the map. | [Core Game](../content/core_game.md) |\n"
+"| [Gold Dragon](gold_dragon.md) | At the beginning of the next Resource round, all players gain 5 :gold:. | [Core Game](../content/core_game.md) |\n"
+"| [Greedy Dragon](greedy_dragon.md) | At the beginning of the next Resource round, all players gain 1 less :valuables:, down to a minimum of 0. | [Core Game](../content/core_game.md) |\n"
+"| [Grim Warlock](grim_warlock.md) | Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card played in each player's turn gets +1 :empower:. | [Core Game](../content/core_game.md) |\n"
+"| [Groovy Satyr](groovy_satyr.md) | Until the next Astrologers' round:<br><br>Whenever you trigger Combat with any [Neutral Units](../units/index.md), you may choose a [Neutral Unit](../units/index.md) card to discard and draw another card of the same tier instead. | [Core Game](../content/core_game.md) |\n"
+"| [Hero](hero.md) | Each player can :pay: 4 :gold: to Remove a [Statistic](../statistics/index.md) card from their hand and replace it with an [Empowered Statistic](../statistics/index.md) card of the same type. Each player may do so twice, but both exchanges must be made on the same turn. Once a player makes the exchange, they place their faction cube on this card to mark the fact. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Isra's Friends](isras_friends.md) | Each player can immediately **Reinforce** a [unit](../units/index.md) on the \"Few\" side at half the cost. | [Core Game](../content/core_game.md) |\n"
+"| [Magic Tortoise](magic_tortoise.md) | Until the next Astrologer's round:<br><br>Each [Hero](../heroes/index.md) suffers -1 Movement. | [Core Game](../content/core_game.md) |\n"
+"| [McGiver](mcgiver.md) | At the beginning of the next round, each player can take 1 [War Machine](../war_machines/index.md) of their choice from the [War Machines](../war_machines/index.md) deck at not cost. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Merry Leprechaun](merry_leprechaun.md) | At the beginning of the next Resource round, all players gain 1 :valuables:. | [Core Game](../content/core_game.md) |\n"
+"| [Plane Between Planes](plane_between_planes.md) | Each player can immediately Remove up to 2 cards from their hand or from their discard pile. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Profuse Growth](profuse_growth.md) | Until the next Astrologers' round:<br><br>Your hand limit is increased by 1. | [Core Game](../content/core_game.md) |\n"
+"| [Scorched Ground](scorched_ground.md) | Until the next Astrologers round, all [:spellpower:](../spells/index.md) from the [Earth Magic](../spells/school_of_earth_magic.md) and [Fire Magic](../spells/school_of_fire_magic.md) Schools are cast at a +1 :empower:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Society](society.md) | Each player gains :morale_negative:. | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Swift Weasel](swift_weasel.md) | Until the next Astrologer's round:<br><br>Once per turn, each player can reroll a [Treasure die](../dice.md#treasure-die) or a [Resource die](../dice.md#resource-die). | [Core Game](../content/core_game.md) |\n"
+"| [Terrible Plague](terrible_plague.md) | All players flip one of their [units](../units/index.md) from the \"Pack\" to the \"Few\" side, if possible. | [Core Game](../content/core_game.md) |\n"
+"| [Unexpected Reinforcements](unexpected_reinforcements.md) | Each player can immediately search the [Neutral Units](../units/index.md) deck and **Recruit** 1 chosen unit associated with their faction for free. Each player still needs to have the corresponding [dwelling](../towns/index.md) built in their [town](../towns/index.md). | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [White Raven](white_raven.md) | Each player immediately rolls 1 [Resource die](../dice.md#resource-die) and gains the rolled resources. | [Core Game](../content/core_game.md) |\n"
+"| [Wild Debauchery](wild_debauchery.md) | At the beginning of the next Resource round, all players gain 5 less :gold:. | [Core Game](../content/core_game.md) |\n"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/astrologers_proclaim/index.md
+#: docs/astrologers_proclaim/forty_thieves.md
+msgid "[List of Events](../events/index.md)"
+msgstr ""
+
+#. type: Title #
+#: docs/statistics/index.md
+#, no-wrap
+msgid "List of Statistics"
+msgstr ""
+
+#. type: Plain text
+#: docs/statistics/index.md
+msgid ""
+"To learn about statistics of a specific hero, see [heroes](../heroes/index."
+"md)."
+msgstr ""
+
+#. type: Plain text
+#: docs/statistics/index.md
+#, no-wrap
+msgid ""
+"| Name | Effect | :expert: Effect |\n"
+"| :--- | :--- | :--- |\n"
+"| [Attack](attack.md) | :instant: +1 :attack: | :instant: +2 :attack: |\n"
+"| [Empowered Attack](attack.md) | :instant: +2 :attack: | - |\n"
+"| [Defense](defense.md) | :instant: +1 :defense: | :instant: +2 :defense: |\n"
+"| [Empowered Defense](defense.md) | :instant: +2 :defense: | - |\n"
+"| [Power](power.md) | :instant: +1 :empower: | :instant: +2 :empower: |\n"
+"| [Empowered Power](power.md) | :instant: +2 :empower: | - |\n"
+"| [Knowledge](knowledge.md) | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. |\n"
+"| [Empowered Knowledge](knowledge.md) | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. | - |\n"
+msgstr ""
 
 #. type: Title #
 #: docs/index.md
@@ -126,4 +870,400 @@ msgstr ""
 #. type: Plain text
 #: docs/index.md
 msgid "Thanks to the community for miscellaneous help, pointers, and ideas."
+msgstr ""
+
+#. type: Title #
+#: docs/abilities/index.md
+#, no-wrap
+msgid "List of Abilities"
+msgstr ""
+
+#. type: Plain text
+#: docs/abilities/index.md
+#, no-wrap
+msgid ""
+"| Name | Effect | :expert: Effect | [Content](../content/index.md) |\n"
+"| :--- | :---: | :---: | :--- |\n"
+"| [Air Magic](air_magic.md) | :permanent: +1 :empower: for spells from [School of Air Magic](../spells/school_of_air_magic.md). | While casting :spellpower: from the [School of Air](../spells/school_of_air_magic.md), you can discard this card, then gain +3 :empower:. | [Tower Expansion (2)](../content/tower_expansion.md) |\n"
+"| [Archery](archery.md) | :ongoing: During this Combat round, your Ranged [units](../units/index.md) gain +1 :attack: if the target is a non-adjacent [unit](../units/index.md). |:ongoing: Until the end of the next Combat round, your Ranged [units](../units/index.md) gain +1 :initiative: and +1 :attack: if the target is a non-adjacent [unit](../units/index.md). | [Core Game (2)](../content/core_game.md) |\n"
+"| [Armorer](armorer.md) | :instant: +1 :defense:<br>Then draw 1 card. | :instant: +2 :defense:<br>Then draw 1 card. | [Core Game (2)](../content/core_game.md) |\n"
+"| [Artillery](artillery.md) | :instant: Deal 1 :damage: to an enemy [unit](../units/index.md) with the lowest :initiative:. | :instant: When using the [Ballista](../war_machines/index.md) card, resolve its effect against the same target 3 times. | [Rampart Expansion (2)](../content/rampart_expansion.md) |\n"
+"| [Ballistics](ballistics.md) | :instant: Play this card during a siege.<br>Destroy 1 Wall or Gate. | :instant: Play this card during a siege.<br>Destroy the [Arrow Tower](../units/arrow_tower.md). | [Inferno Expansion (2)](../content/inferno_expansion.md) |\n"
+"| [Diplomacy](diplomacy.md) | :effect_map: For every Dwelling you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can **Recruit** one of these [units](../units/index.md) if you :pay: its Recruitment cost. | :instant: Skip Combat with [Neutral Units](../units/index.md) on a field whose Field Difficulty is equal to your Hero's level. Visit the field. This Hero gains no :experience:. | [Core Game (2)](../content/core_game.md) |\n"
+"| [Eagle Eye](eagle_eye.md) | :instant: Draw cards from the [Spell](../spells/index.md) deck until you find a Basic [Spell](../spells/index.md) card. Take it into your hand or discard it. Reshuffle the rest of the cards back to the [Spell](../spells/index.md) deck. | :instant: Draw cards from the [Spell](../spells/index.md) deck until you find an Expert [Spell](../spells/index.md) card. Take it into your hand or discard it. Reshuffle the rest of the cards back to the [Spell](../spells/index.md) deck. | [Fortress Expansion (2)](../content/fortress_expansion.md) |\n"
+"| [Earth Magic](earth_magic.md) | :permanent: +1 :empower: for spells from [School of Earth Magic](../spells/school_of_earth_magic.md). | While casting :spellpower: from the [School of Earth](../spells/school_of_earth_magic.md), you can discard this card, then gain +3 :empower:. | [Tower Expansion (2)](../content/tower_expansion.md) |\n"
+"| [Estates](estates.md) | :instant: Gain 3 :gold:. | :instant: Gain 6 :gold:. | [Core Game (2)](../content/core_game.md) |\n"
+"| [Fire Magic](fire_magic.md) | :permanent: +1 :empower: for spells from [School of Fire Magic](../spells/school_of_fire_magic.md). | While casting :spellpower: from the [School of Fire](../spells/school_of_fire_magic.md), you can discard this card, then gain +3 :empower:. | [Tower Expansion (1)](../content/tower_expansion.md) |\n"
+"| [First Aid](first_aid.md) | :instant: Remove 1 :damage: from one of your [units](../units/index.md). | :instant: When using the [First Aid Tent](../war_machines/index.md) card, resolve its effect against the same target 3 times. | [Rampart Expansion (2)](../content/rampart_expansion.md) |\n"
+"| [Intelligence](intelligence.md) | :instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. You can still only play a [Spell](../spells/index.md) card during a Combat round. | :instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. This spell does not count toward your spell limit per Combat round. | [Core Game (2)](../content/core_game.md) |\n"
+"| [Interference](interference.md) | 🚧 | 🚧 | [Cove Expansion (2)](../content/cove_expansion.md) |\n"
+"| [Leadership](leadership.md) | :instant: Gain a :morale_positive: token. | :instant: Draw 2 cards.<br>Then, gain a :morale_positive: token. | [Core Game (2)](../content/core_game.md) |\n"
+"| [Learning](learning.md) | :instant: Play when the Hero is about to level up. Advance their :experience: Level by an additional half level. | :instant: Play when the Hero is about to level up. Advance their :experience: Level by an additional level, then Remove this card. | [Fortress Expansion (2)](../content/fortress_expansion.md) |\n"
+"| [Logistics](logistics.md) | :ongoing: At the end of your turn, move your Hero's model to an adjacent empty field. | :instant: Your Hero gains +1 Movement. | [Core Game (2)](../content/core_game.md) |\n"
+"| [Luck](luck.md) | :ongoing: You can reroll a [Treasure die](../dice.md#treasure-die) and a [Resource die](../dice.md#resource-die) once during this turn. | :ongoing: You can reroll any [die](../dice.md) once during this turn. | [Core Game (2)](../content/core_game.md) |\n"
+"| [Mysticism](mysticism.md) | :instant: Play this card immediately after casting a spell. Instead of discarding the [Spell](../spells/index.md) card, take it back into your hand. | :instant: Play this card immediately after casting a spell. Instead of discarding the [Spell](../spells/index.md) card and all other cards player together with it, take them back to your hand. | [Core Game (2)](../content/core_game.md) |\n"
+"| [Necromancy](necromancy.md) | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | [Core Game (2)](../content/core_game.md) |\n"
+"| [Offense](offense.md) | :instant: +1 :attack:<br>Then draw 1 card. | :instant: +2 :attack:<br>Then draw 1 card. | [Core Game (2)](../content/core_game.md) |\n"
+"| [Pathfinding](pathfinding.md) | :effect_map: This turn, your Hero can move through fields with Neutral Units and Enemy Heroes, but if they end their movement in one of these fields, Combat begins. | :effect_map: Your Hero can move over the yellow border and blocked fields, but cannot end movement on them. | [Tower Expansion (2)](../content/tower_expansion.md) |\n"
+"| [Resistance](resistance.md) | :instant: Play this card immediately after the enemy casts a spell. If the spell was cast with 1 :empower: or less, ignore the [Spell](../spells/index.md) card's effect. | :instant: Play this card immediately after the enemy casts a spell. Ignore the [Spell](../spells/index.md) card's effect. | [Core Game (2)](../content/core_game.md) |\n"
+"| [Scholar](scholar.md) | :instant: Choose 1 card from your discard pile and add it to your hand. | :effect_map: Remove up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile. Remove the Scholar. | [Inferno Expansion (2)](../content/inferno_expansion.md) |\n"
+"| [Scouting](scouting.md) | :instant: Play this card before taking a **Search** action, then do **Search(3)** instead. | :instant: Play this card before taking a **Search** action, then do **Search(5)** instead. | [Tower Expansion (2)](../content/tower_expansion.md)<br>[Inferno Expansion (1)](../content/inferno_expansion.md) |\n"
+"| [Sorcery](sorcery.md) | :instant: +1 :empower:<br>Then draw 1 card. | :instant: +2 :empower:<br>Then draw 1 card. | [Core Game (2)](../content/core_game.md) |\n"
+"| [Tactics](tactics.md) | :instant: At the start of Combat, you can switch the position of any 2 of your [units](../units/index.md). | :activation: During Combat, you can switch the position of any 2 of your [units](../units/index.md). | [Core Game (2)](../content/core_game.md) |\n"
+"| [Water Magic](water_magic.md) | :permanent: +1 :empower: for spells from [School of Water Magic](../spells/school_of_water_magic.md). | While casting :spellpower: from the [School of Water](../spells/school_of_water_magic.md), you can discard this card, then gain +3 :empower:. | [Tower Expansion (2)](../content/tower_expansion.md) |\n"
+"| [Wisdom](wisdom.md) | :instant: The cost of buying [spells](../spells/index.md) in this Town is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(3)** instead of **Search(2)**. | :instant: The cost of buying [spells](../spells/index.md) in this Town is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(4)** instead of **Search(2)**. | [Core Game (2)](../content/core_game.md) |\n"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/spells/bloodlust.md docs/spells/visions.md docs/spells/fireball.md
+#: docs/spells/frenzy.md docs/spells/school_of_air_magic.md
+#: docs/spells/slayer.md docs/spells/curse.md docs/spells/blind.md
+#: docs/spells/index.md docs/spells/sacrifice.md
+#: docs/spells/school_of_water_magic.md docs/spells/fire_wall.md
+#: docs/spells/school_of_earth_magic.md docs/spells/inferno.md
+#: docs/spells/summon_fire_elemental.md docs/spells/fire_shield.md
+#: docs/spells/misfortune.md docs/spells/berserk.md docs/spells/magic_arrow.md
+msgid "[School of Fire Magic](school_of_fire_magic.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/spells/earthquake.md docs/spells/resurrection.md
+#: docs/spells/school_of_air_magic.md docs/spells/school_of_fire_magic.md
+#: docs/spells/shield.md docs/spells/view_earth.md
+#: docs/spells/summon_earth_elemental.md docs/spells/stone_skin.md
+#: docs/spells/index.md docs/spells/anti-magic.md docs/spells/town_portal.md
+#: docs/spells/school_of_water_magic.md docs/spells/implosion.md
+#: docs/spells/slow.md docs/spells/sorrow.md docs/spells/magic_arrow.md
+msgid "[School of Earth Magic](school_of_earth_magic.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/spells/frost_ring.md docs/spells/school_of_air_magic.md
+#: docs/spells/school_of_fire_magic.md docs/spells/teleport.md
+#: docs/spells/dispel.md docs/spells/mirth.md docs/spells/cure.md
+#: docs/spells/index.md docs/spells/forgetfulness.md docs/spells/weakness.md
+#: docs/spells/remove_obstacle.md docs/spells/summon_water_elemental.md
+#: docs/spells/school_of_earth_magic.md docs/spells/magic_arrow.md
+#: docs/spells/bless.md docs/spells/prayer.md
+msgid "[School of Water Magic](school_of_water_magic.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/spells/school_of_fire_magic.md docs/spells/precision.md
+#: docs/spells/dimension_door.md docs/spells/counterstrike.md
+#: docs/spells/index.md docs/spells/summon_air_elemental.md
+#: docs/spells/school_of_water_magic.md docs/spells/lightning_bolt.md
+#: docs/spells/disrupting_ray.md docs/spells/chain_lightning.md
+#: docs/spells/air_shield.md docs/spells/haste.md docs/spells/view_air.md
+#: docs/spells/fly.md docs/spells/school_of_earth_magic.md
+#: docs/spells/magic_arrow.md docs/spells/fortune.md
+msgid "[School of Air Magic](school_of_air_magic.md)"
+msgstr ""
+
+#. type: Title #
+#: docs/spells/index.md
+#, no-wrap
+msgid "List of Spells"
+msgstr ""
+
+#. type: Plain text
+#: docs/spells/index.md
+msgid ""
+"In addition to their regular effects, any spell can also be discarded to "
+"provide +1 :empower:. This option is omitted from the table below to avoid "
+"information duplication."
+msgstr ""
+
+#. type: Plain text
+#: docs/spells/index.md
+#, no-wrap
+msgid ""
+"| Name | School | Level | Effect | [Content](../content/index.md) |\n"
+"| :--- | :---: | :---: | :---: | :--- |\n"
+"| [Magic Arrow](magic_arrow.md) | All | Basic | :activation: The selected [unit](../units/index.md) suffers:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 1 ➣ 2 :damage:<br>:empower: 2 ➣ 3 :damage: | Core<br>Rampart<br>Fortress<br>Inferno |\n"
+"| [Air Shield](air_shield.md) | [Air](school_of_air_magic.md) | Basic | :ongoing: Until the end of the Combat, the selected [unit](../units/index.md) gains \\* whenever it is attacked by a :unit_ranged: [unit](../units/index.md).<br><br>:empower: 0 ➣ +1 :defense:<br>:empower: 1 ➣ +2 :defense:<br>:empower: 2 ➣ +3 :defense: | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Disrupting Ray](disrupting_ray.md) | [Air](school_of_air_magic.md) | Basic | :ongoing: Until the end of the Combat, the selected \\* [unit](../units/index.md) cannot use their special ability:<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden: | [Core Game](../content/core_game.md) |\n"
+"| [Fortune](fortune.md) | [Air](school_of_air_magic.md) | Basic | :instant: Reroll one [Treasure](../dice.md#treasure-die), [Resource](../dice.md#resource-die), or [Attack die](../dice.md#attack-die) \\*. Resolve the result of your choice<br><br>:empower: 0 ➣ \\*once<br>:empower: 1 ➣ \\*twice<br>:empower: 2 ➣ \\*3 times | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Haste](haste.md) | [Air](school_of_air_magic.md) | Basic | :ongoing: Until the end of the Combat, the selected [unit](../units/index.md) gains:<br><br>:empower: 0 ➣ +1 :initiative:<br>:empower: 1 ➣ +2 :initiative:<br>:empower: 2 ➣ +3 :initiative: | [Core Game](../content/core_game.md) |\n"
+"| [Lightning Bolt](lightning_bolt.md) | [Air](school_of_air_magic.md) | Basic | :activation: The selected [unit](../units/index.md) suffers:<br><br>:empower: 0 ➣ 2 :damage:<br>:empower: 1 ➣ 3 :damage:<br>:empower: 2 ➣ 4 :damage: | [Core Game](../content/core_game.md) |\n"
+"| [Precision](precision.md) | [Air](school_of_air_magic.md) | Basic | :instant: When attacking a non-adjacent [unit](../units/index.md), the selected :unit_ranged: [unit](../units/index.md) ignores the combat penalties and gains:<br><br>:empower: 0 ➣ +1 :attack:<br>:empower: 1 ➣ +2 :attack:<br>:empower: 2 ➣ +3 :attack: | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [View Air](view_air.md) | [Air](school_of_air_magic.md) | Basic | :effect_map: Gain:<br><br>:empower: 0 ➣ 3 :gold:<br>:empower: 1 ➣ 2 :building_materials:<br>:empower: 2 ➣ 1 :valuables: | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Chain Lightning](chain_lightning.md) | [Air](school_of_air_magic.md) | Expert | :activation: Select a [unit](../units/index.md) and another 2 [units](../units/index.md) closest to it. Allocate \\* :damage:, starting with the first selected [unit](../units/index.md).<br><br>:empower: 0 ➣ 1/1/1 :damage:<br>:empower: 2 ➣ 2/1/1 :damage:<br>:empower: 4 ➣ 3/2/1 :damage: | [Core Game](../content/core_game.md) |\n"
+"| [Counterstrike](counterstrike.md) | [Air](school_of_air_magic.md) | Expert | :instant: Remove the Black cube from the selected \\* [Unit](../units/index.md) card - that [unit](../units/index.md) is now able to perform a Retaliation Attack action again:<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden: | [Core Game](../content/core_game.md) |\n"
+"| [Dimension Door](dimension_door.md) | [Air](school_of_air_magic.md) | Expert | :effect_map: Move a [Hero](../heroes/index.md) up to \\* field(s). Ignore any obstacles and fields in-between and resolve the last one normally.<br><br>:empower: 0 ➣ \\*1<br>:empower: 2 ➣ \\*2<br>:empower: 4 ➣ \\*3 | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Fly](fly.md) | [Air](school_of_air_magic.md) | Expert | :ongoing: During this turn, your [Hero](../heroes/index.md) can move through the blocked fields (but cannot end their movement there) and:<br><br>:empower: 0 ➣ No additional effect<br>:empower: 2 ➣ +1 :movement:<br>:empower: 4 ➣ +2 :movement: | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Summon Air Elemental](summon_air_elemental.md) | [Air](school_of_air_magic.md) | Expert | :activation: On a chosen empty space:<br><br>:empower: 0 ➣ No effect<br>:empower: 2 ➣ Summon a Few [Air Elementals](../units/air_elementals.md)<br>:empower: 4 ➣ Summon a Pack of [Air Elementals](../units/air_elementals.md) | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Anti-Magic](anti-magic.md) | [Earth](school_of_earth_magic.md) | Basic | :ongoing: Until the end of the Combat, the selected \\* [unit](../units/index.md) cannot be targeted by spells:<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden: | [Core Game](../content/core_game.md) |\n"
+"| [Earthquake](earthquake.md) | [Earth](school_of_earth_magic.md) | Basic | :instant: During a [Town](../towns/index.md) siege:<br><br>:empower: 0 ➣ Remove 1 Gate or Wall obstacle of your choice.<br>:empower: 1 ➣ Remove 2 Gate or Wall obstacles of your choice.<br>:empower: 2 ➣ Every [unit](../units/index.md) adjacent to a Wall or Gate obstacle suffers 1 :damage:. Remove all Gate or Wall obstacles. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Shield](shield.md) | [Earth](school_of_earth_magic.md) | Basic | :instant: The defending [unit](../units/index.md) gains \\* against a :unit_ground: or :unit_flying: [unit](../units/index.md).<br><br>:empower: 0 ➣ \\*+1 :defense:<br>:empower: 1 ➣ \\*+2 :defense:<br>:empower: 2 ➣ \\*+3 :defense: | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Slow](slow.md) | [Earth](school_of_earth_magic.md) | Basic | :ongoing: Until the end of the Combat, the selected [unit](../units/index.md) suffers:<br><br>:empower: 0 ➣ -1 :initiative:<br>:empower: 1 ➣ -2 :initiative:<br>:empower: 2 ➣ -3 :initiative: | [Core Game](../content/core_game.md) |\n"
+"| [Stone Skin](stone_skin.md) | [Earth](school_of_earth_magic.md) | Basic | :instant: The selected [unit](../units/index.md) gains:<br><br>:empower: 0 ➣ +1 :defense:<br>:empower: 1 ➣ +2 :defense:<br>:empower: 2 ➣ +3 :defense: | [Core Game](../content/core_game.md) |\n"
+"| [View Earth](view_earth.md) | [Earth](school_of_earth_magic.md) | Basic | :instant: Choose enemy Mine within \\* fields. Replace the owner's cube with yours.<br><br>:empower: 0 ➣ \\*1<br>:empower: 1 ➣ \\*2<br>:empower: 2 ➣ \\*3 | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Implosion](implosion.md) | [Earth](school_of_earth_magic.md) | Expert | :activation: The selected [unit](../units/index.md) suffers:<br><br>:empower: 1 ➣ 2 :damage:<br>:empower: 3 ➣ 4 :damage:<br>:empower: 5 ➣ 6:damage: | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Resurrection](resurrection.md) | [Earth](school_of_earth_magic.md) | Expert | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0. You can cast this spell immediately after the enemy [unit's](../units/index.md) attack.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden: | [Core Game](../content/core_game.md) |\n"
+"| [Sorrow](sorrow.md) | [Earth](school_of_earth_magic.md) | Expert | :instant: When a \\* [unit](../units/index.md) is about to activate, skip this [unit's](../units/index.md) activation.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden: | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Summon Earth Elemental](summon_earth_elemental.md) | [Earth](school_of_earth_magic.md) | Expert | :activation: On a chosen empty space:<br><br>:empower: 0 ➣ No effect<br>:empower: 2 ➣ Summon a Few [Earth Elementals](../units/earth_elementals.md)<br>:empower: 4 ➣ Summon a Pack of [Earth Elementals](../units/earth_elementals.md) | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Town Portal](town_portal.md) | [Earth](school_of_earth_magic.md) | Expert | :effect_map: Move your [Hero](../heroes/index.md) to a selected [Town](../towns/index.md) or Settlement in your control, and:<br><br>:empower: 0 ➣ No additional effect<br>:empower: 2 ➣ +1 :movement:<br>:empower: 4 ➣ +2 :movement: | [Core Game](../content/core_game.md) |\n"
+"| [Blind](blind.md) | [Fire](school_of_fire_magic.md) | Basic | :activation: Place a :paralysis: token on the selected \\* [unit](../units/index.md):<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden: | [Core Game](../content/core_game.md) |\n"
+"| [Bloodlust](bloodlust.md) | [Fire](school_of_fire_magic.md) | Basic | :instant: The selected :unit_ground: or :unit_flying: [unit](../units/index.md) gains:<br><br>:empower: 0 ➣ +1 :attack:<br>:empower: 1 ➣ +2 :attack:<br>:empower: 2 ➣ +3 :attack: | [Core Game](../content/core_game.md) |\n"
+"| [Curse](curse.md) | [Fire](school_of_fire_magic.md) | Basic | :instant: The selected [unit](../units/index.md) suffers (to a minimum of 0):<br><br>:empower: 0 ➣ -1 :defense:<br>:empower: 1 ➣ -2 :defense:<br>:empower: 2 ➣ -3 :defense: | [Core Game](../content/core_game.md) |\n"
+"| [Fire Wall](fire_wall.md) | [Fire](school_of_fire_magic.md) | Basic | :ongoing: For this Combat, place this card in an empty space on the Combat board. Deal \\* to any [unit](../units/index.md) stopping here and to any :unit_ground: or :unit_ranged: [unit](../units/index.md) passing through.<br><br>:empower: 0 ➣ \\*1 :damage:<br>:empower: 2 ➣ \\*2 :damage:<br>:empower: 4 ➣ \\*3 :damage: | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Misfortune](misfortune.md) | [Fire](school_of_fire_magic.md) | Basic | :instant: Play immediately when the selected \\* enemy [unit](../units/index.md) is attacking. Negate an [Attack die](../dice.md#attack-die) result or an additional :attack: from any card.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden: | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Visions](visions.md) | [Fire](school_of_fire_magic.md) | Basic | :instant: Draw \\* from any Neutral [Unit](../units/index.md) deck. You can discard any of them and return the remaining cards in any order.<br><br>:empower: 0 ➣ \\*1 card<br>:empower: 1 ➣ \\*2 cards<br>:empower: 2 ➣ \\*3 cards | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Berserk](berserk.md) | [Fire](school_of_fire_magic.md) | Expert | :ongoing: Select a \\* [unit](../units/index.md). In its activation, this [unit](../units/index.md) must either attack the nearest [unit](../units/index.md) or move to the nearest [unit](../units/index.md) and attack it.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:silver:<br>:empower: 4 ➣ \\*:golden: | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Fire Shield](fire_shield.md) | [Fire](school_of_fire_magic.md) | Expert | :ongoing: When the targeted [unit](../units/index.md) is attack by an adjacent [unit](../units/index.md) during this Combat round, the attacking [unit](../units/index.md) takes:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage: | [Core Game](../content/core_game.md) |\n"
+"| [Fireball](fireball.md) | [Fire](school_of_fire_magic.md) | Expert | :activation: Select 2 adjacent places. Deal \\* :damage: to [units](../units/index.md) in these spaces.<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage: | [Core Game](../content/core_game.md) |\n"
+"| [Frenzy](frenzy.md) | [Fire](school_of_fire_magic.md) | Expert | :instant: This [unit](../units/index.md) ignores the :defense: of the attacked \\* [unit](../units/index.md).<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden: | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Inferno](inferno.md) | [Fire](school_of_fire_magic.md) | Expert | :activation: Select a space. Now roll and [Attack die](../dice.md#attack-die) \\*. All [units](../units/index.md) on this and the adjacent spaces take 1 :damage: for every \"+1\" rolled.<br><br>:empower: 0 ➣ \\*once<br>:empower: 1 ➣ \\*twice<br>:empower: 2 ➣ \\*4 times | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Sacrifice](sacrifice.md) | [Fire](school_of_fire_magic.md) | Expert | :instant: Redirect the :damage: dealt to the selected \\* [unit](../units/index.md) to any other of your [units](../units/index.md).<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden: | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Slayer](slayer.md) | [Fire](school_of_fire_magic.md) | Expert | :instant: When attacking a :golden: [unit](../units/index.md), roll an [Attack die](../dice.md#attack-die) \\* and apply all the results (except for a \"-1\"). After resolving this :attack:, draw 1 card.<br><br>:empower: 0 ➣ \\*twice<br>:empower: 2 ➣ \\*4 times<br>:empower: 4 ➣ \\*6 times | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Summon Fire Elemental](summon_fire_elemental.md) | [Fire](school_of_fire_magic.md) | Expert | :activation: On a chosen empty space:<br><br>:empower: 0 ➣ No effect<br>:empower: 2 ➣ Summon a Few [Fire Elementals](../units/fire_elementals.md)<br>:empower: 4 ➣ Summon a Pack of [Fire Elementals](../units/fire_elementals.md) | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Bless](bless.md) | [Water](school_of_water_magic.md) | Basic | :instant: The selected :unit_ground: or :unit_flying: unit:<br><br>:empower: 0 ➣ Ignores the [Attack die](../dice.md#attack-die) roll.<br>:empower: 1 ➣ Ignores the [Attack die](../dice.md#attack-die) roll and gains +1 :attack:<br>:empower: 2 ➣ Ignores the [Attack die](../dice.md#attack-die) roll and gains +2 :attack: | [Core Game](../content/core_game.md) |\n"
+"| [Cure](cure.md) | [Water](school_of_water_magic.md) | Basic | :instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), and remove from this [unit](../units/index.md) up to:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 1 ➣ 2 :damage:<br>:empower: 2 ➣ 3 :damage: | [Core Game](../content/core_game.md) |\n"
+"| [Dispel](dispel.md) | [Water](school_of_water_magic.md) | Basic | :instant: Remove all :ongoing: effects from a space or a \\* [unit](../units/index.md) and the space it occupies.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden: | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Forgetfulness](forgetfulness.md) | [Water](school_of_water_magic.md) | Basic | :ongoing: During its next activation, a \\* :unit_ranged: [unit](../units/index.md) if your choice cannot :attack:.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden: | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Remove Obstacle](remove_obstacle.md) | [Water](school_of_water_magic.md) | Basic | :instant: Remove \\* obstacles (except [units](../units/index.md)) from the Combat board.<br><br>:empower: 0 ➣ \\*1<br>:empower: 1 ➣ \\*2<br>:empower: 2 ➣ \\*3 | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Weakness](weakness.md) | [Water](school_of_water_magic.md) | Basic | :instant: The selected [unit](../units/index.md) suffers (to a minimum of 0):<br><br>:empower: 0 ➣ -1 :attack:<br>:empower: 1 ➣ -2 :attack:<br>:empower: 2 ➣ -3 :attack: | [Core Game](../content/core_game.md) |\n"
+"| [Frost Ring](frost_ring.md) | [Water](school_of_water_magic.md) | Expert | :activation: Select a space on the Combat board. 2 [units](../units/index.md) adjacent to this space suffer:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage: | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Mirth](mirth.md) | [Water](school_of_water_magic.md) | Expert | :ongoing: You can reroll each of your [Attack dice](../dice.md#attack-die) once. During:<br><br>:empower: 0 ➣ This Activation<br>:empower: 2 ➣ This Combat round<br>:empower: 4 ➣ This Combat | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Prayer](prayer.md) | [Water](school_of_water_magic.md) | Expert | :instant: The selected [unit](../units/index.md) gains \\* :attack:, :defense:, or :initiative::<br><br>:empower: 0 ➣ \\*+1 <br>:empower: 2 ➣ \\*+2 <br>:empower: 4 ➣ \\*+3  | [Core Game](../content/core_game.md) |\n"
+"| [Summon Water Elemental](summon_water_elemental.md) | [Water](school_of_water_magic.md) | Expert | :activation: On a chosen empty space:<br><br>:empower: 0 ➣ No effect<br>:empower: 2 ➣ Summon a Few [Water Elementals](../units/water_elementals.md)<br>:empower: 4 ➣ Summon a Pack of [Water Elementals](../units/water_elementals.md) | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Teleport](teleport.md) | [Water](school_of_water_magic.md) | Expert | :activation: During Combat, move one allied \\* [unit](../units/index.md) to any empty space - ignore any obstacles or effects when moving.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden: | [Core Game](../content/core_game.md) |\n"
+msgstr ""
+
+#. type: Title #
+#: docs/heroes/index.md
+#, no-wrap
+msgid "List of Heroes"
+msgstr ""
+
+#. type: Plain text
+#: docs/heroes/index.md
+#, no-wrap
+msgid ""
+"| Name | [Town](../towns/index.md) | Class | [Ability](../abilities/index.md) | Specialty | [Content](../content/index.md) |\n"
+"| :--- | :--- | :--- | :--- | :--- | :--- |\n"
+"| [Adelaide](adelaide.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Frost Ring](adelaide.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Catherine](catherine.md) | [Castle](../towns/castle.md) | :might: Knight | [Leadership](../abilities/leadership.md) | [Crusaders](catherine.md#specialty) | [Core Game](../content/core_game.md) |\n"
+"| [Ingham](ingham.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Mysticism](../abilities/mysticism.md) | [Zealots](ingham.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Lord Haart](lord_haart_castle.md) | [Castle](../towns/castle.md) | :might: Knight | [Estates](../abilities/estates.md) | [Estates](lord_haart_castle.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Rion](rion.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Battlefield Medic](rion.md#specialty) | [Core Game](../content/core_game.md) |\n"
+"| [Valeska](valeska.md) | [Castle](../towns/castle.md) | :might: Knight | [Archery](../abilities/archery.md) | [Marksmen](valeska.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Lord Haart](lord_haart_necropolis.md) | [Necropolis](../towns/necropolis.md) | :might: Death Knight | [Necromancy](../abilities/necromancy.md) | [Dread Knights](lord_haart_necropolis.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Moandor](moandor.md) | [Necropolis](../towns/necropolis.md) | :might: Death Knight | [Necromancy](../abilities/necromancy.md) | [Liches](moandor.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Sandro](sandro.md) | [Necropolis](../towns/necropolis.md) | :magic: Necromancer | [Sorcery](../abilities/sorcery.md) | [Cloak of the Undead King](sandro.md#specialty) | [Core Game](../content/core_game.md) |\n"
+"| [Septienna](septienna.md) | [Necropolis](../towns/necropolis.md) | :magic: Necromancer | [Necromancy](../abilities/necromancy.md) | [Death Ripple](septienna.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Tamika](tamika.md) | [Necropolis](../towns/necropolis.md) | :might: Death Knight | [Offense](../abilities/offense.md) | [Dread Knights](tamika.md#specialty) | [Core Game](../content/core_game.md) |\n"
+"| [Vidomina](vidomina.md) | [Necropolis](../towns/necropolis.md) | :magic: Necromancer | [Necromancy](../abilities/necromancy.md) | [Necromancy](vidomina.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Alamar](alamar.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Wisdom](../abilities/wisdom.md) | [Resurrection](alamar.md#specialty) | [Core Game](../content/core_game.md) |\n"
+"| [Deemer](deemer.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Scouting](../abilities/scouting.md) | [Meteor Shower](deemer.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Jeddite](jeddite.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Sorcery](../abilities/sorcery.md) | [Mysterious Warlock](jeddite.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Lorelei](lorelei.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Scouting](../abilities/scouting.md) | [Harpies](lorelei.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Mutare](mutare.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Tactics](../abilities/tactics.md) | [Dragons](mutare.md#specialty) | [Core Game](../content/core_game.md) |\n"
+"| [Sephinroth](sephinroth.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Intelligence](../abilities/intelligence.md) | [Valuables](sephinroth.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Cyra](cyra.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Diplomacy](../abilities/diplomacy.md) | [Haste](cyra.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Dracon](dracon.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Wisdom](../abilities/wisdom.md) | [Enchanters](dracon.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Iona](iona.md) | [Tower](../towns/tower.md) | :might: Alchemist | [Intelligence](../abilities/intelligence.md) | [Genies](iona.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Josephine](josephine.md) | [Tower](../towns/tower.md) | :might: Alchemist | [Sorcery](../abilities/sorcery.md) | [Golems](josephine.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Solmyr](solmyr.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Sorcery](../abilities/sorcery.md) | [Chain Lightning](solmyr.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Torosar](torosar.md) | [Tower](../towns/tower.md) | :might: Wizard | [Mysticism](../abilities/mysticism.md) | [Ballista](torosar.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Clancy](clancy.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Pathfinding](../abilities/pathfinding.md) | [Unicorns](clancy.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Gelu](gelu.md) | [Rampart](../towns/rampart.md) | :might: Ranger | [Archery](../abilities/archery.md) | [Sharpshooters](gelu.md#specialty) | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Gem](gem.md) | [Rampart](../towns/rampart.md) | :magic: Druid | [First Aid](../abilities/first_aid.md) | [First Aid](gem.md#specialty) | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Ivor](ivor.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Offense](../abilities/offense.md) | [Elves](ivor.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Melodia](melodia.md) | [Rampart](../towns/rampart.md) | :magic: Druid | [Luck](../abilities/luck.md) | [Fortune](melodia.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Mephala](mephala.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Leadership](../abilities/leadership.md) | [Armorer](mephala.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Adrienne](adrienne.md) | [Fortress](../towns/fortress.md) | :magic: Witch | [Wisdom](../abilities/wisdom.md) | [Fire Magic](adrienne.md#specialty) | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Bron](bron.md) | [Tower](../towns/tower.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](bron.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Tazar](tazar.md) | [Tower](../towns/tower.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [War Hero](tazar.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Wystan](wystan.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Archery](../abilities/archery.md) | [Lizardmen](wystan.md#specialty) | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Fiona](fiona.md) | [Inferno](../towns/inferno.md) | :might: Demoniac | [Scouting](../abilities/scouting.md) | [Cerberi](fiona.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Rashka](rashka.md) | [Inferno](../towns/inferno.md) | :might: Demoniac | [Scholar](../abilities/scholar.md) | [Efreet](rashka.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Xyron](xyron.md) | [Inferno](../towns/inferno.md) | :magic: Heretic | [Wisdom](../abilities/wisdom.md) | [Inferno](xyron.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Zydar](zydar.md) | [Inferno](../towns/inferno.md) | :magic: Heretic | [Sorcery](../abilities/sorcery.md) | [Sorcery](zydar.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Crag Hack](crag_hack.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Offense](crag_hack.md#specialty) | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Dessa](dessa.md) | [Stronghold](../towns/stronghold.md) | :magic: Battle Mage | [Logistics](../abilities/logistics.md) | [Logistics](dessa.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Gundula](gundula.md) | [Stronghold](../towns/stronghold.md) | :magic: Battle Mage | [Wisdom](../abilities/wisdom.md) | [Slow](gundula.md#specialty) | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Shiva](shiva.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | [Scouting](../abilities/scouting.md) | [Thunderbirds](shiva.md#specialty) | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Tarnum](tarnum_stronghold.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Offense](tarnum_stronghold.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Yog](yog.md) | [Stronghold](../towns/stronghold.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Cyclops](yog.md#specialty) | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Ciele](ciele.md) | [Conflux](../towns/conflux.md) | :magic: Elementalist | [Water Magic](../abilities/water_magic.md) | [Magic Arrow](ciele.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Erdamon](erdamon.md) | [Conflux](../towns/conflux.md) | :might: Planeswalker | [Estates](../abilities/estates.md) | [Magma Elementals](erdamon.md#specialty) | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Luna](luna.md) | [Conflux](../towns/conflux.md) | :magic: Elementalist | [Fire Magic](../abilities/fire_magic.md) | [Fire Wall](luna.md#specialty) | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Monere](monere.md) | [Conflux](../towns/conflux.md) | :might: Planeswalker | [Logistics](../abilities/logistics.md) | [Magic Elementals](monere.md#specialty) | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Pasis](pasis.md) | [Conflux](../towns/conflux.md) | :might: Planeswalker | [Artillery](../abilities/artillery.md) | [Magic Elementals](pasis.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Tarnum](tarnum_conflux.md) | [Conflux](../towns/conflux.md) | :magic: Elementalist | [Wisdom](../abilities/wisdom.md) | [🚧](tarnum_conflux.md#specialty) | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Casmetra](casmetra.md) | [Cove](../towns/cove.md) | :magic: Navigator | [Wisdom](../abilities/wisdom.md) | [🚧](casmetra.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Cassiopeia](cassiopeia.md) | [Cove](../towns/cove.md) | :might: Captain | [Tactics](../abilities/tactics.md) | [Oceanids](cassiopeia.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Jeremy](jeremy.md) | [Cove](../towns/cove.md) | :might: Captain | [Offense](../abilities/offense.md) | [Cannon](jeremy.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Zilare](zilare.md) | [Cove](../towns/cove.md) | :magic: Navigator | [Interference](../abilities/interference.md) | [Forgetfulness](zilare.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |\n"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/heroes/index.md
+msgid "[List of Towns](../towns/index.md)."
+msgstr ""
+
+#. type: Title #
+#: docs/war_machines/index.md
+#, no-wrap
+msgid "War Machines"
+msgstr ""
+
+#. type: Plain text
+#: docs/war_machines/index.md
+#, no-wrap
+msgid ""
+"| Name | Ability | Cost at Blacksmith | Cost at Trade Post | [Content](../content/index.md) |\n"
+"| :--- | :--- | ---: | ---: | :--- |\n"
+"| [Ammo Cart](ammo_cart.md) | :permanent: Your :unit_ranged: units ignore combat penalties and gain \"+2 :initiative:\". | 5 :gold: | 8 :gold: | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Ballista](ballista.md) | :permanent: At the beginning of each Combat round, deal 1 :damage: to the enemy unit with the lowest :initiative:. | 7 :gold: | 10 :gold: | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Cannon](cannon.md) | :permanent: Once during each Combat round, deal 2 :damage: to a selected enemy unit. | 10 :gold: | 14 :gold: | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [First Aid Tent](first_aid_tent.md) | :permanent: Once during each Combat round, remove 1 :damage: from your selected unit. | 3 :gold: | 6 :gold: | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+msgstr ""
+
+#. type: Title #
+#: docs/content/index.md
+#, no-wrap
+msgid "Content"
+msgstr ""
+
+#. type: Plain text
+#: docs/content/index.md
+#, no-wrap
+msgid ""
+"| Name | Description |\n"
+"| :--- | :---: |\n"
+"| [Core Game](core_game.md) | Vanilla Game<br>[Castle Faction](../towns/castle.md)<br>[Necropolis Faction](../towns/necropolis.md)<br>[Dungeon Faction](../towns/dungeon.md) |\n"
+"| [Tower Expansion](tower_expansion.md) | [Tower Faction](../towns/tower.md)<br>Stretch Goals |\n"
+"| [Rampart Expansion](rampart_expansion.md) | [Rampart Faction](../towns/rampart.md)<br>[War Machines](../war_machines/index.md) |\n"
+"| [Fortress Expansion](fortress_expansion.md) | [Fortress Faction](../towns/fortress.md)<br>[Events](../events/index.md) |\n"
+"| [Inferno Expansion](inferno_expansion.md) | [Inferno Faction](../towns/inferno.md)<br>Empowered [Statistics](../statistics/index.md) |\n"
+"| [Stronghold Expansion](stronghold_expansion.md) | *Upcoming Expansion*<br>[Stronghold Faction](../towns/stronghold.md)<br>[Underground Tiles](../tiles.md#underground) |\n"
+"| [Conflux Expansion](conflux_expansion.md) | *Upcoming Expansion*<br>[Conflux Faction](../towns/conflux.md)<br>Monoliths |\n"
+"| [Cove Expansion](cove_expansion.md) | *Upcoming Expansion*<br>[Cove Faction](../towns/cove.md)<br>[Water Tiles](../tiles.md#water) |\n"
+"| [Battlefield Expansion](battlefield_expansion.md) | Hex Battlefield With Obstacles<br>Adventure<br>Positive Morale Cards<br>Negative Morale Cards |\n"
+"| [Azure Stretch Goals 2022](crystal_stretch_goals.md) | Props<br>Neutral Units<br>Faction Units<br> |\n"
+"| [Regular Stretch Goals 2024](regular_stretch_goals.md) | *Upcoming Expansion*<br>[Neutral Units](../towns/neutral.md)<br>[Extra Heroes](../heroes/index.md)<br>[Alternative Pack of Manticores](../units/manticores.md) |\n"
+"| [Crystal Stretch Goals 2024](crystal_stretch_goals.md) | *Upcoming Expansion*<br>🚧 |\n"
+msgstr ""
+
+#. type: Title #
+#: docs/keywords/index.md
+#, no-wrap
+msgid "List of Keywords"
+msgstr ""
+
+#. type: Title ##
+#: docs/keywords/index.md
+#, no-wrap
+msgid "Effects"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+msgid "[:permanent: Permanent Effect](permanent_effect.md)"
+msgstr ""
+
+#. type: Title ##
+#: docs/keywords/index.md
+#, no-wrap
+msgid "Unit Types"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+msgid "[:unit_flying: Flying Unit](flying_unit.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+msgid "[:unit_ground: Ground Unit](ground_unit.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+msgid "[:unit_ranged: Ranged Unit](ranged_unit.md)"
+msgstr ""
+
+#. type: Title ##
+#: docs/keywords/index.md
+#, no-wrap
+msgid "Unit Statistics"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+msgid "[:attack: Attack Value](attack_value.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+msgid "[:defense: Defense Value](defense_value.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+msgid "[:health_points: Health Points](health_points.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+msgid "[:initiative: Initiative Value](initiative_value.md)"
+msgstr ""
+
+#. type: Title ##
+#: docs/keywords/index.md
+#, no-wrap
+msgid "Combat"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+msgid "[:damage: Damage](damage.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+msgid "[:paralysis: Paralysis](paralysis.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+msgid "[:unit_other: Alternative Action](alternative_action.md)"
+msgstr ""
+
+#. type: Title ##
+#: docs/keywords/index.md
+#, no-wrap
+msgid "Map"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+msgid "[Blocked Field](blocked_field.md)"
+msgstr ""
+
+#. type: Title #
+#: docs/towns/index.md
+#, no-wrap
+msgid "List of Towns"
+msgstr ""
+
+#. type: Plain text
+#: docs/towns/index.md
+#, no-wrap
+msgid ""
+"| Name | [Content](../content/index.md) |\n"
+"| :--- | :--- |\n"
+"| [Castle](castle.md) | [Core Game](../content/core_game.md) |\n"
+"| [Necropolis](necropolis.md) | [Core Game](../content/core_game.md) |\n"
+"| [Dungeon](dungeon.md) | [Core Game](../content/core_game.md) |\n"
+"| [Tower](tower.md) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Rampart](rampart.md) | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [Fortress](fortress.md) | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Inferno](inferno.md) | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Stronghold](stronghold.md) | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [Conflux](conflux.md) | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Cove](cove.md) | [Cove Expansion](../content/cove_expansion.md) |\n"
 msgstr ""

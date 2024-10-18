@@ -1,0 +1,263 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-10-18 10:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Bullet: '- '
+#: docs/units/03_ranged_units.md docs/units/01_ground_units.md
+msgid ":bronze: [Gremlins](gremlins.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/03_ranged_units.md docs/units/01_ground_units.md
+msgid ":bronze: [Ice Elementals](ice_elementals.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/03_ranged_units.md docs/units/01_ground_units.md
+msgid ":bronze: [Storm Elementals](storm_elementals.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/03_ranged_units.md docs/units/01_ground_units.md
+msgid ":golden: [Titans](titans.md)"
+msgstr ""
+
+#. type: Title #
+#: docs/units/01_ground_units.md
+#, no-wrap
+msgid "List of Ground Units"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Boars](boars.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Centaurs](centaurs.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Cerberi](cerberi.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Dwarves](dwarves.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Familiars](familiars.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Gnolls](gnolls.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Goblins](goblins.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Halberdiers](halberdiers.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Iron Golems](iron_golems.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Leprechaun](leprechaun.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Peasants](peasants.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Rogues](rogues.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Seamen](seamen.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Skeletons](skeletons.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Troglodytes](troglodytes.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Wolf Raiders](wolf_raiders.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":bronze: [Zombies](zombies.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":silver: [Basilisks](basilisks.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":silver: [Crusaders](crusaders.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":silver: [Demons](demons.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":silver: [Dendroids](dendroids.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":silver: [Gorgons](gorgons.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":silver: [Magma Elementals](magma_elementals.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":silver: [Minotaurs](minotaurs.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":silver: [Mummies](mummies.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":silver: [Nomads](nomads.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md docs/units/02_flying_units.md
+msgid ":silver: [Ogres](ogres.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":silver: [Pit Lords](pit_lords.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":silver: [Satyrs](satyrs.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":silver: [Steel Golems](steel_golems.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":golden: [Behemoths](behemoths.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":golden: [Champions](champions.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":golden: [Diamond Golems](diamond_golems.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":golden: [Dread Knights](dread_knights.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":golden: [Gold Golems](gold_golems.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":golden: [Haspids](haspids.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":golden: [Hydras](hydras.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":golden: [Magic Elementals](magic_elementals.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":golden: [Nagas](nagas.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":golden: [Nix](nix.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":golden: [Trolls](trolls.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":golden: [Unicorns](unicorns.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":azure: [Crystal Dragons](crystal_dragons.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md
+msgid ":azure: [Hydras](hydras.md)"
+msgstr ""

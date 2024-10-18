@@ -1,0 +1,163 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-10-18 10:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Bullet: '- '
+#: docs/units/01_ground_units.md docs/units/02_flying_units.md
+msgid ":silver: [Ogres](ogres.md)"
+msgstr ""
+
+#. type: Title #
+#: docs/units/02_flying_units.md
+#, no-wrap
+msgid "List of Flying Units"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":bronze: [Dragon Flies](dragon_flies.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":bronze: [Gargoyles](gargoyles.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":bronze: [Griffins](griffins.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":bronze: [Harpies](harpies.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":bronze: [Oceanids](oceanids.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":bronze: [Sprites](sprites.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":bronze: [Wraiths](wraiths.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":silver: [Ayssids](ayssids.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":silver: [Energy Elementals](energy_elementals.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":silver: [Fangarm](fangarm.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":silver: [Genies](genies.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":silver: [Pegasi](pegasi.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":silver: [Thunderbirds](thunderbirds.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":silver: [Vampires](vampires.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":golden: [Arch Devils](arch_devils.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":golden: [Archangels](archangels.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":golden: [Black Dragons](black_dragons.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":golden: [Efreet](efreet.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":golden: [Ghost Dragons](ghost_dragons.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":golden: [Gold Dragons](gold_dragons.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":golden: [Manticores](manticores.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":golden: [Phoenixes](phoenixes.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":golden: [Wyverns](wyverns.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":azure: [Azure Dragons](azure_dragons.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":azure: [Faerie Dragons](faerie_dragons.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":azure: [Gold Dragons](gold_dragons.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/units/02_flying_units.md
+msgid ":azure: [Rust Dragons](rust_dragons.md)"
+msgstr ""
