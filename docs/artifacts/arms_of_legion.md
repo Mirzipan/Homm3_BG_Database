@@ -11,7 +11,7 @@ ___
 
 ## Notes
 
-- This artifact only recudes the recruitment cost, it does not allow for an additional recruitment to take place. During a round in which the player already recruited units (their population marker is already turned over), the discount effect provides no benefit, as the player may no longer recruit.
+- This artifact only reduces the recruitment cost, it does not allow for an additional recruitment to take place. During a round in which the player already recruited units (their population marker is already turned over), the discount effect provides no benefit, as the player may no longer recruit.
 - The recruitment discount may be played in combination with cards that allow recruitment (e.g. [Necromancy](../abilities/necromancy.md)).
 - Should the player recruit outside of their turn, the effect of the Arms of Legion may not be used.
 
