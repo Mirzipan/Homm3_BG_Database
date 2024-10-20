@@ -69,7 +69,7 @@ jobs:
             git push
             echo 'Changes committed successfully 🎉' >> body.txt
             echo 'Please update your local branch by running `git pull` 💻' >> body.txt
-            echo 'Bear in mind that I am a bot 🤖 so I cannot trigger workflows!' >> body.txt
+            echo 'Bear in mind that I am a bot 🤖 so I cannot trigger workflows! Trigger them by pushing an empty commit: `git commit --allow-empty -m "Trigger workflows" && git push`.' >> body.txt
           else
             echo 'Nothing to commit, `po4a` run was clean ✨' >> body.txt
           fi
