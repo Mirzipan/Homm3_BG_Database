@@ -53,7 +53,7 @@ jobs:
           export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
           export PERL5LIB="${PO4A_DIR}/lib:${PERL5LIB}"
           ./${PO4A_DIR}/po4a --no-translations po4a.cfg
-          git diff --color=always
+          git diff translations --color=always
 
       - name: Check git changes
         run: git status --porcelain translations po4a.cfg | tee files.txt
@@ -64,12 +64,12 @@ jobs:
             # There are edited files
             git config --global user.email "github-actions@github.com"
             git config --global user.name "github-actions"
-            git add translations
+            git add translations po4a.cfg
             git commit -m "[Automatic] Add po4a updates"
             git push
-            echo 'Changes committed successfully 🎉' >> body.txt
-            echo 'Please update your local branch by running `git pull` 💻' >> body.txt
-            echo 'Bear in mind that I am a bot 🤖 so I cannot trigger workflows! Trigger them by pushing an empty commit: `git commit --allow-empty -m "Trigger workflows" && git push`.' >> body.txt
+            echo 'Changes committed successfully 🎉 Please update your local branch by running `git pull` 💻' >> body.txt
+            echo 'Bear in mind that I am a bot 🤖 so I cannot trigger workflows!' >> body.txt
+            echo 'Trigger them by pushing an empty commit: `git commit --allow-empty -m "Trigger workflows" && git push`.' >> body.txt
           else
             echo 'Nothing to commit, `po4a` run was clean ✨' >> body.txt
           fi
