@@ -37,7 +37,9 @@ jobs:
           permission: write
 
       - name: Generate entries in po4a.cfg
-        run: ./tools/generate_po4a_entries.sh
+        run: |
+          ./tools/generate_po4a_entries.sh
+          git diff --color=always
 
       - name: Install po4a
         run: |
@@ -50,10 +52,11 @@ jobs:
         run: |
           export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
           export PERL5LIB="${PO4A_DIR}/lib:${PERL5LIB}"
-          ./${PO4A_DIR}/po4a -v po4a.cfg
+          ./${PO4A_DIR}/po4a --no-translations po4a.cfg
+          git diff --color=always
 
       - name: Check git changes
-        run: git status --porcelain translations po4a.cfg > files.txt
+        run: git status --porcelain translations po4a.cfg | tee files.txt
 
       - name: Add comment
         run: |
@@ -66,7 +69,7 @@ jobs:
             git push
             echo 'Changes committed successfully 🎉' >> body.txt
             echo 'Please update your local branch by running `git pull` 💻' >> body.txt
-            echo 'Bear in mind that I\'m a bot 🤖 so I can\'t triiger workflows!' >> body.txt
+            echo 'Bear in mind that I am a bot 🤖 so I cannot trigger workflows!' >> body.txt
           else
             echo 'Nothing to commit, `po4a` run was clean ✨' >> body.txt
           fi
