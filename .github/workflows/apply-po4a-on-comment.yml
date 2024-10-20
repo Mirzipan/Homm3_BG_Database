@@ -17,8 +17,8 @@ env:
 
 jobs:
   commit-comment:
-    name: Get po4a check comment
-    if: (github.event.issue.pull_request && startsWith(github.event.comment.body, 'apply po4a changes'))
+    name: Commit po4a changes
+    if: (github.event.issue.pull_request && startsWith(github.event.comment.body, 'po4a commit'))
     runs-on: ubuntu-latest
 
     steps:
@@ -53,7 +53,7 @@ jobs:
           export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
           export PERL5LIB="${PO4A_DIR}/lib:${PERL5LIB}"
           ./${PO4A_DIR}/po4a --no-translations po4a.cfg
-          git diff translations --color=always
+          git diff --color=always translations
 
       - name: Check git changes
         run: git status --porcelain translations po4a.cfg | tee files.txt
