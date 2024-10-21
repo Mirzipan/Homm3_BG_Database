@@ -1,6 +1,6 @@
 # Fields
 
-Field are single cells on a [tile](tiles.md).
+Field are single cells on a [tile](tiles/index.md).
 
 
 ## Flaggable
@@ -31,7 +31,7 @@ Field are single cells on a [tile](tiles.md).
 | Mystical Garden | 10 | Gain 2 :gold:.<br><br>— OR —<br><br>Gain 1 :valuables:. |
 | Pandora's Box | 6 | Roll 2 [Treasure Dice](dice.md#treasure-die) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Resource Dice](dice.md#resource-die) and choose 1 result to gain. |
 | Prison | 1 | Gain a Secondary [Hero](heroes/index.md). Place their model on this Field. If you already have a Secondary [Hero](heroes/index.md), gain 3 :gold: instead. |
-| Redwood Observatory | 9 | Discover a face down [Tile](tiles.md) adjacent to this one. |
+| Redwood Observatory | 9 | Discover a face down [Tile](tiles/index.md) adjacent to this one. |
 | Resources | 7 | Roll a [Resource Die](dice.md#resource-die) and gain the indicated Resources. |
 | Scholar | 4 | Roll 1 [Attack Die](dice.md#attack-die). Depending on the result, do the following:<br><br>**+1** - Gain a [Statistic](statistics/index.md) Card of your choice or Remove a [Statistic](statistics/index.md) Card from your hand.<br><br>**0** - Draw 2 Cards from the [Ability](abilities/index.md) Deck, gain one of them and discard the other.<br><br>**+1** - Draw 2 Cards from the [Spell](spells/index.md) Deck, gain one of them and discard the other. |
 | Shrine of Magic Gesture | 10 | Pay :pay: 3 :gold: to **Search(2)** the [Spell](spells/index.md) Deck. |
