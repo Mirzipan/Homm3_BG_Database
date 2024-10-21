@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2024-10-18 16:54+0200\n"
+"POT-Creation-Date: 2024-10-21 12:24+0200\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -808,7 +808,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/units/skeletons.md
-msgid "**Neutral** - A [Necropolis](../towns/necropolis.md) player can reinforce their :bronze: unit during ongoing Combat. Any damage present on the Few side of the unit is transfered to the Pack side."
+msgid "**Neutral** - A [Necropolis](../towns/necropolis.md) player can reinforce their :bronze: unit during ongoing Combat. Any damage present on the Few side of the unit is transferred to the Pack side."
 msgstr ""
 
 #. type: Bullet: '- '
