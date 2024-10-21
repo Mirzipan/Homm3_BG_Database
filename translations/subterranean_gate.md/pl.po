@@ -218,7 +218,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr "Zawarty w"
+msgstr "Pochodzi z"
 
 #. type: Bullet: '- '
 #: docs/fields/subterranean_gate.md docs/tiles/u1.md

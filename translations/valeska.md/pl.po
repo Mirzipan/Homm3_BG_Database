@@ -199,7 +199,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr "Zawarty w"
+msgstr "Pochodzi z"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
