@@ -663,7 +663,7 @@ msgstr ""
 #: docs/towns/stronghold.md docs/towns/tower.md
 #, no-wrap
 msgid "Units"
-msgstr ""
+msgstr "Jednostki"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md

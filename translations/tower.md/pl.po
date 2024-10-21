@@ -537,7 +537,7 @@ msgstr ""
 #: docs/towns/stronghold.md docs/towns/tower.md
 #, no-wrap
 msgid "Units"
-msgstr ""
+msgstr "Jednostki"
 
 #. type: Title ##
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md

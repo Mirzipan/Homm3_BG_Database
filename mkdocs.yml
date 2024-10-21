@@ -91,6 +91,27 @@ plugins:
         - locale: pl
           name: Polski
           build: true
+          nav_translations:
+            Home: Strona Główna
+            Abilities: Zdolności
+            Artifacts: Artefakty
+            Astrologers proclaim: Astrologowie ogłaszają
+            Content: Zawartość
+            Events: Wydarzenia
+            Fields: Pola
+            Heroes: Bohaterowie
+            Keywords: Słowa kluczowe
+            Scenarios: Scenariusze
+            Spells: Zaklęcia
+            Statistics: Statystyki
+            Tiles: Kafelki
+            Towns: Miasta
+            Units: Jednostki
+            War machines: Machiny Wojenne
+        - locale: "null"
+          name: Help translate
+          build: false
+          fixed_link: https://discord.gg/Y4uM9pPWF6
 
 repo_url: https://github.com/Mirzipan/Homm3_BG_Database
 repo_name: Mirzipan/Homm3_BG_Database
