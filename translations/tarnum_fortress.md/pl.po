@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2024-10-21 17:38+0000\n"
+"POT-Creation-Date: 2024-10-21 19:00+0000\n"
 "PO-Revision-Date: 2024-10-21 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -680,33 +680,33 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/tarnum_fortress.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Tarnum (Fortress)](../assets/player-deck-back.webp){ width=540 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>![Tarnum (Fortress)](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/tarnum_fortress.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Basilisks Ⅰ](../assets/hero_specialties-fortress-wystan-1.webp){ width=\"340\" align=right }\n"
+"        ![Basilisks Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/tarnum_fortress.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Basilisks Ⅳ](../assets/hero_specialties-fortress-wystan-4.webp){ width=\"340\" align=right }\n"
+"        ![Basilisks Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/tarnum_fortress.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Basilisks Ⅵ](../assets/hero_specialties-fortress-wystan-7.webp){ width=\"340\" align=right }\n"
+"        ![Basilisks Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
