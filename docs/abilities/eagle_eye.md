@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Heroes With Starting Ability
+
+- [:magic: Ash](../heroes/ash.md)
+
+
 ## Comes With
 
 - [Fortress Expansion](../content/fortress_expansion.md)

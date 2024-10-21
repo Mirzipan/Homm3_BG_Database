@@ -16,6 +16,7 @@ ___
 ## Heroes With Starting Ability
 
 - [:might: Pasis](../heroes/pasis.md)
+- [:might: Tarnum (Castle)](../heroes/tarnum_castle.md)
 
 
 ## Notes

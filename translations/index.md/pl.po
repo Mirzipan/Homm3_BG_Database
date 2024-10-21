@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2024-10-21 16:09+0000\n"
+"POT-Creation-Date: 2024-10-21 17:38+0000\n"
 "PO-Revision-Date: 2024-10-17 23:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -147,21 +147,25 @@ msgstr ""
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
-#: docs/heroes/bron.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/catherine.md docs/heroes/ciele.md docs/heroes/clancy.md
-#: docs/heroes/crag_hack.md docs/heroes/cyra.md docs/heroes/deemer.md
-#: docs/heroes/dessa.md docs/heroes/dracon.md docs/heroes/erdamon.md
-#: docs/heroes/fiona.md docs/heroes/gelu.md docs/heroes/gem.md
+#: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/bron.md
+#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
+#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
+#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
+#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
+#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gerwulf.md
 #: docs/heroes/gundula.md docs/heroes/index.md docs/heroes/ingham.md
 #: docs/heroes/iona.md docs/heroes/ivor.md docs/heroes/jeddite.md
 #: docs/heroes/jeremy.md docs/heroes/josephine.md
 #: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
 #: docs/heroes/lorelei.md docs/heroes/luna.md docs/heroes/melodia.md
-#: docs/heroes/mephala.md docs/heroes/moandor.md docs/heroes/monere.md
-#: docs/heroes/mutare.md docs/heroes/pasis.md docs/heroes/rashka.md
+#: docs/heroes/mephala.md docs/heroes/merist.md docs/heroes/miriam.md
+#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/rashka.md
 #: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/sephinroth.md
 #: docs/heroes/septienna.md docs/heroes/shiva.md docs/heroes/solmyr.md
-#: docs/heroes/tamika.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tamika.md docs/heroes/tarnum_castle.md
+#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
 #: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
 #: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
@@ -386,21 +390,25 @@ msgstr ""
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
-#: docs/heroes/bron.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/catherine.md docs/heroes/ciele.md docs/heroes/clancy.md
-#: docs/heroes/crag_hack.md docs/heroes/cyra.md docs/heroes/deemer.md
-#: docs/heroes/dessa.md docs/heroes/dracon.md docs/heroes/erdamon.md
-#: docs/heroes/fiona.md docs/heroes/gelu.md docs/heroes/gem.md
+#: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/bron.md
+#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
+#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
+#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
+#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
+#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gerwulf.md
 #: docs/heroes/gundula.md docs/heroes/ingham.md docs/heroes/iona.md
 #: docs/heroes/ivor.md docs/heroes/jeddite.md docs/heroes/jeremy.md
 #: docs/heroes/josephine.md docs/heroes/lord_haart_castle.md
 #: docs/heroes/lord_haart_necropolis.md docs/heroes/lorelei.md
 #: docs/heroes/luna.md docs/heroes/melodia.md docs/heroes/mephala.md
-#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
+#: docs/heroes/monere.md docs/heroes/mutare.md docs/heroes/octavia.md
 #: docs/heroes/pasis.md docs/heroes/rashka.md docs/heroes/rion.md
 #: docs/heroes/sandro.md docs/heroes/sephinroth.md docs/heroes/septienna.md
 #: docs/heroes/shiva.md docs/heroes/solmyr.md docs/heroes/tamika.md
-#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_stronghold.md
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
+#: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
 #: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/valeska.md
 #: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
@@ -701,6 +709,7 @@ msgid ""
 "| [Catherine](catherine.md) | [Castle](../towns/castle.md) | :might: Knight | [Leadership](../abilities/leadership.md) | [Crusaders](catherine.md#specialty) | [Core Game](../content/core_game.md) |\n"
 "| [Ingham](ingham.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Mysticism](../abilities/mysticism.md) | [Zealots](ingham.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Lord Haart](lord_haart_castle.md) | [Castle](../towns/castle.md) | :might: Knight | [Estates](../abilities/estates.md) | [Estates](lord_haart_castle.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Tarnum](tarnum_castle.md) | [Castle](../towns/castle.md) | :might: Knight | [Artillery](../abilities/artillery.md) | [Ballista](tarnum_castle.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Rion](rion.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Battlefield Medic](rion.md#specialty) | [Core Game](../content/core_game.md) |\n"
 "| [Valeska](valeska.md) | [Castle](../towns/castle.md) | :might: Knight | [Archery](../abilities/archery.md) | [Marksmen](valeska.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Lord Haart](lord_haart_necropolis.md) | [Necropolis](../towns/necropolis.md) | :might: Death Knight | [Necromancy](../abilities/necromancy.md) | [Dread Knights](lord_haart_necropolis.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
@@ -715,6 +724,7 @@ msgid ""
 "| [Lorelei](lorelei.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Scouting](../abilities/scouting.md) | [Harpies](lorelei.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Mutare](mutare.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Tactics](../abilities/tactics.md) | [Dragons](mutare.md#specialty) | [Core Game](../content/core_game.md) |\n"
 "| [Sephinroth](sephinroth.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Intelligence](../abilities/intelligence.md) | [Valuables](sephinroth.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Tarnum](tarnum_dungeon.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Estates](../abilities/estates.md) | [Dragons](tarnum_dungeon.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Cyra](cyra.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Diplomacy](../abilities/diplomacy.md) | [Haste](cyra.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Dracon](dracon.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Wisdom](../abilities/wisdom.md) | [Enchanters](dracon.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
 "| [Iona](iona.md) | [Tower](../towns/tower.md) | :might: Alchemist | [Intelligence](../abilities/intelligence.md) | [Genies](iona.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
@@ -727,11 +737,17 @@ msgid ""
 "| [Ivor](ivor.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Offense](../abilities/offense.md) | [Elves](ivor.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Melodia](melodia.md) | [Rampart](../towns/rampart.md) | :magic: Druid | [Luck](../abilities/luck.md) | [Fortune](melodia.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Mephala](mephala.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Leadership](../abilities/leadership.md) | [Armorer](mephala.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Tarnum](tarnum_rampart.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Leadership](../abilities/leadership.md) | [Sharpshooters](tarnum_rampart.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Adrienne](adrienne.md) | [Fortress](../towns/fortress.md) | :magic: Witch | [Wisdom](../abilities/wisdom.md) | [Fire Magic](adrienne.md#specialty) | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Bron](bron.md) | [Tower](../towns/tower.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](bron.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
-"| [Tazar](tazar.md) | [Tower](../towns/tower.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [War Hero](tazar.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Bron](bron.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](bron.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [Gerwulf](gerwulf.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Armorer](mephala.md#specialty) | [Ballista](gerwulf.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Merist](merist.md) | [Fortress](../towns/fortress.md) | :magic: Witch | [First Aid](../abilities/first_aid.md) | [Stone Skin](merist.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Tarnum](tarnum_fortress.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [Basilisks](gerwulf.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
+"| [Tazar](tazar.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [War Hero](tazar.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |\n"
 "| [Wystan](wystan.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Archery](../abilities/archery.md) | [Lizardmen](wystan.md#specialty) | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Ash](ash.md) | [Inferno](../towns/inferno.md) | :magic: Heretic | [Eagle Eye](../abilities/eagle_eye.md) | [Bloodlust](ash.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Fiona](fiona.md) | [Inferno](../towns/inferno.md) | :might: Demoniac | [Scouting](../abilities/scouting.md) | [Cerberi](fiona.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [Octavia](octavia.md) | [Inferno](../towns/inferno.md) | :might: Demoniac | [Scholar](../abilities/scholar.md) | [Gold](octavia.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Rashka](rashka.md) | [Inferno](../towns/inferno.md) | :might: Demoniac | [Scholar](../abilities/scholar.md) | [Efreet](rashka.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |\n"
 "| [Xyron](xyron.md) | [Inferno](../towns/inferno.md) | :magic: Heretic | [Wisdom](../abilities/wisdom.md) | [Inferno](xyron.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |\n"
 "| [Zydar](zydar.md) | [Inferno](../towns/inferno.md) | :magic: Heretic | [Sorcery](../abilities/sorcery.md) | [Sorcery](zydar.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |\n"
@@ -747,9 +763,11 @@ msgid ""
 "| [Monere](monere.md) | [Conflux](../towns/conflux.md) | :might: Planeswalker | [Logistics](../abilities/logistics.md) | [Magic Elementals](monere.md#specialty) | [Conflux Expansion](../content/conflux_expansion.md) |\n"
 "| [Pasis](pasis.md) | [Conflux](../towns/conflux.md) | :might: Planeswalker | [Artillery](../abilities/artillery.md) | [Magic Elementals](pasis.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Tarnum](tarnum_conflux.md) | [Conflux](../towns/conflux.md) | :magic: Elementalist | [Wisdom](../abilities/wisdom.md) | [🚧](tarnum_conflux.md#specialty) | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [Astra](astra.md) | [Cove](../towns/cove.md) | :magic: Navigator | [Luck](../abilities/luck.md) | [Cure](astra.md#specialty) [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Casmetra](casmetra.md) | [Cove](../towns/cove.md) | :magic: Navigator | [Wisdom](../abilities/wisdom.md) | [🚧](casmetra.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |\n"
 "| [Cassiopeia](cassiopeia.md) | [Cove](../towns/cove.md) | :might: Captain | [Tactics](../abilities/tactics.md) | [Oceanids](cassiopeia.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |\n"
 "| [Jeremy](jeremy.md) | [Cove](../towns/cove.md) | :might: Captain | [Offense](../abilities/offense.md) | [Cannon](jeremy.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Miriam](miriam.md) | [Cove](../towns/cove.md) | :might: Captain | [Logistics](../abilities/logistics.md) | [Scouting](miriam.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Zilare](zilare.md) | [Cove](../towns/cove.md) | :magic: Navigator | [Interference](../abilities/interference.md) | [Forgetfulness](zilare.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |\n"
 msgstr ""
 

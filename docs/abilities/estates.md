@@ -17,6 +17,7 @@ ___
 
 - [:might: Erdamon](../heroes/erdamon.md)
 - [:might: Lord Haart (Castle)](../heroes/lord_haart_castle.md)
+- [:magic: Tarnum (Dungeon)](../heroes/tarnum_dungeon.md)
 
 
 ## Comes With

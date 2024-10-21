@@ -16,9 +16,11 @@
 
 ## Heroes
 
+- :magic: [Astra](../heroes/astra.md)
 - :magic: [Casmetra](../heroes/casmetra.md)
 - :might: [Cassiopeia](../heroes/cassiopeia.md)
 - :might: [Jeremy](../heroes/jeremy.md)
+- :might: [Miriam](../heroes/miriam.md)
 - :magic: [Zilare](../heroes/zilare.md)
 
 

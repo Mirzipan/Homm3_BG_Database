@@ -15,6 +15,7 @@ ___
 
 ## Heroes With Starting Ability
 
+- [:magic: Astra](../heroes/astra.md)
 - [:magic: Melodia](../heroes/melodia.md)
 
 

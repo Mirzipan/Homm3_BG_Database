@@ -36,6 +36,9 @@
 
 - :magic: [Adrienne](../heroes/adrienne.md)
 - :might: [Bron](../heroes/bron.md)
+- :might: [Gerwulf](../heroes/gerwulf.md)
+- :magic: [Merist](../heroes/merist.md)
+- :might: [Tarnum](../heroes/tarnum_fortress.md)
 - :might: [Tazar](../heroes/tazar.md)
 - :might: [Wystan](../heroes/wystan.md)
 
