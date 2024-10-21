@@ -1,7 +1,7 @@
 # #F7
 
 ___
-Far Tile
+[Far Tile](../keywords/far_tile.md)
 ___
 Snow
 ___

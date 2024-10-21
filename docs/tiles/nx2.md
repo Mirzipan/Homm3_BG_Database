@@ -1,7 +1,7 @@
 # #N2
 
 ___
-Near Tile
+[Near Tile](../keywords/near_tile.md)
 ___
 Snow
 ___

@@ -1,7 +1,7 @@
 # #F9
 
 ___
-Far Tile
+[Far Tile](../keywords/far_tile.md)
 ___
 Swamp
 ___
