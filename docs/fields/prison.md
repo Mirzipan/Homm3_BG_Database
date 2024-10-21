@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](..keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
 Gain a Secondary [Hero](../heroes/index.md). Place their model on this Field. If you already have a Secondary [Hero](../heroes/index.md), gain 3 :gold: instead.
 ___

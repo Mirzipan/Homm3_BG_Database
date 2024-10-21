@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](..keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
 **Search(2)** [Artifacts](../artifacts/index.md) twice, then gain :morale_negative: token twice.
 ___

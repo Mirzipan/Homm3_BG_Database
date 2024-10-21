@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](..keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
 Roll 2 [Resource Dice](../dice.md#resource-die) and choose the bonus from one of them.
 ___

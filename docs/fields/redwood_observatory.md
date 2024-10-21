@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](..keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
 Discover a face down [Tile](../tiles/index.md) adjacent to this one.
 ___

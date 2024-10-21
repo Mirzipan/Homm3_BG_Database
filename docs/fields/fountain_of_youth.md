@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](..keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
 Gain :morale_positive: token. Gain +1 :movement: for this turn.
 ___

@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Revisitable Field](..keywords/revisitable_field.md)</p>
+<p style="text-align: center;" markdown>[Revisitable Field](../keywords/revisitable_field.md)</p>
 ___
 Buy a [War Machine](../war_machines/index.md)
 ___
