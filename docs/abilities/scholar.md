@@ -15,6 +15,7 @@ ___
 
 ## Heroes With Starting Ability
 
+- [:might: Octavia](../heroes/octavia.md)
 - [:might: Rashka](../heroes/rashka.md)
 
 

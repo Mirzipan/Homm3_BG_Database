@@ -34,7 +34,9 @@
 
 ## Heroes
 
+- :magic: [Ash](../heroes/ash.md)
 - :might: [Fiona](../heroes/fiona.md)
+- :might: [Octavia](../heroes/octavia.md)
 - :might: [Rashka](../heroes/rashka.md)
 - :magic: [Xyron](../heroes/xyron.md)
 - :magic: [Zydar](../heroes/zydar.md)

@@ -42,7 +42,7 @@ ___
 
 ## Comes With
 
-- [Cove Expansion](../content/cove_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
 ## See Also

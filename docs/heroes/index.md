@@ -41,7 +41,9 @@ search:
 | [Bron](bron.md) | [Tower](../towns/tower.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](bron.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
 | [Tazar](tazar.md) | [Tower](../towns/tower.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [War Hero](tazar.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
 | [Wystan](wystan.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Archery](../abilities/archery.md) | [Lizardmen](wystan.md#specialty) | [Fortress Expansion](../content/fortress_expansion.md) |
+| [Ash](ash.md) | [Inferno](../towns/inferno.md) | :magic: Heretic | [Eagle Eye](../abilities/eagle_eye.md) | [Bloodlust](ash.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Fiona](fiona.md) | [Inferno](../towns/inferno.md) | :might: Demoniac | [Scouting](../abilities/scouting.md) | [Cerberi](fiona.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |
+| [Octavia](octavia.md) | [Inferno](../towns/inferno.md) | :might: Demoniac | [Scholar](../abilities/scholar.md) | [Gold](octavia.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Rashka](rashka.md) | [Inferno](../towns/inferno.md) | :might: Demoniac | [Scholar](../abilities/scholar.md) | [Efreet](rashka.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |
 | [Xyron](xyron.md) | [Inferno](../towns/inferno.md) | :magic: Heretic | [Wisdom](../abilities/wisdom.md) | [Inferno](xyron.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |
 | [Zydar](zydar.md) | [Inferno](../towns/inferno.md) | :magic: Heretic | [Sorcery](../abilities/sorcery.md) | [Sorcery](zydar.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |
