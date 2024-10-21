@@ -15,7 +15,7 @@ ___
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
 - [Blocked Field](../keywords/blocked_field.md)
 - [Trading Post](../trading.md)
-- [Ⅱ](../difficulties.md) Market of Time
+- [Ⅱ](../difficulties.md) [Market of Time](../fields/market_of_time.md)
 
 
 ## Comes With

@@ -14,7 +14,7 @@ ___
 - [Ⅱ](../difficulties.md) [Treasure](../fields/treasure.md)
 - [Windmill](../fields/windmill.md)
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
-- Library
+- [Library](../fields/library.md)
 - [Redwood Observatory](../fields/redwood_observatory.md)
 
 

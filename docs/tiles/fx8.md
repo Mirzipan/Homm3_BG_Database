@@ -13,7 +13,7 @@ ___
 - [Stables](../fields/stables.md)
 - [Blocked Field](../keywords/blocked_field.md)
 - [Ⅱ](../difficulties.md) [Resources](../fields/resources.md)
-- University
+- [University](../fields/university.md)
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
 - [Temple](../fields/temple.md)
 
