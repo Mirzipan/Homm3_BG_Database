@@ -1,6 +1,6 @@
 # Merist
 
-<p style="text-align: center;" markdown>![Merist](../assets/player-deck-back.webp){ width=540 align=right }</p>
+<p style="text-align: center;" markdown>![Merist](../assets/player-deck-back.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Witch](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Stone Skin Ⅰ"
 
     <figure markdown="span">
-        ![Stone Skin Ⅰ](../assets/hero_specialties-fortress-adrienne-1.webp){ width="340" align=right }
+        ![Stone Skin Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Stone Skin Ⅳ"
 
     <figure markdown="span">
-        ![Stone Skin Ⅳ](../assets/hero_specialties-fortress-adrienne-4.webp){ width="340" align=right }
+        ![Stone Skin Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Stone Skin Ⅵ"
 
     <figure markdown="span">
-        ![Stone Skin Ⅵ](../assets/hero_specialties-fortress-adrienne-7.webp){ width="340" align=right }
+        ![Stone Skin Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

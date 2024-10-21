@@ -1,6 +1,6 @@
 # Tarnum (Fortress)
 
-<p style="text-align: center;" markdown>![Tarnum (Fortress)](../assets/player-deck-back.webp){ width=540 align=right }</p>
+<p style="text-align: center;" markdown>![Tarnum (Fortress)](../assets/player-deck-back.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Beastmaster](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Basilisks Ⅰ"
 
     <figure markdown="span">
-        ![Basilisks Ⅰ](../assets/hero_specialties-fortress-wystan-1.webp){ width="340" align=right }
+        ![Basilisks Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Basilisks Ⅳ"
 
     <figure markdown="span">
-        ![Basilisks Ⅳ](../assets/hero_specialties-fortress-wystan-4.webp){ width="340" align=right }
+        ![Basilisks Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Basilisks Ⅵ"
 
     <figure markdown="span">
-        ![Basilisks Ⅵ](../assets/hero_specialties-fortress-wystan-7.webp){ width="340" align=right }
+        ![Basilisks Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 
