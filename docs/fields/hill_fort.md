@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
-You may immediately Reinforce one of your :bronze: or :silver: [Units](../units/index.md). The Reinforcement cost is reduced by 3 :gold: to a minimum of 0.
+<p style="text-align: center;" markdown>You may immediately Reinforce one of your :bronze: or :silver: [Units](../units/index.md). The Reinforcement cost is reduced by 3 :gold: to a minimum of 0.</p>
 ___
 
 

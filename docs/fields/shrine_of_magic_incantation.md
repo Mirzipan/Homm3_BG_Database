@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
-**Search(2)** the [Spell](../spells/index.md) Deck.
+<p style="text-align: center;" markdown>**Search(2)** the [Spell](../spells/index.md) Deck.</p>
 ___
 
 

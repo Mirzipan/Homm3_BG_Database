@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Flaggable Field](../keywords/flaggable_field.md)</p>
 ___
-Effects depend on the Scenario.
+<p style="text-align: center;" markdown>Effects depend on the Scenario.</p>
 ___
 
 

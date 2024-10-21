@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
-Gain 3 :gold:.
+<p style="text-align: center;" markdown>Gain 3 :gold:.</p>
 ___
 
 

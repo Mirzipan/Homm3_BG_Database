@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
-Roll 2 [Treasure Dice](../dice.md#treasure-die) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Resource Dice](../dice.md#resource-die) and choose 1 result to gain.
+<p style="text-align: center;" markdown>Roll 2 [Treasure Dice](../dice.md#treasure-die) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Resource Dice](../dice.md#resource-die) and choose 1 result to gain.</p>
 ___
 
 

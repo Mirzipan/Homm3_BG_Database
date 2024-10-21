@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
-You may :pay: 3 :valuables: or 10 :gold: to gain 2 :experience:.
+<p style="text-align: center;" markdown>You may :pay: 3 :valuables: or 10 :gold: to gain 2 :experience:.</p>
 ___
 
 

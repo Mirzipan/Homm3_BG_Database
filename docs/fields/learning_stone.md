@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
-Gain one :experience:.
+<p style="text-align: center;" markdown>Gain one :experience:.</p>
 ___
 
 
