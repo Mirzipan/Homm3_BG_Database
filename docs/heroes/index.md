@@ -11,6 +11,7 @@ search:
 | [Catherine](catherine.md) | [Castle](../towns/castle.md) | :might: Knight | [Leadership](../abilities/leadership.md) | [Crusaders](catherine.md#specialty) | [Core Game](../content/core_game.md) |
 | [Ingham](ingham.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Mysticism](../abilities/mysticism.md) | [Zealots](ingham.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Lord Haart](lord_haart_castle.md) | [Castle](../towns/castle.md) | :might: Knight | [Estates](../abilities/estates.md) | [Estates](lord_haart_castle.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
+| [Tarnum](tarnum_castle.md) | [Castle](../towns/castle.md) | :might: Knight | [Artillery](../abilities/artillery.md) | [Ballista](tarnum_castle.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Rion](rion.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Battlefield Medic](rion.md#specialty) | [Core Game](../content/core_game.md) |
 | [Valeska](valeska.md) | [Castle](../towns/castle.md) | :might: Knight | [Archery](../abilities/archery.md) | [Marksmen](valeska.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Lord Haart](lord_haart_necropolis.md) | [Necropolis](../towns/necropolis.md) | :might: Death Knight | [Necromancy](../abilities/necromancy.md) | [Dread Knights](lord_haart_necropolis.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
@@ -25,6 +26,7 @@ search:
 | [Lorelei](lorelei.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Scouting](../abilities/scouting.md) | [Harpies](lorelei.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Mutare](mutare.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Tactics](../abilities/tactics.md) | [Dragons](mutare.md#specialty) | [Core Game](../content/core_game.md) |
 | [Sephinroth](sephinroth.md) | [Dungeon](../towns/dungeon.md) | :magic: Warlock | [Intelligence](../abilities/intelligence.md) | [Valuables](sephinroth.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
+| [Tarnum](tarnum_dungeon.md) | [Dungeon](../towns/dungeon.md) | :might: Overlord | [Estates](../abilities/estates.md) | [Dragons](tarnum_dungeon.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Cyra](cyra.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Diplomacy](../abilities/diplomacy.md) | [Haste](cyra.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Dracon](dracon.md) | [Tower](../towns/tower.md) | :magic: Wizard | [Wisdom](../abilities/wisdom.md) | [Enchanters](dracon.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
 | [Iona](iona.md) | [Tower](../towns/tower.md) | :might: Alchemist | [Intelligence](../abilities/intelligence.md) | [Genies](iona.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
@@ -37,6 +39,7 @@ search:
 | [Ivor](ivor.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Offense](../abilities/offense.md) | [Elves](ivor.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Melodia](melodia.md) | [Rampart](../towns/rampart.md) | :magic: Druid | [Luck](../abilities/luck.md) | [Fortune](melodia.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Mephala](mephala.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Leadership](../abilities/leadership.md) | [Armorer](mephala.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
+| [Tarnum](tarnum_rampart.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Leadership](../abilities/leadership.md) | [Sharpshooters](tarnum_rampart.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Adrienne](adrienne.md) | [Fortress](../towns/fortress.md) | :magic: Witch | [Wisdom](../abilities/wisdom.md) | [Fire Magic](adrienne.md#specialty) | [Fortress Expansion](../content/fortress_expansion.md) |
 | [Bron](bron.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](bron.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
 | [Gerwulf](gerwulf.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Armorer](mephala.md#specialty) | [Ballista](gerwulf.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |

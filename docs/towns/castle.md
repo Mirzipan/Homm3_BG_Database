@@ -38,6 +38,7 @@
 - :might: [Catherine](../heroes/catherine.md)
 - :magic: [Ingham](../heroes/ingham.md)
 - :might: [Lord Haart](../heroes/lord_haart_castle.md)
+- :might: [Tarnum](../heroes/tarnum_castle.md)
 - :magic: [Rion](../heroes/rion.md)
 - :might: [Valeska](../heroes/valeska.md)
 

@@ -40,6 +40,7 @@
 - :might: [Lorelei](../heroes/lorelei.md)
 - :might: [Mutare](../heroes/mutare.md)
 - :magic: [Sephinroth](../heroes/sephinroth.md)
+- :magic: [Tarnum](../heroes/tarnum_dungeon.md)
 
 
 ## Units

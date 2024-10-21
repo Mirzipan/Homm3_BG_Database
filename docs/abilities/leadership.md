@@ -17,6 +17,7 @@ ___
 
 - [:might: Catherine](../heroes/catherine.md)
 - [:might: Mephala](../heroes/mephala.md)
+- [:might: Tarnum (Rampart)](../heroes/tarnum_rampart.md)
 
 
 ## Comes With

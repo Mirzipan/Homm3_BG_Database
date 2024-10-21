@@ -37,7 +37,10 @@
 - :might: [Clancy](../heroes/clancy.md)
 - :might: [Gelu](../heroes/gelu.md)
 - :magic: [Gem](../heroes/gem.md)
+- :might: [Ivor](../heroes/ivor.md)
+- :magic: [Melodia](../heroes/melodia.md)
 - :might: [Mephala](../heroes/mephala.md)
+- :might: [Tarnum](../heroes/tarnum_rampart.md)
 
 
 ## Units
