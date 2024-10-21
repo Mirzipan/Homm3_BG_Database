@@ -9,13 +9,13 @@ ___
 
 ## Fields
 
-- Fountain of Youth
-- [Ⅴ](../difficulties.md) :valuables: [Mine](../fields.md#flaggable)
+- [Fountain of Youth](../fields/fountain_of_youth.md)
+- [Ⅴ](../difficulties.md) :valuables: [Mine](../fields/mine.md)
 - [Blocked Field](../keywords/blocked_field.md)
-- Obelisk
+- [Obelisk](../fields/obelisk.md)
 - [Trading Post](../trading.md)
-- [Ⅳ](../difficulties.md) [Treasure](../fields.md#visitable)
-- Witch Hut
+- [Ⅳ](../difficulties.md) [Treasure](../fields/treasure.md)
+- [Witch Hut](../fields/witch_hut.md)
 
 
 ## Comes With

@@ -9,13 +9,13 @@ ___
 
 ## Fields
 
-- [Stables](../fields.md#revisitable)
-- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields.md#flaggable)
-- [Windmill](../fields.md#visitable)
+- [Stables](../fields/stables.md)
+- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
+- [Windmill](../fields/windmill.md)
 - [Ⅱ](../difficulties.md) Hill Fort
 - [Trading Post](../trading.md)
 - [Blocked Field](../keywords/blocked_field.md)
-- Magic Spring
+- [Magic Spring](../fields/magic_spring.md)
 
 
 ## Comes With

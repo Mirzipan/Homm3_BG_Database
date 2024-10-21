@@ -9,13 +9,13 @@ ___
 
 ## Fields
 
-- [Ⅰ](../difficulties.md) :building_materials: [Mine](../fields.md#flaggable)
+- [Ⅰ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
 - [Blocked Field](../keywords/blocked_field.md)
 - [Empty Field](../keywords/empty_field.md)
 - [Tower Town](../towns/tower.md)
 - [Empty Field](../keywords/empty_field.md)
-- [Resources](../fields.md#visitable)
-- [Ⅰ](../difficulties.md) [Treasure](../fields.md#visitable)
+- [Resources](../fields/resources.md)
+- [Ⅰ](../difficulties.md) [Treasure](../fields/treasure.md)
 
 
 ## Comes With

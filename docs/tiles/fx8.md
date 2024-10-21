@@ -9,13 +9,13 @@ ___
 
 ## Fields
 
-- [Shrine of Magic Incantation](../spells/index.md)
-- [Stables](../fields.md#revisitable)
+- [Shrine of Magic Incantation](../fields/shrine_of_magic_incantation.md)
+- [Stables](../fields/stables.md)
 - [Blocked Field](../keywords/blocked_field.md)
-- [Ⅱ](../difficulties.md) [Resources](../fields.md#visitable)
+- [Ⅱ](../difficulties.md) [Resources](../fields/resources.md)
 - University
-- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields.md#flaggable)
-- Temple
+- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
+- [Temple](../fields/temple.md)
 
 
 ## Comes With

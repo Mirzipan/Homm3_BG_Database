@@ -11,11 +11,11 @@ ___
 
 - [Trading Post](../trading.md)
 - [Ⅱ](../difficulties.md) [Artifact](../artifacts/index.md)
-- [Resources](../fields.md#visitable)
+- [Resources](../fields/resources.md)
 - [Empty Field](../keywords/empty_field.md)
-- Learning Stone
+- [Learning Stone](../fields/learning_stone.md)
 - [Blocked Field](../keywords/blocked_field.md)
-- [Ⅲ](../difficulties.md) :gold: [Mine](../fields.md#flaggable)
+- [Ⅲ](../difficulties.md) :gold: [Mine](../fields/mine.md)
 
 
 ## Comes With

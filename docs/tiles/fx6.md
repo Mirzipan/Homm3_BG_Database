@@ -11,11 +11,11 @@ ___
 
 - [Trading Post](../trading.md)
 - [Blocked Field](../keywords/blocked_field.md)
-- [Ⅱ](../difficulties.md) [Treasure](../fields.md#visitable)
-- [Windmill](../fields.md#visitable)
-- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields.md#flaggable)
+- [Ⅱ](../difficulties.md) [Treasure](../fields/treasure.md)
+- [Windmill](../fields/windmill.md)
+- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
 - Library
-- Redwood Observatory
+- [Redwood Observatory](../fields/redwood_observatory.md)
 
 
 ## Comes With
