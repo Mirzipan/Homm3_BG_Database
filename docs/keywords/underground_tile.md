@@ -10,6 +10,11 @@
 ## Notes
 
 
+## Comes With
+
+- [Stronghold Expansion](../content/stronghold_expansion.md)
+
+
 ## See Also
 
 - [Starting Tile](starting_tile.md)

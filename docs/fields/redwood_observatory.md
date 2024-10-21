@@ -1,7 +1,13 @@
 # Redwood Observatory
 
+<figure markdown="span">
+
+![Redwood Observatory Map Location](../assets/locations-redwood_observatory.webp){ width="475" align=right }
+
+</figure>
+
 ___
-Visitable Field
+<p style="text-align: center;" markdown>[Visitable Field](..keywords/visitable_field.md)</p>
 ___
 Discover a face down [Tile](../tiles/index.md) adjacent to this one.
 ___

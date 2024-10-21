@@ -1,7 +1,13 @@
 # Water Wheel
 
+<figure markdown="span">
+
+![Water Wheel Map Location](../assets/locations-water_wheel.webp){ width="475" align=right }
+
+</figure>
+
 ___
-Visitable Field
+<p style="text-align: center;" markdown>[Visitable Field](..keywords/visitable_field.md)</p>
 ___
 Gain 3 :gold:.
 ___

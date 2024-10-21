@@ -1,7 +1,13 @@
 # Windmill
 
+<figure markdown="span">
+
+![Windmill Map Location](../assets/locations-windmill.webp){ width="475" align=right }
+
+</figure>
+
 ___
-Visitable Field
+<p style="text-align: center;" markdown>[Visitable Field](..keywords/visitable_field.md)</p>
 ___
 Gain 1 :valuables:.
 ___

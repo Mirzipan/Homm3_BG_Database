@@ -1,7 +1,13 @@
 # Temple
 
+<figure markdown="span">
+
+![Temple Map Location](../assets/locations-temple.webp){ width="475" align=right }
+
+</figure>
+
 ___
-Visitable Field
+<p style="text-align: center;" markdown>[Visitable Field](..keywords/visitable_field.md)</p>
 ___
 Gain :morale_positive: token.
 ___

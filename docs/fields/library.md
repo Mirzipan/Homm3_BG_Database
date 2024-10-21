@@ -1,7 +1,13 @@
 # Library
 
+<figure markdown="span">
+
+![Library Map Location](../assets/locations-library.webp){ width="475" align=right }
+
+</figure>
+
 ___
-Visitable Field
+<p style="text-align: center;" markdown>[Visitable Field](..keywords/visitable_field.md)</p>
 ___
 🚧
 ___
