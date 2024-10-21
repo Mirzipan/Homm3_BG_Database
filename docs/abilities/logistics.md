@@ -16,6 +16,7 @@ ___
 ## Heroes With Starting Ability
 
 - [:magic: Dessa](../heroes/dessa.md)
+- [:might: Miriam](../heroes/miriam.md)
 - [:might: Monere](../heroes/monere.md)
 
 

@@ -57,9 +57,11 @@ search:
 | [Monere](monere.md) | [Conflux](../towns/conflux.md) | :might: Planeswalker | [Logistics](../abilities/logistics.md) | [Magic Elementals](monere.md#specialty) | [Conflux Expansion](../content/conflux_expansion.md) |
 | [Pasis](pasis.md) | [Conflux](../towns/conflux.md) | :might: Planeswalker | [Artillery](../abilities/artillery.md) | [Magic Elementals](pasis.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Tarnum](tarnum_conflux.md) | [Conflux](../towns/conflux.md) | :magic: Elementalist | [Wisdom](../abilities/wisdom.md) | [🚧](tarnum_conflux.md#specialty) | [Conflux Expansion](../content/conflux_expansion.md) |
+| [Astra](astra.md) | [Cove](../towns/cove.md) | :magic: Navigator | [Luck](../abilities/luck.md) | [Cure](astra.md#specialty) [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Casmetra](casmetra.md) | [Cove](../towns/cove.md) | :magic: Navigator | [Wisdom](../abilities/wisdom.md) | [🚧](casmetra.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |
 | [Cassiopeia](cassiopeia.md) | [Cove](../towns/cove.md) | :might: Captain | [Tactics](../abilities/tactics.md) | [Oceanids](cassiopeia.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |
 | [Jeremy](jeremy.md) | [Cove](../towns/cove.md) | :might: Captain | [Offense](../abilities/offense.md) | [Cannon](jeremy.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |
+| [Miriam](miriam.md) | [Cove](../towns/cove.md) | :might: Captain | [Logistics](../abilities/logistics.md) | [Scouting](miriam.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Zilare](zilare.md) | [Cove](../towns/cove.md) | :magic: Navigator | [Interference](../abilities/interference.md) | [Forgetfulness](zilare.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |
 
 
