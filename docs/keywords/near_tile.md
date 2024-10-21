@@ -1,5 +1,7 @@
 # Near Tile
 
+Contains fields with Ⅳ-Ⅴ [difficulty](../difficulties.md).
+
 
 ## List of Near Tiles
 
@@ -23,3 +25,12 @@
 
 
 ## Notes
+
+
+## See Also
+
+- [Starting Tile](starting_tile.md)
+- [Far Tile](far_tile.md)
+- [Center Tile](center_tile.md)
+- [Underground Tile](underground_tile.md)
+- [Water Tile](water_tile.md)

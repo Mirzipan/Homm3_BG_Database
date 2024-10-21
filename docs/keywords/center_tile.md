@@ -1,5 +1,7 @@
 # Center Tile
 
+Contains fields with Ⅵ-Ⅶ [difficulty](../difficulties.md).
+
 
 ## List of Center Tiles
 
@@ -12,3 +14,12 @@
 
 
 ## Notes
+
+
+## See Also
+
+- [Starting Tile](starting_tile.md)
+- [Far Tile](far_tile.md)
+- [Near Tile](near_tile.md)
+- [Underground Tile](underground_tile.md)
+- [Water Tile](water_tile.md)
