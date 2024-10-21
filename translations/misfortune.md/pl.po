@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2024-10-18 16:54+0200\n"
+"POT-Creation-Date: 2024-10-21 12:24+0200\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -569,5 +569,5 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/misfortune.md
-msgid "Misfortune can not be played to negate effects of cards that were already played and have already instead the :attack: of the attacking unit. The players should mutually agree if they can no longer play Misfortune after the other effects were played, or if the opponent gets to take his played :attack:-enhacing cards back into their hand."
+msgid "Misfortune can not be played to negate effects of cards that were already played and have already instead the :attack: of the attacking unit. The players should mutually agree if they can no longer play Misfortune after the other effects were played, or if the opponent gets to take his played :attack:-enhancing cards back into their hand."
 msgstr ""
