@@ -201,7 +201,7 @@ msgstr ""
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Zawarty w"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -421,7 +421,7 @@ msgstr "Zobacz też"
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/first_aid_tent.md docs/towns/rampart.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Rozszerzenie Bastion](../content/rampart_expansion.md)"
 
 #. type: Plain text
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md

@@ -201,7 +201,7 @@ msgstr ""
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Zawarty w"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md

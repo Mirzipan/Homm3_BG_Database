@@ -218,7 +218,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Zawarty w"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -721,9 +721,8 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/fields/tree_of_knowledge.md docs/fields/university.md
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
-#, fuzzy
 msgid "[List of Tiles](../tiles/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Kafelków](../tiles/index.md)"
 
 #. type: Plain text
 #: docs/fields/black_market.md docs/fields/sanctuary.md docs/fields/stables.md

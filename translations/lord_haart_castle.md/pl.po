@@ -199,7 +199,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Zawarty w"
 
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md docs/abilities/earth_magic.md
@@ -490,9 +490,8 @@ msgstr "Zobacz też"
 #: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
-#, fuzzy
 msgid "[List of Towns](../towns/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Miast](../towns/index.md)"
 
 #. type: Plain text
 #: docs/heroes/adelaide.md docs/heroes/catherine.md docs/heroes/ingham.md

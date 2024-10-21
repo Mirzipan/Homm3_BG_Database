@@ -74,7 +74,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Uwagi"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -302,16 +302,21 @@ msgstr "[Lista Jednostek](units/index.md)"
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/major_artifact.md
 #: docs/keywords/relic_artifact.md
-#, fuzzy
 msgid "[Minor Artifact](minor_artifact.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Słaby Artefakt](minor_artifact.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md
 #, fuzzy
 msgid "[Relic Artifact](relic_artifact.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr ""
+"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
+"[Relikt](relic_artifact.md)\n"
+"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
+"[Lista Jednostek](units/index.md)\n"
+"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
+"[Lista Jednostek](units/index.md)"
 
 #. type: Title #
 #: docs/keywords/major_artifact.md

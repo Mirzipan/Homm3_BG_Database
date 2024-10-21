@@ -74,7 +74,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Uwagi"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -259,7 +259,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Zawarty w"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -482,7 +482,7 @@ msgstr "Zobacz też"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Rozszerzenie Bastion](../content/rampart_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/diplomacy.md
@@ -627,7 +627,7 @@ msgstr ""
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Astrologowie Ogłaszają](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -662,13 +662,13 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 msgid "[List of Astrologers Proclaim Cards](index.md)"
-msgstr ""
+msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #, no-wrap
 msgid "Charlie and his Circus"
-msgstr ""
+msgstr "Charliego i jego Cyrku"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -679,19 +679,19 @@ msgstr ""
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>At the beginning of this round and the next one, each player can draw up to 3 cards from any [Neutral Units](../units/index.md) deck(s) and **Recruit** one of them. The Players must still :pay: the recruitment cost and have the corresponding [Dwelling](../towns/index.md) in their [Town(s)](../towns/index.md). Shuffle the remaining cards back into their respective deck(s) afterwards.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Na początku tej i następnej rundy każdy gracz może dobrać do 3 kart z dowolnych talii [Jednostek Neutralnych](../units/indexm.d) i **Zrekrutować** jedną z tych jednostek. By to zrobić, gracz musi mieć w [Mieście](../towns.index.md) [Siedlisko](../towns.index.md) odpowiedniego poziomu i :pay: koszt Rekrutowania. Niezakupione karty należy wtasować z powrotem do odpowiednich talii.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*Hi, Hero! Don't you want a balloon? I, Hero, am Charlie, the Dancing Clown. There are orcs, trolls, and all sorts of surprises down here. And balloons, too, all colors!*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*Cześć, Bohaterze! Chcesz balonik? Jestem Charle, Tańczący Clown. Mam tu orków, trolle i inne niespodzianki. I baloniki we wszystkich kolorach!*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
 msgid ":azure: units may *not* be recruited via this card."
-msgstr ""
+msgstr "Tą kartą *nie można* zrekrutować :azure: jednostek."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -752,9 +752,8 @@ msgstr ""
 #: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
-#, fuzzy
 msgid "[List of Towns](../towns/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Miast](../towns/index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -764,6 +763,5 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
 #: docs/events/den_of_thieves.md docs/events/mercenary_camp.md
 #: docs/events/prison.md docs/towns/index.md docs/towns/neutral.md
-#, fuzzy
 msgid "[List of Units](../units/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Jednostek](../units/index.md)"

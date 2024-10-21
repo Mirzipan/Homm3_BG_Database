@@ -263,7 +263,7 @@ msgstr "Zobacz też"
 #: docs/abilities/index.md
 #, no-wrap
 msgid "List of Abilities"
-msgstr ""
+msgstr "Lista Zdolności"
 
 #. type: Plain text
 #: docs/abilities/index.md
@@ -305,7 +305,7 @@ msgstr ""
 #: docs/artifacts/index.md
 #, no-wrap
 msgid "List of Artifacts"
-msgstr ""
+msgstr "Lista Artefaktów"
 
 #. type: Plain text
 #: docs/artifacts/index.md
@@ -450,9 +450,8 @@ msgstr ""
 #: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
-#, fuzzy
 msgid "[List of Towns](../towns/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Miast](../towns/index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -462,9 +461,8 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
 #: docs/events/den_of_thieves.md docs/events/mercenary_camp.md
 #: docs/events/prison.md docs/towns/index.md docs/towns/neutral.md
-#, fuzzy
 msgid "[List of Units](../units/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Jednostek](../units/index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/forty_thieves.md
@@ -477,12 +475,12 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/astrologers_proclaim/index.md
 #, no-wrap
 msgid "Astrologers Proclaim"
-msgstr ""
+msgstr "Astrologowie Ogłaszają"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/index.md
 msgid "All of the cards start with a prefix of 'Astrologers proclaim week of the'. In the interest of readability, this prefix has been removed from the names in the following table."
-msgstr ""
+msgstr "Wszystkie karty zaczynają się słowami 'Astrologowie ogłaszają tydzień'. Dla czytelności pominięto je w spisie w poniższej tabeli."
 
 #. type: Plain text
 #: docs/astrologers_proclaim/index.md
@@ -537,7 +535,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/content/index.md
 #, no-wrap
 msgid "Content"
-msgstr ""
+msgstr "Zawartość"
 
 #. type: Plain text
 #: docs/content/index.md
@@ -563,7 +561,7 @@ msgstr ""
 #: docs/events/index.md
 #, no-wrap
 msgid "List of Events"
-msgstr ""
+msgstr "Lista Wydarzeń"
 
 #. type: Plain text
 #: docs/events/index.md
@@ -596,7 +594,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/events/index.md
 msgid "[List of Astrologers Proclaim Card](../astrologers_proclaim/index.md)"
-msgstr ""
+msgstr "[Lista Kart Astrologowie Ogłaszają](../astrologers_proclaim/index.md)"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -616,9 +614,8 @@ msgstr ""
 #: docs/fields/tree_of_knowledge.md docs/fields/university.md
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
-#, fuzzy
 msgid "[List of Tiles](../tiles/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Kafelków](../tiles/index.md)"
 
 #. type: Title ##
 #: docs/fields/index.md docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md
@@ -641,12 +638,12 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr ""
+msgstr "Pola"
 
 #. type: Plain text
 #: docs/fields/index.md
 msgid "Fields are single cells on a [tile](../tiles/index.md)."
-msgstr ""
+msgstr "Pole to pojedyncza komórka [Kafelka](../tiles/index.md)."
 
 #. type: Plain text
 #: docs/fields/index.md
@@ -697,7 +694,7 @@ msgstr ""
 #: docs/heroes/index.md
 #, no-wrap
 msgid "List of Heroes"
-msgstr ""
+msgstr "Lista Bohaterów"
 
 #. type: Plain text
 #: docs/heroes/index.md
@@ -773,16 +770,14 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/heroes/index.md
-#, fuzzy
-#| msgid "[List of Units](units/index.md)"
 msgid "[List of Towns](../towns/index.md)."
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Miast](../towns/index.md)"
 
 #. type: Title #
 #: docs/index.md
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Strona Główna"
 
 #. type: Title ##
 #: docs/index.md
@@ -878,40 +873,44 @@ msgstr ""
 #: docs/keywords/index.md
 #, no-wrap
 msgid "List of Keywords"
-msgstr ""
+msgstr "Lista słów kluczowych"
 
 #. type: Title ##
 #: docs/keywords/index.md
 #, no-wrap
 msgid "Cards"
-msgstr ""
+msgstr "Karty"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/major_artifact.md
 #: docs/keywords/relic_artifact.md
-#, fuzzy
 msgid "[Minor Artifact](minor_artifact.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Słaby Artefakt](minor_artifact.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/minor_artifact.md
 #: docs/keywords/relic_artifact.md
-#, fuzzy
 msgid "[Major Artifact](major_artifact.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Mocny Artefakt](major_artifact.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md
 #, fuzzy
 msgid "[Relic Artifact](relic_artifact.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr ""
+"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
+"[Relikt](relic_artifact.md)\n"
+"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
+"[Lista Jednostek](units/index.md)\n"
+"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
+"[Lista Jednostek](units/index.md)"
 
 #. type: Title ##
 #: docs/keywords/index.md
 #, no-wrap
 msgid "Effects"
-msgstr ""
+msgstr "Efekt"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md
@@ -922,7 +921,7 @@ msgstr ""
 #: docs/keywords/index.md
 #, no-wrap
 msgid "Unit Types"
-msgstr ""
+msgstr "Typy Jednostek"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md
@@ -990,24 +989,24 @@ msgstr ""
 #: docs/keywords/index.md
 #, no-wrap
 msgid "Map"
-msgstr ""
+msgstr "Mapa"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md
 msgid "[Blocked Field](blocked_field.md)"
-msgstr ""
+msgstr "[Zablokowane Pole](blocked_field.md)"
 
 #. type: Title #
 #: docs/scenarios/index.md
 #, no-wrap
 msgid "List of Scenarios"
-msgstr ""
+msgstr "Lista Scenariuszy"
 
 #. type: Title ##
 #: docs/scenarios/index.md
 #, no-wrap
 msgid "Clash"
-msgstr ""
+msgstr "Tryb Starcia"
 
 #. type: Plain text
 #: docs/scenarios/index.md
@@ -1033,7 +1032,7 @@ msgstr ""
 #: docs/scenarios/index.md
 #, no-wrap
 msgid "Campaign"
-msgstr ""
+msgstr "Kampania"
 
 #. type: Plain text
 #: docs/scenarios/index.md
@@ -1058,7 +1057,7 @@ msgstr ""
 #: docs/scenarios/index.md
 #, no-wrap
 msgid "Alliance"
-msgstr ""
+msgstr "Tryb Sojuszu"
 
 #. type: Plain text
 #: docs/scenarios/index.md
@@ -1080,7 +1079,7 @@ msgstr ""
 #: docs/scenarios/index.md
 #, no-wrap
 msgid "Cooperative"
-msgstr ""
+msgstr "Tryb Kooperacyjy"
 
 #. type: Plain text
 #: docs/scenarios/index.md
@@ -1147,7 +1146,7 @@ msgstr ""
 #: docs/spells/index.md
 #, no-wrap
 msgid "List of Spells"
-msgstr ""
+msgstr "Lista Zaklęć"
 
 #. type: Plain text
 #: docs/spells/index.md
@@ -1215,7 +1214,7 @@ msgstr ""
 #: docs/statistics/index.md
 #, no-wrap
 msgid "List of Statistics"
-msgstr ""
+msgstr "Lista Statystyk"
 
 #. type: Plain text
 #: docs/statistics/index.md
@@ -1242,7 +1241,7 @@ msgstr ""
 #: docs/tiles/index.md
 #, no-wrap
 msgid "Tiles"
-msgstr ""
+msgstr "Kafelki"
 
 #. type: Plain text
 #: docs/tiles/index.md
@@ -1331,7 +1330,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/towns/index.md
 #, no-wrap
 msgid "List of Towns"
-msgstr ""
+msgstr "Lista Miast"
 
 #. type: Plain text
 #: docs/towns/index.md
@@ -1355,7 +1354,7 @@ msgstr ""
 #: docs/units/index.md
 #, no-wrap
 msgid "List of Units"
-msgstr ""
+msgstr "Lista Jednostek"
 
 #. type: Plain text
 #: docs/units/index.md
@@ -1583,7 +1582,7 @@ msgstr ""
 #: docs/units/index.md
 #, no-wrap
 msgid "Other"
-msgstr ""
+msgstr "Pozostałe"
 
 #. type: Plain text
 #: docs/units/index.md
@@ -1603,7 +1602,7 @@ msgstr ""
 #: docs/war_machines/index.md
 #, no-wrap
 msgid "War Machines"
-msgstr ""
+msgstr "Machiny Wojenne"
 
 #. type: Plain text
 #: docs/war_machines/index.md

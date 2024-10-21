@@ -201,7 +201,7 @@ msgstr ""
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Zawarty w"
 
 #. type: Bullet: '- '
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/gold_dragons.md
@@ -491,9 +491,8 @@ msgstr "Zobacz też"
 #: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/dungeon.md
 #: docs/towns/conflux.md docs/towns/stronghold.md docs/towns/inferno.md
 #: docs/towns/cove.md docs/towns/castle.md
-#, fuzzy
 msgid "[List of Towns](../towns/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Miast](../towns/index.md)"
 
 #. type: Title ##
 #: docs/heroes/zydar.md docs/heroes/cassiopeia.md docs/heroes/adrienne.md

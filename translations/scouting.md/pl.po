@@ -237,7 +237,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Zawarty w"
 
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md docs/abilities/earth_magic.md

@@ -438,9 +438,8 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/fields/tree_of_knowledge.md docs/fields/university.md
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
-#, fuzzy
 msgid "[List of Tiles](../tiles/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Kafelków](../tiles/index.md)"
 
 #. type: Title #
 #: docs/fields/witch_hut.md

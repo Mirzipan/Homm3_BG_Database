@@ -218,7 +218,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Zawarty w"
 
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md docs/abilities/earth_magic.md
@@ -513,7 +513,7 @@ msgstr "Zobacz też"
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr ""
+msgstr "Pola"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/f16.md docs/tiles/f19.md

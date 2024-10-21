@@ -69,7 +69,7 @@ msgstr ""
 #: docs/keywords/permanent_effect.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Uwagi"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -256,7 +256,7 @@ msgstr ""
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Zawarty w"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
