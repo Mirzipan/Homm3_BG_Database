@@ -12,7 +12,7 @@
 
 - *Unreleased*
 - [Stronghold Faction](../towns/stronghold.md)
-- [Underground Tiles](../tiles.md#underground)
+- [Underground Tiles](../tiles/index.md)
 
 
 ## See Also
