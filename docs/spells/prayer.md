@@ -12,7 +12,7 @@ ___
 ## Notes
 
 - Prayer only increases one of the three values, the caster gets to choose which one.
-- Prayer can be cast at any point during the Combat as an *instant*. This way a player may increase the initiave of a unit outside of their turn, causing the turn order to be adjusted immediately.
+- Prayer can be cast at any point during the Combat as an *instant*. This way a player may increase the initiative of a unit outside of their turn, causing the turn order to be adjusted immediately.
 
 
 ## Comes With
