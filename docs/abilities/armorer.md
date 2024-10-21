@@ -15,6 +15,8 @@ ___
 
 ## Heroes With Starting Ability
 
+- [:might: Gerwulf](../heroes/gerwulf.md)
+- [:might: Tarnum](../heroes/tarnum_fortress.md)
 - [:might: Tazar](../heroes/tazar.md)
 
 

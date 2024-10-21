@@ -38,8 +38,11 @@ search:
 | [Melodia](melodia.md) | [Rampart](../towns/rampart.md) | :magic: Druid | [Luck](../abilities/luck.md) | [Fortune](melodia.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Mephala](mephala.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Leadership](../abilities/leadership.md) | [Armorer](mephala.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
 | [Adrienne](adrienne.md) | [Fortress](../towns/fortress.md) | :magic: Witch | [Wisdom](../abilities/wisdom.md) | [Fire Magic](adrienne.md#specialty) | [Fortress Expansion](../content/fortress_expansion.md) |
-| [Bron](bron.md) | [Tower](../towns/tower.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](bron.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
-| [Tazar](tazar.md) | [Tower](../towns/tower.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [War Hero](tazar.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
+| [Bron](bron.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](bron.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
+| [Gerwulf](gerwulf.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Armorer](mephala.md#specialty) | [Ballista](gerwulf.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
+| [Merist](merist.md) | [Fortress](../towns/fortress.md) | :magic: Witch | [First Aid](../abilities/first_aid.md) | [Stone Skin](merist.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
+| [Tarnum](tarnum_fortress.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [Basilisks](gerwulf.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
+| [Tazar](tazar.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [War Hero](tazar.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
 | [Wystan](wystan.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Archery](../abilities/archery.md) | [Lizardmen](wystan.md#specialty) | [Fortress Expansion](../content/fortress_expansion.md) |
 | [Ash](ash.md) | [Inferno](../towns/inferno.md) | :magic: Heretic | [Eagle Eye](../abilities/eagle_eye.md) | [Bloodlust](ash.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Fiona](fiona.md) | [Inferno](../towns/inferno.md) | :might: Demoniac | [Scouting](../abilities/scouting.md) | [Cerberi](fiona.md#specialty) | [Inferno Expansion](../content/inferno_expansion.md) |

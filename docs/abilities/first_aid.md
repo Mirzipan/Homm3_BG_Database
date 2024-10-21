@@ -16,6 +16,7 @@ ___
 ## Heroes With Starting Ability
 
 - [:magic: Gem](../heroes/gem.md)
+- [:magic: Merist](../heroes/merist.md)
 
 
 ## Notes

@@ -1,6 +1,6 @@
 # Ash
 
-<p style="text-align: center;" markdown>![Ash](../assets/heroes-inferno-magic-zydar.webp){ width=540 align=right }</p>
+<p style="text-align: center;" markdown>![Ash](../assets/player-deck-back.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Heretic](index.md)</p>
 ___
