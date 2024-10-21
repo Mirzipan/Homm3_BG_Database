@@ -11,7 +11,7 @@ search:
 - [^1] Ranged units may attack first, and then move. On the [large battlefield](../content/battlefield_expansion.md) they can either move or attack.
 - Should an enemy unit occupy any space that is adjacent to the ranged unit, the ranged unit can only attack the adjacent unit.
 - Should there be no enemy unit adjacent to the ranged unit, the ranged unit may attack an enemy unit anywhere on the battlefield.
-- [^1] Should the ranged attack originate in the back row of the battlefield and the attacked unit is in the oposite back row of the battlefield, a ranged penalty applies. On the [large battlefield](../content/battlefield_expansion.md), the ranged penalty applied when attackin a unit that is 8 or more hexes away.
+- [^1] Should the ranged attack originate in the back row of the battlefield and the attacked unit is in the opposite back row of the battlefield, a ranged penalty applies. On the [large battlefield](../content/battlefield_expansion.md), the ranged penalty applied when attacking a unit that is 8 or more hexes away.
 - There is no retaliation against a ranged attack. There is, however, retaliation if the ranged unit attacks a unit that is adjacent to it.
 
 

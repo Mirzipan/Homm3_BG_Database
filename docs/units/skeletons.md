@@ -40,7 +40,7 @@
 
 ## Notes
 
-- **Neutral** - A [Necropolis](../towns/necropolis.md) player can reinforce their :bronze: unit during ongoing Combat. Any damage present on the Few side of the unit is transfered to the Pack side.
+- **Neutral** - A [Necropolis](../towns/necropolis.md) player can reinforce their :bronze: unit during ongoing Combat. Any damage present on the Few side of the unit is transferred to the Pack side.
 - **Neutral** - The reinforcement is free and does not need to be paid.
 
 
