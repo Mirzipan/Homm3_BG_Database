@@ -9,13 +9,13 @@ ___
 
 ## Fields
 
-- Tree of Knowledge
-- Magic Spring
-- [Ⅴ](../difficulties.md) :gold: [Mine](../fields.md#flaggable)
-- [Stables](../fields.md#revisitable)
+- [Tree of Knowledge](../fields/tree_of_knowledge.md)
+- [Magic Spring](../fields/magic_spring.md)
+- [Ⅴ](../difficulties.md) :gold: [Mine](../fields/mine.md)
+- [Stables](../fields/stables.md)
 - [Blocked Field](../keywords/blocked_field.md)
-- Temple
-- [Windmill](../fields.md#visitable)
+- [Temple](../fields/temple.md)
+- [Windmill](../fields/windmill.md)
 
 
 ## Comes With

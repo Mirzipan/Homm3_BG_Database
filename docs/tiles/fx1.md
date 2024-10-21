@@ -10,12 +10,12 @@ ___
 ## Fields
 
 - [Empty Field](../keywords/empty_field.md)
-- [Windmill](../fields.md#visitable)
+- [Windmill](../fields/windmill.md)
 - [Ⅲ](../difficulties.md) [Tower Settlement](../towns/tower.md)
 - [Blocked Field](../keywords/blocked_field.md)
-- [Ⅱ](../difficulties.md) [Treasure](../fields.md#visitable)
-- [Stables](../fields.md#revisitable)
-- Witch Hut
+- [Ⅱ](../difficulties.md) [Treasure](../fields/treasure.md)
+- [Stables](../fields/stables.md)
+- [Witch Hut](../fields/witch_hut.md)
 
 
 ## Comes With

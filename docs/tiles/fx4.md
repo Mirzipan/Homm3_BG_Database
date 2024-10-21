@@ -9,10 +9,10 @@ ___
 
 ## Fields
 
-- Water Wheel
-- [Shrine of Magic Incantation](../spells/index.md)
-- Witch Hut
-- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields.md#flaggable)
+- [Water Wheel](../fields/water_wheel.md)
+- [Shrine of Magic Incantation](../fields/shrine_of_magic_incantation.md)
+- [Witch Hut](../fields/witch_hut.md)
+- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
 - [Blocked Field](../keywords/blocked_field.md)
 - [Trading Post](../trading.md)
 - [Ⅱ](../difficulties.md) Market of Time

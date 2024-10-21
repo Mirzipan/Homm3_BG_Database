@@ -9,11 +9,11 @@ ___
 
 ## Fields
 
-- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields.md#flaggable)
-- Temple
+- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
+- [Temple](../fields/temple.md)
 - Tavern
-- Redwood Observatory
-- [Ⅱ](../difficulties.md) Mystical Garden
+- [Redwood Observatory](../fields/redwood_observatory.md)
+- [Ⅱ](../difficulties.md) [Mystical Garden](../fields/mystical_garden.md)
 - [Ⅱ](../difficulties.md) [Artifact](../artifacts/index.md)
 - [Blocked Field](../keywords/blocked_field.md)
 

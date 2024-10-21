@@ -10,12 +10,12 @@ ___
 ## Fields
 
 - [Blocked Field](../keywords/blocked_field.md)
-- Redwood Observatory
-- [Ⅱ](../difficulties.md) Mystical Garden
-- [Ⅲ](../difficulties.md) :valuables: [Mine](../fields.md#flaggable)
-- [Shrine of Magic Incantation](../spells/index.md)
+- [Redwood Observatory](../fields/redwood_observatory.md)
+- [Ⅱ](../difficulties.md) [Mystical Garden](../fields/mystical_garden.md)
+- [Ⅲ](../difficulties.md) :valuables: [Mine](../fields/mine.md)
+- [Shrine of Magic Incantation](../fields/shrine_of_magic_incantation.md)
 - [Empty Field](../keywords/empty_field.md)
-- Water Wheel
+- [Water Wheel](../fields/water_wheel.md)
 
 
 ## Comes With

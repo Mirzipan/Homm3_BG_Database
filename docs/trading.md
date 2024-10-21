@@ -1,6 +1,6 @@
 # Trading
 
-Ratios when trading resources. Mostly used as an action at the [Trading Post](fields.md#revisitable).
+Ratios when trading resources. Mostly used as an action at the [Trading Post](fields/trading_post.md).
 
 | ↓ Sell / Buy → | :gold: | :building_materials: | :valuables: |
 | :---: | :---: | :---: | :---: |

@@ -11,11 +11,11 @@ ___
 
 - [Blocked Field](../keywords/blocked_field.md)
 - Black Market
-- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields.md#flaggable)
-- [Treasure](../fields.md#visitable)
-- [Ⅱ](../difficulties.md) Magic Spring
-- Water Wheel
-- Mystical Garden
+- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
+- [Treasure](../fields/treasure.md)
+- [Ⅱ](../difficulties.md) [Magic Spring](../fields/magic_spring.md)
+- [Water Wheel](../fields/water_wheel.md)
+- [Mystical Garden](../fields/mystical_garden.md)
 
 
 ## Comes With
