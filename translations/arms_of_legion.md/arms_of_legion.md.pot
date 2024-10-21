@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-10-18 16:54+0200\n"
+"POT-Creation-Date: 2024-10-21 12:24+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -600,7 +600,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md
 msgid ""
-"This artifact only recudes the recruitment cost, it does not allow for an "
+"This artifact only reduces the recruitment cost, it does not allow for an "
 "additional recruitment to take place. During a round in which the player "
 "already recruited units (their population marker is already turned over), "
 "the discount effect provides no benefit, as the player may no longer recruit."
