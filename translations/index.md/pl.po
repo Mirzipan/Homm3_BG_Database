@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2024-10-18 16:54+0200\n"
+"POT-Creation-Date: 2024-10-21 11:09+0000\n"
 "PO-Revision-Date: 2024-10-17 23:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -129,6 +129,22 @@ msgstr ""
 #: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
+#: docs/fields/2_resources.md docs/fields/artifact.md
+#: docs/fields/black_market.md docs/fields/dragon_utopia.md
+#: docs/fields/fountain_of_youth.md docs/fields/grail.md
+#: docs/fields/hill_fort.md docs/fields/index.md docs/fields/learning_stone.md
+#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/mine.md docs/fields/mystical_garden.md docs/fields/obelisk.md
+#: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
+#: docs/fields/redwood_observatory.md docs/fields/resources.md
+#: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/settlement.md
+#: docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md
+#: docs/fields/star_axis.md docs/fields/tavern.md docs/fields/temple.md
+#: docs/fields/town.md docs/fields/trading_post.md docs/fields/treasure.md
+#: docs/fields/tree_of_knowledge.md docs/fields/university.md
+#: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
+#: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
 #: docs/heroes/bron.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
 #: docs/heroes/catherine.md docs/heroes/ciele.md docs/heroes/clancy.md
@@ -173,17 +189,34 @@ msgstr ""
 #: docs/spells/town_portal.md docs/spells/view_air.md docs/spells/view_earth.md
 #: docs/spells/visions.md docs/spells/weakness.md docs/statistics/attack.md
 #: docs/statistics/defense.md docs/statistics/knowledge.md
-#: docs/statistics/power.md docs/towns/castle.md docs/towns/conflux.md
-#: docs/towns/cove.md docs/towns/dungeon.md docs/towns/fortress.md
-#: docs/towns/index.md docs/towns/inferno.md docs/towns/necropolis.md
-#: docs/towns/neutral.md docs/towns/rampart.md docs/towns/stronghold.md
-#: docs/towns/tower.md docs/units/air_elementals.md docs/units/arch_devils.md
-#: docs/units/archangels.md docs/units/arrow_tower.md docs/units/ayssids.md
-#: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
-#: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
-#: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
-#: docs/units/dendroids.md docs/units/diamond_golems.md
+#: docs/statistics/power.md docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md
+#: docs/tiles/c4.md docs/tiles/c5.md docs/tiles/cx1.md docs/tiles/f1.md
+#: docs/tiles/f10.md docs/tiles/f11.md docs/tiles/f12.md docs/tiles/f13.md
+#: docs/tiles/f14.md docs/tiles/f15.md docs/tiles/f16.md docs/tiles/f17.md
+#: docs/tiles/f18.md docs/tiles/f19.md docs/tiles/f2.md docs/tiles/f20.md
+#: docs/tiles/f21.md docs/tiles/f3.md docs/tiles/f4.md docs/tiles/f5.md
+#: docs/tiles/f6.md docs/tiles/f7.md docs/tiles/f8.md docs/tiles/f9.md
+#: docs/tiles/fx1.md docs/tiles/fx10.md docs/tiles/fx2.md docs/tiles/fx3.md
+#: docs/tiles/fx4.md docs/tiles/fx5.md docs/tiles/fx6.md docs/tiles/fx7.md
+#: docs/tiles/fx8.md docs/tiles/fx9.md docs/tiles/index.md docs/tiles/n1.md
+#: docs/tiles/n10.md docs/tiles/n11.md docs/tiles/n12.md docs/tiles/n13.md
+#: docs/tiles/n14.md docs/tiles/n2.md docs/tiles/n3.md docs/tiles/n4.md
+#: docs/tiles/n5.md docs/tiles/n6.md docs/tiles/n7.md docs/tiles/n8.md
+#: docs/tiles/n9.md docs/tiles/nx1.md docs/tiles/nx2.md docs/tiles/nx3.md
+#: docs/tiles/s1.md docs/tiles/s2.md docs/tiles/s3.md docs/tiles/s4.md
+#: docs/tiles/s5.md docs/tiles/s6.md docs/tiles/s7.md docs/tiles/s8.md
+#: docs/tiles/s9.md docs/tiles/sx1.md docs/tiles/u1.md docs/tiles/u2.md
+#: docs/tiles/w1.md docs/tiles/w2.md docs/tiles/w3.md docs/towns/castle.md
+#: docs/towns/conflux.md docs/towns/cove.md docs/towns/dungeon.md
+#: docs/towns/fortress.md docs/towns/index.md docs/towns/inferno.md
+#: docs/towns/necropolis.md docs/towns/neutral.md docs/towns/rampart.md
+#: docs/towns/stronghold.md docs/towns/tower.md docs/units/air_elementals.md
+#: docs/units/arch_devils.md docs/units/archangels.md docs/units/arrow_tower.md
+#: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
+#: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
+#: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
 #: docs/units/enchanters.md docs/units/energy_elementals.md
@@ -503,9 +536,9 @@ msgid ""
 "| [Rampart Expansion](rampart_expansion.md) | [Rampart Faction](../towns/rampart.md)<br>[War Machines](../war_machines/index.md) |\n"
 "| [Fortress Expansion](fortress_expansion.md) | [Fortress Faction](../towns/fortress.md)<br>[Events](../events/index.md) |\n"
 "| [Inferno Expansion](inferno_expansion.md) | [Inferno Faction](../towns/inferno.md)<br>Empowered [Statistics](../statistics/index.md) |\n"
-"| [Stronghold Expansion](stronghold_expansion.md) | *Upcoming Expansion*<br>[Stronghold Faction](../towns/stronghold.md)<br>[Underground Tiles](../tiles.md#underground) |\n"
+"| [Stronghold Expansion](stronghold_expansion.md) | *Upcoming Expansion*<br>[Stronghold Faction](../towns/stronghold.md)<br>[Underground Tiles](../tiles/index.md) |\n"
 "| [Conflux Expansion](conflux_expansion.md) | *Upcoming Expansion*<br>[Conflux Faction](../towns/conflux.md)<br>Monoliths |\n"
-"| [Cove Expansion](cove_expansion.md) | *Upcoming Expansion*<br>[Cove Faction](../towns/cove.md)<br>[Water Tiles](../tiles.md#water) |\n"
+"| [Cove Expansion](cove_expansion.md) | *Upcoming Expansion*<br>[Cove Faction](../towns/cove.md)<br>[Water Tiles](../tiles/index.md) |\n"
 "| [Battlefield Expansion](battlefield_expansion.md) | Hex Battlefield With Obstacles<br>Adventure<br>Positive Morale Cards<br>Negative Morale Cards |\n"
 "| [Azure Stretch Goals 2022](crystal_stretch_goals.md) | Props<br>Neutral Units<br>Faction Units<br> |\n"
 "| [Regular Stretch Goals 2024](regular_stretch_goals.md) | *Upcoming Expansion*<br>[Neutral Units](../towns/neutral.md)<br>[Extra Heroes](../heroes/index.md)<br>[Alternative Pack of Manticores](../units/manticores.md) |\n"
@@ -549,6 +582,99 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/events/index.md
 msgid "[List of Astrologers Proclaim Card](../astrologers_proclaim/index.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/fields/2_resources.md docs/fields/artifact.md
+#: docs/fields/black_market.md docs/fields/dragon_utopia.md
+#: docs/fields/fountain_of_youth.md docs/fields/grail.md
+#: docs/fields/hill_fort.md docs/fields/index.md docs/fields/learning_stone.md
+#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/mine.md docs/fields/mystical_garden.md docs/fields/obelisk.md
+#: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
+#: docs/fields/redwood_observatory.md docs/fields/resources.md
+#: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/settlement.md
+#: docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md
+#: docs/fields/star_axis.md docs/fields/tavern.md docs/fields/temple.md
+#: docs/fields/town.md docs/fields/trading_post.md docs/fields/treasure.md
+#: docs/fields/tree_of_knowledge.md docs/fields/university.md
+#: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
+#: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
+#, fuzzy
+msgid "[List of Tiles](../tiles/index.md)"
+msgstr "[Lista Jednostek](units/index.md)"
+
+#. type: Title ##
+#: docs/fields/index.md docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md
+#: docs/tiles/c4.md docs/tiles/c5.md docs/tiles/cx1.md docs/tiles/f1.md
+#: docs/tiles/f10.md docs/tiles/f11.md docs/tiles/f12.md docs/tiles/f13.md
+#: docs/tiles/f14.md docs/tiles/f15.md docs/tiles/f16.md docs/tiles/f17.md
+#: docs/tiles/f18.md docs/tiles/f19.md docs/tiles/f2.md docs/tiles/f20.md
+#: docs/tiles/f21.md docs/tiles/f3.md docs/tiles/f4.md docs/tiles/f5.md
+#: docs/tiles/f6.md docs/tiles/f7.md docs/tiles/f8.md docs/tiles/f9.md
+#: docs/tiles/fx1.md docs/tiles/fx10.md docs/tiles/fx2.md docs/tiles/fx3.md
+#: docs/tiles/fx4.md docs/tiles/fx5.md docs/tiles/fx6.md docs/tiles/fx7.md
+#: docs/tiles/fx8.md docs/tiles/fx9.md docs/tiles/n1.md docs/tiles/n10.md
+#: docs/tiles/n11.md docs/tiles/n12.md docs/tiles/n13.md docs/tiles/n14.md
+#: docs/tiles/n2.md docs/tiles/n3.md docs/tiles/n4.md docs/tiles/n5.md
+#: docs/tiles/n6.md docs/tiles/n7.md docs/tiles/n8.md docs/tiles/n9.md
+#: docs/tiles/nx1.md docs/tiles/nx2.md docs/tiles/nx3.md docs/tiles/s1.md
+#: docs/tiles/s2.md docs/tiles/s3.md docs/tiles/s4.md docs/tiles/s5.md
+#: docs/tiles/s6.md docs/tiles/s7.md docs/tiles/s8.md docs/tiles/s9.md
+#: docs/tiles/sx1.md docs/tiles/u1.md docs/tiles/u2.md docs/tiles/w1.md
+#: docs/tiles/w2.md docs/tiles/w3.md
+#, no-wrap
+msgid "Fields"
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/index.md
+msgid "Fields are single cells on a [tile](../tiles/index.md)."
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/index.md
+#, no-wrap
+msgid ""
+"| Name | Type | Effect |\n"
+"| :--- | :---: | :--- |\n"
+"| [Dragon Utopia](dragon_utopia.md) | Flaggable | Effects depend on the Scenario. |\n"
+"| [Mine](mine.md) | Flaggable | When flagged, increases the specific resource income (shown on the field). The first player to flag the Mine also gains its income immediately. There are following types of Mines:<br><br>+5 :gold: income<br>+2 :building_materials: income<br>+1 :valuables: income |\n"
+"| [Obelisk](obelisk.md) | Flaggable | Effects depend on the Scenario. When you Flag this Field, do not remove any enemy Faction Cubes; multiple players may have a [Faction](../towns/index.md) Cube on this Field. |\n"
+"| [Random Town](random_town.md) | Flaggable | When revealed, all players roll 2 [Resource dice](../dice.md#resource-die). The highest roller chooses an unused [Faction](../towns/index.md). The random [Town](../towns/index.md) is defended by [Units](../units/index.md) from that [Faction](../towns/index.md). They have a \"Pack\" of :bronze:, two \"Packs\" of :silver:, and two \"Fews\" of :golden: [Units](../units/index.md). The :bronze: [Unit](../units/index.md) is chosen by the player who controls the [Units](../units/index.md) during that Combat.<br><br>When flagged, increases :gold: income by 10. The first player to flag the [Town](../towns/index.md) also gains its income immediately. |\n"
+"| [Settlement](settlement.md) | Flaggable | Works as a spawn point for Secondary [Heroes](../heroes/index.md) or Main [Heroes](../heroes/index.md) that have been defeated.<br><br>Works the same way as a mine, but the player can choose which resource income to increase. The settlement is then marked with a token of the chosen resource.<br><br>— OR —<br><br>Reinforce one of your :bronze: or :silver: [Units](../units/index.md) immediately for half the cost, rounded up. The first player to flag the settlement Reinforces that [Unit](../units/index.md) for free. |\n"
+"| [Star Axis](star_axis.md) | Flaggable | You may Remove one of your [Statistic](../statistics/index.md) cards from your hand and replace it with an **Empowered** one of the same type. When you Flag this Field, do not remove any enemy Faction Cubes; multiple players may have a Faction Cube on this Field. |\n"
+"| [Town](town.md) | Flaggable | When flagged, the enemy Secondary [Heroes](../heroes/index.md) or Main [Heroes](../heroes/index.md) that have been defeated cannot spawn here.<br>Flagging an enemy town does prevent the enemy player from using it, nor does it grant any access to the [Town](../towns/index.md) board or [Faction Units](../units/index.md) to the player who flagged it.<br>Flagging a [Town](../towns/index.md) can cause Player Elimination win condition, and some scenarios may have extra rules and rewards attached to flagging [Towns](../towns/index.md). |\n"
+"| [2 Resources](2_resources.md) | Visitable | Roll 2 [Resource Dice](../dice.md#resource-die) and choose the bonus from one of them. |\n"
+"| [Artifact](artifact.md) | Visitable | **Search(2)** the [Artifact](../artifacts/index.md) Deck |\n"
+"| [Fountain of Youth](fountain_of_youth.md) | Visitable | Gain :morale_positive: token. Gain +1 :movement: for this turn. |\n"
+"| [Grail](grail.md) | Visitable | Gain a Grail Token. Only one Grail Token can exist in the game, do not gain another if this Field’s Black Cube is removed or if there are multiple Grail Fields. The Token’s effects are described in the Scenario’s description. |\n"
+"| [Hill Fort](hill_fort.md) | Visitable | You may immediately Reinforce one of your :bronze: or :silver: [Units](../units/index.md). The Reinforcement cost is reduced by 3 :gold: to a minimum of 0. |\n"
+"| [Learning Stone](learning_stone.md) | Visitable | Gain one :experience:. |\n"
+"| [Magic Spring](magic_spring.md) | Visitable | You may look at the top 3 Cards of your Discard Pile and return one of them to your Hand. Return the remaining cards to the top of your Discard Pile in any order. |\n"
+"| [Market of Time](market_of_time.md) | Visitable | Remove one card from your hand. Then **Search(2)** the [Ability](../abilities/index.md), [Spell](../spells/index.md), or [Artifact](../artifacts/index.md) Deck. |\n"
+"| [Mystical Garden](mystical_garden.md) | Visitable | Gain 2 :gold:.<br><br>— OR —<br><br>Gain 1 :valuables:. |\n"
+"| [Pandora's Box](pandoras_box.md) | Visitable | Roll 2 [Treasure Dice](../dice.md#treasure-die) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Resource Dice](../dice.md#resource-die) and choose 1 result to gain. |\n"
+"| [Prison](prison.md) | Visitable | Gain a Secondary [Hero](../heroes/index.md). Place their model on this Field. If you already have a Secondary [Hero](../heroes/index.md), gain 3 :gold: instead. |\n"
+"| [Redwood Observatory](redwood_observatory.md) | Visitable | Discover a face down [Tile](../tiles/index.md) adjacent to this one. |\n"
+"| [Resources](resources.md) | Visitable | Roll a [Resource Die](../dice.md#resource-die) and gain the indicated Resources. |\n"
+"| [Scholar](scholar.md) | Visitable | Roll 1 [Attack Die](../dice.md#attack-die). Depending on the result, do the following:<br><br>**+1** - Gain a [Statistic](../statistics/index.md) Card of your choice or Remove a [Statistic](../statistics/index.md) Card from your hand.<br><br>**0** - Draw 2 Cards from the [Ability](../abilities/index.md) Deck, gain one of them and discard the other.<br><br>**+1** - Draw 2 Cards from the [Spell](../spells/index.md) Deck, gain one of them and discard the other. |\n"
+"| [Shrine of Magic Gesture](shrine_of_magic_gesture.md) | Visitable | Pay :pay: 3 :gold: to **Search(2)** the [Spell](../spells/index.md) Deck. |\n"
+"| [Shrine of Magic Incantation](shrine_of_magic_incantation.md) | Visitable | **Search(2)** the [Spell](../spells/index.md) Deck. |\n"
+"| [Temple](temple.md) | Visitable | Gain :morale_positive: token. |\n"
+"| [Tree of Knowledge](tree_of_knowledge.md) | Visitable | You may :pay: 3 :valuables: or 10 :gold: to gain 2 :experience:. |\n"
+"| [University](university.md) | Visitable | :pay: 6 :gold: to **Search(4)** the [Ability](../abilities/index.md) Discard Pile |\n"
+"| [Warrior's Tomb](warriors_tomb.md) | Visitable | **Search(2)** [Artifacts](../artifacts/index.md) twice, then gain :morale_negative: token twice. |\n"
+"| [Water Wheel](water_wheel.md) | Visitable | Gain 3 :gold:. |\n"
+"| [Windmill](windmill.md) | Visitable | Gain 1 :valuables:. |\n"
+"| [Witch Hut](witch_hut.md) | Visitable | Choose one:<br><br>Remove an [Ability](../abilities/index.md) card from your hand<br><br>— OR —<br><br>look at the top card of the [Ability](../abilities/index.md) Deck and put that card into your hand or into the [Ability](../abilities/index.md) Deck Discard Pile. |\n"
+"| [Black Market](black_market.md) | Revisitable | Look at the top 4 cards from the [Artifact](../artifacts/index.md) Discard Pile. You may buy one of them for:<br><br>5 :gold: if it is a [Minor Artifact](../keywords/minor_artifact.md)<br>7 :gold: if it is a [Major Artifact](../keywords/major_artifact.md)<br>10 :gold: if it is a [Relic Artifact](../keywords/relic_artifact.md) |\n"
+"| [Sanctuary](sanctuary.md) | Revisitable | Heroes on this Field cannot be attacked by other [Heroes](../heroes/index.md). Friendly Heroes can move through enemy [Heroes](../heroes/index.md) on this Field but cannot stop here. |\n"
+"| [Stables](stables.md) | Revisitable | Gain +1 :movement: for this turn. |\n"
+"| [Tavern](tavern.md) | Revisitable | You can :pay: 7 :gold: to gain a Secondary [Hero](../heroes/index.md). Place their model on this Field. Then, choose one enemy player to discard 1 random card from their hand. |\n"
+"| [Trading Post](trading_post.md) | Revisitable | Choose one:<br><br>[Trade](../trading.md) resources<br><br>— OR —<br><br>Remove a card<br><br>— OR —<br><br>Buy a [War Machine](../war_machines/index.md) |\n"
+"| [War Machine Factory](war_machine_factory.md) | Revisitable | Buy a [War Machine](../war_machines/index.md) |\n"
 msgstr ""
 
 #. type: Title #
@@ -1085,6 +1211,95 @@ msgid ""
 "| [Knowledge](knowledge.md) | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. |\n"
 "| [Empowered Knowledge](knowledge.md) | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. | - |\n"
 msgstr ""
+
+#. type: Title #
+#: docs/tiles/index.md
+#, no-wrap
+msgid "Tiles"
+msgstr ""
+
+#. type: Plain text
+#: docs/tiles/index.md
+#, no-wrap
+msgid ""
+"| Identifier | Terrain | [Content](../content/index.md) |\n"
+"| :---: | :---: | :--- |\n"
+"| [S1](s1.md) | Dirt | [Core Game](../content/core_game.md) |\n"
+"| [S2](s2.md) | Subterranean | [Core Game](../content/core_game.md) |\n"
+"| [S3](s3.md) | Grass | [Core Game](../content/core_game.md) |\n"
+"| [S4](s4.md) | Grass | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [S5](s5.md) | Swamp | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [S6](s6.md) | Dirt | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [S7](s7.md) | Rough | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [S8](s8.md) | Grass | [Conflux Expansion](../content/conflux_expansion.md) |\n"
+"| [S9](s9.md) | Highlands | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [#S1](sx1.md) | Snow | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [F1](f1.md) | Dirt | [Core Game](../content/core_game.md) |\n"
+"| [F2](f2.md) | Subterranean | [Core Game](../content/core_game.md) |\n"
+"| [F3](f3.md) | Grass | [Core Game](../content/core_game.md) |\n"
+"| [F4](f4.md) | Dirt | [Core Game](../content/core_game.md) |\n"
+"| [F5](f5.md) | Subterranean | [Core Game](../content/core_game.md) |\n"
+"| [F6](f6.md) | Grass | [Core Game](../content/core_game.md) |\n"
+"| [F7](f7.md) | Dirt | [Core Game](../content/core_game.md) |\n"
+"| [F8](f8.md) | Subterranean | [Core Game](../content/core_game.md) |\n"
+"| [F9](f9.md) | Grass | [Core Game](../content/core_game.md) |\n"
+"| [F10](f10.md) | Grass | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [F11](f11.md) | Grass | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [F12](f12.md) | Grass | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [F13](f13.md) | Swamp | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [F14](f14.md) | Swamp | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [F15](f15.md) | Swamp | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [F16](f16.md) | Dirt | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [F17](f17.md) | Dirt | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [F18](f18.md) | Dirt | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [F19](f19.md) | Rough | 🚧 |\n"
+"| [F20](f20.md) | 🚧 | 🚧 |\n"
+"| [F21](f21.md) | Rough | 🚧 |\n"
+"| [#F1](fx1.md) | Snow | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [#F2](fx2.md) | Snow | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [#F3](fx3.md) | Snow | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [#F4](fx4.md) | Grass | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [#F5](fx5.md) | Subterranean | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [#F6](fx6.md) | Dirt | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [#F7](fx7.md) | Snow | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [#F8](fx8.md) | Grass | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [#F9](fx9.md) | Swamp | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [#F10](fx10.md) | Dirt | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [N1](n1.md) | Dirt | [Core Game](../content/core_game.md) |\n"
+"| [N2](n2.md) | Subterranean | [Core Game](../content/core_game.md) |\n"
+"| [N3](n3.md) | Grass | [Core Game](../content/core_game.md) |\n"
+"| [N4](n4.md) | Dirt | [Core Game](../content/core_game.md) |\n"
+"| [N5](n5.md) | Subterranean | [Core Game](../content/core_game.md) |\n"
+"| [N6](n6.md) | Grass | [Core Game](../content/core_game.md) |\n"
+"| [N7](n7.md) | Grass | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [N8](n8.md) | Grass | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [N9](n9.md) | Swamp | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [N10](n10.md) | Swamp | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [N11](n11.md) | Dirt | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [N12](n12.md) | Dirt | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [N13](n13.md) | Rough | 🚧 |\n"
+"| [N14](n14.md) | Rough | 🚧 |\n"
+"| [#N1](nx1.md) | Snow | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [#N2](nx2.md) | Snow | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [#N3](nx3.md) | Grass | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [C1](c1.md) | Subterranean | [Core Game](../content/core_game.md) |\n"
+"| [C2](c2.md) | Subterranean | [Core Game](../content/core_game.md) |\n"
+"| [C3](c3.md) | Grass | [Rampart Expansion](../content/rampart_expansion.md) |\n"
+"| [C4](c4.md) | Swamp | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [C5](c5.md) | Dirt | [Inferno Expansion](../content/inferno_expansion.md) |\n"
+"| [#C1](cx1.md) | Snow | [Tower Expansion](../content/tower_expansion.md) |\n"
+"| [U1](u1.md) | Subterranean | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [U2](u2.md) | Subterranean | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
+"| [W1](w1.md) | Water | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [W2](w2.md) | Water | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [W3](w3.md) | Water | [Cove Expansion](../content/cove_expansion.md) |\n"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/tiles/index.md
+#, fuzzy
+msgid "[List of Fields](../fields/index.md)"
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Title #
 #: docs/towns/index.md

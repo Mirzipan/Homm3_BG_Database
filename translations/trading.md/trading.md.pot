@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-10-17 23:44+0200\n"
+"POT-Creation-Date: 2024-10-21 11:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,7 +26,7 @@ msgstr ""
 #: docs/trading.md
 msgid ""
 "Ratios when trading resources. Mostly used as an action at the [Trading Post]"
-"(fields.md#revisitable)."
+"(fields/trading_post.md)."
 msgstr ""
 
 #. type: Plain text
