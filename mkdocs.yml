@@ -63,7 +63,7 @@ theme:
   font:
     text: Vollkorn
   icon:
-    repo: fontawesome/brands/git-alt 
+    repo: fontawesome/brands/git-alt
 
 extra_css:
   - stylesheets/extra.css
@@ -78,6 +78,19 @@ plugins:
   - exclude-search:
       exclude:
         - /*/index.md
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: pl
+          name: Polski
+          build: true
 
 repo_url: https://github.com/Mirzipan/Homm3_BG_Database
 repo_name: Mirzipan/Homm3_BG_Database

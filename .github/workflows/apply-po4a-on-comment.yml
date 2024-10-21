@@ -1,0 +1,85 @@
+name: Commit po4a changes
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: read
+  pull-requests: write
+  id-token: write
+  statuses: write
+
+env:
+  PO4A_VERSION: "0.73"
+  PO4A_GH_URL: https://github.com/mquinson/po4a/releases/download
+
+jobs:
+  commit-comment:
+    name: Commit po4a changes
+    if: (github.event.issue.pull_request && startsWith(github.event.comment.body, 'po4a commit'))
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: xt0rted/pull-request-comment-branch@v2
+        id: comment-branch
+
+      - name: Set up repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ steps.comment-branch.outputs.head_ref }}
+
+      - name: Check if user has write access
+        id: write_access
+        uses: prince-chrismc/check-actor-permissions-action@v3
+        with:
+          permission: write
+
+      - name: Generate entries in po4a.cfg
+        run: |
+          ./tools/generate_po4a_entries.sh
+          git diff --color=always
+
+      - name: Install po4a
+        run: |
+          sudo apt-get install -y po4a libsyntax-keyword-try-perl
+          wget --quiet ${{ env.PO4A_GH_URL }}/v${{ env.PO4A_VERSION }}/po4a-${{ env.PO4A_VERSION}}.tar.gz
+          export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
+          tar -xf ${PO4A_DIR}.tar.gz
+
+      - name: Run po4a
+        run: |
+          export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
+          export PERL5LIB="${PO4A_DIR}/lib:${PERL5LIB}"
+          ./${PO4A_DIR}/po4a --no-translations po4a.cfg
+          git diff --color=always translations
+
+      - name: Check git changes
+        run: git status --porcelain translations po4a.cfg | tee files.txt
+
+      - name: Add comment
+        run: |
+          if [[ -s files.txt ]]; then
+            # There are edited files
+            git config --global user.email "github-actions@github.com"
+            git config --global user.name "github-actions"
+            git add translations po4a.cfg
+            git commit -m "[Automatic] Add po4a updates"
+            git push
+            echo 'Changes committed successfully 🎉 Please update your local branch by running `git pull` 💻' >> body.txt
+            echo 'Bear in mind that I am a bot 🤖 so I cannot trigger workflows!' >> body.txt
+            echo 'Trigger them by pushing an empty commit: `git commit --allow-empty -m "Trigger workflows" && git push`.' >> body.txt
+          else
+            echo 'Nothing to commit, `po4a` run was clean ✨' >> body.txt
+          fi
+          gh pr comment ${{ steps.comment-branch.outputs.head_ref }} --body-file body.txt
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Comment about non-membership status
+        if: ${{ failure() && steps.write_access.conclusion == 'failure' }}
+        run: |
+          gh pr comment ${{ steps.comment-branch.outputs.head_ref }} --body "⛔ Sorry, only members with write access are allowed to run this action!"
+        env:
+          GH_TOKEN: ${{ github.token }}
