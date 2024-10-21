@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2024-10-21 17:38+0000\n"
+"POT-Creation-Date: 2024-10-21 19:00+0000\n"
 "PO-Revision-Date: 2024-10-21 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -664,7 +664,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/merist.md
 #, fuzzy, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Merist](../assets/player-deck-back.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Merist](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
 msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
@@ -674,12 +674,12 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/merist.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Stone Skin Ⅰ](../assets/hero_specialties-fortress-adrienne-1.webp){ width=\"340\" align=right }\n"
+"        ![Stone Skin Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/merist.md
@@ -688,12 +688,12 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/merist.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Stone Skin Ⅳ](../assets/hero_specialties-fortress-adrienne-4.webp){ width=\"340\" align=right }\n"
+"        ![Stone Skin Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/merist.md
@@ -702,9 +702,9 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/merist.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Stone Skin Ⅵ](../assets/hero_specialties-fortress-adrienne-7.webp){ width=\"340\" align=right }\n"
+"        ![Stone Skin Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"

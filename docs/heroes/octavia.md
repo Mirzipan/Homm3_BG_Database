@@ -1,6 +1,6 @@
 # Octavia
 
-<p style="text-align: center;" markdown>![Octavia](../assets/player-deck-back.webp){ width=540 align=right }</p>
+<p style="text-align: center;" markdown>![Octavia](../assets/player-deck-back.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Demoniac](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Gold Ⅰ"
 
     <figure markdown="span">
-        ![Gold Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width="340" align=right }
+        ![Gold Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Gold Ⅳ"
 
     <figure markdown="span">
-        ![Gold Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width="340" align=right }
+        ![Gold Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Gold Ⅵ"
 
     <figure markdown="span">
-        ![Gold Ⅵ](../assets/hero_specialties-inferno-fiona-7.webp){ width="340" align=right }
+        ![Gold Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

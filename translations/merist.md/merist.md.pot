@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-10-21 17:38+0000\n"
+"POT-Creation-Date: 2024-10-21 19:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -662,7 +662,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/merist.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Merist](../assets/player-deck-back.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Merist](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -675,7 +675,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Stone Skin Ⅰ](../assets/hero_specialties-fortress-adrienne-1.webp){ width=\"340\" align=right }\n"
+"        ![Stone Skin Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -689,7 +689,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Stone Skin Ⅳ](../assets/hero_specialties-fortress-adrienne-4.webp){ width=\"340\" align=right }\n"
+"        ![Stone Skin Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -703,6 +703,6 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Stone Skin Ⅵ](../assets/hero_specialties-fortress-adrienne-7.webp){ width=\"340\" align=right }\n"
+"        ![Stone Skin Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""

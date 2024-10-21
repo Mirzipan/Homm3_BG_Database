@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-10-21 17:38+0000\n"
+"POT-Creation-Date: 2024-10-21 19:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -658,7 +658,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/gerwulf.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Gerwulf](../assets/player-deck-back.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Gerwulf](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -673,11 +673,11 @@ msgid "=== \"Ballista Ⅰ\""
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/gerwulf.md
+#: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Ballista Ⅰ](../assets/hero_specialties-fortress-wystan-1.webp){ width=\"340\" align=right }\n"
+"        ![Ballista Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -687,11 +687,11 @@ msgid "=== \"Ballista Ⅳ\""
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/gerwulf.md
+#: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Ballista Ⅳ](../assets/hero_specialties-fortress-wystan-4.webp){ width=\"340\" align=right }\n"
+"        ![Ballista Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -701,10 +701,10 @@ msgid "=== \"Ballista Ⅵ\""
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/gerwulf.md
+#: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Ballista Ⅵ](../assets/hero_specialties-fortress-wystan-7.webp){ width=\"340\" align=right }\n"
+"        ![Ballista Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""

@@ -1,6 +1,6 @@
 # Ash
 
-<p style="text-align: center;" markdown>![Ash](../assets/player-deck-back.webp){ width=540 align=right }</p>
+<p style="text-align: center;" markdown>![Ash](../assets/player-deck-back.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Heretic](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Bloodlust Ⅰ"
 
     <figure markdown="span">
-        ![Bloodlust Ⅰ](../assets/hero_specialties-inferno-zydar-1.webp){ width="340" align=right }
+        ![Bloodlust Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Bloodlust Ⅳ"
 
     <figure markdown="span">
-        ![Bloodlust Ⅳ](../assets/hero_specialties-inferno-zydar-4.webp){ width="340" align=right }
+        ![Bloodlust Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 === "Bloodlust Ⅵ"
 
     <figure markdown="span">
-        ![Bloodlust Ⅵ](../assets/hero_specialties-inferno-zydar-7.webp){ width="340" align=right }
+        ![Bloodlust Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 
