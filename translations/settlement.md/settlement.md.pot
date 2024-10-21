@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-10-21 11:09+0000\n"
+"POT-Creation-Date: 2024-10-21 16:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -133,8 +133,9 @@ msgstr ""
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/index.md docs/fields/learning_stone.md
-#: docs/fields/magic_spring.md docs/fields/market_of_time.md
-#: docs/fields/mine.md docs/fields/mystical_garden.md docs/fields/obelisk.md
+#: docs/fields/library.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/mine.md
+#: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resources.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/settlement.md
@@ -164,8 +165,12 @@ msgstr ""
 #: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
 #: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
-#: docs/heroes/zydar.md docs/keywords/major_artifact.md
-#: docs/keywords/minor_artifact.md docs/keywords/relic_artifact.md
+#: docs/heroes/zydar.md docs/keywords/center_tile.md docs/keywords/far_tile.md
+#: docs/keywords/flaggable_field.md docs/keywords/major_artifact.md
+#: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
+#: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
+#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
 #: docs/spells/bless.md docs/spells/blind.md docs/spells/bloodlust.md
 #: docs/spells/chain_lightning.md docs/spells/counterstrike.md
@@ -255,8 +260,9 @@ msgstr ""
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/learning_stone.md
-#: docs/fields/magic_spring.md docs/fields/market_of_time.md
-#: docs/fields/mine.md docs/fields/mystical_garden.md docs/fields/obelisk.md
+#: docs/fields/library.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/mine.md
+#: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resources.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/settlement.md
@@ -275,8 +281,9 @@ msgstr ""
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/index.md docs/fields/learning_stone.md
-#: docs/fields/magic_spring.md docs/fields/market_of_time.md
-#: docs/fields/mine.md docs/fields/mystical_garden.md docs/fields/obelisk.md
+#: docs/fields/library.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/mine.md
+#: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resources.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/settlement.md
@@ -294,7 +301,8 @@ msgstr ""
 #: docs/fields/dragon_utopia.md docs/fields/mine.md docs/fields/obelisk.md
 #: docs/fields/random_town.md docs/fields/settlement.md
 #: docs/fields/star_axis.md docs/fields/town.md
-msgid "Flaggable Field"
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>[Flaggable Field](../keywords/flaggable_field.md)</p>\n"
 msgstr ""
 
 #. type: Title #
@@ -305,6 +313,104 @@ msgstr ""
 
 #. type: Plain text
 #: docs/fields/settlement.md
+msgid "=== \"Castle\""
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
 #, no-wrap
-msgid "Works as a spawn point for Secondary [Heroes](../heroes/index.md) or Main [Heroes](../heroes/index.md) that have been defeated.<br><br>Works the same way as a mine, but the player can choose which resource income to increase. The settlement is then marked with a token of the chosen resource.<br><br>— OR —<br><br>Reinforce one of your :bronze: or :silver: [Units](../units/index.md) immediately for half the cost, rounded up. The first player to flag the settlement Reinforces that [Unit](../units/index.md) for free.\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Castle Settlement](../assets/locations-castle_settlement.webp){ width=\"475\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+msgid "=== \"Necropolis\""
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+#, no-wrap
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Necropolis Settlement](../assets/locations-necropolis_settlement.webp){ width=\"475\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+msgid "=== \"Dungeon\""
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+#, no-wrap
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Dungeon Settlement](../assets/locations-dungeon_settlement.webp){ width=\"475\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+msgid "=== \"Tower\""
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+#, no-wrap
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Tower Settlement](../assets/locations-tower_settlement.webp){ width=\"475\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+msgid "=== \"Rampart\""
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+#, no-wrap
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Rampart Settlement](../assets/locations-rampart_settlement.webp){ width=\"475\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+msgid "=== \"Fortress\""
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+#, no-wrap
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Fortress Settlement](../assets/locations-fortress_settlement.webp){ width=\"475\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+msgid "=== \"Inferno\""
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+#, no-wrap
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Inferno Settlement](../assets/locations-inferno_settlement.webp){ width=\"475\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/fields/settlement.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>Works as a spawn point for Secondary [Heroes](../heroes/index.md) or Main [Heroes](../heroes/index.md) that have been defeated.<br><br>Works the same way as a mine, but the player can choose which resource income to increase. The settlement is then marked with a token of the chosen resource.<br><br>— OR —<br><br>Reinforce one of your :bronze: or :silver: [Units](../units/index.md) immediately for half the cost, rounded up. The first player to flag the settlement Reinforces that [Unit](../units/index.md) for free.</p>\n"
 msgstr ""
