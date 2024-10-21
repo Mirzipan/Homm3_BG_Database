@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2024-10-17 23:44+0200\n"
+"POT-Creation-Date: 2024-10-21 11:09+0000\n"
 "PO-Revision-Date: 2024-10-17 23:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -24,7 +24,7 @@ msgstr "Handel"
 
 #. type: Plain text
 #: docs/trading.md
-msgid "Ratios when trading resources. Mostly used as an action at the [Trading Post](fields.md#revisitable)."
+msgid "Ratios when trading resources. Mostly used as an action at the [Trading Post](fields/trading_post.md)."
 msgstr ""
 
 #. type: Plain text
