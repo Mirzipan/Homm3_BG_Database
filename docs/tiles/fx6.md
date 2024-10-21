@@ -1,7 +1,7 @@
 # #F6
 
 ___
-Far Tile
+[Far Tile](../keywords/far_tile.md)
 ___
 Dirt
 ___
@@ -14,7 +14,7 @@ ___
 - [Ⅱ](../difficulties.md) [Treasure](../fields/treasure.md)
 - [Windmill](../fields/windmill.md)
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
-- Library
+- [Library](../fields/library.md)
 - [Redwood Observatory](../fields/redwood_observatory.md)
 
 

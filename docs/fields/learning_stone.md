@@ -1,9 +1,15 @@
 # Learning Stone
 
+<figure markdown="span">
+
+![Learning Stone Map Location](../assets/locations-learning_stone.webp){ width="475" align=right }
+
+</figure>
+
 ___
-Visitable Field
+<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
-Gain one :experience:.
+<p style="text-align: center;" markdown>Gain one :experience:.</p>
 ___
 
 

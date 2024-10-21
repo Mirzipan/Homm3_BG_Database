@@ -1,7 +1,7 @@
 # #F5
 
 ___
-Far Tile
+[Far Tile](../keywords/far_tile.md)
 ___
 Subterranean
 ___
@@ -10,7 +10,7 @@ ___
 ## Fields
 
 - [Blocked Field](../keywords/blocked_field.md)
-- Black Market
+- [Black Market](../fields/black_market.md)
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
 - [Treasure](../fields/treasure.md)
 - [Ⅱ](../difficulties.md) [Magic Spring](../fields/magic_spring.md)

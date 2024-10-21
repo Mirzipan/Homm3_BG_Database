@@ -1,9 +1,15 @@
 # Fountain of Youth
 
+<figure markdown="span">
+
+![Fountain of Youth Map Location](../assets/locations-fountain_of_youth.webp){ width="475" align=right }
+
+</figure>
+
 ___
-Visitable Field
+<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
-Gain :morale_positive: token. Gain +1 :movement: for this turn.
+<p style="text-align: center;" markdown>Gain :morale_positive: token. Gain +1 :movement: for this turn.</p>
 ___
 
 

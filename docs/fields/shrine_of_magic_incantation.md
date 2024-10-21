@@ -1,9 +1,15 @@
 # Shrine of Magic Incantation
 
+<figure markdown="span">
+
+![Shrine of Magic Incantation Map Location](../assets/locations-shrine_of_magic_incantation.webp){ width="475" align=right }
+
+</figure>
+
 ___
-Visitable Field
+<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
-**Search(2)** the [Spell](../spells/index.md) Deck.
+<p style="text-align: center;" markdown>**Search(2)** the [Spell](../spells/index.md) Deck.</p>
 ___
 
 

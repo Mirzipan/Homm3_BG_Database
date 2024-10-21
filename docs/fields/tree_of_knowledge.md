@@ -1,9 +1,15 @@
 # Tree of Knowledge
 
+<figure markdown="span">
+
+![Tree of Knowledge Map Location](../assets/locations-tree_of_knowledge.webp){ width="475" align=right }
+
+</figure>
+
 ___
-Visitable Field
+<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
-You may :pay: 3 :valuables: or 10 :gold: to gain 2 :experience:.
+<p style="text-align: center;" markdown>You may :pay: 3 :valuables: or 10 :gold: to gain 2 :experience:.</p>
 ___
 
 

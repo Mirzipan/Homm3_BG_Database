@@ -1,9 +1,15 @@
 # 2 Resources
 
+<figure markdown="span">
+
+![2 Resources Map Location](../assets/locations-resource_symbol.webp){ width="475" align=right }
+
+</figure>
+
 ___
-Visitable Field
+<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
-Roll 2 [Resource Dice](../dice.md#resource-die) and choose the bonus from one of them.
+<p style="text-align: center;" markdown>Roll 2 [Resource Dice](../dice.md#resource-die) and choose the bonus from one of them.</p>
 ___
 
 

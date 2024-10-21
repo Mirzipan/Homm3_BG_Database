@@ -1,9 +1,15 @@
 # Stables
 
+<figure markdown="span">
+
+![Stables Map Location](../assets/locations-stables.webp){ width="475" align=right }
+
+</figure>
+
 ___
-Revisitable Field
+<p style="text-align: center;" markdown>[Revisitable Field](../keywords/revisitable_field.md)</p>
 ___
-Gain +1 :movement: for this turn.
+<p style="text-align: center;" markdown>Gain +1 :movement: for this turn.</p>
 ___
 
 
