@@ -436,7 +436,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, fuzzy
 msgid "[List of Fields](index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Pól](units/index.md)"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -458,4 +458,4 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, fuzzy
 msgid "[List of Tiles](../tiles/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Kafelków](units/index.md)"
