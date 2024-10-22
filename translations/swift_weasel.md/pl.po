@@ -638,7 +638,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/swift_weasel.md
 #, no-wrap
 msgid "Swift Weasel"
-msgstr ""
+msgstr "Rączej Łasicy"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/swift_weasel.md
@@ -649,10 +649,10 @@ msgstr ""
 #: docs/astrologers_proclaim/swift_weasel.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologer's round:<br><br>Once per turn, each player can reroll a [Treasure die](../dice.md#treasure-die) or a [Resource die](../dice.md#resource-die).</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów.<br><br>Raz w turze każdy gracz może przerzucić [kość Skarbów](../dice.md#treasure-die) albo [kość Zasobów](../dice.md#resource-die).</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/swift_weasel.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*You need cool rants for the victory dance.<br>Baboons are never better than weasels.<br><br>Your opponent reigns king in their mind.<br>They dream to be great as the weasely kind.<br><br>I am the Swift Weasel!*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*By gnollem być, szkielety musisz mieć<br>To żadna już tajemnica<br><br>Do sławy się ten Sandro znów pnie<br>Przez całe dnie Hełm Czaszki kradnie<br><br>Jam nie łasica, a kawał licza!*</p>\n"

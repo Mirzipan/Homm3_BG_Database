@@ -638,7 +638,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/profuse_growth.md
 #, no-wrap
 msgid "Profuse Growth"
-msgstr ""
+msgstr "Olbrzymiej Obfitości"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/profuse_growth.md
@@ -649,10 +649,10 @@ msgstr ""
 #: docs/astrologers_proclaim/profuse_growth.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round:<br><br>Your hand limit is increased by 1.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów.<br><br>Limit kart na ręce każdego gracza wzrasta o 1.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/profuse_growth.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*A horn of plenty spills from your hands into the starved lives of hundreds...*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*Twe ręce karmią wygłodniałe żywoty mas dobrodzejstwami rogu obfitości...*</p>\n"
