@@ -230,7 +230,7 @@ msgstr "Pochodzi z"
 #: docs/heroes/dracon.md docs/heroes/clancy.md docs/heroes/iona.md
 #: docs/heroes/jeddite.md docs/heroes/adelaide.md docs/towns/tower.md
 msgid "[Tower Expansion](../content/tower_expansion.md)"
-msgstr ""
+msgstr "[Rozszerzenie Forteca](../content/tower_expansion.md)"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md

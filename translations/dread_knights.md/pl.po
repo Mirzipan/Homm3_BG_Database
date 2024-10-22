@@ -537,7 +537,7 @@ msgstr "Zobacz też"
 #: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr ""
+msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 
 #. type: Link reference
 #: docs/artifacts/spellbinders_hat.md docs/astrologers_proclaim/explorers.md

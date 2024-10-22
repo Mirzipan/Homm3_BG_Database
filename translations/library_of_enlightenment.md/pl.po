@@ -448,9 +448,8 @@ msgstr ""
 #: docs/astrologers_proclaim/crazy_wizard.md docs/abilities/eagle_eye.md
 #: docs/abilities/resistance.md docs/abilities/mysticism.md
 #: docs/abilities/wisdom.md docs/abilities/intelligence.md
-#, fuzzy
 msgid "[List of Spells](../spells/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Zaklęć](../spells/index.md)"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md

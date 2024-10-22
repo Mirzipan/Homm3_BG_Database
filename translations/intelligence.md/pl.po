@@ -608,7 +608,7 @@ msgstr ""
 #: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr ""
+msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/eagle_eye.md docs/abilities/intelligence.md
@@ -624,9 +624,8 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/units/air_elementals.md
 #: docs/units/earth_elementals.md docs/units/fire_elementals.md
 #: docs/units/water_elementals.md
-#, fuzzy
 msgid "[List of Spells](../spells/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Zaklęć](../spells/index.md)"
 
 #. type: Title #
 #: docs/abilities/intelligence.md

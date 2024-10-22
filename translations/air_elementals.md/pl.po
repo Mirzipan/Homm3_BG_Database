@@ -476,9 +476,8 @@ msgstr "Zobacz też"
 #: docs/events/the_villagers_plea.md docs/units/air_elementals.md
 #: docs/units/earth_elementals.md docs/units/fire_elementals.md
 #: docs/units/water_elementals.md
-#, fuzzy
 msgid "[List of Spells](../spells/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Zaklęć](../spells/index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md

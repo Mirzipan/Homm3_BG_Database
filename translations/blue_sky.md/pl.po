@@ -230,7 +230,7 @@ msgstr "Pochodzi z"
 #: docs/heroes/dracon.md docs/heroes/clancy.md docs/heroes/iona.md
 #: docs/heroes/jeddite.md docs/heroes/adelaide.md docs/towns/tower.md
 msgid "[Tower Expansion](../content/tower_expansion.md)"
-msgstr ""
+msgstr "[Rozszerzenie Forteca](../content/tower_expansion.md)"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -446,9 +446,8 @@ msgstr "Zobacz też"
 #: docs/astrologers_proclaim/crazy_wizard.md docs/abilities/eagle_eye.md
 #: docs/abilities/resistance.md docs/abilities/mysticism.md
 #: docs/abilities/wisdom.md docs/abilities/intelligence.md
-#, fuzzy
 msgid "[List of Spells](../spells/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Zaklęć](../spells/index.md)"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -609,7 +608,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/blue_sky.md
 #, no-wrap
 msgid "Blue Sky"
-msgstr ""
+msgstr "Lodowej Burzy"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/blue_sky.md
@@ -620,10 +619,10 @@ msgstr ""
 #: docs/astrologers_proclaim/blue_sky.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round, all [:spellpower:](../spells/index.md) from the [Air Magic](../spells/school_of_air_magic.md) and [Water Magic](../spells/school_of_water_magic.md) Schools are cast at a +1 :empower:.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów. Wszystkie [:spellpower:](../spells/index.md) ze Szkół [Magii Powietrza](../spells/school_of_air_magic.md) i [Wody](../spells/school_of_water_magic.md) otrzymują +1 :empower:.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/blue_sky.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*Hey Elemental Faces<br>Welcome to the Enroth Races<br>A celebration, Blue Sky's up there waiting<br>And now is the day we've waited for*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*A Sylvia wnet zapięła płaszcz,<br>Zaklęła: - Ech, do czarta!<br>Regańska flota nie ma szans!<br>Ten sztorm to dzieło Kalta!*</p>\n"
