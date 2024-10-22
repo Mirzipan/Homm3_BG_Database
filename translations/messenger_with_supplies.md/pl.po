@@ -533,9 +533,8 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/relic_artifact.md
-#, fuzzy
 msgid "[List of Artifacts](../artifacts/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Artefaktów](../artifacts/index.md)"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md

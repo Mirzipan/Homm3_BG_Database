@@ -638,7 +638,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/white_raven.md
 #, no-wrap
 msgid "White Raven"
-msgstr ""
+msgstr "Białego Kruka"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/white_raven.md
@@ -649,10 +649,10 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Each player immediately rolls 1 [Resource die](../dice.md#resource-die) and gains the rolled resources.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Każdy gracz natychmiast rzuca 1 kością Zasobów i rozpatruje jej wynik.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/white_raven.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*\"Where do you go, fantastic dream bird?\"<br>\"Eeofol, Deyja, Place Between Planes... Still interested?\"*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*— Dokąd pomykasz ptaszyno z mych snów?<br>— Do Eeofolu, Deyji, Wymiaru między wymiarami... A co, chcesz się przelecieć?*</p>\n"

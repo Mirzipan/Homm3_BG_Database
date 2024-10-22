@@ -674,19 +674,18 @@ msgstr ""
 #: docs/astrologers_proclaim/annoying_lizard.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Each player must shuffle all [Artifact](../artifacts/index.md) and [Spell](../spells/index.md) cards from their hand back into their deck and draw the same number of cards from the top of their deck of Might and Magic.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Każdy gracz musi wtasować wszystkie karty [Artefaktów](../artifacts/index.md) i [Zaklęć](../spells/index.md) z ręki do swojej talii M&M, a następnie dobrać taką samą liczbę kart z wierzchu swojej talii M&M.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/annoying_lizard.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*Hey, Hero! Hero! Hey, Hero! Hero! Hey!*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*Tej, Bohaterze! Bohaterze! Tej, Bohaterze! Bohaterze! Tej!*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/annoying_lizard.md docs/events/a_shady_auction.md
 #: docs/events/artifact_merchant.md docs/events/magical_forest.md
 #: docs/events/market_of_time.md docs/events/messenger_with_supplies.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#, fuzzy
 msgid "[List of Artifacts](../artifacts/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Artefaktów](../artifacts/index.md)"
