@@ -625,4 +625,4 @@ msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej r
 #: docs/astrologers_proclaim/blue_sky.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*Hey Elemental Faces<br>Welcome to the Enroth Races<br>A celebration, Blue Sky's up there waiting<br>And now is the day we've waited for*</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>*A Sylvia wnet zapięła płaszcz,<br>Zaklęła: - Ech, do czarta!<br>Regańska flota nie ma szans!<br>Ten sztorm to dzieło Kalta!*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*A Sylvia wnet zapięła płaszcz,<br>Zaklęła: — Ech, do czarta!<br>Regańska flota nie ma szans!<br>Ten sztorm to dzieło Kalta!*</p>\n"

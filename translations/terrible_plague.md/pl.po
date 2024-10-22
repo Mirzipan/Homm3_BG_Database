@@ -657,7 +657,7 @@ msgstr "[Lista Jednostek](../units/index.md)"
 #: docs/astrologers_proclaim/terrible_plague.md
 #, no-wrap
 msgid "Terrible Plague"
-msgstr ""
+msgstr "Paskudnej Plagi"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/terrible_plague.md
@@ -668,10 +668,10 @@ msgstr ""
 #: docs/astrologers_proclaim/terrible_plague.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>All players flip one of their [units](../units/index.md) from the \"Pack\" to the \"Few\" side, if possible.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Wszyscy gracze odwracają kartę wybranej [jednostki](../units/index.md) ze strony \"Grupy\" na stronę \"Garstki\", jeśli to możliwe.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/terrible_plague.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*All populations are halved.<br>Snap.*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*Pstryk! Ginie połowa populacji.*</p>\n"
