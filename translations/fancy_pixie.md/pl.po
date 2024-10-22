@@ -638,7 +638,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/fancy_pixie.md
 #, no-wrap
 msgid "Fancy Pixie"
-msgstr ""
+msgstr "Fikuśnej Nimfy"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/fancy_pixie.md
@@ -649,10 +649,10 @@ msgstr ""
 #: docs/astrologers_proclaim/fancy_pixie.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Each player immediately gains 1 :morale_positive:</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Każdy gracz natychmiast otrzymuje 1 :morale_positive:</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/fancy_pixie.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>*I decided to take, into my own hands, fate.<br>This was the first time for love, I made.<br>We were young, I was the moment's owner.<br>We went out on a data to Skeleton Transformer.<br>Her heart is on my sleeve, we know each other, thoroughly.<br>I've looked right through her, I know every bone of she.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*I decided to take, into my own hands, fate.<br>This was the first time for love, I made.<br>We were young, I was the moment's owner.<br>We went out on a date to Skeleton Transformer.<br>Her heart is on my sleeve, we know each other, thoroughly.<br>I've looked right through her, I know every bone of she.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Więc postanowiłem los wziąc w swoje ręce,<br>W ten sposób zdobyłem po raz pierwszy czyjeś serce,<br>Byliśmy młodzi i byliśmy wolni,<br>Poszliśmy na randkę do mej szkieletorni<br>Jej serce mam w kieszeni, my znamy się na wskroś,<br>Przejrzałem ją na wylot, znam jej każdą kość!*</p>\n"

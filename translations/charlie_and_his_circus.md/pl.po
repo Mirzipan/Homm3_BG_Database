@@ -679,7 +679,7 @@ msgstr ""
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>At the beginning of this round and the next one, each player can draw up to 3 cards from any [Neutral Units](../units/index.md) deck(s) and **Recruit** one of them. The Players must still :pay: the recruitment cost and have the corresponding [Dwelling](../towns/index.md) in their [Town(s)](../towns/index.md). Shuffle the remaining cards back into their respective deck(s) afterwards.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Na początku tej i następnej rundy każdy gracz może dobrać do 3 kart z dowolnych talii [Jednostek Neutralnych](../units/indexm.d) i **Zrekrutować** jedną z tych jednostek. By to zrobić, gracz musi mieć w [Mieście](../towns.index.md) [Siedlisko](../towns.index.md) odpowiedniego poziomu i :pay: koszt Rekrutowania. Niezakupione karty należy wtasować z powrotem do odpowiednich talii.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Na początku tej i następnej rundy każdy gracz może dobrać do 3 kart z dowolnych talii [Jednostek Neutralnych](../units/index.md) i **Zrekrutować** jedną z tych jednostek. By to zrobić, gracz musi mieć w [Mieście](../towns/index.md) [Siedlisko](../towns/index.md) odpowiedniego poziomu i :pay: koszt Rekrutowania. Niezakupione karty należy wtasować z powrotem do odpowiednich talii.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/charlie_and_his_circus.md

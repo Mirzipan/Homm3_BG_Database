@@ -663,7 +663,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/annoying_lizard.md
 #, no-wrap
 msgid "Annoying Lizard"
-msgstr ""
+msgstr "Wkurzającej Jaszczurki"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/annoying_lizard.md

@@ -483,7 +483,7 @@ msgstr "[Rozszerzenie Bastion](../content/rampart_expansion.md)"
 #: docs/war_machines/first_aid_tent.md docs/war_machines/cannon.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[War Machine](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Machina Wojenna](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
