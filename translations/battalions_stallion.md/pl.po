@@ -638,7 +638,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/battalions_stallion.md
 #, no-wrap
 msgid "Battalion's Stallion"
-msgstr ""
+msgstr "Ważkiego Ogiera"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/battalions_stallion.md
@@ -649,10 +649,10 @@ msgstr ""
 #: docs/astrologers_proclaim/battalions_stallion.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów.<br><br>Każdy Bohater zyskuje 1 PR.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/battalions_stallion.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*\"Yo, Adrienne, I did it!\"*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*Hej, Adrienne, udało mi się!*</p>\n"
