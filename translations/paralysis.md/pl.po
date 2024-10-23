@@ -69,7 +69,7 @@ msgstr ""
 #: docs/keywords/permanent_effect.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Uwagi"
 
 #. type: Title #
 #: docs/keywords/paralysis.md

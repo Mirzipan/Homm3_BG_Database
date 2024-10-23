@@ -71,7 +71,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Uwagi"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -256,7 +256,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Pochodzi z"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -473,9 +473,8 @@ msgstr "Zobacz też"
 #: docs/events/the_villagers_plea.md docs/units/air_elementals.md
 #: docs/units/earth_elementals.md docs/units/fire_elementals.md
 #: docs/units/water_elementals.md
-#, fuzzy
 msgid "[List of Spells](../spells/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Zaklęć](../spells/index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -536,9 +535,8 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
-#, fuzzy
 msgid "[List of Towns](../towns/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Miast](../towns/index.md)"
 
 #. type: Bullet: '- '
 #: docs/heroes/erdamon.md docs/heroes/luna.md docs/heroes/monere.md

@@ -1,4 +1,4 @@
-# Ammo Cart
+# Ammo&nbsp;Cart
 
 <figure markdown="span">
 

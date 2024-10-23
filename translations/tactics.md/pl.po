@@ -237,7 +237,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Pochodzi z"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -551,7 +551,7 @@ msgstr ""
 #: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr ""
+msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 
 #. type: Title #
 #: docs/abilities/tactics.md

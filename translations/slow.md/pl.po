@@ -69,7 +69,7 @@ msgstr ""
 #: docs/keywords/permanent_effect.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Uwagi"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -256,7 +256,7 @@ msgstr ""
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Pochodzi z"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -532,7 +532,7 @@ msgstr "Zobacz też"
 #: docs/heroes/rion.md docs/heroes/sandro.md docs/towns/necropolis.md
 #: docs/towns/dungeon.md docs/towns/castle.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr ""
+msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 
 #. type: Link reference
 #: docs/astrologers_proclaim/charlie_and_his_circus.md

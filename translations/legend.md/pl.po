@@ -26,13 +26,13 @@ msgstr "Kości"
 #: docs/fields/resources.md docs/legend.md
 #, no-wrap
 msgid "Resources"
-msgstr ""
+msgstr "Zasoby"
 
 #. type: Title #
 #: docs/legend.md
 #, no-wrap
 msgid "Legend"
-msgstr ""
+msgstr "Legenda"
 
 #. type: Plain text
 #: docs/legend.md
@@ -46,7 +46,7 @@ msgstr ""
 #: docs/towns/stronghold.md docs/towns/tower.md
 #, no-wrap
 msgid "Units"
-msgstr ""
+msgstr "Jednostki"
 
 #. type: Plain text
 #: docs/legend.md
@@ -74,7 +74,7 @@ msgstr ""
 #: docs/legend.md
 #, no-wrap
 msgid "Factions"
-msgstr ""
+msgstr "Frakcje"
 
 #. type: Plain text
 #: docs/legend.md
@@ -89,7 +89,7 @@ msgstr ""
 #: docs/legend.md
 #, no-wrap
 msgid "Effects And Abilities"
-msgstr ""
+msgstr "Efekty i Zdolności"
 
 #. type: Plain text
 #: docs/legend.md
@@ -113,7 +113,7 @@ msgstr ""
 #: docs/legend.md
 #, no-wrap
 msgid "Card Types"
-msgstr ""
+msgstr "Typy Kart"
 
 #. type: Plain text
 #: docs/legend.md
@@ -150,7 +150,7 @@ msgstr ""
 #: docs/legend.md
 #, no-wrap
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Pozostałe"
 
 #. type: Plain text
 #: docs/legend.md

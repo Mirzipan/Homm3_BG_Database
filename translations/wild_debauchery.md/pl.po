@@ -201,7 +201,7 @@ msgstr ""
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Pochodzi z"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -477,7 +477,7 @@ msgstr "Zobacz też"
 #: docs/heroes/rion.md docs/heroes/sandro.md docs/towns/necropolis.md
 #: docs/towns/dungeon.md docs/towns/castle.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr ""
+msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -599,7 +599,7 @@ msgstr ""
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Astrologowie Ogłaszają](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/groovy_satyr.md
@@ -632,7 +632,7 @@ msgstr ""
 #: docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/gold_dragon.md
 msgid "[List of Astrologers Proclaim Cards](index.md)"
-msgstr ""
+msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/wild_debauchery.md

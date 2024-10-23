@@ -218,7 +218,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Pochodzi z"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -539,7 +539,7 @@ msgstr "Zobacz też"
 #: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr ""
+msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 
 #. type: Title ##
 #: docs/fields/index.md docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md
@@ -562,7 +562,7 @@ msgstr ""
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr ""
+msgstr "Pola"
 
 #. type: Bullet: '- '
 #: docs/keywords/revisitable_field.md docs/tiles/c4.md docs/tiles/c5.md

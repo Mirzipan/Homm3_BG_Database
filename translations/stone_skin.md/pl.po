@@ -201,7 +201,7 @@ msgstr ""
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Pochodzi z"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -477,7 +477,7 @@ msgstr "Zobacz też"
 #: docs/heroes/rion.md docs/heroes/sandro.md docs/towns/necropolis.md
 #: docs/towns/dungeon.md docs/towns/castle.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr ""
+msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/bloodlust.md docs/spells/visions.md docs/spells/fireball.md

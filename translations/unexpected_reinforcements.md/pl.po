@@ -71,7 +71,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Uwagi"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -256,7 +256,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Pochodzi z"
 
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md docs/abilities/earth_magic.md
@@ -285,7 +285,7 @@ msgstr ""
 #: docs/units/iron_golems.md docs/units/magi.md docs/units/nagas.md
 #: docs/units/titans.md
 msgid "[Tower Expansion](../content/tower_expansion.md)"
-msgstr ""
+msgstr "[Rozszerzenie Forteca](../content/tower_expansion.md)"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -614,7 +614,7 @@ msgstr ""
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Astrologowie Ogłaszają](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -649,13 +649,13 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 msgid "[List of Astrologers Proclaim Cards](index.md)"
-msgstr ""
+msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
 msgid ":azure: units may *not* be recruited via this card."
-msgstr ""
+msgstr "Tą kartą *nie można* zrekrutować :azure: jednostek."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -716,9 +716,8 @@ msgstr ""
 #: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
-#, fuzzy
 msgid "[List of Towns](../towns/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Miast](../towns/index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -728,9 +727,8 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
 #: docs/events/den_of_thieves.md docs/events/mercenary_camp.md
 #: docs/events/prison.md docs/towns/index.md docs/towns/neutral.md
-#, fuzzy
 msgid "[List of Units](../units/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Jednostek](../units/index.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
