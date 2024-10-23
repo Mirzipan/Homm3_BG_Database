@@ -52,7 +52,7 @@ jobs:
         run: |
           export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
           export PERL5LIB="${PO4A_DIR}/lib:${PERL5LIB}"
-          ./${PO4A_DIR}/po4a --no-translations po4a.cfg
+          for _ in `seq 2`; do ./${PO4A_DIR}/po4a --no-translations po4a.cfg; done
           git diff --color=always translations
 
       - name: Check git changes
