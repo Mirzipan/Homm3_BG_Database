@@ -6,7 +6,7 @@
     <a href="https://discord.gg/Y4uM9pPWF6"><img src="https://dcbadge.limes.pink/api/server/Y4uM9pPWF6"></a>
   </p>
 
-  <h1><a href="homm3bg.wiki/">👉 GO TO THE WEBSITE 👈</a></h1>
+  <h1><a href="https://homm3bg.wiki/">👉 GO TO THE WEBSITE 👈</a></h1>
 </div>
 
 ## ⚔️ What Is This?
