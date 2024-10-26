@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Heroes of Might & Magic III: The Board Game<br>Cards Darabase</h1>
+  <h1>Heroes of Might & Magic III: The Board Game<br>Cards Database</h1>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white">
