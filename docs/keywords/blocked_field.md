@@ -1,5 +1,6 @@
 # Blocked Field
 
+
 ## Notes
 
 - A blocked field is fully enclosed by a thick border and heroes are not allowed to enter it in general.

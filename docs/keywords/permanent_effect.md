@@ -1,5 +1,6 @@
 # Permanent Effect
 
+
 ## Notes
 
 - A card with a permanent effect is played from hand, just like any other card. The cards stays on the field after being played, its effect lasting continuously, and it does not go to the discard pile.

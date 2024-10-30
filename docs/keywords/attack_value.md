@@ -1,2 +1,4 @@
 # :attack: Attack Value
 
+
+## Notes
