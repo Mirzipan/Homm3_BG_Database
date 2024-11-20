@@ -577,9 +577,8 @@ msgstr "Zobacz też"
 #: docs/abilities/scholar.md docs/abilities/scouting.md
 #: docs/abilities/sorcery.md docs/abilities/tactics.md
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
-#, fuzzy
 msgid "[List of Abilities](index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Zdolności](index.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md

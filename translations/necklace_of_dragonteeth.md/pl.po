@@ -476,9 +476,8 @@ msgstr ""
 #: docs/artifacts/torso_of_legion.md
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
-#, fuzzy
 msgid "[List of Artifacts](index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Artefaktów](index.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/celestial_necklace_of_bliss.md
