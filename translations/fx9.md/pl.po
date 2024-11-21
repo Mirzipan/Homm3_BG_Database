@@ -575,9 +575,8 @@ msgstr ""
 #: docs/tiles/s7.md docs/tiles/s8.md docs/tiles/s9.md docs/tiles/sx1.md
 #: docs/tiles/u1.md docs/tiles/u2.md docs/tiles/w1.md docs/tiles/w2.md
 #: docs/tiles/w3.md
-#, fuzzy
 msgid "[List of Tiles](index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Kafelków](index.md)"
 
 #. type: Plain text
 #: docs/tiles/c4.md docs/tiles/f13.md docs/tiles/f14.md docs/tiles/f15.md

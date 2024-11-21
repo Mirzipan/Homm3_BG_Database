@@ -515,9 +515,8 @@ msgstr "[Lista Miast](../towns/index.md)"
 #: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
-#, fuzzy
 msgid "[List of Units](index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Jednostek](index.md)"
 
 #. type: Title #
 #: docs/units/leprechaun.md

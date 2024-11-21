@@ -562,9 +562,8 @@ msgstr ""
 #: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#, fuzzy
 msgid "[List of Events](index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Wydarzeń](index.md)"
 
 #. type: Title #
 #: docs/events/messenger_with_supplies.md

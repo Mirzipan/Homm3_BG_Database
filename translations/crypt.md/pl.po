@@ -548,9 +548,8 @@ msgstr ""
 #: docs/events/market_of_time.md docs/events/crypt.md
 #: docs/events/marketplace.md docs/events/garden_of_revelation.md
 #: docs/events/withered_hermit.md docs/events/a_shady_auction.md
-#, fuzzy
 msgid "[List of Events](index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Wydarzeń](index.md)"
 
 #. type: Title #
 #: docs/events/crypt.md

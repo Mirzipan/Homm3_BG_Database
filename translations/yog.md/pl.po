@@ -576,9 +576,8 @@ msgstr ""
 #: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/valeska.md
 #: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
-#, fuzzy
 msgid "[List of Heroes](index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Bohaterów](index.md)"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/shiva.md
