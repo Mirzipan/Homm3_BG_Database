@@ -722,7 +722,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/trolls.md
 #, no-wrap
 msgid "Trolls"
-msgstr ""
+msgstr "Trolle"
 
 #. type: Plain text
 #: docs/units/trolls.md
@@ -749,13 +749,24 @@ msgid ""
 "| Cost | 13 :gold: |\n"
 "| Abilities | :activation: Remove up to 3 :damage: from this unit. |\n"
 msgstr ""
+"| Statystyki | Neutralne |\n"
+"| :--- | :---: |\n"
+"| Miasto | [Neutralne](../towns/neutral.md) |\n"
+"| Poziom | :golden: |\n"
+"| Typ | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 4 |\n"
+"| :defense: | 0 |\n"
+"| :health_points: | 7 |\n"
+"| :initiative: | 7 |\n"
+"| Koszt | 13 :gold: |\n"
+"| Zdolność | :activation: Usuń do 3 :damage: z tej jednostki. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/trolls.md
 msgid "The ability is applied right after the Trolls are activated."
-msgstr ""
+msgstr "Zdolność jest stosowana zaraz po aktywacji Trolli."
 
 #. type: Bullet: '- '
 #: docs/units/trolls.md
 msgid "Should the Trolls be attacked by [Wyverns](wyverns.md), both the damage and the healing take place simultaneously. This means Trolls only remove up to 2 :damage:."
-msgstr ""
+msgstr "Jeśli Trolle są atakowane przez [Wiwerny](wyverns.md), zarówno obrażenia jak i leczenie zachodzą jednocześnie. To oznacza, że Trolle usuwają do 2 :damage:."
