@@ -642,7 +642,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/peasants.md
 #, no-wrap
 msgid "Peasants"
-msgstr ""
+msgstr "Chłopi"
 
 #. type: Plain text
 #: docs/units/peasants.md
@@ -652,6 +652,9 @@ msgid ""
 "    ![Neutral Peasants](../assets/units-neutral-bronze-peasants.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Peasants](../assets/pl/units-neutral-bronze-peasants.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/peasants.md
@@ -669,8 +672,19 @@ msgid ""
 "| Cost | 3 :gold: |\n"
 "| Abilities | :effect_map: At the beginning of each Resource round, gain 3 :gold:. |\n"
 msgstr ""
+"| Statystyki | Neutralne |\n"
+"| :--- | :---: |\n"
+"| Miasto | [Neutralne](../towns/neutral.md) |\n"
+"| Poziom | :bronze: |\n"
+"| Typ | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 1 |\n"
+"| :defense: | 0 |\n"
+"| :health_points: | 2 |\n"
+"| :initiative: | 3 |\n"
+"| Koszt | 3 :gold: |\n"
+"| Zdolności | :effect_map: Na początku każdej rundy Zasobów zyskujesz 3 :gold:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/peasants.md
 msgid "The effect only triggers if the Peasants are in the player's unit deck, so they had to be recruited beforehand (e.g. by [Diplomacy](../abilities/diplomacy.md))."
-msgstr ""
+msgstr "Efekt stosuje się jedynie wtedy, gdy Chłopi są w talii jednostek gracza, więc najpierw trzeba ich zrekrutować (np. przez [Diplomację](../abilities/diplomacy.md))."
