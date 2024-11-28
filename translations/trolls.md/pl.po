@@ -732,6 +732,9 @@ msgid ""
 "    ![Neutral Trolls](../assets/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Trolls](../assets/pl/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/trolls.md

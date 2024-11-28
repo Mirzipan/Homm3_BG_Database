@@ -652,6 +652,9 @@ msgid ""
 "    ![Neutral Rogues](../assets/units-neutral-bronze-rogues.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Rogues](../assets/pl/units-neutral-bronze-rogues.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/rogues.md
