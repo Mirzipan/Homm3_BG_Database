@@ -642,7 +642,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/mummies.md
 #, no-wrap
 msgid "Mummies"
-msgstr ""
+msgstr "Mumie"
 
 #. type: Plain text
 #: docs/units/mummies.md
@@ -652,6 +652,9 @@ msgid ""
 "    ![Neutral Mummies](../assets/units-neutral-silver-mummies.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Mummies](../assets/pl/units-neutral-silver-mummies.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/mummies.md
@@ -669,11 +672,22 @@ msgid ""
 "| Cost | 8 :gold: |\n"
 "| Abilities | :unit_attack: Ignore the result on the [Attack die](../dice.md#attack-die). :unit_passive: Whenever this unit is attacked, set your opponent's [Attack die](../dice.md#attack-die) to \"-1\". |\n"
 msgstr ""
+"| Statystyki | Neutralne |\n"
+"| :--- | :---: |\n"
+"| Miasto | [Neutralne](../towns/neutral.md) |\n"
+"| Poziom | :silver: |\n"
+"| Typ | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 3 |\n"
+"| :defense: | 1 |\n"
+"| :health_points: | 4 |\n"
+"| :initiative: | 5 |\n"
+"| Koszt | 8 :gold: |\n"
+"| Zdolności | :unit_attack: Zignoruj wynik z  [kości Ataku](../dice.md#attack-die). :unit_passive: Gdy Mumie są atakowane, obróć [kość Ataku](../dice.md#attack-die) przeciwnika na wynik ,,-1''. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/mummies.md
 msgid "The player still rolls the Attack die, as other effects that are related to the Attack die result may still apply."
-msgstr ""
+msgstr "Gracz nadal rzuca kością Ataku, ponieważ inne efekty związane z jej wynikiem mogą mieć zastosowanie."
 
 #. type: Bullet: '- '
 #: docs/units/mummies.md
