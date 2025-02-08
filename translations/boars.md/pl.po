@@ -582,7 +582,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/boars.md
 #, no-wrap
 msgid "Boars"
-msgstr ""
+msgstr "Dziki"
 
 #. type: Plain text
 #: docs/units/boars.md
@@ -592,6 +592,9 @@ msgid ""
 "    ![Neutral Boars](../assets/units-neutral-bronze-boars.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Boars](../assets/pl/units-neutral-bronze-boars.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/boars.md
@@ -609,3 +612,14 @@ msgid ""
 "| Cost | 4 :gold: |\n"
 "| Abilities | - |\n"
 msgstr ""
+"| Statystyki | Neutralne |\n"
+"| :--- | :---: |\n"
+"| Miasto | [Neutralne](../towns/neutral.md) |\n"
+"| Poziom | :bronze: |\n"
+"| Typ | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 2 |\n"
+"| :defense: | 0 |\n"
+"| :health_points: | 4 |\n"
+"| :initiative: | 6 |\n"
+"| Koszt | 4 :gold: |\n"
+"| Zdolności | - |\n"
