@@ -680,6 +680,6 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/units/mummies.md
 msgid ""
-"All Attack die rolls against the Mummies are *set* to -1. This has priority "
-"over rerolls, so rerolls have no effect against Mummies."
+"For each Attack against the Mummies, only its initial Attack die roll is "
+"set to -1. After a roll is *set*, it can be modified by rerolls."
 msgstr ""
