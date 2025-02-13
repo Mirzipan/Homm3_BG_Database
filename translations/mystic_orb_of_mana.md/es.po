@@ -521,7 +521,7 @@ msgstr "[Lista de artefactos] (index.md)"
 #: docs/artifacts/mystic_orb_of_mana.md
 #, no-wrap
 msgid "Mystic Orb of Mana"
-msgstr ""
+msgstr "Orbe místico de maná"
 
 #. type: Plain text
 #: docs/artifacts/mystic_orb_of_mana.md
