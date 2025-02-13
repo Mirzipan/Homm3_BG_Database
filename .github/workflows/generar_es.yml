@@ -25,7 +25,7 @@ jobs:
 
       - name: Ejecutar el script de generación de traducciones
         run: |
-          chmod +x generar_es.sh
+          chmod +x /tools/generar_es.sh
           ./tools/generar_es.sh
           
       - name: Traducir archivos .po automáticamente
