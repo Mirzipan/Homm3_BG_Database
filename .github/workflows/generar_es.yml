@@ -23,13 +23,10 @@ jobs:
         run: |
           pip3 install polib googletrans==4.0.0-rc1
 
-      - name: Listar archivos de la raíz
+      - name: Ejecutar el script de generación de traducciones
         run: |
-          cd .github
-          ls -la
-          cd ..
-          cd .git
-          ls -la
+          chmod +x generar_es.sh
+          ./tools/generar_es.sh
           
       - name: Traducir archivos .po automáticamente
         run: |
