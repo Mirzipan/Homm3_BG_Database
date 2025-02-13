@@ -26,7 +26,7 @@ jobs:
       - name: Ejecutar el script de generación de archivos .po
         run: |
           chmod +x generar_es.sh
-          ./generar_es.sh
+          ./.github/workflows/generar_es.sh
 
       - name: Traducir archivos .po automáticamente
         run: |
@@ -41,5 +41,5 @@ jobs:
         with:
           commit_message: "Automated: Traducción automática de archivos de traducción en español"
           file_pattern: |
-            translates/**/*.es.po
+            translations/**/*.es.po
           skip_no_changes: true
