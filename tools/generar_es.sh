@@ -8,11 +8,15 @@ find translations -type f -name "*.pot" | while read potfile; do
     
     # Definir el nombre de salida, por ejemplo, base.es.po
     outfile="$dir/es.po"
+
+    if [ -f "$outfile" ]; then
+        echo "El archivo $archivo_po ya existe. Se omite la traducción automática."
+    else
+        echo "Generando traducción para: $potfile"
+
+        # Ejecutar msginit
+        msginit --locale=es_ES --input="$potfile" --output-file="$outfile" --no-translator
     
-    echo "Generando traducción para: $potfile"
-    
-    # Ejecutar msginit
-    msginit --locale=es_ES --input="$potfile" --output-file="$outfile" --no-translator
-    
-    echo "Archivo generado: $outfile"
+        echo "Archivo generado: $outfile"
+    fi
 done
