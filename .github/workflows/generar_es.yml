@@ -22,11 +22,6 @@ jobs:
       - name: Instalar dependencias de Python
         run: |
           pip3 install polib googletrans==4.0.0-rc1
-
-      - name: Listar archivos de la raíz
-        run: |
-          cd tools
-          ls -la
           
       - name: Ejecutar el script de generación de traducciones
         run: |
@@ -36,7 +31,7 @@ jobs:
       - name: Traducir archivos .po automáticamente
         run: |
           # Busca todos los archivos *.es.po en la carpeta translations y procesa cada uno
-          for file in $(find translations -type f -name "*.es.po"); do
+          for file in $(find translations -type f -name "es.po"); do
             echo "Traduciendo $file"
             python3 ./tools/auto_translate.py "$file"
           done
@@ -46,4 +41,4 @@ jobs:
         with:
           commit_message: "Automated: Traducción automática de archivos de traducción en español"
           file_pattern: |
-            translations/**/*.es.po
+            translations/**/es.po
