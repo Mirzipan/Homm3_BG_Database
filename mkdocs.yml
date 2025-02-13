@@ -108,7 +108,7 @@ plugins:
             Towns: Miasta
             Units: Jednostki
             War machines: Machiny Wojenne
-       -  locale: es
+        - locale: es
           name: Español
           build: true
           nav_translations:
