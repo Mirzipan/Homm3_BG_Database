@@ -1,0 +1,35 @@
+name: Eliminar archivos es.po
+
+on:
+  workflow_dispatch:  # Se ejecuta manualmente desde la pestaña Actions
+
+jobs:
+  delete_po_files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Eliminar archivos es.po
+        run: |
+          echo "Buscando y eliminando archivos es.po en el directorio 'translations'"
+          find translations -type f -name "es.po" -delete
+
+      - name: Verificar cambios
+        run: git status --porcelain
+
+      - name: Commit y Push de eliminaciones
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "Existen cambios. Configurando Git..."
+            git config --global user.email "action@github.com"
+            git config --global user.name "GitHub Action"
+            git commit -am "Eliminar todos los archivos es.po generados"
+            git push
+          else
+            echo "No se detectaron cambios en el repositorio."
+          fi
