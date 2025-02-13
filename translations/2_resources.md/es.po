@@ -320,7 +320,7 @@ msgstr "Ver también"
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr "<figura markdown = \"span\">"
+msgstr ""
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -383,13 +383,13 @@ msgstr "<figura markdown = \"span\">"
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr "</figura>"
+msgstr ""
 
 #. type: Title #
 #: docs/fields/2_resources.md
 #, no-wrap
 msgid "2 Resources"
-msgstr "2 recursos"
+msgstr "Dados de Recursos"
 
 #. type: Plain text
 #: docs/fields/2_resources.md
@@ -397,8 +397,8 @@ msgid ""
 "![2 Resources Map Location](../assets/locations-resource_symbol.webp){ "
 "width=\"475\" align=right }"
 msgstr ""
-"! [2 ubicación del mapa de recursos] (../ activos/ubicaciones-"
-"resource_symbol.webp) {width = \"475\" alineando = derecho}"
+"![Ubicación del mapa de Recursos](../assets/locations-resource_symbol.webp){ "
+"width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -418,8 +418,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>[Visitable "
 "Field](../keywords/visitable_field.md)</p>\n"
 msgstr ""
-"<p style = \"Text-Align: Center;\"markdown> [campo visitable] (../ palabras "
-"clave/visitable_field.md) </p>"
+"<p style=\"text-align: center;\" markdown>[Casilla "
+"Visitable](../keywords/visitable_field.md)</p>\n"
 
 #. type: Plain text
 #: docs/fields/2_resources.md
@@ -428,8 +428,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>Roll 2 [Resource "
 "Dice](../dice.md#resource-die) and choose the bonus from one of them.</p>\n"
 msgstr ""
-"<p style = \"Text-Align: Center;\"Markdown> Roll 2 [Dice de recursos] (../ "
-"Dice.md#Resource-Die) y elija el bono de uno de ellos. </p>"
+"<p style=\"text-align: center;\" markdown>Lanza 2 [Resource "
+"Dice](../dice.md#resource-die) y elige el resultado de uno de ellos.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -450,7 +450,7 @@ msgstr ""
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 msgid "[List of Fields](index.md)"
-msgstr "[Lista de campos] (index.md)"
+msgstr "[Lista de campos](index.md)"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -471,4 +471,4 @@ msgstr "[Lista de campos] (index.md)"
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 msgid "[List of Tiles](../tiles/index.md)"
-msgstr "[Lista de mosaicos] (../ Tiles/index.md)"
+msgstr "[Lista de Losas](../tiles/index.md)"
