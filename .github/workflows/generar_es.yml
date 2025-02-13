@@ -36,7 +36,7 @@ jobs:
           # Busca todos los archivos *.es.po en la carpeta translations y procesa cada uno
           for file in $(find translations -type f -name "*.es.po"); do
             echo "Traduciendo $file"
-            python3 auto_translate.py "$file"
+            python3 ./tools/auto_translate.py "$file"
           done
 
       - name: Commit automático de archivos generados
