@@ -1,0 +1,45 @@
+name: Generar Traducciones ES
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generar_traducciones:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v3
+
+      - name: Instalar dependencias del sistema
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gettext python3 python3-pip
+
+      - name: Instalar dependencias de Python
+        run: |
+          pip3 install polib googletrans==4.0.0-rc1
+
+      - name: Ejecutar el script de generación de archivos .po
+        run: |
+          chmod +x generar_es.sh
+          ./generar_es.sh
+
+      - name: Traducir archivos .po automáticamente
+        run: |
+          # Busca todos los archivos *.es.po en la carpeta translates y procesa cada uno
+          for file in $(find translates -type f -name "*.es.po"); do
+            echo "Traduciendo $file"
+            python3 auto_translate.py "$file"
+          done
+
+      - name: Commit automático de archivos generados
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Automated: Traducción automática de archivos de traducción en español"
+          file_pattern: |
+            translates/**/*.es.po
+          skip_no_changes: true
