@@ -389,7 +389,7 @@ msgstr ""
 #: docs/fields/2_resources.md
 #, no-wrap
 msgid "2 Resources"
-msgstr "2 recursos"
+msgstr "Dados de Recursos"
 
 #. type: Plain text
 #: docs/fields/2_resources.md
@@ -424,6 +424,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>Roll 2 [Resource "
 "Dice](../dice.md#resource-die) and choose the bonus from one of them.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>Lanza 2 [Resource "
+"Dice](../dice.md#resource-die) y elige el resultado de uno de ellos.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md

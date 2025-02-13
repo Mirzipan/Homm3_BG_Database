@@ -405,7 +405,7 @@ msgstr "Vienen"
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Bullet: '- '
 #: docs/abilities/eagle_eye.md docs/abilities/learning.md
@@ -438,7 +438,7 @@ msgstr "Ver también"
 #: docs/units/hydras.md docs/units/lizardmen.md docs/units/rust_dragons.md
 #: docs/units/wyverns.md
 msgid "[Fortress Expansion](../content/fortress_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -540,13 +540,13 @@ msgstr ""
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/relic_artifact.md
 msgid "[List of Artifacts](../artifacts/index.md)"
-msgstr ""
+msgstr "[Lista de Artefactos](../artifacts/index.md)"
 
 #. type: Title #
 #: docs/events/a_shady_auction.md
 #, no-wrap
 msgid "A Shady Auction"
-msgstr "Una subasta sombreada"
+msgstr "Una Subasta Turbia"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md
@@ -554,6 +554,8 @@ msgid ""
 "![A Shady Auction](../assets/events-a_shady_auction.webp){ width=\"475\" "
 "align=right }"
 msgstr ""
+"![Una Subasta Turbia](../assets/events-a_shady_auction.webp){ width=\"475\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -582,6 +584,12 @@ msgid ""
 "discards the :gold: and claims the card. If there are no bets or there is a "
 "tie, discard the card.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>Repite 3 veces: Revela la carta "
+"superior del mazo de [Artefacto](../artifacts/index.md). En secreto, cada jugador"
+" toma tanto :gold: en su mano como esté dispuesto a pagar por él. A continuación, "
+"revela tus apuestas al mismo tiempo. El que tenga la propuesta más alta "
+"descarta el :gold: y reclama la carta. Si no hay apuestas o hay un "
+"empate, descarte la carta.</p>\n"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md
@@ -594,6 +602,12 @@ msgid ""
 "tears and blood to get! Not mine of course... The starting price "
 "is...\"*</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>*En la profundidad de la noche, te "
+"encuentras con un campamento abarrotado que rodea un escenario. En él, un hombre corpulento con un "
+"bigote retorcido grita vigorosamente, \"...y el jarrón va a la hermosa"
+" ¡Dama barbuda en la última fila! ¡Ahora contempla este maravilloso objeto por el que derramé "
+"lágrimas y sangre! No la mía, por supuesto... El precio de salida "
+"es...\"*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -608,4 +622,4 @@ msgstr ""
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 msgid "[List of Events](index.md)"
-msgstr "[Lista de eventos] (index.md)"
+msgstr "[Lista de eventos](index.md)"
