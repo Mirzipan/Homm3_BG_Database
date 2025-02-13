@@ -36,6 +36,13 @@ jobs:
             python3 ./tools/auto_translate.py "$file"
           done
 
+      - name: Corregir saltos de línea en archivos PO
+        run: |
+          for file in $(find translations -type f -name "*.es.po"); do
+            echo "Corrigiendo $file"
+            python3 fix_po_newlines.py "$file"
+          done
+
       - name: Commit automático de archivos generados
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
