@@ -40,7 +40,7 @@ jobs:
         run: |
           for file in $(find translations -type f -name "*.es.po"); do
             echo "Corrigiendo $file"
-            python3 fix_po_newlines.py "$file"
+            python3 ./tools/fix_po_newlines.py "$file"
           done
 
       - name: Commit automático de archivos generados
