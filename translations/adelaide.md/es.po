@@ -554,7 +554,7 @@ msgstr "[Lista de Ciudades](../towns/index.md)"
 #: docs/heroes/adelaide.md
 #, no-wrap
 msgid "Adelaide"
-msgstr ""
+msgstr "Adelaida"
 
 #. type: Plain text
 #: docs/heroes/adelaide.md
@@ -612,7 +612,7 @@ msgstr ""
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
 #, no-wrap
 msgid "Specialty"
-msgstr ""
+msgstr "Especialidad"
 
 #. type: Plain text
 #: docs/heroes/adelaide.md
