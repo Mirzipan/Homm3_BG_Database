@@ -1,0 +1,18 @@
+#!/bin/bash
+# Este script busca todos los archivos *.pot en la carpeta translates y crea su correspondiente archivo es.po
+
+find translations -type f -name "*.pot" | while read potfile; do
+    # Obtener el directorio y nombre base del archivo .pot
+    dir=$(dirname "$potfile")
+    base=$(basename "$potfile" .pot)
+    
+    # Definir el nombre de salida, por ejemplo, base.es.po
+    outfile="$dir/$base.es.po"
+    
+    echo "Generando traducción para: $potfile"
+    
+    # Ejecutar msginit
+    msginit --locale=es_ES --input="$potfile" --output-file="$outfile" --no-translator --quiet
+    
+    echo "Archivo generado: $outfile"
+done
