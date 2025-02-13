@@ -692,7 +692,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "<figura markdown = \"span\">\n"
-"! [Cerberi ⅰ] (../ Assets/Hero_Specialties-Inferno-Fiona-1.Webp) {width = \"340\" Aline\n"
+"! [Cerberi ⅰ] (../ Assets/Hero_Specialties-Inferno-Fiona-1.webp) {width = \"340\" Aline\n"
 "</figura>"
 
 #. type: Plain text

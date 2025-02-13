@@ -239,7 +239,7 @@ msgstr ": Bronce: [Sea Dogs] (../ Unidades/SEA_DOGS.MD)"
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/necropolis.md
 msgid ":silver: [Liches](../units/liches.md)"
-msgstr ": plata: [líquidos] (../ unidades/liches.md)"
+msgstr ": Silver: [Liches] (../ unidades/liches.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/tower.md

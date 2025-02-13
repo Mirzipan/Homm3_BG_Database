@@ -459,9 +459,7 @@ msgstr "Grial"
 msgid ""
 "![Grail Map Location](../assets/locations-grail.webp){ width=\"475\" "
 "align=right }"
-msgstr ""
-"! [Ubicación del mapa de Grial] (../ Assets/ubicaciones-Grail.webp) {width ="
-" \"475\" Aline = Right}"
+msgstr "! [Ubicación del mapa de Grial] (../ Assets/ubicaciones-gras."
 
 #. type: Plain text
 #: docs/fields/grail.md

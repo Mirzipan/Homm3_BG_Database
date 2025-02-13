@@ -716,7 +716,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "<figura markdown = \"span\">\n"
-"! [NEUTRAL FAMILSS] (../ Assets/units-neutral-bronze-familiar.webp) {width = \"340\" alineando = derecho}\n"
+"! [NEUTRAL FAMILSS] (../ Assets/Units-Neutral-Bronze-Familiar.Webp) {Width = \"340\" Alinee = Right}\n"
 "</figura>"
 
 #. type: Plain text

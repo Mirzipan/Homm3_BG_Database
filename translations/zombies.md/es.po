@@ -830,7 +830,7 @@ msgstr ""
 "|: Health_Points: |3 |3 |4 |\n"
 "|: iniciativa: |3 |** 4 ** |3 |\n"
 "|Costo |3: Oro: |4: Oro: |5: Oro: |\n"
-"|Habilidades |: unit_passive: si el atacante resuelve un \"+1\" en [die de ataque] (../ dice.md#ataque-diie), gane +1: defensa :.|: unit_passive: si el atacante resuelve un \"0\" o un +1 \"en [die de ataque] (../ dice.md#atacle-diie), gane +1: defensa :. |: unit_passive: si el atacante resuelve un\"0\" o un \"+1\" en un [dado de ataque] (../ dice.md#atacle-die), gane +1: defensa: |"
+"|Habilidades |: unit_passive: si el atacante resuelve un \"+1\" en [die de ataque] (../ dice.md#ataque-diie), gane +1: defensa :.|: unit_passive: si el atacante resuelve un \"0\" o un +1 \"en [die de ataque] (../ dice.md#ataque de ataque), gane +1: defensa :. |: unit_passive: si el atacante resuelve un\"0\" o un \"+1\" en un [dado de ataque] (../ dice.md#atacle-die), gane +1: defensa: |"
 
 #. type: Bullet: '- '
 #: docs/units/zombies.md

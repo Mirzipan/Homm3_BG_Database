@@ -753,7 +753,7 @@ msgid ""
 "spell."
 msgstr ""
 "** ⅳ ** - La especialidad se puede mejorar con el poder del hechizo, al "
-"igual que un hechizo regular."
+"igual que un hechizo normal."
 
 #. type: Bullet: '- '
 #: docs/heroes/jeddite.md

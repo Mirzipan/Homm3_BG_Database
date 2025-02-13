@@ -461,7 +461,7 @@ msgid ""
 "width=\"475\" align=right }"
 msgstr ""
 "! [Ubicación del mapa del cuadro de Pandora] (../ Assets/Locations-"
-"Pandoras_box.webp) {Width = \"475\" Aline = Right}"
+"Pandoras_box.webp) {width = \"475\" Aline = Right}"
 
 #. type: Plain text
 #: docs/fields/pandoras_box.md

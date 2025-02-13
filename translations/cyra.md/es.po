@@ -617,7 +617,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "<figura markdown = \"span\">\n"
-"! [Haste ⅰ] (../ Assets/Player-Deck-Back.webp) {Width = \"340\" Aline = Right}\n"
+"! [Haste ⅰ] (../ Assets/Player-Deck-Back.webp) {width = \"340\" Aline = Right}\n"
 "</figura>"
 
 #. type: Plain text
