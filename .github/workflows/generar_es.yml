@@ -1,11 +1,8 @@
 name: Generar Traducciones ES
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-
+  workflow_dispatch:  # Esto hace que el workflow se pueda disparar manualmente
+    
 jobs:
   generar_traducciones:
     runs-on: ubuntu-latest
