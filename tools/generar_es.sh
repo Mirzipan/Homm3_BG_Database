@@ -7,12 +7,12 @@ find translations -type f -name "*.pot" | while read potfile; do
     base=$(basename "$potfile" .pot)
     
     # Definir el nombre de salida, por ejemplo, base.es.po
-    outfile="$dir/$base.es.po"
+    outfile="$dir/es.po"
     
     echo "Generando traducción para: $potfile"
     
     # Ejecutar msginit
-    msginit --locale=es_ES --input="$potfile" --output-file="$outfile" --no-translator --quiet
+    msginit --locale=es_ES --input="$potfile" --output-file="$outfile" --no-translator
     
     echo "Archivo generado: $outfile"
 done
