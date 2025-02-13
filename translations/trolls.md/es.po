@@ -747,7 +747,7 @@ msgid ""
 "</figure>\n"
 msgstr ""
 "<figura markdown = \"span\">\n"
-"! [Trolls neutral] (../ activos/units-neutral-golden trolls.webp) {width = \"340\" alineando = derecho}\n"
+"! [Trolls neutral] (../ activos/units-neutral-Golden trolls.webp) {width = \"340\" alineando = derecho}\n"
 "</figura>"
 
 #. type: Plain text

@@ -707,7 +707,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "<figura markdown = \"span\">\n"
-"! [Pack of Evil Eyes] (../ Assets/Units-Dungeon-Bronze-Evil_eyes Pack.webp) {width = \"340\" Aline\n"
+"! [Pack of Evil Eyes] (../ Assets/Units-Dungeon-Bronze-Evil_eyes Pack.webp) {Width = \"340\" Aline\n"
 "</figura>"
 
 #. type: Plain text

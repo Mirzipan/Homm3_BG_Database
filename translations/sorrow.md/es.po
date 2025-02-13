@@ -487,8 +487,7 @@ msgstr "Pena"
 #: docs/spells/sorrow.md
 msgid "![Sorrow](../assets/spells-sorrow.webp){ width=\"340\" align=right }"
 msgstr ""
-"! [Dolor] (../ assets/hechizs-sorrow.webp) {width = \"340\" alineando = "
-"derecho}"
+"! [Sorrow] (../ Assets/Spells-Sorrow.webp) {width = \"340\" Aline = Right}"
 
 #. type: Plain text
 #: docs/spells/sorrow.md

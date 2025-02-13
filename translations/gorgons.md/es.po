@@ -647,7 +647,7 @@ msgstr "[Expansión de la torre] (../ contenido/torre_expansion.md) (neutral)"
 #: docs/units/gorgons.md
 #, no-wrap
 msgid "Gorgons"
-msgstr "Gorgonas"
+msgstr "Gorgones"
 
 #. type: Plain text
 #: docs/units/gorgons.md

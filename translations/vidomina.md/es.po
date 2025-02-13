@@ -637,6 +637,9 @@ msgid ""
 "        ![Necromancy Ⅰ](../assets/hero_specialties-necropolis-vidomina-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"<figura markdown = \"span\">\n"
+"! [Necromancy ⅰ] (../ Assets/Hero_Specialties-Necropolis-Vidomina-1.webp) {width = \"340\" Aline = Right}\n"
+"</figura>"
 
 #. type: Plain text
 #: docs/heroes/vidomina.md

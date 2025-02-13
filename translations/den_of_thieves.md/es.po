@@ -601,9 +601,9 @@ msgid ""
 msgstr ""
 "<p style = \"Text-Align: Center;\"Markdown> Tome las 2 cartas principales de"
 " un mazo [Unidad neutral] (../ unidades/index.md) de su elección.Puedes "
-"comprar uno de ellos.Luego decida qué hacer con las cartas restantes: puede "
-"colocarlas en la parte inferior o superior de la cubierta respectiva [la "
-"unidad neutral] (../ unidades/index.md). </p>"
+"comprar uno de ellos.Luego, decida qué hacer con las cartas restantes: puede"
+" colocarlas en la parte inferior o superior de la cubierta respectiva [la "
+"unidad neutral] (../ units/index.md). </p>"
 
 #. type: Plain text
 #: docs/events/den_of_thieves.md

@@ -533,7 +533,7 @@ msgid ""
 "![Endless Purse of Gold](../assets/artifacts_major-"
 "endless_purse_of_gold.webp){ width=\"340\" align=right }"
 msgstr ""
-"! [Purso de oro interminable] (../ Assets/Artifacts_Major-"
+"! [Purso de oro de Gold] (../ Assets/Artifacts_Major-"
 "endless_purse_of_gold.webp) {width = \"340\" Align = Right}"
 
 #. type: Plain text

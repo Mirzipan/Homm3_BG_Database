@@ -640,7 +640,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "<figura markdown = \"span\">\n"
-"![Few Thunderbirds](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"! [Pocos Thunderbirds] (../ Assets/units-blank-silver.webp) {width = \"340\" alineando = derecho}\n"
 "</figura>"
 
 #. type: Plain text

@@ -688,7 +688,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "<figura markdown = \"span\">\n"
-"! [Sorcery ⅰ] (../ Assets/Hero_Specialties-Inferno-zydar-1.webp) {width = \"340\" alineando = derecho}\n"
+"! [Sorcery ⅰ] (../ Assets/Hero_Specialties-Inferno-zydar-1.webp) {width = \"340\" Aline\n"
 "</figura>"
 
 #. type: Plain text

@@ -772,9 +772,9 @@ msgid ""
 "hero who specializes in me?<br>Because I should be a hero myself! "
 "Weehee!*</p>\n"
 msgstr ""
-"<p style = \"Text-Align: Center;\"Markdown>*Cart de munición - ¡La mejor "
-"máquina! <br> yo! <br> ¡Solo tengo el poder del infinito! <br> ¿Por qué no "
-"hay héroe que se especialice en mí? <br> ¡Porque debería ser un héroe yo "
+"<p style = \"Text-Align: Center;\"Markdown>*MMO CART - ¡La mejor máquina! "
+"<br> yo! <br> ¡Solo tengo el poder del infinito! <br> ¿Por qué no hay héroe "
+"que se especialice en mí? <br> ¡Porque debería ser un héroe yo "
 "mismo!Weehee!*</p>"
 
 #. type: Bullet: '- '

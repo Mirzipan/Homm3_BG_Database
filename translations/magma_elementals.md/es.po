@@ -654,7 +654,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "<figura markdown = \"span\">\n"
-"! [Neutral Magma Elementals] (../ Assets/Units-Blank-silver.webp) {width = \"340\" Aline = Right}\n"
+"! [Neutral Magma Elemals] (../ Assets/Units-Blank-silver.webp) {width = \"340\" Aline = Right}\n"
 "</figura>"
 
 #. type: Plain text

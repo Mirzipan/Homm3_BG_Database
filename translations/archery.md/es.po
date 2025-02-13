@@ -560,8 +560,8 @@ msgid ""
 "[unit](../units/index.md).</p>\n"
 msgstr ""
 "<p style = \"Text-Align: Center;\"Markdown>: en curso: hasta el final de la "
-"siguiente ronda de combate, sus [unidades a distancia] (../ Palabras "
-"clave/ranged_unit.md) Gane +1: Iniciativa: y +1: Ataque: Si el objetivo no "
+"siguiente ronda de combate, sus [unidades a distancia] (../ palabras "
+"clave/ranged_unit.md) Gane +1: Iniciativa: y +1: Ataque: si el objetivo no "
 "es adyacente [Unidad] (../ unidades/index.md). </p>"
 
 #. type: Title ##

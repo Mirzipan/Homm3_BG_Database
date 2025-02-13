@@ -608,7 +608,7 @@ msgstr "Nieve"
 #: docs/tiles/cx1.md
 msgid "[Ⅵ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)"
 msgstr ""
-"[Ⅵ] (../ dificultades.md): edificio_materials: [mía] (../ campos/mine.md)"
+"[Ⅵ] (../ dificultades.md): edificio_materials: [mío] (../ campos/mine.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/cx1.md
