@@ -24,7 +24,12 @@ jobs:
           pip3 install polib googletrans==4.0.0-rc1
 
       - name: Listar archivos de la raíz
-        run: ls -la
+        run: |
+          cd .github
+          ls -la
+          cd ..
+          cd .git
+          ls -la
           
       - name: Traducir archivos .po automáticamente
         run: |
@@ -40,4 +45,3 @@ jobs:
           commit_message: "Automated: Traducción automática de archivos de traducción en español"
           file_pattern: |
             translations/**/*.es.po
-          skip_no_changes: true
