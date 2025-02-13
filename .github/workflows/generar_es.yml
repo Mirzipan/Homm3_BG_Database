@@ -25,12 +25,7 @@ jobs:
 
       - name: Listar archivos de la raíz
         run: ls -la
-
-      - name: Ejecutar el script de generación de archivos .po
-        run: |
-          chmod +x generar_es.sh
-         # ./.github/workflows/generar_es.sh
-
+          
       - name: Traducir archivos .po automáticamente
         run: |
           # Busca todos los archivos *.es.po en la carpeta translates y procesa cada uno
