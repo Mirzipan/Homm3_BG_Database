@@ -320,7 +320,7 @@ msgstr "Ver también"
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figura markdown = \"span\">"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -383,7 +383,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figura>"
 
 #. type: Title #
 #: docs/fields/2_resources.md
