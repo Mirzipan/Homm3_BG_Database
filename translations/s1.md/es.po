@@ -627,7 +627,7 @@ msgstr ""
 #: docs/tiles/u1.md docs/tiles/u2.md docs/tiles/w1.md docs/tiles/w2.md
 #: docs/tiles/w3.md
 msgid "[List of Tiles](index.md)"
-msgstr "[Lista de mosaicos] (index.md)"
+msgstr "[Lista de Losetas](index.md)"
 
 #. type: Plain text
 #: docs/tiles/c5.md docs/tiles/f1.md docs/tiles/f16.md docs/tiles/f17.md
