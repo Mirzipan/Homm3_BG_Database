@@ -38,14 +38,12 @@ jobs:
         with:
           python-version: 3.x
 
-      #- run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
       - name: Set cache id #This step is created with cache_id so that it can be referenced in the next step (fix Warning)
         id: set_cache_id
         run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_OUTPUT
 
       - uses: actions/cache@v4
         with:
-          #key: mkdocs-material-${{ env.cache_id }}
           key: mkdocs-material-${{ steps.set_cache_id.outputs.cache_id }}
           path: .cache
           restore-keys: |

@@ -425,7 +425,7 @@ msgstr "[Lista de campos] (index.md)"
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 msgid "[List of Tiles](../tiles/index.md)"
-msgstr ""
+msgstr "[Lista de Losetas](../tiles/index.md)"
 
 #. type: Title #
 #: docs/fields/black_market.md

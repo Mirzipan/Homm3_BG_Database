@@ -1,0 +1,49 @@
+name: Update Translations
+
+on:
+  workflow_dispatch:
+    inputs:
+      search_string:
+        description: 'Cadena a buscar en los msgid | String to look for in the msgid'
+        required: true
+        default: 'List of Tiles'
+      replace_string:
+        description: 'Cadena para reemplazar en msgstr | String for replace in msgstr'
+        required: true
+        default: 'Lista de Losetas'
+
+jobs:
+  update_translations:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install polib
+        run: pip install polib
+
+      - name: Run update_po script
+        run: |
+          python change_text_po.py "${{ github.event.inputs.search_string }}" "${{ github.event.inputs.replace_string }}"
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Update translations: reemplazar '${{ github.event.inputs.search_string }}' por '${{ github.event.inputs.replace_string }}'"
+          else
+            echo "No hay cambios que confirmar."
+          fi
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
