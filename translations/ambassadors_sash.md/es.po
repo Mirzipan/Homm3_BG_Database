@@ -201,7 +201,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr "Vienen"
+msgstr "Viene Con"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -405,7 +405,7 @@ msgstr "Vienen"
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Bullet: '- '
 #: docs/abilities/artillery.md docs/abilities/first_aid.md
@@ -427,13 +427,13 @@ msgstr "Ver también"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
 
 #. type: Title #
 #: docs/artifacts/ambassadors_sash.md
 #, no-wrap
 msgid "Ambassador's Sash"
-msgstr "Faja de embajador"
+msgstr "Faja del Embajador"
 
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md
@@ -441,6 +441,8 @@ msgid ""
 "![Ambassador's Sash](../assets/artifacts_major-ambassadors_sash.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Faja del Embajador](../assets/artifacts_major-ambassadors_sash.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/arms_of_legion.md
@@ -466,6 +468,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>[Major "
 "Artifact](../keywords/major_artifact.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>[Artefacto "
+"Mayor](../keywords/major_artifact.md)</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md
@@ -476,6 +480,10 @@ msgid ""
 "Unit](../units/index.md) card. You can **Recruit** one of these "
 "units.<br><br>— OR —<br><br>:instant: Reroll a [die](../dice.md).</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:effect_map: Por cada "
+"[Vivienda](../towns/index.md) que tengas, descubre 1 carta de la correspondiente [Unidad "
+"Neutral](../units/index.md). Tú puedes **Reclutar** una de estas "
+"unidades.<br><br>— O —<br><br>:instant: Repite la tirada de un [dado](../dice.md).</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md
@@ -486,6 +494,10 @@ msgid ""
 "magical properties which he says will, \"help people see things your "
 "way.\"*</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>*Te detienes para ayudar a un diplomático con"
+" un eje roto a solucionar su problema. En agradecimiento, te regala una faja con "
+"propiedades mágicas que dice que te permitirá, \"ayudar a la gente a ver las cosas a tu "
+"manera.\"*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
@@ -539,4 +551,4 @@ msgstr ""
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 msgid "[List of Artifacts](index.md)"
-msgstr "[Lista de artefactos] (index.md)"
+msgstr "[Lista de Artefactos](index.md)"
