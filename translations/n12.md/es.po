@@ -481,7 +481,7 @@ msgstr "Ver también"
 #: docs/units/demons.md docs/units/efreet.md docs/units/familiars.md
 #: docs/units/magogs.md docs/units/pit_lords.md
 msgid "[Inferno Expansion](../content/inferno_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 
 #. type: Title ##
 #: docs/fields/index.md docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md

@@ -562,7 +562,7 @@ msgstr "Héroes con habilidad para iniciar"
 #: docs/units/demons.md docs/units/efreet.md docs/units/familiars.md
 #: docs/units/magogs.md docs/units/pit_lords.md
 msgid "[Inferno Expansion](../content/inferno_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 
 #. type: Title #
 #: docs/abilities/scholar.md docs/fields/scholar.md
