@@ -636,7 +636,7 @@ msgstr ""
 #: docs/events/den_of_thieves.md docs/events/mercenary_camp.md
 #: docs/events/prison.md docs/towns/index.md docs/towns/neutral.md
 msgid "[List of Units](../units/index.md)"
-msgstr ""
+msgstr "[Lista de Unidades](../units/index.md)"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
