@@ -6,11 +6,11 @@ on:
       search_string:
         description: 'Cadena a buscar en los msgid | String to look for in the msgid'
         required: true
-        default: 'List of Tiles'
+        default: 'cadena_original'
       replace_string:
         description: 'Cadena para reemplazar en msgstr | String for replace in msgstr'
         required: true
-        default: 'Lista de Losetas'
+        default: 'cadena_traducida'
 
 jobs:
   update_translations:
