@@ -203,7 +203,7 @@ msgstr ""
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Comes With"
-msgstr "Vienen"
+msgstr "Viene Con"
 
 #. type: Bullet: '- '
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/gold_dragons.md
