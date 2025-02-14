@@ -219,7 +219,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/magic_tortoise.md docs/events/stables.md
@@ -227,7 +227,7 @@ msgstr "Ver también"
 #: docs/statistics/defense.md docs/statistics/knowledge.md
 #: docs/statistics/power.md docs/towns/index.md
 msgid "[List of Heroes](../heroes/index.md)"
-msgstr ""
+msgstr "[Lista de Héroes](../heroes/index.md)"
 
 #. type: Title #
 #: docs/statistics/attack.md
@@ -239,7 +239,7 @@ msgstr "Ataque"
 #: docs/statistics/attack.md docs/statistics/defense.md
 #: docs/statistics/knowledge.md docs/statistics/power.md
 msgid "=== \"Regular\""
-msgstr "=== \"regular\""
+msgstr "=== \"Normal\""
 
 #. type: Plain text
 #: docs/statistics/attack.md
@@ -249,6 +249,9 @@ msgid ""
 "        ![Regular Attack](../assets/statistics-attack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Ataque Normal](../assets/statistics-attack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/statistics/attack.md docs/statistics/defense.md
@@ -264,6 +267,9 @@ msgid ""
 "        ![Empowered Attack](../assets/statistics-attack-empowered.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Ataque Empoderado](../assets/statistics-attack-empowered.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/statistics/attack.md
@@ -274,7 +280,7 @@ msgid ""
 "| Regular | :instant: +1 :attack: | :instant: +2 :attack:  |\n"
 "| Empowered | :instant: +2 :attack: | - |\n"
 msgstr ""
-"|Tipo | Efecto |: experto: efecto |\n"
+"|Tipo | Efecto | Efecto :experto: |\n"
 "|: --- |: --- |: --- |\n"
 "|Regular |: instantáneo: +1: ataque: |: instantáneo: +2: ataque: |\n"
 "|Empoderado |: instantáneo: +2: ataque: |- |\n"
@@ -283,4 +289,4 @@ msgstr ""
 #: docs/statistics/attack.md docs/statistics/defense.md
 #: docs/statistics/knowledge.md docs/statistics/power.md
 msgid "[List of Statistics](index.md)"
-msgstr "[Lista de estadísticas] (index.md)"
+msgstr "[Lista de Estadísticas](index.md)"
