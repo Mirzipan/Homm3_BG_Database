@@ -742,7 +742,7 @@ msgid ""
 "their entire turn. This includes every attack die during all of the fights "
 "during their turn."
 msgstr ""
-"El efecto experto permite volver a colocar * cada * morir que el jugador "
+"El efecto experto permite volver a colocar * cada * dado que el jugador "
 "rueda durante todo su turno.Esto incluye cada dado de ataque durante todas "
 "las peleas durante su turno."
 

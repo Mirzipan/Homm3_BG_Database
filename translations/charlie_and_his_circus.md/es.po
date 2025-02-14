@@ -728,7 +728,7 @@ msgstr ""
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
 msgid ":azure: units may *not* be recruited via this card."
 msgstr ""
-": Azure: Las unidades pueden * no * ser reclutadas a través de esta tarjeta."
+" :azure: Las unidades pueden * no * ser reclutadas a través de esta tarjeta."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md

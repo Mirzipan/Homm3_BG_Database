@@ -665,7 +665,7 @@ msgid ""
 "the :golden: and :azure: Neutral decks."
 msgstr ""
 "Si el jugador ya tiene un: Golden: Viviendo, dibujan cartas de ambos, The "
-"Golden: Y: Azure: Mubas neutrales."
+"Golden: Y :azure: Mubas neutrales."
 
 #. type: Bullet: '- '
 #: docs/abilities/diplomacy.md

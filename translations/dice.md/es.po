@@ -26,7 +26,7 @@ msgstr "Dados"
 #: docs/dice.md
 #, no-wrap
 msgid "Attack Die"
-msgstr "Atacar morir"
+msgstr "Dado de Ataque"
 
 #. type: Plain text
 #: docs/dice.md
@@ -42,7 +42,7 @@ msgid ""
 "| +1 |\n"
 msgstr ""
 "|Lados |\n"
-"|: ---: |\n"
+"| :---: |\n"
 "|-1 |\n"
 "|-1 |\n"
 "|0 |\n"
@@ -54,7 +54,7 @@ msgstr ""
 #: docs/dice.md
 #, no-wrap
 msgid "Resource Die"
-msgstr "Morir de recursos"
+msgstr "Dado de Recursos"
 
 #. type: Plain text
 #: docs/dice.md
@@ -70,19 +70,19 @@ msgid ""
 "| 2 :valuables: |\n"
 msgstr ""
 "|Lados |\n"
-"|: ---: |\n"
-"|3: Oro: |\n"
-"|6: Oro: |\n"
-"|2: edificio_materials: |\n"
-"|4: edificio_materials: |\n"
-"|1: valores: |\n"
+"| :---: |\n"
+"|3 :gold: |\n"
+"|6 :gold: |\n"
+"|2 :build_materials: |\n"
+"|4 :build_materials: |\n"
+"|1 :valuables: |\n"
 "|2: Objetivos: |\n"
 
 #. type: Title ##
 #: docs/dice.md
 #, no-wrap
 msgid "Treasure Die"
-msgstr "Tesoro morir"
+msgstr "Dado de Tesoro"
 
 #. type: Plain text
 #: docs/dice.md
