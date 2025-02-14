@@ -201,7 +201,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr "Vienen"
+msgstr "Viene Con"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -571,7 +571,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Event](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Evento](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md
@@ -622,4 +622,4 @@ msgstr ""
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 msgid "[List of Events](index.md)"
-msgstr "[Lista de eventos](index.md)"
+msgstr "[Lista de Eventos](index.md)"
