@@ -420,7 +420,7 @@ msgstr "Ver también"
 #: docs/units/cerberi.md docs/units/demons.md docs/units/efreet.md
 #: docs/units/familiars.md docs/units/magogs.md docs/units/pit_lords.md
 msgid "[Inferno Expansion](../content/inferno_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md

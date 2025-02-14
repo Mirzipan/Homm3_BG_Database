@@ -245,7 +245,7 @@ msgstr "[Lista de contenido] (index.md)"
 #: docs/content/inferno_expansion.md
 #, no-wrap
 msgid "Inferno Expansion"
-msgstr "Expansión de infierno"
+msgstr "Expansión de Infierno"
 
 #. type: Plain text
 #: docs/content/inferno_expansion.md
@@ -258,6 +258,12 @@ msgid ""
 "\t![Inferno Expansion Inside](../assets/content-inferno_expansion-inside.webp){ width=540 align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"\t![Expansión de Infierno Box](../assets/content-inferno_expansion-box.webp){ width=540 align=right }\n"
+"</figure>\n"
+"<figure markdown=\"span\">\n"
+"\t![Expansión de Infierno Inside](../assets/content-inferno_expansion-inside.webp){ width=540 align=right }\n"
+"</figure>\n"
 
 #. type: Bullet: '- '
 #: docs/content/inferno_expansion.md
