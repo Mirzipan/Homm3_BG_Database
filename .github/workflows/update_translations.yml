@@ -30,7 +30,7 @@ jobs:
 
       - name: Run update_po script
         run: |
-          python change_text_po.py "${{ github.event.inputs.search_string }}" "${{ github.event.inputs.replace_string }}"
+          python ./tools/change_text_po.py "${{ github.event.inputs.search_string }}" "${{ github.event.inputs.replace_string }}"
 
       - name: Commit changes
         run: |
