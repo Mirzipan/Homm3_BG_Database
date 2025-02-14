@@ -259,7 +259,7 @@ msgstr "Notas"
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr "Vienen"
+msgstr "Viene Con"
 
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md docs/abilities/earth_magic.md
@@ -288,7 +288,7 @@ msgstr "Vienen"
 #: docs/units/iron_golems.md docs/units/magi.md docs/units/nagas.md
 #: docs/units/titans.md
 msgid "[Tower Expansion](../content/tower_expansion.md)"
-msgstr ""
+msgstr "[Expansión de la Torre](../content/tower_expansion.md)"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -557,7 +557,7 @@ msgstr "Ver también"
 #: docs/units/wraiths.md docs/units/wyverns.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[List of Towns](../towns/index.md)"
-msgstr ""
+msgstr "[Lista de Ciudades](../towns/index.md)"
 
 #. type: Title #
 #: docs/heroes/adelaide.md
@@ -577,14 +577,14 @@ msgstr ""
 #: docs/heroes/adelaide.md docs/heroes/ingham.md docs/heroes/rion.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[:magic: Cleric](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[:magic: Clérigo](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/adelaide.md docs/heroes/catherine.md docs/heroes/ingham.md
 #: docs/heroes/lord_haart_castle.md docs/heroes/rion.md docs/heroes/valeska.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Castle](../towns/castle.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Castillo](../towns/castle.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/adelaide.md docs/heroes/ingham.md docs/heroes/rion.md
@@ -604,6 +604,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Wisdom](../abilities/wisdom.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Sabiduría](../abilities/wisdom.md)</p>\n"
 
 #. type: Title ##
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
@@ -632,7 +634,7 @@ msgstr "Especialidad"
 #. type: Plain text
 #: docs/heroes/adelaide.md
 msgid "=== \"Frost Ring Ⅰ\""
-msgstr "=== \"Ring Frost ⅰ\""
+msgstr "=== \"Anillo Helado I\""
 
 #. type: Plain text
 #: docs/heroes/adelaide.md
@@ -642,11 +644,15 @@ msgid ""
 "        ![Frost Ring Ⅰ](../assets/hero_specialties-castle-adelaide-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Anillo Helado Ⅰ](../assets/hero_specialties-castle-adelaide-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+
 
 #. type: Plain text
 #: docs/heroes/adelaide.md
 msgid "=== \"Frost Ring Ⅳ\""
-msgstr "=== \"Ring Frost ⅳ\""
+msgstr "=== \"Anillo Helado IV""
 
 #. type: Plain text
 #: docs/heroes/adelaide.md
@@ -656,11 +662,14 @@ msgid ""
 "        ![Frost Ring Ⅳ](../assets/hero_specialties-castle-adelaide-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Anillo Helado Ⅳ](../assets/hero_specialties-castle-adelaide-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/adelaide.md
 msgid "=== \"Frost Ring Ⅵ\""
-msgstr "=== \"Ring Frost ⅵ\""
+msgstr "=== \"Anillo Helado VI\""
 
 #. type: Plain text
 #: docs/heroes/adelaide.md
@@ -670,6 +679,9 @@ msgid ""
 "        ![Frost Ring Ⅵ](../assets/hero_specialties-castle-adelaide-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Anillo Helado Ⅵ](../assets/hero_specialties-castle-adelaide-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/adelaide.md
@@ -681,14 +693,19 @@ msgid ""
 "| Ⅳ | :instant: Select 1 [Spell](../spells/index.md) or Specialty card from your discard pile and put it back in your hand. |\n"
 "| Ⅵ | :instant: Discard 2 cards. Target a space on the Combat board. All [units](../units/index.md) adjacent to this space suffer 2 :damage:. |\n"
 msgstr ""
+"| Nivel | Descripción |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: Descarta 1 carta. Apunta a una casilla en el tablero de Combate. Todas las [unidades](../units/index.md) adyacentes a esta casilla sufren 1 :damage:. |\n"
+"| Ⅳ | :instant: Elige 1 [Hechizo](../spells/index.md) o carta de Especialidad de tu pila de descarte y devuélvela a tu mano. |\n"
+"| Ⅵ | :instant: Descarta 2 cartas. Apunta a una casilla en el tablero de Combate. Todas las [unidades](../units/index.md) adyacentes a esta casilla sufren 2 :damage:. |\n"
+
 
 #. type: Bullet: '- '
 #: docs/heroes/adelaide.md
 msgid ""
 "**Ⅰ and Ⅵ** - The :damage: from Frost Ring also applies to friendly units."
 msgstr ""
-"** ⅰ y ⅵ ** - El: Daño: desde el anillo Frost también se aplica a unidades "
-"amigables."
+"**I y VI** - El :damage: de Anillo Helado también se aplica a unidades aliadas."
 
 #. type: Bullet: '- '
 #: docs/heroes/adelaide.md docs/heroes/deemer.md
@@ -696,9 +713,9 @@ msgid ""
 "These specialties can be played as *instant* effects at any time during "
 "Combat, not just during the friendly unit activations."
 msgstr ""
-"Estas especialidades se pueden jugar como efectos * instantáneos * en "
-"cualquier momento durante el combate, no solo durante las activaciones de la"
-" unidad amigable."
+"Estas especialidades se pueden jugar como efectos *instantáneos* en "
+"cualquier momento durante el Combate, no solo durante las activaciones de"
+" unidades aliadas."
 
 #. type: Bullet: '- '
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
@@ -721,4 +738,4 @@ msgstr ""
 #: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
 msgid "[List of Heroes](index.md)"
-msgstr "[Lista de héroes] (index.md)"
+msgstr "[Lista de Héroes](index.md)"
