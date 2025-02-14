@@ -20,4 +20,4 @@ msgstr ""
 #: docs/keywords/alternative_action.md
 #, no-wrap
 msgid ":unit_other: Alternative Action"
-msgstr ": unit_other: acción alternativa"
+msgstr ":unit_other: Acción Alternativa"
