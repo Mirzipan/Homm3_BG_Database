@@ -493,7 +493,7 @@ msgstr "[Expansión de la Torre](../content/tower_expansion.md)"
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -652,7 +652,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/adelaide.md
 msgid "=== \"Frost Ring Ⅳ\""
-msgstr "=== \"Anillo Helado IV""
+msgstr "=== \"Anillo Helado IV\""
 
 #. type: Plain text
 #: docs/heroes/adelaide.md
