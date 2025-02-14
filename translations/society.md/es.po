@@ -436,7 +436,7 @@ msgstr ""
 #: docs/difficulties.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md

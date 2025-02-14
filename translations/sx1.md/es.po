@@ -497,7 +497,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Title ##
 #: docs/fields/index.md docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md

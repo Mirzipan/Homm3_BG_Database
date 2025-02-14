@@ -462,7 +462,7 @@ msgstr "Viene Con"
 #: docs/difficulties.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Bullet: '- '
 #: docs/units/halberdiers.md docs/units/diamond_golems.md

@@ -434,7 +434,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/arms_of_legion.md
