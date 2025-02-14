@@ -585,7 +585,7 @@ msgstr "=== \"Pack\""
 #: docs/units/wraiths.md docs/units/wyverns.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[List of Units](index.md)"
-msgstr "[Lista de unidades] (index.md)"
+msgstr "[Lista de Unidades](index.md)"
 
 #. type: Title #
 #: docs/units/arch_devils.md
