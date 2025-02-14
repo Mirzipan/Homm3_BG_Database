@@ -258,7 +258,7 @@ msgstr "Notas"
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Comes With"
-msgstr "Vienen"
+msgstr "Viene Con"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
