@@ -218,7 +218,7 @@ msgstr ""
 #: docs/difficulties.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Title ##
 #: docs/content/crystal_stretch_goals.md docs/content/inferno_expansion.md

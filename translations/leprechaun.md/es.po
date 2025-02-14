@@ -405,7 +405,7 @@ msgstr "Viene Con"
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Bullet: '- '
 #: docs/artifacts/celestial_necklace_of_bliss.md

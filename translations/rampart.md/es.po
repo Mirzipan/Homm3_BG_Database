@@ -472,7 +472,7 @@ msgstr "Viene Con"
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Bullet: '- '
 #: docs/abilities/artillery.md docs/abilities/first_aid.md

@@ -436,7 +436,7 @@ msgstr ""
 #: docs/difficulties.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Bullet: '- '
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md

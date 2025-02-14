@@ -219,7 +219,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Title ##
 #: docs/content/azure_stretch_goals.md docs/content/battlefield_expansion.md

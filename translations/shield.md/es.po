@@ -436,7 +436,7 @@ msgstr ""
 #: docs/difficulties.md
 #, no-wrap
 msgid "See Also"
-msgstr "Ver también"
+msgstr "Ver También"
 
 #. type: Bullet: '- '
 #: docs/spells/bloodlust.md docs/spells/visions.md docs/spells/fireball.md
