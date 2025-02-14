@@ -533,7 +533,7 @@ msgid ""
 ":instant: effect)."
 msgstr ""
 "El efecto puede usarse en cualquier punto durante la ronda de combate "
-"(similar a un :instantaneous: efecto)."
+"(similar a un :instant_effect: efecto)."
 
 #. type: Bullet: '- '
 #: docs/war_machines/first_aid_tent.md

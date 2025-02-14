@@ -649,9 +649,9 @@ msgid ""
 msgstr ""
 "|Nivel |Descripción |\n"
 "| :---: | :---: |\n"
-"|Ⅰ | :instantaneous: Gane 2 :gold:.|\n"
-"|Ⅳ | :instantaneous: Gane 3 :gold:.|\n"
-"|Ⅵ | :instantaneous: Gane 5 :gold:.|\n"
+"|Ⅰ | :instant_effect: Gane 2 :gold:.|\n"
+"|Ⅳ | :instant_effect: Gane 3 :gold:.|\n"
+"|Ⅵ | :instant_effect: Gane 5 :gold:.|\n"
 
 #. type: Bullet: '- '
 #: docs/heroes/lord_haart_castle.md
