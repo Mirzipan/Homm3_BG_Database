@@ -246,8 +246,8 @@ msgstr ""
 "|Ⅱ | :bronze: :bronze: | :bronze: :bronze: | :bronze: :bronze: :bronze: | :bronze: :bronze: :silver: |\n"
 "|Ⅲ | :bronze: :silver: | :bronze: :bronze: :silver: | :bronze: :silver: :silver: | :silver: :silver: :silver: |\n"
 "|Ⅳ | :bronze: :bronze: :silver: | :bronze: :silver: :silver: | :silver: :silver: :silver: | :silver: :silver: :golden: |\n"
-"|Ⅴ | :bronze: :bronze: :silver: :golden: | :bronze: :silver: :silver: :golden: | :silver: :silver: :golden: :golden: | :silver: :golden: :golden: :gold: |\n"
-"|Ⅵ | :bronze: :bronze: :silver: :silver: :golden: | :bronze: :silver: :silver: :golden: :golden: | :silver: :silver: :golden: :golden: :gold: | :silver: :golden: :golden: :golden: :golden: |\n"
+"|Ⅴ | :bronze: :bronze: :silver: :golden: | :bronze: :silver: :silver: :golden: | :silver: :silver: :golden: :golden: | :silver: :golden: :golden: :golden: |\n"
+"|Ⅵ | :bronze: :bronze: :silver: :silver: :golden: | :bronze: :silver: :silver: :golden: :golden: | :silver: :silver: :golden: :golden: :golden: | :silver: :golden: :golden: :golden: :golden: |\n"
 "|Ⅶ | :azure: | :azure:  :azure: | :golden: :azure:  :azure: | :golden: :golden: :azure:  :azure: |\n"
 
 #. type: Bullet: '- '
