@@ -32,9 +32,6 @@ jobs:
         run: |
           python ./tools/change_text_po.py "${{ github.event.inputs.search_string }}" "${{ github.event.inputs.replace_string }}"
 
-      - name: Pull remote changes
-        run: git pull --rebase origin master
-
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
@@ -45,6 +42,9 @@ jobs:
           else
             echo "No hay cambios que confirmar."
           fi
+
+      - name: Pull remote changes
+        run: git pull --rebase origin main
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
