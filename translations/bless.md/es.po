@@ -615,7 +615,7 @@ msgstr ""
 "Si no se rodea ningún ataque de ataque durante el ataque, tampoco muestra "
 "ningún resultado.Esto significa que cualquier unidades que tengan "
 "habilidades basadas en el resultado de una tirada de matriz de ataque no se "
-"activan.(por ejemplo, los zombis: defensa: no aumenta, y las momias no "
+"activan.(por ejemplo, los zombis :defense: no aumenta, y las momias no "
 "pueden establecer el ataque de ataque a \"-1\")."
 
 #. type: Bullet: '- '

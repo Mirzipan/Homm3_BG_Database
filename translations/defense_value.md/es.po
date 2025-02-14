@@ -20,4 +20,4 @@ msgstr ""
 #: docs/keywords/defense_value.md
 #, no-wrap
 msgid ":defense: Defense Value"
-msgstr ": defensa: valor de defensa"
+msgstr " :defense: valor de defensa"

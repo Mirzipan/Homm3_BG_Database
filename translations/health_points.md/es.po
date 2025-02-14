@@ -20,4 +20,4 @@ msgstr ""
 #: docs/keywords/health_points.md
 #, no-wrap
 msgid ":health_points: Health Points"
-msgstr ": Health_Points: Puntos de salud"
+msgstr " :health_points: Puntos de salud"

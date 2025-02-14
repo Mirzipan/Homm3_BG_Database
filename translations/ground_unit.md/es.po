@@ -104,7 +104,7 @@ msgstr ""
 #: docs/keywords/ground_unit.md
 #, no-wrap
 msgid ":unit_ground: Ground Unit"
-msgstr ": unit_ground: unidad de tierra"
+msgstr " :unit_ground: unidad de tierra"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md

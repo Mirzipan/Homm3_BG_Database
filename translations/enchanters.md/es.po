@@ -710,7 +710,7 @@ msgid ""
 " be skipped in favor of +1 :attack:."
 msgstr ""
 "Si es posible, el efecto curativo debe ser elegido.El efecto de curación no "
-"se puede omitir a favor de +1: ataque:."
+"se puede omitir a favor de +1 :attack:."
 
 #. type: Bullet: '- '
 #: docs/units/enchanters.md

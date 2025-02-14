@@ -98,7 +98,7 @@ msgstr ""
 #: docs/keywords/flying_unit.md
 #, no-wrap
 msgid ":unit_flying: Flying Unit"
-msgstr ": unit_flying: unidad voladora"
+msgstr " :unit_flying: unidad voladora"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md

@@ -122,7 +122,7 @@ msgstr ""
 #: docs/keywords/ranged_unit.md
 #, no-wrap
 msgid ":unit_ranged: Ranged Unit"
-msgstr ": unit_ranged: unidad a distancia"
+msgstr " :unit_ranged: unidad a distancia"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md

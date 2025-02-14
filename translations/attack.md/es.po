@@ -282,8 +282,8 @@ msgid ""
 msgstr ""
 "|Tipo | Efecto | Efecto :experto: |\n"
 "|: --- |: --- |: --- |\n"
-"|Regular |: instantáneo: +1: ataque: |: instantáneo: +2: ataque: |\n"
-"|Empoderado |: instantáneo: +2: ataque: |- |\n"
+"|Regular | :instantaneous: +1 :attack: | :instantaneous: +2 :attack: |\n"
+"|Empoderado | :instantaneous: +2 :attack: |- |\n"
 
 #. type: Bullet: '- '
 #: docs/statistics/attack.md docs/statistics/defense.md

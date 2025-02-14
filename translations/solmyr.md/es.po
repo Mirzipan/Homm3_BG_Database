@@ -740,7 +740,7 @@ msgid ""
 ":empower:."
 msgstr ""
 "** ⅰ ** - Solo se tratan 2 unidades: Daño: a y esto no puede ser cambiado "
-"por: Empower:."
+"por :empower:."
 
 #. type: Bullet: '- '
 #: docs/heroes/solmyr.md

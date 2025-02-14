@@ -75,7 +75,7 @@ msgstr "Notas"
 #: docs/keywords/paralysis.md
 #, no-wrap
 msgid ":paralysis: Paralysis"
-msgstr ": parálisis: parálisis"
+msgstr " :paralysis: parálisis"
 
 #. type: Bullet: '- '
 #: docs/keywords/paralysis.md

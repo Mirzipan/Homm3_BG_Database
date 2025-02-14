@@ -533,7 +533,7 @@ msgid ""
 ":instant: effect)."
 msgstr ""
 "El efecto puede usarse en cualquier punto durante la ronda de combate "
-"(similar a un: instantáneo: efecto)."
+"(similar a un :instantaneous: efecto)."
 
 #. type: Bullet: '- '
 #: docs/war_machines/first_aid_tent.md
@@ -541,6 +541,6 @@ msgid ""
 ":damage: can only be removed *after* it was dealt. The First Aid Tent can "
 "not prevent defeat of a unit by reducing the incoming :damage:."
 msgstr ""
-": daño: solo se puede eliminar * después de * fue tratado.La carpa de "
+" :damage: solo se puede eliminar * después de * fue tratado.La carpa de "
 "primeros auxilios no puede evitar la derrota de una unidad al reducir el "
-"entrante: daño:."
+"entrante :damage:."

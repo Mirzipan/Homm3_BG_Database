@@ -642,7 +642,7 @@ msgid ""
 msgstr ""
 "|Nivel |Descripción |\n"
 "| :---: | :---: |\n"
-"|Ⅰ |: en curso: las ganancias de su unidad seleccionada +1: Ataque:.|\n"
+"|Ⅰ | :on_course: las ganancias de su unidad seleccionada +1: Ataque:.|\n"
 "|Ⅳ |🚧 Las ganancias de su unidad seleccionada +1: Ataque:.|\n"
 "|Ⅵ |🚧 Las ganancias de su unidad seleccionada +2: Ataque:.|\n"
 
