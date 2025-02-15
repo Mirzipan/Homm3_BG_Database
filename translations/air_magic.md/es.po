@@ -48,8 +48,7 @@ msgstr ""
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Ability](index.md)</p>\n"
-msgstr ""
-msgid "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md
