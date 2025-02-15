@@ -403,6 +403,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>[Visitable "
 "Field](../keywords/visitable_field.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>[Campo "
+"Visitable](../keywords/visitable_field.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -423,7 +425,7 @@ msgstr ""
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 msgid "[List of Fields](index.md)"
-msgstr "[Lista de campos] (index.md)"
+msgstr "[Lista de Lugares](index.md)"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -450,7 +452,7 @@ msgstr "[Lista de Losetas](../tiles/index.md)"
 #: docs/fields/tree_of_knowledge.md
 #, no-wrap
 msgid "Tree of Knowledge"
-msgstr "Árbol de conocimiento"
+msgstr "Árbol de Conocimiento"
 
 #. type: Plain text
 #: docs/fields/tree_of_knowledge.md
@@ -458,6 +460,8 @@ msgid ""
 "![Tree of Knowledge Map Location](../assets/locations-"
 "tree_of_knowledge.webp){ width=\"475\" align=right }"
 msgstr ""
+"![Ubicación en el Mapa de Árbol de Conocimiento](../assets/locations-"
+"tree_of_knowledge.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/fields/tree_of_knowledge.md
@@ -466,3 +470,5 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>You may :pay: 3 :valuables: or 10 "
 ":gold: to gain 2 :experience:.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>Puedes :pay: 3 :valuables: o 10 "
+":gold: para ganar 2 :experience:.</p>\n"
