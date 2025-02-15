@@ -45,9 +45,6 @@ jobs:
             echo "No hay cambios que confirmar."
           fi
 
-      - name: Pull remote changes
-        run: git pull --rebase origin main
-
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
