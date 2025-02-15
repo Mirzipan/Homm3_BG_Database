@@ -639,7 +639,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -741,6 +741,9 @@ msgid ""
 "        ![Pack of Hydras](../assets/units-fortress-golden-hydras-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Hydras](../assets/units-fortress-golden-hydras-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/hydras.md
@@ -767,6 +770,17 @@ msgid ""
 "| Cost | 20 :gold:<br>1 :valuables: | 28 :gold:<br>2 :valuables: | 40 :gold: |\n"
 "| Abilities | :unit_attack: Ignore the Retaliation Attack. | :unit_attack: Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. | :unit_attack: Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :azure: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 6 | **7** | 7 |\n"
+"| :defense: | 3 | 3 | 3 |\n"
+"| :health_points: | 8 | **10** | 8 |\n"
+"| :initiative: | 5 | **7** | 5 |\n"
+"| Cost | 20 :gold:<br>1 :valuables: | 28 :gold:<br>2 :valuables: | 40 :gold: |\n"
+"| Abilities | :unit_attack: Ignore the Retaliation Attack. | :unit_attack: Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. | :unit_attack: Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/hydras.md
@@ -775,9 +789,9 @@ msgid ""
 "those attacks has a separate Attack Die roll. The player decides the order "
 "of attacks."
 msgstr ""
-"** Paquete y neutral **: los ataques tienen lugar entre sí y cada uno de "
-"esos ataques tiene una tirada de ataque de ataque separado.El jugador decide"
-" el orden de los ataques."
+"**Manada and Neutral** - The attacks take place after each other and each of"
+" those attacks has a separate Attack Die roll. The player decides the order "
+"of attacks."
 
 #. type: Bullet: '- '
 #: docs/units/hydras.md
@@ -785,9 +799,8 @@ msgid ""
 "**Pack and Neutral** - Neither of the attacks triggers a Retaliation Attack."
 " The :unit_attack: symbol affects both target of the Hydras."
 msgstr ""
-"** Paquete y neutral ** - Ninguno de los ataques desencadena un ataque de "
-"represalia.El: Unit_Attack: el símbolo afecta a ambos objetivos de las "
-"hidras."
+"**Manada and Neutral** - Neither of the attacks triggers a Retaliation "
+"Attack. The :unit_attack: symbol affects both target of the Hydras."
 
 #. type: Bullet: '- '
 #: docs/units/hydras.md
@@ -795,5 +808,5 @@ msgid ""
 "[^1] **Pack and Neutral** - Hydras can not attack a unit and a Wall at the "
 "same time, only one or the other."
 msgstr ""
-"[^1] ** Paquete y neutral ** - Hydras no puede atacar una unidad y una pared"
-" al mismo tiempo, solo una u otra."
+"[^1] **Manada and Neutral** - Hydras can not attack a unit and a Wall at the"
+" same time, only one or the other."

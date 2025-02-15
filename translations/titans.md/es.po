@@ -635,7 +635,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -728,6 +728,9 @@ msgid ""
 "        ![Pack of Titans](../assets/units-tower-golden-titans-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Titans](../assets/units-tower-golden-titans-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/titans.md
@@ -754,6 +757,17 @@ msgid ""
 "| Cost | 18 :gold:<br>1 :valuables: | 32 :gold:<br>2 :valuables: | 39 :gold: |\n"
 "| Abilities | :unit_passive: Ignore any :ongoing: effects on this unit. | :unit_passive: Ignore any :ongoing: effects on this unit and combat penalties against adjacent units. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking [Black Dragons](black_dragons.md), this unit gains +2 :attack:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :azure: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| :attack: | 6 | 6 | 6 |\n"
+"| :defense: | 3 | 3 | 2 |\n"
+"| :health_points: | 8 | 8 | 10 |\n"
+"| :initiative: | 7 | **11** | 10 |\n"
+"| Cost | 18 :gold:<br>1 :valuables: | 32 :gold:<br>2 :valuables: | 39 :gold: |\n"
+"| Abilities | :unit_passive: Ignore any :ongoing: effects on this unit. | :unit_passive: Ignore any :ongoing: effects on this unit and combat penalties against adjacent units. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking [Black Dragons](black_dragons.md), this unit gains +2 :attack:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/titans.md
@@ -762,13 +776,14 @@ msgid ""
 "[:unit_ranged:](../keywords/ranged_unit.md). Few Titans are a "
 "[:unit_ground:](../keywords/ground_unit.md)."
 msgstr ""
+"**Manada** - Only the Manada of Titans are a "
+"[:unit_ranged:](../keywords/ranged_unit.md). Few Titans are a "
+"[:unit_ground:](../keywords/ground_unit.md)."
 
 #. type: Bullet: '- '
 #: docs/units/titans.md
 msgid "**Few and Pack** - Friendly :ongoing: effects are also ignored."
-msgstr ""
-"** Pocos y empaquetado ** - Friendly: Continuo: los efectos también se "
-"ignoran."
+msgstr "**Few and Manada** - Friendly :ongoing: effects are also ignored."
 
 #. type: Bullet: '- '
 #: docs/units/titans.md
@@ -778,6 +793,10 @@ msgid ""
 "Flail](../artifacts/greater_gnolls_flail.md), but the :instant: effects "
 "still apply."
 msgstr ""
+"**Few and Manada** - Titans ignore the :ongoing: effects of [Buckler of the "
+"Gnoll King](../artifacts/buckler_of_the_gnoll_king.md) and [Greater Gnoll's "
+"Flail](../artifacts/greater_gnolls_flail.md), but the :instant: effects "
+"still apply."
 
 #. type: Bullet: '- '
 #: docs/units/titans.md
@@ -790,6 +809,13 @@ msgid ""
 "[spells](../spells/index.md) in general and doesn't specifically target "
 "Titans."
 msgstr ""
+"**Few and Manada** - Should the first effect of the [Orb of "
+"Inhibition](../artifacts/orb_of_inhibition.md) be played, the Titans will "
+"also not be receiving any damage from [spells](../spells/index.md), as the "
+":ongoing: effect of the [Orb of "
+"Inhibition](../artifacts/orb_of_inhibition.md) works on "
+"[spells](../spells/index.md) in general and doesn't specifically target "
+"Titans."
 
 #. type: Bullet: '- '
 #: docs/units/titans.md
@@ -799,3 +825,7 @@ msgid ""
 "Inhibition](../artifacts/orb_of_inhibition.md), because their ability is "
 "already in play at the time when the other effects are played."
 msgstr ""
+"[^1] **Few and Manada** - Titans are immune to the effect of [Disrupting Ray"
+" spell](../spells/disrupting_ray.md) and the second effect of the [Orb of "
+"Inhibition](../artifacts/orb_of_inhibition.md), because their ability is "
+"already in play at the time when the other effects are played."

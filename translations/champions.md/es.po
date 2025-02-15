@@ -671,7 +671,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -764,6 +764,9 @@ msgid ""
 "        ![Pack of Champions](../assets/units-castle-golden-champions-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Champions](../assets/units-castle-golden-champions-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/champions.md
@@ -790,6 +793,17 @@ msgid ""
 "| Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
 "| Abilities | :effect_map: If your hero is on a field with Stables, this unit's reinforcement cost is reduced by 6 :gold:. | :unit_attack: If this unit's movement ends in a space other than where it started, you may reroll an [Attack die](../dice.md#attack-die). | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and apply both outcomes.<br>:unit_passive: Reroll this unit's all \"-1\" rolls. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :golden: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 5 | **6** | 4 |\n"
+"| :defense: | 2 | 2 | 2 |\n"
+"| :health_points: | 7 | 7 | 6 |\n"
+"| :initiative: | 7 | **9** | 8 |\n"
+"| Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
+"| Abilities | :effect_map: If your hero is on a field with Stables, this unit's reinforcement cost is reduced by 6 :gold:. | :unit_attack: If this unit's movement ends in a space other than where it started, you may reroll an [Attack die](../dice.md#attack-die). | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and apply both outcomes.<br>:unit_passive: Reroll this unit's all \"-1\" rolls. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/champions.md

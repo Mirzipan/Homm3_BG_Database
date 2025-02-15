@@ -621,7 +621,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -735,6 +735,9 @@ msgid ""
 "        ![Pack of Magi](../assets/units-tower-silver-magi-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Magi](../assets/units-tower-silver-magi-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/magi.md
@@ -761,6 +764,17 @@ msgid ""
 "| Cost | 6 :gold: | 11 :gold: | 11 :gold: |\n"
 "| Abilities | :unit_attack: Ignore combat penalties. | :unit_attack: Ignore combat penalties. :activation: Add +1 :empower: to the first [spell](../spells/index.md) you cast this round. | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| :attack: | 3 | **4** | 3 |\n"
+"| :defense: | 0 | **1** | 0 |\n"
+"| :health_points: | 4 | 4 | 5 |\n"
+"| :initiative: | 5 | 6 | 6 |\n"
+"| Cost | 6 :gold: | 11 :gold: | 11 :gold: |\n"
+"| Abilities | :unit_attack: Ignore combat penalties. | :unit_attack: Ignore combat penalties. :activation: Add +1 :empower: to the first [spell](../spells/index.md) you cast this round. | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/magi.md
@@ -770,6 +784,10 @@ msgid ""
 "current Combat round and it was played either during the activation of Magi "
 "or later."
 msgstr ""
+"**Manada** - A [spell](../spells/index.md) will only receive the +1 "
+":empower: by the Magi, if it's the player's first "
+"[spell](../spells/index.md) of the current Combat round and it was played "
+"either during the activation of Magi or later."
 
 #. type: Bullet: '- '
 #: docs/units/magi.md

@@ -671,7 +671,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -764,6 +764,9 @@ msgid ""
 "        ![Pack of Archangels](../assets/units-castle-golden-archangels-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Archangels](../assets/units-castle-golden-archangels-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/archangels.md
@@ -790,6 +793,17 @@ msgid ""
 "| Cost | 20 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 29 :gold: |\n"
 "| Abilities | :unit_passive: When combat begins, draw 1 card. | :unit_passive: Once per Combat. Cancel an attack that would reduce another unit's :health_points: to 0. | :unit_attack: When attacking [Arch Devils](arch_devils.md), this unit gains +2 :attack:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :golden: |\n"
+"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| :attack: | 6 | **7** | 5 |\n"
+"| :defense: | 3 | 3 | 2 |\n"
+"| :health_points: | 8 | **10** | 7 |\n"
+"| :initiative: | 12 | **18** | 10 |\n"
+"| Cost | 20 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 29 :gold: |\n"
+"| Abilities | :unit_passive: When combat begins, draw 1 card. | :unit_passive: Once per Combat. Cancel an attack that would reduce another unit's :health_points: to 0. | :unit_attack: When attacking [Arch Devils](arch_devils.md), this unit gains +2 :attack:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/archangels.md
@@ -797,10 +811,10 @@ msgid ""
 "**Pack** - The passive ability can be used at the moment when a friendly "
 "unit would be defeated."
 msgstr ""
-"** Pack ** - La habilidad pasiva se puede usar en el momento en que una "
-"unidad amigable sería derrotada."
+"**Manada** - The passive ability can be used at the moment when a friendly "
+"unit would be defeated."
 
 #. type: Bullet: '- '
 #: docs/units/archangels.md
 msgid "**Pack** - See [Resurrection Spell](../spells/resurrection.md)"
-msgstr ""
+msgstr "**Manada** - See [Resurrection Spell](../spells/resurrection.md)"

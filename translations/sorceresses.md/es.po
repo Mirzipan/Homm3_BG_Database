@@ -540,7 +540,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -633,6 +633,9 @@ msgid ""
 "        ![Pack of Sorceresses](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Sorceresses](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/sorceresses.md
@@ -659,3 +662,14 @@ msgid ""
 "| Cost | 8 :gold: | 13 :gold: | 🚧 |\n"
 "| Abilities | :unit_other: Place a Weakness token on any unit for 2 Combat rounds. | :unit_attack: After the attack, place a Weakness token on the target for 2 Combat rounds. | 🚧 |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | 🚧 |\n"
+"| :attack: | 4 | **5** | 🚧 |\n"
+"| :defense: | 1 | 1 | 🚧 |\n"
+"| :health_points: | 5 | **6** | 🚧 |\n"
+"| :initiative: | 6 | 6 | 🚧 |\n"
+"| Cost | 8 :gold: | 13 :gold: | 🚧 |\n"
+"| Abilities | :unit_other: Place a Weakness token on any unit for 2 Combat rounds. | :unit_attack: After the attack, place a Weakness token on the target for 2 Combat rounds. | 🚧 |\n"

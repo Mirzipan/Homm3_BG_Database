@@ -671,7 +671,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -764,11 +764,14 @@ msgid ""
 "        ![Pack of Manticores](../assets/units-dungeon-golden-manticores-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Manticores](../assets/units-dungeon-golden-manticores-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/manticores.md
 msgid "=== \"Pack (Alternate)\""
-msgstr "=== \"Pack (alternativo)\""
+msgstr "=== \"Manada (Alternate)\""
 
 #. type: Plain text
 #: docs/units/manticores.md
@@ -778,6 +781,9 @@ msgid ""
 "        ![Pack of Manticores (Alternate)](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Manticores (Alternate)](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/manticores.md
@@ -804,6 +810,17 @@ msgid ""
 "| Cost | 10 :gold: | 18 :gold:<br>1 :valuables: | 18 :gold:<br>1 :valuables: | 18 :gold: |\n"
 "| Abilities | - | :unit_attack: For this attack, ignore the :defense: value from the target unit's card. | :unit_attack: After the Attack, roll an [Attack die](../dice.md#attack-die), on a \"0\" or a \"+1\" the target is :paralysis:. | :unit_passive: On a \"0\" or a \"+1\" outcomes on the enemy's [Attack die](../dice.md#attack-die), gain +1 :defense:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Manada (Alternate) | Neutral |\n"
+"| :--- | :---: | :---: | :---: | :---: |\n"
+"| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :golden: | :golden: |\n"
+"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| :attack: | 5 | 5 | 5 | 4 |\n"
+"| :defense: | 1 | 1 | **2** | 1 |\n"
+"| :health_points: | 6 | 6 | 6 | 7 |\n"
+"| :initiative: | 7 | **11** | **11** | 8 |\n"
+"| Cost | 10 :gold: | 18 :gold:<br>1 :valuables: | 18 :gold:<br>1 :valuables: | 18 :gold: |\n"
+"| Abilities | - | :unit_attack: For this attack, ignore the :defense: value from the target unit's card. | :unit_attack: After the Attack, roll an [Attack die](../dice.md#attack-die), on a \"0\" or a \"+1\" the target is :paralysis:. | :unit_passive: On a \"0\" or a \"+1\" outcomes on the enemy's [Attack die](../dice.md#attack-die), gain +1 :defense:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/manticores.md
@@ -811,14 +828,13 @@ msgid ""
 "**Pack** - Only the :defense: value printed on the target unit's card is "
 "ignored, bonuses provided by other cards are still valid."
 msgstr ""
-"** Pack ** - Solo el: Defensa: Valor impreso en la tarjeta de la unidad "
-"objetivo se ignora, las bonificaciones proporcionadas por otras cartas aún "
-"son válidos."
+"**Manada** - Only the :defense: value printed on the target unit's card is "
+"ignored, bonuses provided by other cards are still valid."
 
 #. type: Bullet: '- '
 #: docs/units/manticores.md
 msgid "**Pack (Alternate)** - See [Paralysis](../keywords/paralysis.md)"
-msgstr ""
+msgstr "**Manada (Alternate)** - See [Paralysis](../keywords/paralysis.md)"
 
 #. type: Bullet: '- '
 #: docs/units/manticores.md

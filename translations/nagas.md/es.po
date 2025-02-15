@@ -560,7 +560,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -653,6 +653,9 @@ msgid ""
 "        ![Pack of Nagas](../assets/units-tower-golden-nagas-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Nagas](../assets/units-tower-golden-nagas-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/nagas.md
@@ -679,3 +682,14 @@ msgid ""
 "| Cost | 13 :gold: | 18 :gold:<br>1 :valuables: |\n"
 "| Abilities | :unit_attack: Ignore Retaliation Attacks. | :unit_attack: Ignore Retaliation Attacks. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :golden: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 5 | **6** |\n"
+"| :defense: | 2 | 2 |\n"
+"| :health_points: | 7 | 7 |\n"
+"| :initiative: | 6 | **8** |\n"
+"| Cost | 13 :gold: | 18 :gold:<br>1 :valuables: |\n"
+"| Abilities | :unit_attack: Ignore Retaliation Attacks. | :unit_attack: Ignore Retaliation Attacks. |\n"

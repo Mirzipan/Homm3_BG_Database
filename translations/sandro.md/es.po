@@ -797,6 +797,11 @@ msgid ""
 "| Ⅳ | Put this card on the [Pack of Zombies Unit](../units/zombies.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Zombies**<br>:attack: 4 :defense: 1 :health_points: 3 :initiative: 5 |\n"
 "| Ⅵ | Put this card on the [Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Legion of Skeletons**<br>:attack: 4 :defense: 1 :health_points: 2 :initiative: 6 |\n"
 msgstr ""
+"| Level | Description |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | Put this card on the [Manada of Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack: 3 :defense: 1 :health_points: 2 :initiative: 6 |\n"
+"| Ⅳ | Put this card on the [Manada of Zombies Unit](../units/zombies.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Zombies**<br>:attack: 4 :defense: 1 :health_points: 3 :initiative: 5 |\n"
+"| Ⅵ | Put this card on the [Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Legion of Skeletons**<br>:attack: 4 :defense: 1 :health_points: 2 :initiative: 6 |\n"
 
 #. type: Bullet: '- '
 #: docs/heroes/sandro.md
@@ -813,6 +818,10 @@ msgid ""
 "inactive if they are upgraded to a \"Horde\". Once the \"Horde\" is defeated"
 " and they become a \"Pack\" again, their abilities function as usual."
 msgstr ""
+"**Ⅳ** - the abilities of the [Manada of Zombies](../units/zombies.md) become"
+" inactive if they are upgraded to a \"Horde\". Once the \"Horde\" is "
+"defeated and they become a \"Manada\" again, their abilities function as "
+"usual."
 
 #. type: Bullet: '- '
 #: docs/heroes/sandro.md
@@ -820,6 +829,8 @@ msgid ""
 "**Ⅵ** - can be playedon \"Few\", \"Pack\", or even \"Horde\" of "
 "[Skeletons](../units/skeletons.md)."
 msgstr ""
+"**Ⅵ** - can be playedon \"Few\", \"Manada\", or even \"Horde\" of "
+"[Skeletons](../units/skeletons.md)."
 
 #. type: Bullet: '- '
 #: docs/heroes/sandro.md
@@ -828,3 +839,6 @@ msgid ""
 "\"Legion\", they may be further upgraded to a \"Pack\" or a \"Horde\", but "
 "the \"Legion\" stays on top and its statistics are applied until defeated."
 msgstr ""
+"[^1] **Ⅵ** - If the [Skeletons](../units/skeletons.md) are upgraded to a "
+"\"Legion\", they may be further upgraded to a \"Manada\" or a \"Horde\", but"
+" the \"Legion\" stays on top and its statistics are applied until defeated."

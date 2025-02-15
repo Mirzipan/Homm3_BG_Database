@@ -621,7 +621,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -738,6 +738,9 @@ msgid ""
 "        ![Pack of Gold Dragons](../assets/units-rampart-golden-gold_dragons-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Gold Dragons](../assets/units-rampart-golden-gold_dragons-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/gold_dragons.md
@@ -764,6 +767,17 @@ msgid ""
 "| Cost | 22 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 42 :gold: |\n"
 "| Abilities | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :golden: |\n"
+"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | :azure: |\n"
+"| :attack: | 5 | **6** | 6 |\n"
+"| :defense: | 3 | 3 | 3 |\n"
+"| :health_points: | 9 | **10** | 9 |\n"
+"| :initiative: | 10 | **16** | 10 |\n"
+"| Cost | 22 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 42 :gold: |\n"
+"| Abilities | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/gold_dragons.md

@@ -621,7 +621,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -730,6 +730,9 @@ msgid ""
 "        ![Pack of Genies](../assets/units-tower-silver-genies-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Genies](../assets/units-tower-silver-genies-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/genies.md
@@ -756,6 +759,17 @@ msgid ""
 "| Cost | 8 :gold: | 12 :gold: | 11 :gold: |\n"
 "| Abilities | :unit_other: Discard 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: Discard up to 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: When attacking [Efreet](efreet.md), this unit gains +1 :attack:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| :attack: | 3 | **4** | 3 |\n"
+"| :defense: | 1 | 1 | 1 |\n"
+"| :health_points: | 6 | 6 | 4 |\n"
+"| :initiative: | 7 | **8** | 9 |\n"
+"| Cost | 8 :gold: | 12 :gold: | 11 :gold: |\n"
+"| Abilities | :unit_other: Discard 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: Discard up to 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: When attacking [Efreet](efreet.md), this unit gains +1 :attack:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/genies.md
@@ -783,6 +797,10 @@ msgid ""
 "time before they reach 3 cards and take a [spell](../spells/index.md) "
 "discarded this way to their hand."
 msgstr ""
+"**Manada** - Up to 3 cards are discard from the deck. The cards are "
+"discarded one after another. The player may decide to stop discarding cards "
+"at any time before they reach 3 cards and take a [spell](../spells/index.md)"
+" discarded this way to their hand."
 
 #. type: Bullet: '- '
 #: docs/units/genies.md
@@ -793,3 +811,8 @@ msgid ""
 "back into deck, and the remaining cards are discarded. The "
 "[spell](../spells/index.md) is then taken from the discarded cards."
 msgstr ""
+"**Few and Manada** - Should there not be enough cards to discard from the "
+"deck, the cards already discarded by the currently resolving ability are "
+"used to form the new discard pile. The old discard pile is then shuffled "
+"back into deck, and the remaining cards are discarded. The "
+"[spell](../spells/index.md) is then taken from the discarded cards."

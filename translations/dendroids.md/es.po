@@ -553,7 +553,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -655,6 +655,9 @@ msgid ""
 "        ![Pack of Dendroids](../assets/units-rampart-silver-dendroids-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Dendroids](../assets/units-rampart-silver-dendroids-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/dendroids.md
@@ -681,3 +684,14 @@ msgid ""
 "| Cost | 8 :gold: | 15 :gold: | 12 :gold: |\n"
 "| Abilities | - | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 4 | 4 | 3 |\n"
+"| :defense: | 2 | 2 | 2 |\n"
+"| :health_points: | 5 | **6** | 6 |\n"
+"| :initiative: | 3 | **4** | 3 |\n"
+"| Cost | 8 :gold: | 15 :gold: | 12 :gold: |\n"
+"| Abilities | - | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. |\n"

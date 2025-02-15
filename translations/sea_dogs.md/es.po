@@ -540,7 +540,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -633,6 +633,9 @@ msgid ""
 "        ![Pack of Sea Dogs](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Sea Dogs](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/sea_dogs.md
@@ -659,3 +662,14 @@ msgid ""
 "| Cost | 4 :gold: | 6 :gold: | 🚧 |\n"
 "| Abilities | :unit_passive: Ignore the combat penalty against adjacent units. | :unit_attack: Ignore Enemy's Retaliation Attack.<br>:unit_passive: Ignore the combat penalty against adjacent units. | 🚧 |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :bronze: | :bronze: | :bronze: |\n"
+"| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | 🚧 |\n"
+"| :attack: | 2 | 3 | 🚧 |\n"
+"| :defense: | 0 | 0 | 🚧 |\n"
+"| :health_points: | 4 | **5** | 🚧 |\n"
+"| :initiative: | 6 | **8** | 🚧 |\n"
+"| Cost | 4 :gold: | 6 :gold: | 🚧 |\n"
+"| Abilities | :unit_passive: Ignore the combat penalty against adjacent units. | :unit_attack: Ignore Enemy's Retaliation Attack.<br>:unit_passive: Ignore the combat penalty against adjacent units. | 🚧 |\n"

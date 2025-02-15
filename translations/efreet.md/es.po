@@ -546,7 +546,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -655,6 +655,9 @@ msgid ""
 "        ![Pack of Efreet](../assets/units-inferno-golden-efreet-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Efreet](../assets/units-inferno-golden-efreet-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/efreet.md
@@ -681,6 +684,17 @@ msgid ""
 "| Cost | 12 :gold: | 18 :gold:<br>1 :valuables: | 20 :gold: |\n"
 "| Abilities | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the [Fire School of Magic](../spells/school_of_fire_magic.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the[Fire School of Magic](../spells/school_of_fire_magic.md). |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :golden: |\n"
+"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| :attack: | 5 | **6** | 4 |\n"
+"| :defense: | 1 | 1 | 2 |\n"
+"| :health_points: | 7 | 7 | 6 |\n"
+"| :initiative: | 9 | **13** | 13 |\n"
+"| Cost | 12 :gold: | 18 :gold:<br>1 :valuables: | 20 :gold: |\n"
+"| Abilities | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the [Fire School of Magic](../spells/school_of_fire_magic.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the[Fire School of Magic](../spells/school_of_fire_magic.md). |\n"
 
 #. type: Bullet: '- '
 #: docs/units/efreet.md

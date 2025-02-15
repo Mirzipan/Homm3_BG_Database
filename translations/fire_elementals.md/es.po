@@ -621,7 +621,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -679,6 +679,17 @@ msgid ""
 "| Cost | 🚧 | 🚧 |\n"
 "| Abilities | 🚧 | 🚧 |\n"
 msgstr ""
+"| Statistics | Few | Manada |\n"
+"| :--- | :---: | :---: |\n"
+"| Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | 🚧 | 🚧 |\n"
+"| Type | 🚧 | 🚧 |\n"
+"| :attack: | 🚧 | 🚧 |\n"
+"| :defense: | 🚧 | 🚧 |\n"
+"| :health_points: | 🚧 | 🚧 |\n"
+"| :initiative: | 🚧 | 🚧 |\n"
+"| Cost | 🚧 | 🚧 |\n"
+"| Abilities | 🚧 | 🚧 |\n"
 
 #. type: Title #
 #: docs/units/fire_elementals.md
@@ -703,6 +714,9 @@ msgid ""
 "        ![Pack of Fire Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Fire Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Bullet: '- '
 #: docs/units/fire_elementals.md

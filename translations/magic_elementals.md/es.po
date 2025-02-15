@@ -545,7 +545,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -638,6 +638,9 @@ msgid ""
 "        ![Pack of Magic Elementals](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Magic Elementals](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/magic_elementals.md
@@ -664,3 +667,14 @@ msgid ""
 "| Cost | 12 :gold: | 18 :gold:<br>1 :valuables: | 🚧 |\n"
 "| Abilities | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. :unit_passive: Ignore any [:spell:](../spells/index.md) effects and :damage: from Specialty. | 🚧 |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :golden: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | 🚧 |\n"
+"| :attack: | 5 | **6** | 🚧 |\n"
+"| :defense: | 2 | 2 | 🚧 |\n"
+"| :health_points: | 7 | **8** | 🚧 |\n"
+"| :initiative: | 7 | **9** | 🚧 |\n"
+"| Cost | 12 :gold: | 18 :gold:<br>1 :valuables: | 🚧 |\n"
+"| Abilities | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. :unit_passive: Ignore any [:spell:](../spells/index.md) effects and :damage: from Specialty. | 🚧 |\n"

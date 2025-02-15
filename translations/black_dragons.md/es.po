@@ -671,7 +671,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -788,6 +788,9 @@ msgid ""
 "        ![Pack of Black Dragons](../assets/units-dungeon-golden-black_dragons-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Black Dragons](../assets/units-dungeon-golden-black_dragons-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/black_dragons.md
@@ -814,6 +817,17 @@ msgid ""
 "| Cost | 19 :gold:<br>1 :valuables: | 33 :gold:<br>2 :valuables: | 30 :gold: |\n"
 "| Abilities | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](../spells/index.md) by 2 to a minimum of 0. | :unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :golden: |\n"
+"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| :attack: | 6 | **8** | 5 |\n"
+"| :defense: | 3 | 3 | 2 |\n"
+"| :health_points: | 8 | 8 | 7 |\n"
+"| :initiative: | 11 | **15** | 9 |\n"
+"| Cost | 19 :gold:<br>1 :valuables: | 33 :gold:<br>2 :valuables: | 30 :gold: |\n"
+"| Abilities | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](../spells/index.md) by 2 to a minimum of 0. | :unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/black_dragons.md
@@ -821,15 +835,13 @@ msgid ""
 "**Pack** - The effects of the player's own spells and specialties are also "
 "ignored."
 msgstr ""
-"** Pack ** - Los efectos de los hechizos y especialidades del jugador "
-"también se ignoran."
+"**Manada** - The effects of the player's own spells and specialties are also"
+" ignored."
 
 #. type: Bullet: '- '
 #: docs/units/black_dragons.md
 msgid "**Pack** - Specialties are the hero-specific cards (Ⅰ, Ⅳ, and Ⅵ)."
-msgstr ""
-"** Pack ** - Las especialidades son las cartas específicas de héroes (ⅰ, ⅳ y"
-" ⅵ)."
+msgstr "**Manada** - Specialties are the hero-specific cards (Ⅰ, Ⅳ, and Ⅵ)."
 
 #. type: Bullet: '- '
 #: docs/units/black_dragons.md

@@ -621,7 +621,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -714,6 +714,9 @@ msgid ""
 "        ![Pack of Gremlins](../assets/units-tower-bronze-gremlins-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Gremlins](../assets/units-tower-bronze-gremlins-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/gremlins.md
@@ -740,6 +743,17 @@ msgid ""
 "| Cost | 0 :gold: | 2 :gold: | 2 :gold: |\n"
 "| Abilities | - | - | - |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :bronze: | :bronze: | :bronze: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| :attack: | 2 | 2 | 2 |\n"
+"| :defense: | 0 | 0 | 0 |\n"
+"| :health_points: | 2 | 2 | 2 |\n"
+"| :initiative: | 4 | **5** | 5 |\n"
+"| Cost | 0 :gold: | 2 :gold: | 2 :gold: |\n"
+"| Abilities | - | - | - |\n"
 
 #. type: Bullet: '- '
 #: docs/units/gremlins.md
@@ -748,3 +762,6 @@ msgid ""
 "[:unit_ranged:](../keywords/ranged_unit.md). Few Gremlins are a "
 "[:unit_ground:](../keywords/ground_unit.md)."
 msgstr ""
+"**Manada** - Only the Manada of Gremlins are a "
+"[:unit_ranged:](../keywords/ranged_unit.md). Few Gremlins are a "
+"[:unit_ground:](../keywords/ground_unit.md)."

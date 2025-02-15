@@ -630,7 +630,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -739,6 +739,9 @@ msgid ""
 "        ![Pack of Basilisks](../assets/units-fortress-silver-basilisks-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Basilisks](../assets/units-fortress-silver-basilisks-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/basilisks.md
@@ -765,6 +768,17 @@ msgid ""
 "| Cost | 6 :gold: | 9 :gold: | 12 :gold: |\n"
 "| Abilities | :unit_attack: On \"-1\" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: On \"-1\" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die). On a \"0\" result, :paralysis: the target. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 4 | 4 | 4 |\n"
+"| :defense: | 1 | 1 | 1 |\n"
+"| :health_points: | 4 | **5** | 4 |\n"
+"| :initiative: | 5 | **7** | 5 |\n"
+"| Cost | 6 :gold: | 9 :gold: | 12 :gold: |\n"
+"| Abilities | :unit_attack: On \"-1\" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: On \"-1\" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die). On a \"0\" result, :paralysis: the target. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/basilisks.md

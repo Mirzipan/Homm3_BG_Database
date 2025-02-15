@@ -564,7 +564,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -666,6 +666,9 @@ msgid ""
 "        ![Pack of Gnolls](../assets/units-fortress-bronze-gnolls-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Gnolls](../assets/units-fortress-bronze-gnolls-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/gnolls.md
@@ -692,3 +695,14 @@ msgid ""
 "| Cost | 2 :gold: | 3 :gold: | 3 :gold: |\n"
 "| Abilities | - | - | - |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :bronze: | :bronze: | :bronze: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 2 | 2 | 2 |\n"
+"| :defense: | 1 | 1 | 1 |\n"
+"| :health_points: | 3 | **4** | 2 |\n"
+"| :initiative: | 4 | **5** | 4 |\n"
+"| Cost | 2 :gold: | 3 :gold: | 3 :gold: |\n"
+"| Abilities | - | - | - |\n"

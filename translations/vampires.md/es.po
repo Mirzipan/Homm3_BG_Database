@@ -671,7 +671,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -764,6 +764,9 @@ msgid ""
 "        ![Pack of Vampires](../assets/units-necropolis-silver-vampires-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Vampires](../assets/units-necropolis-silver-vampires-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/vampires.md
@@ -790,6 +793,17 @@ msgid ""
 "| Cost | 8 :gold: | 12 :gold: | 9 :gold: |\n"
 "| Abilities | :unit_attack: Ignore the Retaliation Attack. | :unit_attack: Ignore the Retaliation Attack. Then remove up to 2 :damage: from this unit. | :unit_attack: Ignore Enemy's Retaliation Attack. Then remove up to 2 :damage: from this unit. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| :attack: | 4 | **5** | 3 |\n"
+"| :defense: | 1 | 1 | 0 |\n"
+"| :health_points: | 4 | 4 | 5 |\n"
+"| :initiative: | 6 | **9** | 8 |\n"
+"| Cost | 8 :gold: | 12 :gold: | 9 :gold: |\n"
+"| Abilities | :unit_attack: Ignore the Retaliation Attack. | :unit_attack: Ignore the Retaliation Attack. Then remove up to 2 :damage: from this unit. | :unit_attack: Ignore Enemy's Retaliation Attack. Then remove up to 2 :damage: from this unit. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/vampires.md
