@@ -545,7 +545,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -638,6 +638,9 @@ msgid ""
 "        ![Pack of Magma Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Magma Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/magma_elementals.md
@@ -664,3 +667,14 @@ msgid ""
 "| Cost | 9 :gold: | 13 :gold: | 🚧 |\n"
 "| Abilities | - | :activation: Add +1 :empower: to the first [Earth Magic](../spells/school_of_earth_magic.md) spell you cast during this Activation. | 🚧 |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | 🚧 |\n"
+"| :attack: | 4 | **5** | 🚧 |\n"
+"| :defense: | 2 | 2 | 🚧 |\n"
+"| :health_points: | 6 | **6** | 🚧 |\n"
+"| :initiative: | 4 | **6** | 🚧 |\n"
+"| Cost | 9 :gold: | 13 :gold: | 🚧 |\n"
+"| Abilities | - | :activation: Add +1 :empower: to the first [Earth Magic](../spells/school_of_earth_magic.md) spell you cast during this Activation. | 🚧 |\n"

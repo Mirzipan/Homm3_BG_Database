@@ -546,7 +546,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -610,6 +610,9 @@ msgid ""
 "        ![Pack of Arch Devils](../assets/units-inferno-golden-arch_devils-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Arch Devils](../assets/units-inferno-golden-arch_devils-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/arch_devils.md docs/units/archangels.md docs/units/ayssids.md
@@ -665,3 +668,14 @@ msgid ""
 "| Cost | 22 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 23 :gold: |\n"
 "| Abilities | :unit_attack: Ignores Retaliation Attacks. | :unit_attack: Ignores Retaliation Attacks.<br>:unit_passive: As a regular movement, the Arch Devils can move to any empty space. | :unit_attack: When attacking [Archangels](archangels.md), this unit gains +2 :attack:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :golden: |\n"
+"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| :attack: | 6 | **7** | 5 |\n"
+"| :defense: | 3 | 3 | 2 |\n"
+"| :health_points: | 8 | **9** | 7 |\n"
+"| :initiative: | 11 | **15** | 10 |\n"
+"| Cost | 22 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 23 :gold: |\n"
+"| Abilities | :unit_attack: Ignores Retaliation Attacks. | :unit_attack: Ignores Retaliation Attacks.<br>:unit_passive: As a regular movement, the Arch Devils can move to any empty space. | :unit_attack: When attacking [Archangels](archangels.md), this unit gains +2 :attack:. |\n"

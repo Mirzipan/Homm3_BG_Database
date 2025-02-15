@@ -276,4 +276,4 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/content/regular_stretch_goals.md
 msgid "[Alternative Pack of Manticores](../units/manticores.md)"
-msgstr ""
+msgstr "[Alternative Manada of Manticores](../units/manticores.md)"

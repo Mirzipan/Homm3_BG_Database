@@ -564,7 +564,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -666,6 +666,9 @@ msgid ""
 "        ![Pack of Gorgons](../assets/units-fortress-silver-gorgons-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Gorgons](../assets/units-fortress-silver-gorgons-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/gorgons.md
@@ -692,3 +695,14 @@ msgid ""
 "| Cost | 9 :gold: | 14 :gold: | 13 :gold: |\n"
 "| Abilities | - | :unit_attack: After the attack, roll 2 [Attack dice](../dice.md#attack-die); on a double \"0\", decrease the target unit's :health_points: to 0. | :unit_attack: After the attack, roll 2 [Attack dice](../dice.md#attack-die). On two \"-1\" results, reduce the attacked unit's :health_points: to 0. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 4 | **5** | 4 |\n"
+"| :defense: | 2 | 2 | 2 |\n"
+"| :health_points: | 5 | 5 | 4 |\n"
+"| :initiative: | 5 | **6** | 5 |\n"
+"| Cost | 9 :gold: | 14 :gold: | 13 :gold: |\n"
+"| Abilities | - | :unit_attack: After the attack, roll 2 [Attack dice](../dice.md#attack-die); on a double \"0\", decrease the target unit's :health_points: to 0. | :unit_attack: After the attack, roll 2 [Attack dice](../dice.md#attack-die). On two \"-1\" results, reduce the attacked unit's :health_points: to 0. |\n"

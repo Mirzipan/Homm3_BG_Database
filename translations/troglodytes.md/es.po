@@ -610,7 +610,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -703,6 +703,9 @@ msgid ""
 "        ![Pack of Troglodytes](../assets/units-dungeon-bronze-troglodytes-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Troglodytes](../assets/units-dungeon-bronze-troglodytes-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/troglodytes.md
@@ -729,3 +732,14 @@ msgid ""
 "| Cost | 2 :gold: | 3 :gold: | 4 :gold: |\n"
 "| Abilities | - | :unit_passive: This unit ignores :paralysis: effect. | :unit_passive: This unit ignores :paralysis: effects. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :bronze: | :bronze: | :bronze: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 2 | **3** | 2 |\n"
+"| :defense: | 1 | 1 | 1 |\n"
+"| :health_points: | 2 | 2 | 3 |\n"
+"| :initiative: | 4 | **5** | 6 |\n"
+"| Cost | 2 :gold: | 3 :gold: | 4 :gold: |\n"
+"| Abilities | - | :unit_passive: This unit ignores :paralysis: effect. | :unit_passive: This unit ignores :paralysis: effects. |\n"

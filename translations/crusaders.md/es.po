@@ -685,7 +685,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -794,6 +794,9 @@ msgid ""
 "        ![Pack of Crusaders](../assets/units-castle-silver-crusaders-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Crusaders](../assets/units-castle-silver-crusaders-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/crusaders.md
@@ -820,6 +823,17 @@ msgid ""
 "| Cost | 6 :gold: | 10 :gold: | 11 :gold: |\n"
 "| Abilities | - | :unit_attack: You can reroll every \"0\" on this unit's [Attack die](../dice.md#attack-die). | :unit_passive: During any attack, roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher outcome. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 3 | **4** | 3 |\n"
+"| :defense: | 2 | 2 | 2 |\n"
+"| :health_points: | 4 | 4 | 4 |\n"
+"| :initiative: | 5 | **6** | 5 |\n"
+"| Cost | 6 :gold: | 10 :gold: | 11 :gold: |\n"
+"| Abilities | - | :unit_attack: You can reroll every \"0\" on this unit's [Attack die](../dice.md#attack-die). | :unit_passive: During any attack, roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher outcome. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/crusaders.md
@@ -832,6 +846,8 @@ msgid ""
 "**Pack and Neutral** - The [Attack die](../dice.md#attack-die) may be "
 "rerolled until the number on the die no longer equals \"0\"."
 msgstr ""
+"**Manada and Neutral** - The [Attack die](../dice.md#attack-die) may be "
+"rerolled until the number on the die no longer equals \"0\"."
 
 #. type: Bullet: '- '
 #: docs/units/crusaders.md

@@ -607,7 +607,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -716,6 +716,9 @@ msgid ""
 "        ![Pack of Cerberi](../assets/units-inferno-bronze-cerberi-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Cerberi](../assets/units-inferno-bronze-cerberi-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/cerberi.md
@@ -742,6 +745,17 @@ msgid ""
 "| Cost | 4 :gold: | 7 :gold: | 10 :gold: |\n"
 "| Abilities | - | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :bronze: | :bronze: | :bronze: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 3 | 3 | 2 |\n"
+"| :defense: | 0 | **1** | 0 |\n"
+"| :health_points: | 4 | **5** | 5 |\n"
+"| :initiative: | 7 | **8** | 8 |\n"
+"| Cost | 4 :gold: | 7 :gold: | 10 :gold: |\n"
+"| Abilities | - | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/cerberi.md
@@ -755,6 +769,6 @@ msgid ""
 "friendly unit adjacent to their target, then the friendly unit will take the"
 " damage."
 msgstr ""
-"** Paquete y neutral ** - Si el Cerberi ataca a una unidad y solo hay una "
-"unidad amigable adyacente a su objetivo, entonces la unidad amigable "
-"recibirá el daño."
+"**Manada and Neutral** - Should the Cerberi attack a unit and there is only "
+"a friendly unit adjacent to their target, then the friendly unit will take "
+"the damage."

@@ -614,7 +614,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -732,6 +732,9 @@ msgid ""
 "        ![Pack of Unicorns](../assets/units-rampart-golden-unicorns-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Unicorns](../assets/units-rampart-golden-unicorns-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/unicorns.md
@@ -758,6 +761,17 @@ msgid ""
 "| Cost | 11 :gold: | 18 :gold:<br>1 :valuables: | 18 :gold: |\n"
 "| Abilities | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this unit by 1 (to a minimum of 0), | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), | :unit_retaliate: The target is :paralysis:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :golden: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 5 | **6** | 5 |\n"
+"| :defense: | 1 | 1 | 1 |\n"
+"| :health_points: | 8 | 8 | 7 |\n"
+"| :initiative: | 7 | **9** | 7 |\n"
+"| Cost | 11 :gold: | 18 :gold:<br>1 :valuables: | 18 :gold: |\n"
+"| Abilities | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this unit by 1 (to a minimum of 0), | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), | :unit_retaliate: The target is :paralysis:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/unicorns.md

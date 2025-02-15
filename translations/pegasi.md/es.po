@@ -614,7 +614,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -716,6 +716,9 @@ msgid ""
 "        ![Pack of Pegasi](../assets/units-rampart-silver-pegasi-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Pegasi](../assets/units-rampart-silver-pegasi-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/pegasi.md
@@ -742,6 +745,17 @@ msgid ""
 "| Cost | 6 :gold: | 10 :gold: | 14 :gold: |\n"
 "| Abilities | - | :unit_passive: The :empower: of all enemy [spells](../spells/index.md) is reduced by 1 (to a minimum of 0). | :unit_passive: Whenever an enemy casts a [:spellpower:](../spells/index.md), they must discard an additional card with :empower:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| :attack: | 3 | **4** | 3 |\n"
+"| :defense: | 0 | 0 | 0 |\n"
+"| :health_points: | 5 | **6** | 5 |\n"
+"| :initiative: | 8 | **12** | 8 |\n"
+"| Cost | 6 :gold: | 10 :gold: | 14 :gold: |\n"
+"| Abilities | - | :unit_passive: The :empower: of all enemy [spells](../spells/index.md) is reduced by 1 (to a minimum of 0). | :unit_passive: Whenever an enemy casts a [:spellpower:](../spells/index.md), they must discard an additional card with :empower:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/pegasi.md

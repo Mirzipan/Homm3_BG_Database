@@ -684,6 +684,9 @@ msgid ""
 "[units](../units/index.md) from the \"Pack\" to the \"Few\" side, if "
 "possible.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>All players flip one of their "
+"[units](../units/index.md) from the \"Manada\" to the \"Few\" side, if "
+"possible.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/terrible_plague.md

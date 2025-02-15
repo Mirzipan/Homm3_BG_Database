@@ -685,7 +685,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -794,6 +794,9 @@ msgid ""
 "        ![Pack of Dread Knights](../assets/units-necropolis-golden-dread_knights-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Dread Knights](../assets/units-necropolis-golden-dread_knights-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/dread_knights.md
@@ -820,6 +823,17 @@ msgid ""
 "| Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
 "| Abilities | :unit_attack: When retaliating after this attack, the enemy rolls 2 [Attack dice](../dice.md#attack-die) and resolves the lower result. | :unit_attack: If you resolve a \"0\" or a \"+1\" on the [Attack die](../dice.md#attack-die), increase this unit's total attack value by another \"+1\". | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :golden: | :golden: | :golden: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 5 | **6** | 5 |\n"
+"| :defense: | 2 | 2 | 1 |\n"
+"| :health_points: | 7 | 7 | 7 |\n"
+"| :initiative: | 7 | **9** | 7 |\n"
+"| Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
+"| Abilities | :unit_attack: When retaliating after this attack, the enemy rolls 2 [Attack dice](../dice.md#attack-die) and resolves the lower result. | :unit_attack: If you resolve a \"0\" or a \"+1\" on the [Attack die](../dice.md#attack-die), increase this unit's total attack value by another \"+1\". | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/dread_knights.md

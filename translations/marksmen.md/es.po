@@ -671,7 +671,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -780,6 +780,9 @@ msgid ""
 "        ![Pack of Marksmen](../assets/units-castle-bronze-marksmen-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Marksmen](../assets/units-castle-bronze-marksmen-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/marksmen.md
@@ -806,6 +809,17 @@ msgid ""
 "| Cost | 3 :gold: | 5 :gold: | 7 :gold: |\n"
 "| Abilities | - | :unit_attack: If a target is a non-adjacent unit, attack this target again. | :unit_attack: If a target is a non-adjacent unit, attack this target again. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :bronze: | :bronze: | :bronze: |\n"
+"| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| :attack: | 2 | 2 | 2 |\n"
+"| :defense: | 0 | 0 | 0 |\n"
+"| :health_points: | 2 | 2 | 3 |\n"
+"| :initiative: | 4 | **6** | 5 |\n"
+"| Cost | 3 :gold: | 5 :gold: | 7 :gold: |\n"
+"| Abilities | - | :unit_attack: If a target is a non-adjacent unit, attack this target again. | :unit_attack: If a target is a non-adjacent unit, attack this target again. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/marksmen.md
@@ -818,5 +832,5 @@ msgid ""
 "**Pack and Neutral** - The Marksmen can attack at most one additional time, "
 "not more."
 msgstr ""
-"** Paquete y neutral ** - Los tiradores pueden atacar como máximo un tiempo "
-"adicional, no más."
+"**Manada and Neutral** - The Marksmen can attack at most one additional "
+"time, not more."

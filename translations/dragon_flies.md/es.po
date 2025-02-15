@@ -564,7 +564,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -666,6 +666,9 @@ msgid ""
 "        ![Pack of Dragon Flies](../assets/units-fortress-bronze-dragon_flies-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Dragon Flies](../assets/units-fortress-bronze-dragon_flies-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/dragon_flies.md
@@ -692,3 +695,14 @@ msgid ""
 "| Cost | 4 :gold: | 7 :gold: | 7 :gold: |\n"
 "| Abilities | :unit_attack: Remove all :ongoing: effects played on the target by the enemy player. | :unit_attack: Remove all :ongoing: effects played on the target by the enemy player. If the target retaliates, it suffers - 1 :attack:. | :unit_attack: Retaliation Attacks against Dragon Flies suffer -1 :attack:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :bronze: | :bronze: | :bronze: |\n"
+"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| :attack: | 3 | 3 | 3 |\n"
+"| :defense: | 0 | **1** | 0 |\n"
+"| :health_points: | 3 | 3 | 3 |\n"
+"| :initiative: | 8 | **12** | 8 |\n"
+"| Cost | 4 :gold: | 7 :gold: | 7 :gold: |\n"
+"| Abilities | :unit_attack: Remove all :ongoing: effects played on the target by the enemy player. | :unit_attack: Remove all :ongoing: effects played on the target by the enemy player. If the target retaliates, it suffers - 1 :attack:. | :unit_attack: Retaliation Attacks against Dragon Flies suffer -1 :attack:. |\n"

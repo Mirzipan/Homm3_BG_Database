@@ -607,7 +607,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -700,6 +700,9 @@ msgid ""
 "        ![Pack of Magogs](../assets/units-inferno-bronze-magogs-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Magogs](../assets/units-inferno-bronze-magogs-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/magogs.md
@@ -726,6 +729,17 @@ msgid ""
 "| Cost | 3 :gold: | 5 :gold: | 8 :gold: |\n"
 "| Abilities | - | :unit_attack: When Magogs attack a target that is not adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. | :unit_attack: When Magogs attack a target that is non adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :bronze: | :bronze: | :bronze: |\n"
+"| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| :attack: | 2 | 2 | 2 |\n"
+"| :defense: | 0 | 0 | 0 |\n"
+"| :health_points: | 2 | **3** | 4 |\n"
+"| :initiative: | 4 | **6** | 6 |\n"
+"| Cost | 3 :gold: | 5 :gold: | 8 :gold: |\n"
+"| Abilities | - | :unit_attack: When Magogs attack a target that is not adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. | :unit_attack: When Magogs attack a target that is non adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/magogs.md
@@ -734,6 +748,6 @@ msgid ""
 "friendly unit adjacent to their target, then the friendly unit will take the"
 " 1 :damage:."
 msgstr ""
-"** Paquete y neutral ** - Si los Magogs atacan una unidad y solo hay una "
-"unidad amigable adyacente a su objetivo, entonces la unidad amigable tomará "
-"el 1: Daño:."
+"**Manada and Neutral** - Should the Magogs attack a unit and there is only a"
+" friendly unit adjacent to their target, then the friendly unit will take "
+"the 1 :damage:."

@@ -560,7 +560,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -669,6 +669,9 @@ msgid ""
 "        ![Pack of Iron Golems](../assets/units-tower-bronze-iron_golems-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Iron Golems](../assets/units-tower-bronze-iron_golems-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/iron_golems.md
@@ -695,6 +698,17 @@ msgid ""
 "| Cost | 4 :gold: | 7 :gold: | 6 :gold: |\n"
 "| Abilities | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells/index.md) by 1 - to a minimum of 0. | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells/index.md) by 2 - to a minimum of 0. | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 2 - to a minimum of 0. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :bronze: | :bronze: | :bronze: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 3 | 3 | 2 |\n"
+"| :defense: | 1 | **2** | 1 |\n"
+"| :health_points: | 3 | 3 | 4 |\n"
+"| :initiative: | 4 | **5** | 3 |\n"
+"| Cost | 4 :gold: | 7 :gold: | 6 :gold: |\n"
+"| Abilities | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells/index.md) by 1 - to a minimum of 0. | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells/index.md) by 2 - to a minimum of 0. | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 2 - to a minimum of 0. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/iron_golems.md

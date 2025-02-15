@@ -685,7 +685,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -794,6 +794,9 @@ msgid ""
 "        ![Pack of Liches](../assets/units-necropolis-silver-liches-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Liches](../assets/units-necropolis-silver-liches-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/liches.md
@@ -820,6 +823,17 @@ msgid ""
 "| Cost | 8 :gold: | 14 :gold: | 12 :gold: |\n"
 "| Abilities | - | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| :attack: | 3 | **4** | 3 |\n"
+"| :defense: | 1 | 1 | 0 |\n"
+"| :health_points: | 5 | 5 | 6 |\n"
+"| :initiative: | 6 | **7** | 7 |\n"
+"| Cost | 8 :gold: | 14 :gold: | 12 :gold: |\n"
+"| Abilities | - | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/liches.md
@@ -830,8 +844,7 @@ msgstr ""
 #: docs/units/liches.md
 msgid "**Pack and Neutral** - Liches can only do one extra attack, not more."
 msgstr ""
-"** Paquete y neutral ** - Los líquenes solo pueden hacer un ataque "
-"adicional, no más."
+"**Manada and Neutral** - Liches can only do one extra attack, not more."
 
 #. type: Bullet: '- '
 #: docs/units/liches.md
@@ -839,8 +852,8 @@ msgid ""
 "**Pack and Neutral** - The extra attacks of Liches also trigger when "
 "attacking an adjacent target."
 msgstr ""
-"** Paquete y neutral ** - Los ataques adicionales de los líquenes también se"
-" desencadenan al atacar un objetivo adyacente."
+"**Manada and Neutral** - The extra attacks of Liches also trigger when "
+"attacking an adjacent target."
 
 #. type: Bullet: '- '
 #: docs/units/liches.md
@@ -849,9 +862,9 @@ msgid ""
 "friendly unit adjacent to their target, then the friendly unit will be the "
 "target of their secondary attack (even if the unit is undead)."
 msgstr ""
-"** Paquete y neutral ** - Si los líquenes atacan una unidad y solo hay una "
-"unidad amigable adyacente a su objetivo, entonces la unidad amigable será el"
-" objetivo de su ataque secundario (incluso si la unidad es no muerta)."
+"**Manada and Neutral** - Should the Liches attack a unit and there is only a"
+" friendly unit adjacent to their target, then the friendly unit will be the "
+"target of their secondary attack (even if the unit is undead)."
 
 #. type: Bullet: '- '
 #: docs/units/liches.md
@@ -860,9 +873,9 @@ msgid ""
 "is no other unit adjacent to the target, the Liches deal the damage of the "
 "second attack to themselves."
 msgstr ""
-"** Paquete y neutral ** - Si los líquenes atacan a una unidad adyacente, y "
-"no hay otra unidad adyacente al objetivo, los líquenes infligen el daño del "
-"segundo ataque para sí mismos."
+"**Manada and Neutral** - Should the Liches attack an adjacent unit, and "
+"there is no other unit adjacent to the target, the Liches deal the damage of"
+" the second attack to themselves."
 
 #. type: Bullet: '- '
 #: docs/units/liches.md
@@ -871,9 +884,9 @@ msgid ""
 "there is another friendly unit adjacent to the target, they may target "
 "themselves for the second attack."
 msgstr ""
-"[^1] ** Paquete y neutral ** - Si los líquenes atacan una unidad adyacente, "
-"y hay otra unidad amigable adyacente al objetivo, pueden atacar a sí mismos "
-"para el segundo ataque."
+"[^1] **Manada and Neutral** - Should the Liches attack an adjacent unit, and"
+" there is another friendly unit adjacent to the target, they may target "
+"themselves for the second attack."
 
 #. type: Bullet: '- '
 #: docs/units/liches.md
@@ -884,11 +897,11 @@ msgid ""
 "attack will only be carried out after the secondary attack of Liches has "
 "been resolved."
 msgstr ""
-"** Paquete y neutral ** - Si los líquenes atacan una unidad adyacente, y "
-"luego usan el ataque secundario en una unidad que está adyacente a su "
-"objetivo original, ambos ataques se resuelven primero.El ataque de "
-"represalia solo se llevará a cabo después de que se haya resuelto el ataque "
-"secundario de Liches."
+"**Manada and Neutral** - Should the Liches attack an adjacent unit, and "
+"afterwards use the secondary attack on a unit that is adjacent to their "
+"original target, both of those attacks are resolved first. The retaliation "
+"attack will only be carried out after the secondary attack of Liches has "
+"been resolved."
 
 #. type: Bullet: '- '
 #: docs/units/liches.md
@@ -899,12 +912,11 @@ msgid ""
 " from the secondary attack, both, the original target and the target of "
 "their secondary attack perform a retaliation attack against the Liches."
 msgstr ""
-"[^1] [^2] ** Paquete y neutral ** - Solo en el campo de batalla grande: si "
-"los líquenes atacan una unidad adyacente, y tanto ellos como su objetivo "
-"tienen un enemigo adyacente común para ellos, y esta unidad adyacente "
-"comúnSe trata de daño por el ataque secundario, tanto el objetivo original y"
-" el objetivo de su ataque secundario realizan un ataque de represalia contra"
-" los líquidos."
+"[^1] [^2] **Manada and Neutral** - Only on the large Battlefield: Should the"
+" Liches attack an adjacent unit, and both them, and their target have a "
+"common adjacent enemy to them, and this common adjacent unit is dealt damage"
+" from the secondary attack, both, the original target and the target of "
+"their secondary attack perform a retaliation attack against the Liches."
 
 #. type: Link reference
 #: docs/units/liches.md

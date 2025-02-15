@@ -676,7 +676,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -769,6 +769,9 @@ msgid ""
 "        ![Pack of Medusas](../assets/units-dungeon-silver-medusas-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Medusas](../assets/units-dungeon-silver-medusas-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/medusas.md
@@ -795,6 +798,17 @@ msgid ""
 "| Cost | 6 :gold: | 12 :gold: | 11 :gold: |\n"
 "| Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../dice.md#attack-die), on a \"0\" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| :attack: | 3 | **4** | 3 |\n"
+"| :defense: | 1 | 1 | 1 |\n"
+"| :health_points: | 4 | 4 | 4 |\n"
+"| :initiative: | 5 | **6** | 6 |\n"
+"| Cost | 6 :gold: | 12 :gold: | 11 :gold: |\n"
+"| Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../dice.md#attack-die), on a \"0\" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/medusas.md
@@ -802,5 +816,5 @@ msgid ""
 "**Few** - after the Retaliation Attack, roll *another* die. The result of "
 "the die rolled as part of the attack does not apply to the ability."
 msgstr ""
-"** Pocos ** - Después del ataque de represalia, rode *otro* dado.El resultado"
-" del dado rodado como parte del ataque no se aplica a la capacidad."
+"** Pocos ** - Después del ataque de represalia, rode *otro* dado.El "
+"resultado del dado rodado como parte del ataque no se aplica a la capacidad."

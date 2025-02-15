@@ -539,7 +539,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -632,6 +632,9 @@ msgid ""
 "        ![Pack of Wolf Raiders](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Wolf Raiders](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/wolf_raiders.md
@@ -658,3 +661,14 @@ msgid ""
 "| Cost | 3 :gold: | 5 :gold: | 🚧 |\n"
 "| Abilities | - | :unit_attack: Attack this target again. The second attack happens after the target retaliates (if possible). | 🚧 |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :bronze: | :bronze: | :bronze: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | 🚧 |\n"
+"| :attack: | 2 | 2 | 🚧 |\n"
+"| :defense: | 0 | 0 | 🚧 |\n"
+"| :health_points: | 3 | **5** | 🚧 |\n"
+"| :initiative: | 7 | **8** | 🚧 |\n"
+"| Cost | 3 :gold: | 5 :gold: | 🚧 |\n"
+"| Abilities | - | :unit_attack: Attack this target again. The second attack happens after the target retaliates (if possible). | 🚧 |\n"

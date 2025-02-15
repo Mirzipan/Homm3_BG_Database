@@ -607,7 +607,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -700,6 +700,9 @@ msgid ""
 "        ![Pack of Pit Lords](../assets/units-inferno-silver-pit_lords-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada of Pit Lords](../assets/units-inferno-silver-pit_lords-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/pit_lords.md
@@ -726,6 +729,17 @@ msgid ""
 "| Cost | 8 :gold: | 15 :gold: | 15 :gold: |\n"
 "| Abilities | - | :unit_other: If one of your units has been removed from the board during this Combat, Summon or Reinforce [Demons](demons.md). | - |\n"
 msgstr ""
+"| Statistics | Few | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
+"| Tier | :silver: | :silver: | :silver: |\n"
+"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 4 | **5** | 4 |\n"
+"| :defense: | 1 | 1 | 1 |\n"
+"| :health_points: | 6 | 6 | 5 |\n"
+"| :initiative: | 6 | **7** | 7 |\n"
+"| Cost | 8 :gold: | 15 :gold: | 15 :gold: |\n"
+"| Abilities | - | :unit_other: If one of your units has been removed from the board during this Combat, Summon or Reinforce [Demons](demons.md). | - |\n"
 
 #. type: Bullet: '- '
 #: docs/units/pit_lords.md
@@ -734,6 +748,9 @@ msgid ""
 "action](../keywords/alternative_action.md), they are not allowed to move, "
 "attack or defend."
 msgstr ""
+"**Manada** - Should the Pit Lords use their [alternative "
+"action](../keywords/alternative_action.md), they are not allowed to move, "
+"attack or defend."
 
 #. type: Bullet: '- '
 #: docs/units/pit_lords.md
@@ -741,8 +758,8 @@ msgid ""
 "**Pack** - Should the Pit Lords summon [Few Demons](demons.md), they have to"
 " be placed adjacent to the Pit Lords."
 msgstr ""
-"** Pack ** - Si los señores del pozo convocan [pocos demonios] "
-"(demonios.md), tienen que ser colocados adyacentes a los señores del pozo."
+"**Manada** - Should the Pit Lords summon [Few Demons](demons.md), they have "
+"to be placed adjacent to the Pit Lords."
 
 #. type: Bullet: '- '
 #: docs/units/pit_lords.md
@@ -750,9 +767,8 @@ msgid ""
 "**Pack** - Should the Pit Lords reinforce [Few Demons](demons.md) to a [Pack"
 " of Demons](demons.md), there is no recruitment cost to be paid."
 msgstr ""
-"** Pack ** - Si los señores del pozo refuerzan [pocos demonios] (demons.md) "
-"a un [paquete de demonios] (demons.md), no hay costo de reclutamiento por "
-"pagar."
+"**Manada** - Should the Pit Lords reinforce [Few Demons](demons.md) to a "
+"[Manada of Demons](demons.md), there is no recruitment cost to be paid."
 
 #. type: Bullet: '- '
 #: docs/units/pit_lords.md
@@ -762,11 +778,10 @@ msgid ""
 " to the initiative of the Pit Lords. If the initiative is higher, they are "
 "treated as if they were already activated during this Combat round."
 msgstr ""
-"** Pack ** - Los invocados [demonios] (demons.md) se activarán durante la "
-"ronda de combate cuando fueron convocados, siempre que su iniciativa sea "
-"menor o igual a la iniciativa de los señores del pozo.Si la iniciativa es "
-"más alta, se tratan como si ya estuvieran activadas durante esta ronda de "
-"combate."
+"**Manada** - The summoned [Demons](demons.md) will activate during the "
+"Combat round when they were summoned, as long as their initiative is lower "
+"or equal to the initiative of the Pit Lords. If the initiative is higher, "
+"they are treated as if they were already activated during this Combat round."
 
 #. type: Bullet: '- '
 #: docs/units/pit_lords.md
@@ -774,8 +789,8 @@ msgid ""
 "**Pack** - The summoned or reinforced [Demons](demons.md) stay in the "
 "player's army after the end of the Combat."
 msgstr ""
-"** Pack ** - Los [Demons] (Demons.MD) invocados o reforzados (Demons.MD) se "
-"quedan en el ejército del jugador después del final del combate."
+"**Manada** - The summoned or reinforced [Demons](demons.md) stay in the "
+"player's army after the end of the Combat."
 
 #. type: Bullet: '- '
 #: docs/units/pit_lords.md
@@ -783,5 +798,5 @@ msgid ""
 "**Pack** - The Pit Lords may only summon or reinforce [Demons](demons.md) "
 "once per Combat."
 msgstr ""
-"** Pack ** - Los señores del pozo solo pueden convocar o reforzar [demonios]"
-" (demonios.md) una vez por combate."
+"**Manada** - The Pit Lords may only summon or reinforce [Demons](demons.md) "
+"once per Combat."
