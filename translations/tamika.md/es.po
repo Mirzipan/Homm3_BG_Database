@@ -605,7 +605,7 @@ msgstr "[Lista de Héroes](index.md)"
 #: docs/heroes/tamika.md docs/heroes/wystan.md
 #, no-wrap
 msgid "Appearances As Player Hero"
-msgstr "Apariciones como Héroe Jugador"
+msgstr "Apariciones Como Héroe Jugador"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/ivor.md docs/heroes/jeremy.md
