@@ -618,6 +618,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Wisdom](../abilities/wisdom.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Sabiduría](../abilities/wisdom.md)</p>\n"
 
 #. type: Title ##
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md

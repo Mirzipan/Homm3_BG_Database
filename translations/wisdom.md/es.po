@@ -587,6 +587,7 @@ msgstr "Sabiduría"
 #: docs/abilities/wisdom.md
 msgid "![Wisdom](../assets/abilities-wisdom.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Sabiduría](../assets/abilities-wisdom.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/abilities/wisdom.md
