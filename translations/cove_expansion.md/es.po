@@ -278,7 +278,7 @@ msgstr "[Lista de contenido] (index.md)"
 #: docs/content/cove_expansion.md
 #, no-wrap
 msgid "Cove Expansion"
-msgstr "Expansión de la cala"
+msgstr "Expansión de Ensenada"
 
 #. type: Plain text
 #: docs/content/cove_expansion.md

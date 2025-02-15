@@ -345,7 +345,7 @@ msgstr "Campo visitable"
 #: docs/keywords/visitable_field.md
 #, no-wrap
 msgid "List of Visitable Fields"
-msgstr "Lista de campos visitables"
+msgstr "Lista de Lugares visitables"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md

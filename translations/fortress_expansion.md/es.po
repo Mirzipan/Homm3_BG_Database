@@ -245,7 +245,7 @@ msgstr "[Lista de contenido] (index.md)"
 #: docs/content/fortress_expansion.md
 #, no-wrap
 msgid "Fortress Expansion"
-msgstr "Expansión de la fortaleza"
+msgstr "Expansión de Fortaleza"
 
 #. type: Plain text
 #: docs/content/fortress_expansion.md

@@ -335,7 +335,7 @@ msgstr "Campo de bandera"
 #: docs/keywords/flaggable_field.md
 #, no-wrap
 msgid "List of Flaggable Fields"
-msgstr "Lista de campos Flaggables"
+msgstr "Lista de Lugares Flaggables"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md

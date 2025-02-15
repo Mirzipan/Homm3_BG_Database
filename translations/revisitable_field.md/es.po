@@ -340,7 +340,7 @@ msgstr "Campo revisible"
 #: docs/keywords/revisitable_field.md
 #, no-wrap
 msgid "List of Revisitable Fields"
-msgstr "Lista de campos revisitables"
+msgstr "Lista de Lugares revisitables"
 
 #. type: Bullet: '- '
 #: docs/keywords/revisitable_field.md docs/tiles/fx5.md
