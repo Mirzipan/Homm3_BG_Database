@@ -621,12 +621,12 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/heroes/alamar.md docs/heroes/mutare.md
 msgid "Dragon’s Blood - 2. Blood Of The Dragon Father"
-msgstr "Dragón’s Blood - 2. Sangre del padre del dragón"
+msgstr "Sangre de Dragón - 2. Sangre del Padre Dragón"
 
 #. type: Bullet: '- '
 #: docs/heroes/alamar.md docs/heroes/mutare.md
 msgid "Dragon’s Blood - 3. Blood Thirsty"
-msgstr "Dragon’s Blood - 3. Santa Santa"
+msgstr "Sangre de Dragón - 3. Sediento de Sangre"
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md docs/heroes/mutare.md

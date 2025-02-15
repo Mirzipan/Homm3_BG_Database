@@ -721,7 +721,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/alamar.md
 msgid "=== \"Resurrection Ⅰ\""
-msgstr "=== \"Resurrección ⅰ\""
+msgstr "=== \"Resurrección I\""
 
 #. type: Plain text
 #: docs/heroes/alamar.md
@@ -731,11 +731,14 @@ msgid ""
 "        ![Resurrection Ⅰ](../assets/hero_specialties-dungeon-alamar-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Resurrección Ⅰ](../assets/hero_specialties-dungeon-alamar-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/alamar.md
 msgid "=== \"Resurrection Ⅳ\""
-msgstr "=== \"Resurrección ⅳ\""
+msgstr "=== \"Resurrección IV\""
 
 #. type: Plain text
 #: docs/heroes/alamar.md
@@ -745,11 +748,14 @@ msgid ""
 "        ![Resurrection Ⅳ](../assets/hero_specialties-dungeon-alamar-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Resurrección Ⅳ](../assets/hero_specialties-dungeon-alamar-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/alamar.md
 msgid "=== \"Resurrection Ⅵ\""
-msgstr "=== \"Resurrección ⅵ\""
+msgstr "=== \"Resurrección VI\""
 
 #. type: Plain text
 #: docs/heroes/alamar.md
@@ -759,6 +765,9 @@ msgid ""
 "        ![Resurrection Ⅵ](../assets/hero_specialties-dungeon-alamar-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Resurrección Ⅵ](../assets/hero_specialties-dungeon-alamar-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/alamar.md
@@ -770,16 +779,21 @@ msgid ""
 "| Ⅳ | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \\*:bronze:<br>:empower: 1 - \\*:silver:<br>:empower: 3 - \\*:golden: |\n"
 "| Ⅵ | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \\*:bronze:<br>:empower: 0 - \\*:silver:<br>:empower: 2 - \\*:golden: |\n"
 msgstr ""
+"| Nivel | Descripción |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: Cancela un ataque que debería reducir los :health_points: de tu [unidad](../units/index.md) \\* a 0.<br><br> :empower: 1 - \\*:bronze:<br>:empower: 2 - \\*:silver:<br>:empower: 4 - \\*:golden: |\n"
+"| Ⅳ | :instant: Cancela un ataque que debería reducir los :health_points: de tu [unidad](../units/index.md) \\* a 0.<br><br> :empower: 0 - \\*:bronze:<br>:empower: 1 - \\*:silver:<br>:empower: 3 - \\*:golden: |\n"
+"| Ⅵ | :instant: Cancela un ataque que debería reducir los :health_points: de tu [unidad](../units/index.md) \\* a 0.<br><br> :empower: 0 - \\*:bronze:<br>:empower: 0 - \\*:silver:<br>:empower: 2 - \\*:golden: |\n"
 
 #. type: Bullet: '- '
 #: docs/heroes/alamar.md docs/heroes/mutare.md
 msgid "Dragon’s Blood - 2. Blood Of The Dragon Father"
-msgstr "Dragón’s Blood - 2. Sangre del padre del dragón"
+msgstr "Sangre de Dragón - 2. Sangre del Padre Dragón"
 
 #. type: Bullet: '- '
 #: docs/heroes/alamar.md docs/heroes/mutare.md
 msgid "Dragon’s Blood - 3. Blood Thirsty"
-msgstr "Dragon’s Blood - 3. Santa Santa"
+msgstr "Sangre de Dragón - 3. Sediento de Sangre"
 
 #. type: Bullet: '- '
 #: docs/heroes/alamar.md docs/heroes/sephinroth.md
@@ -792,4 +806,4 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/heroes/alamar.md
 msgid "See [Resurrection Spell](../spells/resurrection.md)"
-msgstr ""
+msgstr "Ver [Hechizo Resurrección](../spells/resurrection.md)"
