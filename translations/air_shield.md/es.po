@@ -424,19 +424,20 @@ msgstr "Ver También"
 #: docs/spells/air_shield.md docs/spells/sacrifice.md docs/units/fangarm.md
 #: docs/units/leprechaun.md docs/units/satyrs.md docs/units/steel_golems.md
 msgid "[Regular Stretch Goals 2024](../content/regular_stretch_goals.md)"
-msgstr ""
+msgstr "[Objetivos de Finanación Regular 2024](../content/regular_stretch_goals.md)"
 
 #. type: Title #
 #: docs/spells/air_shield.md
 #, no-wrap
 msgid "Air Shield"
-msgstr "Escudo de aire"
+msgstr "Escudo de Aire"
 
 #. type: Plain text
 #: docs/spells/air_shield.md
 msgid ""
 "![Air Shield](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Escudo de Aire](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/air_shield.md docs/spells/disrupting_ray.md
@@ -447,6 +448,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>[Basic Air "
 "Spell](school_of_air_magic.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>[Hechizo de Aire "
+"Básico](school_of_air_magic.md)</p>\n"
 
 #. type: Plain text
 #: docs/spells/air_shield.md
@@ -458,6 +461,11 @@ msgid ""
 "+1 :defense:<br>:empower: 1 ➣ +2 :defense:<br>:empower: 2 ➣ +3 "
 ":defense:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:ongoing: Hasta el final del "
+"Combate, la [unit](../units/index.md) seleccionada gana \\* cuando sea "
+"atacada por una [unidad](../units/index.md) :unit_ranged:.<br><br>:empower: 0 ➣ "
+"+1 :defense:<br>:empower: 1 ➣ +2 :defense:<br>:empower: 2 ➣ +3 "
+":defense:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/chain_lightning.md
@@ -469,7 +477,7 @@ msgstr ""
 #: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
 #: docs/spells/view_air.md
 msgid "[School of Air Magic](school_of_air_magic.md)"
-msgstr "[School of Air Magic] (School_of_air_magic.md)"
+msgstr "[Escuela de Magia de Aire](School_of_air_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
@@ -495,4 +503,4 @@ msgstr "[School of Air Magic] (School_of_air_magic.md)"
 #: docs/spells/town_portal.md docs/spells/view_air.md
 #: docs/spells/view_earth.md docs/spells/visions.md docs/spells/weakness.md
 msgid "[List of Spells](index.md)"
-msgstr "[Lista de hechizos] (index.md)"
+msgstr "[Lista de Hechizos](index.md)"

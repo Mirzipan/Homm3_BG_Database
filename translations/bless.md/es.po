@@ -569,7 +569,7 @@ msgstr ""
 #: docs/spells/town_portal.md docs/spells/view_air.md
 #: docs/spells/view_earth.md docs/spells/visions.md docs/spells/weakness.md
 msgid "[List of Spells](index.md)"
-msgstr "[Lista de hechizos] (index.md)"
+msgstr "[Lista de Hechizos](index.md)"
 
 #. type: Title #
 #: docs/spells/bless.md

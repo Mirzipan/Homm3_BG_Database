@@ -580,7 +580,7 @@ msgstr ""
 #: docs/spells/berserk.md docs/spells/magic_arrow.md docs/spells/fortune.md
 #: docs/spells/bless.md docs/spells/prayer.md
 msgid "[List of Spells](index.md)"
-msgstr "[Lista de hechizos] (index.md)"
+msgstr "[Lista de Hechizos](index.md)"
 
 #. type: Plain text
 #: docs/spells/earthquake.md docs/spells/shield.md docs/spells/view_earth.md

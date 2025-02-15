@@ -231,7 +231,7 @@ msgstr "Ver También"
 #: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
 #: docs/spells/view_air.md
 msgid "[School of Air Magic](school_of_air_magic.md)"
-msgstr "[School of Air Magic] (School_of_air_magic.md)"
+msgstr "[Escuela de Magia de Aire](School_of_air_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
@@ -257,7 +257,7 @@ msgstr "[School of Air Magic] (School_of_air_magic.md)"
 #: docs/spells/town_portal.md docs/spells/view_air.md
 #: docs/spells/view_earth.md docs/spells/visions.md docs/spells/weakness.md
 msgid "[List of Spells](index.md)"
-msgstr "[Lista de hechizos] (index.md)"
+msgstr "[Lista de Hechizos](index.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/berserk.md docs/spells/blind.md docs/spells/bloodlust.md
