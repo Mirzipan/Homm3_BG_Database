@@ -640,7 +640,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -779,6 +779,9 @@ msgid ""
 "        ![Few Ghost Dragons](../assets/units-necropolis-golden-ghost_dragons-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Ghost Dragons](../assets/units-necropolis-golden-ghost_dragons-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/ghost_dragons.md
@@ -817,7 +820,7 @@ msgid ""
 "| Cost | 19 :gold:<br>1 :valuables: | 32 :gold:<br>2 :valuables: | 28 :gold: |\n"
 "| Abilities | :activation: Discard the enemy's :morale_positive: token. | :activation: Discard the enemy's :morale_positive: token.<br>:unit_attack: Add +1 to your [Attack die](../dice.md#attack-die) result. | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die); if the result is \"0\", the target must immediately move away 1 space. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :golden: | :golden: | :golden: |\n"

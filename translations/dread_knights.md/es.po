@@ -654,7 +654,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -785,6 +785,9 @@ msgid ""
 "        ![Few Dread Knights](../assets/units-necropolis-golden-dread_knights-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Dread Knights](../assets/units-necropolis-golden-dread_knights-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/dread_knights.md
@@ -823,7 +826,7 @@ msgid ""
 "| Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
 "| Abilities | :unit_attack: When retaliating after this attack, the enemy rolls 2 [Attack dice](../dice.md#attack-die) and resolves the lower result. | :unit_attack: If you resolve a \"0\" or a \"+1\" on the [Attack die](../dice.md#attack-die), increase this unit's total attack value by another \"+1\". | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :golden: | :golden: | :golden: |\n"
@@ -855,3 +858,7 @@ msgid ""
 "against a few Dread Knights, they're abilities cancel out and a single "
 "[Attack die](../dice.md#attack-die) is rolled as if it was a regular attack."
 msgstr ""
+"[^1] **Pocos** - Should the Dread Knights attack neutral "
+"[Crusaders](crusaders.md), when the [Crusaders](crusaders.md) retaliate "
+"against a few Dread Knights, they're abilities cancel out and a single "
+"[Attack die](../dice.md#attack-die) is rolled as if it was a regular attack."

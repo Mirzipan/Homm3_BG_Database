@@ -529,7 +529,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -660,6 +660,9 @@ msgid ""
 "        ![Few Iron Golems](../assets/units-tower-bronze-iron_golems-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Iron Golems](../assets/units-tower-bronze-iron_golems-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/iron_golems.md
@@ -698,7 +701,7 @@ msgid ""
 "| Cost | 4 :gold: | 7 :gold: | 6 :gold: |\n"
 "| Abilities | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells/index.md) by 1 - to a minimum of 0. | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells/index.md) by 2 - to a minimum of 0. | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 2 - to a minimum of 0. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze: | :bronze: | :bronze: |\n"

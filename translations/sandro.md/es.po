@@ -829,7 +829,7 @@ msgid ""
 "**Ⅵ** - can be playedon \"Few\", \"Pack\", or even \"Horde\" of "
 "[Skeletons](../units/skeletons.md)."
 msgstr ""
-"**Ⅵ** - can be playedon \"Few\", \"Manada\", or even \"Horde\" of "
+"**Ⅵ** - can be playedon \"Pocos\", \"Pack\", or even \"Horde\" of "
 "[Skeletons](../units/skeletons.md)."
 
 #. type: Bullet: '- '

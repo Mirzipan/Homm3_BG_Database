@@ -508,7 +508,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -623,6 +623,9 @@ msgid ""
 "        ![Few Behemoths](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Behemoths](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/behemoths.md
@@ -661,7 +664,7 @@ msgid ""
 "| Cost | 19 :gold:<br>1 :valuables: | 29 :gold:<br>2 :valuables: | 🚧 |\n"
 "| Abilities | :unit_attack: Decrease the target's :defense: by 1 (to a minimum of 0). | :unit_attack: Decrease the target's :defense: by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. | 🚧 |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :golden: | :golden: | :golden: |\n"

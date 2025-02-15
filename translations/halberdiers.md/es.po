@@ -579,7 +579,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -694,6 +694,9 @@ msgid ""
 "        ![Few Halberdiers](../assets/units-castle-bronze-halberdiers-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Halberdiers](../assets/units-castle-bronze-halberdiers-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/halberdiers.md
@@ -732,7 +735,7 @@ msgid ""
 "| Cost | 2 :gold: | 3 :gold: | 4 :gold: |\n"
 "| Abilities | - | :unit_passive: When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](../dice.md#attack-die) roll result. | :unit_passive: Treat allied adjacent units as if they had a Defense token. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze: | :bronze: | :bronze: |\n"

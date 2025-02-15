@@ -576,7 +576,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -707,6 +707,9 @@ msgid ""
 "        ![Few Cerberi](../assets/units-inferno-bronze-cerberi-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Cerberi](../assets/units-inferno-bronze-cerberi-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/cerberi.md
@@ -745,7 +748,7 @@ msgid ""
 "| Cost | 4 :gold: | 7 :gold: | 10 :gold: |\n"
 "| Abilities | - | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze: | :bronze: | :bronze: |\n"

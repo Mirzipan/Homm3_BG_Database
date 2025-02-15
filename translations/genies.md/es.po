@@ -590,7 +590,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -721,6 +721,9 @@ msgid ""
 "        ![Few Genies](../assets/units-tower-silver-genies-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Genies](../assets/units-tower-silver-genies-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/genies.md
@@ -759,7 +762,7 @@ msgid ""
 "| Cost | 8 :gold: | 12 :gold: | 11 :gold: |\n"
 "| Abilities | :unit_other: Discard 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: Discard up to 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: When attacking [Efreet](efreet.md), this unit gains +1 :attack:. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :silver: | :silver: | :silver: |\n"
@@ -783,6 +786,9 @@ msgid ""
 "action](../keywords/alternative_action.md), they are not allowed to move, "
 "attack or defend."
 msgstr ""
+"**Pocos** - Should the Genies use their [alternative "
+"action](../keywords/alternative_action.md), they are not allowed to move, "
+"attack or defend."
 
 #. type: Bullet: '- '
 #: docs/units/genies.md
@@ -811,7 +817,7 @@ msgid ""
 "back into deck, and the remaining cards are discarded. The "
 "[spell](../spells/index.md) is then taken from the discarded cards."
 msgstr ""
-"**Few and Manada** - Should there not be enough cards to discard from the "
+"**Pocos and Pack** - Should there not be enough cards to discard from the "
 "deck, the cards already discarded by the currently resolving ability are "
 "used to form the new discard pile. The old discard pile is then shuffled "
 "back into deck, and the remaining cards are discarded. The "

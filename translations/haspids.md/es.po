@@ -509,7 +509,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -624,6 +624,9 @@ msgid ""
 "        ![Few Haspids](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Haspids](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/haspids.md
@@ -662,7 +665,7 @@ msgid ""
 "| Cost | 18 :gold:<br>1 :valuables: | 32 :gold:<br>2 :valuables: | 🚧 |\n"
 "| Abilities | :unit_attack: If this unit turns from Pack side in this combat, gain +2 :attack: | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:. | 🚧 |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :golden: | :golden: | :golden: |\n"
@@ -672,4 +675,4 @@ msgstr ""
 "| :health_points: | 7 | **9** | 🚧 |\n"
 "| :initiative: | 9 | **12** | 🚧 |\n"
 "| Cost | 18 :gold:<br>1 :valuables: | 32 :gold:<br>2 :valuables: | 🚧 |\n"
-"| Abilities | :unit_attack: If this unit turns from Manada side in this combat, gain +2 :attack: | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:. | 🚧 |\n"
+"| Abilities | :unit_attack: If this unit turns from Pack side in this combat, gain +2 :attack: | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:. | 🚧 |\n"

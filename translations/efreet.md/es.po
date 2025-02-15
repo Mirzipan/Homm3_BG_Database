@@ -515,7 +515,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -646,6 +646,9 @@ msgid ""
 "        ![Few Efreet](../assets/units-inferno-golden-efreet-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Efreet](../assets/units-inferno-golden-efreet-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/efreet.md
@@ -684,7 +687,7 @@ msgid ""
 "| Cost | 12 :gold: | 18 :gold:<br>1 :valuables: | 20 :gold: |\n"
 "| Abilities | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the [Fire School of Magic](../spells/school_of_fire_magic.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the[Fire School of Magic](../spells/school_of_fire_magic.md). |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :golden: | :golden: | :golden: |\n"

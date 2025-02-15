@@ -684,6 +684,9 @@ msgid ""
 "**Reinforce** a [unit](../units/index.md) on the \"Few\" side at half the "
 "cost.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>Each player can immediately "
+"**Reinforce** a [unit](../units/index.md) on the \"Pocos\" side at half the "
+"cost.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/isras_friends.md

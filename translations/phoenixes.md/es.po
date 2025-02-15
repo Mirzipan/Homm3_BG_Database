@@ -514,7 +514,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -629,6 +629,9 @@ msgid ""
 "        ![Few Phoenixes](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Phoenixes](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/phoenixes.md
@@ -667,7 +670,7 @@ msgid ""
 "| Cost | 21 :gold:<br>1 :valuables: | 27 :gold:<br>2 :valuables: | 🚧 |\n"
 "| Abilities | :unit_passive: Once per Combat. When this unit's :health_points: drops to 0, set it to 1 instead. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | 🚧 |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :golden: | :golden: | :golden: |\n"

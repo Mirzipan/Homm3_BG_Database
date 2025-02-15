@@ -576,7 +576,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -691,6 +691,9 @@ msgid ""
 "        ![Few Magogs](../assets/units-inferno-bronze-magogs-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Magogs](../assets/units-inferno-bronze-magogs-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/magogs.md
@@ -729,7 +732,7 @@ msgid ""
 "| Cost | 3 :gold: | 5 :gold: | 8 :gold: |\n"
 "| Abilities | - | :unit_attack: When Magogs attack a target that is not adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. | :unit_attack: When Magogs attack a target that is non adjacent to them, they also deal 1 :damage: to a unit adjacent to the target. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze: | :bronze: | :bronze: |\n"

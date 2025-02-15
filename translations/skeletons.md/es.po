@@ -640,7 +640,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -771,6 +771,9 @@ msgid ""
 "        ![Few Skeletons](../assets/units-necropolis-bronze-skeletons-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Skeletons](../assets/units-necropolis-bronze-skeletons-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/skeletons.md
@@ -809,7 +812,7 @@ msgid ""
 "| Cost | 2 :gold: | 3 :gold: | 3 :gold: |\n"
 "| Abilities | - | - | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](../towns/necropolis.md#heroes), immediately Reinforce 1 of your :bronze: units. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze: | :bronze: | :bronze: |\n"
@@ -839,8 +842,8 @@ msgid ""
 "side of the unit is transferred to the Pack side."
 msgstr ""
 "**Neutral** - A [Necropolis](../towns/necropolis.md) player can reinforce "
-"their :bronze: unit during ongoing Combat. Any damage present on the Few "
-"side of the unit is transferred to the Manada side."
+"their :bronze: unit during ongoing Combat. Any damage present on the Pocos "
+"side of the unit is transferred to the Pack side."
 
 #. type: Bullet: '- '
 #: docs/units/skeletons.md

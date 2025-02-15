@@ -508,7 +508,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -639,6 +639,9 @@ msgid ""
 "        ![Few Cyclops](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Cyclops](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/cyclops.md
@@ -677,7 +680,7 @@ msgid ""
 "| Cost | 13 :gold: | 17 :gold:<br>1 :valuables: | 🚧 |\n"
 "| Abilities | :unit_other: This unit can destroy the Gate or a Wall. | :unit_other: This unit can destroy the Gate, a Wall, or the [Arrow Tower](arrow_tower.md). | 🚧 |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :golden: | :golden: | :golden: |\n"

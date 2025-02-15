@@ -597,7 +597,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -721,6 +721,9 @@ msgid ""
 "        ![Few Dwarves](../assets/units-rampart-bronze-dwarves-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Dwarves](../assets/units-rampart-bronze-dwarves-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/dwarves.md
@@ -759,7 +762,7 @@ msgid ""
 "| Cost | 3 :gold: | 4 :gold: | 4 :gold: |\n"
 "| Abilities | :unit_passive: If this unit is targeted by any [Spell](../spells/index.md) or [Specialty](../heroes/index.md) card, roll 1 [Attack die](../dice.md#attack-die). On a \"+1\" result, ignore the card's effect. | :unit_passive: If this unit is targeted by any [Spell](../spells/index.md) or [Specialty](../heroes/index.md) card, roll 1 [Attack die](../dice.md#attack-die). On a \"+1\" result, ignore the card's effect. | :unit_passive: If this unit is targeted by any [Spell](../spells/index.md) or [Specialty](../heroes/index.md) card, roll 1 [Attack die](../dice.md#attack-die). On a \"+1\" result, ignore the card's effect. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze: | :bronze: | :bronze: |\n"

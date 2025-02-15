@@ -645,7 +645,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -760,6 +760,9 @@ msgid ""
 "        ![Few Medusas](../assets/units-dungeon-silver-medusas-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Medusas](../assets/units-dungeon-silver-medusas-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/medusas.md
@@ -798,7 +801,7 @@ msgid ""
 "| Cost | 6 :gold: | 12 :gold: | 11 :gold: |\n"
 "| Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../dice.md#attack-die), on a \"0\" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :silver: | :silver: | :silver: |\n"

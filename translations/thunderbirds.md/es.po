@@ -508,7 +508,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -639,6 +639,9 @@ msgid ""
 "        ![Few Thunderbirds](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Thunderbirds](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/thunderbirds.md
@@ -677,7 +680,7 @@ msgid ""
 "| Cost | 8 :gold: | 14 :gold: | 🚧 |\n"
 "| Abilities | - | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](../dice.md#attack-die), on a \"+1\", deal 1 :spell: :damage: to the target. | 🚧 |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :silver: | :silver: | :silver: |\n"

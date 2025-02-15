@@ -722,7 +722,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -837,6 +837,9 @@ msgid ""
 "        ![Few Wraiths](../assets/units-necropolis-bronze-wraiths-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Wraiths](../assets/units-necropolis-bronze-wraiths-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/wraiths.md
@@ -875,7 +878,7 @@ msgid ""
 "| Cost | 4 :gold: | 6 :gold: | 7 :gold: |\n"
 "| Abilities | :activation: Remove up to 1 :damage: from this unit. | :activation: Remove up to 1 :damage: from this unit, then discard 1 random card from the enemy's hand. | :activation: Remove up to 2 :damage: from this unit. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze: | :bronze: | :bronze: |\n"
@@ -900,5 +903,5 @@ msgid ""
 "Pack) Wraiths, and the Neutral variant removes up to 1 :damage:."
 msgstr ""
 "If Wraiths were attacked by [Wyverns](wyverns.md), both the damage and the "
-"healing take place simultaneously. Nothing happens for faction (Few and "
-"Manada) Wraiths, and the Neutral variant removes up to 1 :damage:."
+"healing take place simultaneously. Nothing happens for faction (Pocos and "
+"Pack) Wraiths, and the Neutral variant removes up to 1 :damage:."
