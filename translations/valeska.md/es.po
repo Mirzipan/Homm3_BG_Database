@@ -488,7 +488,7 @@ msgstr ""
 #: docs/units/wraiths.md docs/units/wyverns.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[List of Towns](../towns/index.md)"
-msgstr ""
+msgstr "[Lista de Ciudades](../towns/index.md)"
 
 #. type: Plain text
 #: docs/heroes/adelaide.md docs/heroes/catherine.md docs/heroes/ingham.md

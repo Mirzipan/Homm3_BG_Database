@@ -500,7 +500,7 @@ msgstr "Ver También"
 #: docs/towns/conflux.md docs/towns/stronghold.md docs/towns/inferno.md
 #: docs/towns/cove.md docs/towns/castle.md
 msgid "[List of Towns](../towns/index.md)"
-msgstr ""
+msgstr "[Lista de Ciudades](../towns/index.md)"
 
 #. type: Title ##
 #: docs/heroes/zydar.md docs/heroes/cassiopeia.md docs/heroes/adrienne.md
