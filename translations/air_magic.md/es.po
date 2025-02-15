@@ -20,7 +20,7 @@ msgstr ""
 #: docs/abilities/air_magic.md
 #, no-wrap
 msgid "Air Magic"
-msgstr "Magia del aire"
+msgstr "Magia de Aire"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md
@@ -28,6 +28,8 @@ msgid ""
 "![Air Magic](../assets/abilities-air_magic.webp){ width=\"340\" align=right "
 "}"
 msgstr ""
+"![Magia de Aire](../assets/abilities-air_magic.webp){ width=\"340\" align=right "
+"}"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -47,6 +49,7 @@ msgstr ""
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Ability](index.md)</p>\n"
 msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md
@@ -55,6 +58,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for "
 "spells from [School of Air Magic](../spells/school_of_air_magic.md).</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for "
+"spells from [Escuela de Magia de Aire](../spells/school_of_air_magic.md).</p>\n"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -83,6 +88,9 @@ msgid ""
 "the [School of Air](../spells/school_of_air_magic.md), you can discard this "
 "card, then gain +3 :empower:.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>Mientras lanzas :spellpower: de la "
+"[Escuela de Aire](../spells/school_of_air_magic.md), puedes descartar esta "
+"carta, entonces ganas +3 :empower:.</p>\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -159,7 +167,7 @@ msgstr ""
 #: docs/abilities/fire_magic.md docs/abilities/water_magic.md
 #: docs/artifacts/inexhaustible_cart_of_ore.md
 msgid "See [Permanent Effect](../keywords/permanent_effect.md)"
-msgstr ""
+msgstr "Ver [Efecto Permanente](../keywords/permanent_effect.md)"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -375,7 +383,7 @@ msgstr "Viene Con"
 #: docs/units/iron_golems.md docs/units/magi.md docs/units/nagas.md
 #: docs/units/titans.md
 msgid "[Tower Expansion](../content/tower_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Torre](../content/tower_expansion.md)"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -603,4 +611,4 @@ msgstr "[Lista de Habilidades](index.md)"
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md
 msgid "[School of Air Magic](../spells/school_of_air_magic.md)"
-msgstr ""
+msgstr "[Escuela de Magia de Aire](../spells/school_of_air_magic.md)"
