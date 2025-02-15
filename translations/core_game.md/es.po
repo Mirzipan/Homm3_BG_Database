@@ -245,7 +245,7 @@ msgstr "[Lista de contenido] (index.md)"
 #: docs/content/core_game.md
 #, no-wrap
 msgid "Core Game"
-msgstr "Juego central"
+msgstr "Juego Base"
 
 #. type: Plain text
 #: docs/content/core_game.md
@@ -264,6 +264,18 @@ msgid ""
 "\t![Core Game Dungeon](../assets/content-core_game-inside_03.webp){ width=540 align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"\t![Juego Base Box](../assets/content-core_game-box.webp){ width=540 align=right }\n"
+"</figure>\n"
+"<figure markdown=\"span\">\n"
+"\t![Juego Base Castle](../assets/content-core_game-inside_01.webp){ width=540 align=right }\n"
+"</figure>\n"
+"<figure markdown=\"span\">\n"
+"\t![Juego Base Necropolis](../assets/content-core_game-inside_02.webp){ width=540 align=right }\n"
+"</figure>\n"
+"<figure markdown=\"span\">\n"
+"\t![Juego Base Dungeon](../assets/content-core_game-inside_03.webp){ width=540 align=right }\n"
+"</figure>\n"
 
 #. type: Bullet: '- '
 #: docs/content/core_game.md
@@ -294,4 +306,4 @@ msgstr "Enlaces externos"
 #. type: Bullet: '- '
 #: docs/content/core_game.md
 msgid "[Archon - Buy Core Game](https://archon-studio.com/homm3boardgame)"
-msgstr ""
+msgstr "[Archon - Buy Juego Base](https://archon-studio.com/homm3boardgame)"
