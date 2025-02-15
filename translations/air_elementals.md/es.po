@@ -650,7 +650,7 @@ msgid ""
 "    <figure markdown=\"span\">\n"
 "        ![Pack of Air Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""ç
+msgstr ""
 "    <figure markdown=\"span\">\n"
 "        ![Manada de Elementales de Aire](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
