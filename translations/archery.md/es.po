@@ -522,13 +522,13 @@ msgstr "Ver También"
 #: docs/abilities/sorcery.md docs/abilities/tactics.md
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
 msgid "[List of Abilities](index.md)"
-msgstr "[Lista de habilidades] (index.md)"
+msgstr "[Lista de Habilidades](index.md)"
 
 #. type: Title #
 #: docs/abilities/archery.md
 #, no-wrap
 msgid "Archery"
-msgstr "Tiro al arco"
+msgstr "Tiro al Arco"
 
 #. type: Plain text
 #: docs/abilities/archery.md
