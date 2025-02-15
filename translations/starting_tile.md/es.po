@@ -450,7 +450,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/starting_tile.md
 msgid "[S2](../tiles/s2.md) - [Dungeon](../towns/dungeon.md)"
-msgstr ""
+msgstr "[S2](../tiles/s2.md) - [Mazmorra](../towns/dungeon.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/starting_tile.md

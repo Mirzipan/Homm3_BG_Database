@@ -621,6 +621,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Dungeon](../towns/dungeon.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Mazmorra](../towns/dungeon.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/alamar.md docs/heroes/deemer.md docs/heroes/jeddite.md
