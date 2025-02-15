@@ -459,7 +459,7 @@ msgstr "Ver También"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 msgid "[List of Artifacts](index.md)"
-msgstr "[Lista de artefactos] (index.md)"
+msgstr "[Lista de Artefactos](index.md)"
 
 #. type: Plain text
 #: docs/artifacts/angel_wings.md docs/artifacts/boots_of_polarity.md
@@ -477,6 +477,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>[Relic "
 "Artifact](../keywords/relic_artifact.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>[Artefacto "
+"Reliquia](../keywords/relic_artifact.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/celestial_necklace_of_bliss.md
@@ -494,7 +496,7 @@ msgstr ""
 #: docs/spells/air_shield.md docs/spells/sacrifice.md docs/units/fangarm.md
 #: docs/units/leprechaun.md docs/units/satyrs.md docs/units/steel_golems.md
 msgid "[Regular Stretch Goals 2024](../content/regular_stretch_goals.md)"
-msgstr ""
+msgstr "[Objetivos de Financiación Regulares 2024](../content/regular_stretch_goals.md)"
 
 #. type: Plain text
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
@@ -506,13 +508,13 @@ msgstr ""
 #: docs/artifacts/sandals_of_the_saint.md docs/artifacts/skull_helmet.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*🚧*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*🚧*</p>\n"
 
 #. type: Title #
 #: docs/artifacts/lions_shield_of_courage.md
 #, no-wrap
 msgid "Lion's Shield of Courage"
-msgstr "El escudo de coraje de Lion"
+msgstr "Escudo de Coraje del León"
 
 #. type: Plain text
 #: docs/artifacts/lions_shield_of_courage.md
@@ -520,6 +522,8 @@ msgid ""
 "![Lion's Shield of Courage](../assets/player-deck-back.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Escudo de Coraje del León](../assets/player-deck-back.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/artifacts/lions_shield_of_courage.md
@@ -529,3 +533,6 @@ msgid ""
 "hand to gain +X :defense:.<br><br>— OR —<br><br>:instant: Remove this card, "
 "then gain +3 :defense:.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:instant: Descarta X cartas de "
+"tu mano para ganar +X :defense:.<br><br>— O —<br><br>:instant: Retira esta carta, "
+"después gana +3 :defense:.</p>\n"
