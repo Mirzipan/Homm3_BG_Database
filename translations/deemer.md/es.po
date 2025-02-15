@@ -621,7 +621,7 @@ msgstr "[Lista de Héroes](index.md)"
 #: docs/heroes/sephinroth.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[:magic: Warlock](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[:magic: Brujo](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/alamar.md docs/heroes/deemer.md docs/heroes/jeddite.md

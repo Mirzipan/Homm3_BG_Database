@@ -611,7 +611,7 @@ msgstr "[Lista de Héroes](index.md)"
 #: docs/heroes/sephinroth.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[:magic: Warlock](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[:magic: Brujo](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/alamar.md docs/heroes/deemer.md docs/heroes/jeddite.md
@@ -665,7 +665,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/jeddite.md
 msgid "=== \"Mysterious Warlock Ⅰ\""
-msgstr "=== \"Warlock misterioso ⅰ\""
+msgstr "=== \"Mysterious Brujo Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/jeddite.md
@@ -675,11 +675,14 @@ msgid ""
 "        ![Mysterious Warlock Ⅰ](../assets/hero_specialties-dungeon-jeddite-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Mysterious Brujo Ⅰ](../assets/hero_specialties-dungeon-jeddite-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/jeddite.md
 msgid "=== \"Mysterious Warlock Ⅳ\""
-msgstr "=== \"Warlock misterioso ⅳ\""
+msgstr "=== \"Mysterious Brujo Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/jeddite.md
@@ -689,11 +692,14 @@ msgid ""
 "        ![Mysterious Warlock Ⅳ](../assets/hero_specialties-dungeon-jeddite-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Mysterious Brujo Ⅳ](../assets/hero_specialties-dungeon-jeddite-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/jeddite.md
 msgid "=== \"Mysterious Warlock Ⅵ\""
-msgstr "=== \"Warlock misterioso ⅵ\""
+msgstr "=== \"Mysterious Brujo Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/jeddite.md
@@ -703,6 +709,9 @@ msgid ""
 "        ![Mysterious Warlock Ⅵ](../assets/hero_specialties-dungeon-jeddite-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Mysterious Brujo Ⅵ](../assets/hero_specialties-dungeon-jeddite-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/jeddite.md

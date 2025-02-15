@@ -673,6 +673,8 @@ msgid ""
 "![Grim Warlock](../assets/astrologers_proclaim-grim_warlock.webp){ "
 "width=\"475\" align=right }"
 msgstr ""
+"![Grim Brujo](../assets/astrologers_proclaim-grim_warlock.webp){ "
+"width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/grim_warlock.md
