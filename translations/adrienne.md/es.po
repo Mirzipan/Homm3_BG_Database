@@ -624,7 +624,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/adrienne.md
 msgid "=== \"Fire Magic Ⅳ\""
-msgstr "=== \"Magia de Fuego IV""
+msgstr "=== \"Magia de Fuego IV\""
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
