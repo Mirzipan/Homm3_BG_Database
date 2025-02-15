@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -32,19 +34,19 @@ jobs:
         run: |
           python ./tools/change_text_po.py "${{ github.event.inputs.search_string }}" "${{ github.event.inputs.replace_string }}"
 
+      - name: Pull remote changes
+        run: git pull --rebase origin main
+
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add translations
           if ! git diff-index --quiet HEAD; then
             git commit -m "Update translations: reemplazar '${{ github.event.inputs.search_string }}' por '${{ github.event.inputs.replace_string }}'"
           else
             echo "No hay cambios que confirmar."
           fi
-
-      - name: Pull remote changes
-        run: git pull --rebase origin main
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
