@@ -563,7 +563,7 @@ msgstr ""
 #: docs/units/wraiths.md docs/units/wyverns.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[List of Towns](../towns/index.md)"
-msgstr ""
+msgstr "[Lista de Ciudades](../towns/index.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/blind.md docs/units/basilisks.md docs/units/medusas.md
