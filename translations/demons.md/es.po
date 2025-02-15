@@ -484,7 +484,7 @@ msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 #: docs/units/wraiths.md docs/units/wyverns.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[List of Towns](../towns/index.md)"
-msgstr ""
+msgstr "[Lista de Ciudades](../towns/index.md)"
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -515,7 +515,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -546,7 +546,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -630,6 +630,9 @@ msgid ""
 "        ![Few Demons](../assets/units-inferno-silver-demons-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Unos Pocos Demonios](../assets/units-inferno-silver-demons-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/demons.md
@@ -639,6 +642,9 @@ msgid ""
 "        ![Pack of Demons](../assets/units-inferno-silver-demons-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada de Demonios](../assets/units-inferno-silver-demons-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/demons.md
@@ -648,6 +654,9 @@ msgid ""
 "        ![Neutral Demons](../assets/units-neutral-silver-demons.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Demonios Neutrales](../assets/units-neutral-silver-demons.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/demons.md
@@ -665,3 +674,14 @@ msgid ""
 "| Cost | 6 :gold: | 8 :gold: | 13 :gold: |\n"
 "| Abilities | - | - | - |\n"
 msgstr ""
+"| Estadísticas | Pocos | Manada | Neutral |\n"
+"| :--- | :---: | :---: | :---: |\n"
+"| Ciudad | [Infierno](../towns/inferno.md) | [Infierno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :silver: | :silver: | :silver: |\n"
+"| Tipo | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 3 | 3 | 3 |\n"
+"| :defense: | 2 | 2 | 0 |\n"
+"| :health_points: | 4 | **5** | 8 |\n"
+"| :initiative: | 5 | **6** | 6 |\n"
+"| Coste | 6 :gold: | 8 :gold: | 13 :gold: |\n"
+"| Habilidades | - | - | - |\n"
