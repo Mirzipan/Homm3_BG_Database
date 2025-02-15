@@ -10,7 +10,7 @@ def should_translate(text):
     atributos o elementos de código que no se deben traducir.
     """
     # Expresión regular que busca etiquetas HTML o los caracteres { } / \
-    if re.search(r'<[^>]+>|[{}\\/]', text):
+    if re.search(r'<[^>]+>|[{}\\/:]', text):
         return False
     return True
 
