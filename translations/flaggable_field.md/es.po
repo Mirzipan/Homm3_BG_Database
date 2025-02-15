@@ -377,7 +377,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/keywords/revisitable_field.md
 msgid "[Visitable Field](visitable_field.md)"
-msgstr "[Lugar Visitable] (visitable_field.md)"
+msgstr "[Lugar Visitable](visitable_field.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/keywords/visitable_field.md
