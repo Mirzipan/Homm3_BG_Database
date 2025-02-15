@@ -608,7 +608,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -732,6 +732,9 @@ msgid ""
 "        ![Few Hydras](../assets/units-fortress-golden-hydras-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Hydras](../assets/units-fortress-golden-hydras-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/hydras.md
@@ -770,7 +773,7 @@ msgid ""
 "| Cost | 20 :gold:<br>1 :valuables: | 28 :gold:<br>2 :valuables: | 40 :gold: |\n"
 "| Abilities | :unit_attack: Ignore the Retaliation Attack. | :unit_attack: Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. | :unit_attack: Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :golden: | :golden: | :azure: |\n"

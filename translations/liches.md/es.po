@@ -654,7 +654,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -785,6 +785,9 @@ msgid ""
 "        ![Few Liches](../assets/units-necropolis-silver-liches-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Liches](../assets/units-necropolis-silver-liches-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/liches.md
@@ -823,7 +826,7 @@ msgid ""
 "| Cost | 8 :gold: | 14 :gold: | 12 :gold: |\n"
 "| Abilities | - | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :silver: | :silver: | :silver: |\n"

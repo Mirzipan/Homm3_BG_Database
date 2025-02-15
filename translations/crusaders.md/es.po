@@ -654,7 +654,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -785,6 +785,9 @@ msgid ""
 "        ![Few Crusaders](../assets/units-castle-silver-crusaders-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Crusaders](../assets/units-castle-silver-crusaders-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/crusaders.md
@@ -823,7 +826,7 @@ msgid ""
 "| Cost | 6 :gold: | 10 :gold: | 11 :gold: |\n"
 "| Abilities | - | :unit_attack: You can reroll every \"0\" on this unit's [Attack die](../dice.md#attack-die). | :unit_passive: During any attack, roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher outcome. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :silver: | :silver: | :silver: |\n"

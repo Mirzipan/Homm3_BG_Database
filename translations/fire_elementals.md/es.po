@@ -590,7 +590,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -679,7 +679,7 @@ msgid ""
 "| Cost | 🚧 | 🚧 |\n"
 "| Abilities | 🚧 | 🚧 |\n"
 msgstr ""
-"| Statistics | Few | Manada |\n"
+"| Statistics | Pocos | Pack |\n"
 "| :--- | :---: | :---: |\n"
 "| Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | 🚧 | 🚧 |\n"
@@ -705,6 +705,9 @@ msgid ""
 "        ![Few Fire Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Fire Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/fire_elementals.md

@@ -590,7 +590,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -726,6 +726,9 @@ msgid ""
 "        ![Few Magi](../assets/units-tower-silver-magi-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Magi](../assets/units-tower-silver-magi-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/magi.md
@@ -764,7 +767,7 @@ msgid ""
 "| Cost | 6 :gold: | 11 :gold: | 11 :gold: |\n"
 "| Abilities | :unit_attack: Ignore combat penalties. | :unit_attack: Ignore combat penalties. :activation: Add +1 :empower: to the first [spell](../spells/index.md) you cast this round. | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :silver: | :silver: | :silver: |\n"

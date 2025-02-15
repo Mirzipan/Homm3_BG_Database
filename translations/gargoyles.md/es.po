@@ -590,7 +590,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -705,6 +705,9 @@ msgid ""
 "        ![Few Gargoyles](../assets/units-tower-bronze-gargoyles-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Gargoyles](../assets/units-tower-bronze-gargoyles-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/gargoyles.md
@@ -743,7 +746,7 @@ msgid ""
 "| Cost | 3 :gold: | 4 :gold: | 4 :gold: |\n"
 "| Abilities | :unit_passive: This unit ignores any :ongoing: [Spell](../spells/index.md) effects. | :unit_passive: This unit ignores any :ongoing: [Spell](../spells/index.md) effects. | :unit_passive: This unit ignores :paralysis: effect. |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze: | :bronze: | :bronze: |\n"
@@ -762,7 +765,7 @@ msgid ""
 "are ignored. Other sources of :ongoing: effects will still work (e.g. "
 "[artifacts](../artifacts/index.md))."
 msgstr ""
-"**Few and Manada** - Only the :ongoing: [spell](../spells/index.md) effects "
+"**Pocos and Pack** - Only the :ongoing: [spell](../spells/index.md) effects "
 "are ignored. Other sources of :ongoing: effects will still work (e.g. "
 "[artifacts](../artifacts/index.md))."
 
@@ -772,5 +775,5 @@ msgid ""
 "**Few and Pack** - Friendly :ongoing: [spell](../spells/index.md) effects "
 "are also ignored."
 msgstr ""
-"**Few and Manada** - Friendly :ongoing: [spell](../spells/index.md) effects "
+"**Pocos and Pack** - Friendly :ongoing: [spell](../spells/index.md) effects "
 "are also ignored."

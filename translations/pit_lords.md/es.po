@@ -576,7 +576,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -691,6 +691,9 @@ msgid ""
 "        ![Few Pit Lords](../assets/units-inferno-silver-pit_lords-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Pit Lords](../assets/units-inferno-silver-pit_lords-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/pit_lords.md
@@ -729,7 +732,7 @@ msgid ""
 "| Cost | 8 :gold: | 15 :gold: | 15 :gold: |\n"
 "| Abilities | - | :unit_other: If one of your units has been removed from the board during this Combat, Summon or Reinforce [Demons](demons.md). | - |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :silver: | :silver: | :silver: |\n"
@@ -758,7 +761,7 @@ msgid ""
 "**Pack** - Should the Pit Lords summon [Few Demons](demons.md), they have to"
 " be placed adjacent to the Pit Lords."
 msgstr ""
-"**Manada** - Should the Pit Lords summon [Few Demons](demons.md), they have "
+"**Pack** - Should the Pit Lords summon [Pocos Demons](demons.md), they have "
 "to be placed adjacent to the Pit Lords."
 
 #. type: Bullet: '- '
@@ -767,8 +770,8 @@ msgid ""
 "**Pack** - Should the Pit Lords reinforce [Few Demons](demons.md) to a [Pack"
 " of Demons](demons.md), there is no recruitment cost to be paid."
 msgstr ""
-"**Manada** - Should the Pit Lords reinforce [Few Demons](demons.md) to a "
-"[Manada of Demons](demons.md), there is no recruitment cost to be paid."
+"**Pack** - Should the Pit Lords reinforce [Pocos Demons](demons.md) to a "
+"[Pack of Demons](demons.md), there is no recruitment cost to be paid."
 
 #. type: Bullet: '- '
 #: docs/units/pit_lords.md

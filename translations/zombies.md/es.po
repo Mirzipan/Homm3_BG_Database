@@ -640,7 +640,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -776,6 +776,9 @@ msgid ""
 "        ![Few Zombies](../assets/units-necropolis-bronze-zombies-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Zombies](../assets/units-necropolis-bronze-zombies-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/zombies.md
@@ -814,7 +817,7 @@ msgid ""
 "| Cost | 3 :gold: | 4 :gold: | 5 :gold: |\n"
 "| Abilities | :unit_passive: If the attacker resolves a \"+1\" on [Attack die](../dice.md#attack-die), gain +1 :defense:. | :unit_passive: If the attacker resolves a \"0\" or a +1\" on [Attack die](../dice.md#attack-die), gain +1 :defense:. | :unit_passive: If the attacker resolves a \"0\" or a \"+1\" on an [Attack die](../dice.md#attack-die), gain +1 :defense: |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze: | :bronze: | :bronze: |\n"

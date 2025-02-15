@@ -685,7 +685,7 @@ msgid ""
 "possible.</p>\n"
 msgstr ""
 "<p style=\"text-align: center;\" markdown>All players flip one of their "
-"[units](../units/index.md) from the \"Manada\" to the \"Few\" side, if "
+"[units](../units/index.md) from the \"Pack\" to the \"Pocos\" side, if "
 "possible.</p>\n"
 
 #. type: Plain text

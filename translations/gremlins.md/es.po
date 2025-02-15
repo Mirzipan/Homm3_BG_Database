@@ -590,7 +590,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -705,6 +705,9 @@ msgid ""
 "        ![Few Gremlins](../assets/units-tower-bronze-gremlins-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Pocos Gremlins](../assets/units-tower-bronze-gremlins-few.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/gremlins.md
@@ -743,7 +746,7 @@ msgid ""
 "| Cost | 0 :gold: | 2 :gold: | 2 :gold: |\n"
 "| Abilities | - | - | - |\n"
 msgstr ""
-"| Statistics | Few | Manada | Neutral |\n"
+"| Statistics | Pocos | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze: | :bronze: | :bronze: |\n"
@@ -762,6 +765,6 @@ msgid ""
 "[:unit_ranged:](../keywords/ranged_unit.md). Few Gremlins are a "
 "[:unit_ground:](../keywords/ground_unit.md)."
 msgstr ""
-"**Manada** - Only the Manada of Gremlins are a "
-"[:unit_ranged:](../keywords/ranged_unit.md). Few Gremlins are a "
+"**Pack** - Only the Pack of Gremlins are a "
+"[:unit_ranged:](../keywords/ranged_unit.md). Pocos Gremlins are a "
 "[:unit_ground:](../keywords/ground_unit.md)."
