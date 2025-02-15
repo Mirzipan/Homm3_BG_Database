@@ -577,13 +577,14 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>![Adrienne](../assets/heroes-"
 "fortress-magic-adrienne.webp){ width=540 align=right }</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>![Adrienne](../assets/heroes-"
+"fortress-magic-adrienne.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[:magic: Witch](index.md)</p>\n"
-msgstr ""
-msgid "<p style=\"text-align: center;\" markdown>[:magic: Bruja](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:magic: Bruja](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/adrienne.md docs/heroes/bron.md docs/heroes/tazar.md
