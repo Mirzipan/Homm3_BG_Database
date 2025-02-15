@@ -23,6 +23,13 @@ jobs:
           export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
           tar -xf ${PO4A_DIR}.tar.gz
 
+      - name: Validate files PO
+        run: |
+          for f in $(find translations -type f -name "*.po"); do
+            echo "Validating $f"
+            msgfmt --check --verbose "$f" || exit 1
+          done
+
       - name: Generate translations
         run: |
           export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
