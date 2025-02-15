@@ -37,7 +37,7 @@ msgstr "Leyenda"
 #. type: Plain text
 #: docs/legend.md
 msgid "Quick reference for what the different glyphs mean."
-msgstr "Referencia rápida de lo que significan los diferentes glifos."
+msgstr "Referencia rápida del significado de los diferentes glifos."
 
 #. type: Title ##
 #: docs/legend.md docs/towns/castle.md docs/towns/conflux.md
@@ -71,10 +71,10 @@ msgid ""
 msgstr ""
 "| Icono | Descripción |\n"
 "| :---: | :--- |\n"
-"| :bronze: | Nivel de Bronce |\n"
-"| :silver: | Nivel de Plata |\n"
-"| :golden: | Nivel de Oro |\n"
-"| :azure: | Azure Tier |\n"
+"| :bronze: | Nivel Bronce |\n"
+"| :silver: | Nivel Plata |\n"
+"| :golden: | Nivel Oro |\n"
+"| :azure: | Nivel Celestial |\n"
 "| :unit_ground: | Unidad Terrestre |\n"
 "| :unit_flying: | Unidad Voladora |\n"
 "| :unit_ranged: | Unidad a Distancia |\n"
