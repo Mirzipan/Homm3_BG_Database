@@ -439,7 +439,7 @@ msgstr "Ver También"
 #: docs/units/hydras.md docs/units/lizardmen.md docs/units/rust_dragons.md
 #: docs/units/wyverns.md
 msgid "[Fortress Expansion](../content/fortress_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -503,7 +503,7 @@ msgstr ""
 #: docs/units/wraiths.md docs/units/wyverns.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[List of Towns](../towns/index.md)"
-msgstr ""
+msgstr "[Lista de Ciudades](../towns/index.md)"
 
 #. type: Plain text
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
@@ -514,6 +514,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Wisdom](../abilities/wisdom.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Sabiduría](../abilities/wisdom.md)</p>\n"
 
 #. type: Title ##
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
@@ -560,7 +562,7 @@ msgstr "Especialidad"
 #: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
 msgid "[List of Heroes](index.md)"
-msgstr "[Lista de héroes] (index.md)"
+msgstr "[Lista de Héroes](index.md)"
 
 #. type: Title #
 #: docs/heroes/adrienne.md
@@ -581,6 +583,7 @@ msgstr ""
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[:magic: Witch](index.md)</p>\n"
 msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:magic: Bruja](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/adrienne.md docs/heroes/bron.md docs/heroes/tazar.md
@@ -590,6 +593,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Fortress](../towns/fortress.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Fortaleza](../towns/fortress.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
@@ -602,7 +607,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/adrienne.md
 msgid "=== \"Fire Magic Ⅰ\""
-msgstr "=== \"Fire Magic ⅰ\""
+msgstr "=== \"Magia de Fuego I\""
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
@@ -612,11 +617,14 @@ msgid ""
 "        ![Fire Magic Ⅰ](../assets/hero_specialties-fortress-adrienne-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Magia de Fuego Ⅰ](../assets/hero_specialties-fortress-adrienne-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
 msgid "=== \"Fire Magic Ⅳ\""
-msgstr "=== \"Fire Magic ⅳ\""
+msgstr "=== \"Magia de Fuego IV""
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
@@ -626,11 +634,14 @@ msgid ""
 "        ![Fire Magic Ⅳ](../assets/hero_specialties-fortress-adrienne-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Magia de Fuego Ⅳ](../assets/hero_specialties-fortress-adrienne-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
 msgid "=== \"Fire Magic Ⅵ\""
-msgstr "=== \"Fire Magic ⅵ\""
+msgstr "=== \"Magia de Fuego VI\""
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
@@ -640,6 +651,9 @@ msgid ""
 "        ![Fire Magic Ⅵ](../assets/hero_specialties-fortress-adrienne-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Magia de Fuego Ⅵ](../assets/hero_specialties-fortress-adrienne-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
@@ -651,6 +665,11 @@ msgid ""
 "| Ⅳ | :instant: **Search (3)** your deck, then shuffle your cards from the discard pile into the deck. |\n"
 "| Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/school_of_fire_magic.md) are cast with +2 :empower:. |\n"
 msgstr ""
+"| Nivel | Descripción |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia de Fuego](../spells/school_of_fire_magic.md) son lanzados con +1 :empower:. |\n"
+"| Ⅳ | :instant: **Busca (3)** en tu mazo, después baraja tus cartas de tu pila de descartes junto con el mazo. |\n"
+"| Ⅵ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia de Fuego](../spells/school_of_fire_magic.md) son lanzados con +2 :empower:. |\n"
 
 #. type: Title ##
 #: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/catherine.md
@@ -659,20 +678,20 @@ msgstr ""
 #: docs/heroes/tamika.md docs/heroes/wystan.md
 #, no-wrap
 msgid "Appearances As Player Hero"
-msgstr "Apariciones como héroe jugador"
+msgstr "Apariciones como Héroe Jugador"
 
 #. type: Bullet: '- '
 #: docs/heroes/adrienne.md docs/heroes/wystan.md
 msgid "Playing With Fire - 1. Farming Towns"
-msgstr "Jugando con fuego - 1. Ciudades agrícolas"
+msgstr "Jugando Con Fuego - 1. Ciudades Agrícolas"
 
 #. type: Bullet: '- '
 #: docs/heroes/adrienne.md docs/heroes/wystan.md
 msgid "Playing With Fire - 2. March Of The Undead"
-msgstr "Jugando con Fire - 2. March of the Undead"
+msgstr "Jugando Con Fuego - 2. Marcha de los Muertos Vivientes"
 
 #. type: Bullet: '- '
 #: docs/heroes/adrienne.md docs/heroes/lord_haart_necropolis.md
 #: docs/heroes/wystan.md
 msgid "Playing With Fire - 3. Burning Of Tatalia"
-msgstr "Jugando con Fire - 3. Ardor de Tatalia"
+msgstr "Jugando Con Fuego - 3. Quema de Tatalia"

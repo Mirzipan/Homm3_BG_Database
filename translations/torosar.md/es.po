@@ -629,7 +629,7 @@ msgstr "Especialidad"
 #: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
 msgid "[List of Heroes](index.md)"
-msgstr "[Lista de héroes] (index.md)"
+msgstr "[Lista de Héroes](index.md)"
 
 #. type: Plain text
 #: docs/heroes/cyra.md docs/heroes/dracon.md docs/heroes/iona.md

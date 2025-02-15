@@ -547,7 +547,7 @@ msgstr "Especialidad"
 #: docs/heroes/sandro.md docs/heroes/erdamon.md docs/heroes/casmetra.md
 #: docs/heroes/jeddite.md docs/heroes/adelaide.md docs/heroes/xyron.md
 msgid "[List of Heroes](index.md)"
-msgstr "[Lista de héroes] (index.md)"
+msgstr "[Lista de Héroes](index.md)"
 
 #. type: Plain text
 #: docs/heroes/catherine.md docs/heroes/mephala.md

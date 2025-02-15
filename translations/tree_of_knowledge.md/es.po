@@ -403,7 +403,7 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>[Visitable "
 "Field](../keywords/visitable_field.md)</p>\n"
 msgstr ""
-"<p style=\"text-align: center;\" markdown>[Campo "
+"<p style=\"text-align: center;\" markdown>[Lugar "
 "Visitable](../keywords/visitable_field.md)</p>\n"
 
 #. type: Bullet: '- '

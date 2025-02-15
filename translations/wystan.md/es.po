@@ -550,7 +550,7 @@ msgstr "Especialidad"
 #: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
 msgid "[List of Heroes](index.md)"
-msgstr "[Lista de héroes] (index.md)"
+msgstr "[Lista de Héroes](index.md)"
 
 #. type: Plain text
 #: docs/heroes/adrienne.md docs/heroes/bron.md docs/heroes/tazar.md
@@ -568,23 +568,23 @@ msgstr ""
 #: docs/heroes/tamika.md docs/heroes/wystan.md
 #, no-wrap
 msgid "Appearances As Player Hero"
-msgstr "Apariciones como héroe jugador"
+msgstr "Apariciones como Héroe Jugador"
 
 #. type: Bullet: '- '
 #: docs/heroes/adrienne.md docs/heroes/wystan.md
 msgid "Playing With Fire - 1. Farming Towns"
-msgstr "Jugando con fuego - 1. Ciudades agrícolas"
+msgstr "Jugando Con Fuego - 1. Ciudades Agrícolas"
 
 #. type: Bullet: '- '
 #: docs/heroes/adrienne.md docs/heroes/wystan.md
 msgid "Playing With Fire - 2. March Of The Undead"
-msgstr "Jugando con Fire - 2. March of the Undead"
+msgstr "Jugando Con Fuego - 2. Marcha de los Muertos Vivientes"
 
 #. type: Bullet: '- '
 #: docs/heroes/adrienne.md docs/heroes/lord_haart_necropolis.md
 #: docs/heroes/wystan.md
 msgid "Playing With Fire - 3. Burning Of Tatalia"
-msgstr "Jugando con Fire - 3. Ardor de Tatalia"
+msgstr "Jugando Con Fuego - 3. Quema de Tatalia"
 
 #. type: Plain text
 #: docs/heroes/bron.md docs/heroes/tazar.md docs/heroes/wystan.md

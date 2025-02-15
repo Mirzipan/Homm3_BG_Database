@@ -546,13 +546,13 @@ msgstr "Especialidad"
 #: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
 msgid "[List of Heroes](index.md)"
-msgstr "[Lista de héroes] (index.md)"
+msgstr "[Lista de Héroes](index.md)"
 
 #. type: Bullet: '- '
 #: docs/heroes/adrienne.md docs/heroes/lord_haart_necropolis.md
 #: docs/heroes/wystan.md
 msgid "Playing With Fire - 3. Burning Of Tatalia"
-msgstr "Jugando con Fire - 3. Ardor de Tatalia"
+msgstr "Jugando Con Fuego - 3. Quema de Tatalia"
 
 #. type: Title ##
 #: docs/heroes/ivor.md docs/heroes/jeddite.md

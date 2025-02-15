@@ -596,7 +596,7 @@ msgstr "Especialidad"
 #: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
 msgid "[List of Heroes](index.md)"
-msgstr "[Lista de héroes] (index.md)"
+msgstr "[Lista de Héroes](index.md)"
 
 #. type: Title ##
 #: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/catherine.md
@@ -605,7 +605,7 @@ msgstr "[Lista de héroes] (index.md)"
 #: docs/heroes/tamika.md docs/heroes/wystan.md
 #, no-wrap
 msgid "Appearances As Player Hero"
-msgstr "Apariciones como héroe jugador"
+msgstr "Apariciones como Héroe Jugador"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/ivor.md docs/heroes/jeremy.md
