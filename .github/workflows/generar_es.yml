@@ -35,9 +35,16 @@ jobs:
 
       - name: Corregir saltos de línea en archivos PO
         run: |
-          for file in $(find translations -type f -name "*.es.po"); do
+          for file in $(find translations -type f -name "es.po"); do
             echo "Corrigiendo $file"
             python3 ./tools/fix_po_newlines.py "$file"
+          done
+
+      - name: Validar archivos PO
+        run: |
+          for f in $(find translations -type f -name "es.po"); do
+            echo "Validando $f"
+            msgfmt --check --verbose "$f" || exit 1
           done
 
       - name: Commit automático de archivos generados
