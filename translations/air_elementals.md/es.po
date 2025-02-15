@@ -483,7 +483,7 @@ msgstr "Ver También"
 #: docs/units/earth_elementals.md docs/units/fire_elementals.md
 #: docs/units/water_elementals.md
 msgid "[List of Spells](../spells/index.md)"
-msgstr ""
+msgstr "[Lista de Hechizos](../spells/index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -547,7 +547,7 @@ msgstr ""
 #: docs/units/wraiths.md docs/units/wyverns.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[List of Towns](../towns/index.md)"
-msgstr ""
+msgstr "[Lista de Ciudades](../towns/index.md)"
 
 #. type: Bullet: '- '
 #: docs/heroes/erdamon.md docs/heroes/luna.md docs/heroes/monere.md
@@ -561,13 +561,13 @@ msgstr ""
 #: docs/units/sprites.md docs/units/storm_elementals.md
 #: docs/units/water_elementals.md
 msgid "[Conflux Expansion](../content/conflux_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Conflujo](../content/conflux_expansion.md)"
 
 #. type: Title #
 #: docs/units/air_elementals.md
 #, no-wrap
 msgid "Air Elementals"
-msgstr "Elementales de aire"
+msgstr "Elementales de Aire"
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -598,7 +598,7 @@ msgstr "Elementales de aire"
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Few\""
-msgstr ""
+msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md
@@ -608,6 +608,9 @@ msgid ""
 "        ![Few Air Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Unos Pocos Elementales de Aire](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -638,7 +641,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "=== \"Pack\""
-msgstr "=== \"Pack\""
+msgstr "=== \"Manada\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md
@@ -647,7 +650,10 @@ msgid ""
 "    <figure markdown=\"span\">\n"
 "        ![Pack of Air Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr ""ç
+"    <figure markdown=\"span\">\n"
+"        ![Manada de Elementales de Aire](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/air_elementals.md
@@ -665,11 +671,22 @@ msgid ""
 "| Cost | 5 :gold: | 7 :gold: |\n"
 "| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic](../spells/school_of_air_magic.md) :spellpower:. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic](../spells/school_of_air_magic.md) :spellpower:. |\n"
 msgstr ""
+"| Estadísticas | Pocos | Manada |\n"
+"| :--- | :---: | :---: |\n"
+"| Ciudad | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :bronze: | :bronze: |\n"
+"| Tipo | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 2 | **3** |\n"
+"| :defense: | 1 | 1 |\n"
+"| :health_points: | 4 | 4 |\n"
+"| :initiative: | 7 | 7 |\n"
+"| Coste | 5 :gold: | 7 :gold: |\n"
+"| Habilidades | :unit_passive: Immune a [Flecha Mágica](../spells/magic_arrow.md) y a [Magia de Aire](../spells/school_of_air_magic.md) :spellpower:. | :unit_passive: Immune a [Flecha Mágica](../spells/magic_arrow.md) y a [Magia de Aire](../spells/school_of_air_magic.md) :spellpower:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md
 msgid "Summoned by [Summon Air Elemental](../spells/summon_air_elemental.md)."
-msgstr ""
+msgstr "Invocado por [Invocar Elemental de Aire](../spells/summon_air_elemental.md)."
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/arch_devils.md

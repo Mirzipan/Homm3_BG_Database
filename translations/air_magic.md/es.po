@@ -57,8 +57,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for "
 "spells from [School of Air Magic](../spells/school_of_air_magic.md).</p>\n"
 msgstr ""
-"<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for "
-"spells from [Escuela de Magia de Aire](../spells/school_of_air_magic.md).</p>\n"
+"<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: para "
+"hechizos de la [Escuela de Magia de Aire](../spells/school_of_air_magic.md).</p>\n"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -157,7 +157,7 @@ msgid ""
 "does, however, not add the two effects, and the ability is put into the "
 "discard pile after being played."
 msgstr ""
-"El efecto experto se puede jugar desde la mano o desde el campo.Sin embargo,"
+"El efecto experto se puede jugar desde la mano o desde el campo. Sin embargo,"
 " esto no agrega los dos efectos, y la habilidad se pone en la pila de "
 "descarte después de ser jugada."
 
