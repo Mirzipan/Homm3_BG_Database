@@ -15,19 +15,20 @@ def update_po_files(search_str, replace_str):
         po = polib.pofile(filename)
         modified = False
         for entry in po:
-            if search_str in entry.msgid:
-                 # Verifica si msgstr ya contiene la cadena de reemplazo.
-                if replace_str in entry.msgstr:
-                    print(f"  Se omite la actualización para: {entry.msgid.strip()} (ya contiene '{replace_str}')")
-                    continue
-                # Crear la nueva cadena para msgstr reemplazando search_str por replace_str
-                new_msgstr = entry.msgid.replace(search_str, replace_str)
-                if entry.msgid.endswith('\n') and not new_msgstr.endswith('\n'):
-                    new_msgstr += '\n'
-                if entry.msgstr != new_msgstr:
-                    entry.msgstr = new_msgstr
-                    modified = True
-                    print(f"  Actualizado: {entry.msgid.strip()}")
+            if not entry.msgstr.strip():
+                if search_str in entry.msgid:
+                    # Verifica si msgstr ya contiene la cadena de reemplazo.
+                    if replace_str in entry.msgstr:
+                        print(f"  Se omite la actualización para: {entry.msgid.strip()} (ya contiene '{replace_str}')")
+                        continue
+                    # Crear la nueva cadena para msgstr reemplazando search_str por replace_str
+                    new_msgstr = entry.msgid.replace(search_str, replace_str)
+                    if entry.msgid.endswith('\n') and not new_msgstr.endswith('\n'):
+                        new_msgstr += '\n'
+                    if entry.msgstr != new_msgstr:
+                        entry.msgstr = new_msgstr
+                        modified = True
+                        print(f"  Actualizado: {entry.msgid.strip()}")
         if modified:
             po.save()
             print(f"  Guardados cambios en {filename}")
