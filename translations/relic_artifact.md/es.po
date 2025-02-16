@@ -349,7 +349,7 @@ msgstr "Lista de artefactos de reliquia"
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Angel Wings](../artifacts/angel_wings.md)"
-msgstr ""
+msgstr "[Alas de Ángel](../artifacts/angel_wings.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md

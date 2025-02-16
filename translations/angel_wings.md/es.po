@@ -618,6 +618,8 @@ msgid ""
 "![Angel Wings](../assets/artifacts_relic-angel_wings.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Alas de Ángel](../assets/artifacts_relic-angel_wings.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/artifacts/angel_wings.md docs/artifacts/boots_of_polarity.md
