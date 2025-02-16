@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 10:01+0100\n"
+"POT-Creation-Date: 2025-02-16 09:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -824,8 +824,8 @@ msgstr ""
 #: docs/units/titans.md
 msgid ""
 "**Pack** - Only the Pack of Titans are a [:unit_ranged:](../keywords/"
-"ranged_unit.md). Few Titans are a [:unit_ground:](../keywords/"
-"ground_unit.md)."
+"ranged_unit.md). Few Titans are a [:unit_ground:](../keywords/ground_unit."
+"md)."
 msgstr ""
 
 #. type: Bullet: '- '

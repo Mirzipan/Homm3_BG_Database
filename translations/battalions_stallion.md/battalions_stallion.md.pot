@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 10:01+0100\n"
+"POT-Creation-Date: 2025-02-16 09:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -755,8 +755,8 @@ msgstr ""
 #. type: Plain text
 #: docs/astrologers_proclaim/battalions_stallion.md
 msgid ""
-"![Battalion's Stallion](../assets/astrologers_proclaim-"
-"battalions_stallion.webp){ width=\"475\" align=right }"
+"![Battalion's Stallion](../assets/astrologers_proclaim-battalions_stallion."
+"webp){ width=\"475\" align=right }"
 msgstr ""
 
 #. type: Plain text

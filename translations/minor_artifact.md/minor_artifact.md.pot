@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 10:01+0100\n"
+"POT-Creation-Date: 2025-02-16 09:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -389,8 +389,8 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid ""
-"[Blackshard of the Dead Knight](../artifacts/"
-"blackshard_of_the_dead_knight.md)"
+"[Blackshard of the Dead Knight](../artifacts/blackshard_of_the_dead_knight."
+"md)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -401,8 +401,8 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid ""
-"[Breastplate of Petrified Wood](../artifacts/"
-"breastplate_of_petrified_wood.md)"
+"[Breastplate of Petrified Wood](../artifacts/breastplate_of_petrified_wood."
+"md)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -454,8 +454,8 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid ""
-"[Helm of the Alabaster Unicorn](../artifacts/"
-"helm_of_the_alabaster_unicorn.md)"
+"[Helm of the Alabaster Unicorn](../artifacts/helm_of_the_alabaster_unicorn."
+"md)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -508,8 +508,8 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid ""
-"[Scales of the Greater Basilisk](../artifacts/"
-"scales_of_the_greater_basilisk.md)"
+"[Scales of the Greater Basilisk](../artifacts/scales_of_the_greater_basilisk."
+"md)"
 msgstr ""
 
 #. type: Bullet: '- '

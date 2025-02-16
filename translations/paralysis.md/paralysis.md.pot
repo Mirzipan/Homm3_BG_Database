@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 10:01+0100\n"
+"POT-Creation-Date: 2025-02-16 09:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -90,8 +90,8 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/paralysis.md
 msgid ""
-"A paralyzed unit skips its next activation. Instead of activating, "
-"the :paralysis: token is removed from it."
+"A paralyzed unit skips its next activation. Instead of activating, the :"
+"paralysis: token is removed from it."
 msgstr ""
 
 #. type: Bullet: '- '

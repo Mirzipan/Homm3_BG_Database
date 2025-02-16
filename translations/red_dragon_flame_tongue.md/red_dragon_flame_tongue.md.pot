@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 10:01+0100\n"
+"POT-Creation-Date: 2025-02-16 09:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -677,8 +677,8 @@ msgstr ""
 #. type: Plain text
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid ""
-"![Red Dragon Flame Tongue](../assets/artifacts_minor-"
-"red_dragon_flame_tongue.webp){ width=\"340\" align=right }"
+"![Red Dragon Flame Tongue](../assets/artifacts_minor-red_dragon_flame_tongue."
+"webp){ width=\"340\" align=right }"
 msgstr ""
 
 #. type: Plain text

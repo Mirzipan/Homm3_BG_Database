@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 10:01+0100\n"
+"POT-Creation-Date: 2025-02-16 09:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -811,8 +811,8 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/heroes/solmyr.md
 msgid ""
-"**Ⅰ** - Only 2 units are dealt :damage: to and this cannot be changed "
-"by :empower:."
+"**Ⅰ** - Only 2 units are dealt :damage: to and this cannot be changed by :"
+"empower:."
 msgstr ""
 
 #. type: Bullet: '- '
@@ -828,7 +828,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/heroes/solmyr.md
 msgid ""
-"**Ⅰ** - The 0 on the third damage position allows the player to deal "
-"1 :damage: to two units that have a friendly unit between them, as the "
-"friendly unit may be assigned the 0."
+"**Ⅰ** - The 0 on the third damage position allows the player to deal 1 :"
+"damage: to two units that have a friendly unit between them, as the friendly "
+"unit may be assigned the 0."
 msgstr ""

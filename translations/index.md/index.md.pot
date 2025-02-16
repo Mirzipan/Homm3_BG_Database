@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 10:01+0100\n"
+"POT-Creation-Date: 2025-02-16 09:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -877,8 +877,8 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/index.md
 msgid ""
-"**Notes:** Schlupf [Referenz-Regelbuch](https://discord.com/channels/"
-"740870068178649108/1269274294408450078/1269274294408450078)"
+"**Notes:** Schlupf [Referenz-Regelbuch](https://discord.com/"
+"channels/740870068178649108/1269274294408450078/1269274294408450078)"
 msgstr ""
 
 #. type: Plain text
@@ -1234,8 +1234,8 @@ msgstr ""
 #. type: Plain text
 #: docs/statistics/index.md
 msgid ""
-"To learn about statistics of a specific hero, see [heroes](../heroes/"
-"index.md)."
+"To learn about statistics of a specific hero, see [heroes](../heroes/index."
+"md)."
 msgstr ""
 
 #. type: Plain text
