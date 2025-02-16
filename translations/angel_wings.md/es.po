@@ -649,6 +649,10 @@ msgid ""
 "fields without resolving them. The last visited field must be resolved "
 "normally.<br><br>— OR —<br><br>:instant: Draw a card.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:effect_map: El [Héroe](../heroes/index.md) "
+"elegido gana +1 :movement: y puede moverse a través de cualesquiera "
+"lugares sin resolverlos. El último lugar visitado debe ser resuelto "
+"con normalidad.<br><br>— O —<br><br>:instant: Roba una carta.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/angel_wings.md
@@ -658,6 +662,9 @@ msgid ""
 "the Angel, whose wings these belong to, is, you take the wings and quickly "
 "depart.*</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>*Sin querer saber realmente donde está "
+"el Ángel, a cuyas alas pertecenen, es decir, tomas las alas y te vas "
+"rápidamente.*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/angel_wings.md
@@ -665,6 +672,6 @@ msgid ""
 "After playing Angel Wings, the hero may move through borders and blocked "
 "fields. They may, however, not end their movement on a blocked field."
 msgstr ""
-"Después de jugar alas de ángel, el héroe puede moverse a través de las "
-"fronteras y los campos bloqueados.Sin embargo, no pueden terminar su "
+"Después de jugar Alas de Ángel, el Héroe puede moverse a través de las "
+"fronteras y los campos bloqueados. Sin embargo, no puede terminar su "
 "movimiento en un campo bloqueado."
