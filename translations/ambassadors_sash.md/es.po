@@ -482,7 +482,7 @@ msgid ""
 msgstr ""
 "<p style=\"text-align: center;\" markdown>:effect_map: Por cada "
 "[Vivienda](../towns/index.md) que tengas, descubre 1 carta de la correspondiente [Unidad "
-"Neutral](../units/index.md). Tú puedes **Reclutar** una de estas "
+"Neutral](../units/index.md). Puedes **Reclutar** una de estas "
 "unidades.<br><br>— O —<br><br>:instant: Repite la tirada de un [dado](../dice.md).</p>\n"
 
 #. type: Plain text
