@@ -639,8 +639,8 @@ msgid ""
 "![Ammo Cart](../assets/astrologers_proclaim-ammo_cart.webp){ width=\"475\" "
 "align=right }"
 msgstr ""
-"![Carro de Munición](../assets/astrologers_proclaim-ammo_cart.webp){ width=\"475\" "
-"align=right }"
+"![Carro de Munición](../assets/astrologers_proclaim-ammo_cart.webp){ "
+"width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -755,11 +755,13 @@ msgid ""
 "each [Ammo Cart](../war_machines/ammo_cart.md) allows re-rolling 1 [Attack "
 "die](../dice.md#attack-die) for all ranged [units](../units/index.md).</p>\n"
 msgstr ""
-"<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos, "
-"cada [Ballesta](../war_machines/ballista.md) realiza +1 :damage:, cada [Tienda de "
-"Primeros Auxilios](../war_machines/first_aid_tent.md) cura +1 :health_points:‍, y "
-"cada [Carro de Munición](../war_machines/ammo_cart.md) permite repetir 1 [Dado de "
-"Ataque](../dice.md#attack-die) para todas las [unidades](../units/index.md) a distancia.</p>\n"
+"<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de "
+"Astrólogos, cada [Ballesta](../war_machines/ballista.md) realiza +1 "
+":damage:, cada [Tienda de Primeros "
+"Auxilios](../war_machines/first_aid_tent.md) cura +1 :health_points:‍, y "
+"cada [Carro de Munición](../war_machines/ammo_cart.md) permite repetir 1 "
+"[Dado de Ataque](../dice.md#attack-die) para todas las "
+"[unidades](../units/index.md) a distancia.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -771,9 +773,9 @@ msgid ""
 "Weehee!*</p>\n"
 msgstr ""
 "<p style=\"text-align: center;\" markdown>*Carro de Munición - ¡la mejor "
-"máquina!<br>¡Yo!<br>¡Solo yo tengo el poder del infinito!<br>¿Por qué no hay "
-"un héroe que se especialice en mi?<br>¡Porque yo mismo debería ser un héroe! "
-"¡Weehee!*</p>\n"
+"máquina!<br>¡Yo!<br>¡Solo yo tengo el poder del infinito!<br>¿Por qué no hay"
+" un héroe que se especialice en mi?<br>¡Porque yo mismo debería ser un "
+"héroe! ¡Weehee!*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -782,7 +784,8 @@ msgid ""
 "during this week, it will deal 3 times 2 damage, so 6 damage in total."
 msgstr ""
 "Si se usa el efecto experto de [Artillería](../abilities/artillery.md) "
-"durante esta semana, inflingirá 3 veces 2 de daño, es decir, 6 de daño en total."
+"durante esta semana, inflingirá 3 veces 2 de daño, es decir, 6 de daño en "
+"total."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -822,7 +825,7 @@ msgstr "[Lista de Cartas de Proclama de los Astrólogos](index.md)"
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md docs/astrologers_proclaim/mcgiver.md
 msgid "[List of War Machines](../war_machines/index.md)"
-msgstr ""
+msgstr "[Lista de Máquinas de Guerra](../war_machines/index.md)"
 
 #. type: Title #
 #: docs/war_machines/ammo_cart.md
@@ -844,7 +847,9 @@ msgstr ""
 #: docs/war_machines/cannon.md docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[War Machine](index.md)</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Máquina de Guerra](index.md)</p>\n"
+msgstr ""
+"<p style=\"text-align: center;\" markdown>[Máquina de "
+"Guerra](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/war_machines/ammo_cart.md

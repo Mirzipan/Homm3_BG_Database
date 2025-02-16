@@ -656,7 +656,7 @@ msgstr "[Lista de tarjetas de proclamación de astrólogos] (index.md)"
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md docs/astrologers_proclaim/mcgiver.md
 msgid "[List of War Machines](../war_machines/index.md)"
-msgstr ""
+msgstr "[Lista de Máquinas de Guerra](../war_machines/index.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/mcgiver.md
