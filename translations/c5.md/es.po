@@ -550,7 +550,7 @@ msgstr ""
 #: docs/tiles/s8.md docs/tiles/s9.md docs/tiles/sx1.md docs/tiles/u1.md
 #: docs/tiles/u2.md docs/tiles/w1.md
 msgid "[Blocked Field](../keywords/blocked_field.md)"
-msgstr ""
+msgstr "[Campo Bloqueado](../keywords/blocked_field.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md
