@@ -550,7 +550,7 @@ msgstr "[Juego Base](../content/core_game.md)"
 #. type: Bullet: '- '
 #: docs/abilities/pathfinding.md docs/artifacts/angel_wings.md
 msgid "See [Blocked Field](../keywords/blocked_field.md)"
-msgstr "See [Campo Bloqueado](../keywords/blocked_field.md)"
+msgstr "Ver [Campo Bloqueado](../keywords/blocked_field.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
@@ -604,13 +604,13 @@ msgstr "See [Campo Bloqueado](../keywords/blocked_field.md)"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 msgid "[List of Artifacts](index.md)"
-msgstr "[Lista de artefactos] (index.md)"
+msgstr "[Lista de Artefactos](index.md)"
 
 #. type: Title #
 #: docs/artifacts/angel_wings.md
 #, no-wrap
 msgid "Angel Wings"
-msgstr "Alas de ángel"
+msgstr "Alas de Ángel"
 
 #. type: Plain text
 #: docs/artifacts/angel_wings.md

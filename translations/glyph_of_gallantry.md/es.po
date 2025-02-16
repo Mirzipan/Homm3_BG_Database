@@ -488,7 +488,7 @@ msgstr "Ver También"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 msgid "[List of Artifacts](index.md)"
-msgstr "[Lista de artefactos] (index.md)"
+msgstr "[Lista de Artefactos](index.md)"
 
 #. type: Plain text
 #: docs/artifacts/armor_of_wonder.md

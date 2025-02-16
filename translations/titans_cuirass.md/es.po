@@ -538,7 +538,7 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 msgid "[List of Artifacts](index.md)"
-msgstr "[Lista de artefactos] (index.md)"
+msgstr "[Lista de Artefactos](index.md)"
 
 #. type: Plain text
 #: docs/artifacts/angel_wings.md docs/artifacts/boots_of_polarity.md
