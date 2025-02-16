@@ -773,7 +773,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada of Medusas](../assets/units-dungeon-silver-medusas-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Medusas](../assets/units-dungeon-silver-medusas-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

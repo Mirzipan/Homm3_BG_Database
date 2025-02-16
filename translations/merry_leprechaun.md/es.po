@@ -642,7 +642,7 @@ msgstr ""
 #: docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/gold_dragon.md
 msgid "[List of Astrologers Proclaim Cards](index.md)"
-msgstr "[Lista de tarjetas de proclamación de astrólogos] (index.md)"
+msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/merry_leprechaun.md

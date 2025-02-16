@@ -784,7 +784,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada of Harpies](../assets/units-dungeon-bronze-harpies-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Harpies](../assets/units-dungeon-bronze-harpies-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

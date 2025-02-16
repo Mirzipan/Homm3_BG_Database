@@ -768,7 +768,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada of Manticores](../assets/units-dungeon-golden-manticores-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Manticores](../assets/units-dungeon-golden-manticores-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -785,7 +785,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada of Manticores (Alternate)](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Manticores (Alternate)](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

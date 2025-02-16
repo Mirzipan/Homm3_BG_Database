@@ -571,7 +571,7 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr "Campos"
+msgstr "Lugares"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/f2.md docs/tiles/fx7.md

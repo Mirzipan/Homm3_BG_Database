@@ -707,7 +707,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada of Troglodytes](../assets/units-dungeon-bronze-troglodytes-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Troglodytes](../assets/units-dungeon-bronze-troglodytes-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

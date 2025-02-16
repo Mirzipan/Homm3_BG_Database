@@ -707,7 +707,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada of Evil Eyes](../assets/units-dungeon-bronze-evil_eyes-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Evil Eyes](../assets/units-dungeon-bronze-evil_eyes-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

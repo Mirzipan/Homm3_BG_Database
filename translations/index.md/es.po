@@ -821,7 +821,7 @@ msgstr "[Lista de Losetas](../tiles/index.md)"
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr "Campos"
+msgstr "Lugares"
 
 #. type: Plain text
 #: docs/fields/index.md

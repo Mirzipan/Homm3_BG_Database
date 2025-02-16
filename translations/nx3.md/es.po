@@ -520,7 +520,7 @@ msgstr "Ver También"
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr "Campos"
+msgstr "Lugares"
 
 #. type: Bullet: '- '
 #: docs/keywords/revisitable_field.md docs/tiles/c4.md docs/tiles/c5.md

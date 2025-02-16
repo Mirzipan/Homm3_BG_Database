@@ -20,4 +20,4 @@ msgstr ""
 #: docs/keywords/attack_value.md
 #, no-wrap
 msgid ":attack: Attack Value"
-msgstr " :attack: valor de ataque"
+msgstr " :attack: Valor de Ataque"

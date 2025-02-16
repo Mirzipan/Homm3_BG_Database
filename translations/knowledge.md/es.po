@@ -297,7 +297,7 @@ msgstr "=== \"regular\""
 #: docs/statistics/attack.md docs/statistics/defense.md
 #: docs/statistics/knowledge.md docs/statistics/power.md
 msgid "=== \"Empowered\""
-msgstr "=== \"Empoderado\""
+msgstr "=== \"Mejorado\""
 
 #. type: Bullet: '- '
 #: docs/statistics/attack.md docs/statistics/defense.md

@@ -792,7 +792,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada of Black Dragons](../assets/units-dungeon-golden-black_dragons-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Black Dragons](../assets/units-dungeon-golden-black_dragons-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
