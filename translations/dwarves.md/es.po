@@ -488,7 +488,7 @@ msgstr "Ver También"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
 
 #. type: Link reference
 #: docs/artifacts/spellbinders_hat.md docs/astrologers_proclaim/explorers.md

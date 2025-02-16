@@ -258,6 +258,12 @@ msgid ""
 "\t![Rampart Expansion Inside](../assets/content-rampart_expansion-inside.webp){ width=540 align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"\t![Expansión de Muralla Box](../assets/content-rampart_expansion-box.webp){ width=540 align=right }\n"
+"</figure>\n"
+"<figure markdown=\"span\">\n"
+"\t![Expansión de Muralla Inside](../assets/content-rampart_expansion-inside.webp){ width=540 align=right }\n"
+"</figure>\n"
 
 #. type: Bullet: '- '
 #: docs/content/rampart_expansion.md
