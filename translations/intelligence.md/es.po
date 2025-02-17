@@ -537,7 +537,7 @@ msgstr "[Lista de habilidades] (index.md)"
 #: docs/abilities/wisdom.md
 #, no-wrap
 msgid "Heroes With Starting Ability"
-msgstr "Héroes con habilidad para iniciar"
+msgstr "Héroes con Habilidad de Inicio"
 
 #. type: Bullet: '- '
 #: docs/abilities/archery.md docs/abilities/armorer.md
