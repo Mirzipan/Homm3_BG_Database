@@ -533,7 +533,9 @@ msgstr "Tiro al Arco"
 #. type: Plain text
 #: docs/abilities/archery.md
 msgid "![Archery](../assets/abilities-archery.webp){ width=\"340\" align=right }"
-msgstr "![Tiro al Arco](../assets/abilities-archery.webp){ width=\"340\" align=right }"
+msgstr ""
+"![Tiro al Arco](../assets/abilities-archery.webp){ width=\"340\" align=right"
+" }"
 
 #. type: Plain text
 #: docs/abilities/archery.md
@@ -543,9 +545,9 @@ msgid ""
 "round, your [Ranged units](../keywords/ranged_unit.md) gain +1 :attack: if "
 "the target is a non-adjacent [unit](../units/index.md).</p>\n"
 msgstr ""
-"<p style=\"text-align: center;\" markdown>:ongoing: Durante esta ronda de Combate, "
-"tus [unidades a Distancia](../keywords/ranged_unit.md) gana +1 :attack: si "
-"la [unidad](../units/index.md) objetivo no está adyacente.</p>\n"
+"<p style=\"text-align: center;\" markdown>:ongoing: Durante esta ronda de "
+"Combate, tus [unidades a Distancia](../keywords/ranged_unit.md) gana +1 "
+":attack: si la [unidad](../units/index.md) objetivo no está adyacente.</p>\n"
 
 #. type: Plain text
 #: docs/abilities/archery.md
@@ -557,8 +559,9 @@ msgid ""
 "[unit](../units/index.md).</p>\n"
 msgstr ""
 "<p style=\"text-align: center;\" markdown>:ongoing: Hasta el final de la "
-"siguiente ronda de Combate, tus [unidades a Distancia](../keywords/ranged_unit.md) ganan +1 "
-":initiative: y +1 :attack: si la [unidad](../units/index.md) objetivo no está adyacente.</p>\n"
+"siguiente ronda de Combate, tus [unidades a "
+"Distancia](../keywords/ranged_unit.md) ganan +1 :initiative: y +1 :attack: "
+"si la [unidad](../units/index.md) objetivo no está adyacente.</p>\n"
 
 #. type: Title ##
 #: docs/abilities/archery.md docs/abilities/armorer.md
@@ -599,9 +602,9 @@ msgid ""
 "means that it applies to both attacks of [Elves](../units/elves.md) and "
 "[Sharpshooters](../units/sharpshooters.md)."
 msgstr ""
-"Esta habilidad se activa durante cada ataque a distancia de la ronda de Combate, lo que "
-"significa que se aplica a ambos ataques de [Elfos](../units/elves.md) y "
-"[Afiladores](../units/sharpshooters.md)."
+"Esta habilidad se activa durante cada ataque a distancia de la ronda de "
+"Combate, lo que significa que se aplica a ambos ataques de "
+"[Elfos](../units/elves.md) y [Afiladores](../units/sharpshooters.md)."
 
 #. type: Bullet: '- '
 #: docs/abilities/archery.md docs/abilities/armorer.md
@@ -685,4 +688,4 @@ msgstr "[Juego Base](../content/core_game.md)"
 #. type: Bullet: '- '
 #: docs/abilities/archery.md
 msgid "[List of Ranged Units](../keywords/ranged_unit.md)"
-msgstr ""
+msgstr "[Lista de Unidades a Distancia](../keywords/ranged_unit.md)"
