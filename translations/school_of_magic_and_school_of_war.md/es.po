@@ -581,6 +581,12 @@ msgid ""
 "Ability deck or the Spell deck.<br><br>— OR —<br><br>Leave and gain "
 "nothing.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>**Each player chooses one "
+"option:** <br>Discard as many cards as you want, then draw new cards up to "
+"your :hand: +2. Remove any number of Habilidad or Spell cards from your "
+"hand. For every two cards removed this way, you can perform **Search (2)** "
+"the Habilidad deck or the Spell deck.<br><br>— OR —<br><br>Leave and gain "
+"nothing.</p>\n"
 
 #. type: Plain text
 #: docs/events/school_of_magic_and_school_of_war.md

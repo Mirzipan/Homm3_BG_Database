@@ -33,7 +33,7 @@ msgstr ""
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Ability](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -702,6 +702,11 @@ msgid ""
 " deck, they may put it into the discard pile and draw another card instead. "
 "They may also choose to keep the card, they may, however, not play it."
 msgstr ""
+"If a hero that does not belong to the [Necropolis "
+"Faction](../towns/necropolis.md) should draw it from the "
+"[Habilidad](index.md) deck, they may put it into the discard pile and draw "
+"another card instead. They may also choose to keep the card, they may, "
+"however, not play it."
 
 #. type: Bullet: '- '
 #: docs/abilities/necromancy.md
