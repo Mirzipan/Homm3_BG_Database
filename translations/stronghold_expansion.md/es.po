@@ -262,7 +262,7 @@ msgstr "Ver También"
 #: docs/content/stronghold_expansion.md docs/content/tower_expansion.md
 #, no-wrap
 msgid "Inside The Box"
-msgstr "Dentro de la caja"
+msgstr "Dentro de la Caja"
 
 #. type: Bullet: '- '
 #: docs/content/azure_stretch_goals.md docs/content/battlefield_expansion.md
@@ -272,7 +272,7 @@ msgstr "Dentro de la caja"
 #: docs/content/rampart_expansion.md docs/content/regular_stretch_goals.md
 #: docs/content/stronghold_expansion.md docs/content/tower_expansion.md
 msgid "[List of Content](index.md)"
-msgstr "[Lista de contenido] (index.md)"
+msgstr "[Lista de Contenido] (index.md)"
 
 #. type: Bullet: '- '
 #: docs/content/conflux_expansion.md docs/content/crystal_stretch_goals.md
