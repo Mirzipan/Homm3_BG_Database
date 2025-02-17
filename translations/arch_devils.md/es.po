@@ -654,6 +654,9 @@ msgid ""
 "        ![Neutral Arch Devils](../assets/units-neutral-golden-arch_devils.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Neutral Archidiablos](../assets/units-neutral-golden-arch_devils.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/arch_devils.md

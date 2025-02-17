@@ -634,7 +634,7 @@ msgstr "El: Daño: desde Inferno también se aplica a unidades amigables."
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/inferno.md
 msgid ":golden: [Arch Devils](../units/arch_devils.md)"
-msgstr ""
+msgstr ":golden: [Archidiablos](../units/arch_devils.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/inferno.md
