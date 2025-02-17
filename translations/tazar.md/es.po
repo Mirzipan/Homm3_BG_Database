@@ -732,6 +732,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Armorer](../abilities/armorer.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Armero](../abilities/armorer.md)</p>\n"
 
 #. type: Title #
 #: docs/heroes/tazar.md

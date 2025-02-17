@@ -706,7 +706,7 @@ msgstr "Armero"
 #. type: Plain text
 #: docs/abilities/armorer.md
 msgid "![Armorer](../assets/abilities-armorer.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Armero](../assets/abilities-armorer.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/abilities/armorer.md

@@ -618,6 +618,9 @@ msgid ""
 "claims he owes you a favor. Taking him up on it, he pieces together some "
 "Dragon scales, forming a well-fashioned breastplate.*</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>*You meet an old Armero, who "
+"claims he owes you a favor. Taking him up on it, he pieces together some "
+"Dragon scales, forming a well-fashioned breastplate.*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/dragon_scale_armor.md docs/artifacts/dragon_scale_shield.md
