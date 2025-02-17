@@ -594,6 +594,9 @@ msgid ""
 ":attack:.<br><br>— OR —<br><br>:instant: Draw 1 card and gain +1 "
 ":defense:.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:instant: Roba 1 carta y gana +1 "
+":attack:.<br><br>— O —<br><br>:instant: Roba 1 carta y gana +1 "
+":defense:.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/armor_of_wonder.md
@@ -604,3 +607,4 @@ msgid ""
 "you notice the Rogues had overlooked a dirty, but serviceable, "
 "breastplate.*</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>*Una banda de pícaros está revisando las posesiones de algunos guerreros muertos. Para ahuyentar a los carroñeros, te das cuenta de que los pícaros habían pasado por alto una coraza sucia, pero útil.*</p>\n"
