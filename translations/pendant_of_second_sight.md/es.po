@@ -460,6 +460,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>[Major "
 "Artifact](../keywords/major_artifact.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>[Artefacto "
+"Mayor](../keywords/major_artifact.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
