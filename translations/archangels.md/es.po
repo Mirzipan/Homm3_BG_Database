@@ -823,4 +823,4 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/units/archangels.md
 msgid "**Pack** - See [Resurrection Spell](../spells/resurrection.md)"
-msgstr "**Manada** - Ver [Resurrection Spell](../spells/resurrection.md)"
+msgstr "**Manada** - Ver [Hechizo Resurrección](../spells/resurrection.md)"
