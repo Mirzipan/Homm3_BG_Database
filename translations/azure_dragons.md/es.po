@@ -664,6 +664,9 @@ msgid ""
 "    ![Neutral Azure Dragons](../assets/units-neutral-azure-azure_dragons.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Dragones Celestiales Neutrales](../assets/units-neutral-azure-azure_dragons.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/azure_dragons.md
