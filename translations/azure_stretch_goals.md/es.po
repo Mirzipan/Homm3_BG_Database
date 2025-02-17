@@ -264,7 +264,7 @@ msgstr "Accesorios"
 #. type: Bullet: '- '
 #: docs/content/azure_stretch_goals.md
 msgid "[Town Models](../towns/index.md)"
-msgstr ""
+msgstr "[Modelos de Ciudad](../towns/index.md)"
 
 #. type: Bullet: '- '
 #: docs/content/azure_stretch_goals.md
