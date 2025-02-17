@@ -682,6 +682,9 @@ msgid ""
 "        ![Ballista Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Balista Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
@@ -696,6 +699,9 @@ msgid ""
 "        ![Ballista Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Balista Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
@@ -710,6 +716,9 @@ msgid ""
 "        ![Ballista Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Balista Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/pasis.md docs/heroes/tarnum_castle.md

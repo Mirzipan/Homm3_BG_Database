@@ -642,6 +642,9 @@ msgid ""
 "[Ballista](../war_machines/ballista.md) card, resolve its effect against the"
 " same target 3 times.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:instant: When using the "
+"[Balista](../war_machines/ballista.md) card, resolve its effect against the "
+"same target 3 times.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/abilities/artillery.md
@@ -670,6 +673,9 @@ msgid ""
 "[Ballista](../war_machines/ballista.md) activates, which can only happen at "
 "the beginning of each Combat round."
 msgstr ""
+"The expert effect can only be played when the "
+"[Balista](../war_machines/ballista.md) activates, which can only happen at "
+"the beginning of each Combat round."
 
 #. type: Bullet: '- '
 #: docs/abilities/artillery.md
@@ -677,6 +683,8 @@ msgid ""
 "Without an active [Ballista](../war_machines/ballista.md), only the basic "
 "effect of this ability can be resolved."
 msgstr ""
+"Without an active [Balista](../war_machines/ballista.md), only the basic "
+"effect of this ability can be resolved."
 
 #. type: Bullet: '- '
 #: docs/abilities/artillery.md

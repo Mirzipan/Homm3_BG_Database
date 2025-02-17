@@ -456,6 +456,8 @@ msgid ""
 "![Ballista](../assets/war_machines-ballista.webp){ width=\"340\" align=right"
 " }"
 msgstr ""
+"![Balista](../assets/war_machines-ballista.webp){ width=\"340\" align=right "
+"}"
 
 #. type: Plain text
 #: docs/war_machines/ballista.md
@@ -465,8 +467,8 @@ msgid ""
 "each Combat round, deal 1 :damage: to the enemy unit with the lowest "
 ":initiative:.</p>\n"
 msgstr ""
-"<p style=\"text-align: center;\" markdown>:permanent: Al inicio de "
-"cada ronda de Combate, causa 1 :damage: a la unidad enemiga con la menor "
+"<p style=\"text-align: center;\" markdown>:permanent: Al inicio de cada "
+"ronda de Combate, causa 1 :damage: a la unidad enemiga con la menor "
 ":initiative:.</p>\n"
 
 #. type: Plain text
