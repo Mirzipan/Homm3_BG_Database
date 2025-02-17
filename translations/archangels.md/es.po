@@ -756,7 +756,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Archangels](../assets/units-castle-golden-archangels-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Arcángeles](../assets/units-castle-golden-archangels-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -768,7 +768,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Archangels](../assets/units-castle-golden-archangels-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Arcángeles](../assets/units-castle-golden-archangels-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -779,6 +779,9 @@ msgid ""
 "        ![Neutral Archangels](../assets/units-neutral-golden-archangels.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Arcángeles Neutrales](../assets/units-neutral-golden-archangels.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/archangels.md
@@ -798,15 +801,15 @@ msgid ""
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :golden: | :golden: | :golden: |\n"
-"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| Ciudad | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :golden: | :golden: | :golden: |\n"
+"| Tipo | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
 "| :attack: | 6 | **7** | 5 |\n"
 "| :defense: | 3 | 3 | 2 |\n"
 "| :health_points: | 8 | **10** | 7 |\n"
 "| :initiative: | 12 | **18** | 10 |\n"
-"| Cost | 20 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 29 :gold: |\n"
-"| Abilities | :unit_passive: When combat begins, draw 1 card. | :unit_passive: Once per Combat. Cancel an attack that would reduce another unit's :health_points: to 0. | :unit_attack: When attacking [Arch Devils](arch_devils.md), this unit gains +2 :attack:. |\n"
+"| Coste | 20 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 29 :gold: |\n"
+"| Habilidades | :unit_passive: Al inicio del combate, roba 1 carta. | :unit_passive: Una vez por Combate. Cancela un ataque que debería reducir los :health_points: de otra unidad a 0. | :unit_attack: Cuando ataca a [Archidiablos](arch_devils.md), esta unidad gana +2 :attack:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/archangels.md
@@ -814,10 +817,10 @@ msgid ""
 "**Pack** - The passive ability can be used at the moment when a friendly "
 "unit would be defeated."
 msgstr ""
-"**Manada** - The passive ability can be used at the moment when a friendly "
-"unit would be defeated."
+"**Manada** - La habilidad pasiva puede usarse en el mismo momento en el que una unidad "
+"aliada sea derrotada."
 
 #. type: Bullet: '- '
 #: docs/units/archangels.md
 msgid "**Pack** - See [Resurrection Spell](../spells/resurrection.md)"
-msgstr "**Manada** - See [Resurrection Spell](../spells/resurrection.md)"
+msgstr "**Manada** - Ver [Resurrection Spell](../spells/resurrection.md)"

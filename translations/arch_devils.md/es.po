@@ -591,7 +591,7 @@ msgstr "[Lista de Unidades](index.md)"
 #: docs/units/arch_devils.md
 #, no-wrap
 msgid "Arch Devils"
-msgstr "Arch Devils"
+msgstr "Archidiablos"
 
 #. type: Plain text
 #: docs/units/arch_devils.md
@@ -602,7 +602,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Arch Devils](../assets/units-inferno-golden-arch_devils-few.webp){ width=\"340\" align=right }\n"
+"        ![Unos Pocos Archidiablos](../assets/units-inferno-golden-arch_devils-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -614,7 +614,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Arch Devils](../assets/units-inferno-golden-arch_devils-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Archidiablos](../assets/units-inferno-golden-arch_devils-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -655,7 +655,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Archidiablos](../assets/units-neutral-golden-arch_devils.webp){ width=\"340\" align=right }\n"
+"        ![Archidiablos Neutrales](../assets/units-neutral-golden-arch_devils.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -676,12 +676,12 @@ msgid ""
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :golden: | :golden: | :golden: |\n"
-"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| Ciudad | [Infierno](../towns/inferno.md) | [Infierno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :golden: | :golden: | :golden: |\n"
+"| Tipo | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
 "| :attack: | 6 | **7** | 5 |\n"
 "| :defense: | 3 | 3 | 2 |\n"
 "| :health_points: | 8 | **9** | 7 |\n"
 "| :initiative: | 11 | **15** | 10 |\n"
-"| Cost | 22 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 23 :gold: |\n"
-"| Abilities | :unit_attack: Ignores Retaliation Attacks. | :unit_attack: Ignores Retaliation Attacks.<br>:unit_passive: As a regular movement, the Arch Devils can move to any empty space. | :unit_attack: When attacking [Archangels](archangels.md), this unit gains +2 :attack:. |\n"
+"| Coste | 22 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 23 :gold: |\n"
+"| Habilidades | :unit_attack: Ignora los Contraataques. | :unit_attack: Ignora los Contraataques.<br>:unit_passive: Como su movimiento normal, el Archidiablo puede moverse a cualquier casilla vacía. | :unit_attack: Cuando ataca a [Arcángeles](archangels.md), esta unidad gana +2 :attack:. |\n"
