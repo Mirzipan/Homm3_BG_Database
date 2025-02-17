@@ -609,6 +609,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Archery](../abilities/archery.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>[Tiro al "
+"Arco](../abilities/archery.md)</p>\n"
 
 #. type: Title #
 #: docs/heroes/wystan.md
