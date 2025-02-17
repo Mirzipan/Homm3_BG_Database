@@ -492,6 +492,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>:instant: Play this card during a "
 "siege.<br>Destroy the [Arrow Tower](../units/arrow_tower.md).</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:instant: Play this card during a "
+"siege.<br>Destroy the [Torre de Flechas](../units/arrow_tower.md).</p>\n"
 
 #. type: Bullet: '- '
 #: docs/abilities/ballistics.md docs/abilities/scholar.md

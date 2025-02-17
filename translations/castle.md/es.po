@@ -749,6 +749,16 @@ msgid ""
 "| Brotherhood of the Sword | 8 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, gain a :morale_positive:. |\n"
 "| Blacksmith | 4 :gold:<br>3 :building_materials:<br>0 :valuables: | During your turn, choose one:<br><br>**1.** Remove an [:artifact:](../artifacts/index.md) card from your hand to gain 4 :gold:.<br><br>**2.** :pay: 6 :gold: to **Search(2)** [:artifact:](../artifacts/index.md). |\n"
 msgstr ""
+"| Name | Building Cost | Effect |\n"
+"| :--- | ---: | :---: |\n"
+"| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: +1:movement: |\n"
+"| Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Torre de Flechas](../units/arrow_tower.md) cards to the Combat board. |\n"
+"| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 6 :gold: to **Search(2)** [:spellpower:](../spells/index.md). |\n"
+"| Towers | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |\n"
+"| Holy Grounds | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |\n"
+"| Glory of Erathia | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |\n"
+"| Brotherhood of the Sword | 8 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, gain a :morale_positive:. |\n"
+"| Blacksmith | 4 :gold:<br>3 :building_materials:<br>0 :valuables: | During your turn, choose one:<br><br>**1.** Remove an [:artifact:](../artifacts/index.md) card from your hand to gain 4 :gold:.<br><br>**2.** :pay: 6 :gold: to **Search(2)** [:artifact:](../artifacts/index.md). |\n"
 
 #. type: Title ##
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
