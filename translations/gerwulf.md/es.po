@@ -691,6 +691,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Armorer](../abilities/armorer.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Armero](../abilities/armorer.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md

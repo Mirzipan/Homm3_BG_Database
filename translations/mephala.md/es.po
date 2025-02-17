@@ -609,6 +609,9 @@ msgid ""
 "        ![Armorer Ⅰ](../assets/hero_specialties-rampart-mephala-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Armero Ⅰ](../assets/hero_specialties-rampart-mephala-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/mephala.md
@@ -623,6 +626,9 @@ msgid ""
 "        ![Armorer Ⅳ](../assets/hero_specialties-rampart-mephala-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Armero Ⅳ](../assets/hero_specialties-rampart-mephala-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/mephala.md
@@ -637,6 +643,9 @@ msgid ""
 "        ![Armorer Ⅵ](../assets/hero_specialties-rampart-mephala-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Armero Ⅵ](../assets/hero_specialties-rampart-mephala-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/mephala.md
