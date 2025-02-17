@@ -354,7 +354,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Arms of Legion](../artifacts/arms_of_legion.md)"
-msgstr ""
+msgstr "[Armas de la Legión](../artifacts/arms_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md

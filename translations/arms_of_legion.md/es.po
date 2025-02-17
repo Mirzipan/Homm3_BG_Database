@@ -594,6 +594,8 @@ msgid ""
 "![Arms of Legion](../assets/artifacts_major-arms_of_legion.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Armas de la Legión](../assets/artifacts_major-arms_of_legion.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/arms_of_legion.md
