@@ -495,7 +495,7 @@ msgstr "[Lista de Habilidades](index.md)"
 #: docs/units/hydras.md docs/units/lizardmen.md docs/units/rust_dragons.md
 #: docs/units/wyverns.md
 msgid "[Fortress Expansion](../content/fortress_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 
 #. type: Title #
 #: docs/abilities/learning.md

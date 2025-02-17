@@ -258,6 +258,12 @@ msgid ""
 "\t![Fortress Expansion Inside](../assets/content-fortress_expansion-inside.webp){ width=540 align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"\t![Expansión de Fortaleza Box](../assets/content-fortress_expansion-box.webp){ width=540 align=right }\n"
+"</figure>\n"
+"<figure markdown=\"span\">\n"
+"\t![Expansión de Fortaleza Inside](../assets/content-fortress_expansion-inside.webp){ width=540 align=right }\n"
+"</figure>\n"
 
 #. type: Bullet: '- '
 #: docs/content/fortress_expansion.md

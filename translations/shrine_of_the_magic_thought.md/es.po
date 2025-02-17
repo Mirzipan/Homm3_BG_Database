@@ -438,7 +438,7 @@ msgstr "Ver También"
 #: docs/spells/magic_arrow.md docs/spells/fortune.md docs/heroes/adrienne.md
 #: docs/heroes/wystan.md docs/towns/fortress.md
 msgid "[Fortress Expansion](../content/fortress_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md docs/units/fire_elementals.md
