@@ -696,9 +696,9 @@ msgid ""
 "top of their deck of Might and Magic.</p>\n"
 msgstr ""
 "<p style=\"text-align: center;\" markdown>Cada jugador debe barajar todas "
-"sus cartas de [Artefacto](../artifacts/index.md) y [Hechizo](../spells/index.md) de "
-"su mano junto con su mazo y robar el mismo número de cartas de la "
-"parte superior de su mazo de Poder y Magia.</p>\n"
+"sus cartas de [Artefacto](../artifacts/index.md) y "
+"[Hechizo](../spells/index.md) de su mano junto con su mazo y robar el mismo "
+"número de cartas de la parte superior de su mazo de Poder y Magia.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/annoying_lizard.md
@@ -707,8 +707,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>*Hey, Hero! Hero! Hey, Hero! Hero!"
 " Hey!*</p>\n"
 msgstr ""
-"<p style=\"text-align: center;\" markdown>*Eh, ¡Héroe! ¡Héroe! Eh, ¡Héroe! ¡Héroe!"
-" Hey!*</p>\n"
+"<p style=\"text-align: center;\" markdown>*Eh, ¡Héroe! ¡Héroe! Eh, ¡Héroe! "
+"¡Héroe! Hey!*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/annoying_lizard.md docs/events/a_shady_auction.md
@@ -716,4 +716,4 @@ msgstr ""
 #: docs/events/market_of_time.md docs/events/messenger_with_supplies.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 msgid "[List of Artifacts](../artifacts/index.md)"
-msgstr ""
+msgstr "[Lista de Artefactos](../artifacts/index.md)"

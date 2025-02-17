@@ -540,7 +540,7 @@ msgstr ""
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/relic_artifact.md
 msgid "[List of Artifacts](../artifacts/index.md)"
-msgstr ""
+msgstr "[Lista de Artefactos](../artifacts/index.md)"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md

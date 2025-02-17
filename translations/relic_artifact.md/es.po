@@ -306,7 +306,7 @@ msgstr ""
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/relic_artifact.md
 msgid "[List of Artifacts](../artifacts/index.md)"
-msgstr ""
+msgstr "[Lista de Artefactos](../artifacts/index.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/major_artifact.md
