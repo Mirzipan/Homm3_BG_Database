@@ -586,7 +586,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/arms_of_legion.md
 #, no-wrap
 msgid "Arms of Legion"
-msgstr "Arms of Legion"
+msgstr "Brazos de la Legión"
 
 #. type: Plain text
 #: docs/artifacts/arms_of_legion.md
@@ -594,7 +594,7 @@ msgid ""
 "![Arms of Legion](../assets/artifacts_major-arms_of_legion.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
-"![Armas de la Legión](../assets/artifacts_major-arms_of_legion.webp){ "
+"![Brazos de la Legión](../assets/artifacts_major-arms_of_legion.webp){ "
 "width=\"340\" align=right }"
 
 #. type: Plain text
