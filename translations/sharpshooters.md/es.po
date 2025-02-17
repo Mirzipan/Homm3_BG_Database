@@ -603,7 +603,7 @@ msgstr "[Lista de Unidades](index.md)"
 #: docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr "Héroes con una especialidad"
+msgstr "Héroes Con Una Especialidad"
 
 #. type: Bullet: '- '
 #: docs/units/elves.md docs/units/sharpshooters.md

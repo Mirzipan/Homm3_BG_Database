@@ -684,6 +684,17 @@ msgid ""
 "| Cost | 45 :gold:<br>2 :valuables: |\n"
 "| Abilities | :unit_attack: If you resolve a \"-1\" on the [Attack die](../dice.md#attack-die), the target gains :paralysis:.<br>:unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). |\n"
 msgstr ""
+"| Estadísticas | Neutral |\n"
+"| :--- | :---: |\n"
+"| Ciudad | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :azure: |\n"
+"| Tipo | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| :attack: | 8 |\n"
+"| :defense: | 3 |\n"
+"| :health_points: | 10 |\n"
+"| :initiative: | 19 |\n"
+"| Coste | 45 :gold:<br>2 :valuables: |\n"
+"| Habilidades | :unit_attack: Si sacas un \"-1\" como resultado en el [Dado de Ataque](../dice.md#attack-die), el objetivo obtiene :paralysis:.<br>:unit_passive: Ignora cualquier efecto de [:spellpower:](../spells/index.md) y :damage: de [Especialidad](../heroes/index.md). |\n"
 
 #. type: Title ##
 #: docs/units/azure_dragons.md docs/units/basilisks.md
@@ -699,7 +710,7 @@ msgstr ""
 #: docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr "Héroes con una especialidad"
+msgstr "Héroes Con Una Especialidad"
 
 #. type: Bullet: '- '
 #: docs/units/azure_dragons.md docs/units/black_dragons.md
@@ -719,4 +730,4 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/units/azure_dragons.md
 msgid "Specialties are the hero-specific cards (Ⅰ, Ⅳ, and Ⅵ)."
-msgstr "Las especialidades son las cartas específicas del héroe (ⅰ, ⅳ y ⅵ)."
+msgstr "Las Especialidades son las cartas específicas del héroe (I, IV y VI)."
