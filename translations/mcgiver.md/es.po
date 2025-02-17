@@ -617,6 +617,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>[Astrologers "
 "Proclaim](index.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>[Proclama de los "
+"Astrólogos](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
