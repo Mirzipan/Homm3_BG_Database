@@ -585,6 +585,8 @@ msgid ""
 "![Artifact Merchant](../assets/events-artifact_merchant.webp){ width=\"475\""
 " align=right }"
 msgstr ""
+"![Mercado de Artefactos](../assets/events-artifact_merchant.webp){ "
+"width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/events/artifact_merchant.md
