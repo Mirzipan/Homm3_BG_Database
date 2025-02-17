@@ -592,6 +592,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>[Basic Earth "
 "Spell](school_of_earth_magic.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>[Hechizo Básico de "
+"Tierra](school_of_earth_magic.md)</p>\n"
 
 #. type: Plain text
 #: docs/spells/anti-magic.md
@@ -604,9 +606,9 @@ msgid ""
 "—<br><br>:instant: +1 :empower:</p>\n"
 msgstr ""
 "<p style=\"text-align: center;\" markdown>:ongoing: Hasta el final del "
-"Combate, la [unit](../units/index.md) \\* seleccionada no puede ser objetivo de "
-"hechizos:<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: o "
-":silver:<br>:empower: 4 ➣ \\*:bronze: o :silver: o :golden:<br><br>— O "
+"Combate, la [unit](../units/index.md) \\* seleccionada no puede ser objetivo"
+" de hechizos:<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: "
+"o :silver:<br>:empower: 4 ➣ \\*:bronze: o :silver: o :golden:<br><br>— O "
 "—<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Bullet: '- '
@@ -615,8 +617,9 @@ msgid ""
 "Units that are protected from spells via Anti-Magic are also immune to area "
 "effects of spells (e.g. [Fireball spell](../spells/fireball.md))."
 msgstr ""
-"Las Unidades que están protegidas de hechizos mediante Anti-Magia son también inmunes a los efectos "
-"de área de hechizos (ej. [hechizo Bola de Fuego](../spells/fireball.md))."
+"Las Unidades que están protegidas de hechizos mediante Anti-Magia son "
+"también inmunes a los efectos de área de hechizos (ej. [hechizo Bola de "
+"Fuego](../spells/fireball.md))."
 
 #. type: Bullet: '- '
 #: docs/spells/anti-magic.md docs/spells/earthquake.md

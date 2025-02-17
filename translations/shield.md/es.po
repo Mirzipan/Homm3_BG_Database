@@ -472,6 +472,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>[Basic Earth "
 "Spell](school_of_earth_magic.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>[Hechizo Básico de "
+"Tierra](school_of_earth_magic.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/earthquake.md docs/spells/resurrection.md
