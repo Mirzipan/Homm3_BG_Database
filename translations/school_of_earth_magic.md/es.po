@@ -317,7 +317,7 @@ msgstr "Magia de la Escuela de la Tierra"
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md
 msgid "[Anti-Magic](anti-magic.md)"
-msgstr "[Antimágico] (anti-magic.md)"
+msgstr "[Anti-Magia] (anti-magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md

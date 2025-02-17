@@ -676,7 +676,7 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/stone_skin.md docs/spells/summon_earth_elemental.md
 #: docs/spells/town_portal.md docs/spells/view_earth.md
 msgid "[School of Earth Magic](school_of_earth_magic.md)"
-msgstr "[School of Earth Magic] (School_of_earth_magic.md)"
+msgstr "[Escuela de Magia de Tierra](School_of_earth_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/berserk.md docs/spells/blind.md docs/spells/bloodlust.md
