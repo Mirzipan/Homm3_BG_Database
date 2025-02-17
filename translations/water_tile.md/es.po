@@ -541,7 +541,7 @@ msgstr "Ver También"
 #: docs/units/sea_dogs.md docs/units/seamen.md docs/units/sorceresses.md
 #: docs/war_machines/cannon.md
 msgid "[Cove Expansion](../content/cove_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Ensenada](../content/cove_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md

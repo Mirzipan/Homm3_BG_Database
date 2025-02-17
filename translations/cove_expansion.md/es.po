@@ -291,6 +291,12 @@ msgid ""
 "\t![Cove Expansion Inside](../assets/content-cove_expansion-inside.webp){ width=540 align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"\t![Expansión de Ensenada Box](../assets/content-cove_expansion-box.webp){ width=540 align=right }\n"
+"</figure>\n"
+"<figure markdown=\"span\">\n"
+"\t![Expansión de Ensenada Inside](../assets/content-cove_expansion-inside.webp){ width=540 align=right }\n"
+"</figure>\n"
 
 #. type: Bullet: '- '
 #: docs/content/cove_expansion.md

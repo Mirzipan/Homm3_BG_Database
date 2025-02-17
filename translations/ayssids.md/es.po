@@ -414,7 +414,7 @@ msgstr "Ver También"
 #: docs/units/nix.md docs/units/oceanids.md docs/units/sea_dogs.md
 #: docs/units/seamen.md docs/units/sorceresses.md docs/war_machines/cannon.md
 msgid "[Cove Expansion](../content/cove_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Ensenada](../content/cove_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md

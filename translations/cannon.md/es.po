@@ -416,7 +416,7 @@ msgstr "Ver También"
 #: docs/heroes/cassiopeia.md docs/heroes/zilare.md docs/heroes/jeremy.md
 #: docs/heroes/casmetra.md docs/war_machines/cannon.md docs/towns/cove.md
 msgid "[Cove Expansion](../content/cove_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Ensenada](../content/cove_expansion.md)"
 
 #. type: Plain text
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
