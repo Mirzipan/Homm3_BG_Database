@@ -272,4 +272,4 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
 msgid "[Arrow Tower](../units/arrow_tower.md)"
-msgstr ""
+msgstr "[Torre de Flechas](../units/arrow_tower.md)"
