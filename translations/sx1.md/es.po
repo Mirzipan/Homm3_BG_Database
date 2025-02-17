@@ -623,4 +623,4 @@ msgstr "#S1"
 #. type: Bullet: '- '
 #: docs/tiles/sx1.md
 msgid "[Tower Town](../towns/tower.md)"
-msgstr ""
+msgstr "[Ciudad Torre](../towns/tower.md)"
