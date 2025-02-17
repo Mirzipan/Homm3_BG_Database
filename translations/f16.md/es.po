@@ -604,7 +604,7 @@ msgstr ""
 #: docs/tiles/s7.md docs/tiles/s8.md docs/tiles/s9.md docs/tiles/sx1.md
 #: docs/tiles/u1.md docs/tiles/u2.md docs/tiles/w1.md docs/tiles/w3.md
 msgid "[Empty Field](../keywords/empty_field.md)"
-msgstr ""
+msgstr "[Campo Vacío](../keywords/empty_field.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/f1.md docs/tiles/f14.md docs/tiles/f16.md docs/tiles/f3.md

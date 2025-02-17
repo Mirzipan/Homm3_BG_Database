@@ -597,7 +597,7 @@ msgstr "Césped"
 #: docs/tiles/s7.md docs/tiles/s8.md docs/tiles/s9.md docs/tiles/sx1.md
 #: docs/tiles/u1.md docs/tiles/u2.md docs/tiles/w1.md docs/tiles/w3.md
 msgid "[Empty Field](../keywords/empty_field.md)"
-msgstr ""
+msgstr "[Campo Vacío](../keywords/empty_field.md)"
 
 #. type: Plain text
 #: docs/tiles/n1.md docs/tiles/n10.md docs/tiles/n11.md docs/tiles/n12.md
