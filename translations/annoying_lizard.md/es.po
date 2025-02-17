@@ -675,7 +675,7 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/annoying_lizard.md
 #, no-wrap
 msgid "Annoying Lizard"
-msgstr "Lizard molesto"
+msgstr "Lagarto Molesto"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/annoying_lizard.md
@@ -683,6 +683,8 @@ msgid ""
 "![Annoying Lizard](../assets/astrologers_proclaim-annoying_lizard.webp){ "
 "width=\"475\" align=right }"
 msgstr ""
+"![Largarto Molesto](../assets/astrologers_proclaim-annoying_lizard.webp){ "
+"width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/annoying_lizard.md
@@ -693,6 +695,10 @@ msgid ""
 " their hand back into their deck and draw the same number of cards from the "
 "top of their deck of Might and Magic.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>Cada jugador debe barajar todas "
+"sus cartas de [Artefacto](../artifacts/index.md) y [Hechizo](../spells/index.md) de "
+"su mano junto con su mazo y robar el mismo número de cartas de la "
+"parte superior de su mazo de Poder y Magia.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/annoying_lizard.md
@@ -701,6 +707,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>*Hey, Hero! Hero! Hey, Hero! Hero!"
 " Hey!*</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>*Eh, ¡Héroe! ¡Héroe! Eh, ¡Héroe! ¡Héroe!"
+" Hey!*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/annoying_lizard.md docs/events/a_shady_auction.md
