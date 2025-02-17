@@ -555,7 +555,7 @@ msgstr ""
 #: docs/events/marketplace.md docs/events/garden_of_revelation.md
 #: docs/events/withered_hermit.md docs/events/a_shady_auction.md
 msgid "[List of Events](index.md)"
-msgstr "[Lista de eventos] (index.md)"
+msgstr "[Lista de Eventos](index.md)"
 
 #. type: Title #
 #: docs/events/mischievous_leprechaun.md

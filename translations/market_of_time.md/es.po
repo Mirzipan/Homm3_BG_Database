@@ -683,7 +683,7 @@ msgstr ""
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 msgid "[List of Events](index.md)"
-msgstr "[Lista de eventos] (index.md)"
+msgstr "[Lista de Eventos](index.md)"
 
 #. type: Bullet: '- '
 #: docs/events/garden_of_revelation.md docs/events/magical_forest.md
