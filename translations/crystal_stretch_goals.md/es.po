@@ -252,7 +252,7 @@ msgstr ""
 #: docs/content/crystal_stretch_goals.md
 #, no-wrap
 msgid "Crystal Stretch Goals 2024"
-msgstr "Objetivos de estiramiento de cristal 2024"
+msgstr "Objetivos Cristal de Financiación 2024"
 
 #. type: Plain text
 #: docs/content/crystal_stretch_goals.md

@@ -707,8 +707,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>*Hey, Hero! Hero! Hey, Hero! Hero!"
 " Hey!*</p>\n"
 msgstr ""
-"<p style=\"text-align: center;\" markdown>*Eh, ¡Héroe! ¡Héroe! Eh, ¡Héroe! "
-"¡Héroe! Hey!*</p>\n"
+"<p style=\"text-align: center;\" markdown>*¡Eh, Héroe! ¡Héroe! ¡Eh, ¡Héroe! "
+"¡Héroe! ¡Eh!*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/annoying_lizard.md docs/events/a_shady_auction.md
