@@ -725,6 +725,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>:instant: +2 :defense:<br>Then "
 "draw 1 card.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:instant: +2 :defense:<br>Luego "
+"roba 1 carta.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/abilities/armorer.md
@@ -748,4 +750,4 @@ msgid ""
 "such case, the defense bonus is unused and lost."
 msgstr ""
 "El armero también se puede jugar fuera del combate, para dibujar una "
-"carta.En tal caso, el bono de defensa no se usa y se pierde."
+"carta. En tal caso, el bono de defensa no se usa y se pierde."
