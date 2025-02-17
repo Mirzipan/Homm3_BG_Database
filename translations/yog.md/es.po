@@ -539,7 +539,7 @@ msgstr "[Lista de Ciudades](../towns/index.md)"
 #: docs/units/cyclops.md docs/units/goblins.md docs/units/ogres.md
 #: docs/units/orcs.md docs/units/thunderbirds.md docs/units/wolf_raiders.md
 msgid "[Stronghold Expansion](../content/stronghold_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Bastión](../content/stronghold_expansion.md)"
 
 #. type: Title ##
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md

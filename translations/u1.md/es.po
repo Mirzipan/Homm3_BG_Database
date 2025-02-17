@@ -503,7 +503,7 @@ msgstr "Puerta subterránea"
 #: docs/units/cyclops.md docs/units/goblins.md docs/units/ogres.md
 #: docs/units/orcs.md docs/units/thunderbirds.md docs/units/wolf_raiders.md
 msgid "[Stronghold Expansion](../content/stronghold_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Bastión](../content/stronghold_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/f10.md docs/tiles/f13.md

@@ -477,7 +477,7 @@ msgstr "[Lista de Ciudades](../towns/index.md)"
 #: docs/units/cyclops.md docs/units/goblins.md docs/units/ogres.md
 #: docs/units/orcs.md docs/units/thunderbirds.md docs/units/wolf_raiders.md
 msgid "[Stronghold Expansion](../content/stronghold_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Bastión](../content/stronghold_expansion.md)"
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md

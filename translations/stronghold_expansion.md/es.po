@@ -297,6 +297,12 @@ msgid ""
 "\t![Stronghold Expansion Inside](../assets/content-stronghold_expansion-inside.webp){ width=540 align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"\t![Expansión de Bastión Box](../assets/content-stronghold_expansion-box.webp){ width=540 align=right }\n"
+"</figure>\n"
+"<figure markdown=\"span\">\n"
+"\t![Expansión de Bastión Inside](../assets/content-stronghold_expansion-inside.webp){ width=540 align=right }\n"
+"</figure>\n"
 
 #. type: Bullet: '- '
 #: docs/content/stronghold_expansion.md
