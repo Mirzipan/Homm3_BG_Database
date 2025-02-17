@@ -1283,7 +1283,7 @@ msgstr "[:health_points: Puntos de Salud](health_points.md)"
 #. type: Bullet: '- '
 #: docs/keywords/index.md
 msgid "[:initiative: Initiative Value](initiative_value.md)"
-msgstr "[:initiative: Valor de Iniciativa](iniciative_value.md)"
+msgstr "[:initiative: Valor de Iniciativa](initiative_value.md)"
 
 #. type: Title ##
 #: docs/keywords/index.md
