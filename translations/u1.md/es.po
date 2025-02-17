@@ -596,6 +596,7 @@ msgstr ""
 #: docs/tiles/u1.md docs/tiles/u2.md docs/tiles/w3.md
 msgid "[Ⅴ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)"
 msgstr ""
+"[Ⅴ](../difficulties.md) :building_materials: [Mina](../fields/mine.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/u1.md

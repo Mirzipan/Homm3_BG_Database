@@ -612,7 +612,7 @@ msgstr ""
 #: docs/tiles/f11.md docs/tiles/f14.md docs/tiles/f17.md docs/tiles/f4.md
 #: docs/tiles/f5.md docs/tiles/f6.md docs/tiles/fx2.md
 msgid "[Ⅲ](../difficulties.md) :gold: [Mine](../fields/mine.md)"
-msgstr ""
+msgstr "[Ⅲ](../difficulties.md) :gold: [Mina](../fields/mine.md)"
 
 #. type: Title #
 #: docs/tiles/f17.md

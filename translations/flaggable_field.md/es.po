@@ -345,7 +345,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md
 msgid "[Mine](../fields/mine.md)"
-msgstr ""
+msgstr "[Mina](../fields/mine.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/tiles/n11.md docs/tiles/n13.md

@@ -616,7 +616,7 @@ msgstr ""
 #: docs/tiles/n1.md docs/tiles/n11.md docs/tiles/n13.md docs/tiles/n2.md
 #: docs/tiles/n3.md docs/tiles/n7.md docs/tiles/n9.md docs/tiles/nx2.md
 msgid "[Ⅴ](../difficulties.md) :valuables: [Mine](../fields/mine.md)"
-msgstr ""
+msgstr "[Ⅴ](../difficulties.md) :valuables: [Mina](../fields/mine.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/n14.md docs/tiles/n8.md docs/tiles/nx2.md docs/tiles/u1.md

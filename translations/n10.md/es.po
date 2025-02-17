@@ -625,4 +625,4 @@ msgstr ""
 #: docs/tiles/n5.md docs/tiles/n6.md docs/tiles/n8.md docs/tiles/nx1.md
 #: docs/tiles/nx3.md docs/tiles/w1.md
 msgid "[Ⅴ](../difficulties.md) :gold: [Mine](../fields/mine.md)"
-msgstr ""
+msgstr "[Ⅴ](../difficulties.md) :gold: [Mina](../fields/mine.md)"

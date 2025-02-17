@@ -441,7 +441,7 @@ msgstr ""
 #: docs/fields/mine.md
 #, no-wrap
 msgid "Mine"
-msgstr ""
+msgstr "Mina"
 
 #. type: Plain text
 #: docs/fields/mine.md
@@ -449,6 +449,8 @@ msgid ""
 "![Mine Map Location](../assets/locations-mine_valuables.webp){ width=\"340\""
 " align=right }"
 msgstr ""
+"![Mina Map Location](../assets/locations-mine_valuables.webp){ width=\"340\""
+" align=right }"
 
 #. type: Plain text
 #: docs/fields/mine.md
@@ -460,3 +462,8 @@ msgid ""
 "Mines:<br><br>+5 :gold: income<br>+2 :building_materials: income<br>+1 "
 ":valuables: income</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>When flagged, increases the "
+"specific resource income (shown on the field). The first player to flag the "
+"Mina also gains its income immediately. There are following types of "
+"Minas:<br><br>+5 :gold: income<br>+2 :building_materials: income<br>+1 "
+":valuables: income</p>\n"

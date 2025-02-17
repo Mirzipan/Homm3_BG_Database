@@ -620,6 +620,7 @@ msgstr ""
 #: docs/tiles/fx7.md docs/tiles/fx8.md docs/tiles/fx9.md
 msgid "[Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)"
 msgstr ""
+"[Ⅲ](../difficulties.md) :building_materials: [Mina](../fields/mine.md)"
 
 #. type: Title #
 #: docs/tiles/fx9.md
