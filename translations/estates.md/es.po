@@ -528,7 +528,7 @@ msgstr "Ver También"
 #: docs/abilities/sorcery.md docs/abilities/tactics.md
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
 msgid "[List of Abilities](index.md)"
-msgstr "[Lista de habilidades] (index.md)"
+msgstr "[Lista de Habilidades](index.md)"
 
 #. type: Title ##
 #: docs/abilities/archery.md docs/abilities/armorer.md
@@ -635,7 +635,7 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/abilities/estates.md
 #, no-wrap
 msgid "Estates"
-msgstr "Fincas"
+msgstr "Finanzas"
 
 #. type: Plain text
 #: docs/abilities/estates.md
@@ -646,13 +646,13 @@ msgstr ""
 #: docs/abilities/estates.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:instant: Gain 3 :gold:.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Gana 3 :gold:.</p>\n"
 
 #. type: Plain text
 #: docs/abilities/estates.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:instant: Gain 6 :gold:.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Gana 6 :gold:.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/abilities/estates.md
@@ -662,9 +662,9 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/abilities/estates.md
 msgid "[:might: Lord Haart (Castle)](../heroes/lord_haart_castle.md)"
-msgstr ""
+msgstr "[:might: Lord Haart (Castillo)](../heroes/lord_haart_castle.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/estates.md
 msgid "[:magic: Tarnum (Dungeon)](../heroes/tarnum_dungeon.md)"
-msgstr ""
+msgstr "[:magic: Tarnum (Mazmorra)](../heroes/tarnum_dungeon.md)"
