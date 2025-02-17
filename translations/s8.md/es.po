@@ -582,7 +582,7 @@ msgstr ""
 #: docs/tiles/s5.md docs/tiles/s6.md docs/tiles/s7.md docs/tiles/s8.md
 #: docs/tiles/s9.md docs/tiles/sx1.md
 msgid "[Starting Tile](../keywords/starting_tile.md)"
-msgstr ""
+msgstr "[Loseta Inicial](../keywords/starting_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/s1.md docs/tiles/s2.md docs/tiles/s3.md docs/tiles/s4.md
