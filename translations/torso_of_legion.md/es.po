@@ -589,19 +589,19 @@ msgstr ""
 #: docs/artifacts/arms_of_legion.md docs/artifacts/legs_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Head of Legion](head_of_legion.md)"
-msgstr "[Head of Legion] (head_of_legion.md)"
+msgstr "[Cabeza de la Legión](head_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Legs of Legion](legs_of_legion.md)"
-msgstr "[Legs of Legion] (Legs_of_legion.md)"
+msgstr "[Piernas de la Legión](Legs_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Loins of Legion](loins_of_legion.md)"
-msgstr "[Préstamo de la legión] (lOins_of_legion.md)"
+msgstr "[Lomo de la Legión]lOins_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/head_of_legion.md docs/artifacts/legs_of_legion.md

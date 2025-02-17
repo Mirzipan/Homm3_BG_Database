@@ -604,6 +604,10 @@ msgid ""
 "minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 "
 ":building_materials:.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:instant: Reduce el coste de Reclutamiento "
+"o Refuerzo de una [unidad](../units/index.md) en 5 :gold: - hasta un "
+"mínimo de 0.<br><br>— O —<br><br>:instant: Gana 2 "
+":building_materials:.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
@@ -614,6 +618,7 @@ msgid ""
 "to find a piece of the Statue of Legion. You carefully dust it off before "
 "placing it in your pack.*</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>*Buscando una ruina, te sorprende encontrar una pieza de la Estatua de la Legión. Quítalo con cuidado antes de colocarlo en tu mochila.*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md
@@ -636,6 +641,8 @@ msgid ""
 "The recruitment discount may be played in combination with cards that allow "
 "recruitment (e.g. [Necromancy](../abilities/necromancy.md))."
 msgstr ""
+"El descuento de reclutamiento puede ser jugado en combinación con cartas que permitan "
+"reclutar (ej. [Nigromancia](../abilities/necromancy.md))."
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md
@@ -644,25 +651,25 @@ msgid ""
 "Legion may not be used."
 msgstr ""
 "Si el jugador recluta fuera de su turno, no se puede usar el efecto de los "
-"brazos de la Legión."
+"Brazos de la Legión."
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/legs_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Head of Legion](head_of_legion.md)"
-msgstr "[Head of Legion] (head_of_legion.md)"
+msgstr "[Cabeza de la Legión](head_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Legs of Legion](legs_of_legion.md)"
-msgstr "[Legs of Legion] (Legs_of_legion.md)"
+msgstr "[Piernas de la Legión](Legs_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Loins of Legion](loins_of_legion.md)"
-msgstr "[Préstamo de la legión] (lOins_of_legion.md)"
+msgstr "[Lomo de la Legión]lOins_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
