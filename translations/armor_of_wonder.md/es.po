@@ -583,6 +583,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>[Minor "
 "Artifact](../keywords/minor_artifact.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>[Artefacto "
+"Menor](../keywords/minor_artifact.md)</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/armor_of_wonder.md
