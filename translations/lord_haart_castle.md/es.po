@@ -579,6 +579,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Estates](../abilities/estates.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Finanzas](../abilities/estates.md)</p>\n"
 
 #. type: Title #
 #: docs/heroes/lord_haart_castle.md
@@ -608,6 +610,9 @@ msgid ""
 "        ![Estates Ⅰ](../assets/hero_specialties-castle-lord_haart-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Finanzas Ⅰ](../assets/hero_specialties-castle-lord_haart-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/lord_haart_castle.md
@@ -622,6 +627,9 @@ msgid ""
 "        ![Estates Ⅳ](../assets/hero_specialties-castle-lord_haart-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Finanzas Ⅳ](../assets/hero_specialties-castle-lord_haart-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/lord_haart_castle.md
@@ -636,6 +644,9 @@ msgid ""
 "        ![Estates Ⅵ](../assets/hero_specialties-castle-lord_haart-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Finanzas Ⅵ](../assets/hero_specialties-castle-lord_haart-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/lord_haart_castle.md

@@ -641,6 +641,7 @@ msgstr "Finanzas"
 #: docs/abilities/estates.md
 msgid "![Estates](../assets/abilities-estates.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Finanzas](../assets/abilities-estates.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/abilities/estates.md
