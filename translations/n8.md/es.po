@@ -618,7 +618,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/tiles/n14.md docs/tiles/n8.md docs/tiles/nx2.md docs/tiles/u1.md
 msgid "[Ⅳ](../difficulties.md) [Treasure](../fields/treasure.md)"
-msgstr ""
+msgstr "[Ⅳ](../difficulties.md) [Tesoro](../fields/treasure.md)"
 
 #. type: Title #
 #: docs/tiles/n8.md

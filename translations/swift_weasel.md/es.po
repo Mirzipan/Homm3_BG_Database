@@ -668,6 +668,10 @@ msgid ""
 "die](../dice.md#treasure-die) or a [Resource die](../dice.md#resource-"
 "die).</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>Until the next Astrologer's "
+"round:<br><br>Once per turn, each player can reroll a [Tesoro "
+"die](../dice.md#treasure-die) or a [Resource die](../dice.md#resource-"
+"die).</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/swift_weasel.md

@@ -716,6 +716,9 @@ msgid ""
 "[Treasure die](../dice.md#treasure-die) and a [Resource "
 "die](../dice.md#resource-die) once during this turn.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:ongoing: You can reroll a [Tesoro"
+" die](../dice.md#treasure-die) and a [Resource die](../dice.md#resource-die)"
+" once during this turn.</p>\n"
 
 #. type: Plain text
 #: docs/abilities/luck.md

@@ -568,6 +568,11 @@ msgid ""
 "choice<br><br>:empower: 0 ➣ \\*once<br>:empower: 1 ➣ \\*twice<br>:empower: 2"
 " ➣ \\*3 times<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:instant: Reroll one "
+"[Tesoro](../dice.md#treasure-die), [Resource](../dice.md#resource-die), or "
+"[Attack die](../dice.md#attack-die) \\*. Resolve the result of your "
+"choice<br><br>:empower: 0 ➣ \\*once<br>:empower: 1 ➣ \\*twice<br>:empower: 2"
+" ➣ \\*3 times<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/fortune.md
