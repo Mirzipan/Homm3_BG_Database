@@ -431,7 +431,7 @@ msgstr ""
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/first_aid_tent.md docs/war_machines/cannon.md
 msgid "[List of War Machines](index.md)"
-msgstr "[Lista de Máquinas de Guerra] (index.md)"
+msgstr "[Lista de Máquinas de Guerra](index.md)"
 
 #. type: Title #
 #: docs/war_machines/cannon.md
