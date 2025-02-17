@@ -442,7 +442,7 @@ msgstr ""
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/first_aid_tent.md docs/war_machines/cannon.md
 msgid "[List of War Machines](index.md)"
-msgstr "[Lista de máquinas de guerra] (index.md)"
+msgstr "[Lista de Máquinas de Guerra] (index.md)"
 
 #. type: Title #
 #: docs/war_machines/ballista.md
@@ -465,6 +465,9 @@ msgid ""
 "each Combat round, deal 1 :damage: to the enemy unit with the lowest "
 ":initiative:.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:permanent: Al inicio de "
+"cada ronda de Combate, causa 1 :damage: a la unidad enemiga con la menor "
+":initiative:.</p>\n"
 
 #. type: Plain text
 #: docs/war_machines/ballista.md
@@ -473,3 +476,5 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>:pay: 7 :gold: at "
 "Blacksmith<br><br>— OR —<br><br>:pay: 10 :gold: at Trade Post</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:pay: 7 :gold: en la "
+"Herrería<br><br>— O —<br><br>:pay: 10 :gold: en el Puesto de Comercio</p>\n"
