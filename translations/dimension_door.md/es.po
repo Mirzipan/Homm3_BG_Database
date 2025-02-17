@@ -498,7 +498,7 @@ msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
 #: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
 #: docs/spells/view_air.md
 msgid "[School of Air Magic](school_of_air_magic.md)"
-msgstr "[Escuela de Magia de Aire](School_of_air_magic.md)"
+msgstr "[Escuela de Magia de Aire](school_of_air_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md

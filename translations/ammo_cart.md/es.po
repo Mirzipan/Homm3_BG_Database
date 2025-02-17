@@ -831,7 +831,7 @@ msgstr "[Lista de Máquinas de Guerra](../war_machines/index.md)"
 #: docs/war_machines/ammo_cart.md
 #, no-wrap
 msgid "Ammo Cart"
-msgstr "Carro de munición"
+msgstr "Carro de Munición"
 
 #. type: Plain text
 #: docs/war_machines/ammo_cart.md

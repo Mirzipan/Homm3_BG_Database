@@ -152,14 +152,8 @@ msgstr "Notas"
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md docs/abilities/earth_magic.md
 #: docs/abilities/fire_magic.md docs/abilities/water_magic.md
-msgid ""
-"The expert effect may be played either from hand, or from the field. This "
-"does, however, not add the two effects, and the ability is put into the "
-"discard pile after being played."
-msgstr ""
-"El efecto experto se puede jugar desde la mano o desde el campo. "
-"Sin embargo, esto no agrega los dos efectos, y la habilidad se pone en "
-"la pila de descarte después de ser jugada."
+msgid "The expert effect may be played either from hand, or from the field. This does, however, not add the two effects, and the ability is put into the discard pile after being played."
+msgstr "El efecto experto se puede jugar desde la mano o desde el campo. Sin embargo, esto no agrega los dos efectos, y la habilidad se pone en la pila de descarte después de ser jugada."
 
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md docs/abilities/earth_magic.md

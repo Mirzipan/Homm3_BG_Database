@@ -476,7 +476,7 @@ msgstr ""
 #: docs/spells/stone_skin.md docs/spells/summon_earth_elemental.md
 #: docs/spells/town_portal.md docs/spells/view_earth.md
 msgid "[School of Earth Magic](school_of_earth_magic.md)"
-msgstr "[Escuela de Magia de Tierra](School_of_earth_magic.md)"
+msgstr "[Escuela de Magia de Tierra](school_of_earth_magic.md)"
 
 #. type: Title #
 #: docs/spells/earthquake.md
