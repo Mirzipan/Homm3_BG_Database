@@ -324,7 +324,7 @@ msgstr "Viene Con"
 #: docs/units/iron_golems.md docs/units/magi.md docs/units/nagas.md
 #: docs/units/titans.md
 msgid "[Tower Expansion](../content/tower_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Torre](../content/tower_expansion.md)"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md

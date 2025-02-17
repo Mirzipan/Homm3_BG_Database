@@ -641,7 +641,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/lizardmen.md docs/units/pegasi.md docs/units/unicorns.md
 #: docs/units/wyverns.md
 msgid "[Tower Expansion](../content/tower_expansion.md) (Neutral)"
-msgstr ""
+msgstr "[Expansión de Torre](../content/tower_expansion.md) (Neutral)"
 
 #. type: Title #
 #: docs/units/dragon_flies.md
