@@ -449,6 +449,8 @@ msgid ""
 "![War Machine Factory Map Location](../assets/locations-"
 "war_machine_factory.webp){ width=\"475\" align=right }"
 msgstr ""
+"![Máquina de Guerra Factory Map Location](../assets/locations-"
+"war_machine_factory.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/fields/war_machine_factory.md
@@ -457,3 +459,5 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>Buy a [War "
 "Machine](../war_machines/index.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>Buy a [Máquina de "
+"Guerra](../war_machines/index.md)</p>\n"

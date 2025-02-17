@@ -682,6 +682,10 @@ msgid ""
 "their choice from the [War Machines](../war_machines/index.md) deck at not "
 "cost.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>At the beginning of the next "
+"round, each player can take 1 [Máquina de Guerra](../war_machines/index.md) "
+"of their choice from the [Máquina de Guerras](../war_machines/index.md) deck"
+" at not cost.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/mcgiver.md
@@ -690,6 +694,9 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>*Hi, this is McGiver. We all know "
 "how the War Machines work, so when you hear the vrrrum, go for it.*</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>*Hi, this is McGiver. We all know "
+"how the Máquina de Guerras work, so when you hear the vrrrum, go for "
+"it.*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/mcgiver.md

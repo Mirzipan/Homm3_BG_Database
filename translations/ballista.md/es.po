@@ -435,6 +435,8 @@ msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[War Machine](index.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>[Máquina de "
+"Guerra](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md

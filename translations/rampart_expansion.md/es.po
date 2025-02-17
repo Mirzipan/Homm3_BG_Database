@@ -273,4 +273,4 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/content/rampart_expansion.md
 msgid "[War Machines](../war_machines/index.md)"
-msgstr ""
+msgstr "[Máquina de Guerras](../war_machines/index.md)"

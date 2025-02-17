@@ -652,6 +652,11 @@ msgid ""
 "| Ⅳ | :instant: Remove 2 :damage: from one of your [units](../units/index.md). |\n"
 "| Ⅵ | :ongoing: For this Combat, double your [First Aid Tent's](../war_machines/first_aid_tent.md) effect. |\n"
 msgstr ""
+"| Level | Description |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: Take a [First Aid Tent](../war_machines/first_aid_tent.md) card from the [Máquina de Guerra](../war_machines/index.md) deck at no cost.<br><br>— OR —<br><br>:instant: If you already have a [First Aid Tent](../war_machines/first_aid_tent.md), draw 1 card. |\n"
+"| Ⅳ | :instant: Remove 2 :damage: from one of your [units](../units/index.md). |\n"
+"| Ⅵ | :ongoing: For this Combat, double your [First Aid Tent's](../war_machines/first_aid_tent.md) effect. |\n"
 
 #. type: Bullet: '- '
 #: docs/heroes/gem.md

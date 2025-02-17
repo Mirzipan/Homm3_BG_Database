@@ -517,7 +517,7 @@ msgstr "Lugares"
 #: docs/keywords/revisitable_field.md docs/tiles/c3.md docs/tiles/f12.md
 #: docs/tiles/n8.md
 msgid "[War Machine Factory](../fields/war_machine_factory.md)"
-msgstr ""
+msgstr "[Máquina de Guerra Factory](../fields/war_machine_factory.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/c1.md docs/tiles/c3.md
