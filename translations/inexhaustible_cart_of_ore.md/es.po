@@ -601,6 +601,9 @@ msgid ""
 "each Resources round, gain 1 :building_materials:.<br><br>— OR "
 "—<br><br>:instant: Remove this card, then gain 3 :building_materials:.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:permanent: At the beginning of "
+"each Recursos round, gain 1 :building_materials:.<br><br>— OR "
+"—<br><br>:instant: Remove this card, then gain 3 :building_materials:.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/inexhaustible_cart_of_ore.md

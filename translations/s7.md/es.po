@@ -505,7 +505,7 @@ msgstr "[Expansión de Bastión](../content/stronghold_expansion.md)"
 #: docs/tiles/s6.md docs/tiles/s7.md docs/tiles/s8.md docs/tiles/s9.md
 #: docs/tiles/sx1.md docs/tiles/u2.md docs/tiles/w1.md
 msgid "[Resources](../fields/resources.md)"
-msgstr ""
+msgstr "[Recursos](../fields/resources.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md

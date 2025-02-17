@@ -629,4 +629,4 @@ msgstr "#F8"
 #. type: Bullet: '- '
 #: docs/tiles/fx8.md
 msgid "[Ⅱ](../difficulties.md) [Resources](../fields/resources.md)"
-msgstr ""
+msgstr "[Ⅱ](../difficulties.md) [Recursos](../fields/resources.md)"

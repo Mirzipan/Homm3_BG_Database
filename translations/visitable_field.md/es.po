@@ -350,7 +350,7 @@ msgstr "Lista de Lugares visitables"
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md
 msgid "[2 Resources](../fields/2_resources.md)"
-msgstr ""
+msgstr "[2 Recursos](../fields/2_resources.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md
@@ -426,7 +426,7 @@ msgstr ""
 #: docs/tiles/s6.md docs/tiles/s7.md docs/tiles/s8.md docs/tiles/s9.md
 #: docs/tiles/sx1.md docs/tiles/u2.md docs/tiles/w1.md
 msgid "[Resources](../fields/resources.md)"
-msgstr ""
+msgstr "[Recursos](../fields/resources.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/f13.md

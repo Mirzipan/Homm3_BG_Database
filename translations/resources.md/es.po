@@ -458,6 +458,8 @@ msgid ""
 "![Resources Map Location](../assets/locations-resource_symbol.webp){ "
 "width=\"475\" align=right }"
 msgstr ""
+"![Recursos Map Location](../assets/locations-resource_symbol.webp){ "
+"width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/fields/resources.md
@@ -466,3 +468,5 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>Roll a [Resource "
 "Die](../dice.md#resource-die) and gain the indicated Resources.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>Roll a [Resource "
+"Die](../dice.md#resource-die) and gain the indicated Recursos.</p>\n"

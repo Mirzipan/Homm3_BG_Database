@@ -581,7 +581,7 @@ msgstr "Jetam"
 #. type: Bullet: '- '
 #: docs/tiles/w3.md
 msgid "[Ⅳ](../difficulties.md) [2 Resources](../fields/2_resources.md)"
-msgstr ""
+msgstr "[Ⅳ](../difficulties.md) [2 Recursos](../fields/2_resources.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/w3.md

@@ -541,6 +541,9 @@ msgid ""
 "each Resources round, gain 1 :valuables:.<br><br>— OR —<br><br>:instant: "
 "Remove this card, then gain 2 :valuables:.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:permanent: At the beginning of "
+"each Recursos round, gain 1 :valuables:.<br><br>— OR —<br><br>:instant: "
+"Remove this card, then gain 2 :valuables:.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
