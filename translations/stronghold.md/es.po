@@ -546,7 +546,7 @@ msgstr "Héroes"
 #: docs/towns/stronghold.md
 #, no-wrap
 msgid "Stronghold"
-msgstr "Fortaleza"
+msgstr "Bastión"
 
 #. type: Plain text
 #: docs/towns/stronghold.md

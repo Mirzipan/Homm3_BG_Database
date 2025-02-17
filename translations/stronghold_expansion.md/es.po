@@ -284,7 +284,7 @@ msgstr ""
 #: docs/content/stronghold_expansion.md
 #, no-wrap
 msgid "Stronghold Expansion"
-msgstr "Expansión de Fortaleza"
+msgstr "Expansión de Bastión"
 
 #. type: Plain text
 #: docs/content/stronghold_expansion.md

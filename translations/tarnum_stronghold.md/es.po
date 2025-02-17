@@ -619,7 +619,7 @@ msgstr ""
 #: docs/heroes/tarnum_stronghold.md
 #, no-wrap
 msgid "Tarnum (Stronghold)"
-msgstr "Tarnum (Fortaleza)"
+msgstr "Tarnum (Bastión)"
 
 #. type: Plain text
 #: docs/heroes/tarnum_stronghold.md

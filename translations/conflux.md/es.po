@@ -553,7 +553,7 @@ msgstr "Héroes"
 #: docs/towns/conflux.md
 #, no-wrap
 msgid "Conflux"
-msgstr "Unión de los ríos"
+msgstr "Conflujo"
 
 #. type: Plain text
 #: docs/towns/conflux.md
