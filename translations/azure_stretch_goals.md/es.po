@@ -269,7 +269,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/content/azure_stretch_goals.md
 msgid "[Neutral Units Miniatures](../towns/neutral.md)"
-msgstr ""
+msgstr "[Miniaturas de Unidades Neutrales](../towns/neutral.md)"
 
 #. type: Bullet: '- '
 #: docs/content/azure_stretch_goals.md
