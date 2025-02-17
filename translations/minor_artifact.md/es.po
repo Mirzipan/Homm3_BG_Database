@@ -349,7 +349,7 @@ msgstr "Lista de artefactos menores"
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Armor of Wonder](../artifacts/armor_of_wonder.md)"
-msgstr ""
+msgstr "[Armadura de Maravilla](../artifacts/armor_of_wonder.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
