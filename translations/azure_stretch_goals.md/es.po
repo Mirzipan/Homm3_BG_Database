@@ -244,6 +244,18 @@ msgid ""
 "\t![Faction Units Inside](../assets/content-stretch_goals_faction_units-inside.webp){ width=540 align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"\t![Caja de Accesorios Y Unidades Neutrales](../assets/content-stretch_goals_props_and_neutral_units-box.webp){ width=540 align=right }\n"
+"</figure>\n"
+"<figure markdown=\"span\">\n"
+"\t![Props And Neutral Units Inside](../assets/content-stretch_goals_props_and_neutral_units-inside.webp){ width=540 align=right }\n"
+"</figure>\n"
+"<figure markdown=\"span\">\n"
+"\t![Faction Units Box](../assets/content-stretch_goals_faction_units-box.webp){ width=540 align=right }\n"
+"</figure>\n"
+"<figure markdown=\"span\">\n"
+"\t![Faction Units Inside](../assets/content-stretch_goals_faction_units-inside.webp){ width=540 align=right }\n"
+"</figure>\n"
 
 #. type: Title ##
 #: docs/content/azure_stretch_goals.md docs/content/battlefield_expansion.md
