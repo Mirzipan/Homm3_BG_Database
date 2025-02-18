@@ -1,8 +1,10 @@
 name: Build translations
 
 on:
-  pull_request:
-    branches: [main]
+ # pull_request:
+ workflow_dispatch:
+ #    branches: [main]
+ 
 
 env:
   PO4A_VERSION: "0.73"
