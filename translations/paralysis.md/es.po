@@ -69,27 +69,32 @@ msgstr ""
 #: docs/keywords/permanent_effect.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notas"
 
 #. type: Title #
 #: docs/keywords/paralysis.md
 #, no-wrap
 msgid ":paralysis: Paralysis"
-msgstr ""
+msgstr " :paralysis: parálisis"
 
 #. type: Bullet: '- '
 #: docs/keywords/paralysis.md
 msgid ""
-"A paralyzed unit skips its next activation. Instead of activating, the :"
-"paralysis: token is removed from it."
+"A paralyzed unit skips its next activation. Instead of activating, the "
+":paralysis: token is removed from it."
 msgstr ""
+"Una unidad paralizada omite su próxima activación.En lugar de activar, la: "
+"Parálisis: Token se elimina de él."
 
 #. type: Bullet: '- '
 #: docs/keywords/paralysis.md
 msgid ""
 "The :paralysis: token is removed prematurely if the paralyzed unit receives "
-"damage. An attack that does not apply any damage does not count towards this."
+"damage. An attack that does not apply any damage does not count towards "
+"this."
 msgstr ""
+"La: Parálisis: el token se elimina prematuramente si la unidad paralizada "
+"recibe daño.Un ataque que no aplica ningún daño no cuenta para esto."
 
 #. type: Bullet: '- '
 #: docs/keywords/paralysis.md
@@ -97,3 +102,5 @@ msgid ""
 "If the paralyzed unit received damage from an attack, it will retaliate (if "
 "not done so prior during this Combat round)."
 msgstr ""
+"Si la unidad paralizada recibió daños por un ataque, tomará represalias (si "
+"no se hace antes durante esta ronda de combate)."
