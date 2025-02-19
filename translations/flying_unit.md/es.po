@@ -27,7 +27,8 @@ msgstr ""
 #: docs/abilities/resistance.md docs/abilities/sorcery.md
 #: docs/abilities/water_magic.md docs/artifacts/angel_wings.md
 #: docs/artifacts/arms_of_legion.md docs/artifacts/centaurs_axe.md
-#: docs/artifacts/head_of_legion.md docs/artifacts/inexhaustible_cart_of_ore.md
+#: docs/artifacts/head_of_legion.md
+#: docs/artifacts/inexhaustible_cart_of_ore.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
 #: docs/artifacts/spellbinders_hat.md docs/artifacts/torso_of_legion.md
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -69,12 +70,12 @@ msgstr ""
 #: docs/units/mummies.md docs/units/nomads.md docs/units/peasants.md
 #: docs/units/pegasi.md docs/units/pit_lords.md docs/units/rogues.md
 #: docs/units/skeletons.md docs/units/titans.md docs/units/trolls.md
-#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
-#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zombies.md
-#: docs/war_machines/first_aid_tent.md
+#: docs/units/unicorns.md docs/units/vampires.md
+#: docs/units/water_elementals.md docs/units/wraiths.md docs/units/wyverns.md
+#: docs/units/zombies.md docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notas"
 
 #. type: Link reference
 #: docs/abilities/diplomacy.md
@@ -84,34 +85,44 @@ msgstr ""
 #: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
 #, no-wrap
-msgid "[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text."
+msgid ""
+"[^1]: Exceptions for specific game modes. This explanation is not valid for "
+"all game modes. The specific variant for the game mode is mentioned in the "
+"text."
 msgstr ""
+"[^1]: Excepciones para modos de juego específicos.Esta explicación no es "
+"válida para todos los modos de juego.La variante específica para el modo de "
+"juego se menciona en el texto."
 
 #. type: Title #
 #: docs/keywords/flying_unit.md
 #, no-wrap
 msgid ":unit_flying: Flying Unit"
-msgstr ""
+msgstr " :unit_flying: unidad voladora"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
 msgid ""
 "[^1] Flying units may move up to 3 spaces in Combat on the small "
-"battlefield. On the [large battlefield](../content/battlefield_expansion."
-"md), their movement range is equal to their :initiative: value instead."
+"battlefield. On the [large "
+"battlefield](../content/battlefield_expansion.md), their movement range is "
+"equal to their :initiative: value instead."
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
 msgid ""
-"[^1] Flying units may attack first, and then move. On the [large battlefield]"
-"(../content/battlefield_expansion.md), their movement always comes first."
+"[^1] Flying units may attack first, and then move. On the [large "
+"battlefield](../content/battlefield_expansion.md), their movement always "
+"comes first."
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
 msgid "Flying units may move first and then attack during their activation."
 msgstr ""
+"Las unidades voladoras pueden moverse primero y luego atacar durante su "
+"activación."
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
@@ -119,12 +130,14 @@ msgid ""
 "Flying units may move over obstacles, as long as their movement ends on an "
 "empty space."
 msgstr ""
+"Las unidades voladoras pueden moverse sobre los obstáculos, siempre que su "
+"movimiento termine en un espacio vacío."
 
 #. type: Title #
 #: docs/keywords/flying_unit.md
 #, no-wrap
 msgid "List of Flying Units"
-msgstr ""
+msgstr "Lista de unidades voladoras"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/fortress.md
@@ -205,7 +218,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/inferno.md
 msgid ":golden: [Arch Devils](../units/arch_devils.md)"
-msgstr ""
+msgstr ":golden: [Archidiablos](../units/arch_devils.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/castle.md
