@@ -20,4 +20,4 @@ msgstr ""
 #: docs/keywords/damage.md
 #, no-wrap
 msgid ":damage: Damage"
-msgstr ""
+msgstr " :damage: daño"
