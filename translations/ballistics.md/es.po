@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-19 12:49+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -52,7 +53,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -476,22 +477,20 @@ msgid ""
 "![Ballistics](../assets/abilities-ballistics.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Balística](../assets/abilities-ballistics.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/abilities/ballistics.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Play this card during a "
-"siege.<br>Destroy 1 Wall or Gate.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Play this card during a siege.<br>Destroy 1 Wall or Gate.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Juega esta carta durante un asedio.<br>Destruye 1 Muro o Puerta.</p>\n"
 
 #. type: Plain text
 #: docs/abilities/ballistics.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Play this card during a "
-"siege.<br>Destroy the [Arrow Tower](../units/arrow_tower.md).</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Play this card during a siege.<br>Destroy the [Arrow Tower](../units/arrow_tower.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Juega esta carta durante un asedio.<br>Destruye la  [Torre de Flechas](../units/arrow_tower.md).</p>\n"
 
 #. type: Bullet: '- '
 #: docs/abilities/ballistics.md docs/abilities/scholar.md

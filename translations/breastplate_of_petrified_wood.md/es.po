@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-19 15:05+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -564,18 +565,14 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/speculum.md docs/artifacts/spirit_of_oppression.md
 #: docs/artifacts/torso_of_legion.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Minor "
-"Artifact](../keywords/minor_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Artefacto "
-"Menor](../keywords/minor_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/minor_artifact.md)</p>\n"
 
 #. type: Title #
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #, no-wrap
 msgid "Breastplate of Petrified Wood"
-msgstr "Peto de madera petrificada"
+msgstr "Coraza de Madera Petrificada"
 
 #. type: Plain text
 #: docs/artifacts/breastplate_of_petrified_wood.md
@@ -583,20 +580,17 @@ msgid ""
 "![Breastplate of Petrified Wood](../assets/artifacts_minor-"
 "breastplate_of_petrified_wood.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Coraza de Madera Petrificada](../assets/artifacts_minor-"
+"breastplate_of_petrified_wood.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Draw 1 card.<br><br>— OR"
-" —<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Draw 1 card.<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Roba 1 carta.<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*A gang of Rogues is sifting "
-"through the possessions of some dead warriors. Scaring off the scavengers, "
-"you notice the Rogues had overlooked a strange breastplate.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*A gang of Rogues is sifting through the possessions of some dead warriors. Scaring off the scavengers, you notice the Rogues had overlooked a strange breastplate.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Una banda de pícaros está rebuscando entre las posesiones de unos guerreros muertos. Al ahuyentar a los carroñeros, te das cuenta de que han pasado por alto una extraña coraza.*</p>\n"

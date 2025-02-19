@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 17:38+0000\n"
-"PO-Revision-Date: 2024-10-21 17:38+0000\n"
+"PO-Revision-Date: 2025-02-19 12:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -495,6 +496,7 @@ msgstr "Ver También"
 #: docs/units/steel_golems.md
 msgid "[Regular Stretch Goals 2024](../content/regular_stretch_goals.md)"
 msgstr ""
+"[Objetivos de Ampliación Regular 2024](../content/regular_stretch_goals.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -629,44 +631,38 @@ msgstr "Astro"
 #. type: Plain text
 #: docs/heroes/astra.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>![Astra](../assets/player-deck-"
-"back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>![Astra](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Astra](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/astra.md docs/heroes/casmetra.md docs/heroes/zilare.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[:magic: "
-"Navigator](index.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:magic: Navigator](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:magic: Navegante](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/astra.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
 #: docs/heroes/jeremy.md docs/heroes/miriam.md docs/heroes/zilare.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Cove](../towns/cove.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Ensenada](../towns/cove.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/astra.md docs/heroes/casmetra.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 
 #. type: Plain text
 #: docs/heroes/astra.md docs/heroes/melodia.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Luck](../abilities/luck.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Suerte](../abilities/luck.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/astra.md
 msgid "=== \"Cure Ⅰ\""
-msgstr "=== \"Cure ⅰ\""
+msgstr "=== \"Curación Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/astra.md
@@ -676,11 +672,14 @@ msgid ""
 "        ![Cure Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Curación Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/astra.md
 msgid "=== \"Cure Ⅳ\""
-msgstr "=== \"Cure ⅳ\""
+msgstr "=== \"Curación Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/astra.md
@@ -690,11 +689,14 @@ msgid ""
 "        ![Cure Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Curación Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/astra.md
 msgid "=== \"Cure Ⅵ\""
-msgstr "=== \"Cure ⅵ\""
+msgstr "=== \"Curación Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/astra.md
@@ -704,6 +706,9 @@ msgid ""
 "        ![Cure Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Curación Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/astra.md
@@ -715,3 +720,8 @@ msgid ""
 "| Ⅳ | instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), and remove up to 2 :damage: from the selected [unit](../units/index.md). |\n"
 "| Ⅵ | instant: Discard a card and remove up to 🚧 :damage: from the selected [unit](../units/index.md). |\n"
 msgstr ""
+"| Nivel | Descripción |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | instant: Quita cualquier efecto o :paralysis: de la [unidad](../units/index.md) seleccionada, luego roba 1 carta. |\n"
+"| Ⅳ | instant: Quita cualquier efecto o :paralysis: de la [unidad](../units/index.md) seleccionada, y retira hasta 2 :damage: de la [unidad](../units/index.md) seleccionada. |\n"
+"| Ⅵ | instant: Descarta una carta y retira hasta 🚧 :damage: de la [unidad](../units/index.md) seleccionada. |\n"

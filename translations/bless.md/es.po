@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-19 14:37+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -580,29 +581,21 @@ msgstr "Bendecir"
 #. type: Plain text
 #: docs/spells/bless.md
 msgid "![Bless](../assets/spells-bless.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Bendecir](../assets/spells-bless.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/bless.md docs/spells/cure.md docs/spells/dispel.md
 #: docs/spells/forgetfulness.md docs/spells/remove_obstacle.md
 #: docs/spells/weakness.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Basic Water "
-"Spell](school_of_water_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Basic Water Spell](school_of_water_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Básico de Agua](school_of_water_magic.md)</p>\n"
 
 #. type: Plain text
 #: docs/spells/bless.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: The selected "
-":unit_ground: or :unit_flying: unit:<br><br>:empower: 0 ➣ Ignores the "
-"[Attack die](../dice.md#attack-die) roll.<br>:empower: 1 ➣ Ignores the "
-"[Attack die](../dice.md#attack-die) roll and gains +1 :attack:<br>:empower: "
-"2 ➣ Ignores the [Attack die](../dice.md#attack-die) roll and gains +2 "
-":attack:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: The selected :unit_ground: or :unit_flying: unit:<br><br>:empower: 0 ➣ Ignores the [Attack die](../dice.md#attack-die) roll.<br>:empower: 1 ➣ Ignores the [Attack die](../dice.md#attack-die) roll and gains +1 :attack:<br>:empower: 2 ➣ Ignores the [Attack die](../dice.md#attack-die) roll and gains +2 :attack:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: La :unit: de :unit_ground: o :unit_flying: seleccionada<br><br>:empower: 0 ➣ Ignora la tirada del [dado de Ataque](../dice.md#attack-die).<br>:empower: 1 ➣ Ignora la tirada del [dado de Ataque](../dice.md#attack-die) y gana +1 :attack:<br>:empower: 2 ➣ Ignora la tirada del [dado de Ataque](../dice.md#attack-die) y gana +2 :attack:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/bless.md
@@ -612,11 +605,11 @@ msgid ""
 "of an Attack die roll do not trigger. (e.g. the Zombies :defense: does not "
 "increase, and the Mummies cannot set the Attack die to \"-1\")."
 msgstr ""
-"Si no se rodea ningún ataque de ataque durante el ataque, tampoco muestra "
-"ningún resultado.Esto significa que cualquier unidades que tengan "
-"habilidades basadas en el resultado de una tirada de matriz de ataque no se "
-"activan.(por ejemplo, los zombis :defense: no aumenta, y las momias no "
-"pueden establecer el ataque de ataque a \"-1\")."
+"Si no se tira ningún dado de Ataque durante el ataque, tampoco se muestra "
+"ningún resultado. Esto significa que las unidades que tienen habilidades "
+"basadas en el resultado de una tirada de Ataque no se activan. (ej. la :"
+"defensa: de los Zombis no aumenta, y las Momias no pueden poner el dado de "
+"Ataque a «-1»)."
 
 #. type: Bullet: '- '
 #: docs/spells/bless.md docs/spells/cure.md docs/spells/dispel.md
@@ -627,4 +620,4 @@ msgstr ""
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr "[School of Water Magic] (School_of_water_magic.md)"
+msgstr "[Escuela de Magia de Agua](School_of_water_magic.md)"

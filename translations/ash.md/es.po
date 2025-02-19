@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 19:00+0000\n"
-"PO-Revision-Date: 2024-10-21 19:00+0000\n"
+"PO-Revision-Date: 2025-02-19 12:26+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -495,6 +496,7 @@ msgstr "Ver También"
 #: docs/units/steel_golems.md
 msgid "[Regular Stretch Goals 2024](../content/regular_stretch_goals.md)"
 msgstr ""
+"[Objetivos de Ampliación Regular 2024](../content/regular_stretch_goals.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -624,51 +626,43 @@ msgstr "[Lista de Héroes](index.md)"
 #: docs/heroes/ash.md
 #, no-wrap
 msgid "Ash"
-msgstr "Ceniza"
+msgstr "Ash"
 
 #. type: Plain text
 #: docs/heroes/ash.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>![Ash](../assets/player-deck-"
-"back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>![Ash](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Ash](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ash.md docs/heroes/xyron.md docs/heroes/zydar.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[:magic: Heretic](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[:magic: Hereje](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ash.md docs/heroes/fiona.md docs/heroes/octavia.md
 #: docs/heroes/rashka.md docs/heroes/xyron.md docs/heroes/zydar.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Inferno](../towns/inferno.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Inferno](../towns/inferno.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Infierno](../towns/inferno.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ash.md docs/heroes/xyron.md docs/heroes/zydar.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ash.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Eagle "
-"Eye](../abilities/eagle_eye.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Eagle Eye](../abilities/eagle_eye.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Ojo de Águila](../abilities/eagle_eye.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ash.md
 msgid "=== \"Bloodlust Ⅰ\""
-msgstr "=== \"Bloodlust ⅰ\""
+msgstr "=== \"Sed de Sangre Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/ash.md
@@ -678,11 +672,14 @@ msgid ""
 "        ![Bloodlust Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Sed de Sangre Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/ash.md
 msgid "=== \"Bloodlust Ⅳ\""
-msgstr "=== \"Bloodlust ⅳ\""
+msgstr "=== \"Sed de Sangre Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/ash.md
@@ -692,11 +689,14 @@ msgid ""
 "        ![Bloodlust Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Sed de Sangre Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/ash.md
 msgid "=== \"Bloodlust Ⅵ\""
-msgstr "=== \"Bloodlust ⅵ\""
+msgstr "=== \"Sed de Sangre Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/ash.md
@@ -706,6 +706,9 @@ msgid ""
 "        ![Bloodlust Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Sed de Sangre Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/ash.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
@@ -723,8 +726,8 @@ msgid ""
 "| Ⅳ | 🚧 |\n"
 "| Ⅵ | 🚧 |\n"
 msgstr ""
-"|Nivel |Descripción |\n"
+"| Nivel | Descripción |\n"
 "| :---: | :---: |\n"
-"|Ⅰ |🚧 |\n"
-"|Ⅳ |🚧 |\n"
-"|Ⅵ |🚧 |\n"
+"| Ⅰ | 🚧 |\n"
+"| Ⅳ | 🚧 |\n"
+"| Ⅵ | 🚧 |\n"

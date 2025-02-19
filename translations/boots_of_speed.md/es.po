@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-19 15:00+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -500,41 +501,32 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/speculum.md docs/artifacts/spirit_of_oppression.md
 #: docs/artifacts/torso_of_legion.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Minor "
-"Artifact](../keywords/minor_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Artefacto "
-"Menor](../keywords/minor_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/minor_artifact.md)</p>\n"
 
 #. type: Title #
 #: docs/artifacts/boots_of_speed.md
 #, no-wrap
 msgid "Boots of Speed"
-msgstr "Botas de velocidad"
+msgstr "Botas de Velocidad"
 
 #. type: Plain text
 #: docs/artifacts/boots_of_speed.md
 msgid ""
-"![Boots of Speed](../assets/artifacts_minor-boots_of_speed.webp){ "
-"width=\"340\" align=right }"
+"![Boots of Speed](../assets/artifacts_minor-boots_of_speed.webp)"
+"{ width=\"340\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/artifacts/boots_of_speed.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Your "
-"[hero](../heroes/index.md) gains +1 :movement:.<br><br>— OR "
-"—<br><br>:ongoing: For this Combat, your selected [unit](../units/index.md) "
-"gains +1 :initiative:.</p>\n"
-msgstr ""
+"![Botas de Velocidad](../assets/artifacts_minor-boots_of_speed.webp)"
+"{ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/boots_of_speed.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*Visiting a local wise man, you "
-"explain the intent of your journey. He reaches into a chest and withdraws a "
-"strange pair of boots which he hands to you.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Your [hero](../heroes/index.md) gains +1 :movement:.<br><br>— OR —<br><br>:ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :initiative:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Tu [héroe](../heroes/index.md) gana +1 :movement:.<br><br>— O —<br><br>:ongoing: Durante este Combate, tu [unidad](../units/index.md) seleccionada gana +1 :initiative:.</p>\n"
+
+#. type: Plain text
+#: docs/artifacts/boots_of_speed.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*Visiting a local wise man, you explain the intent of your journey. He reaches into a chest and withdraws a strange pair of boots which he hands to you.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Visitas a un sabio local y le explicas el motivo de tu viaje. Éste rebusca en un cofre y saca un extraño par de botas que te entrega.*</p>\n"

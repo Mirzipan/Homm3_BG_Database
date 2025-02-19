@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-19 11:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -484,7 +485,7 @@ msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -530,7 +531,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/annoying_lizard.md docs/events/a_shady_auction.md
@@ -556,7 +557,7 @@ msgstr "[Lista de Artefactos](../artifacts/index.md)"
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Event](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Evento](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -571,48 +572,31 @@ msgstr ""
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 msgid "[List of Events](index.md)"
-msgstr "[Lista de eventos] (index.md)"
+msgstr "[Lista de Eventos](index.md)"
 
 #. type: Title #
 #: docs/events/artifact_merchant.md
 #, no-wrap
 msgid "Artifact Merchant"
-msgstr "Comerciante de artefactos"
+msgstr "Comerciante de Artefactos"
 
 #. type: Plain text
 #: docs/events/artifact_merchant.md
 msgid ""
-"![Artifact Merchant](../assets/events-artifact_merchant.webp){ width=\"475\""
-" align=right }"
+"![Artifact Merchant](../assets/events-artifact_merchant.webp)"
+"{ width=\"475\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/events/artifact_merchant.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>Draw 5 "
-"[artifacts](../artifacts/index.md). You can buy either any number of them or"
-" the face-up card from the [Artifact](../artifacts/index.md) discard pile. "
-"After finishing, give the rest of the cards to the player on the left. The "
-"exchange goes on until the last card is bought or the cards return to the "
-"one who drew them. [Minor Artifacts](../keywords/minor_artifact.md) cards "
-"cost 3 :gold:, [Major](../keywords/major_artifact.md) 5 :gold:, "
-"[Relic](../keywords/relic_artifact.md) 7 :gold:.</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>Draw 5 "
-"[artifacts](../artifacts/index.md). You can buy either any number of them or"
-" the face-up card from the [Artifact](../artifacts/index.md) discard pile. "
-"After finishing, give the rest of the cards to the player on the left. The "
-"exchange goes on until the last card is bought or the cards return to the "
-"one who drew them. [Artefacto Menors](../keywords/minor_artifact.md) cards "
-"cost 3 :gold:, [Major](../keywords/major_artifact.md) 5 :gold:, "
-"[Relic](../keywords/relic_artifact.md) 7 :gold:.</p>\n"
+"![Mercader de Artefactos](../assets/events-artifact_merchant.webp)"
+"{ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/events/artifact_merchant.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*On your journey, you wander into "
-"a blacksmith's workshop. They welcome you with a cheerful laugh and present "
-"their wares.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>Draw 5 [artifacts](../artifacts/index.md). You can buy either any number of them or the face-up card from the [Artifact](../artifacts/index.md) discard pile. After finishing, give the rest of the cards to the player on the left. The exchange goes on until the last card is bought or the cards return to the one who drew them. [Minor Artifacts](../keywords/minor_artifact.md) cards cost 3 :gold:, [Major](../keywords/major_artifact.md) 5 :gold:, [Relic](../keywords/relic_artifact.md) 7 :gold:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Roba 5 [artifactoss](../artifacts/index.md). Puedes comprar cualesquiera de ellos o el que esté descubierto en la pila de descarte de [Artefacto](../artifacts/index.md). Al terminar, entrega el resto de cartas al jugador de la izquierda. El intercambio continuará hasta que la última carta sea comprada o hasta que las cartas lleguen al jugador que las robó. cartas de [Artefacto Menor](../keywords/minor_artifact.md) cuestan 3 :gold:, [Mayor](../keywords/major_artifact.md) 5 :gold:, [Reliquia](../keywords/relic_artifact.md) 7 :gold:.</p>\n"
+
+#. type: Plain text
+#: docs/events/artifact_merchant.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*On your journey, you wander into a blacksmith's workshop. They welcome you with a cheerful laugh and present their wares.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*En tu viaje, deambulas por el taller de un herrero. Te dan la bienvenida con una alegre sonrisa y presentan sus productos.*</p>\n"

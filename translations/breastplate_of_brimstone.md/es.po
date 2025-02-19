@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-19 15:03+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -442,10 +443,8 @@ msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Major "
-"Artifact](../keywords/major_artifact.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../keywords/major_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Mayor](../keywords/major_artifact.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
@@ -505,7 +504,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/breastplate_of_brimstone.md
 #, no-wrap
 msgid "Breastplate of Brimstone"
-msgstr "Peto de Brimstone"
+msgstr "Coraza de Azufre"
 
 #. type: Plain text
 #: docs/artifacts/breastplate_of_brimstone.md
@@ -513,23 +512,17 @@ msgid ""
 "![Breastplate of Brimstone](../assets/artifacts_major-"
 "breastplate_of_brimstone.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Coraza de Azufre](../assets/artifacts_major-breastplate_of_brimstone.webp)"
+"{ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/breastplate_of_brimstone.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: **Search(../2)** "
-"[:spellpower:](../spells/index.md).<br><br>— OR —<br><br>:instant: +1 "
-":empower:, then discard up to 3 cards from your hand to gain +1 :empower: "
-"per card discarded.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: **Search(../2)** [:spellpower:](../spells/index.md).<br><br>— OR —<br><br>:instant: +1 :empower:, then discard up to 3 cards from your hand to gain +1 :empower: per card discarded.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: **Busca(../2)** [:spellpower:](../spells/index.md).<br><br>— O —<br><br>:instant: +1 :empower:, luego descarta hasta 3 cartas de tu mano para ganar +1 :empower: por cada carta descartada.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/breastplate_of_brimstone.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*You meet a blacksmith who is "
-"melting down old pieces of armor. When he learns of your quest, he gives you"
-" a breastplate that he claims refused to melt, and is therefore of no value "
-"to him.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*You meet a blacksmith who is melting down old pieces of armor. When he learns of your quest, he gives you a breastplate that he claims refused to melt, and is therefore of no value to him.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Te encuentras con un herrero que está fundiendo viejas piezas de armadura. Cuando se entera de tu misión, te da una coraza que, según él, se negó a fundir y, por lo tanto, no tiene ningún valor para él.*</p>\n"

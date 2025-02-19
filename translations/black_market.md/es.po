@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 16:09+0000\n"
-"PO-Revision-Date: 2024-10-21 16:09+0000\n"
+"PO-Revision-Date: 2025-02-19 14:16+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -320,7 +321,7 @@ msgstr "Ver También"
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -383,7 +384,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -431,39 +432,27 @@ msgstr "[Lista de Losetas](../tiles/index.md)"
 #: docs/fields/black_market.md
 #, no-wrap
 msgid "Black Market"
-msgstr "Mercado negro"
+msgstr "Mercado Negro"
 
 #. type: Plain text
 #: docs/fields/black_market.md
 msgid ""
-"![Black Market Map Location](../assets/locations-black_market.webp){ "
-"width=\"475\" align=right }"
+"![Black Market Map Location](../assets/locations-black_market.webp)"
+"{ width=\"475\" align=right }"
 msgstr ""
+"![Ubicación en el Mapa de Mercado Negro](../assets/locations-black_market."
+"webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/fields/black_market.md docs/fields/sanctuary.md docs/fields/stables.md
 #: docs/fields/tavern.md docs/fields/trading_post.md
 #: docs/fields/war_machine_factory.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Revisitable "
-"Field](../keywords/revisitable_field.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Revisitable Field](../keywords/revisitable_field.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Lugar Revisitable](../keywords/revisitable_field.md)</p>\n"
 
 #. type: Plain text
 #: docs/fields/black_market.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>Look at the top 4 cards from the "
-"[Artifact](../artifacts/index.md) Discard Pile. You may buy one of them "
-"for:<br><br>5 :gold: if it is a [Minor "
-"Artifact](../keywords/minor_artifact.md)<br>7 :gold: if it is a [Major "
-"Artifact](../keywords/major_artifact.md)<br>10 :gold: if it is a [Relic "
-"Artifact](../keywords/relic_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>Look at the top 4 cards from the "
-"[Artifact](../artifacts/index.md) Discard Pile. You may buy one of them "
-"for:<br><br>5 :gold: if it is a [Minor "
-"Artifact](../keywords/minor_artifact.md)<br>7 :gold: if it is a [Major "
-"Artifact](../keywords/major_artifact.md)<br>10 :gold: if it is a [Artefacto "
-"Reliquia](../keywords/relic_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Look at the top 4 cards from the [Artifact](../artifacts/index.md) Discard Pile. You may buy one of them for:<br><br>5 :gold: if it is a [Minor Artifact](../keywords/minor_artifact.md)<br>7 :gold: if it is a [Major Artifact](../keywords/major_artifact.md)<br>10 :gold: if it is a [Relic Artifact](../keywords/relic_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Mira las 4 primeras cartas de la Pila de Descarte de [Artefactos](../artifacts/index.md). Puedes comprar una de ellas por:<br><br>5 :gold: si es un [Artefacto Menor](../keywords/minor_artifact.md)<br>7 :gold: si es un [Artefacto Mayor](../keywords/major_artifact.md)<br>10 :gold: si es una [Reliquia](../keywords/relic_artifact.md)</p>\n"

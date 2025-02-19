@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-19 14:13+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -763,13 +764,13 @@ msgstr "Héroes Con Una Especialidad"
 #: docs/units/ghost_dragons.md docs/units/gold_dragons.md
 #: docs/units/rust_dragons.md
 msgid "[:might: Mutare](../heroes/mutare.md#specialty)"
-msgstr ""
+msgstr "[:might: Mutare](../heroes/mutare.md#specialty)"
 
 #. type: Title #
 #: docs/units/black_dragons.md
 #, no-wrap
 msgid "Black Dragons"
-msgstr "Dragones negros"
+msgstr "Dragones Negros"
 
 #. type: Plain text
 #: docs/units/black_dragons.md
@@ -780,7 +781,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Black Dragons](../assets/units-dungeon-golden-black_dragons-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Dragones Negros](../assets/units-dungeon-golden-black_dragons-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -792,7 +793,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Black Dragons](../assets/units-dungeon-golden-black_dragons-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Dragones Negros](../assets/units-dungeon-golden-black_dragons-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -803,6 +804,9 @@ msgid ""
 "        ![Neutral Black Dragons](../assets/units-neutral-golden-black_dragons.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Dragones Negros Neutrales](../assets/units-neutral-golden-black_dragons.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/black_dragons.md
@@ -820,17 +824,17 @@ msgid ""
 "| Cost | 19 :gold:<br>1 :valuables: | 33 :gold:<br>2 :valuables: | 30 :gold: |\n"
 "| Abilities | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](../spells/index.md) by 2 to a minimum of 0. | :unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. |\n"
 msgstr ""
-"| Statistics | Few | Pack | Neutral |\n"
+"| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Mazmorra](../towns/dungeon.md) | [Mazmorra](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :golden: | :golden: | :golden: |\n"
-"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| Ciudad | [Mazmorra](../towns/dungeon.md) | [Mazmorra](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :golden: | :golden: | :golden: |\n"
+"| Tipo | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
 "| :attack: | 6 | **8** | 5 |\n"
 "| :defense: | 3 | 3 | 2 |\n"
 "| :health_points: | 8 | 8 | 7 |\n"
 "| :initiative: | 11 | **15** | 9 |\n"
-"| Cost | 19 :gold:<br>1 :valuables: | 33 :gold:<br>2 :valuables: | 30 :gold: |\n"
-"| Abilities | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](../spells/index.md) by 2 to a minimum of 0. | :unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. |\n"
+"| Coste | 19 :gold:<br>1 :valuables: | 33 :gold:<br>2 :valuables: | 30 :gold: |\n"
+"| Habilidades | :unit_passive: Reduce el :damage: recibido de esta unidad por [:spellpower:](../spells/index.md) en 2 hasta un mínimo de 0. | :unit_passive: Ignora cualquier efecto de [:spellpower:](../spells/index.md) y :damage: de [Especialidad](../heroes/index.md). | :unit_attack: Ataca 2 casillas en una línea. El primer ataque se resuelve normalmente, y el segundo tiene 2 :attack:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/black_dragons.md
@@ -838,24 +842,26 @@ msgid ""
 "**Pack** - The effects of the player's own spells and specialties are also "
 "ignored."
 msgstr ""
-"**Manada** - The effects of the player's own spells and specialties are also"
-" ignored."
+"**Manada** - Los efectos de los hechizos y especialidades propios del "
+"jugador son ignorados."
 
 #. type: Bullet: '- '
 #: docs/units/black_dragons.md
 msgid "**Pack** - Specialties are the hero-specific cards (Ⅰ, Ⅳ, and Ⅵ)."
-msgstr "**Manada** - Specialties are the hero-specific cards (Ⅰ, Ⅳ, and Ⅵ)."
+msgstr ""
+"**Manada** - Las Especialidades son cartas (Ⅰ, Ⅳ, y Ⅵ) específicas del "
+"héroe."
 
 #. type: Bullet: '- '
 #: docs/units/black_dragons.md
 msgid ""
-"**Neutral** - The first attack targets a unit directly in front of the Black"
-" Dragons. The second attack targets the unit directly behind the primary "
-"target in a straight line. There is no choice here."
+"**Neutral** - The first attack targets a unit directly in front of the "
+"Black Dragons. The second attack targets the unit directly behind the "
+"primary target in a straight line. There is no choice here."
 msgstr ""
 "** Neutral ** - El primer ataque se dirige a una unidad directamente frente "
-"a los dragones negros.El segundo ataque se dirige a la unidad directamente "
-"detrás del objetivo primario en línea recta.No hay otra opción aquí."
+"a los Dragones Negros. El segundo ataque se dirige a la unidad directamente "
+"detrás del objetivo primario en línea recta. No hay otra opción aquí."
 
 #. type: Bullet: '- '
 #: docs/units/black_dragons.md
@@ -873,10 +879,10 @@ msgid ""
 "the attacks are resolved first. The retaliation attack will only be carried "
 "out after the secondary attack of Black Dragons has been resolved."
 msgstr ""
-"** Neutral ** - Si los Dragones Negros atacan dos unidades en una línea, "
-"ambos ataques se resuelven primero.El ataque de represalia solo se llevará a"
-" cabo después de que se haya resuelto el ataque secundario de los dragones "
-"negros."
+"** Neutral ** - Si los Dragones Negros atacan a dos unidades en una línea, "
+"ambos ataques se resuelven primero. El ataque de represalia solo se llevará "
+"a cabo después de que se haya resuelto el ataque secundario de los Dragones "
+"Negros."
 
 #. type: Bullet: '- '
 #: docs/units/black_dragons.md
@@ -887,8 +893,7 @@ msgid ""
 msgstr ""
 "** Neutral ** - Si los Dragones Negros atacan una unidad, y la unidad "
 "directamente detrás del objetivo principal en línea recta es una unidad "
-"amigable, entonces la unidad amigable será el objetivo de su ataque "
-"secundario."
+"aliada, entonces la unidad aliada será el objetivo de su ataque secundario."
 
 #. type: Bullet: '- '
 #: docs/units/black_dragons.md
@@ -897,7 +902,7 @@ msgid ""
 "will take place. Units behind the Wall are protected. Should they attack a "
 "unit directly in front of a Wall, the Wall will not take any damage."
 msgstr ""
-"** Neutral ** - Si los dragones negros atacan un muro, no se producirá un "
-"ataque secundario.Las unidades detrás de la pared están protegidas.Si atacan"
-" una unidad directamente frente a una pared, la pared no recibirá ningún "
-"daño."
+"** Neutral ** - Si los Dragones Negros atacan un Muro, no se producirá un "
+"ataque secundario. Las unidades detrás de la pared están protegidas. Si "
+"atacan una unidad directamente frente a una pared, la pared no recibirá "
+"ningún daño."

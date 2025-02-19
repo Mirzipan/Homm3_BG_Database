@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 10:02+0200\n"
-"PO-Revision-Date: 2024-10-18 10:02+0200\n"
+"PO-Revision-Date: 2025-02-19 14:01+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -482,7 +483,7 @@ msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -526,7 +527,7 @@ msgstr ""
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/groovy_satyr.md
@@ -559,12 +560,8 @@ msgstr ""
 #: docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Astrologers "
-"Proclaim](index.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Proclama de los "
-"Astrólogos](index.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Proclama de los Astrólogos](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/groovy_satyr.md
@@ -608,29 +605,20 @@ msgstr "Gran Limpieza"
 #. type: Plain text
 #: docs/astrologers_proclaim/big_cleanup.md
 msgid ""
-"![Big Cleanup](../assets/astrologers_proclaim-big_cleanup.webp){ "
-"width=\"475\" align=right }"
+"![Big Cleanup](../assets/astrologers_proclaim-big_cleanup.webp)"
+"{ width=\"475\" align=right }"
 msgstr ""
-"![Gran Limpieza](../assets/astrologers_proclaim-big_cleanup.webp){ "
-"width=\"475\" align=right }"
+"![Gran Limpieza](../assets/astrologers_proclaim-big_cleanup.webp)"
+"{ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/big_cleanup.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>Each player must immediately "
-"discard all cards from their hand and draw the same number of cards.</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>Cada jugador debe inmediatamente "
-"descartar todas las cartas de su mano y robar el mismo número de "
-"cartas.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Each player must immediately discard all cards from their hand and draw the same number of cards.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Cada jugador debe inmediatamente descartar todas las cartas de su mano y robar el mismo número de cartas.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/big_cleanup.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*- It's time for spring "
-"cleaning!<br>- It's winter. We're in Eeofol... Duh...*</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>*- ¡Es hora de la limpieza de "
-"primavera!<br>- Es invierno. Estamos en Eeofol... Claro...*</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>*- It's time for spring cleaning!<br>- It's winter. We're in Eeofol... Duh...*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*- ¡Es hora de la limpieza de primavera!<br>- Es invierno. Estamos en Eeofol... Claro...*</p>\n"

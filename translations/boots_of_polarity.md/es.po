@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-19 14:58+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -502,43 +503,32 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/spellbinders_hat.md docs/artifacts/sword_of_judgement.md
 #: docs/artifacts/titans_cuirass.md docs/artifacts/titans_gladius.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Relic "
-"Artifact](../keywords/relic_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Artefacto "
-"Reliquia](../keywords/relic_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Reliquia](../keywords/relic_artifact.md)</p>\n"
 
 #. type: Title #
 #: docs/artifacts/boots_of_polarity.md
 #, no-wrap
 msgid "Boots of Polarity"
-msgstr "Botas de polaridad"
+msgstr "Botas de Polaridad"
 
 #. type: Plain text
 #: docs/artifacts/boots_of_polarity.md
 msgid ""
-"![Boots of Polarity](../assets/artifacts_relic-boots_of_polarity.webp){ "
-"width=\"340\" align=right }"
+"![Boots of Polarity](../assets/artifacts_relic-boots_of_polarity.webp)"
+"{ width=\"340\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/artifacts/boots_of_polarity.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Play this card after an "
-"enemy casts a [spell](../spells/index.md). Roll 2 [Attack "
-"dice](../dice.md#attack-die) and choose one. On a \"+1 \", ignore the "
-"[:spellpower:](../spells/index.md) effect.<br><br>— OR —<br><br>:activation:"
-" Remove 1 :ongoing: effect.</p>\n"
-msgstr ""
+"![Botas de Polaridad](../assets/artifacts_relic-boots_of_polarity.webp)"
+"{ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/boots_of_polarity.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*A Nomad trader seeks protection "
-"from a tribe of Goblins. For your assistance, he gives you a finely crafted "
-"pair of boots. Looking closely, you see ancient carvings engraved on the "
-"leather.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Play this card after an enemy casts a [spell](../spells/index.md). Roll 2 [Attack dice](../dice.md#attack-die) and choose one. On a \"+1 \", ignore the [:spellpower:](../spells/index.md) effect.<br><br>— OR —<br><br>:activation: Remove 1 :ongoing: effect.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Juega esta carta después de que un enemigo lance un [hechizo](../spells/index.md). Tira 2 [dados de Ataque](../dice.md#attack-die) y elige uno. Si es un \"+1 \", ignora el efecto del [:spellpower:](../spells/index.md).<br><br>— O —<br><br>:activation: Retira 1 efecto :ongoing:.</p>\n"
+
+#. type: Plain text
+#: docs/artifacts/boots_of_polarity.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*A Nomad trader seeks protection from a tribe of Goblins. For your assistance, he gives you a finely crafted pair of boots. Looking closely, you see ancient carvings engraved on the leather.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Un comerciante Nómada busca protección de una tribu de Goblins. A cambio de tu ayuda, te entrega un par de botas finamente trabajadas. Mirándolas de cerca, ves antiguas tallas grabadas en el cuero.*</p>\n"

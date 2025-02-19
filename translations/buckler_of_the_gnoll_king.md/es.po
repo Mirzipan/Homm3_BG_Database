@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-19 15:15+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -507,18 +508,14 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/speculum.md docs/artifacts/spirit_of_oppression.md
 #: docs/artifacts/torso_of_legion.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Minor "
-"Artifact](../keywords/minor_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Artefacto "
-"Menor](../keywords/minor_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/minor_artifact.md)</p>\n"
 
 #. type: Title #
 #: docs/artifacts/buckler_of_the_gnoll_king.md
 #, no-wrap
 msgid "Buckler of the Gnoll King"
-msgstr "Buckler del rey Gnoll"
+msgstr "Broquel del Rey Gnoll"
 
 #. type: Plain text
 #: docs/artifacts/buckler_of_the_gnoll_king.md
@@ -526,22 +523,17 @@ msgid ""
 "![Buckler of the Gnoll King](../assets/artifacts_minor-"
 "buckler_of_the_gnoll_king.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Broquel del Rey Gnoll](../assets/artifacts_minor-"
+"buckler_of_the_gnoll_king.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/buckler_of_the_gnoll_king.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: +2 "
-":defense:<br>:ongoing: Until the end of the Combat, this "
-"[unit](../units/index.md) suffers -1 :attack: (to a minimum of 0).<br><br>— "
-"OR —<br><br>:instant: +1 :defense:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :defense:<br>:ongoing: Until the end of the Combat, this [unit](../units/index.md) suffers -1 :attack: (to a minimum of 0).<br><br>— OR —<br><br>:instant: +1 :defense:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: +2 :defense:<br>:ongoing: Hasta el final del Combate, esta [unidad](../units/index.md) sufre -1 :attack: (hasta un mínimo de 0).<br><br>— O —<br><br>:instant: +1 :defense:</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/buckler_of_the_gnoll_king.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*A stone statue of a warrior holds"
-" a silver shield. As you remove the shield, the statue crumbles into "
-"dust.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*A stone statue of a warrior holds a silver shield. As you remove the shield, the statue crumbles into dust.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Una estatua de piedra de un guerrero sostiene un escudo de plata. Cuando quitas el escudo, la estatua se hace polvo.*</p>\n"
