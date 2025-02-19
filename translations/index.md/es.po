@@ -577,7 +577,7 @@ msgstr "[Lista de Unidades](../units/index.md)"
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/forty_thieves.md
 #: docs/astrologers_proclaim/index.md
-msgid "[Lista de Eventos](../events/index.md)"
+msgid "[List of Events](../events/index.md)"
 msgstr "[Lista de Eventos](../events/index.md)"
 
 #. type: Title #
