@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 17:38+0000\n"
-"PO-Revision-Date: 2024-10-21 17:38+0000\n"
+"PO-Revision-Date: 2025-02-19 03:30+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -271,7 +272,7 @@ msgstr "Lista de Habilidades"
 
 #. type: Plain text
 #: docs/abilities/index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "| Name | Effect | :expert: Effect | [Content](../content/index.md) |\n"
 "| :--- | :---: | :---: | :--- |\n"
@@ -577,7 +578,7 @@ msgstr "[Lista de Unidades](../units/index.md)"
 #: docs/astrologers_proclaim/forty_thieves.md
 #: docs/astrologers_proclaim/index.md
 msgid "[Lista de Eventos](../events/index.md)"
-msgstr ""
+msgstr "[Lista de Eventos](../events/index.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/index.md
@@ -1088,15 +1089,15 @@ msgstr ""
 #: docs/index.md
 msgid ""
 "Every now and then I want to see what some cards do, either while "
-"theorycrafting about what to play, or even during play, when I want to check"
-" or reference something. This database is meant to provide an easy way to "
-"find any card contained within the game, including a visual reference and "
-"extra information where necessary or applicable."
+"theorycrafting about what to play, or even during play, when I want to "
+"check or reference something. This database is meant to provide an easy way "
+"to find any card contained within the game, including a visual reference "
+"and extra information where necessary or applicable."
 msgstr ""
 "De vez en cuando, quiero ver qué hacen algunas cartas, ya sea mientras te "
 "teoría de qué jugar, o incluso durante el juego, cuándo quiero verificar o "
-"hacer referencia a algo.Esta base de datos está destinada a proporcionar una"
-" manera fácil de encontrar cualquier tarjeta contenida dentro del juego, "
+"hacer referencia a algo.Esta base de datos está destinada a proporcionar "
+"una manera fácil de encontrar cualquier tarjeta contenida dentro del juego, "
 "incluida una referencia visual e información adicional cuando sea necesario "
 "o aplicable."
 
@@ -1115,8 +1116,8 @@ msgstr ""
 #. type: Bullet: '* '
 #: docs/index.md
 msgid ""
-"Fixing incorrect information (all of the cards were put in by hand, there is"
-" a chance that some may contains typos or other inaccuracies)"
+"Fixing incorrect information (all of the cards were put in by hand, there "
+"is a chance that some may contains typos or other inaccuracies)"
 msgstr ""
 "Arreglando información incorrecta (todas las cartas se pusieron a mano, "
 "existe la posibilidad de que algunas puedan contener errores tipográficos u "
@@ -1185,11 +1186,11 @@ msgstr "**Referencias Visuales:** Flatpanda"
 #. type: Bullet: '- '
 #: docs/index.md
 msgid ""
-"**Notes:** Schlupf [Referenz-"
-"Regelbuch](https://discord.com/channels/740870068178649108/1269274294408450078/1269274294408450078)"
+"**Notes:** Schlupf [Referenz-Regelbuch](https://discord.com/"
+"channels/740870068178649108/1269274294408450078/1269274294408450078)"
 msgstr ""
-"**Notas:** Schlupf [Referenz-"
-"Regelbuch](https://discord.com/channels/740870068178649108/1269274294408450078/1269274294408450078)"
+"**Notas:** Schlupf [Referenz-Regelbuch](https://discord.com/"
+"channels/740870068178649108/1269274294408450078/1269274294408450078)"
 
 #. type: Plain text
 #: docs/index.md
@@ -1401,8 +1402,8 @@ msgstr "Alianza"
 #. type: Plain text
 #: docs/scenarios/index.md
 msgid ""
-"A 2 versus 2 team-based mode. You will need an expansion pack with a town to"
-" play a 4-player game."
+"A 2 versus 2 team-based mode. You will need an expansion pack with a town "
+"to play a 4-player game."
 msgstr ""
 "Modo basado en equipos de 2 contra 2. Necesitarás un paquete de expansión "
 "con una ciudad para jugar un juego de 4 jugadores."
@@ -1630,11 +1631,11 @@ msgstr "Lista de Estadísticas"
 #. type: Plain text
 #: docs/statistics/index.md
 msgid ""
-"To learn about statistics of a specific hero, see "
-"[heroes](../heroes/index.md)."
+"To learn about statistics of a specific hero, see [heroes](../heroes/index."
+"md)."
 msgstr ""
-"Para aprender sobre estadísticas de un héroe específico, ver "
-"[héroes](../heroes/index.md)."
+"Para aprender sobre estadísticas de un héroe específico, ver [héroes](../"
+"heroes/index.md)."
 
 #. type: Plain text
 #: docs/statistics/index.md
@@ -2321,7 +2322,7 @@ msgstr ""
 #. type: Plain text
 #: docs/units/index.md
 msgid "You can find war machines [here](../war_machines/index.md)."
-msgstr ""
+msgstr "Puede encontrar máquinas de guerra [aquí](../war_machines/index.md)."
 
 #. type: Title #
 #: docs/war_machines/index.md
