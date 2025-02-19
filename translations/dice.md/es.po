@@ -20,13 +20,13 @@ msgstr ""
 #: docs/dice.md docs/legend.md
 #, no-wrap
 msgid "Dice"
-msgstr ""
+msgstr "Dados"
 
 #. type: Title ##
 #: docs/dice.md
 #, no-wrap
 msgid "Attack Die"
-msgstr ""
+msgstr "Dado de Ataque"
 
 #. type: Plain text
 #: docs/dice.md
@@ -41,12 +41,20 @@ msgid ""
 "| +1 |\n"
 "| +1 |\n"
 msgstr ""
+"| Lados |\n"
+"| :---: |\n"
+"| -1 |\n"
+"| -1 |\n"
+"| 0 |\n"
+"| 0 |\n"
+"| +1 |\n"
+"| +1 |\n"
 
 #. type: Title ##
 #: docs/dice.md
 #, no-wrap
 msgid "Resource Die"
-msgstr ""
+msgstr "Dado de Recursos"
 
 #. type: Plain text
 #: docs/dice.md
@@ -61,12 +69,20 @@ msgid ""
 "| 1 :valuables: |\n"
 "| 2 :valuables: |\n"
 msgstr ""
+"| Lados |\n"
+"| :---: |\n"
+"| 3 :gold: |\n"
+"| 6 :gold: |\n"
+"| 2 :building_materials: |\n"
+"| 4 :building_materials: |\n"
+"| 1 :valuables: |\n"
+"| 2 :valuables: |\n"
 
 #. type: Title ##
 #: docs/dice.md
 #, no-wrap
 msgid "Treasure Die"
-msgstr ""
+msgstr "Dado de Tesoro"
 
 #. type: Plain text
 #: docs/dice.md
@@ -79,5 +95,13 @@ msgid ""
 "| [:artifact:](artifacts/index.md) |\n"
 "| [:artifact:](artifacts/index.md) |\n"
 "| :resource_die: |\n"
-"| 2:resource_die: |\n"
+"| 2 :resource_die: |\n"
 msgstr ""
+"| Lados |\n"
+"| :---: |\n"
+"| :experience: |\n"
+"| :experience: |\n"
+"| [:artifact:](artifacts/index.md) |\n"
+"| [:artifact:](artifacts/index.md) |\n"
+"| :resource_die: |\n"
+"| 2 :resource_die: |\n"
