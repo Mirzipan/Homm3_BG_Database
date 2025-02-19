@@ -33,7 +33,7 @@ msgstr ""
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Ability](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -65,7 +65,8 @@ msgstr ""
 #: docs/abilities/resistance.md docs/abilities/sorcery.md
 #: docs/abilities/water_magic.md docs/artifacts/angel_wings.md
 #: docs/artifacts/arms_of_legion.md docs/artifacts/centaurs_axe.md
-#: docs/artifacts/head_of_legion.md docs/artifacts/inexhaustible_cart_of_ore.md
+#: docs/artifacts/head_of_legion.md
+#: docs/artifacts/inexhaustible_cart_of_ore.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
 #: docs/artifacts/spellbinders_hat.md docs/artifacts/torso_of_legion.md
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -104,12 +105,12 @@ msgstr ""
 #: docs/units/mummies.md docs/units/nomads.md docs/units/peasants.md
 #: docs/units/pegasi.md docs/units/pit_lords.md docs/units/rogues.md
 #: docs/units/skeletons.md docs/units/titans.md docs/units/trolls.md
-#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
-#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zombies.md
-#: docs/war_machines/first_aid_tent.md
+#: docs/units/unicorns.md docs/units/vampires.md
+#: docs/units/water_elementals.md docs/units/wraiths.md docs/units/wyverns.md
+#: docs/units/zombies.md docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notas"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -134,11 +135,11 @@ msgstr ""
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #: docs/artifacts/buckler_of_the_gnoll_king.md
 #: docs/artifacts/cape_of_velocity.md docs/artifacts/cards_of_prophecy.md
-#: docs/artifacts/celestial_necklace_of_bliss.md docs/artifacts/centaurs_axe.md
-#: docs/artifacts/charm_of_mana.md docs/artifacts/crest_of_valor.md
-#: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
-#: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
-#: docs/artifacts/endless_bag_of_gold.md
+#: docs/artifacts/celestial_necklace_of_bliss.md
+#: docs/artifacts/centaurs_axe.md docs/artifacts/charm_of_mana.md
+#: docs/artifacts/crest_of_valor.md docs/artifacts/crown_of_dragontooth.md
+#: docs/artifacts/dragon_scale_armor.md docs/artifacts/dragon_scale_shield.md
+#: docs/artifacts/dragon_wing_tabard.md docs/artifacts/endless_bag_of_gold.md
 #: docs/artifacts/endless_purse_of_gold.md
 #: docs/artifacts/endless_sack_of_gold.md docs/artifacts/equestrians_gloves.md
 #: docs/artifacts/everflowing_crystal_cloak.md
@@ -150,9 +151,9 @@ msgstr ""
 #: docs/artifacts/helm_of_the_alabaster_unicorn.md
 #: docs/artifacts/hourglass_of_the_evil_hour.md
 #: docs/artifacts/inexhaustible_cart_of_lumber.md
-#: docs/artifacts/inexhaustible_cart_of_ore.md docs/artifacts/legs_of_legion.md
-#: docs/artifacts/lions_shield_of_courage.md docs/artifacts/loins_of_legion.md
-#: docs/artifacts/mystic_orb_of_mana.md
+#: docs/artifacts/inexhaustible_cart_of_ore.md
+#: docs/artifacts/legs_of_legion.md docs/artifacts/lions_shield_of_courage.md
+#: docs/artifacts/loins_of_legion.md docs/artifacts/mystic_orb_of_mana.md
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/necklace_of_swiftness.md
 #: docs/artifacts/ogres_club_of_havoc.md docs/artifacts/orb_of_inhibition.md
@@ -264,37 +265,39 @@ msgstr ""
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
 #: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
-#: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
-#: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
-#: docs/units/enchanters.md docs/units/energy_elementals.md
-#: docs/units/evil_eyes.md docs/units/faerie_dragons.md docs/units/familiars.md
-#: docs/units/fangarm.md docs/units/fire_elementals.md docs/units/gargoyles.md
-#: docs/units/genies.md docs/units/ghost_dragons.md docs/units/gnolls.md
-#: docs/units/goblins.md docs/units/gold_dragons.md docs/units/gold_golems.md
-#: docs/units/gorgons.md docs/units/gremlins.md docs/units/griffins.md
-#: docs/units/halberdiers.md docs/units/halflings.md docs/units/harpies.md
-#: docs/units/haspids.md docs/units/hydras.md docs/units/ice_elementals.md
-#: docs/units/iron_golems.md docs/units/leprechaun.md docs/units/liches.md
-#: docs/units/lizardmen.md docs/units/magi.md docs/units/magic_elementals.md
-#: docs/units/magma_elementals.md docs/units/magogs.md docs/units/manticores.md
-#: docs/units/marksmen.md docs/units/medusas.md docs/units/minotaurs.md
-#: docs/units/mummies.md docs/units/nagas.md docs/units/nix.md
-#: docs/units/nomads.md docs/units/oceanids.md docs/units/ogres.md
-#: docs/units/orcs.md docs/units/peasants.md docs/units/pegasi.md
-#: docs/units/phoenixes.md docs/units/pit_lords.md docs/units/rogues.md
-#: docs/units/rust_dragons.md docs/units/satyrs.md docs/units/sea_dogs.md
-#: docs/units/seamen.md docs/units/sharpshooters.md docs/units/skeletons.md
-#: docs/units/sorceresses.md docs/units/sprites.md docs/units/steel_golems.md
-#: docs/units/storm_elementals.md docs/units/thunderbirds.md
-#: docs/units/titans.md docs/units/troglodytes.md docs/units/trolls.md
-#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
-#: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
-#: docs/units/zealots.md docs/units/zombies.md docs/war_machines/ammo_cart.md
+#: docs/units/dragon_flies.md docs/units/dread_knights.md
+#: docs/units/dwarves.md docs/units/earth_elementals.md docs/units/efreet.md
+#: docs/units/elves.md docs/units/enchanters.md
+#: docs/units/energy_elementals.md docs/units/evil_eyes.md
+#: docs/units/faerie_dragons.md docs/units/familiars.md docs/units/fangarm.md
+#: docs/units/fire_elementals.md docs/units/gargoyles.md docs/units/genies.md
+#: docs/units/ghost_dragons.md docs/units/gnolls.md docs/units/goblins.md
+#: docs/units/gold_dragons.md docs/units/gold_golems.md docs/units/gorgons.md
+#: docs/units/gremlins.md docs/units/griffins.md docs/units/halberdiers.md
+#: docs/units/halflings.md docs/units/harpies.md docs/units/haspids.md
+#: docs/units/hydras.md docs/units/ice_elementals.md docs/units/iron_golems.md
+#: docs/units/leprechaun.md docs/units/liches.md docs/units/lizardmen.md
+#: docs/units/magi.md docs/units/magic_elementals.md
+#: docs/units/magma_elementals.md docs/units/magogs.md
+#: docs/units/manticores.md docs/units/marksmen.md docs/units/medusas.md
+#: docs/units/minotaurs.md docs/units/mummies.md docs/units/nagas.md
+#: docs/units/nix.md docs/units/nomads.md docs/units/oceanids.md
+#: docs/units/ogres.md docs/units/orcs.md docs/units/peasants.md
+#: docs/units/pegasi.md docs/units/phoenixes.md docs/units/pit_lords.md
+#: docs/units/rogues.md docs/units/rust_dragons.md docs/units/satyrs.md
+#: docs/units/sea_dogs.md docs/units/seamen.md docs/units/sharpshooters.md
+#: docs/units/skeletons.md docs/units/sorceresses.md docs/units/sprites.md
+#: docs/units/steel_golems.md docs/units/storm_elementals.md
+#: docs/units/thunderbirds.md docs/units/titans.md docs/units/troglodytes.md
+#: docs/units/trolls.md docs/units/unicorns.md docs/units/vampires.md
+#: docs/units/water_elementals.md docs/units/wolf_raiders.md
+#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zealots.md
+#: docs/units/zombies.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/cannon.md
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Viene Con"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -321,11 +324,11 @@ msgstr ""
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #: docs/artifacts/buckler_of_the_gnoll_king.md
 #: docs/artifacts/cape_of_velocity.md docs/artifacts/cards_of_prophecy.md
-#: docs/artifacts/celestial_necklace_of_bliss.md docs/artifacts/centaurs_axe.md
-#: docs/artifacts/charm_of_mana.md docs/artifacts/crest_of_valor.md
-#: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
-#: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
-#: docs/artifacts/endless_bag_of_gold.md
+#: docs/artifacts/celestial_necklace_of_bliss.md
+#: docs/artifacts/centaurs_axe.md docs/artifacts/charm_of_mana.md
+#: docs/artifacts/crest_of_valor.md docs/artifacts/crown_of_dragontooth.md
+#: docs/artifacts/dragon_scale_armor.md docs/artifacts/dragon_scale_shield.md
+#: docs/artifacts/dragon_wing_tabard.md docs/artifacts/endless_bag_of_gold.md
 #: docs/artifacts/endless_purse_of_gold.md
 #: docs/artifacts/endless_sack_of_gold.md docs/artifacts/equestrians_gloves.md
 #: docs/artifacts/everflowing_crystal_cloak.md
@@ -337,9 +340,9 @@ msgstr ""
 #: docs/artifacts/helm_of_the_alabaster_unicorn.md
 #: docs/artifacts/hourglass_of_the_evil_hour.md
 #: docs/artifacts/inexhaustible_cart_of_lumber.md
-#: docs/artifacts/inexhaustible_cart_of_ore.md docs/artifacts/legs_of_legion.md
-#: docs/artifacts/lions_shield_of_courage.md docs/artifacts/loins_of_legion.md
-#: docs/artifacts/mystic_orb_of_mana.md
+#: docs/artifacts/inexhaustible_cart_of_ore.md
+#: docs/artifacts/legs_of_legion.md docs/artifacts/lions_shield_of_courage.md
+#: docs/artifacts/loins_of_legion.md docs/artifacts/mystic_orb_of_mana.md
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/necklace_of_swiftness.md
 #: docs/artifacts/ogres_club_of_havoc.md docs/artifacts/orb_of_inhibition.md
@@ -407,8 +410,9 @@ msgstr ""
 #: docs/events/library_of_enlightenment.md docs/events/mage_laboratory.md
 #: docs/events/magical_forest.md docs/events/market_of_time.md
 #: docs/events/marketplace.md docs/events/mercenary_camp.md
-#: docs/events/messenger_with_supplies.md docs/events/mischievous_leprechaun.md
-#: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
+#: docs/events/messenger_with_supplies.md
+#: docs/events/mischievous_leprechaun.md docs/events/prison.md
+#: docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
@@ -427,30 +431,31 @@ msgstr ""
 #: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/sephinroth.md
 #: docs/heroes/septienna.md docs/heroes/shiva.md docs/heroes/solmyr.md
 #: docs/heroes/tamika.md docs/heroes/tarnum_conflux.md
-#: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
-#: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
-#: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
-#: docs/heroes/zydar.md docs/spells/air_shield.md docs/spells/anti-magic.md
-#: docs/spells/berserk.md docs/spells/bless.md docs/spells/blind.md
-#: docs/spells/bloodlust.md docs/spells/chain_lightning.md
-#: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
-#: docs/spells/dimension_door.md docs/spells/dispel.md
-#: docs/spells/disrupting_ray.md docs/spells/earthquake.md
-#: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
-#: docs/spells/fly.md docs/spells/forgetfulness.md docs/spells/fortune.md
-#: docs/spells/frenzy.md docs/spells/frost_ring.md docs/spells/haste.md
-#: docs/spells/implosion.md docs/spells/index.md docs/spells/inferno.md
-#: docs/spells/lightning_bolt.md docs/spells/magic_arrow.md
-#: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
-#: docs/spells/precision.md docs/spells/remove_obstacle.md
-#: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
-#: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
-#: docs/spells/sorrow.md docs/spells/stone_skin.md
-#: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
-#: docs/spells/summon_fire_elemental.md docs/spells/summon_water_elemental.md
-#: docs/spells/teleport.md docs/spells/town_portal.md docs/spells/view_air.md
+#: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md
+#: docs/heroes/torosar.md docs/heroes/valeska.md docs/heroes/vidomina.md
+#: docs/heroes/wystan.md docs/heroes/xyron.md docs/heroes/yog.md
+#: docs/heroes/zilare.md docs/heroes/zydar.md docs/spells/air_shield.md
+#: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
+#: docs/spells/blind.md docs/spells/bloodlust.md
+#: docs/spells/chain_lightning.md docs/spells/counterstrike.md
+#: docs/spells/cure.md docs/spells/curse.md docs/spells/dimension_door.md
+#: docs/spells/dispel.md docs/spells/disrupting_ray.md
+#: docs/spells/earthquake.md docs/spells/fire_shield.md
+#: docs/spells/fire_wall.md docs/spells/fireball.md docs/spells/fly.md
+#: docs/spells/forgetfulness.md docs/spells/fortune.md docs/spells/frenzy.md
+#: docs/spells/frost_ring.md docs/spells/haste.md docs/spells/implosion.md
+#: docs/spells/index.md docs/spells/inferno.md docs/spells/lightning_bolt.md
+#: docs/spells/magic_arrow.md docs/spells/mirth.md docs/spells/misfortune.md
+#: docs/spells/prayer.md docs/spells/precision.md
+#: docs/spells/remove_obstacle.md docs/spells/resurrection.md
+#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
+#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
+#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
+#: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
+#: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
+#: docs/spells/summon_water_elemental.md docs/spells/teleport.md
+#: docs/spells/town_portal.md docs/spells/view_air.md
 #: docs/spells/view_earth.md docs/spells/visions.md docs/spells/weakness.md
 #: docs/statistics/attack.md docs/statistics/defense.md
 #: docs/statistics/knowledge.md docs/statistics/power.md docs/towns/castle.md
@@ -458,44 +463,46 @@ msgstr ""
 #: docs/towns/fortress.md docs/towns/index.md docs/towns/inferno.md
 #: docs/towns/necropolis.md docs/towns/neutral.md docs/towns/rampart.md
 #: docs/towns/stronghold.md docs/towns/tower.md docs/units/air_elementals.md
-#: docs/units/arch_devils.md docs/units/archangels.md docs/units/arrow_tower.md
-#: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
-#: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
-#: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
-#: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
-#: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
-#: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
-#: docs/units/enchanters.md docs/units/energy_elementals.md
-#: docs/units/evil_eyes.md docs/units/faerie_dragons.md docs/units/familiars.md
-#: docs/units/fangarm.md docs/units/fire_elementals.md docs/units/gargoyles.md
-#: docs/units/genies.md docs/units/ghost_dragons.md docs/units/gnolls.md
-#: docs/units/goblins.md docs/units/gold_dragons.md docs/units/gold_golems.md
-#: docs/units/gorgons.md docs/units/gremlins.md docs/units/griffins.md
-#: docs/units/halberdiers.md docs/units/halflings.md docs/units/harpies.md
-#: docs/units/haspids.md docs/units/hydras.md docs/units/ice_elementals.md
-#: docs/units/index.md docs/units/iron_golems.md docs/units/leprechaun.md
-#: docs/units/liches.md docs/units/lizardmen.md docs/units/magi.md
-#: docs/units/magic_elementals.md docs/units/magma_elementals.md
-#: docs/units/magogs.md docs/units/manticores.md docs/units/marksmen.md
-#: docs/units/medusas.md docs/units/minotaurs.md docs/units/mummies.md
-#: docs/units/nagas.md docs/units/nix.md docs/units/nomads.md
-#: docs/units/oceanids.md docs/units/ogres.md docs/units/orcs.md
-#: docs/units/peasants.md docs/units/pegasi.md docs/units/phoenixes.md
-#: docs/units/pit_lords.md docs/units/rogues.md docs/units/rust_dragons.md
-#: docs/units/satyrs.md docs/units/sea_dogs.md docs/units/seamen.md
-#: docs/units/sharpshooters.md docs/units/skeletons.md
-#: docs/units/sorceresses.md docs/units/sprites.md docs/units/steel_golems.md
-#: docs/units/storm_elementals.md docs/units/thunderbirds.md
-#: docs/units/titans.md docs/units/troglodytes.md docs/units/trolls.md
-#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
-#: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
-#: docs/units/zealots.md docs/units/zombies.md docs/war_machines/ammo_cart.md
+#: docs/units/arch_devils.md docs/units/archangels.md
+#: docs/units/arrow_tower.md docs/units/ayssids.md docs/units/azure_dragons.md
+#: docs/units/basilisks.md docs/units/behemoths.md docs/units/black_dragons.md
+#: docs/units/boars.md docs/units/centaurs.md docs/units/cerberi.md
+#: docs/units/champions.md docs/units/crusaders.md
+#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/dendroids.md docs/units/diamond_golems.md
+#: docs/units/dragon_flies.md docs/units/dread_knights.md
+#: docs/units/dwarves.md docs/units/earth_elementals.md docs/units/efreet.md
+#: docs/units/elves.md docs/units/enchanters.md
+#: docs/units/energy_elementals.md docs/units/evil_eyes.md
+#: docs/units/faerie_dragons.md docs/units/familiars.md docs/units/fangarm.md
+#: docs/units/fire_elementals.md docs/units/gargoyles.md docs/units/genies.md
+#: docs/units/ghost_dragons.md docs/units/gnolls.md docs/units/goblins.md
+#: docs/units/gold_dragons.md docs/units/gold_golems.md docs/units/gorgons.md
+#: docs/units/gremlins.md docs/units/griffins.md docs/units/halberdiers.md
+#: docs/units/halflings.md docs/units/harpies.md docs/units/haspids.md
+#: docs/units/hydras.md docs/units/ice_elementals.md docs/units/index.md
+#: docs/units/iron_golems.md docs/units/leprechaun.md docs/units/liches.md
+#: docs/units/lizardmen.md docs/units/magi.md docs/units/magic_elementals.md
+#: docs/units/magma_elementals.md docs/units/magogs.md
+#: docs/units/manticores.md docs/units/marksmen.md docs/units/medusas.md
+#: docs/units/minotaurs.md docs/units/mummies.md docs/units/nagas.md
+#: docs/units/nix.md docs/units/nomads.md docs/units/oceanids.md
+#: docs/units/ogres.md docs/units/orcs.md docs/units/peasants.md
+#: docs/units/pegasi.md docs/units/phoenixes.md docs/units/pit_lords.md
+#: docs/units/rogues.md docs/units/rust_dragons.md docs/units/satyrs.md
+#: docs/units/sea_dogs.md docs/units/seamen.md docs/units/sharpshooters.md
+#: docs/units/skeletons.md docs/units/sorceresses.md docs/units/sprites.md
+#: docs/units/steel_golems.md docs/units/storm_elementals.md
+#: docs/units/thunderbirds.md docs/units/titans.md docs/units/troglodytes.md
+#: docs/units/trolls.md docs/units/unicorns.md docs/units/vampires.md
+#: docs/units/water_elementals.md docs/units/wolf_raiders.md
+#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zealots.md
+#: docs/units/zombies.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/cannon.md
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr ""
+msgstr "Ver También"
 
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -513,7 +520,7 @@ msgstr ""
 #: docs/abilities/sorcery.md docs/abilities/tactics.md
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
 msgid "[List of Abilities](index.md)"
-msgstr ""
+msgstr "[Lista de Habilidades](index.md)"
 
 #. type: Title ##
 #: docs/abilities/archery.md docs/abilities/armorer.md
@@ -530,7 +537,7 @@ msgstr ""
 #: docs/abilities/wisdom.md
 #, no-wrap
 msgid "Heroes With Starting Ability"
-msgstr ""
+msgstr "Héroes con Habilidad de Inicio"
 
 #. type: Bullet: '- '
 #: docs/abilities/archery.md docs/abilities/armorer.md
@@ -539,8 +546,9 @@ msgstr ""
 #: docs/abilities/logistics.md docs/abilities/luck.md
 #: docs/abilities/mysticism.md docs/abilities/necromancy.md
 #: docs/abilities/offense.md docs/abilities/resistance.md
-#: docs/abilities/sorcery.md docs/abilities/tactics.md docs/abilities/wisdom.md
-#: docs/artifacts/angel_wings.md docs/artifacts/armor_of_wonder.md
+#: docs/abilities/sorcery.md docs/abilities/tactics.md
+#: docs/abilities/wisdom.md docs/artifacts/angel_wings.md
+#: docs/artifacts/armor_of_wonder.md
 #: docs/artifacts/blackshard_of_the_dead_knight.md
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #: docs/artifacts/centaurs_axe.md docs/artifacts/charm_of_mana.md
@@ -589,15 +597,16 @@ msgstr ""
 #: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
 #: docs/spells/disrupting_ray.md docs/spells/fire_shield.md
 #: docs/spells/fireball.md docs/spells/haste.md docs/spells/lightning_bolt.md
-#: docs/spells/magic_arrow.md docs/spells/prayer.md docs/spells/resurrection.md
-#: docs/spells/slow.md docs/spells/stone_skin.md docs/spells/teleport.md
-#: docs/spells/town_portal.md docs/spells/weakness.md docs/towns/castle.md
-#: docs/towns/dungeon.md docs/towns/necropolis.md docs/units/archangels.md
-#: docs/units/arrow_tower.md docs/units/azure_dragons.md
-#: docs/units/black_dragons.md docs/units/boars.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md
-#: docs/units/diamond_golems.md docs/units/dread_knights.md
-#: docs/units/enchanters.md docs/units/evil_eyes.md docs/units/ghost_dragons.md
+#: docs/spells/magic_arrow.md docs/spells/prayer.md
+#: docs/spells/resurrection.md docs/spells/slow.md docs/spells/stone_skin.md
+#: docs/spells/teleport.md docs/spells/town_portal.md docs/spells/weakness.md
+#: docs/towns/castle.md docs/towns/dungeon.md docs/towns/necropolis.md
+#: docs/units/archangels.md docs/units/arrow_tower.md
+#: docs/units/azure_dragons.md docs/units/black_dragons.md docs/units/boars.md
+#: docs/units/champions.md docs/units/crusaders.md
+#: docs/units/crystal_dragons.md docs/units/diamond_golems.md
+#: docs/units/dread_knights.md docs/units/enchanters.md
+#: docs/units/evil_eyes.md docs/units/ghost_dragons.md
 #: docs/units/gold_golems.md docs/units/griffins.md docs/units/halberdiers.md
 #: docs/units/halflings.md docs/units/harpies.md docs/units/liches.md
 #: docs/units/manticores.md docs/units/marksmen.md docs/units/medusas.md
@@ -607,7 +616,7 @@ msgstr ""
 #: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr ""
+msgstr "[Juego Base](../content/core_game.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/eagle_eye.md docs/abilities/intelligence.md
@@ -624,13 +633,13 @@ msgstr ""
 #: docs/units/earth_elementals.md docs/units/fire_elementals.md
 #: docs/units/water_elementals.md
 msgid "[List of Spells](../spells/index.md)"
-msgstr ""
+msgstr "[Lista de Hechizos](../spells/index.md)"
 
 #. type: Title #
 #: docs/abilities/intelligence.md
 #, no-wrap
 msgid "Intelligence"
-msgstr ""
+msgstr "Inteligencia"
 
 #. type: Plain text
 #: docs/abilities/intelligence.md
@@ -642,13 +651,21 @@ msgstr ""
 #. type: Plain text
 #: docs/abilities/intelligence.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. You can still only play a [Spell](../spells/index.md) card during a Combat round.</p>\n"
+msgid ""
+"<p style=\"text-align: center;\" markdown>:instant: During Combat, before "
+"any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) "
+"card. You can still only play a [Spell](../spells/index.md) card during a "
+"Combat round.</p>\n"
 msgstr ""
 
 #. type: Plain text
 #: docs/abilities/intelligence.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. This spell does not count toward your spell limit per Combat round.</p>\n"
+msgid ""
+"<p style=\"text-align: center;\" markdown>:instant: During Combat, before "
+"any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) "
+"card. This spell does not count toward your spell limit per Combat "
+"round.</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -665,9 +682,12 @@ msgstr ""
 #: docs/abilities/intelligence.md
 msgid ""
 "If both players are resolving cards with effects at the start of the Combat "
-"(e.g. playing Intelligence), the attacker (or the player with the initiative "
-"token) may resolve their card first."
+"(e.g. playing Intelligence), the attacker (or the player with the initiative"
+" token) may resolve their card first."
 msgstr ""
+"Si ambos jugadores están resolviendo cartas con efectos al comienzo del "
+"combate (por ejemplo, jugar inteligencia), el atacante (o el jugador con el "
+"token de iniciativa) puede resolver primero su carta."
 
 #. type: Bullet: '- '
 #: docs/abilities/intelligence.md
@@ -675,3 +695,5 @@ msgid ""
 "This ability can only be played at the start of the Combat itself, not at "
 "the start of any Combat round."
 msgstr ""
+"Esta habilidad solo se puede jugar al comienzo del combate en sí, no al "
+"comienzo de ninguna ronda de combate."

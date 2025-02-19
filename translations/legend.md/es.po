@@ -20,33 +20,33 @@ msgstr ""
 #: docs/dice.md docs/legend.md
 #, no-wrap
 msgid "Dice"
-msgstr ""
+msgstr "Dados"
 
 #. type: Title ##
 #: docs/fields/resources.md docs/legend.md
 #, no-wrap
 msgid "Resources"
-msgstr ""
+msgstr "Recursos"
 
 #. type: Title #
 #: docs/legend.md
 #, no-wrap
 msgid "Legend"
-msgstr ""
+msgstr "Leyenda"
 
 #. type: Plain text
 #: docs/legend.md
 msgid "Quick reference for what the different glyphs mean."
-msgstr ""
+msgstr "Referencia rápida del significado de los diferentes glifos."
 
 #. type: Title ##
-#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
-#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
-#: docs/towns/necropolis.md docs/towns/neutral.md docs/towns/rampart.md
-#: docs/towns/stronghold.md docs/towns/tower.md
+#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md
+#: docs/towns/cove.md docs/towns/dungeon.md docs/towns/fortress.md
+#: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/neutral.md
+#: docs/towns/rampart.md docs/towns/stronghold.md docs/towns/tower.md
 #, no-wrap
 msgid "Units"
-msgstr ""
+msgstr "Unidades"
 
 #. type: Plain text
 #: docs/legend.md
@@ -69,12 +69,28 @@ msgid ""
 "| :damage: | Damage |\n"
 "| :initiative: | Initiative |\n"
 msgstr ""
+"| Icono | Descripción |\n"
+"| :---: | :--- |\n"
+"| :bronze: | Nivel Bronce |\n"
+"| :silver: | Nivel Plata |\n"
+"| :golden: | Nivel Oro |\n"
+"| :azure: | Nivel Celestial |\n"
+"| :unit_ground: | Unidad Terrestre |\n"
+"| :unit_flying: | Unidad Voladora |\n"
+"| :unit_ranged: | Unidad a Distancia |\n"
+"| :attack: | Ataque |\n"
+"| :defense: | Defensa |\n"
+"| :empower: | Poder |\n"
+"| :skill: | Conocimiento |\n"
+"| :health_points: | Salud |\n"
+"| :damage: | Daño |\n"
+"| :initiative: | Iniciativa |\n"
 
 #. type: Title ##
 #: docs/legend.md
 #, no-wrap
 msgid "Factions"
-msgstr ""
+msgstr "Facciones"
 
 #. type: Plain text
 #: docs/legend.md
@@ -84,12 +100,15 @@ msgid ""
 "| :---: | :--- |\n"
 "| :necro: | Necropolis |\n"
 msgstr ""
+"| Icono | Descripción |\n"
+"| :---: | :--- |\n"
+"| :necro: | Necrópolis |\n"
 
 #. type: Title ##
 #: docs/legend.md
 #, no-wrap
 msgid "Effects And Abilities"
-msgstr ""
+msgstr "Efectos y Habilidades"
 
 #. type: Plain text
 #: docs/legend.md
@@ -108,12 +127,24 @@ msgid ""
 "| :instant: | Instant effect |\n"
 "| :permanent: | Permanent effect |\n"
 msgstr ""
+"| Icono | Descripción |\n"
+"| :---: | :--- |\n"
+"| :effect_map: | Efecto mapa. Puede ser activado cuando sea tu turno y no estés en un combate |\n"
+"| :unit_attack: | Ataque. Tiene lugar cuando la unidad está atacando (en el caso de múltiples ataques, se ejecuta solo para el primero) |\n"
+"| :unit_retaliate: | Contraataque. Tiene lugar cuando la unidad está contraatacando |\n"
+"| :activation: | Activación. Tiene lugar cuando la unidad se activa |\n"
+"| :unit_passive: | Pasivo. Tiene lugar cuando se cumple la condición indicada |\n"
+"| :unit_other: | Se puede usar como alternativa a un ataque |\n"
+"| :paralysis: | Parálisis |\n"
+"| :ongoing: | Efecto continuo |\n"
+"| :instant: | Efecto instantáneo |\n"
+"| :permanent: | Efecto permanente |\n"
 
 #. type: Title ##
 #: docs/legend.md
 #, no-wrap
 msgid "Card Types"
-msgstr ""
+msgstr "Tipos de Cartas"
 
 #. type: Plain text
 #: docs/legend.md
@@ -124,6 +155,10 @@ msgid ""
 "| :spellpower: | [Spell](spells/index.md) |\n"
 "| :artifact: | [Artifact](artifacts/index.md) |\n"
 msgstr ""
+"| Icono | Descripción |\n"
+"| :---: | :--- |\n"
+"| :spellpower: | [Hechizo](spells/index.md) |\n"
+"| :artifact: | [Artefacto](artifacts/index.md) |\n"
 
 #. type: Plain text
 #: docs/legend.md
@@ -135,6 +170,11 @@ msgid ""
 "| :building_materials: | Building materials |\n"
 "| :valuables: | Valuables |\n"
 msgstr ""
+"| Icono | Descripción |\n"
+"| :---: | :--- |\n"
+"| :gold: | Oro |\n"
+"| :building_materials: | Materiales de construcción |\n"
+"| :valuables: | Objetos de valor |\n"
 
 #. type: Plain text
 #: docs/legend.md
@@ -145,12 +185,16 @@ msgid ""
 "| :treasure: | [Treasure die](dice.md#treasure-die) |\n"
 "| :resource_die: | [Resource die](dice.md#resource-die) |\n"
 msgstr ""
+"| Icono | Descripción |\n"
+"| :---: | :--- |\n"
+"| :treasure: | [Dado de Tesoro](dice.md#treasure-die) |\n"
+"| :resource_die: | [Dado de Recursos](dice.md#resource-die) |\n"
 
 #. type: Title ##
 #: docs/legend.md
 #, no-wrap
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Miscelánea"
 
 #. type: Plain text
 #: docs/legend.md
@@ -164,3 +208,10 @@ msgid ""
 "| :morale_negative: | Negative morale |\n"
 "| :movement: | Movement point |\n"
 msgstr ""
+"| Icono | Descripción |\n"
+"| :---: | :--- |\n"
+"| :expert: | Efecto experto |\n"
+"| :pay: | Paga |\n"
+"| :morale_positive: | Moral positiva |\n"
+"| :morale_negative: | Moral negativa |\n"
+"| :movement: | Punto de movimiento |\n"

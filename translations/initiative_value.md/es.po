@@ -20,4 +20,4 @@ msgstr ""
 #: docs/keywords/initiative_value.md
 #, no-wrap
 msgid ":initiative: Initiative Value"
-msgstr ""
+msgstr ": Iniciativa: valor de la iniciativa"
