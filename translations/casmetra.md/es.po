@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 17:38+0000\n"
-"PO-Revision-Date: 2024-10-21 17:38+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-19 23:59+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -559,12 +560,8 @@ msgstr "[Lista de Ciudades](../towns/index.md)"
 #: docs/heroes/casmetra.md docs/heroes/dracon.md docs/heroes/gundula.md
 #: docs/heroes/rion.md docs/heroes/tarnum_conflux.md docs/heroes/xyron.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Wisdom](../abilities/wisdom.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" "
-"markdown>[Sabiduría](../abilities/wisdom.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Wisdom](../abilities/wisdom.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Sabiduría](../abilities/wisdom.md)</p>\n"
 
 #. type: Title ##
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
@@ -646,25 +643,21 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/astra.md docs/heroes/casmetra.md docs/heroes/zilare.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[:magic: "
-"Navigator](index.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:magic: Navigator](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:magic: Navegante](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/astra.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
 #: docs/heroes/jeremy.md docs/heroes/miriam.md docs/heroes/zilare.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Cove](../towns/cove.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Ensenada](../towns/cove.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/astra.md docs/heroes/casmetra.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 
 #. type: Title #
 #: docs/heroes/casmetra.md
@@ -675,15 +668,13 @@ msgstr "Casmetra"
 #. type: Plain text
 #: docs/heroes/casmetra.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>![Casmetra](../assets/player-deck-"
-"back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>![Casmetra](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Casmetra](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/casmetra.md docs/heroes/tarnum_conflux.md
 msgid "=== \"🚧 Ⅰ\""
-msgstr "=== \"🚧 ⅰ\""
+msgstr "=== \"🚧 Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/casmetra.md docs/heroes/tarnum_conflux.md
@@ -693,11 +684,14 @@ msgid ""
 "        ![🚧 Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![🚧 Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/casmetra.md docs/heroes/tarnum_conflux.md
 msgid "=== \"🚧 Ⅳ\""
-msgstr "=== \"🚧 ⅳ\""
+msgstr "=== \"🚧 Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/casmetra.md docs/heroes/tarnum_conflux.md
@@ -707,11 +701,14 @@ msgid ""
 "        ![🚧 Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![🚧 Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/casmetra.md docs/heroes/tarnum_conflux.md
 msgid "=== \"🚧 Ⅵ\""
-msgstr "=== \"🚧 ⅵ\""
+msgstr "=== \"🚧 Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/casmetra.md docs/heroes/tarnum_conflux.md
@@ -721,3 +718,6 @@ msgid ""
 "        ![🚧 Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![🚧 Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"

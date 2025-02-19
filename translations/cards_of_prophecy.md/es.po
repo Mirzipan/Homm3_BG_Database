@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-19 23:57+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -456,10 +457,8 @@ msgstr "Ver También"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Major "
-"Artifact](../keywords/major_artifact.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../keywords/major_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Mayor](../keywords/major_artifact.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
@@ -519,30 +518,25 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/cards_of_prophecy.md
 #, no-wrap
 msgid "Cards of Prophecy"
-msgstr "Tarjetas de profecía"
+msgstr "Cartas de Profecía"
 
 #. type: Plain text
 #: docs/artifacts/cards_of_prophecy.md
 msgid ""
-"![Cards of Prophecy](../assets/artifacts_major-cards_of_prophecy.webp){ "
-"width=\"340\" align=right }"
+"![Cards of Prophecy](../assets/artifacts_major-cards_of_prophecy.webp)"
+"{ width=\"340\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/artifacts/cards_of_prophecy.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Reroll any "
-"[die](../dice.md).<br><br>— OR —<br><br>:instant: Set a :resource_die: or "
-":treasure: on the side of your choice.</p>\n"
-msgstr ""
+"![Cartas de Profecía](../assets/artifacts_major-cards_of_prophecy.webp)"
+"{ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/cards_of_prophecy.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*You meet a traveler who offers to"
-" let you draw a card form the strange deck. When you refuse, he draws one "
-"himself. He has a momentary look of surprise on his face, then vanishes with"
-" a pop, dropping the cards. You gather them, and leave.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Reroll any [die](../dice.md).<br><br>— OR —<br><br>:instant: Set a :resource_die: or :treasure: on the side of your choice.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Repite cualquier [dado](../dice.md).<br><br>— O —<br><br>:instant: Coloca un dado de :resource_die: o :treasure: por el lado de tu elección.</p>\n"
+
+#. type: Plain text
+#: docs/artifacts/cards_of_prophecy.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*You meet a traveler who offers to let you draw a card form the strange deck. When you refuse, he draws one himself. He has a momentary look of surprise on his face, then vanishes with a pop, dropping the cards. You gather them, and leave.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Te encuentras con un viajero que te ofrece robar una carta de la extraña baraja. Cuando te niegas, él mismo saca una. Pone cara de sorpresa y desaparece con un chasquido, dejando caer las cartas. Las recoges y te marchas.*</p>\n"

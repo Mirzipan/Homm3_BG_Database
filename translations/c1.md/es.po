@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 16:09+0000\n"
-"PO-Revision-Date: 2024-10-21 16:09+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-19 23:11+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -578,19 +579,19 @@ msgstr "Lugares"
 #: docs/tiles/f9.md docs/tiles/n10.md docs/tiles/n11.md docs/tiles/n6.md
 #: docs/tiles/nx2.md docs/tiles/nx3.md
 msgid "[Fountain of Youth](../fields/fountain_of_youth.md)"
-msgstr ""
+msgstr "[Fuente de la Juventud](../fields/fountain_of_youth.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/c1.md docs/tiles/c2.md
 #: docs/tiles/c4.md docs/tiles/f12.md docs/tiles/fx5.md
 msgid "[Mystical Garden](../fields/mystical_garden.md)"
-msgstr ""
+msgstr "[Jardín Místico](../fields/mystical_garden.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/c1.md docs/tiles/c3.md
 #: docs/tiles/c5.md docs/tiles/n10.md docs/tiles/n4.md docs/tiles/n5.md
 msgid "[Warrior's Tomb](../fields/warriors_tomb.md)"
-msgstr ""
+msgstr "[Tumba del Guerrero](../fields/warriors_tomb.md)"
 
 #. type: Title #
 #: docs/tiles/c1.md
@@ -602,24 +603,25 @@ msgstr "C1"
 #: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md
 #: docs/tiles/c5.md docs/tiles/cx1.md
 msgid "[Center Tile](../keywords/center_tile.md)"
-msgstr ""
+msgstr "[Loseta Central](../keywords/center_tile.md)"
 
 #. type: Plain text
 #: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/f2.md docs/tiles/f5.md
 #: docs/tiles/f8.md docs/tiles/fx5.md docs/tiles/n2.md docs/tiles/n5.md
 #: docs/tiles/s2.md docs/tiles/u1.md docs/tiles/u2.md
 msgid "Subterranean"
-msgstr ""
+msgstr "Subterráneo"
 
 #. type: Bullet: '- '
 #: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md
 msgid "[Ⅵ](../difficulties.md) [Pandora's Box](../fields/pandoras_box.md)"
-msgstr ""
+msgstr "[Ⅵ](../difficulties.md) [Caja de Pandora](../fields/pandoras_box.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/c1.md docs/tiles/c3.md
 msgid "[Ⅶ](../difficulties.md) [Dragon Utopia](../fields/dragon_utopia.md)"
 msgstr ""
+"[Ⅶ](../difficulties.md) [Utopía del Dragon](../campos/dragon_utopia.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md
@@ -645,9 +647,11 @@ msgstr "[Campo Bloqueado](../keywords/blocked_field.md)"
 #. type: Bullet: '- '
 #: docs/tiles/c1.md
 msgid ""
-"[Ⅵ](../difficulties.md) [Shrine of Magic "
-"Gesture](../fields/shrine_of_magic_gesture.md)"
+"[Ⅵ](../difficulties.md) [Shrine of Magic Gesture](../fields/"
+"shrine_of_magic_gesture.md)"
 msgstr ""
+"[Ⅵ](../difficulties.md) [Santuario del Gesto Mágico](../fields/"
+"shrine_of_magic_gesture.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md
