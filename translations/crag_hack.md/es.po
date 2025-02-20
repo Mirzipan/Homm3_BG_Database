@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 16:09+0000\n"
-"PO-Revision-Date: 2024-10-21 16:09+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 13:54+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -597,51 +598,41 @@ msgstr "Crag Hack"
 #. type: Plain text
 #: docs/heroes/crag_hack.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>![Crag Hack](../assets/player-"
-"deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>![Crag Hack](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Crag Hack](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/shiva.md
 #: docs/heroes/tarnum_stronghold.md docs/heroes/yog.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[:might: "
-"Barbarian](index.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:might: Barbarian](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:might: Bárbaro](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/dessa.md docs/heroes/gundula.md
 #: docs/heroes/shiva.md docs/heroes/tarnum_stronghold.md docs/heroes/yog.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Stronghold](../towns/stronghold.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Stronghold](../towns/stronghold.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Bastión](../towns/stronghold.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/shiva.md
 #: docs/heroes/tarnum_stronghold.md docs/heroes/yog.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[:attack:](../statistics/attack.md)&nbsp;4</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;4</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;4</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/ivor.md docs/heroes/jeremy.md
 #: docs/heroes/tamika.md docs/heroes/tarnum_stronghold.md docs/heroes/yog.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Offense](../abilities/offense.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Offense](../abilities/offense.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Ofensiva](../abilities/offense.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
 msgid "=== \"Offense Ⅰ\""
-msgstr "=== \"ofensa ⅰ\""
+msgstr "=== \"Ofensiva Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
@@ -651,11 +642,14 @@ msgid ""
 "        ![Offense Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Ofensiva Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
 msgid "=== \"Offense Ⅳ\""
-msgstr "=== \"ofensa ⅳ\""
+msgstr "=== \"Ofensiva Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
@@ -665,11 +659,14 @@ msgid ""
 "        ![Offense Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Ofensiva Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
 msgid "=== \"Offense Ⅵ\""
-msgstr "=== \"ofensa ⅵ\""
+msgstr "=== \"Ofensiva Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
@@ -679,6 +676,9 @@ msgid ""
 "        ![Offense Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Ofensiva Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md
@@ -690,3 +690,8 @@ msgid ""
 "| Ⅳ | :ongoing: Your selected [unit](../units/index.md) gains +1 :attack:. You can discard a card to gain additional +1 :attack:. |\n"
 "| Ⅵ | :ongoing: For this Combat, every card you play can grant you +1 :attack: instead of its regular effect. |\n"
 msgstr ""
+"| Nivel | Descripción |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :ongoing: Tu [unidad](../units/index.md) seleccionada gana +1 :attack: |\n"
+"| Ⅳ | :ongoing: Tu [unidad](../units/index.md) seleccionada gana +1 :attack:. Puedes descartar una carta para ganar +1 :attack: adicional. |\n"
+"| Ⅵ | :ongoing: Durante este Combate, cada carta que juegues puede otorgarte +1 :attack: en lugar de su efecto normal. |\n"

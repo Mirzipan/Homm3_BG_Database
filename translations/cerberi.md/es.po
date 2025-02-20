@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 09:29+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -697,7 +698,7 @@ msgstr "Héroes Con Una Especialidad"
 #: docs/units/cerberi.md
 #, no-wrap
 msgid "Cerberi"
-msgstr "Cerberi"
+msgstr "Cerbero"
 
 #. type: Plain text
 #: docs/units/cerberi.md
@@ -708,7 +709,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Cerberi](../assets/units-inferno-bronze-cerberi-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Cerberos](../assets/units-inferno-bronze-cerberi-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -720,7 +721,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Cerberi](../assets/units-inferno-bronze-cerberi-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Cerberos](../assets/units-inferno-bronze-cerberi-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -731,6 +732,9 @@ msgid ""
 "        ![Neutral Cerberi](../assets/units-neutral-bronze-cerberi.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cerbero Neutral](../assets/units-neutral-bronze-cerberi.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/cerberi.md
@@ -750,28 +754,28 @@ msgid ""
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :bronze: | :bronze: | :bronze: |\n"
-"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| Ciudad | [Infierno](../towns/inferno.md) | [Infierno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :bronze: | :bronze: | :bronze: |\n"
+"| Tipo | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
 "| :attack: | 3 | 3 | 2 |\n"
 "| :defense: | 0 | **1** | 0 |\n"
 "| :health_points: | 4 | **5** | 5 |\n"
 "| :initiative: | 7 | **8** | 8 |\n"
-"| Cost | 4 :gold: | 7 :gold: | 10 :gold: |\n"
-"| Abilities | - | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. |\n"
+"| Coste | 4 :gold: | 7 :gold: | 10 :gold: |\n"
+"| Habilidades | - | :unit_attack: Ignora Ataques de Represalia. Adicionalmente, inflige 1 :damage: a otra unidad enemiga adyacente a Cerbero. | :unit_attack: Ignora Ataques de Represalia. Adicionalmente, inflige 1 :damage: a otra unidad enemiga adyacente a Cerbero. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/cerberi.md
 msgid "[:might: Fiona](../heroes/fiona.md#specialty)"
-msgstr ""
+msgstr "[:might: Fiona](../heroes/fiona.md#specialty)"
 
 #. type: Bullet: '- '
 #: docs/units/cerberi.md
 msgid ""
 "**Pack and Neutral** - Should the Cerberi attack a unit and there is only a "
-"friendly unit adjacent to their target, then the friendly unit will take the"
-" damage."
-msgstr ""
-"**Manada and Neutral** - Should the Cerberi attack a unit and there is only "
-"a friendly unit adjacent to their target, then the friendly unit will take "
+"friendly unit adjacent to their target, then the friendly unit will take "
 "the damage."
+msgstr ""
+"**Manada y Neutral** - Si los Cerberos atacan a una unidad y sólo hay una "
+"unidad alidada adyacente a su objetivo, entonces la unidad aliada recibirá "
+"el daño."

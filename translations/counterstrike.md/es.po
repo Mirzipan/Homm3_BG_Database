@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 13:35+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -530,16 +531,14 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/dimension_door.md docs/spells/fly.md
 #: docs/spells/summon_air_elemental.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Expert Air "
-"Spell](school_of_air_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Expert Air Spell](school_of_air_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo de Aire Experto](school_of_air_magic.md)</p>\n"
 
 #. type: Title #
 #: docs/spells/counterstrike.md
 #, no-wrap
 msgid "Counterstrike"
-msgstr "Condicional"
+msgstr "Contraataque"
 
 #. type: Plain text
 #: docs/spells/counterstrike.md
@@ -547,15 +546,11 @@ msgid ""
 "![Counterstrike](../assets/spells-counterstrike.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Contraataque](../assets/spells-counterstrike.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/spells/counterstrike.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Remove the Black cube "
-"from the selected \\* [Unit](../units/index.md) card - that "
-"[unit](../units/index.md) is now able to perform a Retaliation Attack action"
-" again:<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or "
-":silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR "
-"—<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Remove the Black cube from the selected \\* [Unit](../units/index.md) card - that [unit](../units/index.md) is now able to perform a Retaliation Attack action again:<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Retira el cubo Negro de la carta de [Unidad](../units/index.md) \\* seleccionada - esa [unidad](../units/index.md) ya puede volver a realizar una acción de Ataque de Represalia:<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"

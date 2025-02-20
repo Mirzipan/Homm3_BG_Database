@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 10:02+0200\n"
-"PO-Revision-Date: 2024-10-18 10:02+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 14:23+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -482,7 +483,7 @@ msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -526,7 +527,7 @@ msgstr ""
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -541,7 +542,7 @@ msgstr ""
 #: docs/events/withered_hermit.md docs/events/a_shady_auction.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Event](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Event](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -555,7 +556,7 @@ msgstr ""
 #: docs/events/marketplace.md docs/events/garden_of_revelation.md
 #: docs/events/withered_hermit.md docs/events/a_shady_auction.md
 msgid "[List of Events](index.md)"
-msgstr "[Lista de eventos] (index.md)"
+msgstr "[Lista de Eventos](index.md)"
 
 #. type: Title #
 #: docs/events/crypt.md
@@ -566,26 +567,16 @@ msgstr "Cripta"
 #. type: Plain text
 #: docs/events/crypt.md
 msgid "![Crypt](../assets/events-crypt.webp){ width=\"475\" align=right }"
-msgstr ""
+msgstr "![Cripta](../assets/events-crypt.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/events/crypt.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>**Each player chooses one "
-"option:** <br>Gain Negative Morale. Then roll 2 "
-"[:treasure:](../dice.md#treasure-die). If any of them shows #, you gain "
-"nothing. Otherwise, resolve one result.<br><br>— OR —<br><br>Gain Positive "
-"Morale.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). "
-"**Reinforce** one of your :bronze: or :silver: for half the cost.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 [:treasure:](../dice.md#treasure-die). If any of them shows #, you gain nothing. Otherwise, resolve one result.<br><br>— OR —<br><br>Gain Positive Morale.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for half the cost.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>**Cada jugador elige una opción:** <br>Gana Moral Negativa. Luego lanza 2 [:treasure:](../dice.md#treasure-die). Si alguno de ellos muestra #, no ganas nada. En caso contrario, resuelve un resultado<br><br>— O —<br><br>Gana Moral Positiva.<br><br>— O —<br><br>Solo para [:necro:](../towns/necropolis.md). **Refuerza** una de tus :bronze: o :silver: por la mitad del coste.</p>\n"
 
 #. type: Plain text
 #: docs/events/crypt.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*You tentatively approach the "
-"burial crypt of ancient warriors. Disturbing the peace of the dead is a "
-"dirty and despicable act. Yet, something of worth may be buried among these "
-"ancient graves...*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*You tentatively approach the burial crypt of ancient warriors. Disturbing the peace of the dead is a dirty and despicable act. Yet, something of worth may be buried among these ancient graves...*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Te acercas tímidamente a la cripta funeraria de antiguos guerreros. Perturbar la paz de los muertos es un acto sucio y despreciable. Sin embargo, algo de valor puede estar enterrado entre estas antiguas tumbas...*</p>\n"

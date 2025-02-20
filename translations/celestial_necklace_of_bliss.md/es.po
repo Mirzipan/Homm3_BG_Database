@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 09:13+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -473,43 +474,35 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/spellbinders_hat.md docs/artifacts/sword_of_judgement.md
 #: docs/artifacts/titans_cuirass.md docs/artifacts/titans_gladius.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Relic "
-"Artifact](../keywords/relic_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Artefacto "
-"Reliquia](../keywords/relic_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Reliquia](../keywords/relic_artifact.md)</p>\n"
 
 #. type: Title #
 #: docs/artifacts/celestial_necklace_of_bliss.md
 #, no-wrap
 msgid "Celestial Necklace of Bliss"
-msgstr "Collar celestial de dicha"
+msgstr "Collar Celestial de la Dicha"
 
 #. type: Plain text
 #: docs/artifacts/celestial_necklace_of_bliss.md
 msgid ""
-"![Celestial Necklace of Bliss](../assets/player-deck-back.webp){ "
-"width=\"340\" align=right }"
+"![Celestial Necklace of Bliss](../assets/player-deck-back.webp)"
+"{ width=\"340\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/artifacts/celestial_necklace_of_bliss.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Discard X cards from "
-"hand to gain +X :attack:.<br><br>— OR —<br><br>:instant: Remove this card, "
-"then gain +3 :attack:.</p>\n"
-msgstr ""
+"![Collar Celestial de la Dicha](../assets/player-deck-back.webp)"
+"{ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/celestial_necklace_of_bliss.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*After rescuing a Sorceress from a"
-" cursed tomb, she rewards your heroism with an exquisite jeweled "
-"necklace.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Discard X cards from hand to gain +X :attack:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +3 :attack:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Descarta X cartas de la mano para ganar +X :attack:.<br><br>- O -<br><br>:instant: Elimina esta carta y gana +3 :attack:.</p>\n"
+
+#. type: Plain text
+#: docs/artifacts/celestial_necklace_of_bliss.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*After rescuing a Sorceress from a cursed tomb, she rewards your heroism with an exquisite jeweled necklace.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Tras rescatar a una hechicera de una tumba maldita, ella recompensa tu heroísmo con un exquisito collar de joyas.*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/celestial_necklace_of_bliss.md
@@ -527,4 +520,4 @@ msgstr ""
 #: docs/spells/air_shield.md docs/spells/sacrifice.md docs/units/fangarm.md
 #: docs/units/leprechaun.md docs/units/satyrs.md docs/units/steel_golems.md
 msgid "[Regular Stretch Goals 2024](../content/regular_stretch_goals.md)"
-msgstr ""
+msgstr "[Objetivos Periódicos 2024](../content/regular_stretch_goals.md)"

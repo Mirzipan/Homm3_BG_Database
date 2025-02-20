@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 09:42+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -745,7 +746,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/champions.md
 #, no-wrap
 msgid "Champions"
-msgstr ""
+msgstr "Campeones"
 
 #. type: Plain text
 #: docs/units/champions.md
@@ -756,7 +757,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Champions](../assets/units-castle-golden-champions-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Campeones](../assets/units-castle-golden-champions-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -768,7 +769,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Champions](../assets/units-castle-golden-champions-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Campeones](../assets/units-castle-golden-champions-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -779,6 +780,9 @@ msgid ""
 "        ![Neutral Champions](../assets/units-neutral-golden-champions.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Campeones Neutrales](../assets/units-neutral-golden-champions.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/champions.md
@@ -798,15 +802,15 @@ msgid ""
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :golden: | :golden: | :golden: |\n"
-"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| Ciudad | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :golden: | :golden: | :golden: |\n"
+"| Tipo | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
 "| :attack: | 5 | **6** | 4 |\n"
 "| :defense: | 2 | 2 | 2 |\n"
 "| :health_points: | 7 | 7 | 6 |\n"
 "| :initiative: | 7 | **9** | 8 |\n"
-"| Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
-"| Abilities | :effect_map: If your hero is on a field with Stables, this unit's reinforcement cost is reduced by 6 :gold:. | :unit_attack: If this unit's movement ends in a space other than where it started, you may reroll an [Attack die](../dice.md#attack-die). | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and apply both outcomes.<br>:unit_passive: Reroll this unit's all \"-1\" rolls. |\n"
+"| Coste | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
+"| Habilidades | :effect_map: Si tu héroe está en una casilla con Establos, el refuerzo de esta unidad se reduce en 6 :gold:. | :unit_attack: Si el movimiento de esta unidad finaliza en una casilla distinta a la inicial, puedes repetir un [dado de Ataque](../dice.md#attack-die). | :unit_attack: Lanza 2 [dados de Ataque](../dice.md#attack-die) y aplica ambos resultados.<br>:unit_passive: Esta unidad Repite todos los \"-1\" de la tirada. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/champions.md
@@ -814,8 +818,8 @@ msgid ""
 "**Neutral** - A -1 on the Attack die is always rerolled, even multiple "
 "times."
 msgstr ""
-"** Neutral ** - A -1 en el ataque de ataque siempre se revuelve, incluso "
-"varias veces."
+"** Neutral ** - Un -1 en el dado de Ataque siempre se vuelve a lanzar, "
+"incluso varias veces."
 
 #. type: Bullet: '- '
 #: docs/units/champions.md
@@ -824,6 +828,6 @@ msgid ""
 "[Manticores](manticores.md) receive +2 :defense:, as both Attack dice will "
 "always end up as a 0 or a 1."
 msgstr ""
-"** Neutral ** - Al atacar neutral [Manticores] (Manticores.md), los "
-"[Manticores] (Manticores.md) reciben +2: Defensa:, ya que ambos dados de "
-"ataque siempre terminarán como 0 o 1."
+"** Neutral ** - Al atacar a [Mantícoras](manticores.md) neutrales, las "
+"[Mantícoras](manticores.md) reciben +2 :defense:, ya que ambos dados de "
+"Ataque siempre acabarán en 0 o 1."

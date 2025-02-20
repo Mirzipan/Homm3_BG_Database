@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 09:09+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -556,7 +557,7 @@ msgstr "[Lista de Ciudades](../towns/index.md)"
 #: docs/heroes/lord_haart_castle.md docs/heroes/rion.md docs/heroes/valeska.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Castle](../towns/castle.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Castillo](../towns/castle.md)</p>\n"
 
 #. type: Title ##
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
@@ -623,40 +624,34 @@ msgstr "Catherine"
 #. type: Plain text
 #: docs/heroes/catherine.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>![Catherine](../assets/heroes-"
-"castle-might-catherine.webp){ width=540 align=right }</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>![Catherine](../assets/heroes-castle-might-catherine.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Catherine](../assets/heroes-castle-might-catherine.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/catherine.md docs/heroes/lord_haart_castle.md
 #: docs/heroes/valeska.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[:might: Knight](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[:might: Caballero](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/catherine.md docs/heroes/fiona.md
 #: docs/heroes/lord_haart_castle.md docs/heroes/lorelei.md
 #: docs/heroes/mutare.md docs/heroes/rashka.md docs/heroes/valeska.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
 
 #. type: Plain text
 #: docs/heroes/catherine.md docs/heroes/mephala.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Leadership](../abilities/leadership.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Leadership](../abilities/leadership.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Liderazgo](../abilities/leadership.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/catherine.md
 msgid "=== \"Crusaders Ⅰ\""
-msgstr "=== \"cruzados ⅰ\""
+msgstr "=== \"Cruzados Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/catherine.md
@@ -666,11 +661,14 @@ msgid ""
 "        ![Crusaders Ⅰ](../assets/hero_specialties-castle-catherine-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cruzados Ⅰ](../assets/hero_specialties-castle-catherine-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/catherine.md
 msgid "=== \"Crusaders Ⅳ\""
-msgstr "=== \"cruzados ⅳ\""
+msgstr "=== \"Cruzados Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/catherine.md
@@ -680,11 +678,14 @@ msgid ""
 "        ![Crusaders Ⅳ](../assets/hero_specialties-castle-catherine-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cruzados Ⅳ](../assets/hero_specialties-castle-catherine-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/catherine.md
 msgid "=== \"Crusaders Ⅵ\""
-msgstr "=== \"cruzados ⅵ\""
+msgstr "=== \"Cruzados Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/catherine.md
@@ -694,6 +695,9 @@ msgid ""
 "        ![Crusaders Ⅵ](../assets/hero_specialties-castle-catherine-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cruzados Ⅵ](../assets/hero_specialties-castle-catherine-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/catherine.md
@@ -705,18 +709,23 @@ msgid ""
 "| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Crusaders unit](../units/crusaders.md). |\n"
 "| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Crusaders unit](../units/crusaders.md). |\n"
 msgstr ""
+"| Nivel | Descripción |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: Tu [unidad](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unidad](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para [unidad Cruzados](../units/crusaders.md). |\n"
+"| Ⅳ | :ongoing: Para este Combate, la :health_points: de tu [unidad](../units/index.md) seleccionada se incrementa en 1.<br><br>Este efecto es doble para [unidad Cruzados](../units/crusaders.md). |\n"
+"| Ⅵ | :ongoing: Para este Combate, la :initiative: de tu [unidad](../units/index.md) seleccionada se incrementa en 1.<br><br>Este efecto es doble para [unidad Cruzados](../units/crusaders.md). |\n"
 
 #. type: Bullet: '- '
 #: docs/heroes/catherine.md
 msgid "Long Live The Queen - 1. Homecoming"
-msgstr "Long Live the Queen - 1. Homecoming"
+msgstr "Larga Vida a la Reina - 1. Regreso a Casa"
 
 #. type: Bullet: '- '
 #: docs/heroes/catherine.md docs/heroes/rion.md
 msgid "Long Live The Queen - 2. Guardian Angels"
-msgstr "Long Live the Queen - 2. Ángeles guardianes"
+msgstr "Larga Vida a la Reina - 2. Ángeles Guardianes"
 
 #. type: Bullet: '- '
 #: docs/heroes/catherine.md docs/heroes/rion.md
 msgid "Long Live The Queen - 3. Steadwick's Liberation"
-msgstr "Long Live the Queen - 3. Liberación de Steadwick"
+msgstr "Larga Vida a la Reina - 3. La Liberación de Steadwick"

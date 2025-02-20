@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 14:09+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -488,46 +489,35 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/spellbinders_hat.md docs/artifacts/sword_of_judgement.md
 #: docs/artifacts/titans_cuirass.md docs/artifacts/titans_gladius.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Relic "
-"Artifact](../keywords/relic_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Artefacto "
-"Reliquia](../keywords/relic_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Reliquia](../keywords/relic_artifact.md)</p>\n"
 
 #. type: Title #
 #: docs/artifacts/crown_of_dragontooth.md
 #, no-wrap
 msgid "Crown of Dragontooth"
-msgstr "Corona de dragontonoth"
+msgstr "Corona de Dientes de Dragón"
 
 #. type: Plain text
 #: docs/artifacts/crown_of_dragontooth.md
 msgid ""
-"![Crown of Dragontooth](../assets/artifacts_relic-"
+"![Crown of Dragontooth](../assets/artifacts_relic-crown_of_dragontooth.webp)"
+"{ width=\"340\" align=right }"
+msgstr ""
+"![Corona de Dientes de Dragón](../assets/artifacts_relic-"
 "crown_of_dragontooth.webp){ width=\"340\" align=right }"
-msgstr ""
 
 #. type: Plain text
 #: docs/artifacts/crown_of_dragontooth.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Select 2 "
-"[Spell](../spells/index.md) cards from your discard pile and put them back "
-"in your hand.<br><br>— OR —<br><br>:instant: Remove 1 "
-"[:spellpower:](../spells/index.md) from hand, then **Search(2)** "
-"[:spellpower:](../spells/index.md).</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Select 2 [Spell](../spells/index.md) cards from your discard pile and put them back in your hand.<br><br>— OR —<br><br>:instant: Remove 1 [:spellpower:](../spells/index.md) from hand, then **Search(2)** [:spellpower:](../spells/index.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Selecciona 2 cartas de [Hehizol](../spells/index.md) de tu pila de descarte y devuélvelas a tu mano.<br><br>— O —<br><br>:instant: Retira 1 [:spellpower:](../spells/index.md) de tu mano, luego **Buscar(2)** [:spellpower:](../spells/index.md).</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/crown_of_dragontooth.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*Your troops find a crown. They "
-"hand it to you, and you notice an inscription. It reads: \"Brains best "
-"brawn, and magic beats might. Heed my words, and you'll win every "
-"fight.\"*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*Your troops find a crown. They hand it to you, and you notice an inscription. It reads: \"Brains best brawn, and magic beats might. Heed my words, and you'll win every fight.\"*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Tus tropas encuentran una corona. Te la entregan y te fijas en una inscripción. Dice así: \"La inteligencia es mejor que la fuerza, y la magia vence a la fuerza. Presta atención a mis palabras y ganarás todos los combates.\"*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md
@@ -535,7 +525,7 @@ msgstr ""
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Dragon Scale Armor](dragon_scale_armor.md)"
-msgstr "[Dragon Scale Armor] (dragon_scale_armor.md)"
+msgstr "[Armadura de escamas de dragón](dragon_scale_armor.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
@@ -543,7 +533,7 @@ msgstr "[Dragon Scale Armor] (dragon_scale_armor.md)"
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Dragon Scale Shield](dragon_scale_shield.md)"
-msgstr "[Dragon Scale Shield] (dragon_scale_shield.md)"
+msgstr "[Escudo de Escamas de Dragón](dragon_scale_shield.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
@@ -551,18 +541,18 @@ msgstr "[Dragon Scale Shield] (dragon_scale_shield.md)"
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Dragon Wing Tabard](dragon_wing_tabard.md)"
-msgstr "[Dragon Wing Tabard] (dragon_wing_tabard.md)"
+msgstr "[Tabardo de Alas de Dragón](dragon_wing_tabard.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
 #: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Necklace of Dragonteeth](necklace_of_dragonteeth.md)"
-msgstr "[Collar de dragonteeth] (collar_of_dragonteeth.md)"
+msgstr "[Collar de Diente de Dragón](collar_of_dragonteeth.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
 #: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
 #: docs/artifacts/necklace_of_dragonteeth.md
 msgid "[Red Dragon Flame Tongue](red_dragon_flame_tongue.md)"
-msgstr "[Red Dragon Flame Lengua] (Red_dragon_flame_tongue.md)"
+msgstr "[Lengua de Llama de Dragón Rojo](Red_dragon_flame_tongue.md)"

@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 09:33+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -587,7 +588,7 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/chain_lightning.md
 #, no-wrap
 msgid "Chain Lightning"
-msgstr "Rayo de cadena"
+msgstr "Relámpago en Cadena"
 
 #. type: Plain text
 #: docs/spells/chain_lightning.md
@@ -595,33 +596,28 @@ msgid ""
 "![Chain Lightning](../assets/spells-chain_lightning.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Relámpago en Cadena](../assets/spells-chain_lightning.webp)"
+"{ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/chain_lightning.md docs/spells/counterstrike.md
 #: docs/spells/dimension_door.md docs/spells/fly.md
 #: docs/spells/summon_air_elemental.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Expert Air "
-"Spell](school_of_air_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Expert Air Spell](school_of_air_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo de Aire Experto](school_of_air_magic.md)</p>\n"
 
 #. type: Plain text
 #: docs/spells/chain_lightning.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:activation: Select a "
-"[unit](../units/index.md) and another 2 [units](../units/index.md) closest "
-"to it. Allocate \\* :damage:, starting with the first selected "
-"[unit](../units/index.md).<br><br>:empower: 0 ➣ 1/1/1 :damage:<br>:empower: "
-"2 ➣ 2/1/1 :damage:<br>:empower: 4 ➣ 3/2/1 :damage:<br><br>— OR "
-"—<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:activation: Select a [unit](../units/index.md) and another 2 [units](../units/index.md) closest to it. Allocate \\* :damage:, starting with the first selected [unit](../units/index.md).<br><br>:empower: 0 ➣ 1/1/1 :damage:<br>:empower: 2 ➣ 2/1/1 :damage:<br>:empower: 4 ➣ 3/2/1 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:activation: Selecciona una [unidad](../units/index.md) y otras 2 [unidades](../units/index.md) cercanas a ella. Asigna \\* :damage:, empezando por la primera [unidad](../units/index.md) seleccionada.<br><br>:empower: 0 ➣ 1/1/1 :damage:<br>:empower: 2 ➣ 2/1/1 :damage:<br>:empower: 4 ➣ 3/2/1 :damage:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/chain_lightning.md
 msgid "The :damage: from Chain Lightning also applies to friendly units."
-msgstr "El: Daño: del rayo de cadena también se aplica a unidades amigables."
+msgstr ""
+"El :damage: de Relámpago en Cadena también se aplica a unidades aliadas."
 
 #. type: Bullet: '- '
 #: docs/spells/chain_lightning.md
@@ -630,6 +626,6 @@ msgid ""
 "the caster chooses which one of them receives the second damage and which "
 "one receives the third."
 msgstr ""
-"Si múltiples unidades están a la misma distancia del objetivo de este "
-"hechizo, el lanzador elige cuál de ellos recibe el segundo daño y cuál "
-"recibe el tercero."
+"Si varias unidades se encuentran a la misma distancia del objetivo de este "
+"hechizo, el lanzador elige cuál de ellas recibe el segundo daño y cuál el "
+"tercero."

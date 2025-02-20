@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 14:17+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -554,12 +555,8 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/units/crusaders.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/hydras.md docs/units/liches.md docs/units/titans.md
 #, no-wrap
-msgid ""
-"[^1]: Not officially confirmed by game designers, and is therefore "
-"considered a Community rule."
-msgstr ""
-"[^1]: No se confirma oficialmente por los diseñadores de juegos y, por lo "
-"tanto, se considera una regla comunitaria."
+msgid "[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule."
+msgstr "[^1]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -769,7 +766,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr "Héroes Con Una Especialidad"
+msgstr "Héroes Con Especialidad"
 
 #. type: Title #
 #: docs/units/crusaders.md
@@ -786,7 +783,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Crusaders](../assets/units-castle-silver-crusaders-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Cruzados](../assets/units-castle-silver-crusaders-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -798,7 +795,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Crusaders](../assets/units-castle-silver-crusaders-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Cruzados](../assets/units-castle-silver-crusaders-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -809,6 +806,9 @@ msgid ""
 "        ![Neutral Crusaders](../assets/units-neutral-silver-crusaders.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cruzados Neutrales](../assets/units-neutral-silver-crusaders.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/crusaders.md
@@ -828,20 +828,20 @@ msgid ""
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :silver: | :silver: | :silver: |\n"
-"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| Ciudad | [Castillo](../towns/castle.md) | [Castillo](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :silver: | :silver: | :silver: |\n"
+"| Tipo | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
 "| :attack: | 3 | **4** | 3 |\n"
 "| :defense: | 2 | 2 | 2 |\n"
 "| :health_points: | 4 | 4 | 4 |\n"
 "| :initiative: | 5 | **6** | 5 |\n"
-"| Cost | 6 :gold: | 10 :gold: | 11 :gold: |\n"
-"| Abilities | - | :unit_attack: You can reroll every \"0\" on this unit's [Attack die](../dice.md#attack-die). | :unit_passive: During any attack, roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher outcome. |\n"
+"| Coste | 6 :gold: | 10 :gold: | 11 :gold: |\n"
+"| Habilidades | - | :unit_attack: Puedes Puedes repetir cada \"0\" en el [Dado de ataque](../dice.md#attack-die) de esta unidad. | :unit_passive: Durante cualquier ataque, lanza 2 [dados de Ataque](../dice.md#attack-die) y resuelve el valor superior. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/crusaders.md
 msgid "[:might: Catherine](../heroes/catherine.md#specialty)"
-msgstr ""
+msgstr "[:might: Catherine](../heroes/catherine.md#specialty)"
 
 #. type: Bullet: '- '
 #: docs/units/crusaders.md
@@ -849,8 +849,8 @@ msgid ""
 "**Pack and Neutral** - The [Attack die](../dice.md#attack-die) may be "
 "rerolled until the number on the die no longer equals \"0\"."
 msgstr ""
-"**Manada and Neutral** - The [Attack die](../dice.md#attack-die) may be "
-"rerolled until the number on the die no longer equals \"0\"."
+"**Manada y Neutral** - El [dado de Ataque](../dice.md#attack-die) debe ser "
+"repetido hasta que el número del dado no sea igual a \"0\"."
 
 #. type: Bullet: '- '
 #: docs/units/crusaders.md
@@ -859,3 +859,7 @@ msgid ""
 "Knights](dread_knights.md), they're abilities cancel out and a single "
 "[Attack die](../dice.md#attack-die) is rolled as if it was a regular attack."
 msgstr ""
+"[^1] **Neutral** - Si los Cruzados toman represalias contra unos pocos "
+"[Caballeros del Terror](dread_knights.md), sus habilidades se anulan y se "
+"tira un único [Dado de ataque](../dice.md#attack-die) como si fuera un "
+"ataque normal."

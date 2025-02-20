@@ -621,7 +621,7 @@ msgstr "[Ⅵ](../difficulties.md) [Caja de Pandora](../fields/pandoras_box.md)"
 #: docs/tiles/c1.md docs/tiles/c3.md
 msgid "[Ⅶ](../difficulties.md) [Dragon Utopia](../fields/dragon_utopia.md)"
 msgstr ""
-"[Ⅶ](../difficulties.md) [Utopía del Dragon](../fields/dragon_utopia.md)"
+"[Ⅶ](../difficulties.md) [Utopía del Dragón](../fields/dragon_utopia.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md

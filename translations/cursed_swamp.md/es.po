@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 12:24+0200\n"
-"PO-Revision-Date: 2024-10-21 12:24+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 14:46+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -501,7 +502,7 @@ msgstr "[Lista de Hechizos](../spells/index.md)"
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -547,7 +548,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -563,7 +564,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Event](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Evento](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -578,13 +579,13 @@ msgstr ""
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 msgid "[List of Events](index.md)"
-msgstr "[Lista de eventos] (index.md)"
+msgstr "[Lista de Eventos](index.md)"
 
 #. type: Title #
 #: docs/events/cursed_swamp.md
 #, no-wrap
 msgid "Cursed Swamp"
-msgstr "Pantano"
+msgstr "Pantano Maldito"
 
 #. type: Plain text
 #: docs/events/cursed_swamp.md
@@ -592,29 +593,17 @@ msgid ""
 "![Cursed Swamp](../assets/events-cursed_swamp.webp){ width=\"475\" "
 "align=right }"
 msgstr ""
+"![Pantano Maldito](../assets/events-cursed_swamp.webp){ width=\"475\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/events/cursed_swamp.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>**Each player chooses one "
-"option:** <br>Gain Negative Morale. Then roll 2 :treasure: and choose one "
-"result.<br><br>— OR —<br><br>Remove one or more "
-"[:spellpower:](../spells/index.md) from your hand; if you remove at least 2,"
-" **Search (3)** the Artifact deck.<br><br>— OR —<br><br>Discard your "
-"cheapest unit.<br><br>— OR —<br><br>Only for "
-"[:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or "
-":silver: for free.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 :treasure: and choose one result.<br><br>— OR —<br><br>Remove one or more [:spellpower:](../spells/index.md) from your hand; if you remove at least 2, **Search (3)** the Artifact deck.<br><br>— OR —<br><br>Discard your cheapest unit.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for free.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>**Cada jugador elige una opción:** <br>Gana Moral Negativa. Luego tira 2 :treasure: y elige un resultado.<br><br>— O —<br><br>Retira uno o más [:spellpower:](../spells/index.md) de tu mano; si retiras al menos 2, **Busca (3)** del mazo de Artefacto.<br><br>— O —<br><br>Descarta tu unidad más barata.<br><br>— O —<br><br>Solo para [:necro:](../towns/necropolis.md). **Refuerza** una de tus :bronze: o :silver: gratis.</p>\n"
 
 #. type: Plain text
 #: docs/events/cursed_swamp.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>**On your journey, you wander into"
-" a swamp. Only after some time do you notice the eerie atmosphere "
-"surrounding this place and the eyes lurking just beneath the water's "
-"surface. Eyes of the dead. Your army trembles in panic while you gather your"
-" thoughts. Will you force them to go on or, maybe, shield them with your "
-"magic?**</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>**On your journey, you wander into a swamp. Only after some time do you notice the eerie atmosphere surrounding this place and the eyes lurking just beneath the water's surface. Eyes of the dead. Your army trembles in panic while you gather your thoughts. Will you force them to go on or, maybe, shield them with your magic?**</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>**En tu viaje, te adentras en un pantano. Sólo al cabo de un rato te das cuenta de la inquietante atmósfera que rodea este lugar y de los ojos que acechan bajo la superficie del agua. Los ojos de los muertos. Tu ejército tiembla de pánico mientras tú reflexionas. ¿Los obligarás a seguir adelante o los protegerás con tu magia?**</p>\n"

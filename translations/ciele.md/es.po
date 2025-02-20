@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 12:58+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -424,7 +425,7 @@ msgstr "Ver También"
 #: docs/spells/air_shield.md docs/spells/sacrifice.md docs/units/fangarm.md
 #: docs/units/leprechaun.md docs/units/satyrs.md docs/units/steel_golems.md
 msgid "[Regular Stretch Goals 2024](../content/regular_stretch_goals.md)"
-msgstr ""
+msgstr "[Objetivos Periódicos 2024](../content/regular_stretch_goals.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -541,54 +542,44 @@ msgstr "[Lista de Héroes](index.md)"
 #: docs/heroes/ciele.md
 #, no-wrap
 msgid "Ciele"
-msgstr "Objetivos"
+msgstr "Ciele"
 
 #. type: Plain text
 #: docs/heroes/ciele.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>![Ciele](../assets/player-deck-"
-"back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>![Ciele](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Ciele](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ciele.md docs/heroes/luna.md docs/heroes/tarnum_conflux.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[:magic: "
-"Elementalist](index.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:magic: Elementalist](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:magic: Elementalista](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ciele.md docs/heroes/erdamon.md docs/heroes/luna.md
 #: docs/heroes/monere.md docs/heroes/pasis.md docs/heroes/tarnum_conflux.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Conflux](../towns/conflux.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Conflux](../towns/conflux.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Conflujo](../towns/conflux.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ciele.md docs/heroes/cyra.md docs/heroes/dracon.md
 #: docs/heroes/luna.md docs/heroes/solmyr.md docs/heroes/tarnum_conflux.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ciele.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Water "
-"Magic](../abilities/water_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Water Magic](../abilities/water_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Magia de Agua](../abilities/water_magic.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ciele.md
 msgid "=== \"Magic Arrow Ⅰ\""
-msgstr "=== \"Flecha mágica ⅰ\""
+msgstr "=== \"Flecha Mágica Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/ciele.md
@@ -598,11 +589,14 @@ msgid ""
 "        ![Magic Arrow Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Flecha Mágica Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/ciele.md
 msgid "=== \"Magic Arrow Ⅳ\""
-msgstr "=== \"Flecha mágica ⅳ\""
+msgstr "=== \"Flecha Mágica Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/ciele.md
@@ -612,11 +606,14 @@ msgid ""
 "        ![Magic Arrow Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Flecha Mágica Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/ciele.md
 msgid "=== \"Magic Arrow Ⅵ\""
-msgstr "=== \"Flecha mágica ⅵ\""
+msgstr "=== \"Flecha Mágica Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/ciele.md
@@ -626,6 +623,9 @@ msgid ""
 "        ![Magic Arrow Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Flecha Mágica Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/ciele.md
@@ -637,3 +637,8 @@ msgid ""
 "| Ⅳ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and cast it.<br><br>— OR —<br><br>:instant: +1 :empower: |\n"
 "| Ⅵ | 🚧 Selected unit suffers 2 :damage:.<br><br>— OR —<br><br>:instant: +2 :empower: |\n"
 msgstr ""
+"| Level | Description |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: Coge un hechizo [Flecha Mágica](../spells/magic_arrow.md) de tu pila de descartes y ponlo en tu mano.<br><br>— O —<br><br>:instant: +1 :empower: |\n"
+"| Ⅳ | :instant: Coge un hechizo [Flecha Mágica](../spells/magic_arrow.md) de tu pila de descartes y lánzalo.<br><br>— O —<br><br>:instant: +1 :empower: |\n"
+"| Ⅵ | 🚧 La unidad seleccionada sufre 2 :damage:.<br><br>— O —<br><br>:instant: +2 :empower: |\n"

@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 12:24+0200\n"
-"PO-Revision-Date: 2024-10-21 12:24+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 09:50+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -497,15 +498,15 @@ msgid ""
 "[^1] When played with miniatures (e.g. such as when playing on the large "
 "battlefield), this ability cannot be used to recruit units from a faction "
 "controller by another player, nor to recruit neutral units that are already "
-"recruited by another player. Should a player draw such card, that may not be"
-" recruited, they shall draw a replacement card instead."
+"recruited by another player. Should a player draw such card, that may not "
+"be recruited, they shall draw a replacement card instead."
 msgstr ""
-"[^1] Cuando se juega con miniaturas (por ejemplo, como cuando se juega en el"
-" gran campo de batalla), esta habilidad no puede usarse para reclutar "
-"unidades de un controlador de facción por otro jugador, ni para reclutar "
-"unidades neutrales que ya están reclutadas por otro jugador.Si un jugador "
-"dibuja dicha carta, que no se puede reclutar, dibujará una tarjeta de "
-"reemplazo."
+"[^1] Cuando se juega con miniaturas (ej. cuando se juega en el gran campo "
+"de batalla), esta habilidad no puede utilizarse para reclutar unidades de "
+"una facción controlada por otro jugador, ni para reclutar unidades "
+"neutrales que ya estén reclutadas por otro jugador. Si un jugador roba una "
+"carta de este tipo, que no puede ser reclutada, deberá robar una carta de "
+"reemplazo en su lugar."
 
 #. type: Link reference
 #: docs/abilities/diplomacy.md
@@ -515,14 +516,8 @@ msgstr ""
 #: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
 #, no-wrap
-msgid ""
-"[^1]: Exceptions for specific game modes. This explanation is not valid for "
-"all game modes. The specific variant for the game mode is mentioned in the "
-"text."
-msgstr ""
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es "
-"válida para todos los modos de juego.La variante específica para el modo de "
-"juego se menciona en el texto."
+msgid "[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text."
+msgstr "[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto."
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -568,7 +563,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -614,7 +609,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -649,12 +644,8 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Astrologers "
-"Proclaim](index.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Proclama de los "
-"Astrólogos](index.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Proclama de los Astrólogos](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -695,7 +686,7 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #, no-wrap
 msgid "Charlie and his Circus"
-msgstr "Charlie y su circo"
+msgstr "Charlie y su Circo"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -703,34 +694,26 @@ msgid ""
 "![Charlie and his Circus](../assets/astrologers_proclaim-"
 "charlie_and_his_circus.webp){ width=\"475\" align=right }"
 msgstr ""
+"![Charlie y su Circo](../assets/astrologers_proclaim-charlie_and_his_circus."
+"webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>At the beginning of this round and"
-" the next one, each player can draw up to 3 cards from any [Neutral "
-"Units](../units/index.md) deck(s) and **Recruit** one of them. The Players "
-"must still :pay: the recruitment cost and have the corresponding "
-"[Dwelling](../towns/index.md) in their [Town(s)](../towns/index.md). Shuffle"
-" the remaining cards back into their respective deck(s) afterwards.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>At the beginning of this round and the next one, each player can draw up to 3 cards from any [Neutral Units](../units/index.md) deck(s) and **Recruit** one of them. The Players must still :pay: the recruitment cost and have the corresponding [Dwelling](../towns/index.md) in their [Town(s)](../towns/index.md). Shuffle the remaining cards back into their respective deck(s) afterwards.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Al principio de esta ronda y de la siguiente, cada jugador puede robar hasta 3 cartas de cualquier mazo de [Unidades Neutrales](../units/index.md) y **Reclutar** una de ellas. Los Jugadores aún deben :pay: el coste de reclutamiento y tener la [Vivienda](../towns/index.md) correspondiente en su [Ciudad](../towns/index.md). Baraja después las cartas restantes en su mazo correspondiente.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*Hi, Hero! Don't you want a "
-"balloon? I, Hero, am Charlie, the Dancing Clown. There are orcs, trolls, and"
-" all sorts of surprises down here. And balloons, too, all colors!*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*Hi, Hero! Don't you want a balloon? I, Hero, am Charlie, the Dancing Clown. There are orcs, trolls, and all sorts of surprises down here. And balloons, too, all colors!*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*¡Hola, Héroe! ¿No quieres un globo? Yo, Héroe, soy Charlie, el Payaso Bailarín. Hay orcos, trolls y todo tipo de sorpresas aquí abajo. Y globos también, ¡de todos los colores!*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
 msgid ":azure: units may *not* be recruited via this card."
-msgstr ""
-" :azure: Las unidades pueden * no * ser reclutadas a través de esta tarjeta."
+msgstr "Las unidades :azure: no pueden ser reclutadas a través de esta carta."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md

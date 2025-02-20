@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 14:38+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -576,10 +577,8 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/forgetfulness.md docs/spells/remove_obstacle.md
 #: docs/spells/weakness.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Basic Water "
-"Spell](school_of_water_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Basic Water Spell](school_of_water_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Básico de Agua](school_of_water_magic.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/bless.md docs/spells/cure.md docs/spells/dispel.md
@@ -590,7 +589,7 @@ msgstr ""
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr "[School of Water Magic] (School_of_water_magic.md)"
+msgstr "[Escuela de Magia de Agua](school_of_water_magic.md)"
 
 #. type: Title #
 #: docs/spells/cure.md
@@ -601,28 +600,23 @@ msgstr "Curar"
 #. type: Plain text
 #: docs/spells/cure.md
 msgid "![Cure](../assets/spells-cure.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Curar](../assets/spells-cure.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/cure.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Remove any effect or "
-":paralysis: from the selected [unit](../units/index.md), and remove from "
-"this [unit](../units/index.md) up to:<br><br>:empower: 0 ➣ 1 "
-":damage:<br>:empower: 1 ➣ 2 :damage:<br>:empower: 2 ➣ 3 :damage:<br><br>— OR"
-" —<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), and remove from this [unit](../units/index.md) up to:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 1 ➣ 2 :damage:<br>:empower: 2 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Retira cualquier efecto o :paralysis: de la [unidad](../units/index.md) seleccionada, y retira de esta [unidad](../units/index.md) hasta:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 1 ➣ 2 :damage:<br>:empower: 2 ➣ 3 :damage:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/cure.md
 msgid "[^1] It is uncertain what it meant by \"effect\" here."
-msgstr "[^1] Es incierto lo que significaba \"efecto\" aquí."
+msgstr "[^1] No está claro qué se entiende aquí por «efecto»."
 
 #. type: Bullet: '- '
 #: docs/spells/cure.md
 msgid "[^2] Cure can only be cast on a friendly unit."
-msgstr "[^2] La cura solo se puede lanzar en una unidad amigable."
+msgstr "[^2] La curación sólo puede ser lanzada sobre una unidad aliada."
 
 #. type: Bullet: '- '
 #: docs/spells/cure.md
@@ -630,21 +624,17 @@ msgid ""
 "[^2] The removal of an effect is optional. A positive effect does not have "
 "to be removed and may therefore remain active."
 msgstr ""
-"[^2] La eliminación de un efecto es opcional.No tiene que eliminarse un "
-"efecto positivo y, por lo tanto, puede permanecer activo."
+"[^2] La eliminación de un efecto es opcional. Un efecto positivo no tiene "
+"que ser eliminado y por lo tanto puede permanecer activo."
 
 #. type: Link reference
 #: docs/spells/cure.md
 #, no-wrap
 msgid "[^1]: Open question that has not yet been answered."
-msgstr "[^1]: Pregunta abierta que aún no ha sido respondida."
+msgstr "[^1]: Pregunta abierta que aún no tiene respuesta."
 
 #. type: Link reference
 #: docs/spells/cure.md
 #, no-wrap
-msgid ""
-"[^2]: Not officially confirmed by game designers, and is therefore "
-"considered a Community rule."
-msgstr ""
-"[^2]: No se confirma oficialmente por los diseñadores de juegos y, por lo "
-"tanto, se considera una regla comunitaria."
+msgid "[^2]: Not officially confirmed by game designers, and is therefore considered a Community rule."
+msgstr "[^2]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria."
