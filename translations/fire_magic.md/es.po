@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-20 16:00+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -52,7 +53,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -120,16 +121,16 @@ msgid ""
 "does, however, not add the two effects, and the ability is put into the "
 "discard pile after being played."
 msgstr ""
-"El efecto experto se puede jugar desde la mano o desde el campo.Sin embargo,"
-" esto no agrega los dos efectos, y la habilidad se pone en la pila de "
-"descarte después de ser jugada."
+"El efecto experto puede jugarse desde la mano o desde el campo. Esto, sin "
+"embargo, no suma los dos efectos, y la habilidad se pone en la pila de "
+"descartes después de ser jugada."
 
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md docs/abilities/earth_magic.md
 #: docs/abilities/fire_magic.md docs/abilities/water_magic.md
 #: docs/artifacts/inexhaustible_cart_of_ore.md
 msgid "See [Permanent Effect](../keywords/permanent_effect.md)"
-msgstr ""
+msgstr "Ver [Efecto Permanente](../keywords/permanent_effect.md)"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -591,7 +592,7 @@ msgstr "Héroes con Habilidad de Inicio"
 #: docs/abilities/fire_magic.md
 #, no-wrap
 msgid "Fire Magic"
-msgstr "Magia de fuego"
+msgstr "Magia de Fuego"
 
 #. type: Plain text
 #: docs/abilities/fire_magic.md
@@ -603,24 +604,19 @@ msgstr ""
 #. type: Plain text
 #: docs/abilities/fire_magic.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for "
-"spells from [School of Fire Magic](../spells/school_of_fire_magic.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for spells from [School of Fire Magic](../spells/school_of_fire_magic.md).</p>\n"
 msgstr ""
 
 #. type: Plain text
 #: docs/abilities/fire_magic.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>While casting :spellpower: from "
-"the [School of Fire](../spells/school_of_fire_magic.md), you can discard "
-"this card, then gain +3 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>While casting :spellpower: from the [School of Fire](../spells/school_of_fire_magic.md), you can discard this card, then gain +3 :empower:.</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/abilities/fire_magic.md
 msgid "[:magic: Luna](../heroes/luna.md)"
-msgstr ""
+msgstr "[:magic: Luna](../heroes/luna.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/fire_magic.md
