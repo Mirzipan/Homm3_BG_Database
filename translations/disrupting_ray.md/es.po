@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-21 14:07+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -492,10 +493,8 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/spells/fortune.md docs/spells/haste.md docs/spells/lightning_bolt.md
 #: docs/spells/precision.md docs/spells/view_air.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Basic Air "
-"Spell](school_of_air_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Basic Air Spell](school_of_air_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Básico de Aire](school_of_air_magic.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/chain_lightning.md
@@ -539,7 +538,7 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/disrupting_ray.md
 #, no-wrap
 msgid "Disrupting Ray"
-msgstr "Interrumpir a Ray"
+msgstr "Rayo Perturbador"
 
 #. type: Plain text
 #: docs/spells/disrupting_ray.md
@@ -547,14 +546,11 @@ msgid ""
 "![Disrupting Ray](../assets/spells-disrupting_ray.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Rayo Perturbador](../assets/spells-disrupting_ray.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/spells/disrupting_ray.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:ongoing: Until the end of the "
-"Combat, the selected \\* [unit](../units/index.md) cannot use their special "
-"ability:<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or "
-":silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR "
-"—<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: Until the end of the Combat, the selected \\* [unit](../units/index.md) cannot use their special ability:<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Hasta el final del Combate, la \\*[unit](../units/index.md) seleccionada no puede usar su habilidad especial:<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: o :silver:<br>:empower: 2 ➣ \\*:bronze: o :silver: o :golden:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"

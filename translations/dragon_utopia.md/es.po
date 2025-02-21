@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 16:09+0000\n"
-"PO-Revision-Date: 2024-10-21 16:09+0000\n"
+"PO-Revision-Date: 2025-02-21 14:53+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -320,7 +321,7 @@ msgstr "Ver También"
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -383,7 +384,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -431,29 +432,27 @@ msgstr "[Lista de Losetas](../tiles/index.md)"
 #: docs/fields/dragon_utopia.md
 #, no-wrap
 msgid "Dragon Utopia"
-msgstr "Utopía de dragón"
+msgstr "Utopía del Dragón"
 
 #. type: Plain text
 #: docs/fields/dragon_utopia.md
 msgid ""
-"![Dragon Utopia Map Location](../assets/locations-dragon_utopia.webp){ "
-"width=\"475\" align=right }"
+"![Dragon Utopia Map Location](../assets/locations-dragon_utopia.webp)"
+"{ width=\"475\" align=right }"
 msgstr ""
+"![Ubicación en el mapa de Utopía del Dragón](../assets/locations-"
+"dragon_utopia.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/fields/dragon_utopia.md docs/fields/mine.md docs/fields/obelisk.md
 #: docs/fields/random_town.md docs/fields/settlement.md
 #: docs/fields/star_axis.md docs/fields/town.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Flaggable "
-"Field](../keywords/flaggable_field.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Flaggable Field](../keywords/flaggable_field.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Zona Señalizable](../keywords/flaggable_field.md)</p>\n"
 
 #. type: Plain text
 #: docs/fields/dragon_utopia.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>Effects depend on the "
-"Scenario.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>Effects depend on the Scenario.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Los efectos dependen del escenario.</p>\n"

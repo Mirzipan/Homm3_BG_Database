@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 12:24+0200\n"
-"PO-Revision-Date: 2024-10-21 12:24+0200\n"
+"PO-Revision-Date: 2025-02-21 14:02+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -52,7 +53,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -629,34 +630,28 @@ msgstr "Diplomacia"
 #. type: Plain text
 #: docs/abilities/diplomacy.md
 msgid ""
-"![Diplomacy](../assets/abilities-diplomacy.webp){ width=\"340\" align=right "
-"}"
+"![Diplomacy](../assets/abilities-diplomacy.webp){ width=\"340\" "
+"align=right }"
 msgstr ""
+"![Diplomacia](../assets/abilities-diplomacy.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/abilities/diplomacy.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:effect_map: For every Dwelling "
-"you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You "
-"can **Recruit** one of these [units](../units/index.md) if you :pay: its "
-"Recruitment cost.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:effect_map: For every Dwelling you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can **Recruit** one of these [units](../units/index.md) if you :pay: its Recruitment cost.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:effect_map: Por cada Vivienda que tengas, roba 1 carta de la [Unidad Neutral](../units/ index.md) correspondiente. Puedes **Reclutar** una de estas [unidades](../units/index.md) si :pay: su coste de Reclutamiento..</p>\n"
 
 #. type: Plain text
 #: docs/abilities/diplomacy.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Skip Combat with "
-"[Neutral Units](../units/index.md) on a field whose Field Difficulty is "
-"equal to your Hero's level. Visit the field. This Hero gains no "
-"Experience.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Skip Combat with [Neutral Units](../units/index.md) on a field whose Field Difficulty is equal to your Hero's level. Visit the field. This Hero gains no Experience.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Salta el Combate con [Unidades Neutrales](../units/index.md) en una zona cuya Dificultad de Zona sea igual al nivel de tu Héroe. Visita el lugar. Este Héroe no gana Experiencia.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/abilities/diplomacy.md
 msgid "[:magic: Cyra](../heroes/cyra.md)"
-msgstr ""
+msgstr "[:magic: Cyra](../heroes/cyra.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/diplomacy.md
@@ -664,8 +659,8 @@ msgid ""
 "If the player already has a :golden: dwelling, they draw cards from both, "
 "the :golden: and :azure: Neutral decks."
 msgstr ""
-"Si el jugador ya tiene un: Golden: Viviendo, dibujan cartas de ambos, The "
-"Golden: Y :azure: Mubas neutrales."
+"Si el jugador ya tiene una vivienda :golden:, roba cartas de ambos mazos "
+"Neutrales, el :golden: y el :azure:."
 
 #. type: Bullet: '- '
 #: docs/abilities/diplomacy.md
@@ -673,8 +668,8 @@ msgid ""
 "The recruitment costs for neutral units can be found on the card of the "
 "respective unit."
 msgstr ""
-"Los costos de reclutamiento para unidades neutrales se pueden encontrar en "
-"la tarjeta de la unidad respectiva."
+"Los costes de reclutamiento de las unidades neutrales se encuentran en la "
+"ficha de la unidad correspondiente."
 
 #. type: Bullet: '- '
 #: docs/abilities/diplomacy.md
@@ -683,10 +678,10 @@ msgid ""
 "recruitment token shall not be flipped. This means this ability may be used "
 "even after the player has already recruited units during this round."
 msgstr ""
-"Para el reclutamiento que ocurre como resultado de usar esta capacidad, el "
-"token de reclutamiento no se volteará.Esto significa que esta habilidad se "
-"puede usar incluso después de que el jugador ya haya reclutado unidades "
-"durante esta ronda."
+"Para el reclutamiento que ocurre como resultado del uso de esta habilidad, "
+"la ficha de reclutamiento no será volteada. Esto significa que esta "
+"habilidad puede utilizarse incluso después de que el jugador ya haya "
+"reclutado unidades durante esta ronda."
 
 #. type: Bullet: '- '
 #: docs/abilities/diplomacy.md
@@ -695,15 +690,15 @@ msgid ""
 "[^1] When played with miniatures (e.g. such as when playing on the large "
 "battlefield), this ability cannot be used to recruit units from a faction "
 "controller by another player, nor to recruit neutral units that are already "
-"recruited by another player. Should a player draw such card, that may not be"
-" recruited, they shall draw a replacement card instead."
+"recruited by another player. Should a player draw such card, that may not "
+"be recruited, they shall draw a replacement card instead."
 msgstr ""
-"[^1] Cuando se juega con miniaturas (por ejemplo, como cuando se juega en el"
-" gran campo de batalla), esta habilidad no puede usarse para reclutar "
-"unidades de un controlador de facción por otro jugador, ni para reclutar "
-"unidades neutrales que ya están reclutadas por otro jugador.Si un jugador "
-"dibuja dicha carta, que no se puede reclutar, dibujará una tarjeta de "
-"reemplazo."
+"[^1] Cuando se juega con miniaturas ( ej. cuando se juega en el campo de "
+"batalla grande), esta habilidad no puede ser usada para reclutar unidades "
+"de una facción controlada por otro jugador, ni para reclutar unidades "
+"neutrales que ya estén reclutadas por otro jugador. Si un jugador roba una "
+"carta de este tipo, que no puede ser reclutada, deberá robar una carta de "
+"reemplazo en su lugar."
 
 #. type: Link reference
 #: docs/abilities/diplomacy.md
@@ -713,11 +708,5 @@ msgstr ""
 #: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
 #, no-wrap
-msgid ""
-"[^1]: Exceptions for specific game modes. This explanation is not valid for "
-"all game modes. The specific variant for the game mode is mentioned in the "
-"text."
-msgstr ""
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es "
-"válida para todos los modos de juego.La variante específica para el modo de "
-"juego se menciona en el texto."
+msgid "[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text."
+msgstr "[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto."

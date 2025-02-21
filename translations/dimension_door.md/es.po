@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-21 13:21+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -531,16 +532,14 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/dimension_door.md docs/spells/fly.md
 #: docs/spells/summon_air_elemental.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Expert Air "
-"Spell](school_of_air_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Expert Air Spell](school_of_air_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo de Aire Experto](school_of_air_magic.md)</p>\n"
 
 #. type: Title #
 #: docs/spells/dimension_door.md
 #, no-wrap
 msgid "Dimension Door"
-msgstr "Puerta de dimensión"
+msgstr "Puerta Dimensional"
 
 #. type: Plain text
 #: docs/spells/dimension_door.md
@@ -548,28 +547,25 @@ msgid ""
 "![Dimension Door](../assets/spells-dimension_door.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Puerta Dimensional](../assets/spells-dimension_door.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/spells/dimension_door.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:effect_map: Move a "
-"[Hero](../heroes/index.md) up to \\* field(s). Ignore any obstacles and "
-"fields in-between and resolve the last one normally.<br><br>:empower: 0 ➣ "
-"\\*1<br>:empower: 2 ➣ \\*2<br>:empower: 4 ➣ \\*3<br><br>— OR "
-"—<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:effect_map: Move a [Hero](../heroes/index.md) up to \\* field(s). Ignore any obstacles and fields in-between and resolve the last one normally.<br><br>:empower: 0 ➣ \\*1<br>:empower: 2 ➣ \\*2<br>:empower: 4 ➣ \\*3<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:effect_map: Mueve un [Héroe](../heroes/index.md) hasta \\* zona(s). Ignora los obstáculos y zonas intermedias y resuelve la última con normalidad.<br><br>:empower: 0 ➣ \\*1<br>:empower: 2 ➣ \\*2<br>:empower: 4 ➣ \\*3<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/dimension_door.md
 msgid ""
-"Dimension Door can only move the caster's Hero, not a Hero controlled by any"
-" other player."
+"Dimension Door can only move the caster's Hero, not a Hero controlled by "
+"any other player."
 msgstr ""
-"Dimension Door solo puede mover al héroe del lanzador, no un héroe "
-"controlado por ningún otro jugador."
+"La Puerta Dimensional sólo puede mover al Héroe del lanzador, no a un Héroe "
+"controlado por cualquier otro jugador."
 
 #. type: Bullet: '- '
 #: docs/spells/dimension_door.md
 msgid "May be used to jump over blocked fields."
-msgstr "Se puede usar para saltar sobre campos bloqueados."
+msgstr "Puede utilizarse para saltar zonas bloqueadas."

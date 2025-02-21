@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-21 10:11+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -427,7 +428,7 @@ msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 #: docs/abilities/scholar.md docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/explorers.md docs/astrologers_proclaim/hero.md
 msgid "[List of Statistics](../statistics/index.md)"
-msgstr ""
+msgstr "[Lista de Estadísticas](../statistics/index.md)"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -473,7 +474,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -519,7 +520,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -554,12 +555,8 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Astrologers "
-"Proclaim](index.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Proclama de los "
-"Astrólogos](index.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Proclama de los Astrólogos](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -600,30 +597,25 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/dancing_imp.md
 #, no-wrap
 msgid "Dancing Imp"
-msgstr "Imp bailando"
+msgstr "Gnomo Bailarín"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/dancing_imp.md
 msgid ""
-"![Dancing Imp](../assets/astrologers_proclaim-dancing_imp.webp){ "
-"width=\"475\" align=right }"
+"![Dancing Imp](../assets/astrologers_proclaim-dancing_imp.webp)"
+"{ width=\"475\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/astrologers_proclaim/dancing_imp.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>Each player can Remove a "
-"[Statistic](../statistics/index.md) card from their discard pile or hand to "
-"gain 1 [Empowered Statistic](../statistics/index.md) card of the same "
-"type.</p>\n"
-msgstr ""
+"![Gnomo Bailarín](../assets/astrologers_proclaim-dancing_imp.webp)"
+"{ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/dancing_imp.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*Welcome to the hell hole, it gets"
-" worse here every day.<br>Learn to live like a flame beast in the pit where "
-"we play.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>Each player can Remove a [Statistic](../statistics/index.md) card from their discard pile or hand to gain 1 [Empowered Statistic](../statistics/index.md) card of the same type.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Cada jugador puede Retirar una carta de [Estadística](../statistics/index.md) de su pila de descartes o de su mano para ganar 1 carta de [Estadística Mejorada](../statistics/index.md) del mismo tipo.</p>\n"
+
+#. type: Plain text
+#: docs/astrologers_proclaim/dancing_imp.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*Welcome to the hell hole, it gets worse here every day.<br>Learn to live like a flame beast in the pit where we play.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Bienvenido al agujero del infierno, se pone peor aquí cada día.<br>Aprende a vivir como una bestia de fuego en el pozo donde jugamos.*</p>\n"

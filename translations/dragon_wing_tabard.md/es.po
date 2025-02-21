@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-21 14:56+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -564,12 +565,8 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/speculum.md docs/artifacts/spirit_of_oppression.md
 #: docs/artifacts/torso_of_legion.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Minor "
-"Artifact](../keywords/minor_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Artefacto "
-"Menor](../keywords/minor_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/minor_artifact.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md
@@ -577,7 +574,7 @@ msgstr ""
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Dragon Scale Armor](dragon_scale_armor.md)"
-msgstr "[Dragon Scale Armor] (dragon_scale_armor.md)"
+msgstr "[Armadura de Escamas de Dragón](dragon_scale_armor.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
@@ -585,21 +582,21 @@ msgstr "[Dragon Scale Armor] (dragon_scale_armor.md)"
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Dragon Scale Shield](dragon_scale_shield.md)"
-msgstr "[Dragon Scale Shield] (dragon_scale_shield.md)"
+msgstr "[Escudo de Escamas de Dragón](dragon_scale_shield.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
 #: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Necklace of Dragonteeth](necklace_of_dragonteeth.md)"
-msgstr "[Collar de dragonteeth] (collar_of_dragonteeth.md)"
+msgstr "[Collar de Dientes de Dragón](necklace_of_dragonteeth.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
 #: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
 #: docs/artifacts/necklace_of_dragonteeth.md
 msgid "[Red Dragon Flame Tongue](red_dragon_flame_tongue.md)"
-msgstr "[Red Dragon Flame Lengua] (Red_dragon_flame_tongue.md)"
+msgstr "[Lengua Llameante de Dragón Rojo](red_dragon_flame_tongue.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/dragon_scale_armor.md docs/artifacts/dragon_scale_shield.md
@@ -607,34 +604,31 @@ msgstr "[Red Dragon Flame Lengua] (Red_dragon_flame_tongue.md)"
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Crown of Dragontooth](crown_of_dragontooth.md)"
-msgstr "[Crown of DragonTooth] (Crown_of_dragonTooth.md)"
+msgstr "[Corona de Dientes de Dragón](crown_of_dragontooth.md)"
 
 #. type: Title #
 #: docs/artifacts/dragon_wing_tabard.md
 #, no-wrap
 msgid "Dragon Wing Tabard"
-msgstr "Tabard de ala de dragón"
+msgstr "Tabardo de Ala de Dragón"
 
 #. type: Plain text
 #: docs/artifacts/dragon_wing_tabard.md
 msgid ""
-"![Dragon Wing Tabard](../assets/artifacts_minor-dragon_wing_tabard.webp){ "
-"width=\"340\" align=right }"
+"![Dragon Wing Tabard](../assets/artifacts_minor-dragon_wing_tabard.webp)"
+"{ width=\"340\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/artifacts/dragon_wing_tabard.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Discard 1 random card "
-"from the enemy's hand.<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+"![Tabardo de Ala de Dragón](../assets/artifacts_minor-dragon_wing_tabard."
+"webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/dragon_wing_tabard.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*Ridding the countryside of the "
-"hideous Dragon who made a sport of eating noblemen's Knights, you are "
-"honored with the Dragon Wing Tabard.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Discard 1 random card from the enemy's hand.<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Descarta 1 carta al azar de la mano del enemigo.<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
+
+#. type: Plain text
+#: docs/artifacts/dragon_wing_tabard.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*Ridding the countryside of the hideous Dragon who made a sport of eating noblemen's Knights, you are honored with the Dragon Wing Tabard.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Al librar a la campiña del horrible Dragón que se divertía comiéndose a los caballeros de la nobleza, se te honra con el Tabardo de Ala de Dragón.*</p>\n"

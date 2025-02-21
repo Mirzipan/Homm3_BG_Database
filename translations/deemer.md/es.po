@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-21 10:20+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -589,9 +590,9 @@ msgid ""
 "These specialties can be played as *instant* effects at any time during "
 "Combat, not just during the friendly unit activations."
 msgstr ""
-"Estas especialidades se pueden jugar como efectos * instantáneos * en "
-"cualquier momento durante el combate, no solo durante las activaciones de la"
-" unidad amigable."
+"Estas especialidades pueden jugarse como efectos * instantáneos * en "
+"cualquier momento del Combate, no sólo durante las activaciones de las "
+"unidades aliadas."
 
 #. type: Bullet: '- '
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
@@ -627,49 +628,39 @@ msgstr "<p style=\"text-align: center;\" markdown>[:magic: Brujo](index.md)</p>\
 #: docs/heroes/alamar.md docs/heroes/deemer.md docs/heroes/jeddite.md
 #: docs/heroes/lorelei.md docs/heroes/mutare.md docs/heroes/sephinroth.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Dungeon](../towns/dungeon.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" "
-"markdown>[Mazmorra](../towns/dungeon.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Dungeon](../towns/dungeon.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Mazmorra](../towns/dungeon.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/alamar.md docs/heroes/deemer.md docs/heroes/jeddite.md
 #: docs/heroes/sephinroth.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 
 #. type: Title #
 #: docs/heroes/deemer.md
 #, no-wrap
 msgid "Deemer"
-msgstr "Considerar"
+msgstr "Deemer"
 
 #. type: Plain text
 #: docs/heroes/deemer.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-"
-"dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/deemer.md docs/heroes/fiona.md docs/heroes/lorelei.md
 #: docs/heroes/shiva.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Scouting](../abilities/scouting.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Scouting](../abilities/scouting.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Exploración](../abilities/scouting.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/deemer.md
 msgid "=== \"Meteor Shower Ⅰ\""
-msgstr "=== \"Ducha de meteorito ⅰ\""
+msgstr "=== \"Lluvia de Meteoritos Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/deemer.md
@@ -679,11 +670,14 @@ msgid ""
 "        ![Meteor Shower Ⅰ](../assets/hero_specialties-dungeon-deemer-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Lluvia de Meteoritos Ⅰ](../assets/hero_specialties-dungeon-deemer-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/deemer.md
 msgid "=== \"Meteor Shower Ⅳ\""
-msgstr "=== \"Ducha de meteorito ⅳ\""
+msgstr "=== \"Lluvia de Meteoritos Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/deemer.md
@@ -693,11 +687,14 @@ msgid ""
 "        ![Meteor Shower Ⅳ](../assets/hero_specialties-dungeon-deemer-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Lluvia de Meteoritos Ⅳ](../assets/hero_specialties-dungeon-deemer-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/deemer.md
 msgid "=== \"Meteor Shower Ⅵ\""
-msgstr "=== \"Ducha de meteorito ⅵ\""
+msgstr "=== \"Lluvia de Meteoritos Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/deemer.md
@@ -707,6 +704,9 @@ msgid ""
 "        ![Meteor Shower Ⅵ](../assets/hero_specialties-dungeon-deemer-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Lluvia de Meteoritos Ⅵ](../assets/hero_specialties-dungeon-deemer-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/deemer.md
@@ -718,6 +718,11 @@ msgid ""
 "| Ⅳ | :instant: +1 :empower:<br><br>— OR —<br><br>:instant: Shuffle your discard pile back into your deck, then draw 1 card. |\n"
 "| Ⅵ | :instant: Select a [unit](../units/index.md) and 2 [units](../units/index.md) adjacent to it. Deal \\* to all selected [units](../units/index.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |\n"
 msgstr ""
+"| Nivel | Descripción |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: Selecciona una [unidad](../units/index.md) y 1 [unidad](../units/index.md) adyacente a ella. Reparte \\* a ambas [unidades](../units/index.md) seleccionadas.<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |\n"
+"| Ⅳ | :instant: +1 :empower:<br><br>— O —<br><br>:instant: Baraja tu pila de descartes de nuevo en tu mazo, luego roba 1 carta. |\n"
+"| Ⅵ | :instant: Selecciona una [unidad](../units/index.md) y 2 [unidad](../units/index.md) adyacente a ella. Reparte \\* a ambas [unidades](../units/index.md) seleccionadas.<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |\n"
 
 #. type: Bullet: '- '
 #: docs/heroes/deemer.md
@@ -725,7 +730,7 @@ msgid ""
 "**Ⅰ and Ⅵ** - The specialty can be improved by spell power, just like a "
 "regular spell."
 msgstr ""
-"** ⅰ y ⅵ ** - La especialidad puede mejorarse con el poder del hechizo, al "
+"**Ⅰ and Ⅵ** - La especialidad se puede mejorar con el poder del hechizo, "
 "igual que un hechizo normal."
 
 #. type: Bullet: '- '
@@ -734,5 +739,5 @@ msgid ""
 "**Ⅰ and Ⅵ** - The :damage: from Meteor Shower also applies to friendly "
 "units."
 msgstr ""
-"** ⅰ y ⅵ ** - El: Daño: desde el meteorito también se aplica a unidades "
-"amigables."
+"**Ⅰ and Ⅵ** - El :damage: de la Lluvia de Meteoritos también se aplica a "
+"las unidades aliadas."

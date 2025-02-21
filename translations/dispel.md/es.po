@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-21 14:05+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -526,10 +527,8 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/forgetfulness.md docs/spells/remove_obstacle.md
 #: docs/spells/weakness.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Basic Water "
-"Spell](school_of_water_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Basic Water Spell](school_of_water_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Básico de Agua](school_of_water_magic.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/bless.md docs/spells/cure.md docs/spells/dispel.md
@@ -540,7 +539,7 @@ msgstr ""
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr "[School of Water Magic] (School_of_water_magic.md)"
+msgstr "[Escuela de Magia de Agua](school_of_water_magic.md)"
 
 #. type: Title #
 #: docs/spells/dispel.md
@@ -551,18 +550,13 @@ msgstr "Disipar"
 #. type: Plain text
 #: docs/spells/dispel.md
 msgid "![Dispel](../assets/spells-dispel.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Disipar](../assets/spells-dispel.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/dispel.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Remove all :ongoing: "
-"effects from a space or a \\* [unit](../units/index.md) and the space it "
-"occupies.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or "
-":silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR "
-"—<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Remove all :ongoing: effects from a space or a \\* [unit](../units/index.md) and the space it occupies.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Eliminar todos los efectos :ongoing: de una casilla o de una \\* [unidad](../units/index.md) y de la casilla que ocupa.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: o :silver:<br>:empower: 2 ➣ \\*:bronze: o :silver: o :golden:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/dispel.md
@@ -570,5 +564,5 @@ msgid ""
 "Global effects that are not bound to a specific unit (e.g. Archery) may not "
 "be removed."
 msgstr ""
-"Los efectos globales que no están vinculados a una unidad específica (por "
-"ejemplo, tiro con arco) no pueden eliminarse."
+"Los efectos globales que no están vinculados a una unidad específica ( ej. "
+"Tiro con Arco) no pueden ser eliminados."

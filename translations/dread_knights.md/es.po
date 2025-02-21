@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-21 15:03+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -554,12 +555,8 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/units/crusaders.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/hydras.md docs/units/liches.md docs/units/titans.md
 #, no-wrap
-msgid ""
-"[^1]: Not officially confirmed by game designers, and is therefore "
-"considered a Community rule."
-msgstr ""
-"[^1]: No se confirma oficialmente por los diseñadores de juegos y, por lo "
-"tanto, se considera una regla comunitaria."
+msgid "[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule."
+msgstr "[^1]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -769,13 +766,13 @@ msgstr "=== \"Neutral\""
 #: docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr "Héroes Con Una Especialidad"
+msgstr "Héroes Con Especialidad"
 
 #. type: Title #
 #: docs/units/dread_knights.md
 #, no-wrap
 msgid "Dread Knights"
-msgstr "Caballeros temerosos"
+msgstr "Caballeros del Terror"
 
 #. type: Plain text
 #: docs/units/dread_knights.md
@@ -786,7 +783,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Dread Knights](../assets/units-necropolis-golden-dread_knights-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Caballeros del Terror](../assets/units-necropolis-golden-dread_knights-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -798,7 +795,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Dread Knights](../assets/units-necropolis-golden-dread_knights-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Caballeros del Terror](../assets/units-necropolis-golden-dread_knights-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -809,6 +806,9 @@ msgid ""
 "        ![Neutral Dread Knights](../assets/units-neutral-golden-dread_knights.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Caballeros del Terror Neutrales](../assets/units-neutral-golden-dread_knights.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/dread_knights.md
@@ -828,37 +828,40 @@ msgid ""
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :golden: | :golden: | :golden: |\n"
-"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| Ciudad | [Necrópolis](../towns/necropolis.md) | [Necrópolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :golden: | :golden: | :golden: |\n"
+"| Tipo | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
 "| :attack: | 5 | **6** | 5 |\n"
 "| :defense: | 2 | 2 | 1 |\n"
 "| :health_points: | 7 | 7 | 7 |\n"
 "| :initiative: | 7 | **9** | 7 |\n"
-"| Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
-"| Abilities | :unit_attack: When retaliating after this attack, the enemy rolls 2 [Attack dice](../dice.md#attack-die) and resolves the lower result. | :unit_attack: If you resolve a \"0\" or a \"+1\" on the [Attack die](../dice.md#attack-die), increase this unit's total attack value by another \"+1\". | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. |\n"
+"| Coste | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
+"| Habilidades | :unit_attack: Al contraatacar después de este ataque, el enemigo tira 2 [dados de Ataque](../dice.md#attack-die) y resuelve el resultado más bajo. | :unit_attack: Si obtienes un «0» o un «+1» en el [dado de Ataque](../dice.md#attack-die), aumenta el valor de ataque total de esta unidad en otro \"+1\". | :unit_passive: Cuando esta unidad sea objetivo de un Contraataque, gana +1 :defense:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/dread_knights.md
 msgid ""
-"[:might: Lord Haart "
-"(Necropolis)](../heroes/lord_haart_necropolis.md#specialty)"
+"[:might: Lord Haart (Necropolis)](../heroes/lord_haart_necropolis."
+"md#specialty)"
 msgstr ""
+"[:might: Lord Haart (Necrópolis)](../heroes/lord_haart_necropolis."
+"md#specialty)"
 
 #. type: Bullet: '- '
 #: docs/units/dread_knights.md
 msgid "[:might: Tamika](../heroes/tamika.md#specialty)"
-msgstr ""
+msgstr "[:might: Tamika](../heroes/tamika.md#specialty)"
 
 #. type: Bullet: '- '
 #: docs/units/dread_knights.md
 msgid ""
-"[^1] **Few** - Should the Dread Knights attack neutral "
-"[Crusaders](crusaders.md), when the [Crusaders](crusaders.md) retaliate "
-"against a few Dread Knights, they're abilities cancel out and a single "
-"[Attack die](../dice.md#attack-die) is rolled as if it was a regular attack."
+"[^1] **Few** - Should the Dread Knights attack neutral [Crusaders]"
+"(crusaders.md), when the [Crusaders](crusaders.md) retaliate against a few "
+"Dread Knights, they're abilities cancel out and a single [Attack die](../"
+"dice.md#attack-die) is rolled as if it was a regular attack."
 msgstr ""
-"[^1] **Pocos** - Should the Dread Knights attack neutral "
-"[Crusaders](crusaders.md), when the [Crusaders](crusaders.md) retaliate "
-"against a few Dread Knights, they're abilities cancel out and a single "
-"[Attack die](../dice.md#attack-die) is rolled as if it was a regular attack."
+"[^1] **Pocos** - Si los Caballeros del Terror atacan a [Cruzados] "
+"(crusaders.md) neutrales, cuando los [Cruzados](crusaders.md) contraatacan "
+"contra unos pocos Caballeros del Terror, sus habilidades se anulan y se "
+"lanza un único [Dado de ataque](../dice.md#attack-die) como si fuera un "
+"ataque normal."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-21 12:29+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -424,7 +425,7 @@ msgstr "Ver También"
 #: docs/spells/air_shield.md docs/spells/sacrifice.md docs/units/fangarm.md
 #: docs/units/leprechaun.md docs/units/satyrs.md docs/units/steel_golems.md
 msgid "[Regular Stretch Goals 2024](../content/regular_stretch_goals.md)"
-msgstr ""
+msgstr "[Metas Regulares 2024](../content/regular_stretch_goals.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -541,53 +542,43 @@ msgstr "[Lista de Héroes](index.md)"
 #: docs/heroes/crag_hack.md docs/heroes/dessa.md docs/heroes/gundula.md
 #: docs/heroes/shiva.md docs/heroes/tarnum_stronghold.md docs/heroes/yog.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Stronghold](../towns/stronghold.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Stronghold](../towns/stronghold.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Bastión](../towns/stronghold.md)</p>\n"
 
 #. type: Title #
 #: docs/heroes/dessa.md
 #, no-wrap
 msgid "Dessa"
-msgstr "Estos"
+msgstr "Dessa"
 
 #. type: Plain text
 #: docs/heroes/dessa.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>![Dessa](../assets/player-deck-"
-"back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>![Dessa](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Dessa](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/dessa.md docs/heroes/gundula.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[:magic: Battle "
-"Mage](index.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:magic: Battle Mage](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:magic: Maga de Batalla](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/dessa.md docs/heroes/gundula.md docs/heroes/zilare.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
 
 #. type: Plain text
 #: docs/heroes/dessa.md docs/heroes/monere.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Logistics](../abilities/logistics.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Logistics](../abilities/logistics.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Logística](../abilities/logistics.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/dessa.md
 msgid "=== \"Logistics Ⅰ\""
-msgstr "=== \"Logística ⅰ\""
+msgstr "=== \"Logística Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/dessa.md
@@ -597,11 +588,14 @@ msgid ""
 "        ![Logistics Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Logística Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/dessa.md
 msgid "=== \"Logistics Ⅳ\""
-msgstr "=== \"Logística ⅳ\""
+msgstr "=== \"Logística Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/dessa.md
@@ -611,11 +605,14 @@ msgid ""
 "        ![Logistics Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Logística Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/dessa.md
 msgid "=== \"Logistics Ⅵ\""
-msgstr "=== \"Logística ⅵ\""
+msgstr "=== \"Logística Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/dessa.md
@@ -625,6 +622,9 @@ msgid ""
 "        ![Logistics Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Logística Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/dessa.md
@@ -636,8 +636,8 @@ msgid ""
 "| Ⅳ | :effect_map: Gain 1 :movement:. |\n"
 "| Ⅵ | 🚧 |\n"
 msgstr ""
-"|Nivel |Descripción |\n"
+"| Nivel | Descripción |\n"
 "| :---: | :---: |\n"
-"|Ⅰ |: Instant: Extienda su combate para otra ronda.|\n"
-"|Ⅳ | :effect_map: Gane 1: Movimiento:.|\n"
-"|Ⅵ |🚧 |\n"
+"| Ⅰ | :Instant: Extiende tu Combate durante otra ronda. |\n"
+"| Ⅳ | :effect_map: Gana 1 :movement:. |\n"
+"| Ⅵ | 🚧 |\n"
