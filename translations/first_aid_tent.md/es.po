@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 10:02+0200\n"
-"PO-Revision-Date: 2024-10-18 10:02+0200\n"
+"PO-Revision-Date: 2025-02-24 15:22+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/gold_dragons.md docs/units/pit_lords.md
@@ -482,16 +483,14 @@ msgstr "Ver También"
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/first_aid_tent.md docs/towns/rampart.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
+msgstr "[Expansión de Murallas](../content/rampart_expansion.md)"
 
 #. type: Plain text
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/first_aid_tent.md docs/war_machines/cannon.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[War Machine](index.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Máquina de "
-"Guerra](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Máquina de Guerra](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
@@ -503,39 +502,37 @@ msgstr "[Lista de Máquinas de Guerra](index.md)"
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "First Aid Tent"
-msgstr "Carpa de primeros auxilios"
+msgstr "Tienda de Primeros Auxilios"
 
 #. type: Plain text
 #: docs/war_machines/first_aid_tent.md
 msgid ""
-"![First Aid Tent](../assets/war_machines-first_aid_tent.webp){ width=\"340\""
-" align=right }"
+"![First Aid Tent](../assets/war_machines-first_aid_tent.webp)"
+"{ width=\"340\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/war_machines/first_aid_tent.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:permanent: Once during each "
-"Combat round, remove 1 :damage: from your selected unit.</p>\n"
-msgstr ""
+"![Tienda de Primeros Auxilios](../assets/war_machines-first_aid_tent.webp)"
+"{ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:pay: 3 :gold: at "
-"Blacksmith<br><br>— OR —<br><br>:pay: 6 :gold: at Trade Post</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:permanent: Once during each Combat round, remove 1 :damage: from your selected unit.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:permanent: Una vez durante cada ronda de Combate, retira 1 :damage: de tu unidad seleccionada.</p>\n"
+
+#. type: Plain text
+#: docs/war_machines/first_aid_tent.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>:pay: 3 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 6 :gold: at Trade Post</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:pay: 3 :gold: en la Herrería<br><br>— O —<br><br>:pay: 6 :gold: en el Puesto Comercial</p>\n"
 
 #. type: Bullet: '- '
 #: docs/war_machines/first_aid_tent.md
 msgid ""
-"The effect may be used at any point during the Combat round (similar to an "
-":instant: effect)."
+"The effect may be used at any point during the Combat round (similar to an :"
+"instant: effect)."
 msgstr ""
-"El efecto puede usarse en cualquier punto durante la ronda de combate "
-"(similar a un :instant_effect: efecto)."
+"El efecto puede usarse en cualquier momento de la ronda de Combate (similar "
+"a un efecto :instant:)."
 
 #. type: Bullet: '- '
 #: docs/war_machines/first_aid_tent.md
@@ -543,6 +540,6 @@ msgid ""
 ":damage: can only be removed *after* it was dealt. The First Aid Tent can "
 "not prevent defeat of a unit by reducing the incoming :damage:."
 msgstr ""
-" :damage: solo se puede eliminar * después de * fue tratado.La carpa de "
-"primeros auxilios no puede evitar la derrota de una unidad al reducir el "
-"entrante :damage:."
+"El :damage: sólo puede eliminarse *después* de que se haya infligido. La "
+"Tienda de Primeros Auxilios no puede evitar la derrota de una unidad "
+"reduciendo el :damage: recibido."

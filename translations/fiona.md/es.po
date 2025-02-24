@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 17:38+0000\n"
-"PO-Revision-Date: 2024-10-21 17:38+0000\n"
+"PO-Revision-Date: 2025-02-24 14:53+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -619,10 +620,8 @@ msgstr "[Lista de Héroes](index.md)"
 #: docs/heroes/ash.md docs/heroes/fiona.md docs/heroes/octavia.md
 #: docs/heroes/rashka.md docs/heroes/xyron.md docs/heroes/zydar.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Inferno](../towns/inferno.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Inferno](../towns/inferno.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Infierno](../towns/inferno.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/catherine.md docs/heroes/fiona.md
@@ -631,19 +630,15 @@ msgstr ""
 #: docs/heroes/tarnum_castle.md docs/heroes/tarnum_dungeon.md
 #: docs/heroes/valeska.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
 
 #. type: Plain text
 #: docs/heroes/deemer.md docs/heroes/fiona.md docs/heroes/lorelei.md
 #: docs/heroes/shiva.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Scouting](../abilities/scouting.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Scouting](../abilities/scouting.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Exploración](../abilities/scouting.md)</p>\n"
 
 #. type: Title #
 #: docs/heroes/fiona.md
@@ -654,21 +649,19 @@ msgstr "Fiona"
 #. type: Plain text
 #: docs/heroes/fiona.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>![Fiona](../assets/heroes-inferno-"
-"might-fiona.webp){ width=540 align=right }</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>![Fiona](../assets/heroes-inferno-might-fiona.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Fiona](../assets/heroes-inferno-might-fiona.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/fiona.md docs/heroes/octavia.md docs/heroes/rashka.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[:might: Demoniac](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[:might: Demoniaca](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/fiona.md
 msgid "=== \"Cerberi Ⅰ\""
-msgstr "=== \"Cerberi ⅰ\""
+msgstr "=== \"Cerbero Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/fiona.md
@@ -678,11 +671,14 @@ msgid ""
 "        ![Cerberi Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cerbero Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/fiona.md
 msgid "=== \"Cerberi Ⅳ\""
-msgstr "=== \"Cerberi ⅳ\""
+msgstr "=== \"Cerbero Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/fiona.md
@@ -692,11 +688,14 @@ msgid ""
 "        ![Cerberi Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cerbero Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/fiona.md
 msgid "=== \"Cerberi Ⅵ\""
-msgstr "=== \"Cerberi ⅵ\""
+msgstr "=== \"Cerbero Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/fiona.md
@@ -706,6 +705,9 @@ msgid ""
 "        ![Cerberi Ⅵ](../assets/hero_specialties-inferno-fiona-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cerbero Ⅵ](../assets/hero_specialties-inferno-fiona-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/fiona.md
@@ -717,3 +719,8 @@ msgid ""
 "| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Cerberi unit](../units/cerberi.md). |\n"
 "| Ⅵ | :instant: Your selected [unit](../units/index.md) gains +2 :attack:<br><br>This effect doubles for the [Cerberi unit](../units/cerberi.md). |\n"
 msgstr ""
+"| Nivel | Descripción |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: Tu [unidad](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unidad](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para la [unidad Cerbero](../units/cerberi.md). |\n"
+"| Ⅳ | :ongoing: Para este Combate, los :health_points: de la [unidad](../units/index.md) seleccionada aumentan en 1.<br><br>Este efecto es doble para la [unidad Cerbero](../units/cerberi.md). |\n"
+"| Ⅵ | :instant: Tu [unidad](../units/index.md) seleccionada gana +2 :attack:<br><br>Este efecto es doble para la [unidad Cerbero](../units/cerberi.md). |\n"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 16:09+0000\n"
-"PO-Revision-Date: 2024-10-21 16:09+0000\n"
+"PO-Revision-Date: 2025-02-24 14:46+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -27,8 +28,7 @@ msgstr ""
 #: docs/abilities/resistance.md docs/abilities/sorcery.md
 #: docs/abilities/water_magic.md docs/artifacts/angel_wings.md
 #: docs/artifacts/arms_of_legion.md docs/artifacts/centaurs_axe.md
-#: docs/artifacts/head_of_legion.md
-#: docs/artifacts/inexhaustible_cart_of_ore.md
+#: docs/artifacts/head_of_legion.md docs/artifacts/inexhaustible_cart_of_ore.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
 #: docs/artifacts/spellbinders_hat.md docs/artifacts/torso_of_legion.md
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -75,9 +75,9 @@ msgstr ""
 #: docs/units/mummies.md docs/units/nomads.md docs/units/peasants.md
 #: docs/units/pegasi.md docs/units/pit_lords.md docs/units/rogues.md
 #: docs/units/skeletons.md docs/units/titans.md docs/units/trolls.md
-#: docs/units/unicorns.md docs/units/vampires.md
-#: docs/units/water_elementals.md docs/units/wraiths.md docs/units/wyverns.md
-#: docs/units/zombies.md docs/war_machines/first_aid_tent.md
+#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
+#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zombies.md
+#: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
 msgstr "Notas"
@@ -105,11 +105,11 @@ msgstr "Notas"
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #: docs/artifacts/buckler_of_the_gnoll_king.md
 #: docs/artifacts/cape_of_velocity.md docs/artifacts/cards_of_prophecy.md
-#: docs/artifacts/celestial_necklace_of_bliss.md
-#: docs/artifacts/centaurs_axe.md docs/artifacts/charm_of_mana.md
-#: docs/artifacts/crest_of_valor.md docs/artifacts/crown_of_dragontooth.md
-#: docs/artifacts/dragon_scale_armor.md docs/artifacts/dragon_scale_shield.md
-#: docs/artifacts/dragon_wing_tabard.md docs/artifacts/endless_bag_of_gold.md
+#: docs/artifacts/celestial_necklace_of_bliss.md docs/artifacts/centaurs_axe.md
+#: docs/artifacts/charm_of_mana.md docs/artifacts/crest_of_valor.md
+#: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
+#: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
+#: docs/artifacts/endless_bag_of_gold.md
 #: docs/artifacts/endless_purse_of_gold.md
 #: docs/artifacts/endless_sack_of_gold.md docs/artifacts/equestrians_gloves.md
 #: docs/artifacts/everflowing_crystal_cloak.md
@@ -121,9 +121,9 @@ msgstr "Notas"
 #: docs/artifacts/helm_of_the_alabaster_unicorn.md
 #: docs/artifacts/hourglass_of_the_evil_hour.md
 #: docs/artifacts/inexhaustible_cart_of_lumber.md
-#: docs/artifacts/inexhaustible_cart_of_ore.md
-#: docs/artifacts/legs_of_legion.md docs/artifacts/lions_shield_of_courage.md
-#: docs/artifacts/loins_of_legion.md docs/artifacts/mystic_orb_of_mana.md
+#: docs/artifacts/inexhaustible_cart_of_ore.md docs/artifacts/legs_of_legion.md
+#: docs/artifacts/lions_shield_of_courage.md docs/artifacts/loins_of_legion.md
+#: docs/artifacts/mystic_orb_of_mana.md
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/necklace_of_swiftness.md
 #: docs/artifacts/ogres_club_of_havoc.md docs/artifacts/orb_of_inhibition.md
@@ -191,9 +191,8 @@ msgstr "Notas"
 #: docs/events/library_of_enlightenment.md docs/events/mage_laboratory.md
 #: docs/events/magical_forest.md docs/events/market_of_time.md
 #: docs/events/marketplace.md docs/events/mercenary_camp.md
-#: docs/events/messenger_with_supplies.md
-#: docs/events/mischievous_leprechaun.md docs/events/prison.md
-#: docs/events/school_of_magic_and_school_of_war.md
+#: docs/events/messenger_with_supplies.md docs/events/mischievous_leprechaun.md
+#: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -203,10 +202,10 @@ msgstr "Notas"
 #: docs/fields/library.md docs/fields/magic_spring.md
 #: docs/fields/market_of_time.md docs/fields/mine.md
 #: docs/fields/mystical_garden.md docs/fields/obelisk.md
-#: docs/fields/pandoras_box.md docs/fields/prison.md
-#: docs/fields/random_town.md docs/fields/redwood_observatory.md
-#: docs/fields/resources.md docs/fields/sanctuary.md docs/fields/scholar.md
-#: docs/fields/settlement.md docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
+#: docs/fields/redwood_observatory.md docs/fields/resources.md
+#: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/settlement.md
+#: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md
 #: docs/fields/star_axis.md docs/fields/tavern.md docs/fields/temple.md
 #: docs/fields/town.md docs/fields/trading_post.md docs/fields/treasure.md
@@ -229,18 +228,17 @@ msgstr "Notas"
 #: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/sephinroth.md
 #: docs/heroes/septienna.md docs/heroes/shiva.md docs/heroes/solmyr.md
 #: docs/heroes/tamika.md docs/heroes/tarnum_conflux.md
-#: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md
-#: docs/heroes/torosar.md docs/heroes/valeska.md docs/heroes/vidomina.md
-#: docs/heroes/wystan.md docs/heroes/xyron.md docs/heroes/yog.md
-#: docs/heroes/zilare.md docs/heroes/zydar.md docs/keywords/center_tile.md
-#: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
-#: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
-#: docs/keywords/near_tile.md docs/keywords/relic_artifact.md
-#: docs/keywords/revisitable_field.md docs/keywords/starting_tile.md
-#: docs/keywords/underground_tile.md docs/keywords/visitable_field.md
-#: docs/keywords/water_tile.md docs/spells/air_shield.md
-#: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
-#: docs/spells/blind.md docs/spells/bloodlust.md
+#: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
+#: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
+#: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
+#: docs/heroes/zydar.md docs/keywords/center_tile.md docs/keywords/far_tile.md
+#: docs/keywords/flaggable_field.md docs/keywords/major_artifact.md
+#: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
+#: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
+#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
+#: docs/spells/bless.md docs/spells/blind.md docs/spells/bloodlust.md
 #: docs/spells/chain_lightning.md docs/spells/counterstrike.md
 #: docs/spells/cure.md docs/spells/curse.md docs/spells/dimension_door.md
 #: docs/spells/dispel.md docs/spells/disrupting_ray.md
@@ -259,66 +257,64 @@ msgstr "Notas"
 #: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
-#: docs/spells/town_portal.md docs/spells/view_air.md
-#: docs/spells/view_earth.md docs/spells/visions.md docs/spells/weakness.md
-#: docs/statistics/attack.md docs/statistics/defense.md
-#: docs/statistics/knowledge.md docs/statistics/power.md docs/tiles/c1.md
-#: docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md docs/tiles/c5.md
-#: docs/tiles/cx1.md docs/tiles/f1.md docs/tiles/f10.md docs/tiles/f11.md
-#: docs/tiles/f12.md docs/tiles/f13.md docs/tiles/f14.md docs/tiles/f15.md
-#: docs/tiles/f16.md docs/tiles/f17.md docs/tiles/f18.md docs/tiles/f19.md
-#: docs/tiles/f2.md docs/tiles/f20.md docs/tiles/f21.md docs/tiles/f3.md
-#: docs/tiles/f4.md docs/tiles/f5.md docs/tiles/f6.md docs/tiles/f7.md
-#: docs/tiles/f8.md docs/tiles/f9.md docs/tiles/fx1.md docs/tiles/fx10.md
-#: docs/tiles/fx2.md docs/tiles/fx3.md docs/tiles/fx4.md docs/tiles/fx5.md
-#: docs/tiles/fx6.md docs/tiles/fx7.md docs/tiles/fx8.md docs/tiles/fx9.md
-#: docs/tiles/index.md docs/tiles/n1.md docs/tiles/n10.md docs/tiles/n11.md
-#: docs/tiles/n12.md docs/tiles/n13.md docs/tiles/n14.md docs/tiles/n2.md
-#: docs/tiles/n3.md docs/tiles/n4.md docs/tiles/n5.md docs/tiles/n6.md
-#: docs/tiles/n7.md docs/tiles/n8.md docs/tiles/n9.md docs/tiles/nx1.md
-#: docs/tiles/nx2.md docs/tiles/nx3.md docs/tiles/s1.md docs/tiles/s2.md
-#: docs/tiles/s3.md docs/tiles/s4.md docs/tiles/s5.md docs/tiles/s6.md
-#: docs/tiles/s7.md docs/tiles/s8.md docs/tiles/s9.md docs/tiles/sx1.md
-#: docs/tiles/u1.md docs/tiles/u2.md docs/tiles/w1.md docs/tiles/w2.md
-#: docs/tiles/w3.md docs/towns/castle.md docs/towns/conflux.md
-#: docs/towns/cove.md docs/towns/dungeon.md docs/towns/fortress.md
-#: docs/towns/index.md docs/towns/inferno.md docs/towns/necropolis.md
-#: docs/towns/neutral.md docs/towns/rampart.md docs/towns/stronghold.md
-#: docs/towns/tower.md docs/units/air_elementals.md docs/units/arch_devils.md
-#: docs/units/archangels.md docs/units/arrow_tower.md docs/units/ayssids.md
-#: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
-#: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
-#: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
-#: docs/units/dendroids.md docs/units/diamond_golems.md
-#: docs/units/dragon_flies.md docs/units/dread_knights.md
-#: docs/units/dwarves.md docs/units/earth_elementals.md docs/units/efreet.md
-#: docs/units/elves.md docs/units/enchanters.md
-#: docs/units/energy_elementals.md docs/units/evil_eyes.md
-#: docs/units/faerie_dragons.md docs/units/familiars.md docs/units/fangarm.md
-#: docs/units/fire_elementals.md docs/units/gargoyles.md docs/units/genies.md
-#: docs/units/ghost_dragons.md docs/units/gnolls.md docs/units/goblins.md
-#: docs/units/gold_dragons.md docs/units/gold_golems.md docs/units/gorgons.md
-#: docs/units/gremlins.md docs/units/griffins.md docs/units/halberdiers.md
-#: docs/units/halflings.md docs/units/harpies.md docs/units/haspids.md
-#: docs/units/hydras.md docs/units/ice_elementals.md docs/units/index.md
-#: docs/units/iron_golems.md docs/units/leprechaun.md docs/units/liches.md
-#: docs/units/lizardmen.md docs/units/magi.md docs/units/magic_elementals.md
-#: docs/units/magma_elementals.md docs/units/magogs.md
-#: docs/units/manticores.md docs/units/marksmen.md docs/units/medusas.md
-#: docs/units/minotaurs.md docs/units/mummies.md docs/units/nagas.md
-#: docs/units/nix.md docs/units/nomads.md docs/units/oceanids.md
-#: docs/units/ogres.md docs/units/orcs.md docs/units/peasants.md
-#: docs/units/pegasi.md docs/units/phoenixes.md docs/units/pit_lords.md
-#: docs/units/rogues.md docs/units/rust_dragons.md docs/units/satyrs.md
-#: docs/units/sea_dogs.md docs/units/seamen.md docs/units/sharpshooters.md
-#: docs/units/skeletons.md docs/units/sorceresses.md docs/units/sprites.md
-#: docs/units/steel_golems.md docs/units/storm_elementals.md
-#: docs/units/thunderbirds.md docs/units/titans.md docs/units/troglodytes.md
-#: docs/units/trolls.md docs/units/unicorns.md docs/units/vampires.md
-#: docs/units/water_elementals.md docs/units/wolf_raiders.md
-#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zealots.md
-#: docs/units/zombies.md docs/war_machines/ammo_cart.md
+#: docs/spells/town_portal.md docs/spells/view_air.md docs/spells/view_earth.md
+#: docs/spells/visions.md docs/spells/weakness.md docs/statistics/attack.md
+#: docs/statistics/defense.md docs/statistics/knowledge.md
+#: docs/statistics/power.md docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md
+#: docs/tiles/c4.md docs/tiles/c5.md docs/tiles/cx1.md docs/tiles/f1.md
+#: docs/tiles/f10.md docs/tiles/f11.md docs/tiles/f12.md docs/tiles/f13.md
+#: docs/tiles/f14.md docs/tiles/f15.md docs/tiles/f16.md docs/tiles/f17.md
+#: docs/tiles/f18.md docs/tiles/f19.md docs/tiles/f2.md docs/tiles/f20.md
+#: docs/tiles/f21.md docs/tiles/f3.md docs/tiles/f4.md docs/tiles/f5.md
+#: docs/tiles/f6.md docs/tiles/f7.md docs/tiles/f8.md docs/tiles/f9.md
+#: docs/tiles/fx1.md docs/tiles/fx10.md docs/tiles/fx2.md docs/tiles/fx3.md
+#: docs/tiles/fx4.md docs/tiles/fx5.md docs/tiles/fx6.md docs/tiles/fx7.md
+#: docs/tiles/fx8.md docs/tiles/fx9.md docs/tiles/index.md docs/tiles/n1.md
+#: docs/tiles/n10.md docs/tiles/n11.md docs/tiles/n12.md docs/tiles/n13.md
+#: docs/tiles/n14.md docs/tiles/n2.md docs/tiles/n3.md docs/tiles/n4.md
+#: docs/tiles/n5.md docs/tiles/n6.md docs/tiles/n7.md docs/tiles/n8.md
+#: docs/tiles/n9.md docs/tiles/nx1.md docs/tiles/nx2.md docs/tiles/nx3.md
+#: docs/tiles/s1.md docs/tiles/s2.md docs/tiles/s3.md docs/tiles/s4.md
+#: docs/tiles/s5.md docs/tiles/s6.md docs/tiles/s7.md docs/tiles/s8.md
+#: docs/tiles/s9.md docs/tiles/sx1.md docs/tiles/u1.md docs/tiles/u2.md
+#: docs/tiles/w1.md docs/tiles/w2.md docs/tiles/w3.md docs/towns/castle.md
+#: docs/towns/conflux.md docs/towns/cove.md docs/towns/dungeon.md
+#: docs/towns/fortress.md docs/towns/index.md docs/towns/inferno.md
+#: docs/towns/necropolis.md docs/towns/neutral.md docs/towns/rampart.md
+#: docs/towns/stronghold.md docs/towns/tower.md docs/units/air_elementals.md
+#: docs/units/arch_devils.md docs/units/archangels.md docs/units/arrow_tower.md
+#: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
+#: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
+#: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
+#: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
+#: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
+#: docs/units/enchanters.md docs/units/energy_elementals.md
+#: docs/units/evil_eyes.md docs/units/faerie_dragons.md docs/units/familiars.md
+#: docs/units/fangarm.md docs/units/fire_elementals.md docs/units/gargoyles.md
+#: docs/units/genies.md docs/units/ghost_dragons.md docs/units/gnolls.md
+#: docs/units/goblins.md docs/units/gold_dragons.md docs/units/gold_golems.md
+#: docs/units/gorgons.md docs/units/gremlins.md docs/units/griffins.md
+#: docs/units/halberdiers.md docs/units/halflings.md docs/units/harpies.md
+#: docs/units/haspids.md docs/units/hydras.md docs/units/ice_elementals.md
+#: docs/units/index.md docs/units/iron_golems.md docs/units/leprechaun.md
+#: docs/units/liches.md docs/units/lizardmen.md docs/units/magi.md
+#: docs/units/magic_elementals.md docs/units/magma_elementals.md
+#: docs/units/magogs.md docs/units/manticores.md docs/units/marksmen.md
+#: docs/units/medusas.md docs/units/minotaurs.md docs/units/mummies.md
+#: docs/units/nagas.md docs/units/nix.md docs/units/nomads.md
+#: docs/units/oceanids.md docs/units/ogres.md docs/units/orcs.md
+#: docs/units/peasants.md docs/units/pegasi.md docs/units/phoenixes.md
+#: docs/units/pit_lords.md docs/units/rogues.md docs/units/rust_dragons.md
+#: docs/units/satyrs.md docs/units/sea_dogs.md docs/units/seamen.md
+#: docs/units/sharpshooters.md docs/units/skeletons.md
+#: docs/units/sorceresses.md docs/units/sprites.md docs/units/steel_golems.md
+#: docs/units/storm_elementals.md docs/units/thunderbirds.md
+#: docs/units/titans.md docs/units/troglodytes.md docs/units/trolls.md
+#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
+#: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
+#: docs/units/zealots.md docs/units/zombies.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/cannon.md
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
@@ -352,41 +348,39 @@ msgstr "Ver También"
 #: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
 #: docs/towns/necropolis.md docs/towns/neutral.md docs/towns/rampart.md
 #: docs/towns/stronghold.md docs/towns/tower.md docs/units/air_elementals.md
-#: docs/units/arch_devils.md docs/units/archangels.md
-#: docs/units/arrow_tower.md docs/units/ayssids.md docs/units/azure_dragons.md
-#: docs/units/basilisks.md docs/units/behemoths.md docs/units/black_dragons.md
-#: docs/units/boars.md docs/units/centaurs.md docs/units/cerberi.md
-#: docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
-#: docs/units/dendroids.md docs/units/diamond_golems.md
-#: docs/units/dragon_flies.md docs/units/dread_knights.md
-#: docs/units/dwarves.md docs/units/earth_elementals.md docs/units/efreet.md
-#: docs/units/elves.md docs/units/enchanters.md
-#: docs/units/energy_elementals.md docs/units/evil_eyes.md
-#: docs/units/faerie_dragons.md docs/units/familiars.md docs/units/fangarm.md
-#: docs/units/fire_elementals.md docs/units/gargoyles.md docs/units/genies.md
-#: docs/units/ghost_dragons.md docs/units/gnolls.md docs/units/goblins.md
-#: docs/units/gold_dragons.md docs/units/gold_golems.md docs/units/gorgons.md
-#: docs/units/gremlins.md docs/units/griffins.md docs/units/halberdiers.md
-#: docs/units/halflings.md docs/units/harpies.md docs/units/haspids.md
-#: docs/units/hydras.md docs/units/ice_elementals.md docs/units/index.md
-#: docs/units/iron_golems.md docs/units/leprechaun.md docs/units/liches.md
-#: docs/units/lizardmen.md docs/units/magi.md docs/units/magic_elementals.md
-#: docs/units/magma_elementals.md docs/units/magogs.md
-#: docs/units/manticores.md docs/units/marksmen.md docs/units/medusas.md
-#: docs/units/minotaurs.md docs/units/mummies.md docs/units/nagas.md
-#: docs/units/nix.md docs/units/nomads.md docs/units/oceanids.md
-#: docs/units/ogres.md docs/units/orcs.md docs/units/peasants.md
-#: docs/units/pegasi.md docs/units/phoenixes.md docs/units/pit_lords.md
-#: docs/units/rogues.md docs/units/rust_dragons.md docs/units/satyrs.md
-#: docs/units/sea_dogs.md docs/units/seamen.md docs/units/sharpshooters.md
-#: docs/units/skeletons.md docs/units/sorceresses.md docs/units/sprites.md
-#: docs/units/steel_golems.md docs/units/storm_elementals.md
-#: docs/units/thunderbirds.md docs/units/titans.md docs/units/troglodytes.md
-#: docs/units/trolls.md docs/units/unicorns.md docs/units/vampires.md
-#: docs/units/water_elementals.md docs/units/wolf_raiders.md
-#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zealots.md
-#: docs/units/zombies.md
+#: docs/units/arch_devils.md docs/units/archangels.md docs/units/arrow_tower.md
+#: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
+#: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
+#: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
+#: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
+#: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
+#: docs/units/enchanters.md docs/units/energy_elementals.md
+#: docs/units/evil_eyes.md docs/units/faerie_dragons.md docs/units/familiars.md
+#: docs/units/fangarm.md docs/units/fire_elementals.md docs/units/gargoyles.md
+#: docs/units/genies.md docs/units/ghost_dragons.md docs/units/gnolls.md
+#: docs/units/goblins.md docs/units/gold_dragons.md docs/units/gold_golems.md
+#: docs/units/gorgons.md docs/units/gremlins.md docs/units/griffins.md
+#: docs/units/halberdiers.md docs/units/halflings.md docs/units/harpies.md
+#: docs/units/haspids.md docs/units/hydras.md docs/units/ice_elementals.md
+#: docs/units/index.md docs/units/iron_golems.md docs/units/leprechaun.md
+#: docs/units/liches.md docs/units/lizardmen.md docs/units/magi.md
+#: docs/units/magic_elementals.md docs/units/magma_elementals.md
+#: docs/units/magogs.md docs/units/manticores.md docs/units/marksmen.md
+#: docs/units/medusas.md docs/units/minotaurs.md docs/units/mummies.md
+#: docs/units/nagas.md docs/units/nix.md docs/units/nomads.md
+#: docs/units/oceanids.md docs/units/ogres.md docs/units/orcs.md
+#: docs/units/peasants.md docs/units/pegasi.md docs/units/phoenixes.md
+#: docs/units/pit_lords.md docs/units/rogues.md docs/units/rust_dragons.md
+#: docs/units/satyrs.md docs/units/sea_dogs.md docs/units/seamen.md
+#: docs/units/sharpshooters.md docs/units/skeletons.md
+#: docs/units/sorceresses.md docs/units/sprites.md docs/units/steel_golems.md
+#: docs/units/storm_elementals.md docs/units/thunderbirds.md
+#: docs/units/titans.md docs/units/troglodytes.md docs/units/trolls.md
+#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
+#: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
+#: docs/units/zealots.md docs/units/zombies.md
 msgid "[List of Towns](../towns/index.md)"
 msgstr "[Lista de Ciudades](../towns/index.md)"
 
@@ -395,204 +389,203 @@ msgstr "[Lista de Ciudades](../towns/index.md)"
 #: docs/keywords/near_tile.md docs/keywords/underground_tile.md
 #: docs/keywords/water_tile.md
 msgid "[Starting Tile](starting_tile.md)"
-msgstr "[Tíle de inicio] (starting_tile.md)"
+msgstr "[Loseta Inicial](starting_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
 #: docs/keywords/water_tile.md
 msgid "[Near Tile](near_tile.md)"
-msgstr "[Cerca de mosaico] (cerca de_tile.md)"
+msgstr "[Loseta Cercana](near_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/near_tile.md docs/keywords/starting_tile.md
 #: docs/keywords/water_tile.md
 msgid "[Underground Tile](underground_tile.md)"
-msgstr "[Mosaico subterráneo] (Underground_til.md)"
+msgstr "[Loseta de Subterráneo](underground_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/near_tile.md docs/keywords/starting_tile.md
 #: docs/keywords/underground_tile.md
 msgid "[Water Tile](water_tile.md)"
-msgstr "[Azulejo de agua] (Water_til.md)"
+msgstr "[Loseta de Agua](water_tile.md)"
 
 #. type: Title #
 #: docs/keywords/far_tile.md
 #, no-wrap
 msgid "Far Tile"
-msgstr "Baldosas"
+msgstr "Loseta Lejana"
 
 #. type: Plain text
 #: docs/keywords/far_tile.md
 msgid "Contains fields with Ⅱ-Ⅲ [difficulty](../difficulties.md)."
-msgstr ""
+msgstr "Contiene campos con [dificultad](../difficulties.md) Ⅱ-Ⅲ ."
 
 #. type: Title ##
 #: docs/keywords/far_tile.md
 #, no-wrap
 msgid "List of Far Tiles"
-msgstr "Lista de azulejos lejanos"
+msgstr "Lista de Losetas Lejanas"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F1](../tiles/f1.md) - [Necropolis Settlement](../towns/necropolis.md)"
-msgstr ""
+msgstr "[F1](../tiles/f1.md) - [Asentamiento de Necrópolis](../towns/necropolis.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F2](../tiles/f2.md) - [Dungeon Settlement](../towns/dungeon.md)"
-msgstr ""
+msgstr "[F2](../tiles/f2.md) - [Asentamiento de Mazmorra](../towns/dungeon.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F3](../tiles/f3.md) - [Castle Settlement](../towns/castle.md)"
-msgstr ""
+msgstr "[F3](../tiles/f3.md) - [Asentamiento de Castillo](../towns/castle.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F4](../tiles/f4.md)"
-msgstr ""
+msgstr "[F4](../tiles/f4.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F5](../tiles/f5.md)"
-msgstr ""
+msgstr "[F5](../tiles/f5.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F6](../tiles/f6.md)"
-msgstr ""
+msgstr "[F6](../tiles/f6.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F7](../tiles/f7.md)"
-msgstr ""
+msgstr "[F7](../tiles/f7.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F8](../tiles/f8.md)"
-msgstr ""
+msgstr "[F8](../tiles/f8.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F9](../tiles/f9.md)"
-msgstr ""
+msgstr "[F9](../tiles/f9.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F10](../tiles/f10.md) - [Rampart Settlement](../towns/rampart.md)"
-msgstr ""
+msgstr "[F10](../tiles/f10.md) - [Asentamiento de Murallas](../towns/rampart.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F11](../tiles/f11.md)"
-msgstr ""
+msgstr "[F11](../tiles/f11.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F12](../tiles/f12.md)"
-msgstr ""
+msgstr "[F12](../tiles/f12.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F13](../tiles/f13.md) - [Fortress Settlement](../towns/fortress.md)"
-msgstr ""
+msgstr "[F13](../tiles/f13.md) - [Asentamiento de Fortaleza](../towns/fortress.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F14](../tiles/f14.md)"
-msgstr ""
+msgstr "[F14](../tiles/f14.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F15](../tiles/f15.md)"
-msgstr ""
+msgstr "[F15](../tiles/f15.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F16](../tiles/f16.md) - [Inferno Settlement](../towns/inferno.md)"
-msgstr ""
+msgstr "[F16](../tiles/f16.md) - [Asentamiento de Infierno](../towns/inferno.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F17](../tiles/f17.md)"
-msgstr ""
+msgstr "[F17](../tiles/f17.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F18](../tiles/f18.md)"
-msgstr ""
+msgstr "[F18](../tiles/f18.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
-msgid ""
-"[F19](../tiles/f19.md) - [Stronghold Settlement](../towns/stronghold.md)"
-msgstr ""
+msgid "[F19](../tiles/f19.md) - [Stronghold Settlement](../towns/stronghold.md)"
+msgstr "[F19](../tiles/f19.md) - [Asentamiento de Bastión](../towns/stronghold.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F20](../tiles/f20.md)"
-msgstr ""
+msgstr "[F20](../tiles/f20.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[F21](../tiles/f21.md)"
-msgstr ""
+msgstr "[F21](../tiles/f21.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[#F1](../tiles/fx1.md) - [Tower Settlement](../towns/tower.md)"
-msgstr ""
+msgstr "[#F1](../tiles/fx1.md) - [Asentamiento de Torre](../towns/tower.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[#F2](../tiles/fx2.md)"
-msgstr ""
+msgstr "[#F2](../tiles/fx2.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[#F3](../tiles/fx3.md)"
-msgstr ""
+msgstr "[#F3](../tiles/fx3.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[#F4](../tiles/fx4.md)"
-msgstr ""
+msgstr "[#F4](../tiles/fx4.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[#F5](../tiles/fx5.md)"
-msgstr ""
+msgstr "[#F5](../tiles/fx5.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[#F6](../tiles/fx6.md)"
-msgstr ""
+msgstr "[#F6](../tiles/fx6.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[#F7](../tiles/fx7.md)"
-msgstr ""
+msgstr "[#F7](../tiles/fx7.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[#F8](../tiles/fx8.md)"
-msgstr ""
+msgstr "[#F8](../tiles/fx8.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[#F9](../tiles/fx9.md)"
-msgstr ""
+msgstr "[#F9](../tiles/fx9.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md
 msgid "[#F10](../tiles/fx10.md)"
-msgstr ""
+msgstr "[#F10](../tiles/fx10.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md docs/keywords/near_tile.md
 #: docs/keywords/starting_tile.md docs/keywords/water_tile.md
 msgid "[Center Tile](center_tile.md)"
-msgstr "[Tile central] (Center_tile.md)"
+msgstr "[Loseta Central](center_tile.md)"

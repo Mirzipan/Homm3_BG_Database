@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-24 14:23+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -488,7 +489,7 @@ msgstr "Ver También"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
+msgstr "[Expansión de Murallas](../content/rampart_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -607,7 +608,7 @@ msgstr "[Lista de Unidades](index.md)"
 #: docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr "Héroes Con Una Especialidad"
+msgstr "Héroes Con Especialidad"
 
 #. type: Bullet: '- '
 #: docs/units/azure_dragons.md docs/units/black_dragons.md
@@ -615,13 +616,13 @@ msgstr "Héroes Con Una Especialidad"
 #: docs/units/ghost_dragons.md docs/units/gold_dragons.md
 #: docs/units/rust_dragons.md
 msgid "[:might: Mutare](../heroes/mutare.md#specialty)"
-msgstr ""
+msgstr "[:might: Mutare](../heroes/mutare.md#specialty)"
 
 #. type: Title #
 #: docs/units/faerie_dragons.md
 #, no-wrap
 msgid "Faerie Dragons"
-msgstr "Dragones de hadas"
+msgstr "Dragones Hada"
 
 #. type: Plain text
 #: docs/units/faerie_dragons.md
@@ -631,6 +632,9 @@ msgid ""
 "    ![Neutral Faerie Dragons](../assets/units-neutral-azure-faerie_dragons.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Dragones Hada Neutrales](../assets/units-neutral-azure-faerie_dragons.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/faerie_dragons.md
@@ -648,12 +652,23 @@ msgid ""
 "| Cost | 35 :gold:<br>2 :valuables: |\n"
 "| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. |\n"
 msgstr ""
+"| Estadísticas | Neutral |\n"
+"| :--- | :---: |\n"
+"| Ciudad | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :azure: |\n"
+"| Tipo | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| :attack: | 5 |\n"
+"| :defense: | 2 |\n"
+"| :health_points: | 8 |\n"
+"| :initiative: | 15 |\n"
+"| Coste | 35 :gold:<br>2 :valuables: |\n"
+"| Habilidades | :activation: La unidad seleccionada sufre 2 :damage:. Esto es un [:spellpower:](../spells/index.md) que no cuenta para tu límite de [hechizo](../spells/index.md). |\n"
 
 #. type: Bullet: '- '
 #: docs/units/faerie_dragons.md
 msgid "The 2 :damage: can be dealt to any unit on the Combat board."
 msgstr ""
-"El 2: Daño: se puede tratar a cualquier unidad en la placa de combate."
+"Los 2 :damage: se pueden infligir a cualquier unidad del tablero de Combate."
 
 #. type: Bullet: '- '
 #: docs/units/faerie_dragons.md
@@ -662,3 +677,6 @@ msgid ""
 "relevant when the Fearie Dragons are in the player's unit deck (e.g. after "
 "being recruited by [Diplomacy](../abilities/diplomacy.md))."
 msgstr ""
+"La habilidad que cuenta como un [:spellpower:](../spells/index.md) sólo es "
+"relevante cuando los Dragones Hada están en el mazo de unidades del jugador "
+"(ej. después de ser reclutados por [Diplomacia](../abilities/diplomacy.md))."

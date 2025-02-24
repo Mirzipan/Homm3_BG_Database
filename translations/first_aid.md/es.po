@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 17:38+0000\n"
-"PO-Revision-Date: 2024-10-21 17:38+0000\n"
+"PO-Revision-Date: 2025-02-24 15:19+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -52,7 +53,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -635,55 +636,55 @@ msgstr "Héroes con Habilidad de Inicio"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
+msgstr "[Expansión de Murallas](../content/rampart_expansion.md)"
 
 #. type: Title #
 #: docs/abilities/first_aid.md
 #, no-wrap
 msgid "First Aid"
-msgstr "Primeros auxilios"
+msgstr "Primeros Auxilios"
 
 #. type: Plain text
 #: docs/abilities/first_aid.md
 msgid ""
-"![First Aid](../assets/abilities-first_aid.webp){ width=\"340\" align=right "
-"}"
+"![First Aid](../assets/abilities-first_aid.webp){ width=\"340\" "
+"align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/abilities/first_aid.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Remove 1 :damage: from "
-"one of your [units](../units/index.md).</p>\n"
-msgstr ""
+"![Primeros Auxilios](../assets/abilities-first_aid.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/abilities/first_aid.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: When using the [First "
-"Aid Tent](../war_machines/first_aid_tent.md) card, resolve its effect "
-"against the same target 3 times.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Remove 1 :damage: from one of your [units](../units/index.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Retira 1 :damage: de una de tus [unidades](../units/index.md).</p>\n"
+
+#. type: Plain text
+#: docs/abilities/first_aid.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>:instant: When using the [First Aid Tent](../war_machines/first_aid_tent.md) card, resolve its effect against the same target 3 times.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Al usar la carta [Tienda de Primeros Auxilios](../war_machines/first_aid_tent.md), resuelve su efecto contra el mismo objetivo 3 veces.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/abilities/first_aid.md
 msgid "[:magic: Gem](../heroes/gem.md)"
-msgstr ""
+msgstr "[:magic: Gem](../heroes/gem.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/first_aid.md
 msgid "[:magic: Merist](../heroes/merist.md)"
-msgstr ""
+msgstr "[:magic: Merist](../heroes/merist.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/first_aid.md
 msgid ""
-"The expert effect can only be played when the [First Aid "
-"Tent](../war_machines/first_aid_tent.md) activates, which can only happen at"
-" the beginning of each Combat round."
+"The expert effect can only be played when the [First Aid Tent](../"
+"war_machines/first_aid_tent.md) activates, which can only happen at the "
+"beginning of each Combat round."
 msgstr ""
+"El efecto experto sólo puede jugarse cuando se activa la [Tienda de "
+"Primeros Auxilios](../war_machines/first_aid_tent.md), lo que sólo puede "
+"ocurrir al principio de cada ronda de Combate."
 
 #. type: Bullet: '- '
 #: docs/abilities/first_aid.md
@@ -691,3 +692,5 @@ msgid ""
 "Without an active [First Aid Tent](../war_machines/first_aid_tent.md), only "
 "the basic effect of this ability can be resolved."
 msgstr ""
+"Sin una [Tienda de Primeros Auxilios](../war_machines/first_aid_tent.md) "
+"activa, sólo se puede resolver el efecto básico de esta habilidad."

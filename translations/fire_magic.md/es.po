@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2025-02-20 16:00+0100\n"
+"PO-Revision-Date: 2025-02-24 15:04+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -600,18 +600,20 @@ msgid ""
 "![Fire Magic](../assets/abilities-fire_magic.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Magia de Fuego](../assets/abilities-fire_magic.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/abilities/fire_magic.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for spells from [School of Fire Magic](../spells/school_of_fire_magic.md).</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: para hechizos de [Escuela de Magia de Fuego](../spells/school_of_fire_magic.md).</p>\n"
 
 #. type: Plain text
 #: docs/abilities/fire_magic.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>While casting :spellpower: from the [School of Fire](../spells/school_of_fire_magic.md), you can discard this card, then gain +3 :empower:.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Mientras lanzas :spellpower: de la [Escuela de Fuego](../spells/school_of_fire_magic.md), puedes descartarte de esta carta, y luego ganar +3 :empower:.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/abilities/fire_magic.md
@@ -621,4 +623,4 @@ msgstr "[:magic: Luna](../heroes/luna.md)"
 #. type: Bullet: '- '
 #: docs/abilities/fire_magic.md
 msgid "[School of Fire Magic](../spells/school_of_fire_magic.md)"
-msgstr ""
+msgstr "[Escuela de Magia de Fuego](../spells/school_of_fire_magic.md)"

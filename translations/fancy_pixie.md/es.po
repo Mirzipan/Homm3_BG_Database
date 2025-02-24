@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-22 19:41+0200\n"
-"PO-Revision-Date: 2024-10-22 19:41+0200\n"
+"PO-Revision-Date: 2025-02-24 14:38+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -619,7 +620,7 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -682,7 +683,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -717,12 +718,8 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Astrologers "
-"Proclaim](index.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Proclama de los "
-"Astrólogos](index.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Proclama de los Astrólogos](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -763,31 +760,25 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/fancy_pixie.md
 #, no-wrap
 msgid "Fancy Pixie"
-msgstr "Pixie elegante"
+msgstr "Duendecillo"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/fancy_pixie.md
 msgid ""
-"![Fancy Pixie](../assets/astrologers_proclaim-fancy_pixie.webp){ "
-"width=\"475\" align=right }"
+"![Fancy Pixie](../assets/astrologers_proclaim-fancy_pixie.webp)"
+"{ width=\"475\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/astrologers_proclaim/fancy_pixie.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>Each player immediately gains 1 "
-":morale_positive:</p>\n"
-msgstr ""
+"![Duendecillo](../assets/astrologers_proclaim-fancy_pixie.webp)"
+"{ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/fancy_pixie.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*I decided to take, into my own "
-"hands, fate.<br>This was the first time for love, I made.<br>We were young, "
-"I was the moment's owner.<br>We went out on a date to Skeleton "
-"Transformer.<br>Her heart is on my sleeve, we know each other, "
-"thoroughly.<br>I've looked right through her, I know every bone of "
-"she.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>Each player immediately gains 1 :morale_positive:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Cada jugador inmediatamente gana 1 :morale_positive:</p>\n"
+
+#. type: Plain text
+#: docs/astrologers_proclaim/fancy_pixie.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*I decided to take, into my own hands, fate.<br>This was the first time for love, I made.<br>We were young, I was the moment's owner.<br>We went out on a date to Skeleton Transformer.<br>Her heart is on my sleeve, we know each other, thoroughly.<br>I've looked right through her, I know every bone of she.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Decidí tomar, en mis propias manos, el destino.<br>Esta fue la primera vez para el amor, que hice.<br>Éramos jóvenes, yo era el dueño del momento.<br>Salimos en una cita a Skeleton Transformer.<br>Su corazón está en mi manga, nos conocemos, a fondo.<br>He mirado a través de ella, conozco cada hueso de ella.*</p>\n"

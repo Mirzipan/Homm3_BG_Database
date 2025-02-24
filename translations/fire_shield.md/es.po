@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-24 15:13+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -576,10 +577,8 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/frenzy.md docs/spells/inferno.md docs/spells/sacrifice.md
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Expert Fire "
-"Spell](school_of_fire_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Expert Fire Spell](school_of_fire_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo de Fuego Experto](school_of_fire_magic.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/berserk.md docs/spells/blind.md docs/spells/bloodlust.md
@@ -591,38 +590,34 @@ msgstr ""
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #: docs/spells/visions.md
 msgid "[School of Fire Magic](school_of_fire_magic.md)"
-msgstr "[School of Fire Magic] (School_of_fire_magic.md)"
+msgstr "[Escuela de Magia de Fuego](school_of_fire_magic.md)"
 
 #. type: Title #
 #: docs/spells/fire_shield.md
 #, no-wrap
 msgid "Fire Shield"
-msgstr "Escudo de fuego"
+msgstr "Escudo de Fuego"
 
 #. type: Plain text
 #: docs/spells/fire_shield.md
 msgid ""
-"![Fire Shield](../assets/spells-fire_shield.webp){ width=\"340\" align=right"
-" }"
+"![Fire Shield](../assets/spells-fire_shield.webp){ width=\"340\" "
+"align=right }"
 msgstr ""
+"![Escudo de Fuego](../assets/spells-fire_shield.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/spells/fire_shield.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:ongoing: When the targeted "
-"[unit](../units/index.md) is attacked by an adjacent "
-"[unit](../units/index.md) during this Combat round, the attacking "
-"[unit](../units/index.md) takes:<br><br>:empower: 0 ➣ 1 "
-":damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— OR"
-" —<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: When the targeted [unit](../units/index.md) is attacked by an adjacent [unit](../units/index.md) during this Combat round, the attacking [unit](../units/index.md) takes:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Cuando la [unidad] objetivo(../units/index.md) es atacada por una [unidad] adyacente(../units/index.md) durante esta ronda de Combate, la [unidad] atacante(../units/index.md) toma:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/fire_shield.md
 msgid ""
-"The attacking unit is damaged by the Fire Shield even if it defeats the unit"
-" which has Fire Shield."
+"The attacking unit is damaged by the Fire Shield even if it defeats the "
+"unit which has Fire Shield."
 msgstr ""
-"La unidad de ataque está dañada por el escudo de fuego incluso si derrota a "
-"la unidad que tiene escudo de fuego."
+"La unidad atacante es dañada por el Escudo de Fuego incluso si derrota a la "
+"unidad que tiene Escudo de Fuego."
