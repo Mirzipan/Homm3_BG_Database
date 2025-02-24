@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-24 12:17+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -514,41 +515,32 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/speculum.md docs/artifacts/spirit_of_oppression.md
 #: docs/artifacts/torso_of_legion.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Minor "
-"Artifact](../keywords/minor_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Artefacto "
-"Menor](../keywords/minor_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/minor_artifact.md)</p>\n"
 
 #. type: Title #
 #: docs/artifacts/equestrians_gloves.md
 #, no-wrap
 msgid "Equestrian's Gloves"
-msgstr "Guantes de ecuestre"
+msgstr "Guantes de Equitación"
 
 #. type: Plain text
 #: docs/artifacts/equestrians_gloves.md
 msgid ""
-"![Equestrian's Gloves](../assets/artifacts_minor-equestrians_gloves.webp){ "
-"width=\"340\" align=right }"
+"![Equestrian's Gloves](../assets/artifacts_minor-equestrians_gloves.webp)"
+"{ width=\"340\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/artifacts/equestrians_gloves.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:ongoing: For this Combat, your "
-"selected [unit](../units/index.md) gains +1 :initiative:.<br><br>— OR "
-"—<br><br>:instant: Your [Hero](../heroes/index.md) gains +1 "
-":movement:.</p>\n"
-msgstr ""
+"![Guantes de Equitación](../assets/artifacts_minor-equestrians_gloves.webp)"
+"{ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/equestrians_gloves.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*A brief stop at an improbable "
-"rural inn yields an exchange of money, tales, and accidentally, luggage. You"
-" find a magical pair of gloves in your new backpack.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :initiative:.<br><br>— OR —<br><br>:instant: Your [Hero](../heroes/index.md) gains +1 :movement:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Durante este Combate, tu [unidad](../units/index.md) seleccionada gana +1 :initiative:.<br><br>— O —<br><br>:instant: Tu [Héroe](../heroes/index.md) gana +1 :movement:.</p>\n"
+
+#. type: Plain text
+#: docs/artifacts/equestrians_gloves.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*A brief stop at an improbable rural inn yields an exchange of money, tales, and accidentally, luggage. You find a magical pair of gloves in your new backpack.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Una breve parada en una improbable posada rural da lugar a un intercambio de dinero, cuentos y, accidentalmente, equipaje. Encuentras un par de guantes mágicos en tu nueva mochila.*</p>\n"

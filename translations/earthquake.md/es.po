@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-24 11:09+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -460,12 +461,8 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/anti-magic.md docs/spells/earthquake.md docs/spells/shield.md
 #: docs/spells/slow.md docs/spells/stone_skin.md docs/spells/view_earth.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Basic Earth "
-"Spell](school_of_earth_magic.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Hechizo Básico de "
-"Tierra](school_of_earth_magic.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Basic Earth Spell](school_of_earth_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Básico de Tierra](school_of_earth_magic.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/anti-magic.md docs/spells/earthquake.md
@@ -489,15 +486,10 @@ msgstr "Terremoto"
 msgid ""
 "![Earthquake](../assets/spells-earthquake.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Terremoto](../assets/spells-earthquake.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/earthquake.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: During a "
-"[Town](../towns/index.md) siege:<br><br>:empower: 0 ➣ Remove 1 Gate or Wall "
-"obstacle of your choice.<br>:empower: 1 ➣ Remove 2 Gate or Wall obstacles of"
-" your choice.<br>:empower: 2 ➣ Every [unit](../units/index.md) adjacent to a"
-" Wall or Gate obstacle suffers 1 :damage:. Remove all Gate or Wall "
-"obstacles.<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: During a [Town](../towns/index.md) siege:<br><br>:empower: 0 ➣ Remove 1 Gate or Wall obstacle of your choice.<br>:empower: 1 ➣ Remove 2 Gate or Wall obstacles of your choice.<br>:empower: 2 ➣ Every [unit](../units/index.md) adjacent to a Wall or Gate obstacle suffers 1 :damage:. Remove all Gate or Wall obstacles.<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Durante un asedio de [Town](../towns/index.md):<br><br>:empower: 0 ➣ Elimina 1 obstáculo de Puerta o Muro a tu elección.<br>:empower: 1 ➣ Elimina 2 obstáculos de Puerta o Muro a tu elección.<br>:empower: 2 ➣ Cada [unidad](../units/index.md) adyacente a un obstáculo Muro o Puerta sufre 1 :damage:. Elimina todos los obstáculos de Puerta o Muro.<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"

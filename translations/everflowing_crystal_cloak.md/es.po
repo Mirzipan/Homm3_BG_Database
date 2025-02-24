@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-24 12:37+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -506,10 +507,8 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Major "
-"Artifact](../keywords/major_artifact.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../keywords/major_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Mayor](../keywords/major_artifact.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
@@ -569,7 +568,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/everflowing_crystal_cloak.md
 #, no-wrap
 msgid "Everflowing Crystal Cloak"
-msgstr "Capa de cristal siempre flujo"
+msgstr "Capa de Cristal Siempre Floreciente"
 
 #. type: Plain text
 #: docs/artifacts/everflowing_crystal_cloak.md
@@ -577,33 +576,29 @@ msgid ""
 "![Everflowing Crystal Cloak](../assets/artifacts_major-"
 "everflowing_crystal_cloak.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Capa de Cristal Siempre Fluido](../assets/artifacts_major-"
+"everflowing_crystal_cloak.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/everflowing_crystal_cloak.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Discard 3 cards to gain "
-"2 :valuables:.<br><br>— OR —<br><br>:instant: Gain 1 :valuables:.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Discard 3 cards to gain 2 :valuables:.<br><br>— OR —<br><br>:instant: Gain 1 :valuables:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Descarta 3 cartas para ganar 2 :valuables:.<br><br>— O —<br><br>:instant: Gana 1 :valuables:.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/everflowing_crystal_cloak.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*Taking shelter from a storm in a "
-"small cave, you notice a small patch of crystal in one corner. Curious, you "
-"discover that the patch is really a cloak, and when you break a piece off it"
-" mysteriously grows back. You decide to take the cloak with you.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*Taking shelter from a storm in a small cave, you notice a small patch of crystal in one corner. Curious, you discover that the patch is really a cloak, and when you break a piece off it mysteriously grows back. You decide to take the cloak with you.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Al refugiarte de una tormenta en una pequeña cueva, observas un pequeño trozo de cristal en una esquina. Te pica la curiosidad y descubres que se trata de una capa que, al romperla, vuelve a crecer misteriosamente. Decides llevarte la capa contigo.*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/everflowing_crystal_cloak.md
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
 msgid "[Everpouring Vial of Mercury](everpouring_vial_of_mercury.md)"
-msgstr "[Vial de Mercury] (Everpouring_vial_of_mercury.md)"
+msgstr "[Vial de Mercurio](everpouring_vial_of_mercury.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/everflowing_crystal_cloak.md
 #: docs/artifacts/everpouring_vial_of_mercury.md
 msgid "[Eversmoking Ring of Sulfur](eversmoking_ring_of_sulfur.md)"
-msgstr "[Anillo de azufre everfonmupos] (eversmoking_ring_of_sulfur.md)"
+msgstr "[Anillo de Azufre Humeante](eversmoking_ring_of_sulfur.md)"

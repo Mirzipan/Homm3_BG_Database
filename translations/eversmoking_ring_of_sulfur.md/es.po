@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-24 12:39+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -485,12 +486,8 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/speculum.md docs/artifacts/spirit_of_oppression.md
 #: docs/artifacts/torso_of_legion.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Minor "
-"Artifact](../keywords/minor_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Artefacto "
-"Menor](../keywords/minor_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/minor_artifact.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/celestial_necklace_of_bliss.md
@@ -508,44 +505,40 @@ msgstr ""
 #: docs/spells/air_shield.md docs/spells/sacrifice.md docs/units/fangarm.md
 #: docs/units/leprechaun.md docs/units/satyrs.md docs/units/steel_golems.md
 msgid "[Regular Stretch Goals 2024](../content/regular_stretch_goals.md)"
-msgstr ""
+msgstr "[Metas Regulares 2024](../content/regular_stretch_goals.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/everflowing_crystal_cloak.md
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
 msgid "[Everpouring Vial of Mercury](everpouring_vial_of_mercury.md)"
-msgstr "[Vial de Mercury] (Everpouring_vial_of_mercury.md)"
+msgstr "[Vial de Mercurio](everpouring_vial_of_mercury.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/everpouring_vial_of_mercury.md
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
 msgid "[Everflowing Crystal Cloak](everflowing_crystal_cloak.md)"
-msgstr "[Cloak de cristal siempre fluido] (Everflowing_crystal_cloak.md)"
+msgstr "[Capa de Cristal Siempre Fluido](everflowing_crystal_cloak.md)"
 
 #. type: Title #
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
 #, no-wrap
 msgid "Eversmoking Ring of Sulfur"
-msgstr "Anillo de azufre eterno"
+msgstr "Anillo de Azufre Humeante"
 
 #. type: Plain text
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
 msgid ""
-"![Eversmoking Ring of Sulfur](../assets/player-deck-back.webp){ "
-"width=\"340\" align=right }"
+"![Eversmoking Ring of Sulfur](../assets/player-deck-back.webp)"
+"{ width=\"340\" align=right }"
 msgstr ""
+"![Anillo de Azufre Humeante](../assets/player-deck-back.webp)"
+"{ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:permanent: At the beginning of "
-"each Resources round, gain 1 :valuables:.<br><br>— OR —<br><br>:instant: "
-"Remove this card, then gain 2 :valuables:.</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>:permanent: At the beginning of "
-"each Recursos round, gain 1 :valuables:.<br><br>— OR —<br><br>:instant: "
-"Remove this card, then gain 2 :valuables:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:permanent: At the beginning of each Resources round, gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 2 :valuables:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:permanent: Al inicio de cada ronda de Recursos, gana 1 :valuables:.<br><br>— O —<br><br>:instant: Retira esta carta, después gana 2 :valuables:.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
@@ -557,4 +550,4 @@ msgstr ""
 #: docs/artifacts/sandals_of_the_saint.md docs/artifacts/skull_helmet.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*🚧*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*🚧*</p>\n"

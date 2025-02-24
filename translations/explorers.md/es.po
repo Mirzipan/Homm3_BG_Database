@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-24 12:46+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -485,7 +486,7 @@ msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 #: docs/abilities/scholar.md docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/explorers.md docs/astrologers_proclaim/hero.md
 msgid "[List of Statistics](../statistics/index.md)"
-msgstr ""
+msgstr "[Lista de Estadísticas](../statistics/index.md)"
 
 #. type: Link reference
 #: docs/artifacts/spellbinders_hat.md docs/astrologers_proclaim/explorers.md
@@ -494,12 +495,8 @@ msgstr ""
 #: docs/units/crusaders.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/hydras.md docs/units/liches.md docs/units/titans.md
 #, no-wrap
-msgid ""
-"[^1]: Not officially confirmed by game designers, and is therefore "
-"considered a Community rule."
-msgstr ""
-"[^1]: No se confirma oficialmente por los diseñadores de juegos y, por lo "
-"tanto, se considera una regla comunitaria."
+msgid "[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule."
+msgstr "[^1]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria."
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -545,7 +542,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -591,7 +588,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -626,12 +623,8 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Astrologers "
-"Proclaim](index.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Proclama de los "
-"Astrólogos](index.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Proclama de los Astrólogos](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -672,7 +665,7 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/explorers.md
 #, no-wrap
 msgid "Explorers"
-msgstr ""
+msgstr "Exploradores"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/explorers.md
@@ -680,32 +673,28 @@ msgid ""
 "![Explorers](../assets/astrologers_proclaim-explorers.webp){ width=\"475\" "
 "align=right }"
 msgstr ""
+"![Exploradoras](../assets/astrologers_proclaim-explorers.webp)"
+"{ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/explorers.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>During this round, players do not "
-"draw cards at the start of their turns. Instead, each player draws cards up "
-"their :hand:. Then, each of them may discard any number of cards. For every "
-"3 cards discarded this way, they can Remove one "
-"[Statistic](../statistics/index.md) card and replace it with an [Empowered "
-"Statistic](../statistics/index.md) card of the same type.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>During this round, players do not draw cards at the start of their turns. Instead, each player draws cards up their :hand:. Then, each of them may discard any number of cards. For every 3 cards discarded this way, they can Remove one [Statistic](../statistics/index.md) card and replace it with an [Empowered Statistic](../statistics/index.md) card of the same type.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Durante esta ronda, los jugadores no roban cartas al comienzo de sus turnos. En su lugar, cada jugador roba cartas de su :hand:. Después, cada uno de ellos puede descartarse de cualquier número de cartas. Por cada 3 cartas descartadas de esta manera, pueden Retirar una carta [Estadística](../statistics/index.md) y reemplazarla por una carta [Estadística Mejorada](../statistics/index.md) del mismo tipo.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/explorers.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*\"We are explorers. The ones to "
-"delve into the unknown regions of experience. Demons to some, angels to "
-"others.\"*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*\"We are explorers. The ones to delve into the unknown regions of experience. Demons to some, angels to others.\"*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*\"Somos exploradores. Los que se adentran en las regiones desconocidas de la experiencia. Demonios para unos, ángeles para otros.\"*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/explorers.md
 msgid ""
 "[^1] The removed [statistic](../statistics/index.md) needs to come from the "
-"player's hand. When taking the empowered "
-"[statistic](../statistics/index.md), player adds it to their hand."
+"player's hand. When taking the empowered [statistic](../statistics/index."
+"md), player adds it to their hand."
 msgstr ""
+"[^1] La [estadística](../statistics/index.md) eliminada debe proceder de la "
+"mano del jugador. Al coger la [estadística] mejorada(../statistics/index."
+"md), el jugador la añade a su mano."

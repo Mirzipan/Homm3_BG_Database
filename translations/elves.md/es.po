@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-24 11:47+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -698,7 +699,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr "Héroes Con Una Especialidad"
+msgstr "Héroes Con Especialidad"
 
 #. type: Bullet: '- '
 #: docs/units/basilisks.md docs/units/centaurs.md docs/units/dendroids.md
@@ -724,7 +725,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Elves](../assets/units-rampart-bronze-elves-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Elfos](../assets/units-rampart-bronze-elves-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -736,7 +737,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Elves](../assets/units-rampart-bronze-elves-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Elfos](../assets/units-rampart-bronze-elves-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -747,6 +748,9 @@ msgid ""
 "        ![Neutral Elves](../assets/units-neutral-bronze-elves.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Elfos Neutrales](../assets/units-neutral-bronze-elves.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/elves.md
@@ -766,26 +770,26 @@ msgid ""
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :bronze: | :bronze: | :bronze: |\n"
-"| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| Ciudad | [Murallas](../towns/rampart.md) | [Murallas](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :bronze: | :bronze: | :bronze: |\n"
+"| Tipo | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
 "| :attack: | 2 | **3** | 2 |\n"
 "| :defense: | 1 | 1 | 1 |\n"
 "| :health_points: | 3 | 3 | 3 |\n"
 "| :initiative: | 6 | **7** | 6 |\n"
-"| Cost | 4 :gold: | 7 :gold: | 7 :gold: |\n"
-"| Abilities | - | :unit_attack: If a target is a non adjacent unit, on a \"-1\" or \"0\" result, attack this target again. | :unit_attack: If a target is a non adjacent unit, on a \"-1\" or \"0\" result, attack this target again. |\n"
+"| Coste | 4 :gold: | 7 :gold: | 7 :gold: |\n"
+"| Habilidades | - | :unit_attack: Si un objetivo es una unidad no adyacente, con un resultado de \"-1\" o \"0\", ataca de nuevo a este objetivo. | :unit_attack: Si un objetivo es una unidad no adyacente, con un resultado de \"-1\" o \"0\", ataca de nuevo a este objetivo. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/elves.md docs/units/sharpshooters.md
 msgid "[:might: Gelu](../heroes/gelu.md#specialty)"
-msgstr ""
+msgstr "[:might: Gelu](../heroes/gelu.md#specialty)"
 
 #. type: Bullet: '- '
 #: docs/units/elves.md
 msgid ""
-"**Pack and Neutral** - The Elves can attack at most one additional time, not"
-" more."
-msgstr ""
-"**Manada and Neutral** - The Elves can attack at most one additional time, "
+"**Pack and Neutral** - The Elves can attack at most one additional time, "
 "not more."
+msgstr ""
+"**Manada y Neutral** - Los Elfos pueden atacar como máximo una vez "
+"adicional, no más."

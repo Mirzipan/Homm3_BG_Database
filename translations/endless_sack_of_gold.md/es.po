@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-24 12:02+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -552,41 +553,32 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/spellbinders_hat.md docs/artifacts/sword_of_judgement.md
 #: docs/artifacts/titans_cuirass.md docs/artifacts/titans_gladius.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Relic "
-"Artifact](../keywords/relic_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Artefacto "
-"Reliquia](../keywords/relic_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Reliquia](../keywords/relic_artifact.md)</p>\n"
 
 #. type: Title #
 #: docs/artifacts/endless_sack_of_gold.md
 #, no-wrap
 msgid "Endless Sack of Gold"
-msgstr "Saca sin fin de oro"
+msgstr "Saco de Oro Interminable"
 
 #. type: Plain text
 #: docs/artifacts/endless_sack_of_gold.md
 msgid ""
-"![Endless Sack of Gold](../assets/artifacts_relic-"
-"endless_sack_of_gold.webp){ width=\"340\" align=right }"
+"![Endless Sack of Gold](../assets/artifacts_relic-endless_sack_of_gold.webp)"
+"{ width=\"340\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/artifacts/endless_sack_of_gold.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Gain 5 :gold:.<br><br>— "
-"OR —<br><br>:instant: Remove this card, then gain 8 :gold:.</p>\n"
-msgstr ""
+"![Saco de Oro Interminable](../assets/artifacts_relic-endless_sack_of_gold."
+"webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/endless_sack_of_gold.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*A little leprechaun dances "
-"gleefully around a magical sack. Seeing you approach, he stops in mid-"
-"stride. The little man screams and stamps his foot ferociously, vanishing "
-"into thin air. Remembering the old leprechaun saying, 'Finders Keepers', you"
-" grab the sack and leave.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Gain 5 :gold:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 8 :gold:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Gana 5 :gold:.<br><br>— O —<br><br>:instant: Retira esta carta, luego gana 8 :gold:.</p>\n"
+
+#. type: Plain text
+#: docs/artifacts/endless_sack_of_gold.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*A little leprechaun dances gleefully around a magical sack. Seeing you approach, he stops in mid-stride. The little man screams and stamps his foot ferociously, vanishing into thin air. Remembering the old leprechaun saying, 'Finders Keepers', you grab the sack and leave.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Un pequeño duende baila alegremente alrededor de un saco mágico. Al ver que te acercas, se detiene en seco. El hombrecillo grita y golpea ferozmente con el pie, desvaneciéndose en el aire. Recordando el viejo dicho del duende: \"Quien la encuentra, la guarda\", coges el saco y te vas.*</p>\n"

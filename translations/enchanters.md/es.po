@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-24 11:52+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -664,13 +665,13 @@ msgstr "[Lista de Unidades](index.md)"
 #: docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr "Héroes Con Una Especialidad"
+msgstr "Héroes Con Especialidad"
 
 #. type: Title #
 #: docs/units/enchanters.md
 #, no-wrap
 msgid "Enchanters"
-msgstr "Encantador"
+msgstr "Encantadores"
 
 #. type: Plain text
 #: docs/units/enchanters.md
@@ -680,6 +681,9 @@ msgid ""
 "    ![Neutral Enchanters](../assets/units-neutral-golden-enchanters.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Encantadores Neutrales](../assets/units-neutral-golden-enchanters.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/enchanters.md
@@ -697,20 +701,31 @@ msgid ""
 "| Cost | 16 :gold: |\n"
 "| Abilities | :activation: Remove up to 2 :damage: from a friendly unit. Otherwise, Enchanters gain +1 :attack:. |\n"
 msgstr ""
+"| Estadísticas | Neutral |\n"
+"| :--- | :---: |\n"
+"| Ciudad | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :golden: |\n"
+"| Tipo | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| :attack: | 4 |\n"
+"| :defense: | 1 |\n"
+"| :health_points: | 5 |\n"
+"| :initiative: | 5 |\n"
+"| Coste | 16 :gold: |\n"
+"| Habilidades | :activation: Elimina hasta 2 :damage: de una unidad aliada. De lo contrario, los Encantadores ganan +1 :attack:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/enchanters.md docs/units/magi.md
 msgid "[:magic: Dracon](../heroes/dracon.md#specialty)"
-msgstr ""
+msgstr "[:magic: Dracon](../heroes/dracon.md#specialty)"
 
 #. type: Bullet: '- '
 #: docs/units/enchanters.md
 msgid ""
-"If possible, the healing effect has to be chosen. The healing effect can not"
-" be skipped in favor of +1 :attack:."
+"If possible, the healing effect has to be chosen. The healing effect can "
+"not be skipped in favor of +1 :attack:."
 msgstr ""
-"Si es posible, el efecto curativo debe ser elegido.El efecto de curación no "
-"se puede omitir a favor de +1 :attack:."
+"Si es posible, hay que elegir el efecto curativo. El efecto curativo no se "
+"puede omitir en favor del +1 :attack:."
 
 #. type: Bullet: '- '
 #: docs/units/enchanters.md
@@ -720,4 +735,4 @@ msgstr "La curación se aplica justo después de la activación."
 #. type: Bullet: '- '
 #: docs/units/enchanters.md
 msgid "Enchaters can not heal themselves."
-msgstr "Los encantadores no pueden sanarse a sí mismos."
+msgstr "Los Encantadores no pueden sanarse a sí mismos."

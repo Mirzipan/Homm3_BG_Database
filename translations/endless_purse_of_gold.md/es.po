@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-24 11:58+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -460,10 +461,8 @@ msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Major "
-"Artifact](../keywords/major_artifact.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../keywords/major_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Mayor](../keywords/major_artifact.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
@@ -523,29 +522,25 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/endless_purse_of_gold.md
 #, no-wrap
 msgid "Endless Purse of Gold"
-msgstr "Monedero interminable de oro"
+msgstr "Monedero Interminable de Oro"
 
 #. type: Plain text
 #: docs/artifacts/endless_purse_of_gold.md
 msgid ""
-"![Endless Purse of Gold](../assets/artifacts_major-"
+"![Endless Purse of Gold](../assets/artifacts_major-endless_purse_of_gold."
+"webp){ width=\"340\" align=right }"
+msgstr ""
+"![Monedero Interminable de Oro](../assets/artifacts_major-"
 "endless_purse_of_gold.webp){ width=\"340\" align=right }"
-msgstr ""
 
 #. type: Plain text
 #: docs/artifacts/endless_purse_of_gold.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Gain 3 :gold:.<br><br>— "
-"OR —<br><br>:instant: Remove this card and discard 2 cards from your hand, "
-"then gain 8 :gold:.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Gain 3 :gold:.<br><br>— OR —<br><br>:instant: Remove this card and discard 2 cards from your hand, then gain 8 :gold:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Gana 3 :gold:.<br><br>— O —<br><br>:instant: Retira esta carta y descarta 2 cartas de tu mano, luego gana 8 :gold:.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/endless_purse_of_gold.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*In your travels, you find a "
-"leather purse filled with gold that once belonged to a great warrior king "
-"who had the ability to transform any inanimate object into gold.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*In your travels, you find a leather purse filled with gold that once belonged to a great warrior king who had the ability to transform any inanimate object into gold.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*En tus viajes, encuentras un bolso de cuero lleno de oro que perteneció a un gran rey guerrero que tenía la habilidad de transformar cualquier objeto inanimado en oro.*</p>\n"

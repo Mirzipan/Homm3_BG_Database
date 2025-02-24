@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 11:09+0000\n"
-"PO-Revision-Date: 2024-10-21 11:09+0000\n"
+"PO-Revision-Date: 2025-02-24 11:48+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -27,8 +28,7 @@ msgstr ""
 #: docs/abilities/resistance.md docs/abilities/sorcery.md
 #: docs/abilities/water_magic.md docs/artifacts/angel_wings.md
 #: docs/artifacts/arms_of_legion.md docs/artifacts/centaurs_axe.md
-#: docs/artifacts/head_of_legion.md
-#: docs/artifacts/inexhaustible_cart_of_ore.md
+#: docs/artifacts/head_of_legion.md docs/artifacts/inexhaustible_cart_of_ore.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
 #: docs/artifacts/spellbinders_hat.md docs/artifacts/torso_of_legion.md
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -70,9 +70,9 @@ msgstr ""
 #: docs/units/mummies.md docs/units/nomads.md docs/units/peasants.md
 #: docs/units/pegasi.md docs/units/pit_lords.md docs/units/rogues.md
 #: docs/units/skeletons.md docs/units/titans.md docs/units/trolls.md
-#: docs/units/unicorns.md docs/units/vampires.md
-#: docs/units/water_elementals.md docs/units/wraiths.md docs/units/wyverns.md
-#: docs/units/zombies.md docs/war_machines/first_aid_tent.md
+#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
+#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zombies.md
+#: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
 msgstr "Notas"
@@ -81,4 +81,4 @@ msgstr "Notas"
 #: docs/keywords/empty_field.md
 #, no-wrap
 msgid "Empty Field"
-msgstr "Campo vacío"
+msgstr "Zona Vacía"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-24 11:54+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -506,10 +507,8 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Major "
-"Artifact](../keywords/major_artifact.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../keywords/major_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Mayor](../keywords/major_artifact.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
@@ -569,28 +568,25 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/endless_bag_of_gold.md
 #, no-wrap
 msgid "Endless Bag of Gold"
-msgstr "Bolsa sin fin de oro"
+msgstr "Bolsa Interminable de Oro"
 
 #. type: Plain text
 #: docs/artifacts/endless_bag_of_gold.md
 msgid ""
-"![Endless Bag of Gold](../assets/artifacts_major-endless_bag_of_gold.webp){ "
-"width=\"340\" align=right }"
+"![Endless Bag of Gold](../assets/artifacts_major-endless_bag_of_gold.webp)"
+"{ width=\"340\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/artifacts/endless_bag_of_gold.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Gain 3 :gold:.<br><br>— "
-"OR —<br><br>:instant: Remove this card, then gain 6 :gold:.</p>\n"
-msgstr ""
+"![Bolsa Interminable de Oro](../assets/artifacts_major-endless_bag_of_gold."
+"webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/endless_bag_of_gold.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*A nobleman, separated from her "
-"traveling companions, asks for your help. After escorting her home, she "
-"rewards you with a bag filled with Gold.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Gain 3 :gold:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 6 :gold:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Gana 3 :gold:.<br><br>— O —<br><br>:instant: Retira esta carta, después gana 6 :gold:.</p>\n"
+
+#. type: Plain text
+#: docs/artifacts/endless_bag_of_gold.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*A nobleman, separated from her traveling companions, asks for your help. After escorting her home, she rewards you with a bag filled with Gold.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Una noble, separada de sus compañeros de viaje, te pide ayuda. Tras escoltarla hasta su casa, te recompensa con una bolsa llena de Oro.*</p>\n"
