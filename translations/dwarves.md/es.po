@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-24 09:24+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -497,12 +498,8 @@ msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
 #: docs/units/crusaders.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/hydras.md docs/units/liches.md docs/units/titans.md
 #, no-wrap
-msgid ""
-"[^1]: Not officially confirmed by game designers, and is therefore "
-"considered a Community rule."
-msgstr ""
-"[^1]: No se confirma oficialmente por los diseñadores de juegos y, por lo "
-"tanto, se considera una regla comunitaria."
+msgid "[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule."
+msgstr "[^1]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -711,7 +708,7 @@ msgstr "[Expansión de Torre](../content/tower_expansion.md) (Neutral)"
 #: docs/units/dwarves.md
 #, no-wrap
 msgid "Dwarves"
-msgstr ""
+msgstr "Enanos"
 
 #. type: Plain text
 #: docs/units/dwarves.md
@@ -722,7 +719,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Dwarves](../assets/units-rampart-bronze-dwarves-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Enanos](../assets/units-rampart-bronze-dwarves-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -734,7 +731,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Dwarves](../assets/units-rampart-bronze-dwarves-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Enanos](../assets/units-rampart-bronze-dwarves-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -745,6 +742,9 @@ msgid ""
 "        ![Neutral Dwarves](../assets/units-neutral-bronze-dwarves.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Enanos Neutrales](../assets/units-neutral-bronze-dwarves.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/dwarves.md
@@ -764,15 +764,15 @@ msgid ""
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :bronze: | :bronze: | :bronze: |\n"
-"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| Ciudad | [Murallas](../towns/rampart.md) | [Murallas](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :bronze: | :bronze: | :bronze: |\n"
+"| Tipo | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
 "| :attack: | 2 | **3** | 2 |\n"
 "| :defense: | 1 | 1 | 1 |\n"
 "| :health_points: | 3 | 3 | 4 |\n"
 "| :initiative: | 3 | **5** | 3 |\n"
-"| Cost | 3 :gold: | 4 :gold: | 4 :gold: |\n"
-"| Abilities | :unit_passive: If this unit is targeted by any [Spell](../spells/index.md) or [Specialty](../heroes/index.md) card, roll 1 [Attack die](../dice.md#attack-die). On a \"+1\" result, ignore the card's effect. | :unit_passive: If this unit is targeted by any [Spell](../spells/index.md) or [Specialty](../heroes/index.md) card, roll 1 [Attack die](../dice.md#attack-die). On a \"+1\" result, ignore the card's effect. | :unit_passive: If this unit is targeted by any [Spell](../spells/index.md) or [Specialty](../heroes/index.md) card, roll 1 [Attack die](../dice.md#attack-die). On a \"+1\" result, ignore the card's effect. |\n"
+"| Coste | 3 :gold: | 4 :gold: | 4 :gold: |\n"
+"| Habilidades | :unit_passive: Si esta unidad es objetivo de alguna carta de  [Hechizo](../spells/index.md) o [Especialidad](../heroes/index.md), lanza 1 [dado de Ataque](../dice.md#attack-die). Con un resultado \"+1\", ignora el efecto de la carta. | :unit_passive: Si esta unidad es objetivo de alguna carta de  [Hechizo](../spells/index.md) o [Especialidad](../heroes/index.md), lanza 1 [dado de Ataque](../dice.md#attack-die). Con un resultado \"+1\", ignora el efecto de la carta. | :unit_passive: Si esta unidad es objetivo de alguna carta de  [Hechizo](../spells/index.md) o [Especialidad](../heroes/index.md), lanza 1 [dado de Ataque](../dice.md#attack-die). Con un resultado \"+1\", ignora el efecto de la carta. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/dwarves.md
@@ -780,8 +780,8 @@ msgid ""
 "The Attack die needs to be rolled even if the spell or specialty that was "
 "used was friendly."
 msgstr ""
-"El dado de ataque debe ser rodado incluso si el hechizo o especialidad que "
-"se usó fue amigable."
+"El dado de Ataque necesita ser lanzado incluso si el hechizo o especialidad "
+"que fue usado era beneficioso."
 
 #. type: Bullet: '- '
 #: docs/units/dwarves.md
@@ -789,5 +789,5 @@ msgid ""
 "[^1] Dwarves ignore the card effect if they are the only target. If the "
 "effect also affects other units, the Dwarves do not ignore it."
 msgstr ""
-"[^1] Enanos ignoran el efecto de la tarjeta si son el único objetivo.Si el "
-"efecto también afecta a otras unidades, los enanos no lo ignoran."
+"[^1] Los Enanos ignoran el efecto de la carta si son el único objetivo. Si "
+"el efecto también afecta a otras unidades, los Enanos no lo ignoran."

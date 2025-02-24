@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 17:38+0000\n"
-"PO-Revision-Date: 2025-02-24 07:03+0100\n"
+"PO-Revision-Date: 2025-02-24 09:16+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -759,46 +759,46 @@ msgid ""
 msgstr ""
 "| Nombre | Coste de Construcción | Efecto |\n"
 "| :--- | ---: | :---: |\n"
-"| Alcaldía | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: 1 :valuables: |\n"
-"| Ciudadela | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |\n"
-"| Cofradía de Magos | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](../spells/index.md). |\n"
-"| Madrigueras | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |\n"
-"| Inner Labyrinths | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |\n"
-"| Ancient Lairs | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |\n"
-"| Portal of Summoning | 7 :gold:<br>3 :building_materials:<br>1 :valuables: | At the beginning of your turn, you can draw 1 [Neutral Unit](../units/index.md) card from decks corresponding to the Dwellings in your Town and :pay: the Recruitment cost to **Recruit** this [unit](../units/index.md). |\n"
-"| Mana Vortex | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | At the beginning of your turn, discard 1 card from your hand to shuffle your discard pile back into your deck of Might and Magic. Then **Search(3)** from it. |\n"
+"| Alcaldía | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | Al comienzo de cada ronda de Recursos, elige::<br>:instant: 5 :gold:<br><br>— O —<br><br>:instant: 1 :valuables: |\n"
+"| Ciudadela | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Permite **Reforzar** [unidades](#units). Cuando estés bajo asedio, añade 3 cartas de Muralla, 1 de Puerta y 1 de [Torre Flechas](../units/arrow_tower.md) al tablero de Combate. |\n"
+"| Cofradía de Magos | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **Cuando se construye:**<br>**Buscar(2)** [:spellpower:](../spells/index.md) dos veces.<br><br>**Después de construirse:**<br>Una vez por turno :pay: 5 :gold: para **Buscar(2)** [:spellpower:](../spells/index.md). |\n"
+"| Madrigueras | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Permite **Reclutar** [unidades](#units) de :bronze:. |\n"
+"| Laberintos Internos | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Permite **Reclutar** [unidades](#units) de :sylver:. |\n"
+"| Guaridas Antiguas | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Permite **Reclutar** [unidades](#units) de :golden:. |\n"
+"| Portal de Invocación | 7 :gold:<br>3 :building_materials:<br>1 :valuables: | Al principio de tu turno, puedes robar 1 carta de [Unidad Neutral](../units/index.md) de los mazos correspondientes a las Viviendas de tu Ciudad y :pay: el coste de Reclutamiento para **Reclutar** esta [unidad].(../units/index.md). |\n"
+"| Vórtice de Maná | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | Al principio de tu turno, descarta 1 carta de tu mano para barajar tu pila de descartes de nuevo en tu mazo de Poder y Magia. Luego **Busca(3)** en el. |\n"
 
 #. type: Bullet: '- '
 #: docs/towns/dungeon.md
 msgid ":magic: [Alamar](../heroes/alamar.md)"
-msgstr ""
+msgstr ":magic: [Alamar](../heroes/alamar.md)"
 
 #. type: Bullet: '- '
 #: docs/towns/dungeon.md
 msgid ":magic: [Deemer](../heroes/deemer.md)"
-msgstr ""
+msgstr ":magic: [Deemer](../heroes/deemer.md)"
 
 #. type: Bullet: '- '
 #: docs/towns/dungeon.md
 msgid ":magic: [Jeddite](../heroes/jeddite.md)"
-msgstr ""
+msgstr ":magic: [Jeddite](../heroes/jeddite.md)"
 
 #. type: Bullet: '- '
 #: docs/towns/dungeon.md
 msgid ":might: [Lorelei](../heroes/lorelei.md)"
-msgstr ""
+msgstr ":might: [Lorelei](../heroes/lorelei.md)"
 
 #. type: Bullet: '- '
 #: docs/towns/dungeon.md
 msgid ":might: [Mutare](../heroes/mutare.md)"
-msgstr ""
+msgstr ":might: [Mutare](../heroes/mutare.md)"
 
 #. type: Bullet: '- '
 #: docs/towns/dungeon.md
 msgid ":magic: [Sephinroth](../heroes/sephinroth.md)"
-msgstr ""
+msgstr ":magic: [Sephinroth](../heroes/sephinroth.md)"
 
 #. type: Bullet: '- '
 #: docs/towns/dungeon.md
 msgid ":magic: [Tarnum](../heroes/tarnum_dungeon.md)"
-msgstr ""
+msgstr ":magic: [Tarnum](../heroes/tarnum_dungeon.md)"
