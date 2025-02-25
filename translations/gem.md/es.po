@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-25 12:30+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -428,7 +429,7 @@ msgstr "Ver También"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
+msgstr "[Expansión de Murallas](../content/rampart_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -554,56 +555,48 @@ msgstr "Apariciones Como Héroe Jugador"
 #: docs/heroes/clancy.md docs/heroes/gelu.md docs/heroes/gem.md
 #: docs/heroes/ivor.md docs/heroes/melodia.md docs/heroes/mephala.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Rampart](../towns/rampart.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Rampart](../towns/rampart.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Murallas](../towns/rampart.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/vidomina.md
 msgid "Dead-cold Revenge - 3. Agents Of Vengeance"
-msgstr "Dead -Fold Revenge - 3. Agentes de venganza"
+msgstr "Venganza a Sangre Fría - 3. Agentes de la Venganza"
 
 #. type: Title #
 #: docs/heroes/gem.md
 #, no-wrap
 msgid "Gem"
-msgstr "Joya"
+msgstr "Gem"
 
 #. type: Plain text
 #: docs/heroes/gem.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>![Gem](../assets/heroes-rampart-"
-"magic-gem.webp){ width=540 align=right }</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>![Gem](../assets/heroes-rampart-magic-gem.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Gem](../assets/heroes-rampart-magic-gem.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/gem.md docs/heroes/melodia.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[:magic: Druid](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[:magic: Druida](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/gem.md docs/heroes/melodia.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 
 #. type: Plain text
 #: docs/heroes/gem.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[First "
-"Aid](../abilities/first_aid.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[First Aid](../abilities/first_aid.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Primeros Auxilios](../abilities/first_aid.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/gem.md
 msgid "=== \"First Aid Ⅰ\""
-msgstr "=== \"Primeros auxilios ⅰ\""
+msgstr "=== \"Primeros Auxilios Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/gem.md
@@ -613,11 +606,14 @@ msgid ""
 "        ![First Aid Ⅰ](../assets/hero_specialties-rampart-gem-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Primeros Auxilios Ⅰ](../assets/hero_specialties-rampart-gem-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/gem.md
 msgid "=== \"First Aid Ⅳ\""
-msgstr "=== \"Primeros auxilios ⅳ\""
+msgstr "=== \"Primeros Auxilios Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/gem.md
@@ -627,11 +623,14 @@ msgid ""
 "        ![First Aid Ⅳ](../assets/hero_specialties-rampart-gem-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Primeros Auxilios Ⅳ](../assets/hero_specialties-rampart-gem-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/gem.md
 msgid "=== \"First Aid Ⅵ\""
-msgstr "=== \"Primeros auxilios ⅵ\""
+msgstr "=== \"Primeros Auxilios Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/gem.md
@@ -641,6 +640,9 @@ msgid ""
 "        ![First Aid Ⅵ](../assets/hero_specialties-rampart-gem-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Primeros Auxilios Ⅵ](../assets/hero_specialties-rampart-gem-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/gem.md
@@ -652,13 +654,13 @@ msgid ""
 "| Ⅳ | :instant: Remove 2 :damage: from one of your [units](../units/index.md). |\n"
 "| Ⅵ | :ongoing: For this Combat, double your [First Aid Tent's](../war_machines/first_aid_tent.md) effect. |\n"
 msgstr ""
-"| Level | Description |\n"
+"| Nivel | Descripción |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Take a [First Aid Tent](../war_machines/first_aid_tent.md) card from the [Máquina de Guerra](../war_machines/index.md) deck at no cost.<br><br>— OR —<br><br>:instant: If you already have a [First Aid Tent](../war_machines/first_aid_tent.md), draw 1 card. |\n"
-"| Ⅳ | :instant: Remove 2 :damage: from one of your [units](../units/index.md). |\n"
-"| Ⅵ | :ongoing: For this Combat, double your [First Aid Tent's](../war_machines/first_aid_tent.md) effect. |\n"
+"| Ⅰ | :instant: Coge una carta [Tienda de Primeros Auxilios](../war_machines/first_aid_tent.md) del mazo de [Máquinas de Guerra](../war_machines/index.md) sin coste.<br><br>— O —<br><br>:instant: Si tienes una [Tienda de Primeros Auxilios](../war_machines/first_aid_tent.md), roba 1 carta. |\n"
+"| Ⅳ | :instant: Retira 2 :damage: de una de tus [unidades](../units/index.md). |\n"
+"| Ⅵ | :ongoing: Durante este Combate, duplica el efecto de tu [Tienda de Primeros Auxilios](../war_machines/first_aid_tent.md). |\n"
 
 #. type: Bullet: '- '
 #: docs/heroes/gem.md
 msgid "Dead-cold Revenge - 2. Final Peace"
-msgstr "Dead -frold Revenge - 2. Paz final"
+msgstr "Venganza a Sangre Fría - 2. Paz final"

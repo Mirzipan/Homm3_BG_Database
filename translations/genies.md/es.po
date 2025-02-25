@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-25 12:36+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -705,7 +706,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr "Héroes Con Una Especialidad"
+msgstr "Héroes Con Especialidad"
 
 #. type: Title #
 #: docs/units/genies.md
@@ -722,7 +723,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Genies](../assets/units-tower-silver-genies-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Genios](../assets/units-tower-silver-genies-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -734,7 +735,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Genies](../assets/units-tower-silver-genies-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Genios](../assets/units-tower-silver-genies-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -745,6 +746,9 @@ msgid ""
 "        ![Neutral Genies](../assets/units-neutral-silver-genies.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Genios Neutrales](../assets/units-neutral-silver-genies.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/genies.md
@@ -764,36 +768,34 @@ msgid ""
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :silver: | :silver: | :silver: |\n"
-"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| Ciudad | [Torre](../towns/tower.md) | [Torre](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :silver: | :silver: | :silver: |\n"
+"| Tipo | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
 "| :attack: | 3 | **4** | 3 |\n"
 "| :defense: | 1 | 1 | 1 |\n"
 "| :health_points: | 6 | 6 | 4 |\n"
 "| :initiative: | 7 | **8** | 9 |\n"
-"| Cost | 8 :gold: | 12 :gold: | 11 :gold: |\n"
-"| Abilities | :unit_other: Discard 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: Discard up to 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: When attacking [Efreet](efreet.md), this unit gains +1 :attack:. |\n"
+"| Coste | 8 :gold: | 12 :gold: | 11 :gold: |\n"
+"| Habilidades | :unit_other: Descarta 3 cartas de tu mazo y toma un [:spellpower:](../spells/index.md) descartado de esta manera a tu mano. | :unit_attack: Descarta hasta 3 cartas de tu mazo y toma un [:spellpower:](../hechizos/index.md) descartado de esta manera a tu mano. | :unit_attack: Al atacar a [Efreet](efreet.md), esta unidad gana +1 :attack:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/genies.md
 msgid "[:might: Iona](../heroes/iona.md#specialty)"
-msgstr ""
+msgstr "[:might: Iona](../heroes/iona.md#specialty)"
 
 #. type: Bullet: '- '
 #: docs/units/genies.md
 msgid ""
-"**Few** - Should the Genies use their [alternative "
-"action](../keywords/alternative_action.md), they are not allowed to move, "
-"attack or defend."
+"**Few** - Should the Genies use their [alternative action](../keywords/"
+"alternative_action.md), they are not allowed to move, attack or defend."
 msgstr ""
-"**Pocos** - Should the Genies use their [alternative "
-"action](../keywords/alternative_action.md), they are not allowed to move, "
-"attack or defend."
+"**Pocos** - Si los Genios usan su [acción alternativa](../keywords/"
+"alternative_action.md), no pueden moverse, atacar o defenderse."
 
 #. type: Bullet: '- '
 #: docs/units/genies.md
 msgid "**Few** - Exactly 3 cards are discarded from the deck."
-msgstr "** Pocos ** - Exactamente 3 cartas se descartan desde el mazo."
+msgstr "** Pocos ** - Se descartan exactamente 3 cartas del mazo."
 
 #. type: Bullet: '- '
 #: docs/units/genies.md
@@ -803,10 +805,10 @@ msgid ""
 "time before they reach 3 cards and take a [spell](../spells/index.md) "
 "discarded this way to their hand."
 msgstr ""
-"**Manada** - Up to 3 cards are discard from the deck. The cards are "
-"discarded one after another. The player may decide to stop discarding cards "
-"at any time before they reach 3 cards and take a [spell](../spells/index.md)"
-" discarded this way to their hand."
+"**Manada** - Se descartan hasta 3 cartas del mazo. Las cartas se descartan "
+"una tras otra. El jugador puede decidir dejar de descartar cartas en "
+"cualquier momento antes de llegar a 3 cartas y tomar un [hechizo](../spells/"
+"index.md) descartado de esta forma para su mano."
 
 #. type: Bullet: '- '
 #: docs/units/genies.md
@@ -814,11 +816,12 @@ msgid ""
 "**Few and Pack** - Should there not be enough cards to discard from the "
 "deck, the cards already discarded by the currently resolving ability are "
 "used to form the new discard pile. The old discard pile is then shuffled "
-"back into deck, and the remaining cards are discarded. The "
-"[spell](../spells/index.md) is then taken from the discarded cards."
+"back into deck, and the remaining cards are discarded. The [spell](../"
+"spells/index.md) is then taken from the discarded cards."
 msgstr ""
-"**Pocos and Pack** - Should there not be enough cards to discard from the "
-"deck, the cards already discarded by the currently resolving ability are "
-"used to form the new discard pile. The old discard pile is then shuffled "
-"back into deck, and the remaining cards are discarded. The "
-"[spell](../spells/index.md) is then taken from the discarded cards."
+"**Pocos y Manada** - Si no hay suficientes cartas para descartar del mazo, "
+"las cartas ya descartadas por la habilidad que se está resolviendo en ese "
+"momento se utilizan para formar la nueva pila de descarte. La antigua pila "
+"de descarte se baraja de nuevo en el mazo, y las cartas restantes se "
+"descartan. El [hechizo](../spells/index.md) se toma de las cartas "
+"descartadas."

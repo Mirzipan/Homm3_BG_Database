@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 16:09+0000\n"
-"PO-Revision-Date: 2024-10-21 16:09+0000\n"
+"PO-Revision-Date: 2025-02-25 13:46+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -320,7 +321,7 @@ msgstr "Ver También"
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -383,7 +384,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -399,10 +400,8 @@ msgstr ""
 #: docs/fields/university.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Visitable "
-"Field](../keywords/visitable_field.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Zona Visitable](../keywords/visitable_field.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -423,7 +422,7 @@ msgstr ""
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 msgid "[List of Fields](index.md)"
-msgstr "[Lista de Lugares](index.md)"
+msgstr "[Lista de Zonas](index.md)"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -458,13 +457,11 @@ msgid ""
 "![Grail Map Location](../assets/locations-grail.webp){ width=\"475\" "
 "align=right }"
 msgstr ""
+"![Ubicación en Mapa de Grial](../assets/locations-grail.webp)"
+"{ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/fields/grail.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>Gain a Grail Token. Only one Grail"
-" Token can exist in the game, do not gain another if this Field’s Black Cube"
-" is removed or if there are multiple Grail Fields. The Token’s effects are "
-"described in the Scenario’s description.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>Gain a Grail Token. Only one Grail Token can exist in the game, do not gain another if this Field’s Black Cube is removed or if there are multiple Grail Fields. The Token’s effects are described in the Scenario’s description.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Gana una Ficha de Grial. Sólo puede existir una Ficha de Grial en el juego, no ganes otra si el Cubo Negro de esta Zona es retirado o si hay varias Zonas de Grial. Los efectos de la Ficha se describen en la descripción del Escenario.</p>\n"

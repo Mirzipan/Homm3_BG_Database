@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 10:02+0200\n"
-"PO-Revision-Date: 2024-10-18 10:02+0200\n"
+"PO-Revision-Date: 2025-02-25 14:06+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -546,7 +547,7 @@ msgstr "[Lista de Hechizos](../spells/index.md)"
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -590,7 +591,7 @@ msgstr ""
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/groovy_satyr.md
@@ -623,12 +624,8 @@ msgstr ""
 #: docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Astrologers "
-"Proclaim](index.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Proclama de los "
-"Astrólogos](index.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Proclama de los Astrólogos](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/groovy_satyr.md
@@ -667,30 +664,25 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/grim_warlock.md
 #, no-wrap
 msgid "Grim Warlock"
-msgstr "Brujo sombrío"
+msgstr "Brujo Sombrío"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/grim_warlock.md
 msgid ""
-"![Grim Warlock](../assets/astrologers_proclaim-grim_warlock.webp){ "
-"width=\"475\" align=right }"
+"![Grim Warlock](../assets/astrologers_proclaim-grim_warlock.webp)"
+"{ width=\"475\" align=right }"
 msgstr ""
-"![Grim Brujo](../assets/astrologers_proclaim-grim_warlock.webp){ "
-"width=\"475\" align=right }"
-
-#. type: Plain text
-#: docs/astrologers_proclaim/grim_warlock.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>Until the next Astrologers' "
-"round:<br><br>The first [Spell](../spells/index.md) card played in each "
-"player's turn gets +1 :empower:.</p>\n"
-msgstr ""
+"![Brujo Sombrío](../assets/astrologers_proclaim-grim_warlock.webp)"
+"{ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/grim_warlock.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*Against the power of Eeofol, "
-"there can be no victory!*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card played in each player's turn gets +1 :empower:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos:<br><br>La primera carta de [Hechizo](../spells/index.md) jugada en el turno de cada jugador obtiene +1 :empower:.</p>\n"
+
+#. type: Plain text
+#: docs/astrologers_proclaim/grim_warlock.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*Against the power of Eeofol, there can be no victory!*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*¡Contra el poder de Eeofol, no puede haber victoria!*</p>\n"

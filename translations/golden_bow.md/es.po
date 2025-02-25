@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-25 13:16+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -427,7 +428,7 @@ msgstr "Ver También"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
+msgstr "[Expansión de Murallas](../content/rampart_expansion.md)"
 
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/arms_of_legion.md
@@ -449,10 +450,8 @@ msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Major "
-"Artifact](../keywords/major_artifact.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../keywords/major_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Mayor](../keywords/major_artifact.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
@@ -512,7 +511,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/golden_bow.md
 #, no-wrap
 msgid "Golden Bow"
-msgstr "Arco dorado"
+msgstr "Arco Dorado"
 
 #. type: Plain text
 #: docs/artifacts/golden_bow.md
@@ -520,22 +519,17 @@ msgid ""
 "![Golden Bow](../assets/artifacts_major-golden_bow.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Arco Dorado](../assets/artifacts_major-golden_bow.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/artifacts/golden_bow.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:ongoing: During this Combat, your"
-" :unit_ranged: [units](../units/index.md) ignore the combat "
-"penalty.<br><br>— OR —<br><br>:instant: A :unit_ranged: "
-"[unit](../units/index.md) of your choice gains +2 :attack:.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: During this Combat, your :unit_ranged: [units](../units/index.md) ignore the combat penalty.<br><br>— OR —<br><br>:instant: A :unit_ranged: [unit](../units/index.md) of your choice gains +2 :attack:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Durante este Combate, tus [unidades](../units/index.md) :unit_ranged: ignoran la penalización de combate.<br><br>— O —<br><br>:instant: Una [unidad](../units/index.md) :unit_ranged: de tu elección gana +2 :attack:.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/golden_bow.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*A chance meeting with a famous "
-"Archer finds you in a game of knucklebones pitting his bow against your "
-"horse. You win.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*A chance meeting with a famous Archer finds you in a game of knucklebones pitting his bow against your horse. You win.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Un encuentro fortuito con un famoso Arquero te lleva a una partida de nudillos desnudos apostando su arco contra tu caballo. Tú ganas.*</p>\n"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-25 14:10+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -531,7 +532,7 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -577,7 +578,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -612,12 +613,8 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Astrologers "
-"Proclaim](index.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Proclama de los "
-"Astrólogos](index.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Proclama de los Astrólogos](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -669,31 +666,25 @@ msgstr "[Lista de Unidades](../units/index.md)"
 #: docs/astrologers_proclaim/groovy_satyr.md
 #, no-wrap
 msgid "Groovy Satyr"
-msgstr "Sátiro maravilloso"
+msgstr "Sátiro Genial"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/groovy_satyr.md
 msgid ""
-"![Groovy Satyr](../assets/astrologers_proclaim-groovy_satyr.webp){ "
-"width=\"475\" align=right }"
+"![Groovy Satyr](../assets/astrologers_proclaim-groovy_satyr.webp)"
+"{ width=\"475\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/astrologers_proclaim/groovy_satyr.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>Until the next Astrologers' "
-"round:<br><br>Whenever you trigger Combat with any [Neutral "
-"Units](../units/index.md), you may choose a [Neutral "
-"Unit](../units/index.md) card to discard and draw another card of the same "
-"tier instead.</p>\n"
-msgstr ""
+"![Sátiro Genial](../assets/astrologers_proclaim-groovy_satyr.webp)"
+"{ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/groovy_satyr.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*\"Are you familiar with any AvLee"
-" melodies?\"<br>\"Sorry, no.\"<br>\"Well, that's good because this probably "
-"won't sound anything like one.\"*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round:<br><br>Whenever you trigger Combat with any [Neutral Units](../units/index.md), you may choose a [Neutral Unit](../units/index.md) card to discard and draw another card of the same tier instead.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos:<br><br>Siempre que desencadenes un Combate con cualquier [Unidad Neutral](../units/index.md), puedes elegir una carta de [Unidad Neutral](../units/index.md) para descartarla y robar otra carta del mismo nivel en su lugar.</p>\n"
+
+#. type: Plain text
+#: docs/astrologers_proclaim/groovy_satyr.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*\"Are you familiar with any AvLee melodies?\"<br>\"Sorry, no.\"<br>\"Well, that's good because this probably won't sound anything like one.\"*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*\"¿Conoces alguna melodía de AvLee?\"<br>\"Lo siento, no.\"<br>\"Bien, eso es bueno porque probablemente esto no suene a ninguna.\"*</p>\n"

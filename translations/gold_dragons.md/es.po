@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-25 13:07+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -705,7 +706,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr "Héroes Con Una Especialidad"
+msgstr "Héroes Con Especialidad"
 
 #. type: Bullet: '- '
 #: docs/units/azure_dragons.md docs/units/black_dragons.md
@@ -713,13 +714,13 @@ msgstr "Héroes Con Una Especialidad"
 #: docs/units/ghost_dragons.md docs/units/gold_dragons.md
 #: docs/units/rust_dragons.md
 msgid "[:might: Mutare](../heroes/mutare.md#specialty)"
-msgstr ""
+msgstr "[:might: Mutare](../heroes/mutare.md#specialty)"
 
 #. type: Title #
 #: docs/units/gold_dragons.md
 #, no-wrap
 msgid "Gold Dragons"
-msgstr "Dragones de oro"
+msgstr "Dragones Dorados"
 
 #. type: Plain text
 #: docs/units/gold_dragons.md
@@ -730,7 +731,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Gold Dragons](../assets/units-rampart-golden-gold_dragons-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Dragones Dorados](../assets/units-rampart-golden-gold_dragons-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -742,7 +743,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Gold Dragons](../assets/units-rampart-golden-gold_dragons-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Dragones Dorados](../assets/units-rampart-golden-gold_dragons-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -753,6 +754,9 @@ msgid ""
 "        ![Neutral Gold Dragons](../assets/units-neutral-azure-gold_dragons.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Dragones Dorados Neutrales](../assets/units-neutral-azure-gold_dragons.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/gold_dragons.md
@@ -772,15 +776,15 @@ msgid ""
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :golden: | :golden: | :golden: |\n"
-"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | :azure: |\n"
+"| Ciudad | [Murallas](../towns/rampart.md) | [Murallas](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :golden: | :golden: | :golden: |\n"
+"| Tipo | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | :azure: |\n"
 "| :attack: | 5 | **6** | 6 |\n"
 "| :defense: | 3 | 3 | 3 |\n"
 "| :health_points: | 9 | **10** | 9 |\n"
 "| :initiative: | 10 | **16** | 10 |\n"
-"| Cost | 22 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 42 :gold: |\n"
-"| Abilities | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |\n"
+"| Coste | 22 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 42 :gold: |\n"
+"| Habilidades | :unit_attack: Ataca 2 espacios en una línea. El primer ataque se resuelve normalmente, y el segundo tiene 2 :attack:, | :unit_attack: Ataca 2 espacios en una línea. El primer ataque se resuelve normalmente, y el segundo tiene 3 :attack:. | :unit_attack: Ataca 2 espacios en una línea. El primer ataque se resuelve normalmente, y el segundo tiene 3 :attack:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/gold_dragons.md
@@ -789,9 +793,9 @@ msgid ""
 "second attack targets the unit directly behind the primary target in a "
 "straight line. There is no choice here."
 msgstr ""
-"El primer ataque apunta a una unidad directamente frente a los dragones de "
-"oro.El segundo ataque se dirige a la unidad directamente detrás del objetivo"
-" primario en línea recta.No hay otra opción aquí."
+"El primer ataque tiene como objetivo una unidad directamente delante de los "
+"Dragones Dorados. El segundo ataque apunta a la unidad directamente detrás "
+"del objetivo principal en línea recta. Aquí no hay elección."
 
 #. type: Bullet: '- '
 #: docs/units/gold_dragons.md
@@ -799,8 +803,8 @@ msgid ""
 "The target of the second attack does not carry out a retaliation attack "
 "against the Gold Dragons, as it is not adjacent to it."
 msgstr ""
-"El objetivo del segundo ataque no lleva a cabo un ataque de represalia "
-"contra los dragones de oro, ya que no está adyacente a él."
+"El objetivo del segundo ataque no realiza un contraataque contra los "
+"Dragones Dorados, ya que no está adyacente a él."
 
 #. type: Bullet: '- '
 #: docs/units/gold_dragons.md
@@ -809,9 +813,9 @@ msgid ""
 "resolved first. The retaliation attack will only be carried out after the "
 "secondary attack of Gold Dragons has been resolved."
 msgstr ""
-"Si los dragones de oro atacan a dos unidades en una línea, ambos ataques se "
-"resuelven primero.El ataque de represalia solo se llevará a cabo después de "
-"que se haya resuelto el ataque secundario de los dragones de oro."
+"Si los Dragones Dorados atacan a dos unidades en línea, ambos ataques se "
+"resuelven primero. El contraataque solo se llevará a cabo después de que se "
+"haya resuelto el ataque secundario de los Dragones Dorados."
 
 #. type: Bullet: '- '
 #: docs/units/gold_dragons.md
@@ -820,9 +824,9 @@ msgid ""
 "primary target in a straight line happens to be a friendly unit, then the "
 "friendly unit will be the target of their secondary attack."
 msgstr ""
-"Si los dragones de oro atacan una unidad, y la unidad directamente detrás "
-"del objetivo principal en línea recta es una unidad amigable, entonces la "
-"unidad amigable será el objetivo de su ataque secundario."
+"Si los Dragones Dorados atacan a una unidad, y la unidad directamente "
+"detrás del objetivo primario en línea recta resulta ser una unidad aliada, "
+"entonces la unidad aliada será el objetivo de su ataque secundario."
 
 #. type: Bullet: '- '
 #: docs/units/gold_dragons.md
@@ -831,6 +835,6 @@ msgid ""
 "Units behind the Wall are protected. Should they attack a unit directly in "
 "front of a Wall, the Wall will not take any damage."
 msgstr ""
-"Si los dragones de oro atacan un muro, no se llevará a cabo un ataque "
-"secundario.Las unidades detrás de la pared están protegidas.Si atacan una "
-"unidad directamente frente a una pared, la pared no recibirá ningún daño."
+"Si los Dragones Dorados atacan una Muralla, no se producirá ningún ataque "
+"secundario. Las unidades detrás de la Muralla están protegidas. Si atacan a "
+"una unidad directamente delante de una Muralla, ésta no sufrirá ningún daño."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-25 11:50+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -502,7 +503,7 @@ msgstr "[Lista de Hechizos](../spells/index.md)"
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -548,7 +549,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -564,7 +565,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Event](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Evento](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -579,7 +580,7 @@ msgstr ""
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 msgid "[List of Events](index.md)"
-msgstr "[Lista de eventos] (index.md)"
+msgstr "[Lista de Eventos](index.md)"
 
 #. type: Title #
 #: docs/events/garden_of_revelation.md
@@ -590,43 +591,26 @@ msgstr "Jardín de Apocalipsis"
 #. type: Plain text
 #: docs/events/garden_of_revelation.md
 msgid ""
-"![Garden of Revelation](../assets/events-garden_of_revelation.webp){ "
-"width=\"475\" align=right }"
+"![Garden of Revelation](../assets/events-garden_of_revelation.webp)"
+"{ width=\"475\" align=right }"
 msgstr ""
+"![Jardín de Revelación](../assets/events-garden_of_revelation.webp)"
+"{ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/events/garden_of_revelation.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>**Each player chooses one "
-"option:** <br>Draw 4 cards either from your discard pile or your deck. Then "
-"Remove any number of [Spell](../spells/index.md) or "
-"[Ability](../abilities/index.md) cards from your hand. For every two cards "
-"removed  this way, you can perform **Search(2)** the "
-"[Spell](../spells/index.md) deck or the [Ability](../abilities/index.md) "
-"deck. After that, discard all cards from hand and draw up to your "
-":hand:.<br><br>— OR —<br><br>Leave and gain nothing.</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>**Each player chooses one "
-"option:** <br>Draw 4 cards either from your discard pile or your deck. Then "
-"Remove any number of [Spell](../spells/index.md) or "
-"[Habilidad](../abilities/index.md) cards from your hand. For every two cards"
-" removed  this way, you can perform **Search(2)** the "
-"[Spell](../spells/index.md) deck or the [Habilidad](../abilities/index.md) "
-"deck. After that, discard all cards from hand and draw up to your "
-":hand:.<br><br>— OR —<br><br>Leave and gain nothing.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Draw 4 cards either from your discard pile or your deck. Then Remove any number of [Spell](../spells/index.md) or [Ability](../abilities/index.md) cards from your hand. For every two cards removed  this way, you can perform **Search(2)** the [Spell](../spells/index.md) deck or the [Ability](../abilities/index.md) deck. After that, discard all cards from hand and draw up to your :hand:.<br><br>— OR —<br><br>Leave and gain nothing.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>**Cada jugador elige una opción:** <br>Robar 4 cartas de tu pila de descartes o de tu mazo. Luego Retira cualquier número de cartas de [Hechizo](../spells/index.md) o [Habilidad](../abilities/index.md) de tu mano. Por cada dos cartas eliminadas de esta forma, puedes realizar **Buscar(2)** en el mazo de [Hechizo](../spells/index.md) o el mazo de [Habilidad](../abilities/index.md). Después, descarta todas las cartas de la mano y roba hasta tu :hand:.<br><br>— O —<br><br>Déjalas y no ganes nada.</p>\n"
 
 #. type: Plain text
 #: docs/events/garden_of_revelation.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*Beside the road you see a "
-"beautiful garden filled with flowers in full bloom. A monk sitting in the "
-"middle invites you to meditate with him.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*Beside the road you see a beautiful garden filled with flowers in full bloom. A monk sitting in the middle invites you to meditate with him.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Junto al camino ves un hermoso jardín lleno de flores en plena floración. Un monje sentado en el centro te invita a meditar con él.*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/events/garden_of_revelation.md docs/events/magical_forest.md
 #: docs/events/market_of_time.md
 msgid "[List of Abilities](../abilities/index.md)"
-msgstr ""
+msgstr "[Lista de Habilidades](../abilities/index.md)"

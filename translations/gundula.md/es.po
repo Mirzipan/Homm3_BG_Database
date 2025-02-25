@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 16:09+0000\n"
-"PO-Revision-Date: 2024-10-21 16:09+0000\n"
+"PO-Revision-Date: 2025-02-25 14:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -546,12 +547,8 @@ msgstr "[Expansión de Bastión](../content/stronghold_expansion.md)"
 #: docs/heroes/casmetra.md docs/heroes/dracon.md docs/heroes/gundula.md
 #: docs/heroes/rion.md docs/heroes/tarnum_conflux.md docs/heroes/xyron.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Wisdom](../abilities/wisdom.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" "
-"markdown>[Sabiduría](../abilities/wisdom.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Wisdom](../abilities/wisdom.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Sabiduría](../abilities/wisdom.md)</p>\n"
 
 #. type: Title ##
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
@@ -604,45 +601,37 @@ msgstr "[Lista de Héroes](index.md)"
 #: docs/heroes/crag_hack.md docs/heroes/dessa.md docs/heroes/gundula.md
 #: docs/heroes/shiva.md docs/heroes/tarnum_stronghold.md docs/heroes/yog.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Stronghold](../towns/stronghold.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Stronghold](../towns/stronghold.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Bastión](../towns/stronghold.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/dessa.md docs/heroes/gundula.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[:magic: Battle "
-"Mage](index.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:magic: Battle Mage](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:magic: Maga de Batalla](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/dessa.md docs/heroes/gundula.md docs/heroes/zilare.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
 
 #. type: Title #
 #: docs/heroes/gundula.md
 #, no-wrap
 msgid "Gundula"
-msgstr "Góndula"
+msgstr "Gundula"
 
 #. type: Plain text
 #: docs/heroes/gundula.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>![Gundula](../assets/player-deck-"
-"back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>![Gundula](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Gundula](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/gundula.md
 msgid "=== \"Slow Ⅰ\""
-msgstr "=== \"lento ⅰ\""
+msgstr "=== \"Lentitud Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/gundula.md
@@ -652,11 +641,14 @@ msgid ""
 "        ![Slow Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Lentitud Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/gundula.md
 msgid "=== \"Slow Ⅳ\""
-msgstr "=== \"lento ⅳ\""
+msgstr "=== \"Lentitud Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/gundula.md
@@ -666,11 +658,14 @@ msgid ""
 "        ![Slow Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Lentitud Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/gundula.md
 msgid "=== \"Slow Ⅵ\""
-msgstr "=== \"lento ⅵ\""
+msgstr "=== \"Lentitud Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/gundula.md
@@ -680,6 +675,9 @@ msgid ""
 "        ![Slow Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Lentitud Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/gundula.md
@@ -691,3 +689,8 @@ msgid ""
 "| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is decreased by 2. |\n"
 "| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is decreased by 3. |\n"
 msgstr ""
+"| Level | Description |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :ongoing: Durante este Combate, la :initiative: de la [unidad](../units/index.md) seleccionada decrece en 1. |\n"
+"| Ⅳ | :ongoing: Durante este Combate, la :initiative: de la [unidad](../units/index.md) seleccionada decrece en 2. |\n"
+"| Ⅵ | :ongoing: Durante este Combate, la :initiative: de la [unidad](../units/index.md) seleccionada decrece en 3. |\n"

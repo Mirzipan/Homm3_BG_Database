@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-25 12:49+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -514,39 +515,32 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/speculum.md docs/artifacts/spirit_of_oppression.md
 #: docs/artifacts/torso_of_legion.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Minor "
-"Artifact](../keywords/minor_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Artefacto "
-"Menor](../keywords/minor_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/minor_artifact.md)</p>\n"
 
 #. type: Title #
 #: docs/artifacts/glyph_of_gallantry.md
 #, no-wrap
 msgid "Glyph of Gallantry"
-msgstr "Glifo de galantería"
+msgstr "Glifo de Gallardía"
 
 #. type: Plain text
 #: docs/artifacts/glyph_of_gallantry.md
 msgid ""
-"![Glyph of Gallantry](../assets/artifacts_minor-glyph_of_gallantry.webp){ "
-"width=\"340\" align=right }"
+"![Glyph of Gallantry](../assets/artifacts_minor-glyph_of_gallantry.webp)"
+"{ width=\"340\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/artifacts/glyph_of_gallantry.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Gain a :morale_positive:"
-" token.<br><br>— OR —<br><br>:instant: +1 :defense:</p>\n"
-msgstr ""
+"![Glifo de Gallardía](../assets/artifacts_minor-glyph_of_gallantry.webp)"
+"{ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/glyph_of_gallantry.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*Ridding the countryside of the "
-"hideous Minotaur who made a sport of eating noblemen's Knights, you are "
-"honored with the Glyph of Gallantry.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Gain a :morale_positive: token.<br><br>— OR —<br><br>:instant: +1 :defense:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Gana una ficha de :morale_positive:.<br><br>— O —<br><br>:instant: +1 :defense:</p>\n"
+
+#. type: Plain text
+#: docs/artifacts/glyph_of_gallantry.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*Ridding the countryside of the hideous Minotaur who made a sport of eating noblemen's Knights, you are honored with the Glyph of Gallantry.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Al librar a la campiña del horrible Minotauro que se divertía comiéndose a los Caballeros de los nobles, se te honra con el Glifo de la Gallardía.*</p>\n"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-25 12:46+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -755,7 +756,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr "Héroes Con Una Especialidad"
+msgstr "Héroes Con Especialidad"
 
 #. type: Bullet: '- '
 #: docs/units/azure_dragons.md docs/units/black_dragons.md
@@ -763,13 +764,13 @@ msgstr "Héroes Con Una Especialidad"
 #: docs/units/ghost_dragons.md docs/units/gold_dragons.md
 #: docs/units/rust_dragons.md
 msgid "[:might: Mutare](../heroes/mutare.md#specialty)"
-msgstr ""
+msgstr "[:might: Mutare](../heroes/mutare.md#specialty)"
 
 #. type: Title #
 #: docs/units/ghost_dragons.md
 #, no-wrap
 msgid "Ghost Dragons"
-msgstr "Dragones fantasmas"
+msgstr "Dragones Fantasma"
 
 #. type: Plain text
 #: docs/units/ghost_dragons.md
@@ -780,7 +781,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Ghost Dragons](../assets/units-necropolis-golden-ghost_dragons-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Dragones Fantasma](../assets/units-necropolis-golden-ghost_dragons-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -792,7 +793,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Ghost Dragons](../assets/units-necropolis-golden-ghost_dragons-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Dragones Fantasma](../assets/units-necropolis-golden-ghost_dragons-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -803,6 +804,9 @@ msgid ""
 "        ![Neutral Ghost Dragons](../assets/units-neutral-golden-ghost_dragons.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Dragones Fantasma Neutrales](../assets/units-neutral-golden-ghost_dragons.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/ghost_dragons.md
@@ -822,46 +826,45 @@ msgid ""
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :golden: | :golden: | :golden: |\n"
-"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| Ciudad | [Necrópolis](../towns/necropolis.md) | [Necrópolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :golden: | :golden: | :golden: |\n"
+"| Tipo | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
 "| :attack: | 6 | **7** | 5 |\n"
 "| :defense: | 3 | 3 | 2 |\n"
 "| :health_points: | 8 | **9** | 6 |\n"
 "| :initiative: | 9 | **14** | 9 |\n"
-"| Cost | 19 :gold:<br>1 :valuables: | 32 :gold:<br>2 :valuables: | 28 :gold: |\n"
-"| Abilities | :activation: Discard the enemy's :morale_positive: token. | :activation: Discard the enemy's :morale_positive: token.<br>:unit_attack: Add +1 to your [Attack die](../dice.md#attack-die) result. | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die); if the result is \"0\", the target must immediately move away 1 space. |\n"
+"| Coste | 19 :gold:<br>1 :valuables: | 32 :gold:<br>2 :valuables: | 28 :gold: |\n"
+"| Habilidades | :activation: Descarta la ficha :morale_positive: del enemigo. | :activation: Descarta la ficha :morale_positive: del enemigo.<br>:unit_attack: Suma +1 al resultado de tu [dado de Ataque](../dice.md#attack_die). | :unit_attack: Después del ataque, tira 1 [dado de Ataque](../dice.md#attack_die); si el resultado es \"0\", el objetivo debe alejarse inmediatamente 1 casilla. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/ghost_dragons.md
 msgid ""
 "**Pack** - First the +1 is added to the Attack die result, before other "
-"effects are applied, such as the effect of the [Centaur's "
-"Axe](../artifacts/centaurs_axe.md)."
+"effects are applied, such as the effect of the [Centaur's Axe](../artifacts/"
+"centaurs_axe.md)."
 msgstr ""
-"**Manada** - First the +1 is added to the Attack die result, before other "
-"effects are applied, such as the effect of the [Centaur's "
-"Axe](../artifacts/centaurs_axe.md)."
+"**Manada** - Primero se añade el +1 al resultado del dado de Ataque, antes "
+"de aplicar otros efectos, como el efecto del [Hacha del Centauro](../"
+"artifacts/centaurs_axe.md)."
 
 #. type: Bullet: '- '
 #: docs/units/ghost_dragons.md
 msgid ""
-"**Neutral** - The player od the attacked unit gets to decide, where the unit"
-" moves. The new field must be empty and must not be adjacent to the Ghost "
-"Dragons. If there is no such field, the attacked unit stays in place."
+"**Neutral** - The player od the attacked unit gets to decide, where the "
+"unit moves. The new field must be empty and must not be adjacent to the "
+"Ghost Dragons. If there is no such field, the attacked unit stays in place."
 msgstr ""
-"** Neutral ** - El jugador OD La unidad atacada decide, dónde se mueve la "
-"unidad.El nuevo campo debe estar vacío y no debe estar adyacente a los "
-"dragones fantasmas.Si no hay tal campo, la unidad atacada permanece en su "
-"lugar."
+"**Neutral** - El jugador de la unidad atacada decide dónde mueve la unidad. "
+"La nueva casilla debe estar vacía y no debe estar adyacente a los Dragones "
+"Fantasma. Si no hay tal casilla, la unidad atacada permanece en su lugar."
 
 #. type: Bullet: '- '
 #: docs/units/ghost_dragons.md
 msgid ""
 "**Neutral** - If the attacked unit was unable to move away, retaliation "
-"attack will take place. Otherwise it would not take place, as the unit would"
-" not longer be adjacent to the Ghost Dragons."
+"attack will take place. Otherwise it would not take place, as the unit "
+"would not longer be adjacent to the Ghost Dragons."
 msgstr ""
-"** Neutral ** - Si la unidad atacada no pudo alejarse, se producirán un "
-"ataque de represalia.De lo contrario, no tendría lugar, ya que la unidad ya "
-"no estaría adyacente a los dragones fantasmas."
+"**Neutral** - Si la unidad atacada no ha podido alejarse, se producirá el "
+"contraataque. En caso contrario, no tendría lugar, ya que la unidad dejaría "
+"de estar adyacente a los Dragones Fantasma."

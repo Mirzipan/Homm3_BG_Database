@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-25 14:21+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -85,35 +86,32 @@ msgstr "Notas"
 #: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
 #, no-wrap
-msgid ""
-"[^1]: Exceptions for specific game modes. This explanation is not valid for "
-"all game modes. The specific variant for the game mode is mentioned in the "
-"text."
-msgstr ""
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es "
-"válida para todos los modos de juego.La variante específica para el modo de "
-"juego se menciona en el texto."
+msgid "[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text."
+msgstr "[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto."
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
 #: docs/towns/stronghold.md
 msgid ":silver: [Ogres](../units/ogres.md)"
-msgstr ""
+msgstr ":silver: [Ogros](../units/ogres.md)"
 
 #. type: Title #
 #: docs/keywords/ground_unit.md
 #, no-wrap
 msgid ":unit_ground: Ground Unit"
-msgstr " :unit_ground: unidad de tierra"
+msgstr ":unit_ground: Unidad Terrestre"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md
 msgid ""
 "[^1] Ground units may move up to 3 spaces in Combat on the small "
-"battlefield. On the [large "
-"battlefield](../content/battlefield_expansion.md), their movement range is "
-"equal to their :initiative: value instead."
+"battlefield. On the [large battlefield](../content/battlefield_expansion."
+"md), their movement range is equal to their :initiative: value instead."
 msgstr ""
+"[^1] Las unidades terrestres pueden mover hasta 3 espacios en Combate en el "
+"campo de batalla pequeño. En el [campo de batalla grande](../content/"
+"battlefield_expansion.md), su rango de movimiento es igual a su valor de :"
+"initiative:."
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md
@@ -126,243 +124,243 @@ msgstr ""
 #: docs/keywords/ground_unit.md
 #, no-wrap
 msgid "List of Ground Units"
-msgstr "Lista de unidades terrestres"
+msgstr "Lista de Unidades Terrestres"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":bronze: [Boars](../units/boars.md)"
-msgstr ""
+msgstr ":bronze: [Jabalíes](../units/boars.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/rampart.md
 msgid ":bronze: [Centaurs](../units/centaurs.md)"
-msgstr ""
+msgstr ":bronze: [Centauros](../units/centaurs.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/inferno.md
 msgid ":bronze: [Cerberi](../units/cerberi.md)"
-msgstr ""
+msgstr ":bronze: [Cerberos](../units/cerberi.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/rampart.md
 msgid ":bronze: [Dwarves](../units/dwarves.md)"
-msgstr ""
+msgstr ":bronze: [Enanos](../units/dwarves.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/inferno.md
 msgid ":bronze: [Familiars](../units/familiars.md)"
-msgstr ""
+msgstr ":bronze: [Familiares](../units/familiars.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/fortress.md
 msgid ":bronze: [Gnolls](../units/gnolls.md)"
-msgstr ""
+msgstr ":bronze: [Gnolls](../units/gnolls.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/stronghold.md
 msgid ":bronze: [Goblins](../units/goblins.md)"
-msgstr ""
+msgstr ":bronze: [Duendes](../units/goblins.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/keywords/ranged_unit.md
 #: docs/towns/tower.md
 msgid ":bronze: [Gremlins](../units/gremlins.md)"
-msgstr ""
+msgstr ":bronze: [Gremlins](../units/gremlins.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/castle.md
 msgid ":bronze: [Halberdiers](../units/halberdiers.md)"
-msgstr ""
+msgstr ":bronze: [Alabarderos](../units/halberdiers.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/keywords/ranged_unit.md
 #: docs/towns/conflux.md
 msgid ":bronze: [Ice Elementals](../units/ice_elementals.md)"
-msgstr ""
+msgstr ":bronze: [Elementales de Hielo](../units/ice_elementals.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/tower.md
 msgid ":bronze: [Iron Golems](../units/iron_golems.md)"
-msgstr ""
+msgstr ":bronze: [Gólems de Hierro](../units/iron_golems.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":bronze: [Leprechaun](../units/leprechaun.md)"
-msgstr ""
+msgstr ":bronze: [Gnomo](../units/leprechaun.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":bronze: [Peasants](../units/peasants.md)"
-msgstr ""
+msgstr ":bronze: [Campesinos](../units/peasants.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":bronze: [Rogues](../units/rogues.md)"
-msgstr ""
+msgstr ":bronze: [Pícaros](../units/rogues.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/cove.md
 msgid ":bronze: [Seamen](../units/seamen.md)"
-msgstr ""
+msgstr ":bronze: [Marineros](../units/seamen.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/necropolis.md
 msgid ":bronze: [Skeletons](../units/skeletons.md)"
-msgstr ""
+msgstr ":bronze: [Esqueletos](../units/skeletons.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/keywords/ranged_unit.md
 #: docs/towns/conflux.md
 msgid ":bronze: [Storm Elementals](../units/storm_elementals.md)"
-msgstr ""
+msgstr ":bronze: [Elementales de Tormenta](../units/storm_elementals.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/dungeon.md
 msgid ":bronze: [Troglodytes](../units/troglodytes.md)"
-msgstr ""
+msgstr ":bronze: [Trogloditas](../units/troglodytes.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/stronghold.md
 msgid ":bronze: [Wolf Raiders](../units/wolf_raiders.md)"
-msgstr ""
+msgstr ":bronze: [Jinetes de Lobos](../units/wolf_raiders.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/necropolis.md
 msgid ":bronze: [Zombies](../units/zombies.md)"
-msgstr ""
+msgstr ":bronze: [Zombis](../units/zombies.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/fortress.md
 msgid ":silver: [Basilisks](../units/basilisks.md)"
-msgstr ""
+msgstr ":silver: [Basiliscos](../units/basilisks.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/castle.md
 msgid ":silver: [Crusaders](../units/crusaders.md)"
-msgstr ""
+msgstr ":silver: [Cruzados](../units/crusaders.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/inferno.md
 msgid ":silver: [Demons](../units/demons.md)"
-msgstr ""
+msgstr ":silver: [Demonios](../units/demons.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/rampart.md
 msgid ":silver: [Dendroids](../units/dendroids.md)"
-msgstr ""
+msgstr ":silver: [Dendroides](../units/dendroids.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/fortress.md
 msgid ":silver: [Gorgons](../units/gorgons.md)"
-msgstr ""
+msgstr ":silver: [Gorgonas](../units/gorgons.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/conflux.md
 msgid ":silver: [Magma Elementals](../units/magma_elementals.md)"
-msgstr ""
+msgstr ":silver: [Elementales de Magma](../units/magma_elementals.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/dungeon.md
 msgid ":silver: [Minotaurs](../units/minotaurs.md)"
-msgstr ""
+msgstr ":silver: [Minotauros](../units/minotaurs.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":silver: [Mummies](../units/mummies.md)"
-msgstr ""
+msgstr ":silver: [Momias](../units/mummies.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":silver: [Nomads](../units/nomads.md)"
-msgstr ""
+msgstr ":silver: [Nómadas](../units/nomads.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/inferno.md
 msgid ":silver: [Pit Lords](../units/pit_lords.md)"
-msgstr ""
+msgstr ":silver: [Señores del Abismo](../units/pit_lords.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":silver: [Satyrs](../units/satyrs.md)"
-msgstr ""
+msgstr ":silver: [Sátiros](../units/satyrs.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":silver: [Steel Golems](../units/steel_golems.md)"
-msgstr ""
+msgstr ":silver: [Gólems de Acero](../units/steel_golems.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/stronghold.md
 msgid ":golden: [Behemoths](../units/behemoths.md)"
-msgstr ""
+msgstr ":golden: [Behemoths](../units/behemoths.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/castle.md
 msgid ":golden: [Champions](../units/champions.md)"
-msgstr ""
+msgstr ":golden: [Campeones](../units/champions.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":golden: [Diamond Golems](../units/diamond_golems.md)"
-msgstr ""
+msgstr ":golden: [Gólems de Diamante](../units/diamond_golems.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/necropolis.md
 msgid ":golden: [Dread Knights](../units/dread_knights.md)"
-msgstr ""
+msgstr ":golden: [Caballeros del Terror](../units/dread_knights.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":golden: [Gold Golems](../units/gold_golems.md)"
-msgstr ""
+msgstr ":golden: [Gólems de Oro](../units/gold_golems.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/cove.md
 msgid ":golden: [Haspids](../units/haspids.md)"
-msgstr ""
+msgstr ":golden: [Áspides](../units/haspids.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/fortress.md
 msgid ":golden: [Hydras](../units/hydras.md)"
-msgstr ""
+msgstr ":golden: [Hydras](../units/hydras.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/conflux.md
 msgid ":golden: [Magic Elementals](../units/magic_elementals.md)"
-msgstr ""
+msgstr ":golden: [Elementales de Magia](../units/magic_elementals.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/tower.md
 msgid ":golden: [Nagas](../units/nagas.md)"
-msgstr ""
+msgstr ":golden: [Nagas](../units/nagas.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/cove.md
 msgid ":golden: [Nix](../units/nix.md)"
-msgstr ""
+msgstr ":golden: [Nix](../units/nix.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/keywords/ranged_unit.md
 #: docs/towns/tower.md
 msgid ":golden: [Titans](../units/titans.md)"
-msgstr ""
+msgstr ":golden: [Titanes](../units/titans.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":golden: [Trolls](../units/trolls.md)"
-msgstr ""
+msgstr ":golden: [Trolls](../units/trolls.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/rampart.md
 msgid ":golden: [Unicorns](../units/unicorns.md)"
-msgstr ""
+msgstr ":golden: [Unicornios](../units/unicorns.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":azure: [Crystal Dragons](../units/crystal_dragons.md)"
-msgstr ""
+msgstr ":azure: [Dragones de Cristal](../units/crystal_dragons.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md
 msgid ":azure: [Hydras](../units/hydras.md)"
-msgstr ""
+msgstr ":azure: [Hydras](../units/hydras.md)"
