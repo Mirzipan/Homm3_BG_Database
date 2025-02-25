@@ -49,6 +49,9 @@ jobs:
         id: set_cache_id
         run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_OUTPUT
 
+      - name: Create cache directory
+        run: mkdir -p .cache
+
       - uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ steps.set_cache_id.outputs.cache_id }}
