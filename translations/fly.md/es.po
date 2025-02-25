@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-25 10:14+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -484,10 +485,8 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/dimension_door.md docs/spells/fly.md
 #: docs/spells/summon_air_elemental.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Expert Air "
-"Spell](school_of_air_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Expert Air Spell](school_of_air_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo de Aire Experto](school_of_air_magic.md)</p>\n"
 
 #. type: Title #
 #: docs/spells/fly.md
@@ -498,15 +497,10 @@ msgstr "Volar"
 #. type: Plain text
 #: docs/spells/fly.md
 msgid "![Fly](../assets/spells-fly.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Volar](../assets/spells-fly.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/fly.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:ongoing: During this turn, your "
-"[Hero](../heroes/index.md) can move through the blocked fields (but cannot "
-"end their movement there) and:<br><br>:empower: 0 ➣ No additional "
-"effect<br>:empower: 2 ➣ +1 :movement:<br>:empower: 4 ➣ +2 "
-":movement:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: During this turn, your [Hero](../heroes/index.md) can move through the blocked fields (but cannot end their movement there) and:<br><br>:empower: 0 ➣ No additional effect<br>:empower: 2 ➣ +1 :movement:<br>:empower: 4 ➣ +2 :movement:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Durante este turno, tu [Héroe](../heroes/index.md) puede moverse a través de las zonas bloqueadas (pero no puede terminar su movimiento allí) y:<br><br>:empower: 0 ➣ No additional effect<br>:empower: 2 ➣ +1 :movement:<br>:empower: 4 ➣ +2 :movement:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"

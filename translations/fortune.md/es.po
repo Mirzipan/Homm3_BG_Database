@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-25 11:15+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -504,10 +505,8 @@ msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 #: docs/spells/fortune.md docs/spells/haste.md docs/spells/lightning_bolt.md
 #: docs/spells/precision.md docs/spells/view_air.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Basic Air "
-"Spell](school_of_air_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Basic Air Spell](school_of_air_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Básico de Aire](school_of_air_magic.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/chain_lightning.md
@@ -557,22 +556,13 @@ msgstr "Fortuna"
 #: docs/spells/fortune.md
 msgid "![Fortune](../assets/spells-fortune.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Fortuna](../assets/spells-fortune.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/fortune.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Reroll one "
-"[Treasure](../dice.md#treasure-die), [Resource](../dice.md#resource-die), or"
-" [Attack die](../dice.md#attack-die) \\*. Resolve the result of your "
-"choice<br><br>:empower: 0 ➣ \\*once<br>:empower: 1 ➣ \\*twice<br>:empower: 2"
-" ➣ \\*3 times<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>:instant: Reroll one "
-"[Tesoro](../dice.md#treasure-die), [Resource](../dice.md#resource-die), or "
-"[Attack die](../dice.md#attack-die) \\*. Resolve the result of your "
-"choice<br><br>:empower: 0 ➣ \\*once<br>:empower: 1 ➣ \\*twice<br>:empower: 2"
-" ➣ \\*3 times<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Reroll one [Treasure](../dice.md#treasure-die), [Resource](../dice.md#resource-die), or [Attack die](../dice.md#attack-die) \\*. Resolve the result of your choice<br><br>:empower: 0 ➣ \\*once<br>:empower: 1 ➣ \\*twice<br>:empower: 2 ➣ \\*3 times<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Vuelve a lanzar un dado de [Tesoro](../dice.md#treasure-die), [Recurso](../dice.md#resource-die), o [Ataque](../dice.md#attack-die) \\*. Resuelve el resultado de tu elección<br><br>:empower: 0 ➣ \\*once<br>:empower: 1 ➣ \\*twice<br>:empower: 2 ➣ \\*3 veces<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/fortune.md
@@ -580,5 +570,5 @@ msgid ""
 "This card has to be played *before* rolling the die. It cannot be played "
 "after the die was rolled and the result of that roll is already known."
 msgstr ""
-"Esta carta debe jugarse * antes de * rodar el dado.No se puede jugar después"
-" de que se enrolle el dado y el resultado de ese rollo ya se conoce."
+"Esta carta debe jugarse *antes* de lanzar el dado. No puede jugarse después "
+"de haber tirado el dado y de conocer el resultado de la tirada."

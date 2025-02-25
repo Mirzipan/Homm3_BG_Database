@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 10:02+0200\n"
-"PO-Revision-Date: 2024-10-18 10:02+0200\n"
+"PO-Revision-Date: 2025-02-25 11:26+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/gold_dragons.md docs/units/pit_lords.md
@@ -584,7 +585,7 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -628,7 +629,7 @@ msgstr ""
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/groovy_satyr.md
@@ -661,12 +662,8 @@ msgstr ""
 #: docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Astrologers "
-"Proclaim](index.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Proclama de los "
-"Astrólogos](index.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Proclama de los Astrólogos](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/groovy_satyr.md
@@ -705,32 +702,28 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/friendly_beaver.md
 #, no-wrap
 msgid "Friendly Beaver"
-msgstr "Castador amistoso"
+msgstr "Castor Amistoso"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/friendly_beaver.md
 msgid ""
-"![Friendly Beaver](../assets/astrologers_proclaim-friendly_beaver.webp){ "
-"width=\"475\" align=right }"
+"![Friendly Beaver](../assets/astrologers_proclaim-friendly_beaver.webp)"
+"{ width=\"475\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/astrologers_proclaim/friendly_beaver.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>If you draw this card on the first"
-" Astrologers' round, discard it and draw another card.<br><br>Immediately "
-"remove all Black cubes from all locations on the map.</p>\n"
-msgstr ""
+"![Castor Amistoso](../assets/astrologers_proclaim-friendly_beaver.webp)"
+"{ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/friendly_beaver.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*\"When the Sword of Frost touches"
-" Armageddon's Blade, the time of Enroth will be no longer then.\"<br>\"Do "
-"you know that doesn't really rhyme?\"*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>If you draw this card on the first Astrologers' round, discard it and draw another card.<br><br>Immediately remove all Black cubes from all locations on the map.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Si robas esta carta en la primera ronda de Astrólogos, descártala y roba otra carta.<br><br>Elimina inmediatamente todos los cubos negros de todas las ubicaciones del mapa.</p>\n"
+
+#. type: Plain text
+#: docs/astrologers_proclaim/friendly_beaver.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*\"When the Sword of Frost touches Armageddon's Blade, the time of Enroth will be no longer then.\"<br>\"Do you know that doesn't really rhyme?\"*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*\"Cuando la Espada de Escarcha toque la Hoja de Armagedón, el tiempo de Enroth dejará de existir entonces.\"<br>\"¿Sabes que en realidad no rima?\"*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/friendly_beaver.md
@@ -738,8 +731,8 @@ msgid ""
 "Only the black cube are removed, the colored faction cubes remain on fields "
 "(e.g. mines)."
 msgstr ""
-"Solo se eliminan el cubo negro, los cubos de facción coloreados permanecen "
-"en los campos (por ejemplo, minas)."
+"Sólo se eliminan los cubos negros, los cubos de facción de color permanecen "
+"en los campos (ej. minas)."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/friendly_beaver.md
@@ -747,5 +740,5 @@ msgid ""
 "A second grail token can not come into play with this card, even if the "
 "field with the grail would be made visitable again."
 msgstr ""
-"Una segunda ficha de Grial no puede entrar en juego con esta carta, incluso "
-"si el campo con el Grial se volvería visitable nuevamente."
+"Una segunda ficha de grial no puede entrar en juego con esta carta, aunque "
+"el campo con el grial volviera a ser visitable."

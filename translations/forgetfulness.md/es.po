@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-25 10:46+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -428,7 +429,7 @@ msgstr "Ver También"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
+msgstr "[Expansión de Murallas](../content/rampart_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
@@ -461,10 +462,8 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/forgetfulness.md docs/spells/remove_obstacle.md
 #: docs/spells/weakness.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Basic Water "
-"Spell](school_of_water_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Basic Water Spell](school_of_water_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Básico de Agua](school_of_water_magic.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/bless.md docs/spells/cure.md docs/spells/dispel.md
@@ -475,7 +474,7 @@ msgstr ""
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr "[School of Water Magic] (School_of_water_magic.md)"
+msgstr "[Escuela de Magia de Agua](school_of_water_magic.md)"
 
 #. type: Title #
 #: docs/spells/forgetfulness.md
@@ -489,14 +488,10 @@ msgid ""
 "![Forgetfulness](../assets/spells-forgetfulness.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Olvido](../assets/spells-forgetfulness.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/forgetfulness.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:ongoing: During its next "
-"activation, a \\* :unit_ranged: [unit](../units/index.md) if your choice "
-"cannot :attack:.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ "
-"\\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or "
-":golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: During its next activation, a \\* :unit_ranged: [unit](../units/index.md) if your choice cannot :attack:.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Durante su próxima activación, una :unit_ranged: [unidad](../units/index.md) \\* a su elección no puede :attack:.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"

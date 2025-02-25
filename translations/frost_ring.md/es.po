@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-25 11:31+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -534,42 +535,36 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr "[School of Water Magic] (School_of_water_magic.md)"
+msgstr "[Escuela de Magia de Agua](school_of_water_magic.md)"
 
 #. type: Title #
 #: docs/spells/frost_ring.md
 #, no-wrap
 msgid "Frost Ring"
-msgstr "Anillo de escarcha"
+msgstr "Anillo Helado"
 
 #. type: Plain text
 #: docs/spells/frost_ring.md
 msgid ""
 "![Frost Ring](../assets/spells-frost_ring.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Anillo Helado](../assets/spells-frost_ring.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/spells/frost_ring.md docs/spells/mirth.md docs/spells/prayer.md
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Expert Water "
-"Spell](school_of_water_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Expert Water Spell](school_of_water_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Experto de Agua](school_of_water_magic.md)</p>\n"
 
 #. type: Plain text
 #: docs/spells/frost_ring.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:activation: Select a space on the"
-" Combat board. 2 [units](../units/index.md) adjacent to this space "
-"suffer:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 "
-":damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 "
-":empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:activation: Select a space on the Combat board. 2 [units](../units/index.md) adjacent to this space suffer:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:activation: Selecciona un espacio en el tablero de Combate. 2 [unidades](../units/index.md) adyacentes a este espacio sufren:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/frost_ring.md
 msgid "The :damage: from Frost Ring also applies to friendly units."
-msgstr ""
-"El: Daño: del anillo de heladas también se aplica a unidades amigables."
+msgstr "El :damage: de Anillo Helado también afecta a unidades aliadas."

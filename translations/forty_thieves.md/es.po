@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-25 11:19+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -543,7 +544,7 @@ msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -589,7 +590,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -624,12 +625,8 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Astrologers "
-"Proclaim](index.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Proclama de los "
-"Astrólogos](index.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Proclama de los Astrólogos](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -670,35 +667,28 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/forty_thieves.md
 #, no-wrap
 msgid "Forty Thieves"
-msgstr ""
+msgstr "Cuarenta Ladrones"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/forty_thieves.md
 msgid ""
-"![Forty Thieves](../assets/astrologers_proclaim-forty_thieves.webp){ "
-"width=\"475\" align=right }"
+"![Forty Thieves](../assets/astrologers_proclaim-forty_thieves.webp)"
+"{ width=\"475\" align=right }"
 msgstr ""
-
-#. type: Plain text
-#: docs/astrologers_proclaim/forty_thieves.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>Until the next Astrologers round, "
-"whenever a player is about to draw an [Event](../events/index.md) card, they"
-" draw 2 cards instead of 1, choose 1 to resolve, and put the other at the "
-"bottom of the [Event](../events/index.md) deck.</p>\n"
-msgstr ""
+"![Cuarenta Ladrones](../assets/astrologers_proclaim-forty_thieves.webp)"
+"{ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/forty_thieves.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*As I walk through the lands of "
-"the shadow of death<br>I look back at my deeds and realize there's not much "
-"left<br>You better watcha' what you're talkin', and where you're "
-"walkin'<br>Or you and your army might be covered with Rust Dragon's "
-"spit.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers round, whenever a player is about to draw an [Event](../events/index.md) card, they draw 2 cards instead of 1, choose 1 to resolve, and put the other at the bottom of the [Event](../events/index.md) deck.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos, siempre que un jugador esté a punto de robar una carta de [Evento](../events/index.md), roba 2 cartas en lugar de 1, elige 1 para resolver, y pone la otra en el fondo del mazo de [Evento](../events/index.md).</p>\n"
+
+#. type: Plain text
+#: docs/astrologers_proclaim/forty_thieves.md
+#, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>*As I walk through the lands of the shadow of death<br>I look back at my deeds and realize there's not much left<br>You better watcha' what you're talkin', and where you're walkin'<br>Or you and your army might be covered with Rust Dragon's spit.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Mientras camino por las tierras de la sombra de la muerte<br>Miro atrás a mis hechos y me doy cuenta de que no queda mucho<br>Será mejor que tengas cuidado con lo que dices y por donde caminas.<br>O tú y tu ejército podríais quedar cubiertos con la saliva del Dragón Oxidado.*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/forty_thieves.md
@@ -706,9 +696,11 @@ msgid ""
 "In a game without [events](../events/index.md) this card is removed and "
 "another card is drawn instead."
 msgstr ""
+"En un juego sin [eventos](../events/index.md) esta carta se elimina y en su "
+"lugar se roba otra carta."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/forty_thieves.md
 #: docs/astrologers_proclaim/index.md
 msgid "[List of Events](../events/index.md)"
-msgstr ""
+msgstr "[Lista de Eventos](../events/index.md)"

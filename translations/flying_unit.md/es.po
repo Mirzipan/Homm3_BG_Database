@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-25 10:35+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -85,29 +86,26 @@ msgstr "Notas"
 #: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
 #, no-wrap
-msgid ""
-"[^1]: Exceptions for specific game modes. This explanation is not valid for "
-"all game modes. The specific variant for the game mode is mentioned in the "
-"text."
-msgstr ""
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es "
-"válida para todos los modos de juego.La variante específica para el modo de "
-"juego se menciona en el texto."
+msgid "[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text."
+msgstr "[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto."
 
 #. type: Title #
 #: docs/keywords/flying_unit.md
 #, no-wrap
 msgid ":unit_flying: Flying Unit"
-msgstr " :unit_flying: unidad voladora"
+msgstr ":unit_flying: Unidad Voladora"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
 msgid ""
 "[^1] Flying units may move up to 3 spaces in Combat on the small "
-"battlefield. On the [large "
-"battlefield](../content/battlefield_expansion.md), their movement range is "
-"equal to their :initiative: value instead."
+"battlefield. On the [large battlefield](../content/battlefield_expansion."
+"md), their movement range is equal to their :initiative: value instead."
 msgstr ""
+"[^1] Las unidades voladoras pueden mover hasta 3 espacios en Combate en el "
+"campo de batalla pequeño. En el [campo de batalla grande](../content/"
+"battlefield_expansion.md), su rango de movimiento es igual a su valor de :"
+"initiative:."
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
@@ -116,6 +114,9 @@ msgid ""
 "battlefield](../content/battlefield_expansion.md), their movement always "
 "comes first."
 msgstr ""
+"[^1] Las unidades voladoras pueden atacar primero y mover después. En el "
+"[gran campo de batalla](../content/battlefield_expansion.md), su movimiento "
+"siempre va primero."
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
@@ -130,90 +131,90 @@ msgid ""
 "Flying units may move over obstacles, as long as their movement ends on an "
 "empty space."
 msgstr ""
-"Las unidades voladoras pueden moverse sobre los obstáculos, siempre que su "
-"movimiento termine en un espacio vacío."
+"Las unidades voladoras pueden moverse por encima de obstáculos, siempre que "
+"su movimiento termine en un espacio vacío."
 
 #. type: Title #
 #: docs/keywords/flying_unit.md
 #, no-wrap
 msgid "List of Flying Units"
-msgstr "Lista de unidades voladoras"
+msgstr "Lista de Unidades Voladoras"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/fortress.md
 msgid ":bronze: [Dragon Flies](../units/dragon_flies.md)"
-msgstr ""
+msgstr ":bronze: [Moscas Dragón](../units/dragon_flies.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/tower.md
 msgid ":bronze: [Gargoyles](../units/gargoyles.md)"
-msgstr ""
+msgstr ":bronze: [Gárgolas](../units/gargoyles.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/castle.md
 msgid ":bronze: [Griffins](../units/griffins.md)"
-msgstr ""
+msgstr ":bronze: [Grifos](../units/griffins.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/dungeon.md
 msgid ":bronze: [Harpies](../units/harpies.md)"
-msgstr ""
+msgstr ":bronze: [Arpías](../units/harpies.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/cove.md
 msgid ":bronze: [Oceanids](../units/oceanids.md)"
-msgstr ""
+msgstr ":bronze: [Oceánidas](../units/oceanids.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/conflux.md
 msgid ":bronze: [Sprites](../units/sprites.md)"
-msgstr ""
+msgstr ":bronze: [Hadas](../units/sprites.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/necropolis.md
 msgid ":bronze: [Wraiths](../units/wraiths.md)"
-msgstr ""
+msgstr ":bronze: [Espectros](../units/wraiths.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/cove.md
 msgid ":silver: [Ayssids](../units/ayssids.md)"
-msgstr ""
+msgstr ":silver: [Ayssides](../units/ayssids.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/conflux.md
 msgid ":silver: [Energy Elementals](../units/energy_elementals.md)"
-msgstr ""
+msgstr ":silver: [Elementales de Energía](../units/energy_elementals.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/neutral.md
 msgid ":silver: [Fangarm](../units/fangarm.md)"
-msgstr ""
+msgstr ":silver: [Brazocolmillo](../units/fangarm.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/tower.md
 msgid ":silver: [Genies](../units/genies.md)"
-msgstr ""
+msgstr ":silver: [Genios](../units/genies.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
 #: docs/towns/stronghold.md
 msgid ":silver: [Ogres](../units/ogres.md)"
-msgstr ""
+msgstr ":silver: [Ogros](../units/ogres.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/rampart.md
 msgid ":silver: [Pegasi](../units/pegasi.md)"
-msgstr ""
+msgstr ":silver: [Pegasos](../units/pegasi.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/stronghold.md
 msgid ":silver: [Thunderbirds](../units/thunderbirds.md)"
-msgstr ""
+msgstr ":silver: [Aves de Trueno](../units/thunderbirds.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/necropolis.md
 msgid ":silver: [Vampires](../units/vampires.md)"
-msgstr ""
+msgstr ":silver: [Vampiros](../units/vampires.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/inferno.md
@@ -223,59 +224,59 @@ msgstr ":golden: [Archidiablos](../units/arch_devils.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/castle.md
 msgid ":golden: [Archangels](../units/archangels.md)"
-msgstr ""
+msgstr ":golden: [Arcángeles](../units/archangels.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/dungeon.md
 msgid ":golden: [Black Dragons](../units/black_dragons.md)"
-msgstr ""
+msgstr ":golden: [Dragones Negros](../units/black_dragons.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/inferno.md
 msgid ":golden: [Efreet](../units/efreet.md)"
-msgstr ""
+msgstr ":golden: [Efreet](../units/efreet.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/necropolis.md
 msgid ":golden: [Ghost Dragons](../units/ghost_dragons.md)"
-msgstr ""
+msgstr ":golden: [Dragones Fantasma](../units/ghost_dragons.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/rampart.md
 msgid ":golden: [Gold Dragons](../units/gold_dragons.md)"
-msgstr ""
+msgstr ":golden: [Dragones Dorados](../units/gold_dragons.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/dungeon.md
 msgid ":golden: [Manticores](../units/manticores.md)"
-msgstr ""
+msgstr ":golden: [Mantícoras](../units/manticores.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/conflux.md
 msgid ":golden: [Phoenixes](../units/phoenixes.md)"
-msgstr ""
+msgstr ":golden: [Fénixes](../units/phoenixes.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/fortress.md
 msgid ":golden: [Wyverns](../units/wyverns.md)"
-msgstr ""
+msgstr ":golden: [Guivernos](../units/wyverns.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/neutral.md
 msgid ":azure: [Azure Dragons](../units/azure_dragons.md)"
-msgstr ""
+msgstr ":azure: [Dragones Celestes](../units/azure_dragons.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/neutral.md
 msgid ":azure: [Faerie Dragons](../units/faerie_dragons.md)"
-msgstr ""
+msgstr ":azure: [Dragones Hada](../units/faerie_dragons.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
 msgid ":azure: [Gold Dragons](../units/gold_dragons.md)"
-msgstr ""
+msgstr ":azure: [Dragones Dorados](../units/gold_dragons.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/neutral.md
 msgid ":azure: [Rust Dragons](../units/rust_dragons.md)"
-msgstr ""
+msgstr ":azure: [Dragones de Óxido](../units/rust_dragons.md)"
