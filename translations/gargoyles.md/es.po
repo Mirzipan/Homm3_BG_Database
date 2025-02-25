@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2025-02-25 12:00+0100\n"
+"PO-Revision-Date: 2025-02-25 14:35+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -771,7 +771,7 @@ msgid ""
 msgstr ""
 "**Pocos y Manada** - Sólo los efectos de [hechizo](../spells/index.md) :"
 "ogoing: son ignorados. Otras fuentes de efectos :ongoing: seguirán "
-"funcionando (ej. [artefactos](../artifactos/index.md))."
+"funcionando (ej. [artefactos](../artifacts/index.md))."
 
 #. type: Bullet: '- '
 #: docs/units/gargoyles.md

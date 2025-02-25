@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 17:38+0000\n"
-"PO-Revision-Date: 2025-02-24 12:51+0100\n"
+"PO-Revision-Date: 2025-02-25 14:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -272,7 +272,7 @@ msgstr "Lista de Habilidades"
 
 #. type: Plain text
 #: docs/abilities/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Name | Effect | :expert: Effect | [Content](../content/index.md) |\n"
 "| :--- | :---: | :---: | :--- |\n"
@@ -305,9 +305,9 @@ msgid ""
 "| [Water Magic](water_magic.md) | :permanent: +1 :empower: for spells from [School of Water Magic](../spells/school_of_water_magic.md). | While casting :spellpower: from the [School of Water](../spells/school_of_water_magic.md), you can discard this card, then gain +3 :empower:. | [Tower Expansion (2)](../content/tower_expansion.md) |\n"
 "| [Wisdom](wisdom.md) | :instant: The cost of buying [spells](../spells/index.md) in this Town is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(3)** instead of **Search(2)**. | :instant: The cost of buying [spells](../spells/index.md) in this Town is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(4)** instead of **Search(2)**. | [Core Game (2)](../content/core_game.md) |\n"
 msgstr ""
-"| Name | Effect | :expert: Effect | [Content](../content/index.md) |\n"
+"| Nombre | Efecto | Efecto :expert: | [Contenido](../content/index.md) |\n"
 "| :--- | :---: | :---: | :--- |\n"
-"| [Air Magic](air_magic.md) | :permanent: +1 :empower: for spells from [School of Air Magic](../spells/school_of_air_magic.md). | While casting :spellpower: from the [School of Air](../spells/school_of_air_magic.md), you can discard this card, then gain +3 :empower:. | [Tower Expansion (2)](../content/tower_expansion.md) |\n"
+"| [Magia de Aire](air_magic.md) | :permanent: +1 :empower: for spells from [School of Air Magic](../spells/school_of_air_magic.md). | While casting :spellpower: from the [School of Air](../spells/school_of_air_magic.md), you can discard this card, then gain +3 :empower:. | [Tower Expansion (2)](../content/tower_expansion.md) |\n"
 "| [Archery](archery.md) | :ongoing: During this Combat round, your Ranged [units](../units/index.md) gain +1 :attack: if the target is a non-adjacent [unit](../units/index.md). |:ongoing: Until the end of the next Combat round, your Ranged [units](../units/index.md) gain +1 :initiative: and +1 :attack: if the target is a non-adjacent [unit](../units/index.md). | [Core Game (2)](../content/core_game.md) |\n"
 "| [Armorer](armorer.md) | :instant: +1 :defense:<br>Then draw 1 card. | :instant: +2 :defense:<br>Then draw 1 card. | [Core Game (2)](../content/core_game.md) |\n"
 "| [Artillery](artillery.md) | :instant: Deal 1 :damage: to an enemy [unit](../units/index.md) with the lowest :initiative:. | :instant: When using the [Ballista](../war_machines/index.md) card, resolve its effect against the same target 3 times. | [Rampart Expansion (2)](../content/rampart_expansion.md) |\n"
@@ -822,7 +822,7 @@ msgstr "[Lista de Losetas](../tiles/index.md)"
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr "Lugares"
+msgstr "Zonas"
 
 #. type: Plain text
 #: docs/fields/index.md
@@ -1284,7 +1284,7 @@ msgstr "[:health_points: Puntos de Salud](health_points.md)"
 #. type: Bullet: '- '
 #: docs/keywords/index.md
 msgid "[:initiative: Initiative Value](initiative_value.md)"
-msgstr "[:initiative: Valor de Iniciativa](iniciative_value.md)"
+msgstr "[:initiative: Valor de Iniciativa](initiative_value.md)"
 
 #. type: Title ##
 #: docs/keywords/index.md
