@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-26 13:27+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -755,7 +756,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr "Héroes Con Una Especialidad"
+msgstr "Héroes Con Especialidad"
 
 #. type: Title #
 #: docs/units/harpies.md
@@ -772,7 +773,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Harpies](../assets/units-dungeon-bronze-harpies-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocas Arpías](../assets/units-dungeon-bronze-harpies-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -784,7 +785,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Harpies](../assets/units-dungeon-bronze-harpies-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Arpías](../assets/units-dungeon-bronze-harpies-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -795,6 +796,9 @@ msgid ""
 "        ![Neutral Harpies](../assets/units-neutral-bronze-harpies.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Arpías Neutrales](../assets/units-neutral-bronze-harpies.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/harpies.md
@@ -812,17 +816,17 @@ msgid ""
 "| Cost | 3 :gold: | 5 :gold: | 5 :gold: |\n"
 "| Abilities | :unit_attack: After the enemy's Retaliation Attack, this unit can return to the space from which it moved to attack. | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. |\n"
 msgstr ""
-"| Statistics | Few | Pack | Neutral |\n"
+"| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Mazmorra](../towns/dungeon.md) | [Mazmorra](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :bronze: | :bronze: | :bronze: |\n"
-"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| Ciudad | [Mazmorra](../towns/dungeon.md) | [Mazmorra](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :bronze: | :bronze: | :bronze: |\n"
+"| Tipo | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |\n"
 "| :attack: | 2 | **3** | 2 |\n"
 "| :defense: | 0 | 0 | 0 |\n"
 "| :health_points: | 3 | 3 | 4 |\n"
 "| :initiative: | 6 | **9** | 8 |\n"
-"| Cost | 3 :gold: | 5 :gold: | 5 :gold: |\n"
-"| Abilities | :unit_attack: After the enemy's Retaliation Attack, this unit can return to the space from which it moved to attack. | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. |\n"
+"| Coste | 3 :gold: | 5 :gold: | 5 :gold: |\n"
+"| Habilidades | :unit_attack: Tras el Contraataque del enemigo, esta unidad puede volver a la casilla desde la que se movió para atacar. | :unit_attack: Ignora los Contraataques. Esta unidad puede volver a la casilla desde la que se movió para atacar. | :unit_attack: Ignora los Contraataques. Esta unidad puede volver a la casilla desde la que se movió para atacar. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/harpies.md
@@ -835,5 +839,5 @@ msgid ""
 "The player can freely decided whether the Harpies return back to their "
 "starting position after their attack."
 msgstr ""
-"El jugador puede decidir libremente si los Harpies regresan a su posición "
+"El jugador puede decidir libremente si las Arpías vuelven a su posición "
 "inicial después de su ataque."

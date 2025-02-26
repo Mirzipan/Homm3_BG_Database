@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-26 13:40+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -567,10 +568,8 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Major "
-"Artifact](../keywords/major_artifact.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../keywords/major_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Mayor](../keywords/major_artifact.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
@@ -630,60 +629,56 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*Searching a ruin, you are amazed "
-"to find a piece of the Statue of Legion. You carefully dust it off before "
-"placing it in your pack.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*Searching a ruin, you are amazed to find a piece of the Statue of Legion. You carefully dust it off before placing it in your pack.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Registrando una ruina, te sorprende encontrar un trozo de la Estatua de la Legión. La desempolvas con cuidado antes de guardarla en tu mochila.*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Legs of Legion](legs_of_legion.md)"
-msgstr "[Legs of Legion] (Legs_of_legion.md)"
+msgstr "[Piernas de la Legión](legs_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Loins of Legion](loins_of_legion.md)"
-msgstr "[Préstamo de la legión] (lOins_of_legion.md)"
+msgstr "[Caderas de la Legión](loins_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
 msgid "[Torso of Legion](torso_of_legion.md)"
-msgstr "[Torso de Legion] (Torso_of_legion.MD)"
+msgstr "[Torso de la Legión](torso_of_legion.md)"
 
 #. type: Title #
 #: docs/artifacts/head_of_legion.md
 #, no-wrap
 msgid "Head of Legion"
-msgstr "Jefe de Legión"
+msgstr "Cabeza de la Legión"
 
 #. type: Plain text
 #: docs/artifacts/head_of_legion.md
 msgid ""
-"![Head of Legion](../assets/artifacts_major-head_of_legion.webp){ "
-"width=\"340\" align=right }"
+"![Head of Legion](../assets/artifacts_major-head_of_legion.webp)"
+"{ width=\"340\" align=right }"
 msgstr ""
+"![Cabeza de la Legión](../assets/artifacts_major-head_of_legion.webp)"
+"{ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/head_of_legion.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: Reduce the Recruitment "
-"or Reinforcement cost of a [unit](../units/index.md) by 6 :gold: - to a "
-"minimum of 0.<br><br>— OR —<br><br>:instant: Gain 3 :gold:.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: Reduce the Recruitment or Reinforcement cost of a [unit](../units/index.md) by 6 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 3 :gold:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Reduce el coste de Reclutamiento o Refuerzo de una [unidad](../units/index.md) en 6 :gold: - hasta un mínimo de 0.<br><br>— O —<br><br>:instant: Gana 3 :gold:.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/head_of_legion.md docs/artifacts/legs_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "See [Arms of Legion](arms_of_legion.md)"
-msgstr "Ver [Arms of Legion] (Arms_of_legion.md)"
+msgstr "Ver [Brazos de la Legión](arms_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/head_of_legion.md docs/artifacts/legs_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Arms of Legion](arms_of_legion.md)"
-msgstr "[Arms of Legion] (Arms_of_legion.md)"
+msgstr "Ver [Brazos de la Legión](arms_of_legion.md)"

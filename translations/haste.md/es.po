@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-26 13:35+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -550,24 +551,16 @@ msgstr "[Juego Base](../content/core_game.md)"
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
 #, no-wrap
-msgid ""
-"[^1]: Exceptions for specific game modes. This explanation is not valid for "
-"all game modes. The specific variant for the game mode is mentioned in the "
-"text."
-msgstr ""
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es "
-"válida para todos los modos de juego.La variante específica para el modo de "
-"juego se menciona en el texto."
+msgid "[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text."
+msgstr "[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto."
 
 #. type: Plain text
 #: docs/spells/air_shield.md docs/spells/disrupting_ray.md
 #: docs/spells/fortune.md docs/spells/haste.md docs/spells/lightning_bolt.md
 #: docs/spells/precision.md docs/spells/view_air.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Basic Air "
-"Spell](school_of_air_magic.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Basic Air Spell](school_of_air_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Básico de Aire](school_of_air_magic.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/chain_lightning.md
@@ -616,32 +609,28 @@ msgstr "Prisa"
 #. type: Plain text
 #: docs/spells/haste.md
 msgid "![Haste](../assets/spells-haste.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Prisa](../assets/spells-haste.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/haste.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:ongoing: Until the end of the "
-"Combat, the selected [unit](../units/index.md) gains:<br><br>:empower: 0 ➣ "
-"+1 :initiative:<br>:empower: 1 ➣ +2 :initiative:<br>:empower: 2 ➣ +3 "
-":initiative:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: Until the end of the Combat, the selected [unit](../units/index.md) gains:<br><br>:empower: 0 ➣ +1 :initiative:<br>:empower: 1 ➣ +2 :initiative:<br>:empower: 2 ➣ +3 :initiative:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Hasta el final del Combate, la [unidad](../units/index.md) seleccionada gana:<br><br>:empower: 0 ➣ +1 :initiative:<br>:empower: 1 ➣ +2 :initiative:<br>:empower: 2 ➣ +3 :initiative:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/haste.md
 msgid ""
-"[^1] On the small battlefield, only the initiative of the unit is increased,"
-" not its movement range. On the Battlefield Expansion, the initiative is "
-"used to determine the movement range, therefore a unit under this spell has "
-"its movement range increased as well."
+"[^1] On the small battlefield, only the initiative of the unit is "
+"increased, not its movement range. On the Battlefield Expansion, the "
+"initiative is used to determine the movement range, therefore a unit under "
+"this spell has its movement range increased as well."
 msgstr ""
-"[^1] En el pequeño campo de batalla, solo aumenta la iniciativa de la "
-"unidad, no su rango de movimiento.En la expansión del campo de batalla, la "
-"iniciativa se utiliza para determinar el rango de movimiento, por lo tanto, "
-"una unidad bajo este hechizo también tiene su rango de movimiento aumentado."
+"[^1] En el campo de batalla pequeño, sólo aumenta la iniciativa de la "
+"unidad, no su rango de movimiento. En la Expansión de Campo de Batalla, la "
+"iniciativa se utiliza para determinar el alcance de movimiento, por lo que "
+"una unidad bajo este hechizo también ve aumentado su alcance de movimiento."
 
 #. type: Bullet: '- '
 #: docs/spells/haste.md
 msgid "[Battlefield Expansion](../content/battlefield_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Campo de Batalla](../content/battlefield_expansion.md)"

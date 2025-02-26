@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-02-26 13:48+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -427,7 +428,7 @@ msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 #: docs/abilities/scholar.md docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/explorers.md docs/astrologers_proclaim/hero.md
 msgid "[List of Statistics](../statistics/index.md)"
-msgstr ""
+msgstr "[Lista de Estadísticas](../statistics/index.md)"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -473,7 +474,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -519,7 +520,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -554,12 +555,8 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Astrologers "
-"Proclaim](index.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Proclama de los "
-"Astrólogos](index.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Proclama de los Astrólogos](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -605,26 +602,20 @@ msgstr "Héroe"
 #. type: Plain text
 #: docs/astrologers_proclaim/hero.md
 msgid ""
-"![Hero](../assets/astrologers_proclaim-hero.webp){ width=\"475\" align=right"
-" }"
+"![Hero](../assets/astrologers_proclaim-hero.webp){ width=\"475\" "
+"align=right }"
 msgstr ""
+"![Héroe](../assets/astrologers_proclaim-hero.webp){ width=\"475\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/hero.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>Each player can :pay: 4 :gold: to "
-"Remove a [Statistic](../statistics/index.md) card from their hand and "
-"replace it with an [Empowered Statistic](../statistics/index.md) card of the"
-" same type. Each player may do so twice, but both exchanges must be made on "
-"the same turn. Once a player makes the exchange, they place their faction "
-"cube on this card to mark the fact.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>Each player can :pay: 4 :gold: to Remove a [Statistic](../statistics/index.md) card from their hand and replace it with an [Empowered Statistic](../statistics/index.md) card of the same type. Each player may do so twice, but both exchanges must be made on the same turn. Once a player makes the exchange, they place their faction cube on this card to mark the fact.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Cada jugador puede :pay: 4 :gold: para Retirar una carta [Estadística](../statistics/index.md) de su mano y sustituirla por una carta [Estadística Mejorada](../statistics/index.md) del mismo tipo. Cada jugador puede hacerlo dos veces, pero ambos intercambios deben hacerse en el mismo turno. Una vez que un jugador hace el intercambio, coloca su cubo de facción sobre esta carta para marcar el hecho.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/hero.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*\"You are, without a doubt, the "
-"worst Hero I've ever head of!\"<br>\"But you have heard of me.\"*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*\"You are, without a doubt, the worst Hero I've ever head of!\"<br>\"But you have heard of me.\"*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*\"¡Eres, sin duda, el peor Héroe del que he oído hablar!\"<br>\"Pero has oído hablar de mí\".*</p>\n"

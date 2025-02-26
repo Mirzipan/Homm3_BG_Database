@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-26 13:58+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -564,18 +565,14 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/speculum.md docs/artifacts/spirit_of_oppression.md
 #: docs/artifacts/torso_of_legion.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Minor "
-"Artifact](../keywords/minor_artifact.md)</p>\n"
-msgstr ""
-"<p style=\"text-align: center;\" markdown>[Artefacto "
-"Menor](../keywords/minor_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/minor_artifact.md)</p>\n"
 
 #. type: Title #
 #: docs/artifacts/hourglass_of_the_evil_hour.md
 #, no-wrap
 msgid "Hourglass of the Evil Hour"
-msgstr "Hourglass de la hora malvada"
+msgstr "Reloj de Arena de la Hora Maligna"
 
 #. type: Plain text
 #: docs/artifacts/hourglass_of_the_evil_hour.md
@@ -583,23 +580,17 @@ msgid ""
 "![Hourglass of the Evil Hour](../assets/artifacts_minor-"
 "hourglass_of_the_evil_hour.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Reloj de Arena de la Hora Maligna](../assets/artifacts_minor-"
+"hourglass_of_the_evil_hour.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/hourglass_of_the_evil_hour.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>:instant: If the enemy has "
-":morale_positive:, they gain :morale_negative:.<br><br>— OR "
-"—<br><br>:instant: Roll the [Attack die](../dice.md#attack-die). On a \"0\" "
-"result, you gain :morale_positive:.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>:instant: If the enemy has :morale_positive:, they gain :morale_negative:.<br><br>— OR —<br><br>:instant: Roll the [Attack die](../dice.md#attack-die). On a \"0\" result, you gain :morale_positive:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: si el enemigo tiene :morale_positive:, gana :morale_negative:.<br><br>— O —<br><br>:instant: Lanza el [dado de Ataque](../dice.md#attack-die). Con un resultado \"0\", ganas :morale_positive:.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/hourglass_of_the_evil_hour.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>*A surprise turn in the landscape "
-"finds you in the midst of a grisly scene - vultures picking at the aftermath"
-" of a terrible battle. Your cursory search of the remains turns up an "
-"enchanted hourglass.*</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>*A surprise turn in the landscape finds you in the midst of a grisly scene - vultures picking at the aftermath of a terrible battle. Your cursory search of the remains turns up an enchanted hourglass.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Un giro inesperado en el paisaje te encuentra en medio de una escena espeluznante: buitres hurgando en los despojos de una terrible batalla. Al buscar entre los restos, encuentras un reloj de arena encantado.*</p>\n"

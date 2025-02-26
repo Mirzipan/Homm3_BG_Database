@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-02-26 14:04+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -508,12 +509,8 @@ msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 #: docs/units/crusaders.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/hydras.md docs/units/liches.md docs/units/titans.md
 #, no-wrap
-msgid ""
-"[^1]: Not officially confirmed by game designers, and is therefore "
-"considered a Community rule."
-msgstr ""
-"[^1]: No se confirma oficialmente por los diseñadores de juegos y, por lo "
-"tanto, se considera una regla comunitaria."
+msgid "[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule."
+msgstr "[^1]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -722,7 +719,7 @@ msgstr "[Expansión de Torre](../content/tower_expansion.md) (Neutral)"
 #: docs/units/hydras.md
 #, no-wrap
 msgid "Hydras"
-msgstr "Hidras"
+msgstr "Hydras"
 
 #. type: Plain text
 #: docs/units/hydras.md
@@ -733,7 +730,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Hydras](../assets/units-fortress-golden-hydras-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocas Hydras](../assets/units-fortress-golden-hydras-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -756,6 +753,9 @@ msgid ""
 "        ![Neutral Hydras](../assets/units-neutral-azure-hydras.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Hydras Neutrales](../assets/units-neutral-azure-hydras.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/hydras.md
@@ -775,15 +775,15 @@ msgid ""
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :golden: | :golden: | :azure: |\n"
-"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| Ciudad | [Fortaleza](../towns/fortress.md) | [Fortaleza](../towns/fortress.md) | [Neutral](../towns/neutral.md) |\n"
+"| Nivel | :golden: | :golden: | :azure: |\n"
+"| Tipo | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
 "| :attack: | 6 | **7** | 7 |\n"
 "| :defense: | 3 | 3 | 3 |\n"
 "| :health_points: | 8 | **10** | 8 |\n"
 "| :initiative: | 5 | **7** | 5 |\n"
-"| Cost | 20 :gold:<br>1 :valuables: | 28 :gold:<br>2 :valuables: | 40 :gold: |\n"
-"| Abilities | :unit_attack: Ignore the Retaliation Attack. | :unit_attack: Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. | :unit_attack: Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |\n"
+"| Coste | 20 :gold:<br>1 :valuables: | 28 :gold:<br>2 :valuables: | 40 :gold: |\n"
+"| Habilidades | :unit_attack: Ignora los Contraataques. | :unit_attack: Ignora los Contraataques. Esta unidad ataca hasta 2 unidades enemigas adyacentes. | :unit_attack: Ignora los Contraataques. Esta unidad ataca hasta 2 unidades enemigas adyacentes. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/hydras.md
@@ -792,18 +792,18 @@ msgid ""
 "those attacks has a separate Attack Die roll. The player decides the order "
 "of attacks."
 msgstr ""
-"**Manada and Neutral** - The attacks take place after each other and each of"
-" those attacks has a separate Attack Die roll. The player decides the order "
-"of attacks."
+"**Manada y Neutral** - Los ataques tienen lugar uno detrás de otro y cada "
+"uno de esos ataques tiene una tirada de Dado de Ataque independiente. El "
+"jugador decide el orden de los ataques."
 
 #. type: Bullet: '- '
 #: docs/units/hydras.md
 msgid ""
-"**Pack and Neutral** - Neither of the attacks triggers a Retaliation Attack."
-" The :unit_attack: symbol affects both target of the Hydras."
-msgstr ""
-"**Manada and Neutral** - Neither of the attacks triggers a Retaliation "
+"**Pack and Neutral** - Neither of the attacks triggers a Retaliation "
 "Attack. The :unit_attack: symbol affects both target of the Hydras."
+msgstr ""
+"**Manada y Neutral** - Ninguno de los ataques desencadena un Contraataque. "
+"El símbolo :unit_attack: afecta a ambos objetivos de las Hydras."
 
 #. type: Bullet: '- '
 #: docs/units/hydras.md
@@ -811,5 +811,5 @@ msgid ""
 "[^1] **Pack and Neutral** - Hydras can not attack a unit and a Wall at the "
 "same time, only one or the other."
 msgstr ""
-"[^1] **Manada and Neutral** - Hydras can not attack a unit and a Wall at the"
-" same time, only one or the other."
+"[^1] **Manada y Neutral** - Las Hydras no pueden atacar a una unidad y a "
+"una Muralla al mismo tiempo, sólo a una u otra."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 16:09+0000\n"
-"PO-Revision-Date: 2024-10-21 16:09+0000\n"
+"PO-Revision-Date: 2025-02-26 13:54+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -320,7 +321,7 @@ msgstr "Ver También"
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -383,7 +384,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -399,10 +400,8 @@ msgstr ""
 #: docs/fields/university.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>[Visitable "
-"Field](../keywords/visitable_field.md)</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Zona Visitable](../keywords/visitable_field.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -423,7 +422,7 @@ msgstr ""
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 msgid "[List of Fields](index.md)"
-msgstr "[Lista de Lugares](index.md)"
+msgstr "[Lista de Zonas](index.md)"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -450,20 +449,19 @@ msgstr "[Lista de Losetas](../tiles/index.md)"
 #: docs/fields/hill_fort.md
 #, no-wrap
 msgid "Hill Fort"
-msgstr "Fuerte de la colina"
+msgstr "Fuerte de la Colina"
 
 #. type: Plain text
 #: docs/fields/hill_fort.md
 msgid ""
-"![Hill Fort Map Location](../assets/locations-hill_fort.webp){ width=\"475\""
-" align=right }"
+"![Hill Fort Map Location](../assets/locations-hill_fort.webp)"
+"{ width=\"475\" align=right }"
 msgstr ""
+"![Ubicación en el Mapa del Fuerte de la Colina](../assets/locations-"
+"hill_fort.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/fields/hill_fort.md
 #, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" markdown>You may immediately Reinforce one "
-"of your :bronze: or :silver: [Units](../units/index.md). The Reinforcement "
-"cost is reduced by 3 :gold: to a minimum of 0.</p>\n"
-msgstr ""
+msgid "<p style=\"text-align: center;\" markdown>You may immediately Reinforce one of your :bronze: or :silver: [Units](../units/index.md). The Reinforcement cost is reduced by 3 :gold: to a minimum of 0.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Puedes Reforzar inmediatamente una de tus [Unidades](../units/index.md) :bronze: o :silver:. El coste de Refuerzo se reduce en 3 :gold: hasta un mínimo de 0.</p>\n"
