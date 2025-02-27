@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 17:38+0000\n"
-"PO-Revision-Date: 2025-02-26 14:37+0100\n"
+"PO-Revision-Date: 2025-02-27 09:25+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -315,26 +315,26 @@ msgstr ""
 "| [Diplomacia](diplomacy.md) | :effect_map: Por cada Vivienda que tengas, roba 1 carta de [Unidad Neutral](../units/índex.md) correspondiente. Puedes **Reclutar** una de estas [unidades](../units/index.md) si :pay: su coste de Reclutamiento. | :instant: Salta el Combate con [Unidades Neutrales](../units/index.md) en un campo cuya Dificultad de Zona sea igual al nivel de tu Héroe. Visita la zona. Este Héroe no gana :experience:. | [Juego Base (2)](../content/core_game.md) |\n"
 "| [Ojo de Águila](eagle_eye.md) | :instant: Roba cartas del mazo de [Hechizo](../spells/index.md) hasta que encuentres una carta de [Hechizo](../spells/index.md) Básico. Cógela en tu mano o descártala. Vuelve a barajar el resto de cartas en el mazo de [Hechizo](../spells/index.md). | :instant: Roba cartas del mazo de [Hechizo](../spells/index.md) hasta que encuentres una carta de [Hechizo](../spells/index.md) Experto. Cógela en tu mano o descártala. Vuelve a barajar el resto de cartas en el mazo de [Hechizo](../spells/index.md). | [Expansión de Fortaleza (2)](../content/fortress_expansion.md) |\n"
 "| [Magia de Tierra](earth_magic.md) | :permanent: +1 :empower: para hechizos de [Escuela de Magia de Tierra](../spells/school_of_earth_magic.md). | Mientras lanzas :empower: para hechizos de la [Escuela de la Tierra](../spells/school_of_earth_magic.md), puedes descartar esta carta, luego ganas +3 :empower:. | [Expansión de la Torre (2)](../content/tower_expansion.md) |\n"
-"| [Finanzas](estates.md) | :instant: Gana 3 :gold:. | :instant: Gana 6 :oro:. | [Juego Básico (2)](../content/core_game.md) |\n"
-"| [Fire Magic](fire_magic.md) | :permanent: +1 :empower: for spells from [School of Fire Magic](../spells/school_of_fire_magic.md). | While casting :spellpower: from the [School of Fire](../spells/school_of_fire_magic.md), you can discard this card, then gain +3 :empower:. | [Tower Expansion (1)](../content/tower_expansion.md) |\n"
-"| [First Aid](first_aid.md) | :instant: Remove 1 :damage: from one of your [units](../units/index.md). | :instant: When using the [First Aid Tent](../war_machines/index.md) card, resolve its effect against the same target 3 times. | [Rampart Expansion (2)](../content/rampart_expansion.md) |\n"
-"| [Intelligence](intelligence.md) | :instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. You can still only play a [Spell](../spells/index.md) card during a Combat round. | :instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. This spell does not count toward your spell limit per Combat round. | [Core Game (2)](../content/core_game.md) |\n"
-"| [Interference](interference.md) | 🚧 | 🚧 | [Cove Expansion (2)](../content/cove_expansion.md) |\n"
-"| [Leadership](leadership.md) | :instant: Gain a :morale_positive: token. | :instant: Draw 2 cards.<br>Then, gain a :morale_positive: token. | [Core Game (2)](../content/core_game.md) |\n"
-"| [Learning](learning.md) | :instant: Play when the Hero is about to level up. Advance their :experience: Level by an additional half level. | :instant: Play when the Hero is about to level up. Advance their :experience: Level by an additional level, then Remove this card. | [Fortress Expansion (2)](../content/fortress_expansion.md) |\n"
-"| [Logistics](logistics.md) | :ongoing: At the end of your turn, move your Hero's model to an adjacent empty field. | :instant: Your Hero gains +1 Movement. | [Core Game (2)](../content/core_game.md) |\n"
-"| [Luck](luck.md) | :ongoing: You can reroll a [Treasure die](../dice.md#treasure-die) and a [Resource die](../dice.md#resource-die) once during this turn. | :ongoing: You can reroll any [die](../dice.md) once during this turn. | [Core Game (2)](../content/core_game.md) |\n"
-"| [Mysticism](mysticism.md) | :instant: Play this card immediately after casting a spell. Instead of discarding the [Spell](../spells/index.md) card, take it back into your hand. | :instant: Play this card immediately after casting a spell. Instead of discarding the [Spell](../spells/index.md) card and all other cards player together with it, take them back to your hand. | [Core Game (2)](../content/core_game.md) |\n"
-"| [Necromancy](necromancy.md) | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | [Core Game (2)](../content/core_game.md) |\n"
-"| [Offense](offense.md) | :instant: +1 :attack:<br>Then draw 1 card. | :instant: +2 :attack:<br>Then draw 1 card. | [Core Game (2)](../content/core_game.md) |\n"
-"| [Pathfinding](pathfinding.md) | :effect_map: This turn, your Hero can move through fields with Neutral Units and Enemy Heroes, but if they end their movement in one of these fields, Combat begins. | :effect_map: Your Hero can move over the yellow border and blocked fields, but cannot end movement on them. | [Tower Expansion (2)](../content/tower_expansion.md) |\n"
-"| [Resistance](resistance.md) | :instant: Play this card immediately after the enemy casts a spell. If the spell was cast with 1 :empower: or less, ignore the [Spell](../spells/index.md) card's effect. | :instant: Play this card immediately after the enemy casts a spell. Ignore the [Spell](../spells/index.md) card's effect. | [Core Game (2)](../content/core_game.md) |\n"
-"| [Scholar](scholar.md) | :instant: Choose 1 card from your discard pile and add it to your hand. | :effect_map: Remove up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile. Remove the Scholar. | [Inferno Expansion (2)](../content/inferno_expansion.md) |\n"
-"| [Scouting](scouting.md) | :instant: Play this card before taking a **Search** action, then do **Search(3)** instead. | :instant: Play this card before taking a **Search** action, then do **Search(5)** instead. | [Tower Expansion (2)](../content/tower_expansion.md)<br>[Inferno Expansion (1)](../content/inferno_expansion.md) |\n"
-"| [Sorcery](sorcery.md) | :instant: +1 :empower:<br>Then draw 1 card. | :instant: +2 :empower:<br>Then draw 1 card. | [Core Game (2)](../content/core_game.md) |\n"
-"| [Tactics](tactics.md) | :instant: At the start of Combat, you can switch the position of any 2 of your [units](../units/index.md). | :activation: During Combat, you can switch the position of any 2 of your [units](../units/index.md). | [Core Game (2)](../content/core_game.md) |\n"
-"| [Water Magic](water_magic.md) | :permanent: +1 :empower: for spells from [School of Water Magic](../spells/school_of_water_magic.md). | While casting :spellpower: from the [School of Water](../spells/school_of_water_magic.md), you can discard this card, then gain +3 :empower:. | [Tower Expansion (2)](../content/tower_expansion.md) |\n"
-"| [Sabiduría](wisdom.md) | :instant: The cost of buying [spells](../spells/index.md) in this Town is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(3)** instead of **Search(2)**. | :instant: The cost of buying [spells](../spells/index.md) in this Town is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(4)** instead of **Search(2)**. | [Core Game (2)](../content/core_game.md) |\n"
+"| [Finanzas](estates.md) | :instant: Gana 3 :gold:. | :instant: Gana 6 :gold:. | [Juego Básico (2)](../content/core_game.md) |\n"
+"| [Magia de Fuego](fire_magic.md) | :permanent: +1 :empower: para hechizos de la [Escuela de Magia de Fuego](../spells/school_of_fire_magic.md). | Mientras lanzas :spellpower: para hechizos de la [Escuela de Fuego](../spells/school_of_fire_magic.md), puedes descartar esta carta, y luego ganar +3 :empower:. | [Expansión de Torre (1)](../content/tower_expansion.md) |\n"
+"| [Primeros Auxilios](first_aid.md) | :instant: Elimina 1 :damage: de una de tus [unidades](../units/index.md). | :instant: Cuando uses la carta [Tienda de Primeros Auxilios](../war_machines/index.md), resuelve su efecto contra el mismo objetivo 3 veces. | [Expansión de Murallas (2)](../content/rampart_expansion.md) |\n"
+"| [Inteligencia](inteligencia.md) | :instant: Durante el Combate, antes de que cualquier [unidad](../units/index.md) se active, juega una carta [Hechizo](../spells/index.md). Sólo puedes jugar una carta [Hechizo](../spells/index.md) durante una ronda de Combate. | :instant: Durante el Combate, antes de que cualquier [unidad](../units/index.md) se active, juega una carta de [Hechizo](../spells/index.md). Este hechizo no cuenta para tu límite de hechizos por ronda de Combate. | [Juego Básico (2)](../content/core_game.md) |\n"
+"| [Interferencia](interference.md) | 🚧 | 🚧 | [Expansión de Ensenada (2)](../content/cove_expansion.md) |\n"
+"| [Leadership](leadership.md) | :instant: Gana una ficha de :morale_positive:. | :instant: Roba 2 cartas.<br>Luego, gana una ficha de :morale_positive:. | [Juego Básico (2)](../content/core_game.md) |\n"
+"| [Aprendizaje](learning.md) | :instant: Se juega cuando el Héroe está a punto de subir de nivel. Aumenta su Nivel de :experience: en medio nivel adicional. | :instant: Se juega cuando el Héroe está a punto de subir de nivel. Avanza su Nivel de :experience: en un nivel adicional, luego Retira esta carta. | [ Expansión de Fortaleza (2)](../content/fortress_expansion.md) |\n"
+"| [Logística](logistics.md) | :ongoing: Al final de tu turno, mueve la miniatura de tu Héroe a una zona vacía adyacente. | Tu Héroe gana +1 Movimiento. | [Juego Básico (2)](../content/core_game.md) |\n"
+"| [Suerte](luck.md) | :ongoing: Puedes volver a lanzar un [dado de Tesoro](../dice.md#treasure-die) y un [dado de Recurso](../dice.md#resource-die) una vez durante este turno. | :ongoing: Puedes volver a lanzar cualquier [dado](../dice.md) una vez durante este turno. | [Juego Básico (2)](../content/core_game.md) |\n"
+"| [Misticismo](mysticism.md) | :instant: Juega esta carta inmediatamente después de lanzar un hechizo. En lugar de descartar la carta [Hechizo](../spells/index.md), devuélvela a tu mano. | :instant: Juega esta carta inmediatamente después de lanzar un hechizo. En lugar de descartar la carta [Hechizo](../spells/index.md) y todas las demás cartas jugadas junto con ella, las devuelves a tu mano. | [Juego Básico (2)](../content/core_game.md) |\n"
+"| [Nigromancia](necromancy.md) | :effect_map: Se juega tras ganar un Combate que no sea Combate Rápido. Puedes **Reforzar** una [unidad](../units/index.md) :bronze: o :silver: de tu elección por la mitad del coste de :gold: (redondeado hacia abajo). | :effect_map: Se juega tras ganar un Combate que no sea Combate Rápido. Puedes **Reforzar** cualquier [unidad](../unidades/index.md) de tu elección por la mitad del coste de :gold: (redondeado hacia abajo). | [Juego Básico (2)](../content/core_game.md) |\n"
+"| [Ofensiva](offense.md) | :instant: +1 :attack:<br>Después roba 1 carta. | :instant: +2 :attack:<br>Después roba 1 carta. | [Juego Básico (2)](../content/core_game.md) |\n"
+"| [Orientación](pathfinding.md) | :effect_map: Este turno, tu Héroe puede moverse a través de zonas con Unidades Neutrales y Héroes Enemigos, pero si termina su movimiento en una de estas zonas, se iniciará el Combate. | :effect_map: Tu Héroe puede moverse sobre el borde amarillo y las zonas bloqueadas, pero no puede finalizar su movimiento en ellas. | [Expansión de Torre (2)](../content/tower_expansion.md) |\n"
+"| [Resistencia](resistance.md) | :instant: Juega esta carta inmediatamente después de que el enemigo lance un hechizo. Si el hechizo fue lanzado con 1 :empower: o menos, ignora el efecto de la carta de [Hechizo](../spells/index.md). | :instant: Juega esta carta inmediatamente después de que el enemigo lance un hechizo. Ignora el efecto de la carta de [Hechizo](../spells/index.md). | [Juego Básico (2)](../content/core_game.md) |\n"
+"| [Erudición](scholar.md) | :instant: Elige 1 carta de tu mazo de descartes y añádela a tu mano. | :effect_map: Retira hasta 2 cartas de [Estadística](../statistics/index.md) de tu mano o pila de descarte. Coge hasta 2 cartas diferentes de [Estadística Mejorada](../statistics/index.md) y ponlas encima de tu pila de descarte. Retira la Erudición. | [Expansión de Infierno (2)](../content/inferno_expansion.md) |\n"
+"| [Exploración](scouting.md) | :instant: Juega esta carta antes de realizar una acción de **Buscar**, en su lugar realiza **Buscar(3)**. | :instant: Juega esta carta antes de realizar una acción de **Buscar**, en su lugar realiza **Buscar(5)**. | [Expansión de Torre (2)](../content/tower_expansion.md)<br>[Expansión de Infierno (1)](../content/inferno_expansion.md) |\n"
+"| [Hechicería](sorcery.md) | :instant: +1 :empower:<br>Después roba 1 carta. | :instant: +2 :empower:<br>Después roba 1 carta. | [Juego Básico (2)](../content/core_game.md) |\n"
+"| [Tácticas](tactics.md) | :instant: Al inicio del Combate, puedes cambiar la posición de 2 de tus [unidades](../units/index.md) cualesquiera. | :activation: Durante el Combate, puedes cambiar la posición de 2 de tus [unidades](../units/index.md) cualesquiera. | [Juego Básico (2)](../content/core_game.md) |\n"
+"| [Magia del Agua](water_magic.md) | :permanent: +1 :empower: para hechizos de [Escuela de Magia de Agua](../spells/school_of_water_magic.md). | Mientras lanzas :empower: de la [Escuela de Agua](../spells/school_of_water_magic.md), puedes descartar esta carta, luego ganas +3 :empower:. | [Expansión de Torre (2)](../content/tower_expansion.md) |\n"
+"| [Sabiduría](wisdom.md) | :instant: El coste de comprar [hechizos](../spells/index.md) en esta Ciudad se reduce en 2 :gold:. Al comprar [hechizos](../spells/index.md) de tu Cofradía de Magos, haz **Buscar(3)** en lugar de **Buscar(2)**. | :instant: El coste de comprar [hechizos](../spells/index.md) en esta Ciudad se reduce en 2 :gold:. Cuando compres [hechizos](../spells/index.md) de tu Cofradía de Magos, haz **Buscar(4)** en lugar de **Buscar(2)**. | [Juego Básico (2)](../content/core_game.md) |\n"
 
 #. type: Title #
 #: docs/artifacts/index.md
@@ -593,9 +593,9 @@ msgid ""
 "In the interest of readability, this prefix has been removed from the names "
 "in the following table."
 msgstr ""
-"Todas las cartas comienzan con un prefijo de 'Los Astrólogos proclaman la "
-"semana del'.En aras de la legibilidad, este prefijo se ha eliminado de los "
-"nombres en la siguiente tabla."
+"Todas las cartas comienzan con el prefijo \"Los astrólogos proclaman la "
+"semana del\". En aras de la legibilidad, se ha eliminado este prefijo de "
+"los nombres en la siguiente tabla."
 
 #. type: Plain text
 #: docs/astrologers_proclaim/index.md
@@ -827,7 +827,7 @@ msgstr "Zonas"
 #. type: Plain text
 #: docs/fields/index.md
 msgid "Fields are single cells on a [tile](../tiles/index.md)."
-msgstr "Los Campos son cada casilla en una [loseta](../tiles/index.md)."
+msgstr "Las Zonas son cada casilla en una [loseta](../tiles/index.md)."
 
 #. type: Plain text
 #: docs/fields/index.md
@@ -1081,9 +1081,9 @@ msgid ""
 "3: The Board Game, that also offers extra explanations for how some cards "
 "work or interact with others."
 msgstr ""
-"Una simple colección de cartas contenidas dentro de los Héroes de Poder y "
-"Magia 3: el Juego de Mesa, que también ofrece explicaciones adicionales "
-"sobre cómo algunas cartas funcionan o interactúan con otras."
+"Una sencilla colección de cartas contenidas en Heroes of Might and Magic 3: "
+"El Juego de Mesa, que también ofrece explicaciones extra sobre cómo "
+"funcionan algunas cartas o interactúan con otras."
 
 #. type: Plain text
 #: docs/index.md
@@ -1094,12 +1094,12 @@ msgid ""
 "to find any card contained within the game, including a visual reference "
 "and extra information where necessary or applicable."
 msgstr ""
-"De vez en cuando, quiero ver qué hacen algunas cartas, ya sea mientras te "
-"teoría de qué jugar, o incluso durante el juego, cuándo quiero verificar o "
-"hacer referencia a algo.Esta base de datos está destinada a proporcionar "
-"una manera fácil de encontrar cualquier tarjeta contenida dentro del juego, "
-"incluida una referencia visual e información adicional cuando sea necesario "
-"o aplicable."
+"De vez en cuando quiero ver lo que hacen algunas cartas, ya sea mientras "
+"elaboro la teoría sobre qué jugar, o incluso durante el juego, cuando "
+"quiero comprobar o hacer referencia a algo. Esta base de datos pretende "
+"ofrecer una forma sencilla de encontrar cualquier carta del juego, "
+"incluyendo una referencia visual e información adicional cuando sea "
+"necesario o aplicable."
 
 #. type: Title ##
 #: docs/index.md
@@ -1111,7 +1111,8 @@ msgstr ":defense: ¿Planes futuros?"
 #: docs/index.md
 msgid "Adding extra explanations to all cards that may need some"
 msgstr ""
-"Agregar explicaciones adicionales a todas las cartas que lo puedan necesitar"
+"Añadir explicaciones adicionales a todas las tarjetas que puedan necesitar "
+"alguna"
 
 #. type: Bullet: '* '
 #: docs/index.md
@@ -1119,9 +1120,8 @@ msgid ""
 "Fixing incorrect information (all of the cards were put in by hand, there "
 "is a chance that some may contains typos or other inaccuracies)"
 msgstr ""
-"Arreglando información incorrecta (todas las cartas se pusieron a mano, "
-"existe la posibilidad de que algunas puedan contener errores tipográficos u "
-"otras inexactitudes)"
+"Se corrigen los datos incorrectos (todas las fichas se rellenaron a mano, "
+"por lo que es posible que algunas contengan erratas u otras imprecisiones)."
 
 #. type: Title ##
 #: docs/index.md
@@ -1135,8 +1135,8 @@ msgid ""
 "This project is a fan project, and is in no way official or affiliated with "
 "[Archon Studio](https://archon-studio.com)."
 msgstr ""
-"Este proyecto es un proyecto aficionado, y no es una vía oficial o afiliada "
-"con [Archon Studio](https://archon-studio.com)."
+"Este proyecto es un proyecto de fans, y no es de ninguna manera oficial o "
+"afiliado con [Archon Studio](https://archon-studio.com)."
 
 #. type: Title ##
 #: docs/index.md
@@ -1150,8 +1150,8 @@ msgid ""
 "Here are some projects within the homm3bg community that are definitely "
 "worth a visit."
 msgstr ""
-"Aquí hay algunos proyectos dentro de la comunidad Homm3bg que "
-"definitivamente vale la pena visitar."
+"He aquí algunos proyectos de la comunidad homm3bg que sin duda merecen una "
+"visita."
 
 #. type: Bullet: '- '
 #: docs/index.md
@@ -1316,7 +1316,7 @@ msgstr "Mapa"
 #. type: Bullet: '- '
 #: docs/keywords/index.md
 msgid "[Blocked Field](blocked_field.md)"
-msgstr "[Campo Bloqueado](blocked_field.md)"
+msgstr "[Zona Bloqueada](blocked_field.md)"
 
 #. type: Title #
 #: docs/scenarios/index.md
