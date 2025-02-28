@@ -318,7 +318,7 @@ msgstr "[Fortuna] (Fortune.md)"
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md
 msgid "[Haste](haste.md)"
-msgstr "[Prisa] (prisa.md)"
+msgstr "[Celeridad] (haste.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md

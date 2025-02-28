@@ -572,7 +572,7 @@ msgstr "[Lista de Ciudades](../towns/index.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/fortress.md
 msgid ":bronze: [Dragon Flies](../units/dragon_flies.md)"
-msgstr ":bronze: [Moscas Dragón](../units/dragon_flies.md)"
+msgstr ":bronze: [Libélulas](../units/dragon_flies.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/fortress.md

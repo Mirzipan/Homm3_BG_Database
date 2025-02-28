@@ -528,13 +528,13 @@ msgstr "[Lista de Habilidades](index.md)"
 #: docs/abilities/archery.md
 #, no-wrap
 msgid "Archery"
-msgstr "Tiro al Arco"
+msgstr "Tiro con Arco"
 
 #. type: Plain text
 #: docs/abilities/archery.md
 msgid "![Archery](../assets/abilities-archery.webp){ width=\"340\" align=right }"
 msgstr ""
-"![Tiro al Arco](../assets/abilities-archery.webp){ width=\"340\" align=right"
+"![Tiro con Arco](../assets/abilities-archery.webp){ width=\"340\" align=right"
 " }"
 
 #. type: Plain text

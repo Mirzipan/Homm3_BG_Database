@@ -590,7 +590,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Diplomacia](../abilities/dipl
 #. type: Plain text
 #: docs/heroes/cyra.md
 msgid "=== \"Haste Ⅰ\""
-msgstr "=== \"Prisa Ⅰ\""
+msgstr "=== \"Celeridad Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/cyra.md
@@ -601,13 +601,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Prisa Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Celeridad Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/cyra.md
 msgid "=== \"Haste Ⅳ\""
-msgstr "=== \"Prisa Ⅳ\""
+msgstr "=== \"Celeridad Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/cyra.md
@@ -618,13 +618,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Prisa Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Celeridad Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/cyra.md
 msgid "=== \"Haste Ⅵ\""
-msgstr "=== \"Prisa Ⅵ\""
+msgstr "=== \"Celeridad Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/cyra.md
@@ -635,7 +635,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Prisa Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Celeridad Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

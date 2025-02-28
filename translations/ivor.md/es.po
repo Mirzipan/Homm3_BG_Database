@@ -588,7 +588,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/ivor.md
 msgid "=== \"Elves Ⅰ\""
-msgstr "=== \"Elfos ⅰ\""
+msgstr "=== \"Elfos Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/ivor.md
@@ -602,7 +602,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/ivor.md
 msgid "=== \"Elves Ⅳ\""
-msgstr "=== \"Elfos ⅳ\""
+msgstr "=== \"Elfos Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/ivor.md
@@ -616,7 +616,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/ivor.md
 msgid "=== \"Elves Ⅵ\""
-msgstr "=== \"Elfos ⅵ\""
+msgstr "=== \"Elfos Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/ivor.md

@@ -638,7 +638,7 @@ msgstr "[Expansión de Torre](../content/tower_expansion.md) (Neutral)"
 #: docs/units/dragon_flies.md
 #, no-wrap
 msgid "Dragon Flies"
-msgstr "Moscas Dragón"
+msgstr "Libélulas"
 
 #. type: Plain text
 #: docs/units/dragon_flies.md
@@ -649,7 +649,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocas Moscas Dragón](../assets/units-fortress-bronze-dragon_flies-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocas Libélulas](../assets/units-fortress-bronze-dragon_flies-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -661,7 +661,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Moscas de Dragón](../assets/units-fortress-bronze-dragon_flies-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Libélulas](../assets/units-fortress-bronze-dragon_flies-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -673,7 +673,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Moscas Dragón Neutrales](../assets/units-neutral-bronze-dragon_flies.webp){ width=\"340\" align=right }\n"
+"        ![Libélulas Neutrales](../assets/units-neutral-bronze-dragon_flies.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -702,4 +702,4 @@ msgstr ""
 "| :health_points: | 3 | 3 | 3 |\n"
 "| :initiative: | 8 | **12** | 8 |\n"
 "| Coste | 4 :gold: | 7 :gold: | 7 :gold: |\n"
-"| Habilidades | :unit_attack: Elimina todos los efectos :ongoing: jugados sobre el objetivo por el jugador enemigo. | :unit_attack: Elimina todos los efectos :ongoing: jugados sobre el objetivo por el jugador enemigo. Si el objetivo contraataca, sufre - 1 :attack:. | :unit_attack: Los contraataques contra Moscas Dragón sufren -1 :attack:. |\n"
+"| Habilidades | :unit_attack: Elimina todos los efectos :ongoing: jugados sobre el objetivo por el jugador enemigo. | :unit_attack: Elimina todos los efectos :ongoing: jugados sobre el objetivo por el jugador enemigo. Si el objetivo contraataca, sufre - 1 :attack:. | :unit_attack: Los contraataques contra Libélulas sufren -1 :attack:. |\n"

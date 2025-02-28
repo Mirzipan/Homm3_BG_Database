@@ -721,7 +721,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/alamar.md
 msgid "=== \"Resurrection Ⅰ\""
-msgstr "=== \"Resurrección I\""
+msgstr "=== \"Resurrección Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/alamar.md
@@ -738,7 +738,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/alamar.md
 msgid "=== \"Resurrection Ⅳ\""
-msgstr "=== \"Resurrección IV\""
+msgstr "=== \"Resurrección Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/alamar.md
@@ -755,7 +755,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/alamar.md
 msgid "=== \"Resurrection Ⅵ\""
-msgstr "=== \"Resurrección VI\""
+msgstr "=== \"Resurrección Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/alamar.md

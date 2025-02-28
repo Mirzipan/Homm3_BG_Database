@@ -614,7 +614,7 @@ msgstr "[Crown of DragonTooth] (Crown_of_dragonTooth.md)"
 #: docs/artifacts/red_dragon_flame_tongue.md
 #, no-wrap
 msgid "Red Dragon Flame Tongue"
-msgstr "Lengua de llama del dragón rojo"
+msgstr "Lengua Ígnea del Dragón Rojo"
 
 #. type: Plain text
 #: docs/artifacts/red_dragon_flame_tongue.md

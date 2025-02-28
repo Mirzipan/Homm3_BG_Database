@@ -604,12 +604,12 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/haste.md
 #, no-wrap
 msgid "Haste"
-msgstr "Prisa"
+msgstr "Celeridad"
 
 #. type: Plain text
 #: docs/spells/haste.md
 msgid "![Haste](../assets/spells-haste.webp){ width=\"340\" align=right }"
-msgstr "![Prisa](../assets/spells-haste.webp){ width=\"340\" align=right }"
+msgstr "![Celeridad](../assets/spells-haste.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/haste.md

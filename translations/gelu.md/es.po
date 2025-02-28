@@ -588,7 +588,7 @@ msgstr "<p style=\"text-align: center;\" markdown>![Gelu](../assets/heroes-rampa
 #: docs/heroes/gelu.md docs/heroes/valeska.md docs/heroes/wystan.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Archery](../abilities/archery.md)</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Tiro al Arco](../abilities/archery.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Tiro con Arco](../abilities/archery.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/gelu.md

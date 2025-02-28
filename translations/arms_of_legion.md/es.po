@@ -642,7 +642,7 @@ msgid ""
 "Legion may not be used."
 msgstr ""
 "Si el jugador recluta fuera de su turno, no se puede usar el efecto de los "
-"brazos de la Legión."
+"Brazos de Legión."
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/legs_of_legion.md

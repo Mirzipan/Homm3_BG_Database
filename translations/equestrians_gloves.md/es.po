@@ -522,7 +522,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/
 #: docs/artifacts/equestrians_gloves.md
 #, no-wrap
 msgid "Equestrian's Gloves"
-msgstr "Guantes de Equitación"
+msgstr "Guantes Ecuestres"
 
 #. type: Plain text
 #: docs/artifacts/equestrians_gloves.md
@@ -530,7 +530,7 @@ msgid ""
 "![Equestrian's Gloves](../assets/artifacts_minor-equestrians_gloves.webp)"
 "{ width=\"340\" align=right }"
 msgstr ""
-"![Guantes de Equitación](../assets/artifacts_minor-equestrians_gloves.webp)"
+"![Guantes Ecuestres](../assets/artifacts_minor-equestrians_gloves.webp)"
 "{ width=\"340\" align=right }"
 
 #. type: Plain text

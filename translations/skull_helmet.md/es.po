@@ -551,7 +551,7 @@ msgstr "[Blackshard of the Dead Knight] (Blackshard_of_the_dead_knight.md)"
 #: docs/artifacts/skull_helmet.md
 #, no-wrap
 msgid "Skull Helmet"
-msgstr "Casco de cráneo"
+msgstr "Yelmo Cráneo"
 
 #. type: Plain text
 #: docs/artifacts/skull_helmet.md

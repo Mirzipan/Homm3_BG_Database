@@ -634,7 +634,7 @@ msgstr "Especialidad"
 #. type: Plain text
 #: docs/heroes/adelaide.md
 msgid "=== \"Frost Ring Ⅰ\""
-msgstr "=== \"Anillo Helado I\""
+msgstr "=== \"Anillo Helado Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/adelaide.md
@@ -652,7 +652,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/adelaide.md
 msgid "=== \"Frost Ring Ⅳ\""
-msgstr "=== \"Anillo Helado IV\""
+msgstr "=== \"Anillo Helado Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/adelaide.md
@@ -669,7 +669,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/adelaide.md
 msgid "=== \"Frost Ring Ⅵ\""
-msgstr "=== \"Anillo Helado VI\""
+msgstr "=== \"Anillo Helado Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/adelaide.md
@@ -705,7 +705,7 @@ msgstr ""
 msgid ""
 "**Ⅰ and Ⅵ** - The :damage: from Frost Ring also applies to friendly units."
 msgstr ""
-"**I y VI** - El :damage: de Anillo Helado también se aplica a unidades aliadas."
+"**Ⅰ y Ⅵ** - El :damage: de Anillo Helado también se aplica a unidades aliadas."
 
 #. type: Bullet: '- '
 #: docs/heroes/adelaide.md docs/heroes/deemer.md

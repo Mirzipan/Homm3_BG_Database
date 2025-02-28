@@ -586,7 +586,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attac
 #: docs/heroes/clancy.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Pathfinding](../abilities/pathfinding.md)</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Logística](../abilities/pathfinding.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Orientación](../abilities/pathfinding.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/clancy.md

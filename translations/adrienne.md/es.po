@@ -608,7 +608,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/adrienne.md
 msgid "=== \"Fire Magic Ⅰ\""
-msgstr "=== \"Magia de Fuego I\""
+msgstr "=== \"Magia de Fuego Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
@@ -625,7 +625,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/adrienne.md
 msgid "=== \"Fire Magic Ⅳ\""
-msgstr "=== \"Magia de Fuego IV\""
+msgstr "=== \"Magia de Fuego Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
@@ -642,7 +642,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/adrienne.md
 msgid "=== \"Fire Magic Ⅵ\""
-msgstr "=== \"Magia de Fuego VI\""
+msgstr "=== \"Magia de Fuego Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/adrienne.md

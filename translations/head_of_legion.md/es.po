@@ -642,7 +642,7 @@ msgstr "[Piernas de la Legión](legs_of_legion.md)"
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Loins of Legion](loins_of_legion.md)"
-msgstr "[Caderas de la Legión](loins_of_legion.md)"
+msgstr "[Escarcela de Legión](loins_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md

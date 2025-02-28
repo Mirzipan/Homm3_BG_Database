@@ -692,7 +692,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/zydar.md
 msgid "=== \"Sorcery Ⅵ\""
-msgstr "=== \"Brujería VI\""
+msgstr "=== \"Hechicería Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/zydar.md
@@ -703,7 +703,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Brujería VI](../assets/hero_specialties-inferno-zydar-7.webp){ width=\"340\" align=right }\n"
+"        ![Hechicería Ⅵ](../assets/hero_specialties-inferno-zydar-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

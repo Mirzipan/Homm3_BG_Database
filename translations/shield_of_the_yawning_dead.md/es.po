@@ -581,7 +581,7 @@ msgstr "[Rib Cage] (rib_cage.md)"
 #: docs/artifacts/blackshard_of_the_dead_knight.md docs/artifacts/rib_cage.md
 #: docs/artifacts/shield_of_the_yawning_dead.md
 msgid "[Skull Helmet](skull_helmet.md)"
-msgstr "[Casco de cráneo] (Skull_helmet.md)"
+msgstr "[Yelmo Cráneo] (Skull_helmet.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/rib_cage.md docs/artifacts/shield_of_the_yawning_dead.md
