@@ -658,17 +658,17 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/lord_haart_necropolis.md docs/heroes/tamika.md
 msgid "=== \"Dread Knights Ⅰ\""
-msgstr "=== \"Caballeros de temor ⅰ\""
+msgstr "=== \"Caballeros del Terror Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/lord_haart_necropolis.md docs/heroes/tamika.md
 msgid "=== \"Dread Knights Ⅳ\""
-msgstr "=== \"Caballeros de temor ⅳ\""
+msgstr "=== \"Caballeros del Terror Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/lord_haart_necropolis.md docs/heroes/tamika.md
 msgid "=== \"Dread Knights Ⅵ\""
-msgstr "=== \"Caballeros de temor ⅵ\""
+msgstr "=== \"Caballeros del Terror Ⅵ\""
 
 #. type: Bullet: '- '
 #: docs/heroes/melodia.md docs/heroes/sandro.md docs/heroes/tamika.md

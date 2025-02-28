@@ -674,7 +674,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/evil_eyes.md
 #, no-wrap
 msgid "Evil Eyes"
-msgstr "Ojos Malignos"
+msgstr "Ojos Maléficos"
 
 #. type: Plain text
 #: docs/units/evil_eyes.md
@@ -685,7 +685,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Ojos Malignos](../assets/units-dungeon-bronze-evil_eyes-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Ojos Maléficos](../assets/units-dungeon-bronze-evil_eyes-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -697,7 +697,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Ojos Malignos](../assets/units-dungeon-bronze-evil_eyes-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Ojos Maléficos](../assets/units-dungeon-bronze-evil_eyes-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -709,7 +709,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Ojos Malignos Neutrales](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Ojos Maléficos Neutrales](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

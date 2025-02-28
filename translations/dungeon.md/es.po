@@ -645,7 +645,7 @@ msgstr ":silver: [Minotauros](../units/minotaurs.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/dungeon.md
 msgid ":bronze: [Evil Eyes](../units/evil_eyes.md)"
-msgstr ":bronze: [Ojos Malignos](../units/evil_eyes.md)"
+msgstr ":bronze: [Ojos Maléficos](../units/evil_eyes.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/dungeon.md

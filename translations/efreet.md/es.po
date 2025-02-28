@@ -627,7 +627,7 @@ msgstr "Héroes Con Especialidad"
 #: docs/units/efreet.md
 #, no-wrap
 msgid "Efreet"
-msgstr "Efreet"
+msgstr "Ifrit"
 
 #. type: Plain text
 #: docs/units/efreet.md
@@ -638,7 +638,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Efreet](../assets/units-inferno-golden-efreet-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Ifrits](../assets/units-inferno-golden-efreet-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -650,7 +650,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Efreet](../assets/units-inferno-golden-efreet-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Ifrits](../assets/units-inferno-golden-efreet-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -662,7 +662,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Efreet Neutral](../assets/units-neutral-golden-efreet.webp){ width=\"340\" align=right }\n"
+"        ![Ifrit Neutral](../assets/units-neutral-golden-efreet.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

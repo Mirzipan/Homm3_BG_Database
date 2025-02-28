@@ -559,7 +559,7 @@ msgstr ":silver: [Ayssides](../units/ayssids.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/cove.md
 msgid ":bronze: [Seamen](../units/seamen.md)"
-msgstr ":bronze: [Marinos](../units/seamen.md)"
+msgstr ":bronze: [Marineros](../units/seamen.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/cove.md

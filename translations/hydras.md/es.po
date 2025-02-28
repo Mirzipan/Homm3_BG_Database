@@ -719,7 +719,7 @@ msgstr "[Expansión de Torre](../content/tower_expansion.md) (Neutral)"
 #: docs/units/hydras.md
 #, no-wrap
 msgid "Hydras"
-msgstr "Hydras"
+msgstr "Hidras"
 
 #. type: Plain text
 #: docs/units/hydras.md
@@ -730,7 +730,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocas Hydras](../assets/units-fortress-golden-hydras-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocas Hidras](../assets/units-fortress-golden-hydras-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -742,7 +742,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Hydras](../assets/units-fortress-golden-hydras-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Hidras](../assets/units-fortress-golden-hydras-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -754,7 +754,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Hydras Neutrales](../assets/units-neutral-azure-hydras.webp){ width=\"340\" align=right }\n"
+"        ![Hidras Neutrales](../assets/units-neutral-azure-hydras.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -803,7 +803,7 @@ msgid ""
 "Attack. The :unit_attack: symbol affects both target of the Hydras."
 msgstr ""
 "**Manada y Neutral** - Ninguno de los ataques desencadena un Contraataque. "
-"El símbolo :unit_attack: afecta a ambos objetivos de las Hydras."
+"El símbolo :unit_attack: afecta a ambos objetivos de las Hidras."
 
 #. type: Bullet: '- '
 #: docs/units/hydras.md
@@ -811,5 +811,5 @@ msgid ""
 "[^1] **Pack and Neutral** - Hydras can not attack a unit and a Wall at the "
 "same time, only one or the other."
 msgstr ""
-"[^1] **Manada y Neutral** - Las Hydras no pueden atacar a una unidad y a "
+"[^1] **Manada y Neutral** - Las Hidras no pueden atacar a una unidad y a "
 "una Muralla al mismo tiempo, sólo a una u otra."

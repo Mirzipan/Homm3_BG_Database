@@ -159,7 +159,7 @@ msgstr ":bronze: [Gnolls](../units/gnolls.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/stronghold.md
 msgid ":bronze: [Goblins](../units/goblins.md)"
-msgstr ":bronze: [Duendes](../units/goblins.md)"
+msgstr ":bronze: [Trasgos](../units/goblins.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/keywords/ranged_unit.md
@@ -222,7 +222,7 @@ msgstr ":bronze: [Trogloditas](../units/troglodytes.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/stronghold.md
 msgid ":bronze: [Wolf Raiders](../units/wolf_raiders.md)"
-msgstr ":bronze: [Jinetes de Lobos](../units/wolf_raiders.md)"
+msgstr ":bronze: [Jinetes Lupinos](../units/wolf_raiders.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/necropolis.md
@@ -322,12 +322,12 @@ msgstr ":golden: [Áspides](../units/haspids.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/fortress.md
 msgid ":golden: [Hydras](../units/hydras.md)"
-msgstr ":golden: [Hydras](../units/hydras.md)"
+msgstr ":golden: [Hidras](../units/hydras.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/conflux.md
 msgid ":golden: [Magic Elementals](../units/magic_elementals.md)"
-msgstr ":golden: [Elementales de Magia](../units/magic_elementals.md)"
+msgstr ":golden: [Elementales Mágicos](../units/magic_elementals.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/tower.md
@@ -363,4 +363,4 @@ msgstr ":azure: [Dragones de Cristal](../units/crystal_dragons.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md
 msgid ":azure: [Hydras](../units/hydras.md)"
-msgstr ":azure: [Hydras](../units/hydras.md)"
+msgstr ":azure: [Hidras](../units/hydras.md)"

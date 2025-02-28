@@ -203,35 +203,6 @@ msgstr ""
 msgid "Comes With"
 msgstr "Viene Con"
 
-#. type: Bullet: '- '
-#: docs/abilities/air_magic.md docs/abilities/earth_magic.md
-#: docs/abilities/fire_magic.md docs/abilities/pathfinding.md
-#: docs/abilities/scouting.md docs/abilities/water_magic.md
-#: docs/artifacts/boots_of_polarity.md docs/artifacts/cards_of_prophecy.md
-#: docs/artifacts/equestrians_gloves.md docs/artifacts/glyph_of_gallantry.md
-#: docs/artifacts/helm_of_the_alabaster_unicorn.md
-#: docs/artifacts/mystic_orb_of_mana.md docs/artifacts/orb_of_inhibition.md
-#: docs/artifacts/pendant_of_second_sight.md
-#: docs/artifacts/ring_of_the_wayfarer.md docs/artifacts/spellbinders_hat.md
-#: docs/artifacts/surcoat_of_counterpoise.md
-#: docs/astrologers_proclaim/blue_sky.md
-#: docs/astrologers_proclaim/scorched_ground.md
-#: docs/astrologers_proclaim/society.md
-#: docs/astrologers_proclaim/unexpected_reinforcements.md
-#: docs/heroes/adelaide.md docs/heroes/bron.md docs/heroes/clancy.md
-#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dracon.md
-#: docs/heroes/iona.md docs/heroes/jeddite.md docs/heroes/josephine.md
-#: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
-#: docs/heroes/mephala.md docs/heroes/septienna.md docs/heroes/solmyr.md
-#: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/vidomina.md
-#: docs/spells/berserk.md docs/spells/dispel.md docs/spells/shield.md
-#: docs/spells/view_air.md docs/towns/tower.md docs/units/gargoyles.md
-#: docs/units/genies.md docs/units/gold_dragons.md docs/units/gremlins.md
-#: docs/units/iron_golems.md docs/units/magi.md docs/units/nagas.md
-#: docs/units/titans.md
-msgid "[Tower Expansion](../content/tower_expansion.md)"
-msgstr "[Expansión de Torre](../content/tower_expansion.md)"
-
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
 #: docs/abilities/armorer.md docs/abilities/artillery.md
@@ -438,6 +409,85 @@ msgid "See Also"
 msgstr "Ver También"
 
 #. type: Bullet: '- '
+#: docs/abilities/archery.md docs/abilities/armorer.md
+#: docs/abilities/diplomacy.md docs/abilities/estates.md
+#: docs/abilities/intelligence.md docs/abilities/leadership.md
+#: docs/abilities/logistics.md docs/abilities/luck.md
+#: docs/abilities/mysticism.md docs/abilities/necromancy.md
+#: docs/abilities/offense.md docs/abilities/resistance.md
+#: docs/abilities/sorcery.md docs/abilities/tactics.md
+#: docs/abilities/wisdom.md docs/artifacts/angel_wings.md
+#: docs/artifacts/armor_of_wonder.md
+#: docs/artifacts/blackshard_of_the_dead_knight.md
+#: docs/artifacts/breastplate_of_petrified_wood.md
+#: docs/artifacts/centaurs_axe.md docs/artifacts/charm_of_mana.md
+#: docs/artifacts/dragon_scale_armor.md docs/artifacts/dragon_scale_shield.md
+#: docs/artifacts/dragon_wing_tabard.md docs/artifacts/endless_bag_of_gold.md
+#: docs/artifacts/endless_sack_of_gold.md
+#: docs/artifacts/everflowing_crystal_cloak.md
+#: docs/artifacts/everpouring_vial_of_mercury.md
+#: docs/artifacts/head_of_legion.md
+#: docs/artifacts/hourglass_of_the_evil_hour.md
+#: docs/artifacts/inexhaustible_cart_of_lumber.md
+#: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
+#: docs/artifacts/ogres_club_of_havoc.md
+#: docs/artifacts/red_dragon_flame_tongue.md docs/artifacts/rib_cage.md
+#: docs/artifacts/sentinels_shield.md docs/artifacts/shackles_of_war.md
+#: docs/artifacts/shield_of_the_dwarven_lords.md
+#: docs/artifacts/shield_of_the_yawning_dead.md docs/artifacts/speculum.md
+#: docs/artifacts/sword_of_judgement.md
+#: docs/artifacts/targ_of_the_rampaging_ogre.md
+#: docs/artifacts/titans_cuirass.md docs/artifacts/titans_gladius.md
+#: docs/artifacts/tunic_of_the_cyclops_king.md
+#: docs/artifacts/vial_of_lifeblood.md
+#: docs/astrologers_proclaim/annoying_lizard.md
+#: docs/astrologers_proclaim/battalions_stallion.md
+#: docs/astrologers_proclaim/crazy_wizard.md
+#: docs/astrologers_proclaim/dead_silence.md
+#: docs/astrologers_proclaim/fancy_pixie.md
+#: docs/astrologers_proclaim/fluffy_rabbit.md
+#: docs/astrologers_proclaim/friendly_beaver.md
+#: docs/astrologers_proclaim/gold_dragon.md
+#: docs/astrologers_proclaim/greedy_dragon.md
+#: docs/astrologers_proclaim/grim_warlock.md
+#: docs/astrologers_proclaim/groovy_satyr.md
+#: docs/astrologers_proclaim/isras_friends.md
+#: docs/astrologers_proclaim/magic_tortoise.md
+#: docs/astrologers_proclaim/merry_leprechaun.md
+#: docs/astrologers_proclaim/profuse_growth.md
+#: docs/astrologers_proclaim/swift_weasel.md
+#: docs/astrologers_proclaim/terrible_plague.md
+#: docs/astrologers_proclaim/white_raven.md
+#: docs/astrologers_proclaim/wild_debauchery.md docs/heroes/alamar.md
+#: docs/heroes/catherine.md docs/heroes/moandor.md docs/heroes/mutare.md
+#: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/tamika.md
+#: docs/spells/anti-magic.md docs/spells/bless.md docs/spells/blind.md
+#: docs/spells/bloodlust.md docs/spells/chain_lightning.md
+#: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
+#: docs/spells/disrupting_ray.md docs/spells/fire_shield.md
+#: docs/spells/fireball.md docs/spells/haste.md docs/spells/lightning_bolt.md
+#: docs/spells/magic_arrow.md docs/spells/prayer.md
+#: docs/spells/resurrection.md docs/spells/slow.md docs/spells/stone_skin.md
+#: docs/spells/teleport.md docs/spells/town_portal.md docs/spells/weakness.md
+#: docs/towns/castle.md docs/towns/dungeon.md docs/towns/necropolis.md
+#: docs/units/archangels.md docs/units/arrow_tower.md
+#: docs/units/azure_dragons.md docs/units/black_dragons.md docs/units/boars.md
+#: docs/units/champions.md docs/units/crusaders.md
+#: docs/units/crystal_dragons.md docs/units/diamond_golems.md
+#: docs/units/dread_knights.md docs/units/enchanters.md
+#: docs/units/evil_eyes.md docs/units/ghost_dragons.md
+#: docs/units/gold_golems.md docs/units/griffins.md docs/units/halberdiers.md
+#: docs/units/halflings.md docs/units/harpies.md docs/units/liches.md
+#: docs/units/manticores.md docs/units/marksmen.md docs/units/medusas.md
+#: docs/units/minotaurs.md docs/units/mummies.md docs/units/nomads.md
+#: docs/units/peasants.md docs/units/rogues.md docs/units/sharpshooters.md
+#: docs/units/skeletons.md docs/units/troglodytes.md docs/units/trolls.md
+#: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
+#: docs/units/zombies.md
+msgid "[Core Game](../content/core_game.md)"
+msgstr "[Juego Base](../content/core_game.md)"
+
+#. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
@@ -548,34 +598,34 @@ msgstr "Especialidad"
 msgid "[List of Heroes](index.md)"
 msgstr "[Lista de Héroes](index.md)"
 
-#. type: Bullet: '- '
-#: docs/heroes/adrienne.md docs/heroes/lord_haart_necropolis.md
-#: docs/heroes/wystan.md
-msgid "Playing With Fire - 3. Burning Of Tatalia"
-msgstr "Jugando Con Fuego - 3. Quema de Tatalia"
-
 #. type: Title ##
-#: docs/heroes/ivor.md docs/heroes/jeddite.md
-#: docs/heroes/lord_haart_necropolis.md docs/heroes/melodia.md
-#: docs/heroes/shiva.md docs/heroes/vidomina.md
+#: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/catherine.md
+#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/mutare.md
+#: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/solmyr.md
+#: docs/heroes/tamika.md docs/heroes/wystan.md
 #, no-wrap
-msgid "Appearances As Enemy Hero"
-msgstr "Apariciones como héroe enemigo"
-
-#. type: Title #
-#: docs/heroes/lord_haart_necropolis.md
-#, no-wrap
-msgid "Lord Haart (Necropolis)"
-msgstr "Lord Haart (necrópolis)"
+msgid "Appearances As Player Hero"
+msgstr "Apariciones Como Héroe Jugador"
 
 #. type: Plain text
-#: docs/heroes/lord_haart_necropolis.md
+#: docs/heroes/crag_hack.md docs/heroes/ivor.md docs/heroes/jeremy.md
+#: docs/heroes/tamika.md docs/heroes/tarnum_stronghold.md docs/heroes/yog.md
 #, no-wrap
 msgid ""
-"<p style=\"text-align: center;\" markdown>![Lord Haart "
-"(Necropolis)](../assets/heroes-necropolis-might-lord_haart.webp){ width=540 "
-"align=right }</p>\n"
+"<p style=\"text-align: center;\" "
+"markdown>[Offense](../abilities/offense.md)</p>\n"
 msgstr ""
+
+#. type: Bullet: '- '
+#: docs/heroes/ivor.md docs/heroes/sandro.md docs/heroes/tamika.md
+msgid "Rise Of The Necromancer - 2. Master"
+msgstr "Rise of the Nigromancer - 2. Maestro"
+
+#. type: Bullet: '- '
+#: docs/heroes/jeddite.md docs/heroes/sandro.md docs/heroes/shiva.md
+#: docs/heroes/tamika.md
+msgid "Rise Of The Necromancer - 1. Target"
+msgstr "Aumento del nigromante - 1. Target"
 
 #. type: Plain text
 #: docs/heroes/lord_haart_necropolis.md docs/heroes/moandor.md
@@ -606,68 +656,73 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/lord_haart_necropolis.md docs/heroes/moandor.md
-#: docs/heroes/septienna.md docs/heroes/vidomina.md
-#, no-wrap
-msgid ""
-"<p style=\"text-align: center;\" "
-"markdown>[Necromancy](../abilities/necromancy.md)</p>\n"
-msgstr ""
-
-#. type: Plain text
 #: docs/heroes/lord_haart_necropolis.md docs/heroes/tamika.md
 msgid "=== \"Dread Knights Ⅰ\""
-msgstr "=== \"Caballeros de temor ⅰ\""
-
-#. type: Plain text
-#: docs/heroes/lord_haart_necropolis.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![Dread Knights Ⅰ](../assets/hero_specialties-necropolis-lord_haart-1.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
+msgstr "=== \"Caballeros del Terror Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/lord_haart_necropolis.md docs/heroes/tamika.md
 msgid "=== \"Dread Knights Ⅳ\""
-msgstr "=== \"Caballeros de temor ⅳ\""
-
-#. type: Plain text
-#: docs/heroes/lord_haart_necropolis.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![Dread Knights Ⅳ](../assets/hero_specialties-necropolis-lord_haart-4.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
+msgstr "=== \"Caballeros del Terror Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/lord_haart_necropolis.md docs/heroes/tamika.md
 msgid "=== \"Dread Knights Ⅵ\""
-msgstr "=== \"Caballeros de temor ⅵ\""
+msgstr "=== \"Caballeros del Terror Ⅵ\""
+
+#. type: Bullet: '- '
+#: docs/heroes/melodia.md docs/heroes/sandro.md docs/heroes/tamika.md
+msgid "Rise Of The Necromancer - 3. Duke Alarice"
+msgstr "Rise of the Nigromancer - 3. Duke Alarice"
+
+#. type: Title #
+#: docs/heroes/tamika.md
+#, no-wrap
+msgid "Tamika"
+msgstr "Tamika"
 
 #. type: Plain text
-#: docs/heroes/lord_haart_necropolis.md
+#: docs/heroes/tamika.md
+#, no-wrap
+msgid ""
+"<p style=\"text-align: center;\" markdown>![Tamika](../assets/heroes-"
+"necropolis-might-tamika.webp){ width=540 align=right }</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/heroes/tamika.md
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Dread Knights Ⅵ](../assets/hero_specialties-necropolis-lord_haart-7.webp){ width=\"340\" align=right }\n"
+"        ![Dread Knights Ⅰ](../assets/hero_specialties-necropolis-tamika-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/lord_haart_necropolis.md
+#: docs/heroes/tamika.md
+#, no-wrap
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Dread Knights Ⅳ](../assets/hero_specialties-necropolis-tamika-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/heroes/tamika.md
+#, no-wrap
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Dread Knights Ⅵ](../assets/hero_specialties-necropolis-tamika-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/heroes/tamika.md
 #, no-wrap
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Reduce the :damage: from enemy retaliation by 1.<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md). |\n"
-"| Ⅳ | :ongoing: For this Combat, when an enemy performs a Retaliation Attack against this [unit](../units/index.md), roll 2 [Attack dice](../dice.md#attack-die) and resolve the lower outcome. |\n"
-"| Ⅵ | :instant: Reduce the :damage: from enemy retaliation by 2.<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md). |\n"
+"| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md). |\n"
+"| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md). |\n"
+"| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md). |\n"
 msgstr ""
-
-#. type: Bullet: '- '
-#: docs/heroes/lord_haart_necropolis.md
-msgid "[Lord Haart (Castle)](lord_haart_castle.md)"
-msgstr "[Lord Haart (Castle)] (Lord_haart_castle.md)"

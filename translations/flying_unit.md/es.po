@@ -188,7 +188,7 @@ msgstr ":silver: [Elementales de Energía](../units/energy_elementals.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/neutral.md
 msgid ":silver: [Fangarm](../units/fangarm.md)"
-msgstr ":silver: [Brazocolmillo](../units/fangarm.md)"
+msgstr ":silver: [Fangarm](../units/fangarm.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/tower.md
@@ -234,7 +234,7 @@ msgstr ":golden: [Dragones Negros](../units/black_dragons.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/inferno.md
 msgid ":golden: [Efreet](../units/efreet.md)"
-msgstr ":golden: [Efreet](../units/efreet.md)"
+msgstr ":golden: [Ifrit](../units/efreet.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/necropolis.md
@@ -269,7 +269,7 @@ msgstr ":azure: [Dragones Celestes](../units/azure_dragons.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/neutral.md
 msgid ":azure: [Faerie Dragons](../units/faerie_dragons.md)"
-msgstr ":azure: [Dragones Hada](../units/faerie_dragons.md)"
+msgstr ":azure: [Dragones Feéricos](../units/faerie_dragons.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
@@ -279,4 +279,4 @@ msgstr ":azure: [Dragones Dorados](../units/gold_dragons.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/neutral.md
 msgid ":azure: [Rust Dragons](../units/rust_dragons.md)"
-msgstr ":azure: [Dragones de Óxido](../units/rust_dragons.md)"
+msgstr ":azure: [Dragones Cobrizos](../units/rust_dragons.md)"

@@ -681,7 +681,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/pit_lords.md
 #, no-wrap
 msgid "Pit Lords"
-msgstr "Señores de pozo"
+msgstr "Señores del Abismo"
 
 #. type: Plain text
 #: docs/units/pit_lords.md

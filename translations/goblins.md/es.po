@@ -605,7 +605,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/goblins.md
 #, no-wrap
 msgid "Goblins"
-msgstr "Duendes"
+msgstr "Trasgos"
 
 #. type: Plain text
 #: docs/units/goblins.md
@@ -616,7 +616,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Duendes](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Trasgos](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -628,7 +628,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Duendes](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Trasgos](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -640,7 +640,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Duendes Neutrales](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Trasgos Neutrales](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

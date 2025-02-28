@@ -671,7 +671,7 @@ msgstr "Héroes Con Especialidad"
 #: docs/units/enchanters.md
 #, no-wrap
 msgid "Enchanters"
-msgstr "Encantadores"
+msgstr "Conjuradores"
 
 #. type: Plain text
 #: docs/units/enchanters.md
@@ -682,7 +682,7 @@ msgid ""
 "</figure>\n"
 msgstr ""
 "<figure markdown=\"span\">\n"
-"    ![Encantadores Neutrales](../assets/units-neutral-golden-enchanters.webp){ width=\"340\" align=right }\n"
+"    ![Conjuradores Neutrales](../assets/units-neutral-golden-enchanters.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 
 #. type: Plain text
@@ -711,7 +711,7 @@ msgstr ""
 "| :health_points: | 5 |\n"
 "| :initiative: | 5 |\n"
 "| Coste | 16 :gold: |\n"
-"| Habilidades | :activation: Elimina hasta 2 :damage: de una unidad aliada. De lo contrario, los Encantadores ganan +1 :attack:. |\n"
+"| Habilidades | :activation: Elimina hasta 2 :damage: de una unidad aliada. De lo contrario, los Conjuradores ganan +1 :attack:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/enchanters.md docs/units/magi.md
@@ -735,4 +735,4 @@ msgstr "La curación se aplica justo después de la activación."
 #. type: Bullet: '- '
 #: docs/units/enchanters.md
 msgid "Enchaters can not heal themselves."
-msgstr "Los Encantadores no pueden sanarse a sí mismos."
+msgstr "Los Conjuradores no pueden sanarse a sí mismos."

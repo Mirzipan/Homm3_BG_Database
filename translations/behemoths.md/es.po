@@ -605,7 +605,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/behemoths.md
 #, no-wrap
 msgid "Behemoths"
-msgstr "Behemots"
+msgstr "Behemoths"
 
 #. type: Plain text
 #: docs/units/behemoths.md
@@ -616,7 +616,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Behemots](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Behemoths](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -628,7 +628,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Behemots](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Behemoths](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -640,7 +640,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Behemots Neutrales](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Behemoths Neutrales](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

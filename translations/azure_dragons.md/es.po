@@ -643,7 +643,7 @@ msgstr "[Lista de Unidades](index.md)"
 #: docs/units/azure_dragons.md
 #, no-wrap
 msgid "Azure Dragons"
-msgstr "Dragones Celestiales"
+msgstr "Dragones Celestes"
 
 #. type: Plain text
 #: docs/units/azure_dragons.md
@@ -654,7 +654,7 @@ msgid ""
 "</figure>\n"
 msgstr ""
 "<figure markdown=\"span\">\n"
-"    ![Dragones Celestiales Neutrales](../assets/units-neutral-azure-azure_dragons.webp){ width=\"340\" align=right }\n"
+"    ![Dragones Celestes Neutrales](../assets/units-neutral-azure-azure_dragons.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 
 #. type: Plain text

@@ -513,7 +513,7 @@ msgstr ":silver: [Elementales de Magma](../units/magma_elementals.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/conflux.md
 msgid ":golden: [Magic Elementals](../units/magic_elementals.md)"
-msgstr ":golden: [Elementales de Magia](../units/magic_elementals.md)"
+msgstr ":golden: [Elementales Mágicos](../units/magic_elementals.md)"
 
 #. type: Title ##
 #: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md

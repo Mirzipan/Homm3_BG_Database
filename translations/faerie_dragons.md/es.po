@@ -622,7 +622,7 @@ msgstr "[:might: Mutare](../heroes/mutare.md#specialty)"
 #: docs/units/faerie_dragons.md
 #, no-wrap
 msgid "Faerie Dragons"
-msgstr "Dragones Hada"
+msgstr "Dragones Feéricos"
 
 #. type: Plain text
 #: docs/units/faerie_dragons.md
@@ -633,7 +633,7 @@ msgid ""
 "</figure>\n"
 msgstr ""
 "<figure markdown=\"span\">\n"
-"    ![Dragones Hada Neutrales](../assets/units-neutral-azure-faerie_dragons.webp){ width=\"340\" align=right }\n"
+"    ![Dragones Feéricos Neutrales](../assets/units-neutral-azure-faerie_dragons.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 
 #. type: Plain text
@@ -678,5 +678,5 @@ msgid ""
 "being recruited by [Diplomacy](../abilities/diplomacy.md))."
 msgstr ""
 "La habilidad que cuenta como un [:spellpower:](../spells/index.md) sólo es "
-"relevante cuando los Dragones Hada están en el mazo de unidades del jugador "
+"relevante cuando los Dragones Feéricos están en el mazo de unidades del jugador "
 "(ej. después de ser reclutados por [Diplomacia](../abilities/diplomacy.md))."

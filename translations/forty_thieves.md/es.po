@@ -688,7 +688,7 @@ msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de As
 #: docs/astrologers_proclaim/forty_thieves.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*As I walk through the lands of the shadow of death<br>I look back at my deeds and realize there's not much left<br>You better watcha' what you're talkin', and where you're walkin'<br>Or you and your army might be covered with Rust Dragon's spit.*</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>*Mientras camino por las tierras de la sombra de la muerte<br>Miro atrás a mis hechos y me doy cuenta de que no queda mucho<br>Será mejor que tengas cuidado con lo que dices y por donde caminas.<br>O tú y tu ejército podríais quedar cubiertos con la saliva del Dragón Oxidado.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Mientras camino por las tierras de la sombra de la muerte<br>Miro atrás a mis hechos y me doy cuenta de que no queda mucho<br>Será mejor que tengas cuidado con lo que dices y por donde caminas.<br>O tú y tu ejército podríais quedar cubiertos con la saliva del Dragón Cobrizo.*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/forty_thieves.md

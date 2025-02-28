@@ -619,7 +619,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/magic_elementals.md
 #, no-wrap
 msgid "Magic Elementals"
-msgstr "Elementales mágicos"
+msgstr "Elementales Mágicos"
 
 #. type: Plain text
 #: docs/units/magic_elementals.md

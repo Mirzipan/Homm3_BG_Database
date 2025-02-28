@@ -222,7 +222,7 @@ msgstr "Ver También"
 #: docs/content/azure_stretch_goals.md
 #, no-wrap
 msgid "Azure Stretch Goals 2022"
-msgstr "Objetivos de Ampliación Celestial 2022"
+msgstr "Objetivos de Ampliación Celeste 2022"
 
 #. type: Plain text
 #: docs/content/azure_stretch_goals.md

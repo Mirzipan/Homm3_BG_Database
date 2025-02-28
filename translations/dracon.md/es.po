@@ -592,7 +592,7 @@ msgstr "<p style=\"text-align: center;\" markdown>![Dracon](../assets/heroes-tow
 #. type: Plain text
 #: docs/heroes/dracon.md
 msgid "=== \"Enchanters Ⅰ\""
-msgstr "=== \"Encantadores Ⅰ\""
+msgstr "=== \"Conjuradores Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/dracon.md
@@ -603,13 +603,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Encantadores Ⅰ](../assets/hero_specialties-tower-dracon-1.webp){ width=\"340\" align=right }\n"
+"        ![Conjuradores Ⅰ](../assets/hero_specialties-tower-dracon-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/dracon.md
 msgid "=== \"Enchanters Ⅳ\""
-msgstr "=== \"Encantadores Ⅳ\""
+msgstr "=== \"Conjuradores Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/dracon.md
@@ -620,13 +620,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Encantadores Ⅳ](../assets/hero_specialties-tower-dracon-4.webp){ width=\"340\" align=right }\n"
+"        ![Conjuradores Ⅳ](../assets/hero_specialties-tower-dracon-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/dracon.md
 msgid "=== \"Enchanters Ⅵ\""
-msgstr "=== \"Encantadores Ⅵ\""
+msgstr "=== \"Conjuradores Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/dracon.md
@@ -637,7 +637,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Encantadores Ⅵ](../assets/hero_specialties-tower-dracon-7.webp){ width=\"340\" align=right }\n"
+"        ![Conjuradores Ⅵ](../assets/hero_specialties-tower-dracon-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -652,8 +652,8 @@ msgid ""
 msgstr ""
 "| Nivel | Descripción |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Tu [unit](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unit](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para los [Magos](../units/magi.md) y [Encantadores](../units/enchanters.md). |\n"
-"| Ⅳ | :effect_map: Si tienes una carta de [Manada de Magos](../units/magi.md), descártala. Luego, busca en el mazo de [Unidad Neutral](../units/index.md) :golden: la carta [Encantadores](../units/enchanters.md) y añádela a tu mazo de Ejército. Sólo puedes controlar 1 [unidad de Encantadores](../units/enchanters.md) a la vez.<br><br>— O —<br><br>:instant: Roba una carta. |\n"
+"| Ⅰ | :instant: Tu [unit](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unit](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para los [Magos](../units/magi.md) y [Conjuradores](../units/enchanters.md). |\n"
+"| Ⅳ | :effect_map: Si tienes una carta de [Manada de Magos](../units/magi.md), descártala. Luego, busca en el mazo de [Unidad Neutral](../units/index.md) :golden: la carta [Conjuradores](../units/enchanters.md) y añádela a tu mazo de Ejército. Sólo puedes controlar 1 [unidad de Conjuradores](../units/enchanters.md) a la vez.<br><br>— O —<br><br>:instant: Roba una carta. |\n"
 "| Ⅵ | :ongoing: Para este Combate, la :initiative: de tu [unidad](../units/index.md) seleccionada aumenta en 2.<br><br>Este efecto se duplica para las unidades [Magos](../units/magi.md) y [Encantandores](../units/enchanters.md). |\n"
 
 #. type: Title ##
@@ -670,14 +670,14 @@ msgstr "El Cazador de Dragones - 1. Dragones de Cristal"
 #. type: Bullet: '- '
 #: docs/heroes/dracon.md docs/heroes/solmyr.md
 msgid "The Dragon Slayer - 2. Rust Dragons"
-msgstr "El Cazador de Dragones - 2. Dragones de Óxido"
+msgstr "El Cazador de Dragones - 2. Dragones Cobrizos"
 
 #. type: Bullet: '- '
 #: docs/heroes/dracon.md docs/heroes/solmyr.md
 msgid "The Dragon Slayer - 3. Faerie Dragons"
-msgstr "El Cazador de Dragones - 3. Dragones Hadas"
+msgstr "El Cazador de Dragones - 3. Dragones Feéricos"
 
 #. type: Bullet: '- '
 #: docs/heroes/dracon.md docs/heroes/solmyr.md
 msgid "The Dragon Slayer - 4. Azure Dragons"
-msgstr "El Cazador de Dragones - 4. Dragones Azules"
+msgstr "El Cazador de Dragones - 4. Dragones Celestes"
