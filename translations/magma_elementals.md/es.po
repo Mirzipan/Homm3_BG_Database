@@ -619,7 +619,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/magma_elementals.md
 #, no-wrap
 msgid "Magma Elementals"
-msgstr "Magma Elementals"
+msgstr "Elementales de Magma"
 
 #. type: Plain text
 #: docs/units/magma_elementals.md
@@ -630,7 +630,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Magma Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Elementales de Magma](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -642,7 +642,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Magma Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Manada Elementales de Magma](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -653,6 +653,9 @@ msgid ""
 "        ![Neutral Magma Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Elementales de Magma Neutrales](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/magma_elementals.md

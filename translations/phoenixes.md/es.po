@@ -619,7 +619,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/phoenixes.md
 #, no-wrap
 msgid "Phoenixes"
-msgstr "Fénix"
+msgstr "Fénixes"
 
 #. type: Plain text
 #: docs/units/phoenixes.md

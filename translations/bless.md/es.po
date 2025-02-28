@@ -620,4 +620,4 @@ msgstr ""
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr "[Escuela de Magia de Agua](School_of_water_magic.md)"
+msgstr "[Escuela de Magia Acuática](School_of_water_magic.md)"

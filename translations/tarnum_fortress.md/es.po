@@ -673,17 +673,17 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/bron.md docs/heroes/tarnum_fortress.md
 msgid "=== \"Basilisks Ⅰ\""
-msgstr "=== \"Basilisco ⅰ\""
+msgstr "=== \"Basiliscos ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/bron.md docs/heroes/tarnum_fortress.md
 msgid "=== \"Basilisks Ⅳ\""
-msgstr "=== \"Basilisco ⅳ\""
+msgstr "=== \"Basiliscos ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/bron.md docs/heroes/tarnum_fortress.md
 msgid "=== \"Basilisks Ⅵ\""
-msgstr "=== \"Basilisco ⅵ\""
+msgstr "=== \"Basiliscos ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/gerwulf.md docs/heroes/tarnum_fortress.md docs/heroes/tazar.md

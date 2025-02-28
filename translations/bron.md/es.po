@@ -589,7 +589,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Resistencia](../abilities/res
 #. type: Plain text
 #: docs/heroes/bron.md
 msgid "=== \"Basilisks Ⅰ\""
-msgstr "=== \"Basilisco Ⅰ\""
+msgstr "=== \"Basiliscos Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/bron.md
@@ -600,13 +600,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Basilisco Ⅰ](../assets/hero_specialties-fortress-bron-1.webp){ width=\"340\" align=right }\n"
+"        ![Basiliscos Ⅰ](../assets/hero_specialties-fortress-bron-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/bron.md
 msgid "=== \"Basilisks Ⅳ\""
-msgstr "=== \"Basilisco Ⅳ\""
+msgstr "=== \"Basiliscos Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/bron.md
@@ -617,13 +617,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Basilisco Ⅳ](../assets/hero_specialties-fortress-bron-4.webp){ width=\"340\" align=right }\n"
+"        ![Basiliscos Ⅳ](../assets/hero_specialties-fortress-bron-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/bron.md
 msgid "=== \"Basilisks Ⅵ\""
-msgstr "=== \"Basilisco Ⅵ\""
+msgstr "=== \"Basiliscos Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/bron.md
@@ -634,7 +634,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Basilisco Ⅵ](../assets/hero_specialties-fortress-bron-7.webp){ width=\"340\" align=right }\n"
+"        ![Basiliscos Ⅵ](../assets/hero_specialties-fortress-bron-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -649,6 +649,6 @@ msgid ""
 msgstr ""
 "| Nivel | Descripción |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Tu [unidad](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unidad](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para la [unidad Basilisco](../units/basilisks.md). |\n"
-"| Ⅳ | :ongoing: Durante este Combate, la :health_points: de tu [unit's](../units/index.md) se incrementa en 1.<br><br>Este efecto es doble para la [unidad Basilisco](../units/basilisks.md). |\n"
-"| Ⅵ | :ongoing: Durante este Combate, la :initiative: de tu [unit's](../units/index.md) se incrementa en 2.<br><br>Este efecto es doble para la [unidad Basilisco](../units/basilisks.md). |\n"
+"| Ⅰ | :instant: Tu [unidad](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unidad](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para la [unidad Basiliscos](../units/basilisks.md). |\n"
+"| Ⅳ | :ongoing: Durante este Combate, la :health_points: de tu [unit's](../units/index.md) se incrementa en 1.<br><br>Este efecto es doble para la [unidad Basiliscos](../units/basilisks.md). |\n"
+"| Ⅵ | :ongoing: Durante este Combate, la :initiative: de tu [unit's](../units/index.md) se incrementa en 2.<br><br>Este efecto es doble para la [unidad Basiliscos](../units/basilisks.md). |\n"

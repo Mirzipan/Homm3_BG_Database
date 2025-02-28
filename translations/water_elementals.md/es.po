@@ -695,7 +695,7 @@ msgstr ""
 #: docs/units/water_elementals.md
 #, no-wrap
 msgid "Water Elementals"
-msgstr "Elementales de agua"
+msgstr "Elementales de Agua"
 
 #. type: Plain text
 #: docs/units/water_elementals.md

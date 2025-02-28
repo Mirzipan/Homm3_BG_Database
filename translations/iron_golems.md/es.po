@@ -650,7 +650,7 @@ msgstr "Héroes Con Una Especialidad"
 #: docs/units/iron_golems.md
 #, no-wrap
 msgid "Iron Golems"
-msgstr "Golems de hierro"
+msgstr "Gólems de Hierro"
 
 #. type: Plain text
 #: docs/units/iron_golems.md

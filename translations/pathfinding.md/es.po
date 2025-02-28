@@ -572,7 +572,7 @@ msgstr "Héroes con Habilidad de Inicio"
 #: docs/abilities/pathfinding.md
 #, no-wrap
 msgid "Pathfinding"
-msgstr "Ratina"
+msgstr "Orientación"
 
 #. type: Plain text
 #: docs/abilities/pathfinding.md

@@ -745,7 +745,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/manticores.md
 #, no-wrap
 msgid "Manticores"
-msgstr "Manticores"
+msgstr "Mantícoras"
 
 #. type: Plain text
 #: docs/units/manticores.md
@@ -756,7 +756,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Manticores](../assets/units-dungeon-golden-manticores-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocas Mantícoras](../assets/units-dungeon-golden-manticores-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -768,13 +768,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Manticores](../assets/units-dungeon-golden-manticores-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Mantícoras](../assets/units-dungeon-golden-manticores-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/units/manticores.md
 msgid "=== \"Pack (Alternate)\""
-msgstr "=== \"Manada (Alternate)\""
+msgstr "=== \"Manada (Alternativa)\""
 
 #. type: Plain text
 #: docs/units/manticores.md
@@ -785,7 +785,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Manticores (Alternate)](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Mantícoras (Alternativa)](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -847,5 +847,5 @@ msgid ""
 " 0 or a 1."
 msgstr ""
 "** Neutral ** - Cuando está atacado por Neutral [Champions] (Champions.MD), "
-"los Manticores reciben +2: Defensa:, ya que ambos dados de ataque siempre "
+"las Mantícoras reciben +2: Defensa:, ya que ambos dados de ataque siempre "
 "terminarán como un 0 o un 1."

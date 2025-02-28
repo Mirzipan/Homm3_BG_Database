@@ -196,7 +196,7 @@ msgstr ":bronze: [Campesinos](../units/peasants.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":bronze: [Rogues](../units/rogues.md)"
-msgstr ":bronze: [Pícaros](../units/rogues.md)"
+msgstr ":bronze: [Bandidos](../units/rogues.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/cove.md

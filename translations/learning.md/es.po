@@ -501,7 +501,7 @@ msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 #: docs/abilities/learning.md
 #, no-wrap
 msgid "Learning"
-msgstr "Aprendiendo"
+msgstr "Aprendizaje"
 
 #. type: Plain text
 #: docs/abilities/learning.md

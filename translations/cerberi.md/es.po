@@ -698,7 +698,7 @@ msgstr "Héroes Con Una Especialidad"
 #: docs/units/cerberi.md
 #, no-wrap
 msgid "Cerberi"
-msgstr "Cerbero"
+msgstr "Cerberos"
 
 #. type: Plain text
 #: docs/units/cerberi.md
@@ -733,7 +733,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Cerbero Neutral](../assets/units-neutral-bronze-cerberi.webp){ width=\"340\" align=right }\n"
+"        ![Cerberos Neutral](../assets/units-neutral-bronze-cerberi.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -762,7 +762,7 @@ msgstr ""
 "| :health_points: | 4 | **5** | 5 |\n"
 "| :initiative: | 7 | **8** | 8 |\n"
 "| Coste | 4 :gold: | 7 :gold: | 10 :gold: |\n"
-"| Habilidades | - | :unit_attack: Ignora Ataques de Represalia. Adicionalmente, inflige 1 :damage: a otra unidad enemiga adyacente a Cerbero. | :unit_attack: Ignora Ataques de Represalia. Adicionalmente, inflige 1 :damage: a otra unidad enemiga adyacente a Cerbero. |\n"
+"| Habilidades | - | :unit_attack: Ignora Ataques de Represalia. Adicionalmente, inflige 1 :damage: a otra unidad enemiga adyacente a Cerberos. | :unit_attack: Ignora Ataques de Represalia. Adicionalmente, inflige 1 :damage: a otra unidad enemiga adyacente a Cerberos. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/cerberi.md

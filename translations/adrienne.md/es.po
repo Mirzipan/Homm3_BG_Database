@@ -608,7 +608,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/adrienne.md
 msgid "=== \"Fire Magic Ⅰ\""
-msgstr "=== \"Magia de Fuego Ⅰ\""
+msgstr "=== \"Magia Ígnea Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
@@ -619,13 +619,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Magia de Fuego Ⅰ](../assets/hero_specialties-fortress-adrienne-1.webp){ width=\"340\" align=right }\n"
+"        ![Magia Ígnea Ⅰ](../assets/hero_specialties-fortress-adrienne-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
 msgid "=== \"Fire Magic Ⅳ\""
-msgstr "=== \"Magia de Fuego Ⅳ\""
+msgstr "=== \"Magia Ígnea Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
@@ -636,13 +636,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Magia de Fuego Ⅳ](../assets/hero_specialties-fortress-adrienne-4.webp){ width=\"340\" align=right }\n"
+"        ![Magia Ígnea Ⅳ](../assets/hero_specialties-fortress-adrienne-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
 msgid "=== \"Fire Magic Ⅵ\""
-msgstr "=== \"Magia de Fuego Ⅵ\""
+msgstr "=== \"Magia Ígnea Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/adrienne.md
@@ -653,7 +653,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Magia de Fuego Ⅵ](../assets/hero_specialties-fortress-adrienne-7.webp){ width=\"340\" align=right }\n"
+"        ![Magia Ígnea Ⅵ](../assets/hero_specialties-fortress-adrienne-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -668,9 +668,9 @@ msgid ""
 msgstr ""
 "| Nivel | Descripción |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia de Fuego](../spells/school_of_fire_magic.md) son lanzados con +1 :empower:. |\n"
+"| Ⅰ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia Ígnea](../spells/school_of_fire_magic.md) son lanzados con +1 :empower:. |\n"
 "| Ⅳ | :instant: **Busca (3)** en tu mazo, después baraja tus cartas de tu pila de descartes junto con el mazo. |\n"
-"| Ⅵ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia de Fuego](../spells/school_of_fire_magic.md) son lanzados con +2 :empower:. |\n"
+"| Ⅵ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia Ígnea](../spells/school_of_fire_magic.md) son lanzados con +2 :empower:. |\n"
 
 #. type: Title ##
 #: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/catherine.md

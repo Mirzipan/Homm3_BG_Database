@@ -571,7 +571,7 @@ msgstr ""
 #: docs/units/rust_dragons.md
 #, no-wrap
 msgid "Rust Dragons"
-msgstr "Dragones de óxido"
+msgstr "Dragones Cobrizos"
 
 #. type: Plain text
 #: docs/units/rust_dragons.md

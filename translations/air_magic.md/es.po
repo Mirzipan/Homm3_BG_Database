@@ -21,12 +21,12 @@ msgstr ""
 #: docs/abilities/air_magic.md
 #, no-wrap
 msgid "Air Magic"
-msgstr "Magia de Aire"
+msgstr "Magia Aérea"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md
 msgid "![Air Magic](../assets/abilities-air_magic.webp){ width=\"340\" align=right }"
-msgstr "![Magia de Aire](../assets/abilities-air_magic.webp){ width=\"340\" align=right }"
+msgstr "![Magia Aérea](../assets/abilities-air_magic.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -51,7 +51,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
 #: docs/abilities/air_magic.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for spells from [School of Air Magic](../spells/school_of_air_magic.md).</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: para hechizos de la [Escuela de Magia de Aire](../spells/school_of_air_magic.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: para hechizos de la [Escuela de Magia Aérea](../spells/school_of_air_magic.md).</p>\n"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -584,4 +584,4 @@ msgstr "[Lista de Habilidades](index.md)"
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md
 msgid "[School of Air Magic](../spells/school_of_air_magic.md)"
-msgstr "[Escuela de Magia de Aire](../spells/school_of_air_magic.md)"
+msgstr "[Escuela de Magia Aérea](../spells/school_of_air_magic.md)"

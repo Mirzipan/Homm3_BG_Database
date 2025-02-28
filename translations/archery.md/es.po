@@ -604,7 +604,7 @@ msgid ""
 msgstr ""
 "Esta habilidad se activa durante cada ataque a distancia de la ronda de "
 "Combate, lo que significa que se aplica a ambos ataques de "
-"[Elfos](../units/elves.md) y [Afiladores](../units/sharpshooters.md)."
+"[Elfos](../units/elves.md) y [Tiradores Certeros](../units/sharpshooters.md)."
 
 #. type: Bullet: '- '
 #: docs/abilities/archery.md docs/abilities/armorer.md

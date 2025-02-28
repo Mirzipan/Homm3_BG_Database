@@ -661,7 +661,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[:might: Demoniaca](index.md)<
 #. type: Plain text
 #: docs/heroes/fiona.md
 msgid "=== \"Cerberi Ⅰ\""
-msgstr "=== \"Cerbero Ⅰ\""
+msgstr "=== \"Cerberos Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/fiona.md
@@ -672,13 +672,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Cerbero Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width=\"340\" align=right }\n"
+"        ![Cerberos Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/fiona.md
 msgid "=== \"Cerberi Ⅳ\""
-msgstr "=== \"Cerbero Ⅳ\""
+msgstr "=== \"Cerberos Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/fiona.md
@@ -689,13 +689,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Cerbero Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
+"        ![Cerberos Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/fiona.md
 msgid "=== \"Cerberi Ⅵ\""
-msgstr "=== \"Cerbero Ⅵ\""
+msgstr "=== \"Cerberos Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/fiona.md
@@ -706,7 +706,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Cerbero Ⅵ](../assets/hero_specialties-inferno-fiona-7.webp){ width=\"340\" align=right }\n"
+"        ![Cerberos Ⅵ](../assets/hero_specialties-inferno-fiona-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -721,6 +721,6 @@ msgid ""
 msgstr ""
 "| Nivel | Descripción |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Tu [unidad](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unidad](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para la [unidad Cerbero](../units/cerberi.md). |\n"
-"| Ⅳ | :ongoing: Para este Combate, los :health_points: de la [unidad](../units/index.md) seleccionada aumentan en 1.<br><br>Este efecto es doble para la [unidad Cerbero](../units/cerberi.md). |\n"
-"| Ⅵ | :instant: Tu [unidad](../units/index.md) seleccionada gana +2 :attack:<br><br>Este efecto es doble para la [unidad Cerbero](../units/cerberi.md). |\n"
+"| Ⅰ | :instant: Tu [unidad](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unidad](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para la [unidad Cerberos](../units/cerberi.md). |\n"
+"| Ⅳ | :ongoing: Para este Combate, los :health_points: de la [unidad](../units/index.md) seleccionada aumentan en 1.<br><br>Este efecto es doble para la [unidad Cerberos](../units/cerberi.md). |\n"
+"| Ⅵ | :instant: Tu [unidad](../units/index.md) seleccionada gana +2 :attack:<br><br>Este efecto es doble para la [unidad Cerberos](../units/cerberi.md). |\n"

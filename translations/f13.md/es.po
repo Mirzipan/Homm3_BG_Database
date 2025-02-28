@@ -527,7 +527,7 @@ msgstr "[Piedra de Aprendizaje](../fields/learning_stone.md)"
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/f13.md
 msgid "[Scholar](../fields/scholar.md)"
-msgstr "[Erudito](../fields/scholar.md)"
+msgstr "[Erudición](../fields/scholar.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/cx1.md docs/tiles/f13.md

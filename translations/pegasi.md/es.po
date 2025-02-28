@@ -697,7 +697,7 @@ msgstr "[Expansión de Torre](../content/tower_expansion.md) (Neutral)"
 #: docs/units/pegasi.md
 #, no-wrap
 msgid "Pegasi"
-msgstr "Pegaso"
+msgstr "Pegasos"
 
 #. type: Plain text
 #: docs/units/pegasi.md

@@ -630,7 +630,7 @@ msgstr ""
 #: docs/astrologers_proclaim/blue_sky.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round, all [:spellpower:](../spells/index.md) from the [Air Magic](../spells/school_of_air_magic.md) and [Water Magic](../spells/school_of_water_magic.md) Schools are cast at a +1 :empower:.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos, todos los [:spellpower:](../spells/index.md) de las Escuelas [Magia de Aire](../spells/school_of_air_magic.md) y [Magia de Agua](../spells/school_of_water_magic.md) son lanzados con +1 :empower:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos, todos los [:spellpower:](../spells/index.md) de las Escuelas [Magia Aérea](../spells/school_of_air_magic.md) y [Magia Acuática](../spells/school_of_water_magic.md) son lanzados con +1 :empower:.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/blue_sky.md

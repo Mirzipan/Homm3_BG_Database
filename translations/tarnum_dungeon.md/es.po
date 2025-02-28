@@ -675,7 +675,7 @@ msgid ""
 "markdown>[Estates](../abilities/estates.md)</p>\n"
 msgstr ""
 "<p style=\"text-align: center;\" "
-"markdown>[Finanzas](../abilities/estates.md)</p>\n"
+"markdown>[Patrimonio](../abilities/estates.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/mutare.md docs/heroes/tarnum_dungeon.md

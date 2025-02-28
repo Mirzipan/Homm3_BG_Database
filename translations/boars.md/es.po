@@ -583,7 +583,7 @@ msgstr "[Lista de Unidades](index.md)"
 #: docs/units/boars.md
 #, no-wrap
 msgid "Boars"
-msgstr "Jabalí"
+msgstr "Jabalíes"
 
 #. type: Plain text
 #: docs/units/boars.md
@@ -594,7 +594,7 @@ msgid ""
 "</figure>\n"
 msgstr ""
 "<figure markdown=\"span\">\n"
-"    ![Jabalí Neutral](../assets/units-neutral-bronze-boars.webp){ width=\"340\" align=right }\n"
+"    ![Jabalíes Neutrales](../assets/units-neutral-bronze-boars.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 
 #. type: Plain text

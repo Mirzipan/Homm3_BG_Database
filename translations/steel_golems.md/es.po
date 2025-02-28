@@ -532,7 +532,7 @@ msgstr "[Lista de Unidades](index.md)"
 #: docs/units/steel_golems.md
 #, no-wrap
 msgid "Steel Golems"
-msgstr "Golems de acero"
+msgstr "Gólems de Acero"
 
 #. type: Plain text
 #: docs/units/steel_golems.md

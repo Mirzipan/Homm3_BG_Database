@@ -574,7 +574,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attac
 #: docs/heroes/ciele.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Water Magic](../abilities/water_magic.md)</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Magia de Agua](../abilities/water_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Magia Acuática](../abilities/water_magic.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ciele.md

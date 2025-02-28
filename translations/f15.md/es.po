@@ -632,4 +632,4 @@ msgstr "F15"
 #. type: Bullet: '- '
 #: docs/tiles/f15.md
 msgid "[Ⅱ](../difficulties.md) [Scholar](../fields/scholar.md)"
-msgstr "[Ⅱ](../difficulties.md) [Erudito](../fields/scholar.md)"
+msgstr "[Ⅱ](../difficulties.md) [Erudición](../fields/scholar.md)"

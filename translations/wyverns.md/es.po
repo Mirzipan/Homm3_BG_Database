@@ -708,7 +708,7 @@ msgstr "[Expansión de Torre](../content/tower_expansion.md) (Neutral)"
 #: docs/units/wyverns.md
 #, no-wrap
 msgid "Wyverns"
-msgstr "Wyverns"
+msgstr "Guivernos"
 
 #. type: Plain text
 #: docs/units/wyverns.md
@@ -719,7 +719,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Wyverns](../assets/units-fortress-golden-wyverns-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Guivernos](../assets/units-fortress-golden-wyverns-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -731,7 +731,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Wyverns](../assets/units-fortress-golden-wyverns-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Guivernos](../assets/units-fortress-golden-wyverns-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

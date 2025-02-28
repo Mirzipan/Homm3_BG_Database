@@ -629,7 +629,7 @@ msgstr "Héroes Con Una Especialidad"
 #: docs/units/thunderbirds.md
 #, no-wrap
 msgid "Thunderbirds"
-msgstr "Tronas"
+msgstr "Aves de Trueno"
 
 #. type: Plain text
 #: docs/units/thunderbirds.md

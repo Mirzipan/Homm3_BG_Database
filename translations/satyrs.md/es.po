@@ -532,7 +532,7 @@ msgstr "[Lista de Unidades](index.md)"
 #: docs/units/satyrs.md
 #, no-wrap
 msgid "Satyrs"
-msgstr "Sátires"
+msgstr "Sátiros"
 
 #. type: Plain text
 #: docs/units/satyrs.md

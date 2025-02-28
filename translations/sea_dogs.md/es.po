@@ -614,7 +614,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/sea_dogs.md
 #, no-wrap
 msgid "Sea Dogs"
-msgstr "Perros marinos"
+msgstr "Lobos de Mar"
 
 #. type: Plain text
 #: docs/units/sea_dogs.md

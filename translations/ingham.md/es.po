@@ -602,7 +602,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/ingham.md
 msgid "=== \"Zealots Ⅰ\""
-msgstr "=== \"Zealots ⅰ\""
+msgstr "=== \"Fanáticos Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/ingham.md
@@ -616,7 +616,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/ingham.md
 msgid "=== \"Zealots Ⅳ\""
-msgstr "=== \"Zealots ⅳ\""
+msgstr "=== \"Fanáticos Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/ingham.md
@@ -630,7 +630,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/ingham.md
 msgid "=== \"Zealots Ⅵ\""
-msgstr "=== \"Zealots ⅵ\""
+msgstr "=== \"Fanáticos Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/ingham.md

@@ -684,7 +684,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/minotaurs.md
 #, no-wrap
 msgid "Minotaurs"
-msgstr "Minota"
+msgstr "Minotauros"
 
 #. type: Plain text
 #: docs/units/minotaurs.md
@@ -695,7 +695,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Minotaurs](../assets/units-dungeon-silver-minotaurs-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Minotauros](../assets/units-dungeon-silver-minotaurs-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -707,7 +707,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Minotaurs](../assets/units-dungeon-silver-minotaurs-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Minotauros](../assets/units-dungeon-silver-minotaurs-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

@@ -592,7 +592,7 @@ msgstr "Héroes con Habilidad de Inicio"
 #: docs/abilities/fire_magic.md
 #, no-wrap
 msgid "Fire Magic"
-msgstr "Magia de Fuego"
+msgstr "Magia Ígnea"
 
 #. type: Plain text
 #: docs/abilities/fire_magic.md
@@ -600,14 +600,14 @@ msgid ""
 "![Fire Magic](../assets/abilities-fire_magic.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
-"![Magia de Fuego](../assets/abilities-fire_magic.webp){ width=\"340\" "
+"![Magia Ígnea](../assets/abilities-fire_magic.webp){ width=\"340\" "
 "align=right }"
 
 #. type: Plain text
 #: docs/abilities/fire_magic.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for spells from [School of Fire Magic](../spells/school_of_fire_magic.md).</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: para hechizos de [Escuela de Magia de Fuego](../spells/school_of_fire_magic.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: para hechizos de [Escuela de Magia Ígnea](../spells/school_of_fire_magic.md).</p>\n"
 
 #. type: Plain text
 #: docs/abilities/fire_magic.md
@@ -623,4 +623,4 @@ msgstr "[:magic: Luna](../heroes/luna.md)"
 #. type: Bullet: '- '
 #: docs/abilities/fire_magic.md
 msgid "[School of Fire Magic](../spells/school_of_fire_magic.md)"
-msgstr "[Escuela de Magia de Fuego](../spells/school_of_fire_magic.md)"
+msgstr "[Escuela de Magia Ígnea](../spells/school_of_fire_magic.md)"

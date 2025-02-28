@@ -606,7 +606,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/ayssids.md
 #, no-wrap
 msgid "Ayssids"
-msgstr "Aysids"
+msgstr "Aysides"
 
 #. type: Plain text
 #: docs/units/ayssids.md

@@ -602,7 +602,7 @@ msgstr ""
 #: docs/spells/school_of_water_magic.md docs/spells/implosion.md
 #: docs/spells/slow.md docs/spells/sorrow.md docs/spells/magic_arrow.md
 msgid "[School of Earth Magic](school_of_earth_magic.md)"
-msgstr "[Escuela de Magia de Tierra](school_of_earth_magic.md)"
+msgstr "[Escuela de Magia Terrestre](school_of_earth_magic.md)"
 
 #. type: Title #
 #: docs/spells/slow.md

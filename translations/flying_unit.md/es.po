@@ -234,7 +234,7 @@ msgstr ":golden: [Dragones Negros](../units/black_dragons.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/inferno.md
 msgid ":golden: [Efreet](../units/efreet.md)"
-msgstr ":golden: [Ifrit](../units/efreet.md)"
+msgstr ":golden: [Ifrits](../units/efreet.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/necropolis.md

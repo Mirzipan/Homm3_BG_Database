@@ -761,7 +761,7 @@ msgstr "Héroes Con Una Especialidad"
 #: docs/units/marksmen.md
 #, no-wrap
 msgid "Marksmen"
-msgstr "Tirador"
+msgstr "Ballestero"
 
 #. type: Plain text
 #: docs/units/marksmen.md
@@ -772,7 +772,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Marksmen](../assets/units-castle-bronze-marksmen-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Ballesteros](../assets/units-castle-bronze-marksmen-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -784,7 +784,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Marksmen](../assets/units-castle-bronze-marksmen-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Ballesteros](../assets/units-castle-bronze-marksmen-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

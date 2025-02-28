@@ -614,7 +614,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/nix.md
 #, no-wrap
 msgid "Nix"
-msgstr "Nada"
+msgstr "Nix"
 
 #. type: Plain text
 #: docs/units/nix.md

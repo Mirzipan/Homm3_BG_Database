@@ -231,7 +231,7 @@ msgstr "Ver También"
 #: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
 #: docs/spells/view_air.md
 msgid "[School of Air Magic](school_of_air_magic.md)"
-msgstr "[Escuela de Magia de Aire](school_of_air_magic.md)"
+msgstr "[Escuela de Magia Aérea](school_of_air_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
@@ -268,7 +268,7 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/stone_skin.md docs/spells/summon_earth_elemental.md
 #: docs/spells/town_portal.md docs/spells/view_earth.md
 msgid "[School of Earth Magic](school_of_earth_magic.md)"
-msgstr "[Escuela de Magia de Tierra](school_of_earth_magic.md)"
+msgstr "[Escuela de Magia Terrestre](school_of_earth_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/bless.md docs/spells/cure.md docs/spells/dispel.md
@@ -311,7 +311,7 @@ msgstr ""
 #: docs/spells/school_of_fire_magic.md
 #, no-wrap
 msgid "School of Fire Magic"
-msgstr "Escuela de Magia de Fuego"
+msgstr "Escuela de Magia Ígnea"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_fire_magic.md

@@ -610,7 +610,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/ice_elementals.md
 #, no-wrap
 msgid "Ice Elementals"
-msgstr "Elemental de Hielo"
+msgstr "Elementales de Hielo"
 
 #. type: Plain text
 #: docs/units/ice_elementals.md
@@ -674,4 +674,4 @@ msgstr ""
 "| :health_points: | 4 | **5** | 🚧 |\n"
 "| :initiative: | 5 | **6** | 🚧 |\n"
 "| Coste | 4 :gold: | 7 :gold: | 🚧 |\n"
-"| Habilidades | - | :activation: Añade +1 :empower: al primer hechizo de [Magia de Agua](../spells/school_of_water_magic.md) que lances durante esta Activación. | 🚧 |\n"
+"| Habilidades | - | :activation: Añade +1 :empower: al primer hechizo de [Magia Acuática](../spells/school_of_water_magic.md) que lances durante esta Activación. | 🚧 |\n"

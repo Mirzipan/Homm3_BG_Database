@@ -684,7 +684,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/troglodytes.md
 #, no-wrap
 msgid "Troglodytes"
-msgstr "Troglodes"
+msgstr "Trogloditas"
 
 #. type: Plain text
 #: docs/units/troglodytes.md

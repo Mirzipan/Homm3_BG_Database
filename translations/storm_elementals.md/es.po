@@ -619,7 +619,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/storm_elementals.md
 #, no-wrap
 msgid "Storm Elementals"
-msgstr "Tormenta de tormentas"
+msgstr "Elementales de Tormenta"
 
 #. type: Plain text
 #: docs/units/storm_elementals.md

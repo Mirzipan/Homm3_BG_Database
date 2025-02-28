@@ -695,7 +695,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Zealots](../assets/units-castle-silver-zealots-few.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Fanáticos](../assets/units-castle-silver-zealots-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -707,7 +707,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Zealots](../assets/units-castle-silver-zealots-pack.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Fanáticos](../assets/units-castle-silver-zealots-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

@@ -613,7 +613,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/wolf_raiders.md
 #, no-wrap
 msgid "Wolf Raiders"
-msgstr "Wolf Raiders"
+msgstr "Jinetes Lupinos"
 
 #. type: Plain text
 #: docs/units/wolf_raiders.md
@@ -624,7 +624,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Wolf Raiders](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Jinetes Lupinos](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -636,7 +636,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Wolf Raiders](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Jinetes Lupinos](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

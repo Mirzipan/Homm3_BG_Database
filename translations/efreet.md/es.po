@@ -627,7 +627,7 @@ msgstr "Héroes Con Especialidad"
 #: docs/units/efreet.md
 #, no-wrap
 msgid "Efreet"
-msgstr "Ifrit"
+msgstr "Ifrits"
 
 #. type: Plain text
 #: docs/units/efreet.md
@@ -662,7 +662,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Ifrit Neutral](../assets/units-neutral-golden-efreet.webp){ width=\"340\" align=right }\n"
+"        ![Ifrits Neutrales](../assets/units-neutral-golden-efreet.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -691,7 +691,7 @@ msgstr ""
 "| :health_points: | 7 | 7 | 6 |\n"
 "| :initiative: | 9 | **13** | 13 |\n"
 "| Coste | 12 :gold: | 18 :gold:<br>1 :valuables: | 20 :gold: |\n"
-"| Habilidades | :unit_passive: Ignora cualquier :damage: de [Flechas Mágicas](../spells/magic_arrow.md). | :unit_passive: Ignora cualquier :damage: de [Flechas Mágicas](../spells/magic_arrow.md) o [hechizos](../spells/index.md) de la [Escuela de Magia de Fuego](../spells/school_of_fire_magic.md). | :unit_passive: Ignora cualquier :damage: de [Flechas Mágicas](../spells/magic_arrow.md) o [hechizos](../spells/index.md) de la [Escuela de Magia de Fuego](../spells/school_of_fire_magic.md). |\n"
+"| Habilidades | :unit_passive: Ignora cualquier :damage: de [Flechas Mágicas](../spells/magic_arrow.md). | :unit_passive: Ignora cualquier :damage: de [Flechas Mágicas](../spells/magic_arrow.md) o [hechizos](../spells/index.md) de la [Escuela de Magia Ígnea](../spells/school_of_fire_magic.md). | :unit_passive: Ignora cualquier :damage: de [Flechas Mágicas](../spells/magic_arrow.md) o [hechizos](../spells/index.md) de la [Escuela de Magia Ígnea](../spells/school_of_fire_magic.md). |\n"
 
 #. type: Bullet: '- '
 #: docs/units/efreet.md

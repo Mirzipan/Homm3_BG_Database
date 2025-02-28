@@ -573,7 +573,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attac
 #: docs/heroes/erdamon.md docs/heroes/lord_haart_castle.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Estates](../abilities/estates.md)</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Finanzas](../abilities/estates.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Patrimonio](../abilities/estates.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/erdamon.md

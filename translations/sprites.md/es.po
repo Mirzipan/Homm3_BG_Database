@@ -619,7 +619,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/sprites.md
 #, no-wrap
 msgid "Sprites"
-msgstr "Sprites"
+msgstr "Hadas"
 
 #. type: Plain text
 #: docs/units/sprites.md
@@ -630,7 +630,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Sprites](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pocas Hadas](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -642,7 +642,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Sprites](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Hadas](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

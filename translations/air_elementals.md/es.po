@@ -681,7 +681,7 @@ msgstr ""
 "| :health_points: | 4 | 4 |\n"
 "| :initiative: | 7 | 7 |\n"
 "| Coste | 5 :gold: | 7 :gold: |\n"
-"| Habilidades | :unit_passive: Immune a [Flecha Mágica](../spells/magic_arrow.md) y a [Magia de Aire](../spells/school_of_air_magic.md) :spellpower:. | :unit_passive: Immune a [Flecha Mágica](../spells/magic_arrow.md) y a [Magia de Aire](../spells/school_of_air_magic.md) :spellpower:. |\n"
+"| Habilidades | :unit_passive: Immune a [Flecha Mágica](../spells/magic_arrow.md) y a [Magia Aérea](../spells/school_of_air_magic.md) :spellpower:. | :unit_passive: Immune a [Flecha Mágica](../spells/magic_arrow.md) y a [Magia Aérea](../spells/school_of_air_magic.md) :spellpower:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/air_elementals.md

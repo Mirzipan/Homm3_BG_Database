@@ -609,7 +609,7 @@ msgstr "Pantano"
 #. type: Bullet: '- '
 #: docs/tiles/c4.md
 msgid "[Ⅵ](../difficulties.md) [Scholar](../fields/scholar.md)"
-msgstr "[Ⅵ](../difficulties.md) [Erudito](../fields/scholar.md)"
+msgstr "[Ⅵ](../difficulties.md) [Erudición](../fields/scholar.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/c4.md

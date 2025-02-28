@@ -575,7 +575,7 @@ msgstr "[Lista de Habilidades](index.md)"
 #: docs/abilities/earth_magic.md
 #, no-wrap
 msgid "Earth Magic"
-msgstr "Magia de la Tierra"
+msgstr "Magia Terrestre"
 
 #. type: Plain text
 #: docs/abilities/earth_magic.md
@@ -583,14 +583,14 @@ msgid ""
 "![Earth Magic](../assets/abilities-earth_magic.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
-"![Magia de Tierra](../assets/abilities-earth_magic.webp){ width=\"340\" "
+"![Magia Terrestre](../assets/abilities-earth_magic.webp){ width=\"340\" "
 "align=right }"
 
 #. type: Plain text
 #: docs/abilities/earth_magic.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for spells from [School of Earth Magic](../spells/school_of_earth_magic.md).</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: para hechizos de [Escuela de Magia de Tierra](../spells/school_of_earth_magic.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: para hechizos de [Escuela de Magia Terrestre](../spells/school_of_earth_magic.md).</p>\n"
 
 #. type: Plain text
 #: docs/abilities/earth_magic.md
@@ -601,4 +601,4 @@ msgstr "<p style=\"text-align: center;\" markdown>Mientras lanzas :spellpower: d
 #. type: Bullet: '- '
 #: docs/abilities/earth_magic.md
 msgid "[School of Earth Magic](../spells/school_of_earth_magic.md)"
-msgstr "[Escuela de Magia de Tierra](../spells/school_of_earth_magic.md)"
+msgstr "[Escuela de Magia Terrestre](../spells/school_of_earth_magic.md)"

@@ -663,7 +663,7 @@ msgstr "[Expansión de Torre](../content/tower_expansion.md) (Neutral)"
 #: docs/units/lizardmen.md
 #, no-wrap
 msgid "Lizardmen"
-msgstr "Hombre lagarto"
+msgstr "Hombres Lagarto"
 
 #. type: Plain text
 #: docs/units/lizardmen.md

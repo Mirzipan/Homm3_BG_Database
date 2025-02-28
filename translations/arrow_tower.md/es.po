@@ -593,7 +593,7 @@ msgstr "[Lista de Unidades](index.md)"
 #: docs/units/arrow_tower.md
 #, no-wrap
 msgid "Arrow Tower"
-msgstr "Torre de flecha"
+msgstr "Torre de Flechas"
 
 #. type: Plain text
 #: docs/units/arrow_tower.md
