@@ -683,7 +683,7 @@ msgstr ""
 #: docs/units/thunderbirds.md docs/units/unicorns.md docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr ""
+msgstr "Bohaterowie ze Specjalnością"
 
 #. type: Bullet: '- '
 #: docs/units/azure_dragons.md docs/units/black_dragons.md

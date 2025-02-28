@@ -682,7 +682,7 @@ msgstr ""
 "| :health_points: | 4 |\n"
 "| :initiative: | 5 |\n"
 "| Koszt | 8 :gold: |\n"
-"| Zdolności | :unit_attack: Zignoruj wynik z  [kości Ataku](../dice.md#attack-die). :unit_passive: Gdy Mumie są atakowane, obróć [kość Ataku](../dice.md#attack-die) przeciwnika na wynik ,,-1''. |\n"
+"| Zdolności | :unit_attack: Zignoruj wynik z  [kości Ataku](../dice.md#attack-die). :unit_passive: Gdy Mumie są atakowane, obróć [kość Ataku](../dice.md#attack-die) przeciwnika na wynik „-1”. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/mummies.md

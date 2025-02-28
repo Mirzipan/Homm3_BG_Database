@@ -582,7 +582,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/gold_golems.md
 #, no-wrap
 msgid "Gold Golems"
-msgstr ""
+msgstr "Złote Golemy"
 
 #. type: Plain text
 #: docs/units/gold_golems.md
@@ -592,6 +592,9 @@ msgid ""
 "    ![Neutral Gold Golems](../assets/units-neutral-golden-gold_golems.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Gold Golems](../assets/pl/units-neutral-golden-gold-golems.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/gold_golems.md
@@ -609,3 +612,14 @@ msgid ""
 "| Cost | 14 :gold: |\n"
 "| Abilities | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 2 - to a minimum of 0. |\n"
 msgstr ""
+"| Statystyki | Neutralne |\n"
+"| :--- | :---: |\n"
+"| Miasto | [Neutralne](../towns/neutral.md) |\n"
+"| Poziom | :golden: |\n"
+"| Typ | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| :attack: | 3 |\n"
+"| :defense: | 2 |\n"
+"| :health_points: | 6 |\n"
+"| :initiative: | 5 |\n"
+"| Koszt | 14 :gold: |\n"
+"| Zdolność | :unit_passive: Zmniejsz :damage: zadawane tej jednostce [zaklęciami](../spells/index.md) o 2 (maksymalnie do 0). |\n"

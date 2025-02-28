@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-10-18 16:54+0200\n"
+"POT-Creation-Date: 2025-02-16 09:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,17 +36,22 @@ msgstr ""
 #: docs/astrologers_proclaim/forty_thieves.md
 #: docs/astrologers_proclaim/friendly_beaver.md
 #: docs/astrologers_proclaim/mcgiver.md
-#: docs/astrologers_proclaim/unexpected_reinforcements.md
-#: docs/heroes/adelaide.md docs/heroes/alamar.md docs/heroes/deemer.md
-#: docs/heroes/jeddite.md docs/heroes/sandro.md docs/heroes/sephinroth.md
-#: docs/heroes/solmyr.md docs/heroes/tazar.md docs/heroes/xyron.md
-#: docs/keywords/blocked_field.md docs/keywords/flying_unit.md
-#: docs/keywords/ground_unit.md docs/keywords/major_artifact.md
-#: docs/keywords/minor_artifact.md docs/keywords/paralysis.md
+#: docs/astrologers_proclaim/unexpected_reinforcements.md docs/fields/town.md
+#: docs/fields/windmill.md docs/heroes/adelaide.md docs/heroes/alamar.md
+#: docs/heroes/deemer.md docs/heroes/jeddite.md docs/heroes/sandro.md
+#: docs/heroes/sephinroth.md docs/heroes/solmyr.md docs/heroes/tazar.md
+#: docs/heroes/xyron.md docs/keywords/blocked_field.md
+#: docs/keywords/center_tile.md docs/keywords/empty_field.md
+#: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
+#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
+#: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
+#: docs/keywords/near_tile.md docs/keywords/paralysis.md
 #: docs/keywords/permanent_effect.md docs/keywords/ranged_unit.md
-#: docs/keywords/relic_artifact.md docs/spells/anti-magic.md
-#: docs/spells/berserk.md docs/spells/bless.md docs/spells/blind.md
-#: docs/spells/chain_lightning.md docs/spells/cure.md
+#: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
+#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
+#: docs/spells/blind.md docs/spells/chain_lightning.md docs/spells/cure.md
 #: docs/spells/dimension_door.md docs/spells/dispel.md
 #: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
 #: docs/spells/fortune.md docs/spells/frost_ring.md docs/spells/haste.md
