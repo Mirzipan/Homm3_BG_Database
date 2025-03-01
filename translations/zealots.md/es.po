@@ -684,7 +684,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/zealots.md
 #, no-wrap
 msgid "Zealots"
-msgstr ""
+msgstr "Fanáticos"
 
 #. type: Plain text
 #: docs/units/zealots.md
