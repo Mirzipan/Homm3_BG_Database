@@ -431,7 +431,7 @@ msgstr "[Recursos](../fields/resources.md)"
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/f13.md
 msgid "[Scholar](../fields/scholar.md)"
-msgstr ""
+msgstr "[Erudito](../fields/scholar.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/c2.md docs/tiles/cx1.md

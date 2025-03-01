@@ -690,6 +690,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Scholar](../abilities/scholar.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Erudición](../abilities/scholar.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/octavia.md

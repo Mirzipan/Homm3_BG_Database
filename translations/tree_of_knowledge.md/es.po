@@ -460,7 +460,7 @@ msgid ""
 "![Tree of Knowledge Map Location](../assets/locations-"
 "tree_of_knowledge.webp){ width=\"475\" align=right }"
 msgstr ""
-"![Ubicación en el Mapa de Árbol de Conocimiento](../assets/locations-"
+"![Ubicación de Árbol de Conocimiento](../assets/locations-"
 "tree_of_knowledge.webp){ width=\"475\" align=right }"
 
 #. type: Plain text

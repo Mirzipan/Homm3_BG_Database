@@ -250,7 +250,7 @@ msgstr "[Lista de estadísticas] (index.md)"
 #: docs/statistics/power.md
 #, no-wrap
 msgid "Power"
-msgstr "Fuerza"
+msgstr "Poder de Hechizo"
 
 #. type: Plain text
 #: docs/statistics/power.md

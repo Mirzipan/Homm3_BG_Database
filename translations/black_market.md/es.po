@@ -440,7 +440,7 @@ msgid ""
 "![Black Market Map Location](../assets/locations-black_market.webp)"
 "{ width=\"475\" align=right }"
 msgstr ""
-"![Ubicación en el Mapa de Mercado Negro](../assets/locations-black_market."
+"![Ubicación de Mercado Negro](../assets/locations-black_market."
 "webp){ width=\"475\" align=right }"
 
 #. type: Plain text

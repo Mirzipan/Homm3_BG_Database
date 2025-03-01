@@ -457,7 +457,7 @@ msgid ""
 "![Grail Map Location](../assets/locations-grail.webp){ width=\"475\" "
 "align=right }"
 msgstr ""
-"![Ubicación en Mapa de Grial](../assets/locations-grail.webp)"
+"![Ubicación de Grial](../assets/locations-grail.webp)"
 "{ width=\"475\" align=right }"
 
 #. type: Plain text

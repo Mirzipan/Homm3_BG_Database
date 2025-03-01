@@ -568,12 +568,12 @@ msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 #: docs/abilities/scholar.md docs/fields/scholar.md
 #, no-wrap
 msgid "Scholar"
-msgstr ""
+msgstr "Erudición"
 
 #. type: Plain text
 #: docs/abilities/scholar.md
 msgid "![Scholar](../assets/abilities-scholar.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Erudición](../assets/abilities-scholar.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/abilities/scholar.md
@@ -592,6 +592,10 @@ msgid ""
 "Take up to 2 different [Empowered Statistic](../statistics/index.md) cards "
 "and put them on top of your discard pile. Remove the Scholar.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:effect_map: Remove up to 2 "
+"[Statistic](../statistics/index.md) cards from your hand or discard pile. "
+"Take up to 2 different [Empowered Statistic](../statistics/index.md) cards "
+"and put them on top of your discard pile. Remove the Erudición.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/abilities/scholar.md
@@ -802,6 +806,8 @@ msgid ""
 "![Scholar Map Location](../assets/locations-scholar.webp){ width=\"475\" "
 "align=right }"
 msgstr ""
+"![Ubicación de Erudito](../assets/locations-scholar.webp){ width=\"475\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/fields/scholar.md

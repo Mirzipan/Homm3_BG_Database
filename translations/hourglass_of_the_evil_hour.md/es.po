@@ -572,7 +572,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/
 #: docs/artifacts/hourglass_of_the_evil_hour.md
 #, no-wrap
 msgid "Hourglass of the Evil Hour"
-msgstr "Reloj de Arena e la Hora Aciaga"
+msgstr "Reloj de Arena de la Hora Aciaga"
 
 #. type: Plain text
 #: docs/artifacts/hourglass_of_the_evil_hour.md
@@ -580,7 +580,7 @@ msgid ""
 "![Hourglass of the Evil Hour](../assets/artifacts_minor-"
 "hourglass_of_the_evil_hour.webp){ width=\"340\" align=right }"
 msgstr ""
-"![Reloj de Arena e la Hora Aciaga](../assets/artifacts_minor-"
+"![Reloj de Arena de la Hora Aciaga](../assets/artifacts_minor-"
 "hourglass_of_the_evil_hour.webp){ width=\"340\" align=right }"
 
 #. type: Plain text

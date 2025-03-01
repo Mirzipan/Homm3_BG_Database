@@ -525,7 +525,7 @@ msgstr ""
 #: docs/artifacts/ring_of_the_wayfarer.md
 #, no-wrap
 msgid "Ring of the Wayfarer"
-msgstr "Anillo del Wayfarer"
+msgstr "Anillo del Caminante"
 
 #. type: Plain text
 #: docs/artifacts/ring_of_the_wayfarer.md
@@ -533,6 +533,8 @@ msgid ""
 "![Ring of the Wayfarer](../assets/artifacts_minor-"
 "ring_of_the_wayfarer.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Anillo del Caminante](../assets/artifacts_minor-"
+"ring_of_the_wayfarer.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/ring_of_the_wayfarer.md

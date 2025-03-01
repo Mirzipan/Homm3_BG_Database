@@ -457,7 +457,7 @@ msgid ""
 "![Hill Fort Map Location](../assets/locations-hill_fort.webp)"
 "{ width=\"475\" align=right }"
 msgstr ""
-"![Ubicación en el Mapa del Fuerte de la Colina](../assets/locations-"
+"![Ubicación de Fuerte de la Colina](../assets/locations-"
 "hill_fort.webp){ width=\"475\" align=right }"
 
 #. type: Plain text

@@ -593,4 +593,4 @@ msgstr "<p style=\"text-align: center;\" markdown>:instant: Roba 1 carta.<br><br
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*A gang of Rogues is sifting through the possessions of some dead warriors. Scaring off the scavengers, you notice the Rogues had overlooked a strange breastplate.*</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>*Una banda de pícaros está rebuscando entre las posesiones de unos guerreros muertos. Al ahuyentar a los carroñeros, te das cuenta de que han pasado por alto una extraña coraza.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Una banda de Bandidos está rebuscando entre las posesiones de unos guerreros muertos. Al ahuyentar a los carroñeros, te das cuenta de que han pasado por alto una extraña coraza.*</p>\n"

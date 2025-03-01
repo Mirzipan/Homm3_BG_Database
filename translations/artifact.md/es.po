@@ -457,7 +457,7 @@ msgid ""
 "![Artifact Map Location](../assets/locations-artifact_symbol.webp)"
 "{ width=\"475\" align=right }"
 msgstr ""
-"![Ubicación de Artefacto en el Mapa](../assets/locations-artifact_symbol."
+"![Ubicación de Artefacto](../assets/locations-artifact_symbol."
 "webp){ width=\"475\" align=right }"
 
 #. type: Plain text

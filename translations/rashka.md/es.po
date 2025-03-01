@@ -649,6 +649,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Scholar](../abilities/scholar.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Erudición](../abilities/scholar.md)</p>\n"
 
 #. type: Title #
 #: docs/heroes/rashka.md

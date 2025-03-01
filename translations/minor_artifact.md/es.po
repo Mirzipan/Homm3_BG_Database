@@ -473,7 +473,7 @@ msgstr "[Tórax](../artifacts/rib_cage.md)"
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Ring of the Wayfarer](../artifacts/ring_of_the_wayfarer.md)"
-msgstr ""
+msgstr "[Anillo del Caminante](../artifacts/ring_of_the_wayfarer.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md

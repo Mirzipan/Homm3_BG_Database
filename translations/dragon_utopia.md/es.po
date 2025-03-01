@@ -440,7 +440,7 @@ msgid ""
 "![Dragon Utopia Map Location](../assets/locations-dragon_utopia.webp)"
 "{ width=\"475\" align=right }"
 msgstr ""
-"![Ubicación en el mapa de Utopía del Dragón](../assets/locations-"
+"![Ubicación de Utopía del Dragón](../assets/locations-"
 "dragon_utopia.webp){ width=\"475\" align=right }"
 
 #. type: Plain text

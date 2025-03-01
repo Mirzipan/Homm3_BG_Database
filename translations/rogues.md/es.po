@@ -654,7 +654,7 @@ msgstr "[Lista de Unidades](index.md)"
 #: docs/units/rogues.md
 #, no-wrap
 msgid "Rogues"
-msgstr ""
+msgstr "Bandidos"
 
 #. type: Plain text
 #: docs/units/rogues.md
@@ -664,6 +664,9 @@ msgid ""
 "    ![Neutral Rogues](../assets/units-neutral-bronze-rogues.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Bandidos Neutrales](../assets/units-neutral-bronze-rogues.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/rogues.md
@@ -689,3 +692,6 @@ msgid ""
 "they had to be recruited beforehand (e.g. by "
 "[Diplomacy](../abilities/diplomacy.md))."
 msgstr ""
+"The effect only triggers if the Bandidos are in the player's unit deck, so "
+"they had to be recruited beforehand (e.g. by "
+"[Diplomacy](../abilities/diplomacy.md))."

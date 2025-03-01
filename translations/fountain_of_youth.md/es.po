@@ -457,7 +457,7 @@ msgid ""
 "![Fountain of Youth Map Location](../assets/locations-fountain_of_youth."
 "webp){ width=\"475\" align=right }"
 msgstr ""
-"![Ubicación en el Mapa de Fuente de la Juventud](../assets/locations-"
+"![Ubicación de Fuente de la Juventud](../assets/locations-"
 "fountain_of_youth.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
