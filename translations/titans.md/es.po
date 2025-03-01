@@ -797,8 +797,8 @@ msgid ""
 "still apply."
 msgstr ""
 "**Pocos and Pack** - Titans ignore the :ongoing: effects of [Buckler of the "
-"Gnoll King](../artifacts/buckler_of_the_gnoll_king.md) and [Greater Gnoll's "
-"Flail](../artifacts/greater_gnolls_flail.md), but the :instant: effects "
+"Gnoll King](../artifacts/buckler_of_the_gnoll_king.md) and [Mangual del Gran "
+"Gnoll](../artifacts/greater_gnolls_flail.md), but the :instant: effects "
 "still apply."
 
 #. type: Bullet: '- '

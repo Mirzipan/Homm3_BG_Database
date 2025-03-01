@@ -587,7 +587,7 @@ msgstr "[Yelmo Cráneo] (Skull_helmet.md)"
 #: docs/artifacts/rib_cage.md docs/artifacts/shield_of_the_yawning_dead.md
 #: docs/artifacts/skull_helmet.md
 msgid "[Blackshard of the Dead Knight](blackshard_of_the_dead_knight.md)"
-msgstr "[Blackshard of the Dead Knight] (Blackshard_of_the_dead_knight.md)"
+msgstr "[Hoja Quebrada del Caballero Muerto](blackshard_of_the_dead_knight.md)"
 
 #. type: Title #
 #: docs/artifacts/shield_of_the_yawning_dead.md

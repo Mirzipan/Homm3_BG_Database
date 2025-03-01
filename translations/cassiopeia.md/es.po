@@ -658,7 +658,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attac
 #: docs/heroes/cassiopeia.md docs/heroes/mutare.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Tactics](../abilities/tactics.md)</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Tácticas](../abilities/tactics.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Táctica](../abilities/tactics.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md

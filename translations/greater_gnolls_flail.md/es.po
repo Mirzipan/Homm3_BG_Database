@@ -515,7 +515,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/
 #: docs/artifacts/greater_gnolls_flail.md
 #, no-wrap
 msgid "Greater Gnoll's Flail"
-msgstr "Gran Azotador de Gnoll"
+msgstr "Mangual del Gran Gnoll"
 
 #. type: Plain text
 #: docs/artifacts/greater_gnolls_flail.md
@@ -523,7 +523,7 @@ msgid ""
 "![Greater Gnoll's Flail](../assets/artifacts_minor-greater_gnolls_flail."
 "webp){ width=\"340\" align=right }"
 msgstr ""
-"![Gran Azotador de Gnoll](../assets/artifacts_minor-greater_gnolls_flail."
+"![Mangual del Gran Gnoll](../assets/artifacts_minor-greater_gnolls_flail."
 "webp){ width=\"340\" align=right }"
 
 #. type: Plain text

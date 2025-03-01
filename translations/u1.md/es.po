@@ -601,4 +601,4 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/tiles/u1.md
 msgid "Spell Scroll"
-msgstr "Pergamino de hechizo"
+msgstr "Pergamino de Hechizo"

@@ -357,6 +357,8 @@ msgid ""
 "[Blackshard of the Dead "
 "Knight](../artifacts/blackshard_of_the_dead_knight.md)"
 msgstr ""
+"[Hoja Quebrada del Caballero "
+"Muerto](../artifacts/blackshard_of_the_dead_knight.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
@@ -378,7 +380,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Centaur's Axe](../artifacts/centaurs_axe.md)"
-msgstr ""
+msgstr "[Hacha del Centauro](../artifacts/centaurs_axe.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
@@ -414,7 +416,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Greater Gnoll's Flail](../artifacts/greater_gnolls_flail.md)"
-msgstr ""
+msgstr "[Mangual del Gran Gnoll](../artifacts/greater_gnolls_flail.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
