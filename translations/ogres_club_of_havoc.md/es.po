@@ -569,7 +569,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/ogres_club_of_havoc.md
 #, no-wrap
 msgid "Ogre's Club of Havoc"
-msgstr "Ogre's Club of Havoc"
+msgstr "Garrote Ogro de la Ruina"
 
 #. type: Plain text
 #: docs/artifacts/ogres_club_of_havoc.md
@@ -577,6 +577,8 @@ msgid ""
 "![Ogre's Club of Havoc](../assets/artifacts_major-ogres_club_of_havoc.webp){"
 " width=\"340\" align=right }"
 msgstr ""
+"![Garrote Ogro de la Ruina](../assets/artifacts_major-ogres_club_of_havoc.webp){"
+" width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/ogres_club_of_havoc.md

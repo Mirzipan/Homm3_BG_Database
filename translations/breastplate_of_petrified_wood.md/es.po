@@ -572,7 +572,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #, no-wrap
 msgid "Breastplate of Petrified Wood"
-msgstr "Coraza de Madera Petrificada"
+msgstr "Peto de Madera Petrificada"
 
 #. type: Plain text
 #: docs/artifacts/breastplate_of_petrified_wood.md
@@ -580,7 +580,7 @@ msgid ""
 "![Breastplate of Petrified Wood](../assets/artifacts_minor-"
 "breastplate_of_petrified_wood.webp){ width=\"340\" align=right }"
 msgstr ""
-"![Coraza de Madera Petrificada](../assets/artifacts_minor-"
+"![Peto de Madera Petrificada](../assets/artifacts_minor-"
 "breastplate_of_petrified_wood.webp){ width=\"340\" align=right }"
 
 #. type: Plain text

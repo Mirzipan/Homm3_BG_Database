@@ -544,7 +544,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/armor_of_wonder.md
 #, no-wrap
 msgid "Armor of Wonder"
-msgstr "Armadura de Maravilla"
+msgstr "Armadura Portentosa"
 
 #. type: Plain text
 #: docs/artifacts/armor_of_wonder.md
@@ -552,7 +552,7 @@ msgid ""
 "![Armor of Wonder](../assets/artifacts_minor-armor_of_wonder.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
-"![Armadura de Maravilla](../assets/artifacts_minor-armor_of_wonder.webp){ "
+"![Armadura Portentosa](../assets/artifacts_minor-armor_of_wonder.webp){ "
 "width=\"340\" align=right }"
 
 #. type: Plain text

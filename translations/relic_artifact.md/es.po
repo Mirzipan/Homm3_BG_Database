@@ -407,7 +407,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Sentinel's Shield](../artifacts/sentinels_shield.md)"
-msgstr ""
+msgstr "[Escudo del Centinela](../artifacts/sentinels_shield.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
@@ -427,4 +427,4 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Titan's Gladius](../artifacts/titans_gladius.md)"
-msgstr ""
+msgstr "[Gladius del Titán](../artifacts/titans_gladius.md)"

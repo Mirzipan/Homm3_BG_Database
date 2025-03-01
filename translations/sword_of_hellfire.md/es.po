@@ -531,6 +531,8 @@ msgid ""
 "![Sword of Hellfire](../assets/artifacts_major-sword_of_hellfire.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Espada del Fuego Infernal](../assets/artifacts_major-sword_of_hellfire.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/sword_of_hellfire.md

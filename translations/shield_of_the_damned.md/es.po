@@ -505,7 +505,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/shield_of_the_damned.md
 #, no-wrap
 msgid "Shield of the Damned"
-msgstr "Escudo de los malditos"
+msgstr "Escudo de los Condenados"
 
 #. type: Plain text
 #: docs/artifacts/shield_of_the_damned.md
@@ -513,6 +513,8 @@ msgid ""
 "![Shield of the Damned](../assets/artifacts_major-"
 "shield_of_the_damned.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Escudo de los Condenados](../assets/artifacts_major-"
+"shield_of_the_damned.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/shield_of_the_damned.md

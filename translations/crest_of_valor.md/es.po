@@ -526,7 +526,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/
 #: docs/artifacts/crest_of_valor.md
 #, no-wrap
 msgid "Crest of Valor"
-msgstr "Cresta de Valor"
+msgstr "Blasón del Valor"
 
 #. type: Plain text
 #: docs/artifacts/crest_of_valor.md
@@ -534,7 +534,7 @@ msgid ""
 "![Crest of Valor](../assets/artifacts_minor-crest_of_valor.webp)"
 "{ width=\"340\" align=right }"
 msgstr ""
-"![Cresta de Valor](../assets/artifacts_minor-crest_of_valor.webp)"
+"![Blasón del Valor](../assets/artifacts_minor-crest_of_valor.webp)"
 "{ width=\"340\" align=right }"
 
 #. type: Plain text
@@ -547,4 +547,4 @@ msgstr "<p style=\"text-align: center;\" markdown>:instant: Gana una ficha de :m
 #: docs/artifacts/crest_of_valor.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*After freeing a princess of a neighboring kingdom from the evil clutches of despicable slavers, she awards you with a Crest of Valor.*</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>*Tras liberar a la princesa de un reino vecino de las garras de unos despreciables esclavistas, ella te otorga una Cresta del Valor.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Tras liberar a la princesa de un reino vecino de las garras de unos despreciables esclavistas, ella te otorga un Blasón del Valor.*</p>\n"

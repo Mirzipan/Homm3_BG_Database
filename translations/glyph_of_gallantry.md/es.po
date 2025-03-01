@@ -543,4 +543,4 @@ msgstr "<p style=\"text-align: center;\" markdown>:instant: Gana una ficha de :m
 #: docs/artifacts/glyph_of_gallantry.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*Ridding the countryside of the hideous Minotaur who made a sport of eating noblemen's Knights, you are honored with the Glyph of Gallantry.*</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>*Al librar a la campiña del horrible Minotauro que se divertía comiéndose a los Caballeros de los nobles, se te honra con el Glifo de la Gallardía.*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*Al librar a la campiña del horrible Minotauro que se divertía comiéndose a los Caballeros de los nobles, se te honra con el Glifo de Gallardía.*</p>\n"

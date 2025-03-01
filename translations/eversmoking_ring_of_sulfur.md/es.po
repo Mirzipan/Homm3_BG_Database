@@ -523,7 +523,7 @@ msgstr "[Capa de Cristal Siempre Fluido](everflowing_crystal_cloak.md)"
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
 #, no-wrap
 msgid "Eversmoking Ring of Sulfur"
-msgstr "Anillo de Azufre Humeante"
+msgstr "Anillo de Azufre Inextinguible"
 
 #. type: Plain text
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
@@ -531,7 +531,7 @@ msgid ""
 "![Eversmoking Ring of Sulfur](../assets/player-deck-back.webp)"
 "{ width=\"340\" align=right }"
 msgstr ""
-"![Anillo de Azufre Humeante](../assets/player-deck-back.webp)"
+"![Anillo de Azufre Inextinguible](../assets/player-deck-back.webp)"
 "{ width=\"340\" align=right }"
 
 #. type: Plain text

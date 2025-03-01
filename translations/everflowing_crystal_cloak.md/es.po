@@ -601,4 +601,4 @@ msgstr "[Vial de Mercurio](everpouring_vial_of_mercury.md)"
 #: docs/artifacts/everflowing_crystal_cloak.md
 #: docs/artifacts/everpouring_vial_of_mercury.md
 msgid "[Eversmoking Ring of Sulfur](eversmoking_ring_of_sulfur.md)"
-msgstr "[Anillo de Azufre Humeante](eversmoking_ring_of_sulfur.md)"
+msgstr "[AAnillo de Azufre Inextinguible](eversmoking_ring_of_sulfur.md)"

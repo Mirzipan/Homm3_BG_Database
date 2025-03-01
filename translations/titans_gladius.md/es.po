@@ -563,7 +563,7 @@ msgstr ""
 #: docs/artifacts/titans_gladius.md
 #, no-wrap
 msgid "Titan's Gladius"
-msgstr "Gladius de Titán"
+msgstr "Gladius del Titán"
 
 #. type: Plain text
 #: docs/artifacts/titans_gladius.md
@@ -571,6 +571,8 @@ msgid ""
 "![Titan's Gladius](../assets/artifacts_relic-titans_gladius.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Gladius del Titán](../assets/artifacts_relic-titans_gladius.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/titans_gladius.md

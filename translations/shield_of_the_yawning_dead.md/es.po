@@ -593,7 +593,7 @@ msgstr "[Hoja Quebrada del Caballero Muerto](blackshard_of_the_dead_knight.md)"
 #: docs/artifacts/shield_of_the_yawning_dead.md
 #, no-wrap
 msgid "Shield of the Yawning Dead"
-msgstr "Escudo de los bostezados muertos"
+msgstr "Escudo del Muerto Bostezante"
 
 #. type: Plain text
 #: docs/artifacts/shield_of_the_yawning_dead.md
@@ -601,6 +601,8 @@ msgid ""
 "![Shield of the Yawning Dead](../assets/artifacts_minor-"
 "shield_of_the_yawning_dead.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Escudo del Muerto Bostezante](../assets/artifacts_minor-"
+"shield_of_the_yawning_dead.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/shield_of_the_yawning_dead.md

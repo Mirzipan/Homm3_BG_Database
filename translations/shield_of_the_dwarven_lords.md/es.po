@@ -575,7 +575,7 @@ msgstr ""
 #: docs/artifacts/shield_of_the_dwarven_lords.md
 #, no-wrap
 msgid "Shield of the Dwarven Lords"
-msgstr "Escudo de los señores enanos"
+msgstr "Escudo de los Señores Enanos"
 
 #. type: Plain text
 #: docs/artifacts/shield_of_the_dwarven_lords.md
@@ -583,6 +583,8 @@ msgid ""
 "![Shield of the Dwarven Lords](../assets/artifacts_minor-"
 "shield_of_the_dwarven_lords.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Escudo de los Señores Enanos](../assets/artifacts_minor-"
+"shield_of_the_dwarven_lords.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/shield_of_the_dwarven_lords.md

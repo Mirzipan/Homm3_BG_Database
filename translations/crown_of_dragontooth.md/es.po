@@ -541,7 +541,7 @@ msgstr "[Escudo de Escamas de Dragón](dragon_scale_shield.md)"
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Dragon Wing Tabard](dragon_wing_tabard.md)"
-msgstr "[Tabardo de Alas de Dragón](dragon_wing_tabard.md)"
+msgstr "[Tabardo de Ala de Dragón](dragon_wing_tabard.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md

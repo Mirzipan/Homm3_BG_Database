@@ -563,7 +563,7 @@ msgstr ""
 #: docs/artifacts/sentinels_shield.md
 #, no-wrap
 msgid "Sentinel's Shield"
-msgstr "Escudo de Sentinel"
+msgstr "Escudo del Centinela"
 
 #. type: Plain text
 #: docs/artifacts/sentinels_shield.md
@@ -571,6 +571,8 @@ msgid ""
 "![Sentinel's Shield](../assets/artifacts_relic-sentinels_shield.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Escudo del Centinela](../assets/artifacts_relic-sentinels_shield.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/sentinels_shield.md

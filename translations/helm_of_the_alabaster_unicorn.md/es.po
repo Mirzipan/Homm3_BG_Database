@@ -522,7 +522,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/
 #: docs/artifacts/helm_of_the_alabaster_unicorn.md
 #, no-wrap
 msgid "Helm of the Alabaster Unicorn"
-msgstr "Yelmo del Unicornio de Alabastro"
+msgstr "Yelmo del Unicornio Alabastrino"
 
 #. type: Plain text
 #: docs/artifacts/helm_of_the_alabaster_unicorn.md
@@ -530,7 +530,7 @@ msgid ""
 "![Helm of the Alabaster Unicorn](../assets/artifacts_minor-"
 "helm_of_the_alabaster_unicorn.webp){ width=\"340\" align=right }"
 msgstr ""
-"![Yelmo del Unicornio de Alabastro](../assets/artifacts_minor-"
+"![Yelmo del Unicornio Alabastrino](../assets/artifacts_minor-"
 "helm_of_the_alabaster_unicorn.webp){ width=\"340\" align=right }"
 
 #. type: Plain text

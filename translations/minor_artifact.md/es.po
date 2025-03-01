@@ -349,7 +349,7 @@ msgstr "Lista de artefactos menores"
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Armor of Wonder](../artifacts/armor_of_wonder.md)"
-msgstr "[Armadura de Maravilla](../artifacts/armor_of_wonder.md)"
+msgstr "[Armadura Portentosa](../artifacts/armor_of_wonder.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
@@ -363,7 +363,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Boots of Speed](../artifacts/boots_of_speed.md)"
-msgstr ""
+msgstr "[Botas de Velocidad](../artifacts/boots_of_speed.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
@@ -375,7 +375,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Buckler of the Gnoll King](../artifacts/buckler_of_the_gnoll_king.md)"
-msgstr ""
+msgstr "[Rodela del Rey Gnoll](../artifacts/buckler_of_the_gnoll_king.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
@@ -385,33 +385,34 @@ msgstr "[Hacha del Centauro](../artifacts/centaurs_axe.md)"
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Charm of Mana](../artifacts/charm_of_mana.md)"
-msgstr ""
+msgstr "[Amuleto de Maná](../artifacts/charm_of_mana.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Crest of Valor](../artifacts/crest_of_valor.md)"
-msgstr ""
+msgstr "[Blasón del Valor](../artifacts/crest_of_valor.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Dragon Wing Tabard](../artifacts/dragon_wing_tabard.md)"
-msgstr ""
+msgstr "[Tabardo de Ala de Dragón](../artifacts/dragon_wing_tabard.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Equestrian's Gloves](../artifacts/equestrians_gloves.md)"
-msgstr ""
+msgstr "[Guantes Ecuestres](../artifacts/equestrians_gloves.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid ""
 "[Eversmoking Ring of Sulfur](../artifacts/eversmoking_ring_of_sulfur.md)"
 msgstr ""
+"[Anillo de Azufre Inextinguible](../artifacts/eversmoking_ring_of_sulfur.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Glyph of Gallantry](../artifacts/glyph_of_gallantry.md)"
-msgstr ""
+msgstr "[Glifo de Gallardía](../artifacts/glyph_of_gallantry.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
@@ -484,17 +485,19 @@ msgstr ""
 msgid ""
 "[Shield of the Dwarven Lords](../artifacts/shield_of_the_dwarven_lords.md)"
 msgstr ""
+"[Escudo de los Señores Enanos](../artifacts/shield_of_the_dwarven_lords.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid ""
 "[Shield of the Yawning Dead](../artifacts/shield_of_the_yawning_dead.md)"
 msgstr ""
+"[Escudo del Muerto Bostezante](../artifacts/shield_of_the_yawning_dead.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Skull Helmet](../artifacts/skull_helmet.md)"
-msgstr ""
+msgstr "[Yelmo Cráneo](../artifacts/skull_helmet.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md

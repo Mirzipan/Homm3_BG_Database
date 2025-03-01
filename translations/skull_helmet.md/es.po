@@ -509,7 +509,7 @@ msgstr "[Rib Cage] (rib_cage.md)"
 #: docs/artifacts/blackshard_of_the_dead_knight.md docs/artifacts/rib_cage.md
 #: docs/artifacts/skull_helmet.md
 msgid "[Shield of the Yawning Dead](shield_of_the_yawning_dead.md)"
-msgstr "[Escudo del muerto de bostezo] (shield_of_the_yawning_dead.md)"
+msgstr "[Escudo del Muerto Bostezante](shield_of_the_yawning_dead.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/celestial_necklace_of_bliss.md
@@ -559,3 +559,5 @@ msgid ""
 "![Skull Helmet](../assets/player-deck-back.webp){ width=\"340\" align=right "
 "}"
 msgstr ""
+"![Yelmo Cráneo](../assets/player-deck-back.webp){ width=\"340\" align=right "
+"}"

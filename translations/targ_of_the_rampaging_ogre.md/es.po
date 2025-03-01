@@ -569,7 +569,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/targ_of_the_rampaging_ogre.md
 #, no-wrap
 msgid "Targ of the Rampaging Ogre"
-msgstr "Targ del Ogro Rampaging"
+msgstr "Targa del Ogro Enloquecido"
 
 #. type: Plain text
 #: docs/artifacts/targ_of_the_rampaging_ogre.md
@@ -577,6 +577,8 @@ msgid ""
 "![Targ of the Rampaging Ogre](../assets/artifacts_major-"
 "targ_of_the_rampaging_ogre.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Targa del Ogro Enloquecido](../assets/artifacts_major-"
+"targ_of_the_rampaging_ogre.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/targ_of_the_rampaging_ogre.md

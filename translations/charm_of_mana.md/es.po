@@ -572,7 +572,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/
 #: docs/artifacts/charm_of_mana.md
 #, no-wrap
 msgid "Charm of Mana"
-msgstr "Encanto de Maná"
+msgstr "Amuleto de Maná"
 
 #. type: Plain text
 #: docs/artifacts/charm_of_mana.md
@@ -580,7 +580,7 @@ msgid ""
 "![Charm of Mana](../assets/artifacts_minor-charm_of_mana.webp)"
 "{ width=\"340\" align=right }"
 msgstr ""
-"![Encanto de Maná](../assets/artifacts_minor-charm_of_mana.webp)"
+"![Amuleto de Maná](../assets/artifacts_minor-charm_of_mana.webp)"
 "{ width=\"340\" align=right }"
 
 #. type: Plain text

@@ -515,7 +515,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/
 #: docs/artifacts/buckler_of_the_gnoll_king.md
 #, no-wrap
 msgid "Buckler of the Gnoll King"
-msgstr "Broquel del Rey Gnoll"
+msgstr "Rodela del Rey Gnoll"
 
 #. type: Plain text
 #: docs/artifacts/buckler_of_the_gnoll_king.md
@@ -523,7 +523,7 @@ msgid ""
 "![Buckler of the Gnoll King](../assets/artifacts_minor-"
 "buckler_of_the_gnoll_king.webp){ width=\"340\" align=right }"
 msgstr ""
-"![Broquel del Rey Gnoll](../assets/artifacts_minor-"
+"![Rodela del Rey Gnoll](../assets/artifacts_minor-"
 "buckler_of_the_gnoll_king.webp){ width=\"340\" align=right }"
 
 #. type: Plain text

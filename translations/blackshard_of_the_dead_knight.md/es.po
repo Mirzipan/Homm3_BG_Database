@@ -605,7 +605,7 @@ msgstr "[Caja Toráxica](rib_cage.md)"
 #: docs/artifacts/blackshard_of_the_dead_knight.md docs/artifacts/rib_cage.md
 #: docs/artifacts/skull_helmet.md
 msgid "[Shield of the Yawning Dead](shield_of_the_yawning_dead.md)"
-msgstr "[Escudo de los Muertos Bostezantes](shield_of_the_yawning_dead.md)"
+msgstr "[Escudo del Muerto Bostezante](shield_of_the_yawning_dead.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/blackshard_of_the_dead_knight.md docs/artifacts/rib_cage.md

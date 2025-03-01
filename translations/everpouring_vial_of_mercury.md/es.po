@@ -568,7 +568,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/everflowing_crystal_cloak.md
 #: docs/artifacts/everpouring_vial_of_mercury.md
 msgid "[Eversmoking Ring of Sulfur](eversmoking_ring_of_sulfur.md)"
-msgstr "[Anillo de Azufre Humeante](eversmoking_ring_of_sulfur.md)"
+msgstr "[Anillo de Azufre Inextinguible](eversmoking_ring_of_sulfur.md)"
 
 #. type: Title #
 #: docs/artifacts/everpouring_vial_of_mercury.md

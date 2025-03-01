@@ -420,7 +420,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Ogre's Club of Havoc](../artifacts/ogres_club_of_havoc.md)"
-msgstr ""
+msgstr "[Garrote Ogro de la Ruina](../artifacts/ogres_club_of_havoc.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
@@ -450,7 +450,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Shield of the Damned](../artifacts/shield_of_the_damned.md)"
-msgstr ""
+msgstr "[Escudo de los Condenados](../artifacts/shield_of_the_damned.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
@@ -460,13 +460,14 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Sword of Hellfire](../artifacts/sword_of_hellfire.md)"
-msgstr ""
+msgstr "[Espada del Fuego Infernal](../artifacts/sword_of_hellfire.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid ""
 "[Targ of the Rampaging Ogre](../artifacts/targ_of_the_rampaging_ogre.md)"
 msgstr ""
+"[Targa del Ogro Enloquecido](../artifacts/targ_of_the_rampaging_ogre.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
