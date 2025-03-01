@@ -555,4 +555,4 @@ msgstr "[Collar de Diente de Dragón](collar_of_dragonteeth.md)"
 #: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
 #: docs/artifacts/necklace_of_dragonteeth.md
 msgid "[Red Dragon Flame Tongue](red_dragon_flame_tongue.md)"
-msgstr "[Lengua Ígnea del Dragón Rojo](Red_dragon_flame_tongue.md)"
+msgstr "[Lengua Ígnea del Dragón Rojo](red_dragon_flame_tongue.md)"

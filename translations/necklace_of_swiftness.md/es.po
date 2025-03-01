@@ -533,7 +533,7 @@ msgstr ""
 #: docs/artifacts/necklace_of_swiftness.md
 #, no-wrap
 msgid "Necklace of Swiftness"
-msgstr "Collar de rapidez"
+msgstr "Colgante de Celeridad"
 
 #. type: Plain text
 #: docs/artifacts/necklace_of_swiftness.md
@@ -541,3 +541,5 @@ msgid ""
 "![Necklace of Swiftness](../assets/player-deck-back.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Colgante de Celeridad](../assets/player-deck-back.webp){ width=\"340\" "
+"align=right }"

@@ -636,7 +636,7 @@ msgstr "<p style=\"text-align: center;\" markdown>*Registrando una ruina, te sor
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Legs of Legion](legs_of_legion.md)"
-msgstr "[Piernas de la Legión](legs_of_legion.md)"
+msgstr "[Piernas de Legión](legs_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md

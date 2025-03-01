@@ -575,7 +575,7 @@ msgstr ""
 #: docs/artifacts/inexhaustible_cart_of_lumber.md
 #, no-wrap
 msgid "Inexhaustible Cart of Lumber"
-msgstr "Carro inagotable de madera"
+msgstr "Carreta de Madera Inagotable"
 
 #. type: Plain text
 #: docs/artifacts/inexhaustible_cart_of_lumber.md
@@ -583,6 +583,8 @@ msgid ""
 "![Inexhaustible Cart of Lumber](../assets/artifacts_minor-"
 "inexhaustible_cart_of_lumber.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Carreta de Madera Inagotable](../assets/artifacts_minor-"
+"inexhaustible_cart_of_lumber.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/inexhaustible_cart_of_lumber.md

@@ -622,6 +622,8 @@ msgid ""
 "![Red Dragon Flame Tongue](../assets/artifacts_minor-"
 "red_dragon_flame_tongue.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Lengua Ígnea del Dragón Rojo](../assets/artifacts_minor-"
+"red_dragon_flame_tongue.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/red_dragon_flame_tongue.md

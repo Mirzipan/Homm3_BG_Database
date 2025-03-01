@@ -652,7 +652,7 @@ msgstr "[Head of Legion] (head_of_legion.md)"
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Legs of Legion](legs_of_legion.md)"
-msgstr "[Legs of Legion] (Legs_of_legion.md)"
+msgstr "[Piernas de Legión](legs_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
@@ -676,7 +676,7 @@ msgstr "[Arms of Legion] (Arms_of_legion.md)"
 #: docs/artifacts/loins_of_legion.md
 #, no-wrap
 msgid "Loins of Legion"
-msgstr "Lomos de la legión"
+msgstr "Escarcela de Legión"
 
 #. type: Plain text
 #: docs/artifacts/loins_of_legion.md
@@ -684,6 +684,8 @@ msgid ""
 "![Loins of Legion](../assets/artifacts_minor-loins_of_legion.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Escarcela de Legión](../assets/artifacts_minor-loins_of_legion.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/loins_of_legion.md

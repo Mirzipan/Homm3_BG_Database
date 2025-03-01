@@ -586,7 +586,7 @@ msgstr ""
 #: docs/artifacts/inexhaustible_cart_of_ore.md
 #, no-wrap
 msgid "Inexhaustible Cart of Ore"
-msgstr "Carro inagotable de mineral"
+msgstr "Carreta de Mineral Inagotable"
 
 #. type: Plain text
 #: docs/artifacts/inexhaustible_cart_of_ore.md
@@ -594,6 +594,8 @@ msgid ""
 "![Inexhaustible Cart of Ore](../assets/artifacts_minor-"
 "inexhaustible_cart_of_ore.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Carreta de Mineral Inagotable](../assets/artifacts_minor-"
+"inexhaustible_cart_of_ore.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/inexhaustible_cart_of_ore.md

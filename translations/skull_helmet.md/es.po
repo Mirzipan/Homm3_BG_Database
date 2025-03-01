@@ -503,7 +503,7 @@ msgstr ""
 #: docs/artifacts/blackshard_of_the_dead_knight.md
 #: docs/artifacts/shield_of_the_yawning_dead.md docs/artifacts/skull_helmet.md
 msgid "[Rib Cage](rib_cage.md)"
-msgstr "[Rib Cage] (rib_cage.md)"
+msgstr "[Tórax](rib_cage.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/blackshard_of_the_dead_knight.md docs/artifacts/rib_cage.md

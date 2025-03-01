@@ -431,42 +431,44 @@ msgstr ""
 msgid ""
 "[Hourglass of the Evil Hour](../artifacts/hourglass_of_the_evil_hour.md)"
 msgstr ""
+"[Reloj de Arena de la Hora Aciaga](../artifacts/hourglass_of_the_evil_hour.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid ""
 "[Inexhaustible Cart of Lumber](../artifacts/inexhaustible_cart_of_lumber.md)"
 msgstr ""
+"[Carreta de Madera Inagotable](../artifacts/inexhaustible_cart_of_lumber.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Inexhaustible Cart of Ore](../artifacts/inexhaustible_cart_of_ore.md)"
-msgstr ""
+msgstr "[Carreta de Mineral Inagotable](../artifacts/inexhaustible_cart_of_ore.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Legs of Legion](../artifacts/legs_of_legion.md)"
-msgstr ""
+msgstr "[Piernas de Legión](../artifacts/legs_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Loins of Legion](../artifacts/loins_of_legion.md)"
-msgstr ""
+msgstr "[Escarcela de Legión](../artifacts/loins_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Necklace of Swiftness](../artifacts/necklace_of_swiftness.md)"
-msgstr ""
+msgstr "[Colgante de Celeridad](../artifacts/necklace_of_swiftness.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Red Dragon Flame Tongue](../artifacts/red_dragon_flame_tongue.md)"
-msgstr ""
+msgstr "[Lengua Ígnea del Dragón Rojo](../artifacts/red_dragon_flame_tongue.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Rib Cage](../artifacts/rib_cage.md)"
-msgstr ""
+msgstr "[Tórax](../artifacts/rib_cage.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
