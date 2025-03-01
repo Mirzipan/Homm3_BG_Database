@@ -186,7 +186,7 @@ msgstr ":bronze: [Gólems de Hierro](../units/iron_golems.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":bronze: [Leprechaun](../units/leprechaun.md)"
-msgstr ":bronze: [Gnomo](../units/leprechaun.md)"
+msgstr ":bronze: [Leprechauns](../units/leprechaun.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
@@ -337,7 +337,7 @@ msgstr ":golden: [Nagas](../units/nagas.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/cove.md
 msgid ":golden: [Nix](../units/nix.md)"
-msgstr ":golden: [Nix](../units/nix.md)"
+msgstr ":golden: [Nixes](../units/nix.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/keywords/ranged_unit.md

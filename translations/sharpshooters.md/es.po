@@ -614,7 +614,7 @@ msgstr ""
 #: docs/units/sharpshooters.md
 #, no-wrap
 msgid "Sharpshooters"
-msgstr ""
+msgstr "Tiradores Certeros"
 
 #. type: Plain text
 #: docs/units/sharpshooters.md

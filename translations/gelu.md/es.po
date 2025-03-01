@@ -593,7 +593,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Tiro con Arco](../abilities/a
 #. type: Plain text
 #: docs/heroes/gelu.md
 msgid "=== \"Sharpshooters Ⅰ\""
-msgstr "=== \"Tiradores Ⅰ\""
+msgstr "=== \"Tiradores Certeros Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/gelu.md
@@ -604,13 +604,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Tiradores Ⅰ](../assets/hero_specialties-rampart-gelu-1.webp){ width=\"340\" align=right }\n"
+"        ![Tiradores Certeros Ⅰ](../assets/hero_specialties-rampart-gelu-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/gelu.md
 msgid "=== \"Sharpshooters Ⅳ\""
-msgstr "=== \"Tiradores Ⅳ\""
+msgstr "=== \"Tiradores Certeros Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/gelu.md
@@ -621,13 +621,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Tiradores Ⅳ](../assets/hero_specialties-rampart-gelu-4.webp){ width=\"340\" align=right }\n"
+"        ![Tiradores Certeros Ⅳ](../assets/hero_specialties-rampart-gelu-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/gelu.md
 msgid "=== \"Sharpshooters Ⅵ\""
-msgstr "=== \"Tiradores Ⅵ\""
+msgstr "=== \"Tiradores Certeros Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/gelu.md
@@ -638,7 +638,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Tiradores Ⅵ](../assets/hero_specialties-rampart-gelu-7.webp){ width=\"340\" align=right }\n"
+"        ![Tiradores Certeros Ⅵ](../assets/hero_specialties-rampart-gelu-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -653,9 +653,9 @@ msgid ""
 msgstr ""
 "| Nivel | Descripción |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Tu [unidad](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unidad](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para las unidades [Elfos](../units/elves.md) y [Tiradores](../units/sharpshooters.md). |\n"
-"| Ⅳ | :effect_map: Si tienes una carta de Unidad [Manada de Elfos](../units/elves.md), descártala. Luego, buscar en el mazo de [Unidad Neutral](../units/index.md) :silver: la carta para [Tiradores](../units/sharpshooters.md) y añádela a tu mazo de [Unidades](../units/index.md). Sólo puedes controlar 1 [unidad](../units/index.md) de [Tiradores](../units/sharpshooters.md) al mismo tiempo.<br><br>— O —<br><br>:instant: Roba una carta. |\n"
-"| Ⅵ | :ongoing: Durante este Combate, la :initiative: de tu [unidad](../units/index.md) seleccionada se incrementa en 2.<br><br>Este efecto es doble para las unidades [Elfos](../units/elves.md) y [Tiradores](../units/sharpshooters.md). |\n"
+"| Ⅰ | :instant: Tu [unidad](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unidad](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para las unidades [Elfos](../units/elves.md) y [Tiradores Certeros](../units/sharpshooters.md). |\n"
+"| Ⅳ | :effect_map: Si tienes una carta de Unidad [Manada de Elfos](../units/elves.md), descártala. Luego, buscar en el mazo de [Unidad Neutral](../units/index.md) :silver: la carta para [Tiradores Certeros](../units/sharpshooters.md) y añádela a tu mazo de [Unidades](../units/index.md). Sólo puedes controlar 1 [unidad](../units/index.md) de [Tiradores Certeros](../units/sharpshooters.md) al mismo tiempo.<br><br>— O —<br><br>:instant: Roba una carta. |\n"
+"| Ⅵ | :ongoing: Durante este Combate, la :initiative: de tu [unidad](../units/index.md) seleccionada se incrementa en 2.<br><br>Este efecto es doble para las unidades [Elfos](../units/elves.md) y [Tiradores Certeros](../units/sharpshooters.md). |\n"
 
 #. type: Bullet: '- '
 #: docs/heroes/gelu.md

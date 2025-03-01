@@ -761,7 +761,7 @@ msgstr "Héroes Con Una Especialidad"
 #: docs/units/marksmen.md
 #, no-wrap
 msgid "Marksmen"
-msgstr "Ballestero"
+msgstr "Ballesteros"
 
 #. type: Plain text
 #: docs/units/marksmen.md

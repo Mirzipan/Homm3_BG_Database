@@ -614,7 +614,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/nix.md
 #, no-wrap
 msgid "Nix"
-msgstr "Nix"
+msgstr "Nixes"
 
 #. type: Plain text
 #: docs/units/nix.md
@@ -625,7 +625,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Nix](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Nixes](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -637,7 +637,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Nix](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Nixes](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

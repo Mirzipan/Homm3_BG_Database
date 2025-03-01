@@ -663,7 +663,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Tácticas](../abilities/tacti
 #. type: Plain text
 #: docs/heroes/cassiopeia.md
 msgid "=== \"Oceanids Ⅰ\""
-msgstr "=== \"Oceánides Ⅰ\""
+msgstr "=== \"Oceánidas Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md
@@ -674,13 +674,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Oceánides Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Oceánidas Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md
 msgid "=== \"Oceanids Ⅳ\""
-msgstr "=== \"Oceánides Ⅳ\""
+msgstr "=== \"Oceánidas Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md
@@ -691,13 +691,13 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Oceanids Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Oceánidas Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md
 msgid "=== \"Oceanids Ⅵ\""
-msgstr "=== \"Oceánides Ⅵ\""
+msgstr "=== \"Oceánidas Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md
@@ -708,5 +708,5 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Oceánides Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Oceánidas Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"

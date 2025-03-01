@@ -242,7 +242,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/neutral.md
 msgid ":silver: [Sharpshooters](../units/sharpshooters.md)"
-msgstr ""
+msgstr ":silver: [Tiradores Certeros](../units/sharpshooters.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/cove.md
@@ -252,7 +252,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/castle.md
 msgid ":silver: [Zealots](../units/zealots.md)"
-msgstr ""
+msgstr ":silver: [Fanáticos](../units/zealots.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/stronghold.md

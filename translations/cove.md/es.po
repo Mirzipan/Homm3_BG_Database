@@ -549,7 +549,7 @@ msgstr "[Lista de Ciudades](../towns/index.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/cove.md
 msgid ":bronze: [Oceanids](../units/oceanids.md)"
-msgstr ":bronze: [Oceánides](../units/oceanids.md)"
+msgstr ":bronze: [Oceánidas](../units/oceanids.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/cove.md
@@ -569,7 +569,7 @@ msgstr ":golden: [Áspides](../units/haspids.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/cove.md
 msgid ":golden: [Nix](../units/nix.md)"
-msgstr ":golden: [Nix](../units/nix.md)"
+msgstr ":golden: [Nixes](../units/nix.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/cove.md

@@ -614,7 +614,7 @@ msgstr "=== \"Neutral\""
 #: docs/units/oceanids.md
 #, no-wrap
 msgid "Oceanids"
-msgstr ""
+msgstr "Oceánidas"
 
 #. type: Plain text
 #: docs/units/oceanids.md
@@ -625,7 +625,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Oceánides](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Oceánidas](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -637,7 +637,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Oceánides](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Oceánidas](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

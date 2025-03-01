@@ -333,7 +333,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
 msgid ":bronze: [Rogues](../units/rogues.md)"
-msgstr ""
+msgstr ":bronze: [Bandidos](../units/rogues.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/neutral.md
@@ -378,7 +378,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/neutral.md
 msgid ":silver: [Sharpshooters](../units/sharpshooters.md)"
-msgstr ""
+msgstr ":silver: [Tiradores Certeros](../units/sharpshooters.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/neutral.md

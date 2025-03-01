@@ -312,7 +312,7 @@ msgstr ""
 #: docs/spells/school_of_water_magic.md
 #, no-wrap
 msgid "School of Water Magic"
-msgstr "Escuela de Magia del Agua"
+msgstr "Escuela de Magia Acuática"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_water_magic.md

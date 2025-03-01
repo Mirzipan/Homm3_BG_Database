@@ -680,17 +680,17 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/gelu.md docs/heroes/tarnum_rampart.md
 msgid "=== \"Sharpshooters Ⅰ\""
-msgstr "=== \"Tiradores Ⅰ\""
+msgstr "=== \"Tiradores Certeros Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/gelu.md docs/heroes/tarnum_rampart.md
 msgid "=== \"Sharpshooters Ⅳ\""
-msgstr "=== \"Tiradores Ⅳ\""
+msgstr "=== \"Tiradores Certeros Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/gelu.md docs/heroes/tarnum_rampart.md
 msgid "=== \"Sharpshooters Ⅵ\""
-msgstr "=== \"Tiradores Ⅵ\""
+msgstr "=== \"Tiradores Certeros Ⅵ\""
 
 #. type: Title #
 #: docs/heroes/tarnum_rampart.md

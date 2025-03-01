@@ -523,7 +523,7 @@ msgstr "[Lista de Unidades](index.md)"
 #: docs/units/fangarm.md
 #, no-wrap
 msgid "Fangarm"
-msgstr "Fangarm"
+msgstr "Fangarms"
 
 #. type: Plain text
 #: docs/units/fangarm.md
@@ -534,7 +534,7 @@ msgid ""
 "</figure>\n"
 msgstr ""
 "<figure markdown=\"span\">\n"
-"    ![Fangarm Neutral](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"    ![Fangarms Neutrales](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 
 #. type: Plain text

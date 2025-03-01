@@ -592,7 +592,7 @@ msgstr "Héroes con Habilidad de Inicio"
 #: docs/abilities/water_magic.md
 #, no-wrap
 msgid "Water Magic"
-msgstr "Magia del Agua"
+msgstr "Magia Acuática"
 
 #. type: Plain text
 #: docs/abilities/water_magic.md

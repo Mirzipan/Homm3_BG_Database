@@ -188,7 +188,7 @@ msgstr ":silver: [Elementales de Energía](../units/energy_elementals.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/neutral.md
 msgid ":silver: [Fangarm](../units/fangarm.md)"
-msgstr ":silver: [Fangarm](../units/fangarm.md)"
+msgstr ":silver: [Fangarms](../units/fangarm.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/tower.md
