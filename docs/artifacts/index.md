@@ -77,3 +77,4 @@ search:
 | [Sword of Judgement](sword_of_judgement.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Discard X cards from hand to gain +X :attack:.<br><br>— OR —<br><br>:instant: Discard X cards from hand to gain +X :defense:. | [Core Game](../content/core_game.md) |
 | [Titan's Cuirass](titans_cuirass.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Discard 1 card to gain +4 :empower:.<br><br>— OR —<br><br>:instant: +2 :empower:. | [Core Game](../content/core_game.md) |
 | [Titan's Gladius](titans_gladius.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Discard 1 card to gain +3 :attack:.<br><br>— OR —<br><br>:instant: +2 :attack: | [Core Game](../content/core_game.md) |
+| [Vial of Lifeblood](vial_of_lifeblood.md) | [Major Artifact](../keywords/relic_artifact.md) | 🚧 | 🚧 |
