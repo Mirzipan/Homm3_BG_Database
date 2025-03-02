@@ -433,7 +433,7 @@ msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
 #: docs/artifacts/ambassadors_sash.md
 #, no-wrap
 msgid "Ambassador's Sash"
-msgstr "Faja del Embajador"
+msgstr "Banda del Embajador"
 
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md
@@ -441,7 +441,7 @@ msgid ""
 "![Ambassador's Sash](../assets/artifacts_major-ambassadors_sash.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
-"![Faja del Embajador](../assets/artifacts_major-ambassadors_sash.webp){ "
+"![Banda del Embajador](../assets/artifacts_major-ambassadors_sash.webp){ "
 "width=\"340\" align=right }"
 
 #. type: Plain text

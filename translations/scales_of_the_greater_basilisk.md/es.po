@@ -538,7 +538,7 @@ msgstr ""
 #: docs/artifacts/scales_of_the_greater_basilisk.md
 #, no-wrap
 msgid "Scales of the Greater Basilisk"
-msgstr "Escamas de la basilisco mayor"
+msgstr "Escamas del Basilisco Mayor"
 
 #. type: Plain text
 #: docs/artifacts/scales_of_the_greater_basilisk.md
@@ -546,6 +546,8 @@ msgid ""
 "![Scales of the Greater Basilisk](../assets/artifacts_minor-"
 "scales_of_the_greater_basilisk.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Escamas del Basilisco Mayor](../assets/artifacts_minor-"
+"scales_of_the_greater_basilisk.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/scales_of_the_greater_basilisk.md

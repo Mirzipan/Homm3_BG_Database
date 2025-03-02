@@ -529,7 +529,7 @@ msgstr ""
 #: docs/artifacts/spirit_of_oppression.md
 #, no-wrap
 msgid "Spirit of Oppression"
-msgstr "Espíritu de opresión"
+msgstr "Espíritu de Opresión"
 
 #. type: Plain text
 #: docs/artifacts/spirit_of_oppression.md
@@ -537,6 +537,8 @@ msgid ""
 "![Spirit of Oppression](../assets/artifacts_minor-"
 "spirit_of_oppression.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Espíritu de Opresión](../assets/artifacts_minor-"
+"spirit_of_oppression.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/spirit_of_oppression.md
@@ -556,3 +558,6 @@ msgid ""
 "ancient walled city, you find the instrument of the city's destruction, the "
 "Spirit of Oppression.*</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>*Walking through the ruins of an "
+"ancient walled city, you find the instrument of the city's destruction, the "
+"Espíritu de Opresión.*</p>\n"

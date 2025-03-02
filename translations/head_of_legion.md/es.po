@@ -648,7 +648,7 @@ msgstr "[Escarcela de Legión](loins_of_legion.md)"
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
 msgid "[Torso of Legion](torso_of_legion.md)"
-msgstr "[Torso de la Legión](torso_of_legion.md)"
+msgstr "[Torso de Legión](torso_of_legion.md)"
 
 #. type: Title #
 #: docs/artifacts/head_of_legion.md
@@ -675,10 +675,10 @@ msgstr "<p style=\"text-align: center;\" markdown>:instant: Reduce el coste de R
 #: docs/artifacts/head_of_legion.md docs/artifacts/legs_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "See [Arms of Legion](arms_of_legion.md)"
-msgstr "Ver [Brazos de la Legión](arms_of_legion.md)"
+msgstr "Ver [Brazos de Legión](arms_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/head_of_legion.md docs/artifacts/legs_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Arms of Legion](arms_of_legion.md)"
-msgstr "Ver [Brazos de la Legión](arms_of_legion.md)"
+msgstr "Ver [Brazos de Legión](arms_of_legion.md)"

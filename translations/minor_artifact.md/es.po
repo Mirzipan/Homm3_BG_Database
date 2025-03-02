@@ -504,14 +504,14 @@ msgstr "[Yelmo Cráneo](../artifacts/skull_helmet.md)"
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Speculum](../artifacts/speculum.md)"
-msgstr ""
+msgstr "[Espéculo](../artifacts/speculum.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Spirit of Oppression](../artifacts/spirit_of_oppression.md)"
-msgstr ""
+msgstr "[Espíritu de Opresión](../artifacts/spirit_of_oppression.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid "[Torso of Legion](../artifacts/torso_of_legion.md)"
-msgstr ""
+msgstr "[Torso de Legión](../artifacts/torso_of_legion.md)"

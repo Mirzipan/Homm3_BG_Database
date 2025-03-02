@@ -583,6 +583,8 @@ msgid ""
 "![Speculum](../assets/artifacts_minor-speculum.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Espéculo](../assets/artifacts_minor-speculum.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/artifacts/speculum.md
@@ -602,3 +604,6 @@ msgid ""
 "trades you a new invention of his people for traveling supplies. It makes "
 "distant objects appear closer, and he calls it, a Speculum.*</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>*A merchant from far away lands, "
+"trades you a new invention of his people for traveling supplies. It makes "
+"distant objects appear closer, and he calls it, a Espéculo.*</p>\n"

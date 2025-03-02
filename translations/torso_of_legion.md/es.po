@@ -607,19 +607,19 @@ msgstr "[Escarcela de Legión](loins_of_legion.md)"
 #: docs/artifacts/head_of_legion.md docs/artifacts/legs_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "See [Arms of Legion](arms_of_legion.md)"
-msgstr "Ver [Arms of Legion](arms_of_legion.md)"
+msgstr "Ver [Brazos de Legión](arms_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/head_of_legion.md docs/artifacts/legs_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Arms of Legion](arms_of_legion.md)"
-msgstr "[Arms of Legion](arms_of_legion.md)"
+msgstr "[Brazos de Legión](arms_of_legion.md)"
 
 #. type: Title #
 #: docs/artifacts/torso_of_legion.md
 #, no-wrap
 msgid "Torso of Legion"
-msgstr "Torso de la legión"
+msgstr "Torso de Legión"
 
 #. type: Plain text
 #: docs/artifacts/torso_of_legion.md
@@ -627,6 +627,8 @@ msgid ""
 "![Torso of Legion](../assets/artifacts_minor-torso_of_legion.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Torso de Legión](../assets/artifacts_minor-torso_of_legion.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/torso_of_legion.md

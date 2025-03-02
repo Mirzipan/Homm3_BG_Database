@@ -584,7 +584,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/arms_of_legion.md
 #, no-wrap
 msgid "Arms of Legion"
-msgstr "Arms of Legion"
+msgstr "Brazos de Legión"
 
 #. type: Plain text
 #: docs/artifacts/arms_of_legion.md
@@ -592,6 +592,8 @@ msgid ""
 "![Arms of Legion](../assets/artifacts_major-arms_of_legion.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Brazos de Legión](../assets/artifacts_major-arms_of_legion.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/arms_of_legion.md
@@ -666,4 +668,4 @@ msgstr "[Escarcela de Legión](loins_of_legion.md)"
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
 msgid "[Torso of Legion](torso_of_legion.md)"
-msgstr "[Torso de Legion] (Torso_of_legion.MD)"
+msgstr "[Torso de Legión](torso_of_legion.md)"
