@@ -294,8 +294,8 @@ msgid ""
 "all game modes. The specific variant for the game mode is mentioned in the "
 "text."
 msgstr ""
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es "
-"válida para todos los modos de juego.La variante específica para el modo de "
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es "
+"válida para todos los modos de juego. La variante específica para el modo de "
 "juego se menciona en el texto."
 
 #. type: Bullet: '- '
@@ -312,39 +312,39 @@ msgstr "[Lista de Artefactos](../artifacts/index.md)"
 #: docs/keywords/index.md docs/keywords/major_artifact.md
 #: docs/keywords/relic_artifact.md
 msgid "[Minor Artifact](minor_artifact.md)"
-msgstr "[Artefacto menor] (Minor_artifact.md)"
+msgstr "[Artefacto Menor](minor_artifact.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md
 msgid "[Relic Artifact](relic_artifact.md)"
-msgstr "[Relic Artifact] (relic_artifact.md)"
+msgstr "[Artefacto Reliquia](relic_artifact.md)"
 
 #. type: Title #
 #: docs/keywords/major_artifact.md
 #, no-wrap
 msgid "Major Artifact"
-msgstr "Artefacto importante"
+msgstr "Artefacto Mayor"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
-msgid "Minor artifacts have a red frame."
-msgstr "Los artefactos menores tienen un marco rojo."
+msgid "Major artifacts have a red frame."
+msgstr "Los artefactos mayores tienen un marco rojo."
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid ""
-"[^1] When playing according to the tournament rules, minor artifacts may be "
+"[^1] When playing according to the tournament rules, major artifacts may be "
 "obtained on Near (Ⅳ-Ⅴ) and Center (Ⅵ-Ⅶ) tiles."
 msgstr ""
 "[^1] Al jugar según las reglas del torneo, se pueden obtener artefactos "
-"menores en mosaicos cercanos (ⅳ-ⅴ) y centrales (ⅵ-ⅶ)."
+"mayores en mosaicos cercanos (Ⅳ-Ⅴ) y centrales (Ⅵ-Ⅶ)."
 
 #. type: Title ##
 #: docs/keywords/major_artifact.md
 #, no-wrap
 msgid "List of Major Artifacts"
-msgstr "Lista de artefactos principales"
+msgstr "Lista de Artefactos Mayores"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
@@ -393,8 +393,7 @@ msgstr "[Capa de Cristal Imperecedero](../artifacts/everflowing_crystal_cloak.md
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
-msgid ""
-"[Everpouring Vial of Mercury](../artifacts/everpouring_vial_of_mercury.md)"
+msgid "[Everpouring Vial of Mercury](../artifacts/everpouring_vial_of_mercury.md)"
 msgstr "[Vial de Mercurio Inacabable](../artifacts/everpouring_vial_of_mercury.md)"
 
 #. type: Bullet: '- '
@@ -477,4 +476,4 @@ msgstr "[Túnica del Rey Cíclope](../artifacts/tunic_of_the_cyclops_king.md)"
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Vial of Lifeblood](../artifacts/vial_of_lifeblood.md)"
-msgstr ""
+msgstr "[Vial de Sangre Vital](../artifacts/vial_of_lifeblood.md)"

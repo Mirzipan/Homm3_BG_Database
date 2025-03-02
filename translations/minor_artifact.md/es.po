@@ -294,8 +294,8 @@ msgid ""
 "all game modes. The specific variant for the game mode is mentioned in the "
 "text."
 msgstr ""
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es "
-"válida para todos los modos de juego.La variante específica para el modo de "
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es "
+"válida para todos los modos de juego. La variante específica para el modo de "
 "juego se menciona en el texto."
 
 #. type: Bullet: '- '
@@ -312,19 +312,19 @@ msgstr "[Lista de Artefactos](../artifacts/index.md)"
 #: docs/keywords/index.md docs/keywords/minor_artifact.md
 #: docs/keywords/relic_artifact.md
 msgid "[Major Artifact](major_artifact.md)"
-msgstr "[Artefacto mayor] (major_artifact.md)"
+msgstr "[Artefacto Mayor](major_artifact.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md
 msgid "[Relic Artifact](relic_artifact.md)"
-msgstr "[Relic Artifact] (relic_artifact.md)"
+msgstr "[Artefacto Reliquia](relic_artifact.md)"
 
 #. type: Title #
 #: docs/keywords/minor_artifact.md
 #, no-wrap
 msgid "Minor Artifact"
-msgstr "Artefacto menor"
+msgstr "Artefacto Menor"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
@@ -344,7 +344,7 @@ msgstr ""
 #: docs/keywords/minor_artifact.md
 #, no-wrap
 msgid "List of Minor Artifacts"
-msgstr "Lista de artefactos menores"
+msgstr "Lista de Artefactos Menores"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
@@ -368,9 +368,9 @@ msgstr "[Botas de Velocidad](../artifacts/boots_of_speed.md)"
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid ""
-"[Breastplate of Petrified "
-"Wood](../artifacts/breastplate_of_petrified_wood.md)"
+"[Breastplate of Petrified Wood](../artifacts/breastplate_of_petrified_wood.md)"
 msgstr ""
+"[Peto de Madera Petrificada](../artifacts/breastplate_of_petrified_wood.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
@@ -422,9 +422,9 @@ msgstr "[Mangual del Gran Gnoll](../artifacts/greater_gnolls_flail.md)"
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid ""
-"[Helm of the Alabaster "
-"Unicorn](../artifacts/helm_of_the_alabaster_unicorn.md)"
+"[Helm of the Alabaster Unicorn](../artifacts/helm_of_the_alabaster_unicorn.md)"
 msgstr ""
+"[Yelmo del Unicornio Alabastrino](../artifacts/helm_of_the_alabaster_unicorn.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
@@ -478,9 +478,9 @@ msgstr "[Anillo del Caminante](../artifacts/ring_of_the_wayfarer.md)"
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md
 msgid ""
-"[Scales of the Greater "
-"Basilisk](../artifacts/scales_of_the_greater_basilisk.md)"
+"[Scales of the Greater Basilisk](../artifacts/scales_of_the_greater_basilisk.md)"
 msgstr ""
+"[Escamas del Basilisco Mayor](../artifacts/scales_of_the_greater_basilisk.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md

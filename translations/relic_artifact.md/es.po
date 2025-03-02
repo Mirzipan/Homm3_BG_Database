@@ -295,7 +295,7 @@ msgid ""
 "text."
 msgstr ""
 "[^1]: Excepciones para modos de juego específicos.Esta explicación no es "
-"válida para todos los modos de juego.La variante específica para el modo de "
+"válida para todos los modos de juego. La variante específica para el modo de "
 "juego se menciona en el texto."
 
 #. type: Bullet: '- '
@@ -312,39 +312,39 @@ msgstr "[Lista de Artefactos](../artifacts/index.md)"
 #: docs/keywords/index.md docs/keywords/major_artifact.md
 #: docs/keywords/relic_artifact.md
 msgid "[Minor Artifact](minor_artifact.md)"
-msgstr "[Artefacto menor] (Minor_artifact.md)"
+msgstr "[Artefacto Menor](minor_artifact.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/minor_artifact.md
 #: docs/keywords/relic_artifact.md
 msgid "[Major Artifact](major_artifact.md)"
-msgstr "[Artefacto mayor] (major_artifact.md)"
+msgstr "[Artefacto Mayor](major_artifact.md)"
 
 #. type: Title #
 #: docs/keywords/relic_artifact.md
 #, no-wrap
 msgid "Relic Artifact"
-msgstr "Artefacto de reliquia"
+msgstr "Artefacto Reliquia"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
-msgid "Minor artifacts have a purple frame."
-msgstr "Los artefactos menores tienen un marco púrpura."
+msgid "Relic artifacts have a purple frame."
+msgstr "Los artefactos Reliquia tienen un marco púrpura."
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid ""
-"[^1] When playing according to the tournament rules, minor artifacts may "
+"[^1] When playing according to the tournament rules, relic artifacts may "
 "only be obtained on Center (Ⅵ-Ⅶ) tiles."
 msgstr ""
-"[^1] Al jugar de acuerdo con las reglas del torneo, los artefactos menores "
-"solo se pueden obtener en los mosaicos del centro (ⅵ-ⅶ)."
+"[^1] Al jugar de acuerdo con las reglas del torneo, los artefactos reliquia "
+"solo se pueden obtener en los mosaicos del centro (Ⅵ-Ⅶ)."
 
 #. type: Title ##
 #: docs/keywords/relic_artifact.md
 #, no-wrap
 msgid "List of Relic Artifacts"
-msgstr "Lista de artefactos de reliquia"
+msgstr "Lista de Artefactos Reliquia"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
@@ -381,9 +381,9 @@ msgstr "[Saco Interminable de Oro](../artifacts/endless_sack_of_gold.md)"
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid ""
-"[Helm of Heavenly "
-"Enlightenment](../artifacts/helm_of_heavenly_enlightenment.md)"
+"[Helm of Heavenly Enlightenment](../artifacts/helm_of_heavenly_enlightenment.md)"
 msgstr ""
+"[Yelmo de la Divina Iluminación](../artifacts/helm_of_heavenly_enlightenment.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md

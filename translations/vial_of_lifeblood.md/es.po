@@ -569,7 +569,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/vial_of_lifeblood.md
 #, no-wrap
 msgid "Vial of Lifeblood"
-msgstr "Vial of Liflood"
+msgstr "Vial de Sangre Vital"
 
 #. type: Plain text
 #: docs/artifacts/vial_of_lifeblood.md
@@ -577,6 +577,8 @@ msgid ""
 "![Vial of Lifeblood](../assets/artifacts_major-vial_of_lifeblood.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Vial de Sangre Vital](../assets/artifacts_major-vial_of_lifeblood.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/vial_of_lifeblood.md
