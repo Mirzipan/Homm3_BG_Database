@@ -359,63 +359,63 @@ msgstr "[Brazos de Legión](../artifacts/arms_of_legion.md)"
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Breastplate of Brimstone](../artifacts/breastplate_of_brimstone.md)"
-msgstr ""
+msgstr "[Peto de Azufre](../artifacts/breastplate_of_brimstone.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Cape of Velocity](../artifacts/cape_of_velocity.md)"
-msgstr ""
+msgstr "[Capa de Velocidad](../artifacts/cape_of_velocity.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Cards of Prophecy](../artifacts/cards_of_prophecy.md)"
-msgstr ""
+msgstr "[Cartas de la Profecía](../artifacts/cards_of_prophecy.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Dragon Scale Shield](../artifacts/dragon_scale_shield.md)"
-msgstr ""
+msgstr "[Escudo de Escamas de Dragón](../artifacts/dragon_scale_shield.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Endless Bag of Gold](../artifacts/endless_bag_of_gold.md)"
-msgstr ""
+msgstr "[Bolsa Interminable de Oro](../artifacts/endless_bag_of_gold.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Endless Purse of Gold](../artifacts/endless_purse_of_gold.md)"
-msgstr ""
+msgstr "[Monedero Interminable de Oro](../artifacts/endless_purse_of_gold.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Everflowing Crystal Cloak](../artifacts/everflowing_crystal_cloak.md)"
-msgstr ""
+msgstr "[Capa de Cristal Imperecedero](../artifacts/everflowing_crystal_cloak.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid ""
 "[Everpouring Vial of Mercury](../artifacts/everpouring_vial_of_mercury.md)"
-msgstr ""
+msgstr "[Vial de Mercurio Inacabable](../artifacts/everpouring_vial_of_mercury.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Golden Bow](../artifacts/golden_bow.md)"
-msgstr ""
+msgstr "[Arco Dorado](../artifacts/golden_bow.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Head of Legion](../artifacts/head_of_legion.md)"
-msgstr ""
+msgstr "[Cabeza de Legión](../artifacts/head_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Mystic Orb of Mana](../artifacts/mystic_orb_of_mana.md)"
-msgstr ""
+msgstr "[Orbe Místico de Maná](../artifacts/mystic_orb_of_mana.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Necklace of Dragonteeth](../artifacts/necklace_of_dragonteeth.md)"
-msgstr ""
+msgstr "[Collar de Dientes de Dragón](../artifacts/necklace_of_dragonteeth.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
@@ -425,7 +425,7 @@ msgstr "[Garrote Ogro de la Ruina](../artifacts/ogres_club_of_havoc.md)"
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Pendant of Courage](../artifacts/pendant_of_courage.md)"
-msgstr ""
+msgstr "[Medallón del Coraje](../artifacts/pendant_of_courage.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md

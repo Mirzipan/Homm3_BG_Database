@@ -574,7 +574,7 @@ msgstr "[Anillo de Azufre Inextinguible](eversmoking_ring_of_sulfur.md)"
 #: docs/artifacts/everpouring_vial_of_mercury.md
 #, no-wrap
 msgid "Everpouring Vial of Mercury"
-msgstr "Vial de Mercurio"
+msgstr "Vial de Mercurio Inacabable"
 
 #. type: Plain text
 #: docs/artifacts/everpouring_vial_of_mercury.md
@@ -582,7 +582,7 @@ msgid ""
 "![Everpouring Vial of Mercury](../assets/artifacts_major-"
 "everpouring_vial_of_mercury.webp){ width=\"340\" align=right }"
 msgstr ""
-"![Vial de Mercurio](../assets/artifacts_major-everpouring_vial_of_mercury."
+"![Vial de Mercurio Inacabable](../assets/artifacts_major-everpouring_vial_of_mercury."
 "webp){ width=\"340\" align=right }"
 
 #. type: Plain text
@@ -601,4 +601,4 @@ msgstr "<p style=\"text-align: center;\" markdown>*Tras una breve parada en una 
 #: docs/artifacts/everpouring_vial_of_mercury.md
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
 msgid "[Everflowing Crystal Cloak](everflowing_crystal_cloak.md)"
-msgstr "[Capa de Cristal Siempre Fluido](everflowing_crystal_cloak.md)"
+msgstr "[Capa de Cristal Imperecedero](everflowing_crystal_cloak.md)"

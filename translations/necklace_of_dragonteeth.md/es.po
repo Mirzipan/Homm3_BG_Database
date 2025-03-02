@@ -518,7 +518,7 @@ msgstr "[Dragon Scale Armor] (dragon_scale_armor.md)"
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Dragon Scale Shield](dragon_scale_shield.md)"
-msgstr "[Dragon Scale Shield] (dragon_scale_shield.md)"
+msgstr "[Escudo de Escamas de Dragón](dragon_scale_shield.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
@@ -559,7 +559,7 @@ msgstr ""
 #: docs/artifacts/necklace_of_dragonteeth.md
 #, no-wrap
 msgid "Necklace of Dragonteeth"
-msgstr "Collar de dragonteeth"
+msgstr "Collar de Dientes de Dragón"
 
 #. type: Plain text
 #: docs/artifacts/necklace_of_dragonteeth.md
@@ -567,6 +567,8 @@ msgid ""
 "![Necklace of Dragonteeth](../assets/player-deck-back.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Collar de Dientes de Dragón](../assets/player-deck-back.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/artifacts/necklace_of_dragonteeth.md

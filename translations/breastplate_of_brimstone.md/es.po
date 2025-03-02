@@ -504,7 +504,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/breastplate_of_brimstone.md
 #, no-wrap
 msgid "Breastplate of Brimstone"
-msgstr "Coraza de Azufre"
+msgstr "Peto de Azufre"
 
 #. type: Plain text
 #: docs/artifacts/breastplate_of_brimstone.md
@@ -512,7 +512,7 @@ msgid ""
 "![Breastplate of Brimstone](../assets/artifacts_major-"
 "breastplate_of_brimstone.webp){ width=\"340\" align=right }"
 msgstr ""
-"![Coraza de Azufre](../assets/artifacts_major-breastplate_of_brimstone.webp)"
+"![Peto de Azufre](../assets/artifacts_major-breastplate_of_brimstone.webp)"
 "{ width=\"340\" align=right }"
 
 #. type: Plain text

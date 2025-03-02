@@ -527,7 +527,7 @@ msgstr ""
 #: docs/artifacts/pendant_of_courage.md
 #, no-wrap
 msgid "Pendant of Courage"
-msgstr "Colgante de coraje"
+msgstr "Medallón del Coraje"
 
 #. type: Plain text
 #: docs/artifacts/pendant_of_courage.md
@@ -535,3 +535,5 @@ msgid ""
 "![Pendant of Courage](../assets/player-deck-back.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Medallón del Coraje](../assets/player-deck-back.webp){ width=\"340\" "
+"align=right }"

@@ -518,7 +518,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/cards_of_prophecy.md
 #, no-wrap
 msgid "Cards of Prophecy"
-msgstr "Cartas de Profecía"
+msgstr "Cartas de la Profecía"
 
 #. type: Plain text
 #: docs/artifacts/cards_of_prophecy.md
@@ -526,7 +526,7 @@ msgid ""
 "![Cards of Prophecy](../assets/artifacts_major-cards_of_prophecy.webp)"
 "{ width=\"340\" align=right }"
 msgstr ""
-"![Cartas de Profecía](../assets/artifacts_major-cards_of_prophecy.webp)"
+"![Cartas de la Profecía](../assets/artifacts_major-cards_of_prophecy.webp)"
 "{ width=\"340\" align=right }"
 
 #. type: Plain text

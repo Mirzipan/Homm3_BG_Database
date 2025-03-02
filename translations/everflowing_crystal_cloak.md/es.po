@@ -568,7 +568,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/everflowing_crystal_cloak.md
 #, no-wrap
 msgid "Everflowing Crystal Cloak"
-msgstr "Capa de Cristal Siempre Floreciente"
+msgstr "Capa de Cristal Imperecedero"
 
 #. type: Plain text
 #: docs/artifacts/everflowing_crystal_cloak.md
@@ -576,7 +576,7 @@ msgid ""
 "![Everflowing Crystal Cloak](../assets/artifacts_major-"
 "everflowing_crystal_cloak.webp){ width=\"340\" align=right }"
 msgstr ""
-"![Capa de Cristal Siempre Fluido](../assets/artifacts_major-"
+"![Capa de Cristal Imperecedero](../assets/artifacts_major-"
 "everflowing_crystal_cloak.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
@@ -595,7 +595,7 @@ msgstr "<p style=\"text-align: center;\" markdown>*Al refugiarte de una tormenta
 #: docs/artifacts/everflowing_crystal_cloak.md
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
 msgid "[Everpouring Vial of Mercury](everpouring_vial_of_mercury.md)"
-msgstr "[Vial de Mercurio](everpouring_vial_of_mercury.md)"
+msgstr "[Vial de Mercurio Inacabable](everpouring_vial_of_mercury.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/everflowing_crystal_cloak.md

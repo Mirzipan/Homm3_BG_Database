@@ -646,7 +646,7 @@ msgstr ""
 #: docs/artifacts/arms_of_legion.md docs/artifacts/legs_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/torso_of_legion.md
 msgid "[Head of Legion](head_of_legion.md)"
-msgstr "[Head of Legion] (head_of_legion.md)"
+msgstr "[Cabeza de Legión](head_of_legion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md docs/artifacts/head_of_legion.md

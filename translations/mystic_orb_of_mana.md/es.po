@@ -519,7 +519,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/mystic_orb_of_mana.md
 #, no-wrap
 msgid "Mystic Orb of Mana"
-msgstr ""
+msgstr "Orbe Místico de Maná"
 
 #. type: Plain text
 #: docs/artifacts/mystic_orb_of_mana.md
@@ -527,6 +527,8 @@ msgid ""
 "![Mystic Orb of Mana](../assets/artifacts_major-mystic_orb_of_mana.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Orbe Místico de Maná](../assets/artifacts_major-mystic_orb_of_mana.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/mystic_orb_of_mana.md
