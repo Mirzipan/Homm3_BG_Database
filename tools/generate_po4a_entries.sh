@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-EXCLUDE="\.pl\.md"
+EXCLUDE="\.(pl|es)\.md"
 
 temp_file=$(mktemp)
 trap 'rm -f -- "$temp_file"' EXIT

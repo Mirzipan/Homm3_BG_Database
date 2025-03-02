@@ -108,6 +108,26 @@ plugins:
             Towns: Miasta
             Units: Jednostki
             War machines: Machiny Wojenne
+        - locale: es
+          name: Español
+          build: true
+          nav_translations:
+            Home: Inicio
+            Abilities: Habilidades
+            Artifacts: Artefactos
+            Astrologers proclaim: Proclama de los Astrólogos
+            Content: Contenido
+            Events: Eventos
+            Fields: Zonas
+            Heroes: Héroes
+            Keywords: Palabras Clave
+            Scenarios: Escenarios
+            Spells: Hechizos
+            Statistics: Estadísticas
+            Tiles: Losetas
+            Towns: Ciudades
+            Units: Unidades
+            War machines: Máquinas de Guerra
         - locale: "null"
           name: Help translate
           build: false
