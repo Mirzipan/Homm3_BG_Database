@@ -318,13 +318,13 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
-msgid "Minor artifacts have a purple frame."
+msgid "Relic artifacts have a purple frame."
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid ""
-"[^1] When playing according to the tournament rules, minor artifacts may "
+"[^1] When playing according to the tournament rules, relic artifacts may "
 "only be obtained on Center (Ⅵ-Ⅶ) tiles."
 msgstr ""
 

@@ -422,7 +422,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Lugar Visitable](../keywords/
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 msgid "[List of Fields](index.md)"
-msgstr "[Lista de Lugares](index.md)"
+msgstr "[Lista de Zonas](index.md)"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -464,4 +464,4 @@ msgstr ""
 #: docs/fields/artifact.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>**Search(2)** the [Artifact](../artifacts/index.md) Deck</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>**Busca(2)** en el Mazo de [Artifacto](../artifacts/index.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>**Busca(2)** en el Mazo de [Artefacto](../artifacts/index.md)</p>\n"

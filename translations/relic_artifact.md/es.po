@@ -294,7 +294,7 @@ msgid ""
 "all game modes. The specific variant for the game mode is mentioned in the "
 "text."
 msgstr ""
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es "
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es "
 "válida para todos los modos de juego. La variante específica para el modo de "
 "juego se menciona en el texto."
 
