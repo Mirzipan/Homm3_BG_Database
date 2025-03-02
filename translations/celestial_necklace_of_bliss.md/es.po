@@ -481,7 +481,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Reliquia](../keywords/relic_a
 #: docs/artifacts/celestial_necklace_of_bliss.md
 #, no-wrap
 msgid "Celestial Necklace of Bliss"
-msgstr "Collar Celestial de la Dicha"
+msgstr "Colgante de la Dicha Celestial"
 
 #. type: Plain text
 #: docs/artifacts/celestial_necklace_of_bliss.md
@@ -489,7 +489,7 @@ msgid ""
 "![Celestial Necklace of Bliss](../assets/player-deck-back.webp)"
 "{ width=\"340\" align=right }"
 msgstr ""
-"![Collar Celestial de la Dicha](../assets/player-deck-back.webp)"
+"![Colgante de la Dicha Celestial](../assets/player-deck-back.webp)"
 "{ width=\"340\" align=right }"
 
 #. type: Plain text

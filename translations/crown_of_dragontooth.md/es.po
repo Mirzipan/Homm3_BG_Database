@@ -525,7 +525,7 @@ msgstr "<p style=\"text-align: center;\" markdown>*Tus tropas encuentran una cor
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Dragon Scale Armor](dragon_scale_armor.md)"
-msgstr "[Armadura de escamas de dragón](dragon_scale_armor.md)"
+msgstr "[Armadura de Escamas de Dragón](dragon_scale_armor.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md

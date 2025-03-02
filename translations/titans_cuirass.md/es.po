@@ -563,7 +563,7 @@ msgstr ""
 #: docs/artifacts/titans_cuirass.md
 #, no-wrap
 msgid "Titan's Cuirass"
-msgstr "Cirass de Titán"
+msgstr "Coraza del Titán"
 
 #. type: Plain text
 #: docs/artifacts/titans_cuirass.md
@@ -571,6 +571,8 @@ msgid ""
 "![Titan's Cuirass](../assets/artifacts_relic-titans_cuirass.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Coraza del Titán](../assets/artifacts_relic-titans_cuirass.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/titans_cuirass.md

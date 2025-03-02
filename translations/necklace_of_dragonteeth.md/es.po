@@ -510,7 +510,7 @@ msgstr ""
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Dragon Scale Armor](dragon_scale_armor.md)"
-msgstr "[Dragon Scale Armor] (dragon_scale_armor.md)"
+msgstr "[Armadura de Escamas de Dragón](dragon_scale_armor.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
@@ -541,7 +541,7 @@ msgstr "[Lengua Ígnea del Dragón Rojo](red_dragon_flame_tongue.md)"
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Crown of Dragontooth](crown_of_dragontooth.md)"
-msgstr "[Crown of DragonTooth] (Crown_of_dragonTooth.md)"
+msgstr "[Corona de Dientes de Dragón](crown_of_dragonTooth.md)"
 
 #. type: Plain text
 #: docs/artifacts/eversmoking_ring_of_sulfur.md

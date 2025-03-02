@@ -569,7 +569,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #, no-wrap
 msgid "Tunic of the Cyclops King"
-msgstr "Túnica del rey Cyclops"
+msgstr "Túnica del Rey Cíclope"
 
 #. type: Plain text
 #: docs/artifacts/tunic_of_the_cyclops_king.md
@@ -577,6 +577,8 @@ msgid ""
 "![Tunic of the Cyclops King](../assets/artifacts_major-"
 "tunic_of_the_cyclops_king.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Túnica del Rey Cíclope](../assets/artifacts_major-"
+"tunic_of_the_cyclops_king.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/tunic_of_the_cyclops_king.md

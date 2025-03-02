@@ -519,7 +519,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/pendant_of_second_sight.md
 #, no-wrap
 msgid "Pendant of Second Sight"
-msgstr "Colgante de la segunda vista"
+msgstr "Medallón de la Segunda Visión"
 
 #. type: Plain text
 #: docs/artifacts/pendant_of_second_sight.md
@@ -527,6 +527,8 @@ msgid ""
 "![Pendant of Second Sight](../assets/artifacts_major-"
 "pendant_of_second_sight.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Medallón de la Segunda Visión](../assets/artifacts_major-"
+"pendant_of_second_sight.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/pendant_of_second_sight.md

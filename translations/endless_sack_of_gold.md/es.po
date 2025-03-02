@@ -560,7 +560,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Reliquia](../keywor
 #: docs/artifacts/endless_sack_of_gold.md
 #, no-wrap
 msgid "Endless Sack of Gold"
-msgstr "Saco de Oro Interminable"
+msgstr "Saco Interminable de Oro"
 
 #. type: Plain text
 #: docs/artifacts/endless_sack_of_gold.md
@@ -568,7 +568,7 @@ msgid ""
 "![Endless Sack of Gold](../assets/artifacts_relic-endless_sack_of_gold.webp)"
 "{ width=\"340\" align=right }"
 msgstr ""
-"![Saco de Oro Interminable](../assets/artifacts_relic-endless_sack_of_gold."
+"![Saco Interminable de Oro](../assets/artifacts_relic-endless_sack_of_gold."
 "webp){ width=\"340\" align=right }"
 
 #. type: Plain text

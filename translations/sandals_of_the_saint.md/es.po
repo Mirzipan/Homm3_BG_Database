@@ -514,7 +514,7 @@ msgstr ""
 #: docs/artifacts/sandals_of_the_saint.md
 #, no-wrap
 msgid "Sandals of the Saint"
-msgstr ""
+msgstr "Sandalias del Santo"
 
 #. type: Plain text
 #: docs/artifacts/sandals_of_the_saint.md
@@ -522,6 +522,8 @@ msgid ""
 "![Sandals of the Saint](../assets/player-deck-back.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Sandalias del Santo](../assets/player-deck-back.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/artifacts/sandals_of_the_saint.md

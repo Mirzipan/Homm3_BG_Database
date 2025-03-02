@@ -513,7 +513,7 @@ msgstr ""
 #: docs/artifacts/orb_of_inhibition.md
 #, no-wrap
 msgid "Orb of Inhibition"
-msgstr "Orbe de inhibición"
+msgstr "Orbe de Inhibición"
 
 #. type: Plain text
 #: docs/artifacts/orb_of_inhibition.md
@@ -521,6 +521,8 @@ msgid ""
 "![Orb of Inhibition](../assets/artifacts_relic-orb_of_inhibition.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Orbe de Inhibición](../assets/artifacts_relic-orb_of_inhibition.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/orb_of_inhibition.md

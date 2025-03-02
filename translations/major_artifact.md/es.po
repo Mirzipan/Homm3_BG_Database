@@ -430,22 +430,22 @@ msgstr "[Medallón del Coraje](../artifacts/pendant_of_courage.md)"
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Pendant of Negativity](../artifacts/pendant_of_negativity.md)"
-msgstr ""
+msgstr "[Medallón de la Negatividad](../artifacts/pendant_of_negativity.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Pendant of Second Sight](../artifacts/pendant_of_second_sight.md)"
-msgstr ""
+msgstr "[Medallón de la Segunda Visión](../artifacts/pendant_of_second_sight.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Recanter's Cloak](../artifacts/recanters_cloak.md)"
-msgstr ""
+msgstr "[Capa de las Retractaciones](../artifacts/recanters_cloak.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Shackles of War](../artifacts/shackles_of_war.md)"
-msgstr ""
+msgstr "[Grilletes de Guerra](../artifacts/shackles_of_war.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
@@ -455,7 +455,7 @@ msgstr "[Escudo de los Condenados](../artifacts/shield_of_the_damned.md)"
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Surcoat of Counterpoise](../artifacts/surcoat_of_counterpoise.md)"
-msgstr ""
+msgstr "[Hombreras de Contrapeso](../artifacts/surcoat_of_counterpoise.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
@@ -472,7 +472,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
 msgid "[Tunic of the Cyclops King](../artifacts/tunic_of_the_cyclops_king.md)"
-msgstr ""
+msgstr "[Túnica del Rey Cíclope](../artifacts/tunic_of_the_cyclops_king.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md

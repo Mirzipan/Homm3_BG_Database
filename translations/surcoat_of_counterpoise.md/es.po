@@ -519,7 +519,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/surcoat_of_counterpoise.md
 #, no-wrap
 msgid "Surcoat of Counterpoise"
-msgstr "Surcoat de contrapeso"
+msgstr "Hombreras de Contrapeso"
 
 #. type: Plain text
 #: docs/artifacts/surcoat_of_counterpoise.md
@@ -527,6 +527,8 @@ msgid ""
 "![Surcoat of Counterpoise](../assets/artifacts_major-"
 "surcoat_of_counterpoise.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Hombreras de Contrapeso](../assets/artifacts_major-"
+"surcoat_of_counterpoise.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/surcoat_of_counterpoise.md

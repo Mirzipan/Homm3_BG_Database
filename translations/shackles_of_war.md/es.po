@@ -569,7 +569,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/shackles_of_war.md
 #, no-wrap
 msgid "Shackles of War"
-msgstr "Grilletes de guerra"
+msgstr "Grilletes de Guerra"
 
 #. type: Plain text
 #: docs/artifacts/shackles_of_war.md
@@ -577,6 +577,8 @@ msgid ""
 "![Shackles of War](../assets/artifacts_major-shackles_of_war.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Grilletes de Guerra](../assets/artifacts_major-shackles_of_war.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/shackles_of_war.md
@@ -596,3 +598,6 @@ msgid ""
 "ancient walled city, you find the instrument of the city's destruction, the "
 "elaborately crafted Shackles of War.*</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>*Walking through the ruins of an "
+"ancient walled city, you find the instrument of the city's destruction, the "
+"elaborately crafted Grilletes de Guerra.*</p>\n"

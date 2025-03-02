@@ -354,28 +354,29 @@ msgstr "[Alas de Ángel](../artifacts/angel_wings.md)"
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Boots of Polarity](../artifacts/boots_of_polarity.md)"
-msgstr ""
+msgstr "[Botas de Polaridad](../artifacts/boots_of_polarity.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid ""
 "[Celestial Necklace of Bliss](../artifacts/celestial_necklace_of_bliss.md)"
 msgstr ""
+"[Colgante de la Dicha Celestial](../artifacts/celestial_necklace_of_bliss.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Crown of Dragontooth](../artifacts/crown_of_dragontooth.md)"
-msgstr ""
+msgstr "[Corona de Dientes de Dragón](../artifacts/crown_of_dragontooth.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Dragon Scale Armor](../artifacts/dragon_scale_armor.md)"
-msgstr ""
+msgstr "[Armadura de Escamas de Dragón](../artifacts/dragon_scale_armor.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Endless Sack of Gold](../artifacts/endless_sack_of_gold.md)"
-msgstr ""
+msgstr "[Saco Interminable de Oro](../artifacts/endless_sack_of_gold.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
@@ -387,22 +388,22 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Lion's Shield of Courage](../artifacts/lions_shield_of_courage.md)"
-msgstr ""
+msgstr "[Escudo de Coraje del León](../artifacts/lions_shield_of_courage.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Orb of Inhibition](../artifacts/orb_of_inhibition.md)"
-msgstr ""
+msgstr "[Orbe de Inhibición](../artifacts/orb_of_inhibition.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Orb of Vulnerability](../artifacts/orb_of_vulnerability.md)"
-msgstr ""
+msgstr "[Orbe de Vulnerabilidad](../artifacts/orb_of_vulnerability.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Sandals of the Saint](../artifacts/sandals_of_the_saint.md)"
-msgstr ""
+msgstr "[Sandalias del Santo](../artifacts/sandals_of_the_saint.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
@@ -412,17 +413,17 @@ msgstr "[Escudo del Centinela](../artifacts/sentinels_shield.md)"
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Spellbinder's Hat](../artifacts/spellbinders_hat.md)"
-msgstr ""
+msgstr "[Sombrero del Encantador](../artifacts/spellbinders_hat.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Sword of Judgement](../artifacts/sword_of_judgement.md)"
-msgstr ""
+msgstr "[Espada del Juicio](../artifacts/sword_of_judgement.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md
 msgid "[Titan's Cuirass](../artifacts/titans_cuirass.md)"
-msgstr ""
+msgstr "[Coraza del Titán](../artifacts/titans_cuirass.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md

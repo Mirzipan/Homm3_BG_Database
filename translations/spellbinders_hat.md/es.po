@@ -574,7 +574,7 @@ msgstr ""
 #: docs/artifacts/spellbinders_hat.md
 #, no-wrap
 msgid "Spellbinder's Hat"
-msgstr "Spellbinder's Hat"
+msgstr "Sombrero del Encantador"
 
 #. type: Plain text
 #: docs/artifacts/spellbinders_hat.md
@@ -582,6 +582,8 @@ msgid ""
 "![Spellbinder's Hat](../assets/artifacts_relic-spellbinders_hat.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Sombrero del Encantador](../assets/artifacts_relic-spellbinders_hat.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/spellbinders_hat.md
@@ -619,7 +621,7 @@ msgid ""
 "Spellbinder's Hat."
 msgstr ""
 "[^1] Con el segundo efecto, cualquier carta puede eliminarse junto con el "
-"sombrero de hechizo."
+"Sombrero del Encantador."
 
 #. type: Link reference
 #: docs/artifacts/spellbinders_hat.md docs/astrologers_proclaim/explorers.md

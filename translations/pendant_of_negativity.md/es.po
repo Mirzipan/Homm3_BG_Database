@@ -520,7 +520,7 @@ msgstr ""
 #: docs/artifacts/pendant_of_negativity.md
 #, no-wrap
 msgid "Pendant of Negativity"
-msgstr "Colgante de negatividad"
+msgstr "Medallón de la Negatividad"
 
 #. type: Plain text
 #: docs/artifacts/pendant_of_negativity.md
@@ -528,6 +528,8 @@ msgid ""
 "![Pendant of Negativity](../assets/player-deck-back.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Medallón de la Negatividad](../assets/player-deck-back.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/artifacts/pendant_of_negativity.md

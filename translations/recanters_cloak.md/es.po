@@ -523,7 +523,7 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/recanters_cloak.md
 #, no-wrap
 msgid "Recanter's Cloak"
-msgstr "Capa de receptor"
+msgstr "Capa de las Retractaciones"
 
 #. type: Plain text
 #: docs/artifacts/recanters_cloak.md
@@ -531,6 +531,8 @@ msgid ""
 "![Recanter's Cloak](../assets/artifacts_major-recanters_cloak.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Capa de las Retractaciones](../assets/artifacts_major-recanters_cloak.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/recanters_cloak.md

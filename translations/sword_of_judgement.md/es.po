@@ -563,7 +563,7 @@ msgstr ""
 #: docs/artifacts/sword_of_judgement.md
 #, no-wrap
 msgid "Sword of Judgement"
-msgstr "Espada de juicio"
+msgstr "Espada del Juicio"
 
 #. type: Plain text
 #: docs/artifacts/sword_of_judgement.md
@@ -571,6 +571,8 @@ msgid ""
 "![Sword of Judgement](../assets/artifacts_relic-sword_of_judgement.webp){ "
 "width=\"340\" align=right }"
 msgstr ""
+"![Espada del Juicio](../assets/artifacts_relic-sword_of_judgement.webp){ "
+"width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/sword_of_judgement.md
