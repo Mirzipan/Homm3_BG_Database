@@ -419,7 +419,7 @@ msgid ""
 "| [Sword of Judgement](sword_of_judgement.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Discard X cards from hand to gain +X :attack:.<br><br>— OR —<br><br>:instant: Discard X cards from hand to gain +X :defense:. | [Core Game](../content/core_game.md) |\n"
 "| [Titan's Cuirass](titans_cuirass.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Discard 1 card to gain +4 :empower:.<br><br>— OR —<br><br>:instant: +2 :empower:. | [Core Game](../content/core_game.md) |\n"
 "| [Titan's Gladius](titans_gladius.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Discard 1 card to gain +3 :attack:.<br><br>— OR —<br><br>:instant: +2 :attack: | [Core Game](../content/core_game.md) |\n"
-"| [Vial of Lifeblood](vial_of_lifeblood.md) | [Major Artifact](../keywords/major_artifact.md) | 🚧 | [Core Game](../content/core_game.md) |\n"
+"| [Vial of Lifeblood](vial_of_lifeblood.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: Remove up to 3 :damage: from one of your units.<br><br>— OR —<br><br>:ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :health_points:. | [Core Game](../content/core_game.md) |\n"
 msgstr ""
 "| Nombre | Cualidad | Efecto | [Contenido](../content/index.md) |\n"
 "| :--- | :---: | :---: | :--- |\n"
@@ -494,7 +494,7 @@ msgstr ""
 "| [Espada del Juicio](sword_of_judgement.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Discard X cards from hand to gain +X :attack:.<br><br>— OR —<br><br>:instant: Discard X cards from hand to gain +X :defense:. | [Juego Base](../content/core_game.md) |\n"
 "| [Coraza del Titán](titans_cuirass.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Discard 1 card to gain +4 :empower:.<br><br>— OR —<br><br>:instant: +2 :empower:. | [Juego Base](../content/core_game.md) |\n"
 "| [Gladius del Titán](titans_gladius.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Discard 1 card to gain +3 :attack:.<br><br>— OR —<br><br>:instant: +2 :attack: | [Juego Base](../content/core_game.md) |\n"
-"| [Vial de Sangre Vital](vial_of_lifeblood.md) | [Major Artifact](../keywords/major_artifact.md) | 🚧 | [Core Game](../content/core_game.md) |\n"
+"| [Vial de Sangre Vital](vial_of_lifeblood.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: Remove up to 3 :damage: from one of your units.<br><br>— OR —<br><br>:ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :health_points:. | [Core Game](../content/core_game.md) |\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
