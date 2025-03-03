@@ -666,6 +666,8 @@ msgid ""
 "![Magic Tortoise](../assets/astrologers_proclaim-magic_tortoise.webp){ "
 "width=\"475\" align=right }"
 msgstr ""
+"![Tortuga Mágica](../assets/astrologers_proclaim-magic_tortoise.webp){ "
+"width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/magic_tortoise.md
@@ -674,6 +676,8 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>Until the next Astrologer's "
 "round:<br><br>Each [Hero](../heroes/index.md) suffers -1 Movement.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>Until the next Astrologer's "
+"round:<br><br>Each [Héroe](../heroes/index.md) suffers -1 Movement.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/magic_tortoise.md

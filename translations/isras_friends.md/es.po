@@ -677,6 +677,8 @@ msgid ""
 "![Isra's Friends](../assets/astrologers_proclaim-isras_friends.webp){ "
 "width=\"475\" align=right }"
 msgstr ""
+"![Amigos de Isra](../assets/astrologers_proclaim-isras_friends.webp){ "
+"width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/isras_friends.md

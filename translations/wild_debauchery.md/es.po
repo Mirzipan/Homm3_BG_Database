@@ -658,6 +658,8 @@ msgid ""
 "![Wild Debauchery](../assets/astrologers_proclaim-wild_debauchery.webp){ "
 "width=\"475\" align=right }"
 msgstr ""
+"![Libertinaje Salvaje](../assets/astrologers_proclaim-wild_debauchery.webp){ "
+"width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/wild_debauchery.md

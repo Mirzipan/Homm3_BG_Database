@@ -544,6 +544,11 @@ msgid ""
 "[Hero](../heroes/index.md) can use Spells. Remove this card after "
 "Combat.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:ongoing: During this Combat, no "
+"[Héroe](../heroes/index.md) can use [spell](../spells/index.md)s with Power "
+"\"0\".<br><br>— OR —<br><br> :ongoing: During this Combat, no "
+"[Héroe](../heroes/index.md) can use Spells. Remove this card after "
+"Combat.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/recanters_cloak.md

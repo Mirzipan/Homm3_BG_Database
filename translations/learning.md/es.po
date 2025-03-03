@@ -524,6 +524,6 @@ msgstr ""
 #, no-wrap
 msgid ""
 "<p style=\"text-align: center;\" markdown>:instant: Play when the "
-"[Hero](../heroes/index.md) is about to level up. Advance their Experience "
+"[Héroe](../heroes/index.md) is about to level up. Advance their Experience "
 "Level by an additional level, then Remove this card.</p>\n"
 msgstr ""

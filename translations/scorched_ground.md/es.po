@@ -626,6 +626,8 @@ msgid ""
 "![Scorched Ground](../assets/astrologers_proclaim-scorched_ground.webp){ "
 "width=\"475\" align=right }"
 msgstr ""
+"![Tierra Quemada](../assets/astrologers_proclaim-scorched_ground.webp){ "
+"width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/scorched_ground.md

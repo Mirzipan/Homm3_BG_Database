@@ -756,6 +756,8 @@ msgid ""
 "![Unexpected Reinforcements](../assets/astrologers_proclaim-"
 "unexpected_reinforcements.webp){ width=\"475\" align=right }"
 msgstr ""
+"![Refuerzos Inesperados](../assets/astrologers_proclaim-"
+"unexpected_reinforcements.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/unexpected_reinforcements.md

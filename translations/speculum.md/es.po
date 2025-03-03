@@ -595,6 +595,10 @@ msgid ""
 "on..<br><br>— OR —<br><br>:instant: Remove this card, then draw 1 "
 "card.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:instant: Discover any Map tile "
+"adjacent to the Map tile your [Héroe](../heroes/index.md) is currently "
+"on..<br><br>— OR —<br><br>:instant: Remove this card, then draw 1 "
+"card.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/speculum.md

@@ -589,6 +589,10 @@ msgid ""
 "Surrender.<br><br>— OR —<br><br>:instant: Draw 2 cards, choose 1 card and "
 "discard the other.</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:instant: If played at the start "
+"of Combat, the Enemy [Héroe](../heroes/index.md) can neither Retreat nor "
+"Surrender.<br><br>— OR —<br><br>:instant: Draw 2 cards, choose 1 card and "
+"discard the other.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/shackles_of_war.md

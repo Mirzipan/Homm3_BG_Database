@@ -768,7 +768,7 @@ msgid ""
 "![Fancy Pixie](../assets/astrologers_proclaim-fancy_pixie.webp)"
 "{ width=\"475\" align=right }"
 msgstr ""
-"![Duendecillo](../assets/astrologers_proclaim-fancy_pixie.webp)"
+"![Duendecillo Elegante](../assets/astrologers_proclaim-fancy_pixie.webp)"
 "{ width=\"475\" align=right }"
 
 #. type: Plain text

@@ -673,7 +673,7 @@ msgid ""
 "![Explorers](../assets/astrologers_proclaim-explorers.webp){ width=\"475\" "
 "align=right }"
 msgstr ""
-"![Exploradoras](../assets/astrologers_proclaim-explorers.webp)"
+"![Exploradores](../assets/astrologers_proclaim-explorers.webp)"
 "{ width=\"475\" align=right }"
 
 #. type: Plain text

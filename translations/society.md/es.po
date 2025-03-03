@@ -609,6 +609,8 @@ msgid ""
 "![Society](../assets/astrologers_proclaim-society.webp){ width=\"475\" "
 "align=right }"
 msgstr ""
+"![Sociedad](../assets/astrologers_proclaim-society.webp){ width=\"475\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/society.md
