@@ -483,7 +483,7 @@ msgstr "[Lista de Ciudades](../towns/index.md)"
 #: docs/units/sprites.md docs/units/storm_elementals.md
 #: docs/units/water_elementals.md
 msgid "[Conflux Expansion](../content/conflux_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Conflujo](../content/conflux_expansion.md)"
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -668,7 +668,7 @@ msgid ""
 "| :health_points: | 7 | **9** | 🚧 |\n"
 "| :initiative: | 12 | **18** | 🚧 |\n"
 "| Cost | 21 :gold:<br>1 :valuables: | 27 :gold:<br>2 :valuables: | 🚧 |\n"
-"| Abilities | :unit_passive: Once per Combat. When this unit's :health_points: drops to 0, set it to 1 instead. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | 🚧 |\n"
+"| Abilities | :unit_passive: Once per Combat. When this unit's :health_points: drops to 0, set it to 1 instead. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. :unit_passive: Immune to [Magia Ígnea](../spells/school_of_fire_magic.md) :spell:. | 🚧 |\n"
 msgstr ""
 "| Estadísticas | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
@@ -680,4 +680,4 @@ msgstr ""
 "| :health_points: | 7 | **9** | 🚧 |\n"
 "| :initiative: | 12 | **18** | 🚧 |\n"
 "| Cost | 21 :gold:<br>1 :valuables: | 27 :gold:<br>2 :valuables: | 🚧 |\n"
-"| Abilities | :unit_passive: Once per Combat. When this unit's :health_points: drops to 0, set it to 1 instead. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | 🚧 |\n"
+"| Abilities | :unit_passive: Once per Combat. When this unit's :health_points: drops to 0, set it to 1 instead. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. :unit_passive: Immune to [Magia Ígnea](../spells/school_of_fire_magic.md) :spell:. | 🚧 |\n"

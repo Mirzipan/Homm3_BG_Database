@@ -553,6 +553,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Logistics](../abilities/logistics.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Logística](../abilities/logistics.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/erdamon.md docs/heroes/monere.md docs/heroes/pasis.md
@@ -582,7 +584,7 @@ msgstr ""
 #: docs/units/sprites.md docs/units/storm_elementals.md
 #: docs/units/water_elementals.md
 msgid "[Conflux Expansion](../content/conflux_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Conflujo](../content/conflux_expansion.md)"
 
 #. type: Title #
 #: docs/heroes/monere.md

@@ -521,6 +521,7 @@ msgstr "Exploración"
 msgid ""
 "![Scouting](../assets/abilities-scouting.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Exploración](../assets/abilities-scouting.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/abilities/scouting.md

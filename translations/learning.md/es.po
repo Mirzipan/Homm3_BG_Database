@@ -508,6 +508,7 @@ msgstr "Aprendizaje"
 msgid ""
 "![Learning](../assets/abilities-learning.webp){ width=\"340\" align=right }"
 msgstr ""
+"![Aprendizaje](../assets/abilities-learning.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/abilities/learning.md

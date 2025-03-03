@@ -486,7 +486,7 @@ msgstr "Ver También"
 #: docs/heroes/rion.md docs/heroes/sandro.md docs/towns/necropolis.md
 #: docs/towns/dungeon.md docs/towns/castle.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr "[Juego Base](../content/core_game.md)"
+msgstr "[Juego Principal](../content/core_game.md)"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md

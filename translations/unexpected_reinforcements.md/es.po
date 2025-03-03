@@ -767,6 +767,11 @@ msgid ""
 "corresponding [dwelling](../towns/index.md) built in their "
 "[town](../towns/index.md).</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>Each player can immediately search"
+" the [Unidades Neutrales](../units/index.md) deck and **Recruit** 1 chosen unit "
+"associated with their faction for free. Each player still needs to have the "
+"corresponding [dwelling](../towns/index.md) built in their "
+"[town](../towns/index.md).</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/unexpected_reinforcements.md

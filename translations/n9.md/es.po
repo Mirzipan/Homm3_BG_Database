@@ -630,4 +630,4 @@ msgstr "texto"
 #. type: Bullet: '- '
 #: docs/tiles/n9.md
 msgid "[Ⅳ](../difficulties.md) [Scholar](../fields/scholar.md)"
-msgstr "[Ⅳ](../difficulties.md) [Erudito](../fields/scholar.md)"
+msgstr "[Ⅳ](../difficulties.md) [Erudición](../fields/scholar.md)"

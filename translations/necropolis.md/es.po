@@ -484,7 +484,7 @@ msgstr "Ver También"
 #: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr "[Juego Base](../content/core_game.md)"
+msgstr "[Juego Principal](../content/core_game.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -689,7 +689,7 @@ msgstr ""
 "| Old Cemetery | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |\n"
 "| Mausoleum Domain | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |\n"
 "| Vaults of Darkness | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |\n"
-"| Necromancy Amplifier | 7 :gold:<br>3 :building_materials:<br>1 :valuables: | At the beginning of your turn, choose one:<br><br>**1.** Search the [Habilidad](../abilities/index.md) card deck for a [Necromancy](../abilities/index.md) card and put it in your hand.<br><br>**2.** Take 1 [Specialty](#heroes) card from your discard pile to your hand. |\n"
+"| Necromancy Amplifier | 7 :gold:<br>3 :building_materials:<br>1 :valuables: | At the beginning of your turn, choose one:<br><br>**1.** Search the [Habilidad](../abilities/index.md) card deck for a [Nigromancia](../abilities/index.md) card and put it in your hand.<br><br>**2.** Take 1 [Specialty](#heroes) card from your discard pile to your hand. |\n"
 "| Cover of Darkness | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | During your turn, choose one:<br><br>**1.** Discard up to 2 Might and Magic cards to draw that many cards.<br><br>**2.** At the beginning of Combat with an Enemy [Hero](../heroes/index.md), discard 1 random card from the enemy's hand. |\n"
 
 #. type: Bullet: '- '
@@ -731,4 +731,4 @@ msgstr "Talento"
 #. type: Bullet: '- '
 #: docs/towns/necropolis.md
 msgid ":necro: [Necromancy](../abilities/necromancy.md)"
-msgstr ""
+msgstr ":necro: [Nigromancia](../abilities/necromancy.md)"

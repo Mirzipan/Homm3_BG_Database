@@ -268,7 +268,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/content/rampart_expansion.md
 msgid "[Rampart Faction](../towns/rampart.md)"
-msgstr ""
+msgstr "[Facción Muralla](../towns/rampart.md)"
 
 #. type: Bullet: '- '
 #: docs/content/rampart_expansion.md

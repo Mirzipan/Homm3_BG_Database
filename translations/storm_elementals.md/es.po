@@ -483,7 +483,7 @@ msgstr "[Lista de Ciudades](../towns/index.md)"
 #: docs/units/sprites.md docs/units/storm_elementals.md
 #: docs/units/water_elementals.md
 msgid "[Conflux Expansion](../content/conflux_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Conflujo](../content/conflux_expansion.md)"
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md
@@ -680,4 +680,4 @@ msgstr ""
 "| :health_points: | 3 | **5** | 🚧 |\n"
 "| :initiative: | 7 | **8** | 🚧 |\n"
 "| Cost | 3 :gold: | 5 :gold: | 🚧 |\n"
-"| Abilities | - | :activation: Add +1 :empower: to the first [Air Magic](../spells/school_of_air_magic.md) spell you cast during this Activation. | 🚧 |\n"
+"| Abilities | - | :activation: Add +1 :empower: to the first [Magia Aérea](../spells/school_of_air_magic.md) spell you cast during this Activation. | 🚧 |\n"

@@ -262,6 +262,9 @@ msgid ""
 "\t![Regular Stretch Goals 2024](../assets/content-regular_stretch_goals-box.webp){ width=540 align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"\t![Metas Ampliadas Regulares 2024](../assets/content-regular_stretch_goals-box.webp){ width=540 align=right }\n"
+"</figure>\n"
 
 #. type: Bullet: '- '
 #: docs/content/regular_stretch_goals.md
@@ -271,7 +274,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/content/regular_stretch_goals.md docs/content/tower_expansion.md
 msgid "[Neutral Units](../towns/neutral.md)"
-msgstr ""
+msgstr "[Unidades Neutrales](../towns/neutral.md)"
 
 #. type: Bullet: '- '
 #: docs/content/regular_stretch_goals.md

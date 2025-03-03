@@ -246,7 +246,7 @@ msgstr "Héroes con Habilidad de Inicio"
 #: docs/units/manticores.md docs/units/marksmen.md docs/units/medusas.md docs/units/minotaurs.md docs/units/mummies.md docs/units/nomads.md docs/units/peasants.md docs/units/rogues.md
 #: docs/units/sharpshooters.md docs/units/skeletons.md docs/units/troglodytes.md docs/units/trolls.md docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr "[Juego Base](../content/core_game.md)"
+msgstr "[Juego Principal](../content/core_game.md)"
 
 #. type: Title #
 #: docs/abilities/diplomacy.md

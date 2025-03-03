@@ -307,9 +307,9 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/content/stronghold_expansion.md
 msgid "[Stronghold Faction](../towns/stronghold.md)"
-msgstr ""
+msgstr "[Facción Bastión](../towns/stronghold.md)"
 
 #. type: Bullet: '- '
 #: docs/content/stronghold_expansion.md
 msgid "[Underground Tiles](../tiles/index.md)"
-msgstr ""
+msgstr "[Losetas Subterráneas](../tiles/index.md)"

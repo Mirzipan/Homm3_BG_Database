@@ -665,6 +665,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Sorcery](../abilities/sorcery.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Hechicería](../abilities/sorcery.md)</p>\n"
 
 #. type: Title #
 #: docs/heroes/solmyr.md

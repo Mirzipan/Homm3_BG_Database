@@ -424,7 +424,7 @@ msgstr "Ver También"
 #: docs/spells/air_shield.md docs/spells/sacrifice.md docs/units/fangarm.md
 #: docs/units/leprechaun.md docs/units/satyrs.md docs/units/steel_golems.md
 msgid "[Regular Stretch Goals 2024](../content/regular_stretch_goals.md)"
-msgstr ""
+msgstr "[Metas Ampliadas Regulares 2024](../content/regular_stretch_goals.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md

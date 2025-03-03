@@ -548,7 +548,7 @@ msgstr "Ver También"
 #: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr "[Juego Base](../content/core_game.md)"
+msgstr "[Juego Principal](../content/core_game.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/necromancy.md docs/tiles/s1.md

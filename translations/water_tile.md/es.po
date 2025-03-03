@@ -548,7 +548,7 @@ msgstr "[Expansión de Ensenada](../content/cove_expansion.md)"
 #: docs/keywords/near_tile.md docs/keywords/underground_tile.md
 #: docs/keywords/water_tile.md
 msgid "[Starting Tile](starting_tile.md)"
-msgstr "[Tíle de inicio] (starting_tile.md)"
+msgstr "[Loseta Inicial](starting_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/near_tile.md

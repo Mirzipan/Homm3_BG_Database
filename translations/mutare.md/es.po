@@ -485,7 +485,7 @@ msgstr "Ver También"
 #: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr "[Juego Base](../content/core_game.md)"
+msgstr "[Juego Principal](../content/core_game.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -635,6 +635,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Tactics](../abilities/tactics.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Táctica](../abilities/tactics.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/catherine.md docs/heroes/fiona.md

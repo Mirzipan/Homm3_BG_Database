@@ -428,7 +428,7 @@ msgstr "Ver También"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr "[Expansión de Murallas](../content/rampart_expansion.md)"
+msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md

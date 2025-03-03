@@ -244,7 +244,7 @@ msgstr "[Lista de Contenido] (index.md)"
 #. type: Bullet: '- '
 #: docs/content/regular_stretch_goals.md docs/content/tower_expansion.md
 msgid "[Neutral Units](../towns/neutral.md)"
-msgstr ""
+msgstr "[Unidades Neutrales](../towns/neutral.md)"
 
 #. type: Title #
 #: docs/content/tower_expansion.md

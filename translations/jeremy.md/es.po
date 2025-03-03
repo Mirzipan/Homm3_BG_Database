@@ -660,6 +660,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Offense](../abilities/offense.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Ofensiva](../abilities/offense.md)</p>\n"
 
 #. type: Title #
 #: docs/heroes/jeremy.md

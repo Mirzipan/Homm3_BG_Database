@@ -558,7 +558,7 @@ msgstr "Héroes con Habilidad de Inicio"
 #: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr "[Juego Base](../content/core_game.md)"
+msgstr "[Juego Principal](../content/core_game.md)"
 
 #. type: Title #
 #: docs/abilities/tactics.md
@@ -569,7 +569,7 @@ msgstr "Táctica"
 #. type: Plain text
 #: docs/abilities/tactics.md
 msgid "![Tactics](../assets/abilities-tactics.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Táctica](../assets/abilities-tactics.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/abilities/tactics.md

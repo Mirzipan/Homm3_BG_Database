@@ -486,7 +486,7 @@ msgstr "Ver También"
 #: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr "[Juego Base](../content/core_game.md)"
+msgstr "[Juego Principal](../content/core_game.md)"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -681,7 +681,7 @@ msgstr ""
 #: docs/astrologers_proclaim/groovy_satyr.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round:<br><br>Whenever you trigger Combat with any [Neutral Units](../units/index.md), you may choose a [Neutral Unit](../units/index.md) card to discard and draw another card of the same tier instead.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos:<br><br>Siempre que desencadenes un Combate con cualquier [Unidad Neutral](../units/index.md), puedes elegir una carta de [Unidad Neutral](../units/index.md) para descartarla y robar otra carta del mismo nivel en su lugar.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos:<br><br>Siempre que desencadenes un Combate con cualesquiera [Unidades Neutrales](../units/index.md), puedes elegir una carta de [Unidades Neutrales](../units/index.md) para descartarla y robar otra carta del mismo nivel en su lugar.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/groovy_satyr.md

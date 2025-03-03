@@ -493,6 +493,8 @@ msgid ""
 "![Interference](../assets/player-deck-back.webp){ width=\"340\" align=right "
 "}"
 msgstr ""
+"![Interferencia](../assets/player-deck-back.webp){ width=\"340\" align=right "
+"}"
 
 #. type: Plain text
 #: docs/abilities/interference.md docs/artifacts/necklace_of_swiftness.md

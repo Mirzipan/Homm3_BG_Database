@@ -618,7 +618,7 @@ msgstr "Héroes con Habilidad de Inicio"
 #: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
 #: docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
-msgstr "[Juego Base](../content/core_game.md)"
+msgstr "[Juego Principal](../content/core_game.md)"
 
 #. type: Title #
 #: docs/abilities/sorcery.md
@@ -629,7 +629,7 @@ msgstr "Hechicería"
 #. type: Plain text
 #: docs/abilities/sorcery.md
 msgid "![Sorcery](../assets/abilities-sorcery.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Hechicería](../assets/abilities-sorcery.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/abilities/sorcery.md

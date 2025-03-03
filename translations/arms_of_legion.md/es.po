@@ -636,6 +636,8 @@ msgid ""
 "The recruitment discount may be played in combination with cards that allow "
 "recruitment (e.g. [Necromancy](../abilities/necromancy.md))."
 msgstr ""
+"The recruitment discount may be played in combination with cards that allow "
+"recruitment (e.g. [Nigromancia](../abilities/necromancy.md))."
 
 #. type: Bullet: '- '
 #: docs/artifacts/arms_of_legion.md

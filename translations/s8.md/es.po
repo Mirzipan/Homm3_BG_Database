@@ -501,7 +501,7 @@ msgstr "Lugares"
 #: docs/units/phoenixes.md docs/units/sprites.md
 #: docs/units/storm_elementals.md docs/units/water_elementals.md
 msgid "[Conflux Expansion](../content/conflux_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Conflujo](../content/conflux_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/fx2.md docs/tiles/s1.md

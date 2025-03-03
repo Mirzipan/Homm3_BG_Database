@@ -623,6 +623,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Scouting](../abilities/scouting.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Exploración](../abilities/scouting.md)</p>\n"
 
 #. type: Title ##
 #: docs/heroes/ivor.md docs/heroes/jeddite.md

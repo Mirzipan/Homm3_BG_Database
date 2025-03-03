@@ -527,7 +527,7 @@ msgstr "[Escudo del Muerto Bostezante](shield_of_the_yawning_dead.md)"
 #: docs/spells/air_shield.md docs/spells/sacrifice.md docs/units/fangarm.md
 #: docs/units/leprechaun.md docs/units/satyrs.md docs/units/steel_golems.md
 msgid "[Regular Stretch Goals 2024](../content/regular_stretch_goals.md)"
-msgstr ""
+msgstr "[Metas Ampliadas Regulares 2024](../content/regular_stretch_goals.md)"
 
 #. type: Plain text
 #: docs/artifacts/eversmoking_ring_of_sulfur.md

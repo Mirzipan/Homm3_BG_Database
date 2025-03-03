@@ -268,7 +268,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/content/inferno_expansion.md
 msgid "[Inferno Faction](../towns/inferno.md)"
-msgstr ""
+msgstr "[Facción Infierno](../towns/inferno.md)"
 
 #. type: Bullet: '- '
 #: docs/content/inferno_expansion.md

@@ -494,7 +494,7 @@ msgstr "Ver También"
 #: docs/units/fangarm.md docs/units/leprechaun.md docs/units/satyrs.md
 #: docs/units/steel_golems.md
 msgid "[Regular Stretch Goals 2024](../content/regular_stretch_goals.md)"
-msgstr ""
+msgstr "[Metas Ampliadas Regulares 2024](../content/regular_stretch_goals.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -648,6 +648,7 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Logistics](../abilities/logistics.md)</p>\n"
 msgstr ""
+"markdown>[Logística](../abilities/logistics.md)</p>\n"
 
 #. type: Title #
 #: docs/heroes/miriam.md

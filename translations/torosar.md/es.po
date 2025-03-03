@@ -696,6 +696,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Mysticism](../abilities/mysticism.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Misticismo](../abilities/mysticism.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/iona.md docs/heroes/josephine.md docs/heroes/torosar.md

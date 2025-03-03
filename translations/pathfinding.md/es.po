@@ -580,6 +580,8 @@ msgid ""
 "![Pathfinding](../assets/abilities-pathfinding.webp){ width=\"340\" "
 "align=right }"
 msgstr ""
+"![Orientación](../assets/abilities-pathfinding.webp){ width=\"340\" "
+"align=right }"
 
 #. type: Plain text
 #: docs/abilities/pathfinding.md

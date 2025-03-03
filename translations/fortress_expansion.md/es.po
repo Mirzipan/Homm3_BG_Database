@@ -265,7 +265,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/content/fortress_expansion.md
 msgid "[Fortress Faction](../towns/fortress.md)"
-msgstr "[Facción de Fortaleza](../towns/fortress.md)"
+msgstr "[Facción Fortaleza](../towns/fortress.md)"
 
 #. type: Bullet: '- '
 #: docs/content/fortress_expansion.md

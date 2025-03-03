@@ -588,6 +588,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Necromancy](../abilities/necromancy.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Nigromancia](../abilities/necromancy.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/sandro.md docs/heroes/septienna.md docs/heroes/vidomina.md

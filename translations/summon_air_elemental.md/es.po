@@ -420,7 +420,7 @@ msgstr "Ver También"
 #: docs/units/sprites.md docs/units/storm_elementals.md
 #: docs/units/water_elementals.md
 msgid "[Conflux Expansion](../content/conflux_expansion.md)"
-msgstr ""
+msgstr "[Expansión de Conflujo](../content/conflux_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/chain_lightning.md

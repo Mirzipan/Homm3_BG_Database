@@ -592,6 +592,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Intelligence](../abilities/intelligence.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Inteligencia](../abilities/intelligence.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/iona.md

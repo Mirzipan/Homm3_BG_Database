@@ -675,6 +675,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Interference](../abilities/interference.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Interferencia](../abilities/interference.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/zilare.md

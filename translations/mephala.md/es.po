@@ -556,6 +556,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Leadership](../abilities/leadership.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Liderazgo](../abilities/leadership.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/gelu.md docs/heroes/mephala.md docs/heroes/ivor.md

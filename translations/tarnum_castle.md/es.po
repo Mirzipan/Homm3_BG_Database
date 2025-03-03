@@ -494,7 +494,7 @@ msgstr "Ver También"
 #: docs/units/fangarm.md docs/units/leprechaun.md docs/units/satyrs.md
 #: docs/units/steel_golems.md
 msgid "[Regular Stretch Goals 2024](../content/regular_stretch_goals.md)"
-msgstr ""
+msgstr "[Metas Ampliadas Regulares 2024](../content/regular_stretch_goals.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -727,6 +727,8 @@ msgid ""
 "<p style=\"text-align: center;\" "
 "markdown>[Artillery](../abilities/artillery.md)</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" "
+"markdown>[Artillería](../abilities/artillery.md)</p>\n"
 
 #. type: Title #
 #: docs/heroes/tarnum_castle.md
