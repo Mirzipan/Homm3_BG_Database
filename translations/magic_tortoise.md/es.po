@@ -658,7 +658,7 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/magic_tortoise.md
 #, no-wrap
 msgid "Magic Tortoise"
-msgstr "Tortuga mágica"
+msgstr "Tortuga Mágica"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/magic_tortoise.md

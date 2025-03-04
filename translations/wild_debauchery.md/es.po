@@ -650,7 +650,7 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
 msgid "Wild Debauchery"
-msgstr "Debatiismo salvaje"
+msgstr "Libertinaje Salvaje"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/wild_debauchery.md

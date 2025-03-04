@@ -650,7 +650,7 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/profuse_growth.md
 #, no-wrap
 msgid "Profuse Growth"
-msgstr "Crecimiento profuso"
+msgstr "Crecimiento Profundo"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/profuse_growth.md

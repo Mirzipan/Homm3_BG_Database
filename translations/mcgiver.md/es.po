@@ -664,7 +664,7 @@ msgstr "[Lista de Máquinas de Guerra](../war_machines/index.md)"
 #: docs/astrologers_proclaim/mcgiver.md
 #, no-wrap
 msgid "McGiver"
-msgstr "MacGyver"
+msgstr "McGiver"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/mcgiver.md

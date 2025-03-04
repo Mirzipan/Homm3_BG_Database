@@ -669,7 +669,7 @@ msgstr "[Lista de Unidades](../units/index.md)"
 #: docs/astrologers_proclaim/isras_friends.md
 #, no-wrap
 msgid "Isra's Friends"
-msgstr ""
+msgstr "Amigos de Isra"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/isras_friends.md

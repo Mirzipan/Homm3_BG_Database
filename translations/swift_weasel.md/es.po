@@ -650,7 +650,7 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/swift_weasel.md
 #, no-wrap
 msgid "Swift Weasel"
-msgstr "Comadreja rápida"
+msgstr "Comadreja Veloz"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/swift_weasel.md

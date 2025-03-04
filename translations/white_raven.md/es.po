@@ -650,7 +650,7 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/white_raven.md
 #, no-wrap
 msgid "White Raven"
-msgstr "Cuervo blanco"
+msgstr "Cuervo Blanco"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/white_raven.md

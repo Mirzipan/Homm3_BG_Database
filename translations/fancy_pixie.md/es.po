@@ -760,7 +760,7 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/fancy_pixie.md
 #, no-wrap
 msgid "Fancy Pixie"
-msgstr "Duendecillo"
+msgstr "Duendecillo Elegante"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/fancy_pixie.md

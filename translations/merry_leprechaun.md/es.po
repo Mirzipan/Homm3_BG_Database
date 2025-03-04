@@ -650,7 +650,7 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/merry_leprechaun.md
 #, no-wrap
 msgid "Merry Leprechaun"
-msgstr "Feliz Leprechaun"
+msgstr "Duende Feliz"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/merry_leprechaun.md

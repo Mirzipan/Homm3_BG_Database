@@ -603,7 +603,7 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/plane_between_planes.md
 #, no-wrap
 msgid "Plane Between Planes"
-msgstr "Plano entre aviones"
+msgstr "Plano Entre Planos"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/plane_between_planes.md

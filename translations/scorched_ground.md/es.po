@@ -618,7 +618,7 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #: docs/astrologers_proclaim/scorched_ground.md
 #, no-wrap
 msgid "Scorched Ground"
-msgstr "Terreno quemado"
+msgstr "Tierra Quemada"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/scorched_ground.md

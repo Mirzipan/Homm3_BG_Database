@@ -669,7 +669,7 @@ msgstr "[Lista de Unidades](../units/index.md)"
 #: docs/astrologers_proclaim/terrible_plague.md
 #, no-wrap
 msgid "Terrible Plague"
-msgstr "Terrible plaga"
+msgstr "Plaga Terrible"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/terrible_plague.md
