@@ -78,3 +78,4 @@ search:
 | [Torso of Legion](torso_of_legion.md) | [Minor Artifact](../keywords/minor_artifact.md) | :instant: Reduce the cost of Recruitment or reduce the cost of Reinforcing a [unit](../units/index.md) by 6 :gold: (to a minimum of 0).<br><br>— OR —<br><br>:instant: Gain 1 :valuables: or 2 :building_materials:. | [Rampart Expansion](../content/rampart_expansion.md) |
 | [Tunic of the Cyclops King](tunic_of_the_cyclops_king.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: Draw 1 card and gain +1 :empower:.<br><br>— OR —<br><br>:instant: +2 :empower: | [Core Game](../content/core_game.md) |
 | [Vial of Lifeblood](vial_of_lifeblood.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: Remove up to 3 :damage: from one of your units.<br><br>— OR —<br><br>:ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :health_points:. | [Core Game](../content/core_game.md) |
+
