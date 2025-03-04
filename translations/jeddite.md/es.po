@@ -645,7 +645,7 @@ msgstr "Apariciones como héroe enemigo"
 #: docs/heroes/jeddite.md
 #, no-wrap
 msgid "Jeddite"
-msgstr "Jedato"
+msgstr "Jeddite"
 
 #. type: Plain text
 #: docs/heroes/jeddite.md

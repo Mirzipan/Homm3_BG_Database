@@ -603,7 +603,7 @@ msgstr ""
 #: docs/heroes/vidomina.md
 #, no-wrap
 msgid "Vidomina"
-msgstr "Vidomín"
+msgstr "Vidomina"
 
 #. type: Plain text
 #: docs/heroes/vidomina.md

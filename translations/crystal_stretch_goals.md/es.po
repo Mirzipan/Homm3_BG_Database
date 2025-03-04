@@ -249,7 +249,7 @@ msgstr "*Sin Publicar*"
 #: docs/content/crystal_stretch_goals.md
 #, no-wrap
 msgid "Crystal Stretch Goals 2024"
-msgstr "Metas de Cristal 2024"
+msgstr "Metas Ampliadas Cristal 2024"
 
 #. type: Plain text
 #: docs/content/crystal_stretch_goals.md

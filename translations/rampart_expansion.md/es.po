@@ -245,7 +245,7 @@ msgstr "[Lista de Contenido] (index.md)"
 #: docs/content/rampart_expansion.md
 #, no-wrap
 msgid "Rampart Expansion"
-msgstr "Expansión de ramtices"
+msgstr "Expansión de Muralla"
 
 #. type: Plain text
 #: docs/content/rampart_expansion.md

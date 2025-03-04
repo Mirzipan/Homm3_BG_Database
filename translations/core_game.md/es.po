@@ -242,7 +242,7 @@ msgstr "[Lista de Contenido](index.md)"
 #: docs/content/core_game.md
 #, no-wrap
 msgid "Core Game"
-msgstr "Juego Base"
+msgstr "Juego Principal"
 
 #. type: Plain text
 #: docs/content/core_game.md
@@ -262,16 +262,16 @@ msgid ""
 "</figure>\n"
 msgstr ""
 "<figure markdown=\"span\">\n"
-"\t![Caja del Juego Base](../assets/content-core_game-box.webp){ width=540 align=right }\n"
+"\t![Caja del Juego Principal](../assets/content-core_game-box.webp){ width=540 align=right }\n"
 "</figure>\n"
 "<figure markdown=\"span\">\n"
-"\t![Juego Base: Castillo](../assets/content-core_game-inside_01.webp){ width=540 align=right }\n"
+"\t![Juego Principal: Castillo](../assets/content-core_game-inside_01.webp){ width=540 align=right }\n"
 "</figure>\n"
 "<figure markdown=\"span\">\n"
-"\t![Juego Base: Necrópolis](../assets/content-core_game-inside_02.webp){ width=540 align=right }\n"
+"\t![Juego Principal: Necrópolis](../assets/content-core_game-inside_02.webp){ width=540 align=right }\n"
 "</figure>\n"
 "<figure markdown=\"span\">\n"
-"\t![Juego Base: Mazmorra](../assets/content-core_game-inside_03.webp){ width=540 align=right }\n"
+"\t![Juego Principal: Mazmorra](../assets/content-core_game-inside_03.webp){ width=540 align=right }\n"
 "</figure>\n"
 
 #. type: Bullet: '- '
@@ -303,4 +303,4 @@ msgstr "Enlaces Externos"
 #. type: Bullet: '- '
 #: docs/content/core_game.md
 msgid "[Archon - Buy Core Game](https://archon-studio.com/homm3boardgame)"
-msgstr "[Archon - Comprar Juego Base](https://archon-studio.com/homm3boardgame)"
+msgstr "[Archon - Comprar Juego Principal](https://archon-studio.com/homm3boardgame)"

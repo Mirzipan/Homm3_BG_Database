@@ -560,13 +560,13 @@ msgstr "<p style=\"text-align: center;\" markdown>[Fortaleza](../towns/fortress.
 #: docs/heroes/bron.md
 #, no-wrap
 msgid "Bron"
-msgstr "Brón"
+msgstr "Bron"
 
 #. type: Plain text
 #: docs/heroes/bron.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>![Bron](../assets/heroes-fortress-might-bron.webp){ width=540 align=right }</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>![Brón](../assets/heroes-fortress-might-bron.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Bron](../assets/heroes-fortress-might-bron.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/bron.md docs/heroes/tazar.md docs/heroes/wystan.md

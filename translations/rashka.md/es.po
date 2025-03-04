@@ -656,7 +656,7 @@ msgstr ""
 #: docs/heroes/rashka.md
 #, no-wrap
 msgid "Rashka"
-msgstr "Fuegos artificiales"
+msgstr "Rashka"
 
 #. type: Plain text
 #: docs/heroes/rashka.md

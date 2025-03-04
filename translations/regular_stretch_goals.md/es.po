@@ -252,7 +252,7 @@ msgstr ""
 #: docs/content/regular_stretch_goals.md
 #, no-wrap
 msgid "Regular Stretch Goals 2024"
-msgstr "Objetivos Regulares de Financiación 2024"
+msgstr "Metas Ampliadas Regulares 2024"
 
 #. type: Plain text
 #: docs/content/regular_stretch_goals.md

@@ -658,7 +658,7 @@ msgstr ""
 #: docs/heroes/mutare.md
 #, no-wrap
 msgid "Mutare"
-msgstr "Cambiar"
+msgstr "Mutare"
 
 #. type: Plain text
 #: docs/heroes/mutare.md
