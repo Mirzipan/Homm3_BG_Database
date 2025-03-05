@@ -241,7 +241,7 @@ msgstr "=== \"Mejorado\""
 #: docs/statistics/knowledge.md docs/statistics/defense.md
 #: docs/statistics/attack.md docs/statistics/power.md
 msgid "[List of Statistics](index.md)"
-msgstr "[Lista de Estadísticas](index.md)"
+msgstr "[Lista de Características](index.md)"
 
 #. type: Title #
 #: docs/statistics/defense.md
@@ -270,7 +270,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Defensa Mejorada](../assets/statistics-defense-empowered.webp){ width=\"340\" align=right }\n"
+"        ![Defensa Potenciada](../assets/statistics-defense-empowered.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -285,4 +285,4 @@ msgstr ""
 "| Tipo | Efecto | Efecto :expert: |\n"
 "| : --- | : --- | : --- |\n"
 "| Normal | :instant_effect: +1 :defense: | :instant_effect: +2 :defense: |\n"
-"| Mejorada | :instant_effect: +2 :defense: | - |\n"
+"| Potenciada | :instant_effect: +2 :defense: | - |\n"

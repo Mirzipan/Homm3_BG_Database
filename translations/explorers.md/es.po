@@ -486,7 +486,7 @@ msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 #: docs/abilities/scholar.md docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/explorers.md docs/astrologers_proclaim/hero.md
 msgid "[List of Statistics](../statistics/index.md)"
-msgstr "[Lista de Estadísticas](../statistics/index.md)"
+msgstr "[Lista de Características](../statistics/index.md)"
 
 #. type: Link reference
 #: docs/artifacts/spellbinders_hat.md docs/astrologers_proclaim/explorers.md
@@ -680,7 +680,7 @@ msgstr ""
 #: docs/astrologers_proclaim/explorers.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>During this round, players do not draw cards at the start of their turns. Instead, each player draws cards up their :hand:. Then, each of them may discard any number of cards. For every 3 cards discarded this way, they can Remove one [Statistic](../statistics/index.md) card and replace it with an [Empowered Statistic](../statistics/index.md) card of the same type.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Durante esta ronda, los jugadores no roban cartas al comienzo de sus turnos. En su lugar, cada jugador roba cartas de su :hand:. Después, cada uno de ellos puede descartarse de cualquier número de cartas. Por cada 3 cartas descartadas de esta manera, pueden Retirar una carta [Estadística](../statistics/index.md) y reemplazarla por una carta [Estadística Mejorada](../statistics/index.md) del mismo tipo.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Durante esta ronda, los jugadores no roban cartas al comienzo de sus turnos. En su lugar, cada jugador roba cartas de su :hand:. Después, cada uno de ellos puede descartarse de cualquier número de cartas. Por cada 3 cartas descartadas de esta manera, pueden Retirar una carta [Característica](../statistics/index.md) y reemplazarla por una carta [Característica Potenciada](../statistics/index.md) del mismo tipo.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/explorers.md
@@ -695,6 +695,6 @@ msgid ""
 "player's hand. When taking the empowered [statistic](../statistics/index."
 "md), player adds it to their hand."
 msgstr ""
-"[^1] La [estadística](../statistics/index.md) eliminada debe proceder de la "
-"mano del jugador. Al coger la [estadística] mejorada(../statistics/index."
+"[^1] La [Característica](../statistics/index.md) eliminada debe proceder de la "
+"mano del jugador. Al coger la [Característica] Potenciada(../statistics/index."
 "md), el jugador la añade a su mano."

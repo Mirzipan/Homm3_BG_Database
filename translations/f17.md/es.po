@@ -498,7 +498,7 @@ msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr "Zonas"
+msgstr "Lugares"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/tiles/f17.md

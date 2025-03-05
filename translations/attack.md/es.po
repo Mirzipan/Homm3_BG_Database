@@ -286,4 +286,4 @@ msgstr ""
 #: docs/statistics/attack.md docs/statistics/defense.md
 #: docs/statistics/knowledge.md docs/statistics/power.md
 msgid "[List of Statistics](index.md)"
-msgstr "[Lista de Estadísticas](index.md)"
+msgstr "[Lista de Características](index.md)"

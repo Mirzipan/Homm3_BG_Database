@@ -534,7 +534,7 @@ msgstr ""
 #: docs/tiles/f9.md docs/tiles/n10.md docs/tiles/n11.md docs/tiles/n6.md
 #: docs/tiles/nx2.md docs/tiles/nx3.md
 msgid "[Fountain of Youth](../fields/fountain_of_youth.md)"
-msgstr ""
+msgstr "[Fuente de la Juventud](../fields/fountain_of_youth.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/f15.md docs/tiles/fx1.md

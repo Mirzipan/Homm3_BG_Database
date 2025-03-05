@@ -331,7 +331,7 @@ msgstr "Zona Señalizable"
 #: docs/keywords/flaggable_field.md
 #, no-wrap
 msgid "List of Flaggable Fields"
-msgstr "Lista de Zonas Señalizables"
+msgstr "Lista de Lugares Señalizables"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md

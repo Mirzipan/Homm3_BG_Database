@@ -428,7 +428,7 @@ msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 #: docs/abilities/scholar.md docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/explorers.md docs/astrologers_proclaim/hero.md
 msgid "[List of Statistics](../statistics/index.md)"
-msgstr "[Lista de Estadísticas](../statistics/index.md)"
+msgstr "[Lista de Características](../statistics/index.md)"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -612,7 +612,7 @@ msgstr ""
 #: docs/astrologers_proclaim/hero.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Each player can :pay: 4 :gold: to Remove a [Statistic](../statistics/index.md) card from their hand and replace it with an [Empowered Statistic](../statistics/index.md) card of the same type. Each player may do so twice, but both exchanges must be made on the same turn. Once a player makes the exchange, they place their faction cube on this card to mark the fact.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Cada jugador puede :pay: 4 :gold: para Retirar una carta [Estadística](../statistics/index.md) de su mano y sustituirla por una carta [Estadística Mejorada](../statistics/index.md) del mismo tipo. Cada jugador puede hacerlo dos veces, pero ambos intercambios deben hacerse en el mismo turno. Una vez que un jugador hace el intercambio, coloca su cubo de facción sobre esta carta para marcar el hecho.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Cada jugador puede :pay: 4 :gold: para Retirar una carta [Característica](../statistics/index.md) de su mano y sustituirla por una carta [Característica Potenciada](../statistics/index.md) del mismo tipo. Cada jugador puede hacerlo dos veces, pero ambos intercambios deben hacerse en el mismo turno. Una vez que un jugador hace el intercambio, coloca su cubo de facción sobre esta carta para marcar el hecho.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/hero.md

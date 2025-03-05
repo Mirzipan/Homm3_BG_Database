@@ -428,7 +428,7 @@ msgstr "[Expansión de Infierno](../content/inferno_expansion.md)"
 #: docs/abilities/scholar.md docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/explorers.md docs/astrologers_proclaim/hero.md
 msgid "[List of Statistics](../statistics/index.md)"
-msgstr "[Lista de Estadísticas](../statistics/index.md)"
+msgstr "[Lista de Características](../statistics/index.md)"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -612,7 +612,7 @@ msgstr ""
 #: docs/astrologers_proclaim/dancing_imp.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Each player can Remove a [Statistic](../statistics/index.md) card from their discard pile or hand to gain 1 [Empowered Statistic](../statistics/index.md) card of the same type.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Cada jugador puede Retirar una carta de [Estadística](../statistics/index.md) de su pila de descartes o de su mano para ganar 1 carta de [Estadística Mejorada](../statistics/index.md) del mismo tipo.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Cada jugador puede Retirar una carta de [Característica](../statistics/index.md) de su pila de descartes o de su mano para ganar 1 carta de [Característica Potenciada](../statistics/index.md) del mismo tipo.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/dancing_imp.md

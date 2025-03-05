@@ -481,7 +481,7 @@ msgstr "Ver También"
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr "Zonas"
+msgstr "Lugares"
 
 #. type: Bullet: '- '
 #: docs/fields/subterranean_gate.md docs/tiles/f19.md docs/tiles/f20.md
