@@ -582,7 +582,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/halflings.md
 #, no-wrap
 msgid "Halflings"
-msgstr ""
+msgstr "Niziołki"
 
 #. type: Plain text
 #: docs/units/halflings.md
@@ -592,6 +592,9 @@ msgid ""
 "    ![Neutral Halflings](../assets/units-neutral-bronze-halflings.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Halflings](../assets/pl/units-neutral-bronze-halflings.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/halflings.md
@@ -609,3 +612,14 @@ msgid ""
 "| Cost | 5 :gold: |\n"
 "| Abilities | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher one. Ignore combat penalties. |\n"
 msgstr ""
+"| Statystyki | Neutralne |\n"
+"| :--- | :---: |\n"
+"| Miasto | [Neutralne](../towns/neutral.md) |\n"
+"| Poziom | :bronze: |\n"
+"| Typ | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| :attack: | 2 |\n"
+"| :defense: | 0 |\n"
+"| :health_points: | 3 |\n"
+"| :initiative: | 6 |\n"
+"| Koszt | 5 :gold: |\n"
+"| Zdolności | :unit_attack: Rzuć 2 [kośćmi Ataku](../dice.md#attack-die) i rozpatrz wyższy wyni. Zignoruj kary do Walki. |\n"
