@@ -21,7 +21,7 @@
 ## Notes
 
 - The player still rolls the Attack die, as other effects that are related to the Attack die result may still apply.
-- All Attack die rolls against the Mummies are *set* to -1. This has priority over rerolls, so rerolls have no effect against Mummies.
+- For each Attack against the Mummies, only its initial Attack die roll is set to -1. After a roll is *set*, it can be modified by rerolls.
 
 
 ## Comes With
