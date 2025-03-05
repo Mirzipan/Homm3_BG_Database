@@ -546,7 +546,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/thunderbirds.md docs/units/unicorns.md docs/units/zombies.md
 #, no-wrap
 msgid "Heroes With A Specialty"
-msgstr ""
+msgstr "Bohaterowie ze Specjalnością"
 
 #. type: Bullet: '- '
 #: docs/units/azure_dragons.md docs/units/black_dragons.md
@@ -560,7 +560,7 @@ msgstr ""
 #: docs/units/rust_dragons.md
 #, no-wrap
 msgid "Rust Dragons"
-msgstr ""
+msgstr "Rdzawe Smoki"
 
 #. type: Plain text
 #: docs/units/rust_dragons.md
@@ -570,6 +570,9 @@ msgid ""
 "    ![Neutral Rust Dragons](../assets/units-neutral-azure-rust_dragons.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Rust Dragons](../assets/pl/units-neutral-azure-rust-dragons.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/rust_dragons.md
@@ -587,3 +590,14 @@ msgid ""
 "| Cost | 38 :gold:<br>1 :valuables: |\n"
 "| Abilities | :unit_attack: On \"-1\" results on the [Attack die](../dice.md#attack-die), decrease the attacked unit's :defense: by 2 - to a minimum of 0. |\n"
 msgstr ""
+"| Statystyki | Neutralne |\n"
+"| :--- | :---: |\n"
+"| Miasto | [Neutralne](../towns/neutral.md) |\n"
+"| Poziom | :azure: |\n"
+"| Typ | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| :attack: | 7 |\n"
+"| :defense: | 3 |\n"
+"| :health_points: | 10 |\n"
+"| :initiative: | 17 |\n"
+"| Koszt | 38 :gold:<br>1 :valuables: |\n"
+"| Zdolności | :unit_attack: Jeśli rozpatrzysz „-1” z [kości Ataku](../dice.md#attack-die), zmniejsz :defense: atakowanej jednostki o 2 (maksymalnie do 0). |\n"
