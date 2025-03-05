@@ -692,4 +692,4 @@ msgstr "Gracz nadal rzuca kością Ataku, ponieważ inne efekty związane z jej 
 #. type: Bullet: '- '
 #: docs/units/mummies.md
 msgid "For each Attack against the Mummies, only its initial Attack die roll is set to -1. After a roll is *set*, it can be modified by rerolls."
-msgstr ""
+msgstr "Atak na Mumie ustawia tylko pierwotną kość Ataku na „-1”. Po rzucie może ona być zmodyfikowana przez efekty pozwalające na przerzucenia."
