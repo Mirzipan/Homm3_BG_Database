@@ -325,12 +325,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
-msgid "Minor artifacts have a red frame."
+msgid "Major artifacts have a red frame."
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md
-msgid "[^1] When playing according to the tournament rules, minor artifacts may be obtained on Near (Ⅳ-Ⅴ) and Center (Ⅵ-Ⅶ) tiles."
+msgid "[^1] When playing according to the tournament rules, major artifacts may be obtained on Near (Ⅳ-Ⅴ) and Center (Ⅵ-Ⅶ) tiles."
 msgstr ""
 
 #. type: Title ##

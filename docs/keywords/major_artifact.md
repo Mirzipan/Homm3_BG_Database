@@ -7,8 +7,8 @@ search:
 
 ## Notes
 
-- Minor artifacts have a red frame.
-- [^1] When playing according to the tournament rules, minor artifacts may be obtained on Near (Ⅳ-Ⅴ) and Center (Ⅵ-Ⅶ) tiles.
+- Major artifacts have a red frame.
+- [^1] When playing according to the tournament rules, major artifacts may be obtained on Near (Ⅳ-Ⅴ) and Center (Ⅵ-Ⅶ) tiles.
 
 
 ## List of Major Artifacts

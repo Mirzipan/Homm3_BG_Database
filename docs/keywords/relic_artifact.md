@@ -7,8 +7,8 @@ search:
 
 ## Notes
 
-- Minor artifacts have a purple frame.
-- [^1] When playing according to the tournament rules, minor artifacts may only be obtained on Center (Ⅵ-Ⅶ) tiles.
+- Relic artifacts have a purple frame.
+- [^1] When playing according to the tournament rules, relic artifacts may only be obtained on Center (Ⅵ-Ⅶ) tiles.
 
 
 ## List of Relic Artifacts
