@@ -24,12 +24,8 @@ msgstr "Comercio"
 
 #. type: Plain text
 #: docs/trading.md
-msgid ""
-"Ratios when trading resources. Mostly used as an action at the [Trading "
-"Post](fields/trading_post.md)."
-msgstr ""
-"Ratios al comerciar con recursos. Se usa principalmente en los [Puestos "
-"de Comercio](fields/trading_post.md)."
+msgid "Ratios when trading resources. Mostly used as an action at the [Trading Post](fields/trading_post.md)."
+msgstr "Ratios al comerciar con recursos. Se usa principalmente en los [Puestos de Comercio](fields/trading_post.md)."
 
 #. type: Plain text
 #: docs/trading.md

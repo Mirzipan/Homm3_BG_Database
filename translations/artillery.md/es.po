@@ -51,9 +51,29 @@ msgstr "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
 #: docs/abilities/scholar.md docs/abilities/scouting.md
 #: docs/abilities/sorcery.md docs/abilities/tactics.md
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-msgstr "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"<p style=\"text-align: center;\" markdown> :experto: </p>\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -614,11 +634,8 @@ msgstr "Artillería"
 
 #. type: Plain text
 #: docs/abilities/artillery.md
-msgid ""
-"![Artillery](../assets/abilities-artillery.webp){ width=\"340\" align=right }"
-msgstr ""
-"![Artillería](../assets/abilities-artillery.webp){ width=\"340\" "
-"align=right }"
+msgid "![Artillery](../assets/abilities-artillery.webp){ width=\"340\" align=right }"
+msgstr "![Artillería](../assets/abilities-artillery.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/abilities/artillery.md
@@ -644,44 +661,23 @@ msgstr "[:might: Tarnum (Castillo)](../heroes/tarnum_castle.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/artillery.md
-msgid ""
-"If multiple enemy units share the same (lowest) initiative, the player can "
-"choose which of those units should this ability deal damage to."
-msgstr ""
-"Si varias unidades enemigas comparten la misma iniciativa (más baja), el "
-"jugador puede elegir a cuál de esas unidades debería hacer daño esta "
-"habilidad."
+msgid "If multiple enemy units share the same (lowest) initiative, the player can choose which of those units should this ability deal damage to."
+msgstr "Si varias unidades enemigas comparten la misma iniciativa (más baja), el jugador puede elegir a cuál de esas unidades debería hacer daño esta habilidad."
 
 #. type: Bullet: '- '
 #: docs/abilities/artillery.md
-msgid ""
-"The expert effect can only be played when the [Ballista](../war_machines/"
-"ballista.md) activates, which can only happen at the beginning of each "
-"Combat round."
-msgstr ""
-"El efecto experto solo se puede jugar cuando se activa [Ballesta](../"
-"war_machines/ballista.md), lo que solo puede ocurrir al comienzo de cada "
-"ronda de Combate."
+msgid "The expert effect can only be played when the [Ballista](../war_machines/ballista.md) activates, which can only happen at the beginning of each Combat round."
+msgstr "El efecto experto solo se puede jugar cuando se activa [Ballesta](../war_machines/ballista.md), lo que solo puede ocurrir al comienzo de cada ronda de Combate."
 
 #. type: Bullet: '- '
 #: docs/abilities/artillery.md
-msgid ""
-"Without an active [Ballista](../war_machines/ballista.md), only the basic "
-"effect of this ability can be resolved."
-msgstr ""
-"Sin una [Ballesta](../war_machines/ballista.md) activa, solo se puede "
-"resolver el efecto básico de esta habilidad."
+msgid "Without an active [Ballista](../war_machines/ballista.md), only the basic effect of this ability can be resolved."
+msgstr "Sin una [Ballesta](../war_machines/ballista.md) activa, solo se puede resolver el efecto básico de esta habilidad."
 
 #. type: Bullet: '- '
 #: docs/abilities/artillery.md
-msgid ""
-"In combination with [Astrologers proclaim week of the Ammo Cart](../"
-"astrologers_proclaim/ammo_cart.md) the expert effect will deal 3 times 2 "
-"damage, so 6 damage in total."
-msgstr ""
-"En combinación con [Los Astrólogos proclaman la semana del Carro de Munición]"
-"(../astrologers_proclaim/ammo_cart.md) el efecto experto infligirá 3 veces 2 "
-"de daño, es decir, 6 de daño en total."
+msgid "In combination with [Astrologers proclaim week of the Ammo Cart](../astrologers_proclaim/ammo_cart.md) the expert effect will deal 3 times 2 damage, so 6 damage in total."
+msgstr "En combinación con [Los Astrólogos proclaman la semana del Carro de Munición](../astrologers_proclaim/ammo_cart.md) el efecto experto infligirá 3 veces 2 de daño, es decir, 6 de daño en total."
 
 #. type: Bullet: '- '
 #: docs/abilities/artillery.md docs/abilities/first_aid.md

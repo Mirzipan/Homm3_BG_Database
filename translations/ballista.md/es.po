@@ -445,11 +445,8 @@ msgstr "Balista"
 
 #. type: Plain text
 #: docs/war_machines/ballista.md
-msgid ""
-"![Ballista](../assets/war_machines-ballista.webp){ width=\"340\" "
-"align=right }"
-msgstr ""
-"![Balista](../assets/war_machines-ballista.webp){ width=\"340\" align=right }"
+msgid "![Ballista](../assets/war_machines-ballista.webp){ width=\"340\" align=right }"
+msgstr "![Balista](../assets/war_machines-ballista.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/war_machines/ballista.md

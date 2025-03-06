@@ -27,8 +27,7 @@ msgstr ""
 #: docs/abilities/resistance.md docs/abilities/sorcery.md
 #: docs/abilities/water_magic.md docs/artifacts/angel_wings.md
 #: docs/artifacts/arms_of_legion.md docs/artifacts/centaurs_axe.md
-#: docs/artifacts/head_of_legion.md
-#: docs/artifacts/inexhaustible_cart_of_ore.md
+#: docs/artifacts/head_of_legion.md docs/artifacts/inexhaustible_cart_of_ore.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
 #: docs/artifacts/spellbinders_hat.md docs/artifacts/torso_of_legion.md
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -70,9 +69,9 @@ msgstr ""
 #: docs/units/mummies.md docs/units/nomads.md docs/units/peasants.md
 #: docs/units/pegasi.md docs/units/pit_lords.md docs/units/rogues.md
 #: docs/units/skeletons.md docs/units/titans.md docs/units/trolls.md
-#: docs/units/unicorns.md docs/units/vampires.md
-#: docs/units/water_elementals.md docs/units/wraiths.md docs/units/wyverns.md
-#: docs/units/zombies.md docs/war_machines/first_aid_tent.md
+#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
+#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zombies.md
+#: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
 msgstr "Notas"
@@ -84,39 +83,55 @@ msgstr "Notas"
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
-#, no-wrap
-msgid ""
-"[^1]: Exceptions for specific game modes. This explanation is not valid for "
-"all game modes. The specific variant for the game mode is mentioned in the "
-"text."
+#, fuzzy, no-wrap
+msgid "[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text."
 msgstr ""
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es "
-"válida para todos los modos de juego.La variante específica para el modo de "
-"juego se menciona en el texto."
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos.Esta explicación no es válida para todos los modos de juego.La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos.Esta explicación no es válida para todos los modos de juego.La variante específica para el modo de juego se menciona en el texto."
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/keywords/ranged_unit.md
 #: docs/towns/tower.md
 msgid ":bronze: [Gremlins](../units/gremlins.md)"
-msgstr ""
+msgstr ":bronze: [Gremlins](../units/gremlins.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/keywords/ranged_unit.md
 #: docs/towns/conflux.md
 msgid ":bronze: [Ice Elementals](../units/ice_elementals.md)"
-msgstr ""
+msgstr ":bronze: [Elementales de Hielo](../units/ice_elementals.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/keywords/ranged_unit.md
 #: docs/towns/conflux.md
 msgid ":bronze: [Storm Elementals](../units/storm_elementals.md)"
-msgstr ""
+msgstr ":bronze: [Elementales de Tormenta](../units/storm_elementals.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/keywords/ranged_unit.md
 #: docs/towns/tower.md
 msgid ":golden: [Titans](../units/titans.md)"
-msgstr ""
+msgstr ":golden: [Titanes](../units/titans.md)"
 
 #. type: Title #
 #: docs/keywords/ranged_unit.md
@@ -126,57 +141,33 @@ msgstr " :unit_ranged: unidad a distancia"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
-msgid ""
-"[^1] Ranged units may move up to 1 space in Combat on the small battlefield."
-" On the [large battlefield](../content/battlefield_expansion.md), their "
-"movement range is equal to their :initiative: value instead."
+msgid "[^1] Ranged units may move up to 1 space in Combat on the small battlefield. On the [large battlefield](../content/battlefield_expansion.md), their movement range is equal to their :initiative: value instead."
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
-msgid ""
-"[^1] Ranged units may attack first, and then move. On the [large "
-"battlefield](../content/battlefield_expansion.md) they can either move or "
-"attack."
+msgid "[^1] Ranged units may attack first, and then move. On the [large battlefield](../content/battlefield_expansion.md) they can either move or attack."
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
-msgid ""
-"Should an enemy unit occupy any space that is adjacent to the ranged unit, "
-"the ranged unit can only attack the adjacent unit."
-msgstr ""
-"Si una unidad enemiga ocupa cualquier espacio adyacente a la unidad a "
-"distancia, la unidad a distancia solo puede atacar a la unidad adyacente."
+msgid "Should an enemy unit occupy any space that is adjacent to the ranged unit, the ranged unit can only attack the adjacent unit."
+msgstr "Si una unidad enemiga ocupa cualquier espacio adyacente a la unidad a distancia, la unidad a distancia solo puede atacar a la unidad adyacente."
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
-msgid ""
-"Should there be no enemy unit adjacent to the ranged unit, the ranged unit "
-"may attack an enemy unit anywhere on the battlefield."
-msgstr ""
-"Si no hubiera una unidad enemiga adyacente a la unidad a distancia, la "
-"unidad a distancia puede atacar a una unidad enemiga en cualquier lugar del "
-"campo de batalla."
+msgid "Should there be no enemy unit adjacent to the ranged unit, the ranged unit may attack an enemy unit anywhere on the battlefield."
+msgstr "Si no hubiera una unidad enemiga adyacente a la unidad a distancia, la unidad a distancia puede atacar a una unidad enemiga en cualquier lugar del campo de batalla."
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
-msgid ""
-"[^1] Should the ranged attack originate in the back row of the battlefield "
-"and the attacked unit is in the opposite back row of the battlefield, a "
-"ranged penalty applies. On the [large "
-"battlefield](../content/battlefield_expansion.md), the ranged penalty "
-"applied when attacking a unit that is 8 or more hexes away."
+msgid "[^1] Should the ranged attack originate in the back row of the battlefield and the attacked unit is in the opposite back row of the battlefield, a ranged penalty applies. On the [large battlefield](../content/battlefield_expansion.md), the ranged penalty applied when attacking a unit that is 8 or more hexes away."
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
-msgid ""
-"There is no retaliation against a ranged attack. There is, however, "
-"retaliation if the ranged unit attacks a unit that is adjacent to it."
-msgstr ""
-"No hay represalias contra un ataque a distancia.Sin embargo, hay represalias"
-" si la unidad a distancia ataca una unidad que está adyacente a ella."
+msgid "There is no retaliation against a ranged attack. There is, however, retaliation if the ranged unit attacks a unit that is adjacent to it."
+msgstr "No hay represalias contra un ataque a distancia.Sin embargo, hay represalias si la unidad a distancia ataca una unidad que está adyacente a ella."
 
 #. type: Title #
 #: docs/keywords/ranged_unit.md
@@ -192,7 +183,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/dungeon.md
 msgid ":bronze: [Evil Eyes](../units/evil_eyes.md)"
-msgstr ""
+msgstr ":bronze: [Ojos Maléficos](../units/evil_eyes.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
@@ -202,7 +193,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/fortress.md
 msgid ":bronze: [Lizardmen](../units/lizardmen.md)"
-msgstr ""
+msgstr ":bronze: [Hombres Lagarto](../units/lizardmen.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/inferno.md
@@ -212,7 +203,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/castle.md
 msgid ":bronze: [Marksmen](../units/marksmen.md)"
-msgstr ""
+msgstr ":bronze: [Arqueros](../units/marksmen.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/stronghold.md
@@ -222,7 +213,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/cove.md
 msgid ":bronze: [Sea Dogs](../units/sea_dogs.md)"
-msgstr ""
+msgstr ":bronze: [Lobos de Mar](../units/sea_dogs.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/necropolis.md
@@ -237,7 +228,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/dungeon.md
 msgid ":silver: [Medusas](../units/medusas.md)"
-msgstr ""
+msgstr ":silver: [Medusas](../units/medusas.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/neutral.md
@@ -247,7 +238,7 @@ msgstr ":silver: [Tiradores Certeros](../units/sharpshooters.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/cove.md
 msgid ":silver: [Sorceresses](../units/sorceresses.md)"
-msgstr ""
+msgstr ":silver: [Hechiceras](../units/sorceresses.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/castle.md

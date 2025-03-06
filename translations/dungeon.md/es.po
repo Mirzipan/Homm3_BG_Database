@@ -681,15 +681,45 @@ msgstr "=== \"Vacío\""
 #: docs/towns/castle.md docs/towns/dungeon.md docs/towns/fortress.md
 #: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/rampart.md
 #: docs/towns/tower.md
+#, fuzzy
 msgid "=== \"Fully Built\""
-msgstr "=== \"Totalmente Construido\""
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente Construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente Construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente Construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente construido\""
 
 #. type: Plain text
 #: docs/towns/castle.md docs/towns/dungeon.md docs/towns/fortress.md
 #: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/rampart.md
 #: docs/towns/tower.md
+#, fuzzy
 msgid "=== \"Back Side\""
-msgstr "=== \"Reverso\""
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Back Side\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Lado Trasero\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Reverso\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Reverso\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Back Side\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Back Side\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Back Side\""
 
 #. type: Title ##
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md

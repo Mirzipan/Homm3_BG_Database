@@ -27,8 +27,7 @@ msgstr ""
 #: docs/abilities/resistance.md docs/abilities/sorcery.md
 #: docs/abilities/water_magic.md docs/artifacts/angel_wings.md
 #: docs/artifacts/arms_of_legion.md docs/artifacts/centaurs_axe.md
-#: docs/artifacts/head_of_legion.md
-#: docs/artifacts/inexhaustible_cart_of_ore.md
+#: docs/artifacts/head_of_legion.md docs/artifacts/inexhaustible_cart_of_ore.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
 #: docs/artifacts/spellbinders_hat.md docs/artifacts/torso_of_legion.md
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -70,9 +69,9 @@ msgstr ""
 #: docs/units/mummies.md docs/units/nomads.md docs/units/peasants.md
 #: docs/units/pegasi.md docs/units/pit_lords.md docs/units/rogues.md
 #: docs/units/skeletons.md docs/units/titans.md docs/units/trolls.md
-#: docs/units/unicorns.md docs/units/vampires.md
-#: docs/units/water_elementals.md docs/units/wraiths.md docs/units/wyverns.md
-#: docs/units/zombies.md docs/war_machines/first_aid_tent.md
+#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
+#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zombies.md
+#: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
 msgstr "Notas"
@@ -85,31 +84,15 @@ msgstr "Efecto permanente"
 
 #. type: Bullet: '- '
 #: docs/keywords/permanent_effect.md
-msgid ""
-"A card with a permanent effect is played from hand, just like any other "
-"card. The cards stays on the field after being played, its effect lasting "
-"continuously, and it does not go to the discard pile."
-msgstr ""
-"Una carta con un efecto permanente se juega a mano, como cualquier otra "
-"carta.Las cartas permanecen en el campo después de ser jugada, su efecto "
-"duró continuamente, y no va a la pila de descarte."
+msgid "A card with a permanent effect is played from hand, just like any other card. The cards stays on the field after being played, its effect lasting continuously, and it does not go to the discard pile."
+msgstr "Una carta con un efecto permanente se juega a mano, como cualquier otra carta.Las cartas permanecen en el campo después de ser jugada, su efecto duró continuamente, y no va a la pila de descarte."
 
 #. type: Bullet: '- '
 #: docs/keywords/permanent_effect.md
-msgid ""
-"The player may decide to put an active permanent card into their discard "
-"pile. This stops the card effect immediately."
-msgstr ""
-"El jugador puede decidir poner una carta permanente activa en su pila de "
-"descarte.Esto detiene el efecto de la tarjeta inmediatamente."
+msgid "The player may decide to put an active permanent card into their discard pile. This stops the card effect immediately."
+msgstr "El jugador puede decidir poner una carta permanente activa en su pila de descarte.Esto detiene el efecto de la tarjeta inmediatamente."
 
 #. type: Bullet: '- '
 #: docs/keywords/permanent_effect.md
-msgid ""
-"Each player can only have a single active permanent card at any time. Should"
-" they play a new one, the currently active one goes into their discard pile "
-"and the newly played card takes its place."
-msgstr ""
-"Cada jugador solo puede tener una sola carta permanente activa en cualquier "
-"momento.Si juegan uno nuevo, el actualmente activo entra en su pila de "
-"descarte y la carta recién jugada toma su lugar."
+msgid "Each player can only have a single active permanent card at any time. Should they play a new one, the currently active one goes into their discard pile and the newly played card takes its place."
+msgstr "Cada jugador solo puede tener una sola carta permanente activa en cualquier momento.Si juegan uno nuevo, el actualmente activo entra en su pila de descarte y la carta recién jugada toma su lugar."

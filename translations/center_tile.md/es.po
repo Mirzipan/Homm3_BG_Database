@@ -372,33 +372,88 @@ msgstr "[#C1](../tiles/cx1.md) - [Asentamiento de Torre](../towns/tower.md)"
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/near_tile.md docs/keywords/underground_tile.md
 #: docs/keywords/water_tile.md
+#, fuzzy
 msgid "[Starting Tile](starting_tile.md)"
-msgstr "[Loseta Inicial](starting_tile.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Inicial](starting_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Inicial](starting_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Tíle de inicio] (starting_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Tíle de inicio] (starting_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Inicial](starting_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/near_tile.md
 #: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
 #: docs/keywords/water_tile.md
+#, fuzzy
 msgid "[Far Tile](far_tile.md)"
-msgstr "[Loseta Lejana](far_tile.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Lejana](far_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[FAR TILE] (FAR_TILE.MD)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[FAR TILE] (FAR_TILE.MD)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[FAR TILE] (FAR_TILE.MD)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[FAR TILE] (FAR_TILE.MD)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
 #: docs/keywords/water_tile.md
+#, fuzzy
 msgid "[Near Tile](near_tile.md)"
-msgstr "[Loseta Cercana](near_tile.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Cercana](near_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Cercana](near_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Cerca de mosaico] (cerca de_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Cerca de mosaico] (cerca de_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Cerca de mosaico] (cerca de_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/near_tile.md docs/keywords/starting_tile.md
 #: docs/keywords/water_tile.md
+#, fuzzy
 msgid "[Underground Tile](underground_tile.md)"
-msgstr "[Loseta de Subterráneo](underground_tile.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta de Subterráneo](underground_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta de Subterráneo](underground_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Mosaico subterráneo] (Underground_til.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Mosaico subterráneo] (Underground_til.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Mosaico subterráneo] (Underground_til.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/near_tile.md docs/keywords/starting_tile.md
 #: docs/keywords/underground_tile.md
+#, fuzzy
 msgid "[Water Tile](water_tile.md)"
-msgstr "[Loseta de Agua](water_tile.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta de Agua](water_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta de Agua](water_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Azulejo de agua] (Water_til.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Azulejo de agua] (Water_til.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Azulejo de agua] (Water_til.md)"
