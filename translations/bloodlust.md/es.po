@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2025-02-19 14:44+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-03-06 20:09+0100\n"
+"Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -515,44 +515,15 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/school_of_earth_magic.md docs/spells/school_of_water_magic.md
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #: docs/spells/visions.md
-#, fuzzy
 msgid "[School of Fire Magic](school_of_fire_magic.md)"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Escuela de Magia Ígnea](school_of_fire_magic.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+msgstr "[Escuela de Magia Ígnea](school_of_fire_magic.md)"
 
 #. type: Plain text
 #: docs/spells/blind.md docs/spells/bloodlust.md docs/spells/curse.md
 #: docs/spells/fire_wall.md docs/spells/misfortune.md docs/spells/visions.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Basic Fire Spell](school_of_fire_magic.md)</p>\n"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown>[Hechizo Básico de Fuego](school_of_fire_magic.md)</p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown>[Hechizo Básico de Fuego](school_of_fire_magic.md)</p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown>[Hechizo de Fuego Básico](school_of_fire_magic.md)</p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown>[Hechizo Básico de Fuego](school_of_fire_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Básico de Fuego](school_of_fire_magic.md)</p>\n"
 
 #. type: Title #
 #: docs/spells/bloodlust.md

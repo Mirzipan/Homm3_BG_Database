@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2025-03-06 00:32+0000\n"
-"PO-Revision-Date: 2025-03-05 23:54+0100\n"
+"PO-Revision-Date: 2025-03-06 19:24+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -717,7 +717,7 @@ msgstr "Lista de Eventos"
 
 #. type: Plain text
 #: docs/events/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Name | Effect | [Content](../content/index.md) |\n"
 "| :--- | :---: | :--- |\n"
@@ -744,7 +744,7 @@ msgid ""
 msgstr ""
 "| Nombre | Efecto | [Contenido](../content/index.md) |\n"
 "| :--- | :---: | :--- |\n"
-"| [Una Subasta Turbia](a_shady_auction.md) | Repeat 3 times: Reveal the top card from the [Artifact](../artifacts/index.md) deck. In secret, each player takes as much :gold: in their hand as they are willing to pay for it. Then reveal your bets at the same time. The one with the highest proposal discards the :gold: and claims the card. If there are no bets or there is a tie, discard the card. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Una Subasta Turbia](a_shady_auction.md) | Repeat 3 times: Reveal the top card from the [Artefacto](../artifacts/index.md) deck. In secret, each player takes as much :gold: in their hand as they are willing to pay for it. Then reveal your bets at the same time. The one with the highest proposal discards the :gold: and claims the card. If there are no bets or there is a tie, discard the card. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Artifact Merchant](artifact_merchant.md) | Draw 5 [artifacts](../artifacts/index.md). You can buy either any number of them or the face-up card from the [Artifact](../artifacts/index.md) discard pile. After finishing, give the rest of the cards to the player on the left. The exchange goes on until the last card is bought or the cards return to the one who drew them. [Minor Artifacts](../keywords/minor_artifact.md) cards cost 3 :gold:, [Major](../keywords/major_artifact.md) 5 :gold:, [Relic](../keywords/relic_artifact.md) 7 :gold:. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
 "| [Crypt](crypt.md) | **Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 [:treasure:](../dice.md#treasure-die). If any of them shows #, you gain nothing. Otherwise, resolve one result.<br><br>— OR —<br><br>Gain Positive Morale.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for half the cost. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
 "| [Cursed Swamp](cursed_swamp.md) | **Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 :treasure: and choose one result.<br><br>— OR —<br><br>Remove one or more [:spellpower:](../spells/index.md) from your hand; if you remove at least 2, **Search (3)** the Artifact deck.<br><br>— OR —<br><br>Discard your cheapest unit.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for free. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
@@ -1426,29 +1426,8 @@ msgstr "[Escuela de Magia Terrestre](school_of_earth_magic.md)"
 #: docs/spells/school_of_earth_magic.md docs/spells/school_of_water_magic.md
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #: docs/spells/visions.md
-#, fuzzy
 msgid "[School of Fire Magic](school_of_fire_magic.md)"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Escuela de Magia Ígnea](school_of_fire_magic.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+msgstr "[Escuela de Magia Ígnea](school_of_fire_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/bless.md docs/spells/cure.md docs/spells/dispel.md
