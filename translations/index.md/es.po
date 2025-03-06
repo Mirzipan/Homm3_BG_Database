@@ -666,10 +666,8 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/statistics/attack.md
 #: docs/statistics/defense.md docs/statistics/knowledge.md
 #: docs/statistics/power.md docs/towns/index.md
-#, fuzzy
 msgid "[List of Heroes](../heroes/index.md)"
 msgstr ""
-
 
 #. type: Title #
 #: docs/content/index.md
@@ -1460,10 +1458,8 @@ msgstr ""
 #: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
-#, fuzzy
 msgid "[School of Water Magic](school_of_water_magic.md)"
 msgstr ""
-
 
 #. type: Title #
 #: docs/spells/index.md

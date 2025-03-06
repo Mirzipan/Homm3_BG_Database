@@ -670,7 +670,5 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/statistics/attack.md
 #: docs/statistics/defense.md docs/statistics/knowledge.md
 #: docs/statistics/power.md docs/towns/index.md
-#, fuzzy
 msgid "[List of Heroes](../heroes/index.md)"
 msgstr ""
-
