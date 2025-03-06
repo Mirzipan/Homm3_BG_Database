@@ -17,6 +17,9 @@ jobs:
     steps:
       - name: Set up repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
 
       - name: Install po4a
         run: |
