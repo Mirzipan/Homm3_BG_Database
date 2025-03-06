@@ -28,18 +28,7 @@ jobs:
           export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
           tar -xf ${PO4A_DIR}.tar.gz
 
-      #- name: Check if translations require updating
-      #  run: |
-      #    export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
-      #    export PERL5LIB="${PO4A_DIR}/lib:${PERL5LIB}"
-      #    ./${PO4A_DIR}/po4a --no-translations po4a.cfg
-      #    if [[ `git status --porcelain translations` ]]; then
-      #      echo "There are uncommited changes to translations:"
-      #      git status --porcelain translations
-      #      exit 1
-      #    fi
-
-      - name: Update translations and commit changes
+      - name: Check if translations require updating
         run: |
           export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
           export PERL5LIB="${PO4A_DIR}/lib:${PERL5LIB}"
@@ -47,12 +36,5 @@ jobs:
           if [[ `git status --porcelain translations` ]]; then
             echo "There are uncommited changes to translations:"
             git status --porcelain translations
-            echo "Configuring Git and committing changes..."
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git add translations
-            git commit -m "Update translations via build_translations.yml"
-            git push
-          else
-            echo "No uncommitted changes found in translations."
+            exit 1
           fi
