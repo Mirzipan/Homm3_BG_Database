@@ -225,13 +225,7 @@ msgstr "Ver También"
 #: docs/statistics/power.md docs/towns/index.md
 #, fuzzy
 msgid "[List of Heroes](../heroes/index.md)"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Lista de Héroes](../heroes/index.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Lista de Héroes](../heroes/index.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[List of Heroes](../heroes/index.md)"
+msgstr "[Lista de Héroes](../heroes/index.md)"
 
 #. type: Title #
 #: docs/statistics/attack.md
@@ -244,15 +238,7 @@ msgstr "Ataque"
 #: docs/statistics/knowledge.md docs/statistics/power.md
 #, fuzzy
 msgid "=== \"Regular\""
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"=== \"Normal\"\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"=== \"Normal\"\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"=== \"regular\"\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"=== \"regular\""
+msgstr "=== \"Normal\""
 
 #. type: Plain text
 #: docs/statistics/attack.md
@@ -270,7 +256,7 @@ msgstr ""
 #: docs/statistics/attack.md docs/statistics/defense.md
 #: docs/statistics/knowledge.md docs/statistics/power.md
 msgid "=== \"Empowered\""
-msgstr "=== \"Mejorado\""
+msgstr "=== \"Potenciado\""
 
 #. type: Plain text
 #: docs/statistics/attack.md
@@ -281,7 +267,7 @@ msgid ""
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Ataque Mejorado](../assets/statistics-attack-empowered.webp){ width=\"340\" align=right }\n"
+"        ![Ataque Potenciado](../assets/statistics-attack-empowered.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -295,20 +281,12 @@ msgid ""
 msgstr ""
 "| Tipo | Efecto | Efecto :experto: |\n"
 "| :--- | :--- | :--- |\n"
-"| Regular | :instant_effect: +1 :attack: | :instant_effect: +2 :attack: |\n"
-"| Mejorado | :instant_effect: +2 :attack: |- |\n"
+"| Normal | :instant_effect: +1 :attack: | :instant_effect: +2 :attack: |\n"
+"| Potenciado | :instant_effect: +2 :attack: |- |\n"
 
 #. type: Bullet: '- '
 #: docs/statistics/attack.md docs/statistics/defense.md
 #: docs/statistics/knowledge.md docs/statistics/power.md
 #, fuzzy
 msgid "[List of Statistics](index.md)"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Lista de Características](index.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Lista de Características](index.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Lista de Características] (index.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Lista de Características] (index.md)"
+msgstr "[Lista de Características](index.md)"

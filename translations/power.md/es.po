@@ -250,7 +250,7 @@ msgstr ""
 #: docs/statistics/knowledge.md docs/statistics/defense.md
 #: docs/statistics/attack.md docs/statistics/power.md
 msgid "=== \"Empowered\""
-msgstr "=== \"Mejorado\""
+msgstr "=== \"Potenciado\""
 
 #. type: Bullet: '- '
 #: docs/statistics/knowledge.md docs/statistics/defense.md
@@ -303,4 +303,4 @@ msgstr ""
 "|Tipo | Efecto | :expert: efecto |\n"
 "|: --- |: --- |: --- |\n"
 "|Regular | :instant_effect: +1: empoderamiento: | :instant_effect: +2: empoderamiento: |\n"
-"|Mejorado | :instant_effect: +2: empoderamiento: |- |\n"
+"|Potenciado | :instant_effect: +2: empoderamiento: |- |\n"

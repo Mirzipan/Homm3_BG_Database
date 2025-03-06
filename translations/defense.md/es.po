@@ -251,7 +251,7 @@ msgstr ""
 #: docs/statistics/knowledge.md docs/statistics/defense.md
 #: docs/statistics/attack.md docs/statistics/power.md
 msgid "=== \"Empowered\""
-msgstr "=== \"Mejorado\""
+msgstr "=== \"Potenciado\""
 
 #. type: Bullet: '- '
 #: docs/statistics/knowledge.md docs/statistics/defense.md

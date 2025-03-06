@@ -1591,13 +1591,13 @@ msgstr ""
 "| Nombre | Efecto | Efecto :expert: |\n"
 "| :--- | :--- | :--- |\n"
 "| [Ataque](attack.md) | :instant: +1 :attack: | :instant: +2 :attack: |\n"
-"| [Ataque Mejorado](attack.md) | :instant: +2 :attack: | - |\n"
+"| [Ataque Potenciado](attack.md) | :instant: +2 :attack: | - |\n"
 "| [Defensa](defense.md) | :instant: +1 :defense: | :instant: +2 :defense: |\n"
 "| [Defensa Potenciada](defense.md) | :instant: +2 :defense: | - |\n"
 "| [Poder](power.md) | :instant: +1 :empower: | :instant: +2 :empower: |\n"
-"| [Poder Mejorado](power.md) | :instant: +2 :empower: | - |\n"
+"| [Poder Potenciado](power.md) | :instant: +2 :empower: | - |\n"
 "| [Conocimiento](knowledge.md) | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Hechizo](../spells/index.md) card, take it back to your hand. | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Hechizo](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. |\n"
-"| [Conocimiento Mejorado](knowledge.md) | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Hechizo](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. | - |\n"
+"| [Conocimiento Potenciado](knowledge.md) | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Hechizo](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. | - |\n"
 
 #. type: Title #
 #: docs/tiles/index.md
