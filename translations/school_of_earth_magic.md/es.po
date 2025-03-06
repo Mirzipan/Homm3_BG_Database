@@ -296,10 +296,8 @@ msgstr ""
 #: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
-#, fuzzy
 msgid "[School of Water Magic](school_of_water_magic.md)"
 msgstr ""
-
 
 #. type: Plain text
 #: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
@@ -336,17 +334,17 @@ msgstr "Magia de la Escuela de la Tierra"
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md
 msgid "[Anti-Magic](anti-magic.md)"
-msgstr "[Anti-Magia] (anti-magic.md)"
+msgstr "[Anti-Magia](anti-magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md
 msgid "[Earthquake](earthquake.md)"
-msgstr "[Terremoto] (Earthquake.md)"
+msgstr "[Terremoto](earthquake.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md
 msgid "[Shield](shield.md)"
-msgstr "[SHIELD] (SHIELD.MD)"
+msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md
@@ -356,27 +354,27 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md
 msgid "[Stone Skin](stone_skin.md)"
-msgstr "[Piel de piedra] (Stone_skin.md)"
+msgstr "[Piel de Piedra](stone_skin.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md
 msgid "[View Earth](view_earth.md)"
-msgstr "[View Earth] (View_earth.md)"
+msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md
 msgid "[Implosion](implosion.md)"
-msgstr "[Implosión] (implosion.md)"
+msgstr "[Implosión](implosion.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md
 msgid "[Resurrection](resurrection.md)"
-msgstr "[Resurrection] (resurrection.md)"
+msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md
 msgid "[Sorrow](sorrow.md)"
-msgstr "[Dolor] (dolor.md)"
+msgstr "[Dolor](sorrow.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md docs/spells/summon_air_elemental.md
@@ -387,4 +385,4 @@ msgstr "[Summon Earth Elemental] (Summon_earth_elemental.md)"
 #. type: Bullet: '- '
 #: docs/spells/school_of_earth_magic.md
 msgid "[Town Portal](town_portal.md)"
-msgstr "[Portal de la ciudad] (town_portal.md)"
+msgstr "[Portal de la Ciudad](town_portal.md)"

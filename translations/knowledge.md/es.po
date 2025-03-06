@@ -279,18 +279,14 @@ msgstr "Ver También"
 #: docs/events/the_villagers_plea.md docs/statistics/attack.md
 #: docs/statistics/defense.md docs/statistics/knowledge.md
 #: docs/statistics/power.md docs/towns/index.md
-#, fuzzy
 msgid "[List of Heroes](../heroes/index.md)"
 msgstr ""
-
 
 #. type: Plain text
 #: docs/statistics/attack.md docs/statistics/defense.md
 #: docs/statistics/knowledge.md docs/statistics/power.md
-#, fuzzy
 msgid "=== \"Regular\""
 msgstr ""
-
 
 #. type: Plain text
 #: docs/statistics/attack.md docs/statistics/defense.md
@@ -301,10 +297,8 @@ msgstr "=== \"Potenciado\""
 #. type: Bullet: '- '
 #: docs/statistics/attack.md docs/statistics/defense.md
 #: docs/statistics/knowledge.md docs/statistics/power.md
-#, fuzzy
 msgid "[List of Statistics](index.md)"
 msgstr ""
-
 
 #. type: Title #
 #: docs/statistics/knowledge.md
