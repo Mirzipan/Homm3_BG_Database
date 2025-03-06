@@ -298,23 +298,7 @@ msgstr ""
 #, fuzzy
 msgid "[School of Water Magic](school_of_water_magic.md)"
 msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Escuela de Magia Acuática](school_of_water_magic.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+
 
 #. type: Title #
 #: docs/spells/school_of_air_magic.md
@@ -338,43 +322,43 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md
 msgid "[Air Shield](air_shield.md)"
-msgstr "[Air Shield] (air_shield.md)"
+msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md
 msgid "[Disrupting Ray](disrupting_ray.md)"
-msgstr "[Raying Ray] (disrupting_ray.md)"
+msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md
 msgid "[Fortune](fortune.md)"
-msgstr "[Fortuna] (Fortune.md)"
+msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md
 msgid "[Haste](haste.md)"
-msgstr "[Celeridad] (haste.md)"
+msgstr "[Celeridad](haste.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md
 msgid "[Lightning Bolt](lightning_bolt.md)"
-msgstr "[Lightning Bolt] (Lightning_Bolt.md)"
+msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
 #: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
 msgid "[Magic Arrow](magic_arrow.md)"
-msgstr "[Magic Arrow] (Magic_arrow.md)"
+msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md
 msgid "[Precision](precision.md)"
-msgstr "[Precisión] (Precision.MD)"
+msgstr "[Precisión](precision.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md
 msgid "[View Air](view_air.md)"
-msgstr "[Ver aire] (ver_air.md)"
+msgstr "[Ver aire](view_air.md)"
 
 #. type: Title ##
 #: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
@@ -386,25 +370,25 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md
 msgid "[Chain Lightning](chain_lightning.md)"
-msgstr "[Chain Lightning] (Chain_lightning.md)"
+msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md
 msgid "[Counterstrike](counterstrike.md)"
-msgstr "[CounterStrike] (CounterStrike.MD)"
+msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md
 msgid "[Dimension Door](dimension_door.md)"
-msgstr "[Puerta de dimensión] (dimension_door.md)"
+msgstr "[Puerta de dimensión](dimension_door.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md
 msgid "[Fly](fly.md)"
-msgstr "[Fly] (Fly.md)"
+msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md docs/spells/summon_earth_elemental.md
 #: docs/spells/summon_fire_elemental.md docs/spells/summon_water_elemental.md
 msgid "[Summon Air Elemental](summon_air_elemental.md)"
-msgstr "[Summon Air Elemental] (Summon_air_elemental.md)"
+msgstr ""
