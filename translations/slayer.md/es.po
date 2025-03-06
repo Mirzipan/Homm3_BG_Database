@@ -469,27 +469,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Hechizo de Fuego Experto](sch
 #: docs/spells/visions.md
 #, fuzzy
 msgid "[School of Fire Magic](school_of_fire_magic.md)"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Escuela de Magia Ígnea](school_of_fire_magic.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+msgstr "[Escuela de Magia Ígnea](school_of_fire_magic.md)"
 
 #. type: Title #
 #: docs/spells/slayer.md
