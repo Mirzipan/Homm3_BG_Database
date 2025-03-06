@@ -83,9 +83,33 @@ msgstr "Notas"
 #: docs/spells/magic_arrow.md docs/spells/town_portal.md
 #: docs/units/crusaders.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/hydras.md docs/units/liches.md docs/units/titans.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "[^1]: Not officially confirmed by game designers, and is therefore considered a Community rule."
-msgstr "[^1]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria."
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: No se confirma oficialmente por los diseñadores de juegos y, por lo tanto, se considera una regla comunitaria.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: No se confirma oficialmente por los diseñadores de juegos y, por lo tanto, se considera una regla comunitaria.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: No se confirma oficialmente por los diseñadores de juegos y, por lo tanto, se considera una regla comunitaria.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: No se confirma oficialmente por los diseñadores de juegos y, por lo tanto, se considera una regla comunitaria.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: No confirmado oficialmente por los diseñadores del juego, por lo que se considera una norma comunitaria.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: No se confirma oficialmente por los diseñadores de juegos y, por lo tanto, se considera una regla comunitaria.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: No se confirma oficialmente por los diseñadores de juegos y, por lo tanto, se considera una regla comunitaria."
 
 #. type: Title #
 #: docs/keywords/blocked_field.md
@@ -95,42 +119,18 @@ msgstr "Campo Bloqueado"
 
 #. type: Bullet: '- '
 #: docs/keywords/blocked_field.md
-msgid ""
-"A blocked field is fully enclosed by a thick border and heroes are not "
-"allowed to enter it in general."
-msgstr ""
-"Un campo bloqueado está totalmente delimitado por un borde grueso y los "
-"héroes no pueden entrar en él en general."
+msgid "A blocked field is fully enclosed by a thick border and heroes are not allowed to enter it in general."
+msgstr "Un campo bloqueado está totalmente delimitado por un borde grueso y los héroes no pueden entrar en él en general."
 
 #. type: Bullet: '- '
 #: docs/keywords/blocked_field.md
-msgid ""
-"[^1] Should a hero be allowed to enter a blocked field due to an effect, "
-"they may only *pass through*. That means that they are required to "
-"immediately use another movement point during the same turn to move out of "
-"the blocked field. If they would not be able to leave the field, they are "
-"not allowed to enter it."
-msgstr ""
-"[^1] Si a un héroe se le permite entrar en un campo bloqueado debido a un "
-"efecto, sólo podrá *pasarlo*. Esto significa que deben utilizar "
-"inmediatamente otro punto de movimiento durante el mismo turno para salir "
-"del campo bloqueado. Si no pueden salir del campo, no se les permite entrar "
-"en él."
+msgid "[^1] Should a hero be allowed to enter a blocked field due to an effect, they may only *pass through*. That means that they are required to immediately use another movement point during the same turn to move out of the blocked field. If they would not be able to leave the field, they are not allowed to enter it."
+msgstr "[^1] Si a un héroe se le permite entrar en un campo bloqueado debido a un efecto, sólo podrá *pasarlo*. Esto significa que deben utilizar inmediatamente otro punto de movimiento durante el mismo turno para salir del campo bloqueado. Si no pueden salir del campo, no se les permite entrar en él."
 
 #. type: Bullet: '- '
 #: docs/keywords/blocked_field.md
-msgid ""
-"[^1] Should a hero need to retreat back to a blocked field, they are allowed "
-"to do so, as long as they have a spare movement point that they can use to "
-"also move out of the blocked field during the same turn. If they have no "
-"movement points left, they retreat back to the field they were standing on "
-"before moving to the blocked field instead."
-msgstr ""
-"[^1] Si un héroe necesita retirarse a un campo bloqueado, puede hacerlo, "
-"siempre que tenga un punto de movimiento de sobra que pueda utilizar para "
-"salir del campo bloqueado durante el mismo turno. Si no le quedan puntos de "
-"movimiento, se retira al campo en el que estaba antes de moverse al campo "
-"bloqueado."
+msgid "[^1] Should a hero need to retreat back to a blocked field, they are allowed to do so, as long as they have a spare movement point that they can use to also move out of the blocked field during the same turn. If they have no movement points left, they retreat back to the field they were standing on before moving to the blocked field instead."
+msgstr "[^1] Si un héroe necesita retirarse a un campo bloqueado, puede hacerlo, siempre que tenga un punto de movimiento de sobra que pueda utilizar para salir del campo bloqueado durante el mismo turno. Si no le quedan puntos de movimiento, se retira al campo en el que estaba antes de moverse al campo bloqueado."
 
 #. type: Bullet: '- '
 #: docs/keywords/blocked_field.md
@@ -139,14 +139,5 @@ msgstr "Un héroe no puede terminar su turno en un campo bloqueado."
 
 #. type: Bullet: '- '
 #: docs/keywords/blocked_field.md
-msgid ""
-"[^1] A field that is occupied by a player's hero may be used by the player's "
-"other hero to *pass through*. This means the hero needs to have another "
-"movement point available after moving to the field. Fields occupied by the "
-"player's heroes follow the same rules as blocked fields."
-msgstr ""
-"[^1] Un campo ocupado por el héroe de un jugador puede ser utilizado por el "
-"otro héroe del jugador para *pasar a través*. Esto significa que el héroe "
-"necesita tener otro punto de movimiento disponible después de moverse al "
-"campo. Los campos ocupados por los héroes del jugador siguen las mismas "
-"reglas que los campos bloqueados."
+msgid "[^1] A field that is occupied by a player's hero may be used by the player's other hero to *pass through*. This means the hero needs to have another movement point available after moving to the field. Fields occupied by the player's heroes follow the same rules as blocked fields."
+msgstr "[^1] Un campo ocupado por el héroe de un jugador puede ser utilizado por el otro héroe del jugador para *pasar a través*. Esto significa que el héroe necesita tener otro punto de movimiento disponible después de moverse al campo. Los campos ocupados por los héroes del jugador siguen las mismas reglas que los campos bloqueados."

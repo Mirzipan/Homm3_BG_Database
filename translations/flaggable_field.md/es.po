@@ -372,10 +372,20 @@ msgstr "[Ciudad](../fields/town.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/keywords/revisitable_field.md
+#, fuzzy
 msgid "[Visitable Field](visitable_field.md)"
-msgstr "[Zona Visitable](visitable_field.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Zona Visitable](visitable_field.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lugar Visitable](visitable_field.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/keywords/visitable_field.md
+#, fuzzy
 msgid "[Revisitable Field](revisitable_field.md)"
-msgstr "[Zona Revisitable] (revisable_field.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Zona Revisitable] (revisable_field.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lugar Revisitable] (revisable_field.md)"

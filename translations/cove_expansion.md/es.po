@@ -269,8 +269,33 @@ msgstr "Dentro de la Caja"
 #: docs/content/fortress_expansion.md docs/content/inferno_expansion.md
 #: docs/content/rampart_expansion.md docs/content/regular_stretch_goals.md
 #: docs/content/stronghold_expansion.md docs/content/tower_expansion.md
+#, fuzzy
 msgid "[List of Content](index.md)"
-msgstr "[Lista de Contenido](index.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lista de Contenido](index.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lista de Contenido](index.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lista de Contenido](index.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lista de Contenido](index.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lista de Contenido](index.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lista de Contenido](index.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lista de Contenido](index.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lista de Contenido] (index.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lista de Contenido] (index.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lista de Contenido] (index.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lista de Contenido] (index.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lista de Contenido] (index.md)"
 
 #. type: Title #
 #: docs/content/cove_expansion.md

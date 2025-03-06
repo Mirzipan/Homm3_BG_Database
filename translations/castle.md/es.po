@@ -629,13 +629,23 @@ msgstr ":golden: [Arcángeles](../units/archangels.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/castle.md
+#, fuzzy
 msgid ":bronze: [Halberdiers](../units/halberdiers.md)"
-msgstr ":bronce: [Alabarderos](../units/halberdiers.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+":bronze: [Alabarderos](../units/halberdiers.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+":bronce: [Alabarderos](../units/halberdiers.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/castle.md
+#, fuzzy
 msgid ":silver: [Crusaders](../units/crusaders.md)"
-msgstr ":plata: [Cruzados](../units/crusaders.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+":silver: [Cruzados](../units/crusaders.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+":plata: [Cruzados](../units/crusaders.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/castle.md
@@ -699,8 +709,23 @@ msgstr ""
 #: docs/towns/castle.md docs/towns/dungeon.md docs/towns/fortress.md
 #: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/rampart.md
 #: docs/towns/tower.md
+#, fuzzy
 msgid "=== \"Fully Built\""
-msgstr "=== \"Totalmente Construido\""
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente Construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente Construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente Construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente construido\""
 
 #. type: Plain text
 #: docs/towns/castle.md
@@ -718,8 +743,23 @@ msgstr ""
 #: docs/towns/castle.md docs/towns/dungeon.md docs/towns/fortress.md
 #: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/rampart.md
 #: docs/towns/tower.md
+#, fuzzy
 msgid "=== \"Back Side\""
-msgstr "=== \"Lado Trasero\""
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Back Side\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Lado Trasero\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Reverso\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Reverso\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Back Side\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Back Side\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Back Side\""
 
 #. type: Plain text
 #: docs/towns/castle.md

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2024-10-18 16:54+0200\n"
+"POT-Creation-Date: 2025-02-16 09:10+0000\n"
 "PO-Revision-Date: 2025-02-25 10:35+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -28,8 +28,7 @@ msgstr ""
 #: docs/abilities/resistance.md docs/abilities/sorcery.md
 #: docs/abilities/water_magic.md docs/artifacts/angel_wings.md
 #: docs/artifacts/arms_of_legion.md docs/artifacts/centaurs_axe.md
-#: docs/artifacts/head_of_legion.md
-#: docs/artifacts/inexhaustible_cart_of_ore.md
+#: docs/artifacts/head_of_legion.md docs/artifacts/inexhaustible_cart_of_ore.md
 #: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
 #: docs/artifacts/spellbinders_hat.md docs/artifacts/torso_of_legion.md
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -38,17 +37,22 @@ msgstr ""
 #: docs/astrologers_proclaim/forty_thieves.md
 #: docs/astrologers_proclaim/friendly_beaver.md
 #: docs/astrologers_proclaim/mcgiver.md
-#: docs/astrologers_proclaim/unexpected_reinforcements.md
-#: docs/heroes/adelaide.md docs/heroes/alamar.md docs/heroes/deemer.md
-#: docs/heroes/jeddite.md docs/heroes/sandro.md docs/heroes/sephinroth.md
-#: docs/heroes/solmyr.md docs/heroes/tazar.md docs/heroes/xyron.md
-#: docs/keywords/blocked_field.md docs/keywords/flying_unit.md
-#: docs/keywords/ground_unit.md docs/keywords/major_artifact.md
-#: docs/keywords/minor_artifact.md docs/keywords/paralysis.md
+#: docs/astrologers_proclaim/unexpected_reinforcements.md docs/fields/town.md
+#: docs/fields/windmill.md docs/heroes/adelaide.md docs/heroes/alamar.md
+#: docs/heroes/deemer.md docs/heroes/jeddite.md docs/heroes/sandro.md
+#: docs/heroes/sephinroth.md docs/heroes/solmyr.md docs/heroes/tazar.md
+#: docs/heroes/xyron.md docs/keywords/blocked_field.md
+#: docs/keywords/center_tile.md docs/keywords/empty_field.md
+#: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
+#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
+#: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
+#: docs/keywords/near_tile.md docs/keywords/paralysis.md
 #: docs/keywords/permanent_effect.md docs/keywords/ranged_unit.md
-#: docs/keywords/relic_artifact.md docs/spells/anti-magic.md
-#: docs/spells/berserk.md docs/spells/bless.md docs/spells/blind.md
-#: docs/spells/chain_lightning.md docs/spells/cure.md
+#: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
+#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
+#: docs/spells/blind.md docs/spells/chain_lightning.md docs/spells/cure.md
 #: docs/spells/dimension_door.md docs/spells/dispel.md
 #: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
 #: docs/spells/fortune.md docs/spells/frost_ring.md docs/spells/haste.md
@@ -71,9 +75,9 @@ msgstr ""
 #: docs/units/mummies.md docs/units/nomads.md docs/units/peasants.md
 #: docs/units/pegasi.md docs/units/pit_lords.md docs/units/rogues.md
 #: docs/units/skeletons.md docs/units/titans.md docs/units/trolls.md
-#: docs/units/unicorns.md docs/units/vampires.md
-#: docs/units/water_elementals.md docs/units/wraiths.md docs/units/wyverns.md
-#: docs/units/zombies.md docs/war_machines/first_aid_tent.md
+#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
+#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zombies.md
+#: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
 msgstr "Notas"
@@ -85,9 +89,31 @@ msgstr "Notas"
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text."
-msgstr "[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto."
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos.Esta explicación no es válida para todos los modos de juego.La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[^1]: Excepciones para modos de juego específicos.Esta explicación no es válida para todos los modos de juego.La variante específica para el modo de juego se menciona en el texto."
 
 #. type: Title #
 #: docs/keywords/flying_unit.md
@@ -97,42 +123,23 @@ msgstr ":unit_flying: Unidad Voladora"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
-msgid ""
-"[^1] Flying units may move up to 3 spaces in Combat on the small "
-"battlefield. On the [large battlefield](../content/battlefield_expansion."
-"md), their movement range is equal to their :initiative: value instead."
-msgstr ""
-"[^1] Las unidades voladoras pueden mover hasta 3 espacios en Combate en el "
-"campo de batalla pequeño. En el [campo de batalla grande](../content/"
-"battlefield_expansion.md), su rango de movimiento es igual a su valor de :"
-"initiative:."
+msgid "[^1] Flying units may move up to 3 spaces in Combat on the small battlefield. On the [large battlefield](../content/battlefield_expansion.md), their movement range is equal to their :initiative: value instead."
+msgstr "[^1] Las unidades voladoras pueden mover hasta 3 espacios en Combate en el campo de batalla pequeño. En el [campo de batalla grande](../content/battlefield_expansion.md), su rango de movimiento es igual a su valor de :initiative:."
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
-msgid ""
-"[^1] Flying units may attack first, and then move. On the [large "
-"battlefield](../content/battlefield_expansion.md), their movement always "
-"comes first."
-msgstr ""
-"[^1] Las unidades voladoras pueden atacar primero y mover después. En el "
-"[gran campo de batalla](../content/battlefield_expansion.md), su movimiento "
-"siempre va primero."
+msgid "[^1] Flying units may attack first, and then move. On the [large battlefield](../content/battlefield_expansion.md), their movement always comes first."
+msgstr "[^1] Las unidades voladoras pueden atacar primero y mover después. En el [gran campo de batalla](../content/battlefield_expansion.md), su movimiento siempre va primero."
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
 msgid "Flying units may move first and then attack during their activation."
-msgstr ""
-"Las unidades voladoras pueden moverse primero y luego atacar durante su "
-"activación."
+msgstr "Las unidades voladoras pueden moverse primero y luego atacar durante su activación."
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
-msgid ""
-"Flying units may move over obstacles, as long as their movement ends on an "
-"empty space."
-msgstr ""
-"Las unidades voladoras pueden moverse por encima de obstáculos, siempre que "
-"su movimiento termine en un espacio vacío."
+msgid "Flying units may move over obstacles, as long as their movement ends on an empty space."
+msgstr "Las unidades voladoras pueden moverse por encima de obstáculos, siempre que su movimiento termine en un espacio vacío."
 
 #. type: Title #
 #: docs/keywords/flying_unit.md
