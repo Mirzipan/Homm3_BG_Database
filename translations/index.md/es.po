@@ -1426,7 +1426,6 @@ msgstr "[Escuela de Magia Terrestre](school_of_earth_magic.md)"
 #: docs/spells/school_of_earth_magic.md docs/spells/school_of_water_magic.md
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #: docs/spells/visions.md
-#, fuzzy
 msgid "[School of Fire Magic](school_of_fire_magic.md)"
 msgstr "[Escuela de Magia Ígnea](school_of_fire_magic.md)"
 
