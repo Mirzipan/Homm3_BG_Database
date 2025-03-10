@@ -744,6 +744,7 @@ msgid ""
 msgstr ""
 "| Nombre | Efecto | [Contenido](../content/index.md) |\n"
 "| :--- | :---: | :--- |\n"
+
 "| [Una Subasta Turbia](a_shady_auction.md) | Repite 3 veces: Revela la carta superior del mazo de [Artefacto](../artifacts/index.md). En secreto, cada jugador coge tanto :gold: en su mano como esté dispuesto a pagar por él. Luego revelan sus apuestas al mismo tiempo. El que tenga la propuesta más alta entrega el :gold: y reclama la carta. Si no hay apuestas o hay empate, descarta la carta. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Comerciante de Artefactos](artifact_merchant.md) | Roba 5 [artefactos](../artifacts/index.md). Puedes comprar cualquier cantidad de ellos o colocar una carta descubierta en la pila de descartes de [Artefacto](../artifacts/index.md). Cuando acabes, pasa el resto de cartas al jugador de la izquierda. El intercambio tendrá lugar hasta que la última carta sea comprada o hasta que las cartas vuelvan al jugador que las robó. Las cartas de [Artefactos Menores](../keywords/minor_artifact.md) cuestan 3 :gold:, [Mayor](../keywords/major_artifact.md) 5 :gold:, [Reliquia](../keywords/relic_artifact.md) 7 :gold:. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Cripta](crypt.md) | **Cada jugador elige una opción:** <br>Obtener Moral Negativa. Después tira 2 [:treasure:](../dice.md#treasure-die). Si alguno de ellos muestra #, no ganas nada. En caso contrario, resuelve un resultado.<br><br>— O —<br><br>Obtener Moral Positiva.<br><br>— O —<br><br>Sólo para [:necro:](../towns/necropolis.md). **Refuerza** una de tus :bronze: o :silver: por la mitad del coste. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
@@ -764,6 +765,7 @@ msgstr ""
 "| [Establos](stables.md) | **Cada jugador elige una opción:** <br>Tu [héroe](../heroes/index.md) principal gana +1 :movement:.<br><br>— O —<br><br>:pay: 1 :movement: de cualquiera de tus [héroes](../heroes/index.md) para tirar 1 [:resource_die:](../dice.md#resource-die). | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [La Súplica de los Aldeanos](the_villagers_plea.md) | **Cada jugador elige una opción:** <br>Retira una carta de [Artefacto](../artifacts/index.md) o [Hechizo](../spells/index.md) de tu mano.<br><br>— O —<br><br>:pay: 1 :building_materials:<br><br>— O —<br><br>:pay: 5 :gold:<br><br>— O —<br><br>:pay: 1 :movement: de cualquiera de tus [héroes](../heroes/index.md). | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Ermitaño Marchito](withered_hermit.md) | **Cada jugador elige una opción:** <br>Nombra un recurso para que no salga en ninguno de los dados y tira 3 [:resource_die:](../dice.md#resource-die). Si aciertas, resuelve uno de los dados. Si te equivocas, elige un resultado y réstalo de tus recursos.<br><br>— O —<br><br>Lanza 1 [:resource_die:](../dice.md#resource-die). Puedes pagar los recursos indicados para **Buscar(2)** en el mazo de [Artefacto](../artifacts/index.md).<br><br>— O —<br><br>Leave and gain nothing. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+
 
 #. type: Bullet: '- '
 #: docs/events/index.md
