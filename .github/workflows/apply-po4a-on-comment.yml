@@ -22,13 +22,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: xt0rted/pull-request-comment-branch@v2
+      - uses: xt0rted/pull-request-comment-branch@v3
         id: comment-branch
 
       - name: Set up repository
         uses: actions/checkout@v4
         with:
           ref: ${{ steps.comment-branch.outputs.head_ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
 
       - name: Check if user has write access
         id: write_access
