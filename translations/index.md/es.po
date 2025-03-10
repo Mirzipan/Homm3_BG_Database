@@ -765,7 +765,6 @@ msgstr ""
 "| [La Súplica de los Aldeanos](the_villagers_plea.md) | **Cada jugador elige una opción:** <br>Retira una carta de [Artefacto](../artifacts/index.md) o [Hechizo](../spells/index.md) de tu mano.<br><br>— O —<br><br>:pay: 1 :building_materials:<br><br>— O —<br><br>:pay: 5 :gold:<br><br>— O —<br><br>:pay: 1 :movement: de cualquiera de tus [héroes](../heroes/index.md). | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Ermitaño Marchito](withered_hermit.md) | **Cada jugador elige una opción:** <br>Nombra un recurso para que no salga en ninguno de los dados y tira 3 [:resource_die:](../dice.md#resource-die). Si aciertas, resuelve uno de los dados. Si te equivocas, elige un resultado y réstalo de tus recursos.<br><br>— O —<br><br>Lanza 1 [:resource_die:](../dice.md#resource-die). Puedes pagar los recursos indicados para **Buscar(2)** en el mazo de [Artefacto](../artifacts/index.md).<br><br>— O —<br><br>Leave and gain nothing. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 
-
 #. type: Bullet: '- '
 #: docs/events/index.md
 msgid "[List of Astrologers Proclaim Card](../astrologers_proclaim/index.md)"
