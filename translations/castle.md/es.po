@@ -629,23 +629,13 @@ msgstr ":golden: [Arcángeles](../units/archangels.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/castle.md
-#, fuzzy
 msgid ":bronze: [Halberdiers](../units/halberdiers.md)"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-":bronze: [Alabarderos](../units/halberdiers.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-":bronce: [Alabarderos](../units/halberdiers.md)"
+msgstr ":bronze: [Alabarderos](../units/halberdiers.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/castle.md
-#, fuzzy
 msgid ":silver: [Crusaders](../units/crusaders.md)"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-":silver: [Cruzados](../units/crusaders.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-":plata: [Cruzados](../units/crusaders.md)"
+msgstr ":silver: [Cruzados](../units/crusaders.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/castle.md

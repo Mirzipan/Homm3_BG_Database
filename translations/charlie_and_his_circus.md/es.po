@@ -502,7 +502,6 @@ msgstr "[^1] Cuando se juega con miniaturas (ej. cuando se juega en el gran camp
 msgid "[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text."
 msgstr "[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto."
 
-
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
 #: docs/astrologers_proclaim/annoying_lizard.md
