@@ -488,13 +488,8 @@ msgstr "[Expansión de Muralla](../content/rampart_expansion.md)"
 #. type: Bullet: '- '
 #: docs/abilities/diplomacy.md
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
-#, fuzzy
 msgid "[^1] When played with miniatures (e.g. such as when playing on the large battlefield), this ability cannot be used to recruit units from a faction controller by another player, nor to recruit neutral units that are already recruited by another player. Should a player draw such card, that may not be recruited, they shall draw a replacement card instead."
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1] Cuando se juega con miniaturas ( ej. cuando se juega en el campo de batalla grande), esta habilidad no puede ser usada para reclutar unidades de una facción controlada por otro jugador, ni para reclutar unidades neutrales que ya estén reclutadas por otro jugador. Si un jugador roba una carta de este tipo, que no puede ser reclutada, deberá robar una carta de reemplazo en su lugar.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1] Cuando se juega con miniaturas (ej. cuando se juega en el gran campo de batalla), esta habilidad no puede utilizarse para reclutar unidades de una facción controlada por otro jugador, ni para reclutar unidades neutrales que ya estén reclutadas por otro jugador. Si un jugador roba una carta de este tipo, que no puede ser reclutada, deberá robar una carta de reemplazo en su lugar."
+msgstr "[^1] Cuando se juega con miniaturas (ej. cuando se juega en el gran campo de batalla), esta habilidad no puede utilizarse para reclutar unidades de una facción controlada por otro jugador, ni para reclutar unidades neutrales que ya estén reclutadas por otro jugador. Si un jugador roba una carta de este tipo, que no puede ser reclutada, deberá robar una carta de reemplazo en su lugar."
 
 #. type: Link reference
 #: docs/abilities/diplomacy.md
@@ -503,31 +498,10 @@ msgstr ""
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text."
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es válida para todos los modos de juego.La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es válida para todos los modos de juego.La variante específica para el modo de juego se menciona en el texto."
+msgstr "[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto."
+
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -718,13 +692,8 @@ msgstr "<p style=\"text-align: center;\" markdown>*¡Hola, Héroe! ¿No quieres 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
-#, fuzzy
 msgid ":azure: units may *not* be recruited via this card."
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"Las unidades :azure: no pueden ser reclutadas a través de esta carta.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-" :azure: Las unidades pueden * no * ser reclutadas a través de esta tarjeta."
+msgstr "Las unidades :azure: no pueden ser reclutadas a través de esta carta."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
