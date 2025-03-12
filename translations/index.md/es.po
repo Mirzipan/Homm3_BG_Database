@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2025-03-06 00:32+0000\n"
-"PO-Revision-Date: 2025-03-06 23:10+0100\n"
+"PO-Revision-Date: 2025-03-12 14:45+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -667,7 +667,7 @@ msgstr ""
 #: docs/statistics/defense.md docs/statistics/knowledge.md
 #: docs/statistics/power.md docs/towns/index.md
 msgid "[List of Heroes](../heroes/index.md)"
-msgstr ""
+msgstr "[Lista de Héroes](../heroes/index.md)"
 
 #. type: Title #
 #: docs/content/index.md
@@ -751,7 +751,7 @@ msgstr ""
 "| [Cueva de Ladrones](den_of_thieves.md) | Coge las 2 cartas superiores de un mazo de [Unidad Neutral](../units/index.md) de tu elección. Puedes comprar una de ellas. Luego decide qué hacer con la(s) carta(s) restante(s): puedes colocarlas en la parte inferior o superior del mazo de [Unidad Neutral](../units/index.md) respectivo. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Jardín de la Revelación](garden_of_revelation.md) | **Cada jugador elige una opción:** <br>Roba 4 cartas de tu pila de descartes o de tu mazo. A continuación, elimina cualquier número de cartas de [Hechizo](../spells/index.md) o [Habilidad](../abilities/index.md) de tu mano. Por cada dos cartas eliminadas de esta forma, **Busca(2)** en el mazo de [Hechizo](../spells/index.md) o en el mazo de [Habilidad](../abilities/index.md). Después, descarta todas las cartas de la mano y roba hasta completar tu :hand:.<br><br>— O —<br><br>Déjalo y no ganes nada. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Biblioteca de la Ilustración](library_of_enlightenment.md) | Por cada jugador de la partida, roba las dos cartas de [Hechizo](../spells/index.md) superiores y ponlas boca arriba al alcance de todos los jugadores. Cada jugador puede comprar uno de estos [:spellpower:](../spells/index.md) por 6 :gold: o 2 :valuables:. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
-"| [Laboratorio de Magos](mage_laboratory.md) | Por cada jugador de la partida, roba dos cartas de [Hechizo](../hechizos/index.md) y colócalas boca arriba al alcance de todos los jugadores. Cada jugador puede comprar uno de estos [:spellpower:](../spells/index.md) por 4 :gold: o 1 :valuables:. Si un jugador compra una carta, baraja inmediatamente su mazo y su pila de descartes junto con la carta recién comprada. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Laboratorio de Magos](mage_laboratory.md) | Por cada jugador de la partida, roba dos cartas de [Hechizo](../spells/index.md) y colócalas boca arriba al alcance de todos los jugadores. Cada jugador puede comprar uno de estos [:spellpower:](../spells/index.md) por 4 :gold: o 1 :valuables:. Si un jugador compra una carta, baraja inmediatamente su mazo y su pila de descartes junto con la carta recién comprada. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Bosque Mágico](magical_forest.md) | Elige 1 carta de [Hechizo](../spells/index.md), [Artefacto](../artifacts/index.md), o [Habilidad](../abilities/index.md) de tu mano y ponla boca abajo sobre la mesa.<br><br>— O —<br><br>Roba y mira 1 carta del mazo de [Hechizo](../spells/index.md), [Artefacto](../artifacts/index.md), o [Habilidad](../abilities/index.md) y ponla boca abajo sobre la mesa.<br><br>Cuando todos los jugadores hayan añadido una carta al mazo, barájalo. Cada jugador puede ahora coger una carta de la reserva o ganar 4 :gold:. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Mercado del Tiempo](market_of_time.md) | **Cada jugador elige una opción:** <br>Descarta tantas cartas como quieras, luego roba nuevas cartas hasta tu :hand: +2. Retira cualquier número de cartas de [Habilidad](../abilities/index.md) o [Hechizo](../spells/index.md) de tu mano. Por cada dos cartas eliminadas de esta forma, puedes **Buscar (2)** en el mazo de [Artefacto](../artifacts/index.md).<br><br>— O —<br><br>Déjalo y no ganes nada. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Mercado](marketplace.md) | ** Cada jugador elige una opción:** <br>Lanzar 1 [:resource_die:](../dice.md#resource-die) y resolver sus efectos.<br><br>— O —<br><br>[Comerciar](../trading.md) recursos usando las reglas del Puesto de Comercio.<br><br>— O —<br><br>Proponer un intercambio de recursos con otros jugadores - un tipo de recurso por otro tipo de recurso. Cada jugador puede proponer un trato. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
@@ -763,7 +763,7 @@ msgstr ""
 "| [Santuario del Pensamiento Mágico](shrine_of_the_magic_thought.md) | Por cada jugador de la partida, roba dos cartas de [Hechizo](../spells/index.md) al azar y colócalas boca arriba al alcance de todos los jugadores. Cada jugador puede comprar una de estas [:spellpower:](../spells/index.md) por 6 :gold: o 2 :valuables: o lanzar y resolver 1 [:resource_die:](../dice.md#resource-die). Coloca las cartas restantes, no compradas, en la pila de descartes de [Hechizo](../spells/index.md). | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Establos](stables.md) | **Cada jugador elige una opción:** <br>Tu [héroe](../heroes/index.md) principal gana +1 :movement:.<br><br>— O —<br><br>:pay: 1 :movement: de cualquiera de tus [héroes](../heroes/index.md) para tirar 1 [:resource_die:](../dice.md#resource-die). | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [La Súplica de los Aldeanos](the_villagers_plea.md) | **Cada jugador elige una opción:** <br>Retira una carta de [Artefacto](../artifacts/index.md) o [Hechizo](../spells/index.md) de tu mano.<br><br>— O —<br><br>:pay: 1 :building_materials:<br><br>— O —<br><br>:pay: 5 :gold:<br><br>— O —<br><br>:pay: 1 :movement: de cualquiera de tus [héroes](../heroes/index.md). | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
-"| [Ermitaño Marchito](withered_hermit.md) | **Cada jugador elige una opción:** <br>Nombra un recurso para que no salga en ninguno de los dados y tira 3 [:resource_die:](../dice.md#resource-die). Si aciertas, resuelve uno de los dados. Si te equivocas, elige un resultado y réstalo de tus recursos.<br><br>— O —<br><br>Lanza 1 [:resource_die:](../dice.md#resource-die). Puedes pagar los recursos indicados para **Buscar(2)** en el mazo de [Artefacto](../artifacts/index.md).<br><br>— O —<br><br>Leave and gain nothing. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Ermitaño Marchito](withered_hermit.md) | **Cada jugador elige una opción:** <br>Nombra un recurso para que no salga en ninguno de los dados y tira 3 [:resource_die:](../dice.md#resource-die). Si aciertas, resuelve uno de los dados. Si te equivocas, elige un resultado y réstalo de tus recursos.<br><br>— O —<br><br>Lanza 1 [:resource_die:](../dice.md#resource-die). Puedes pagar los recursos indicados para **Buscar(2)** en el mazo de [Artefacto](../artifacts/index.md).<br><br>— O —<br><br>Déjalo y no ganes nada. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 
 #. type: Bullet: '- '
 #: docs/events/index.md
@@ -1062,33 +1062,33 @@ msgstr "Inicio"
 #: docs/index.md
 #, no-wrap
 msgid ":attack: What Is This?"
-msgstr ":attack: ¿Qué es esto?"
+msgstr ":attack: ¿Qué Es Esto?"
 
 #. type: Plain text
 #: docs/index.md
 msgid "A simple collection of cards contained within the Heroes of Might and Magic 3: The Board Game, that also offers extra explanations for how some cards work or interact with others."
-msgstr "Una sencilla colección de cartas contenidas en Heroes of Might and Magic 3: El Juego de Mesa, que también ofrece explicaciones extra sobre cómo funcionan algunas cartas o interactúan con otras."
+msgstr "Una sencilla colección de las cartas contenidas en Heroes of Might and Magic 3: El Juego de Mesa, que también ofrece explicaciones extra sobre cómo funcionan algunas cartas o interactúan con otras."
 
 #. type: Plain text
 #: docs/index.md
 msgid "Every now and then I want to see what some cards do, either while theorycrafting about what to play, or even during play, when I want to check or reference something. This database is meant to provide an easy way to find any card contained within the game, including a visual reference and extra information where necessary or applicable."
-msgstr "De vez en cuando quiero ver lo que hacen algunas cartas, ya sea mientras elaboro la teoría sobre qué jugar, o incluso durante el juego, cuando quiero comprobar o hacer referencia a algo. Esta base de datos pretende ofrecer una forma sencilla de encontrar cualquier carta del juego, incluyendo una referencia visual e información adicional cuando sea necesario o aplicable."
+msgstr "De vez en cuando quiero ver lo que hacen algunas cartas, ya sea mientras teorizo sobre qué jugar, o incluso durante el juego, cuando quiero comprobar o hacer referencia a algo. Esta base de datos pretende ofrecer una forma sencilla de encontrar cualquier carta del juego, incluyendo una referencia visual e información adicional cuando sea necesario o aplicable."
 
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
 msgid ":defense: Future Plans?"
-msgstr ":defense: ¿Planes futuros?"
+msgstr ":defense: ¿Planes Futuros?"
 
 #. type: Bullet: '* '
 #: docs/index.md
 msgid "Adding extra explanations to all cards that may need some"
-msgstr "Añadir explicaciones adicionales a todas las tarjetas que puedan necesitar alguna"
+msgstr "Añadir explicaciones adicionales a todas las cartas que puedan necesitar alguna"
 
 #. type: Bullet: '* '
 #: docs/index.md
 msgid "Fixing incorrect information (all of the cards were put in by hand, there is a chance that some may contains typos or other inaccuracies)"
-msgstr "Se corrigen los datos incorrectos (todas las fichas se rellenaron a mano, por lo que es posible que algunas contengan erratas u otras imprecisiones)."
+msgstr "Corregir los datos incorrectos (todas las cartas se han incluido a mano, por lo que es posible que algunas contengan erratas u otras imprecisiones)."
 
 #. type: Title ##
 #: docs/index.md
@@ -1099,7 +1099,7 @@ msgstr ":empower: Descargo de Responsabilidad"
 #. type: Plain text
 #: docs/index.md
 msgid "This project is a fan project, and is in no way official or affiliated with [Archon Studio](https://archon-studio.com)."
-msgstr "Este proyecto es un proyecto de fans, y no es de ninguna manera oficial o afiliado con [Archon Studio](https://archon-studio.com)."
+msgstr "Este proyecto es un proyecto de aficionados, y no es de ningún modo oficial o afiliado con [Archon Studio](https://archon-studio.com)."
 
 #. type: Title ##
 #: docs/index.md
@@ -1126,7 +1126,7 @@ msgstr "[Libro de Misiones por Aficionados](https://github.com/qwrtln/Homm3BG-mi
 #: docs/index.md
 #, no-wrap
 msgid ":initiative: Credits & Thanks"
-msgstr ":initiative: Créditos y Gracias"
+msgstr ":initiative: Créditos y Agradecimientos"
 
 #. type: Bullet: '- '
 #: docs/index.md
@@ -1322,7 +1322,7 @@ msgstr "Modo de un jugador en solitario contra una IA enemiga. Incluye una serie
 
 #. type: Plain text
 #: docs/scenarios/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Name | Scenarios | [Faction](../towns/index.md) | Description |\n"
 "| :--- | :--- | :---: | :--- |\n"
@@ -1335,12 +1335,12 @@ msgid ""
 msgstr ""
 "| Nombre | Escenarios | [Facción](../towns/index.md) | Descripción |\n"
 "| :--- | :--- | :---: | :--- |\n"
-"| Long Live The Queen | 1. Homecoming<br><br>2. Guardian Angels<br><br>3. Steadwick’s Liberation | [Castillo](../towns/castle.md) | Our landing has confirmed both our rumors and fears. With the death of my father, Erathia’s lands are being greedily divided by her neighbors. |\n"
-"| Dragon’s Blood | 1. Savaging The Scavengers<br><br>2. Blood Of The Dragon Father<br><br>3. Blood Thirsty | [Mazmorra](../towns/dungeon.md) | Overlord Mutare, an ambitious Nighon Lady, wishes to take her rightful place among the ranks of powerful Nighon Lords. In Nighon, you don’t inherit your lands - you take them from those too weak to hold them. Only the strong are fit to rule, and the bones of the weak litter the tunnels of Nighon. |\n"
-"| Rise Of The Necromancer | 1. Target<br><br>2. Master<br><br>3. Duke Alarice | [Necrópolis](../towns/necropolis.md) | Sandro must fight his way past his old master and several other lords who want the artifacts he carries. Once in Deyja he will make allies and soon rise to the top of the Deyja hierarchy. |\n"
-"| The Dragon Slayer | 1. Crystal Dragons<br><br>2. Rust Dragons<br><br>3. Faerie Dragons<br><br>4. Azure Dragons | [Torre](../towns/tower.md) | The way of a Dragon Slayer is harm’s way. To prove himself one, Dracon has to rise to a handful of perilous challenges, and defeating a Crystal Dragon is but the first step. Once it is made, Dracon will have to seek out and battle the greatest wyrm to have ever lived, as only when the Azure Dragon perishes can Dracon truly call himself a Dragon Slayer. |\n"
-"| Playing With Fire | 1. Farming Towns<br><br>2. March Of The Undead<br><br>3. Burning Of Tatalia | [Fortaleza](../towns/fortress.md) | After the Restoration of Erathia, the necromantic cult of Lord Haart was made illegal, and its members went underground. Cultists resurrected their leader and decided to move to Tatalia.<br>At the same time, after receiving lessons from clerics in Steadwick - the Erathian capital, the witch Adrienne returns to her homeland - Tatalia. Her brethren treat her with distrust also because she specializes in fire magic, rare in Tatalia. She discovers a Death Knight is turning the local population into a harvesting ground for Undead. Restore the land and hunt down this evil. Utter extermination of the undead plague is your ultimate goal. |\n"
-"| Dead-Cold Revenge | 1. Search For A Killer<br><br>2. Final Peace<br><br>3. Agents Of Vengeance | [Muralla](../towns/rampart.md) | When two AvLee lords are found dead, Gem and Gelu set out on their vengeful quest to seek justice. Their fates, however, unexpectedly lead them to find much more than they had hoped for. Will they manage to foil the sinister plot brewing on AvLee borders, or has the gruesome discovery come too late to stop the Necromancers’ schemes? |\n"
+"| Larga Vida a la Reina | 1. De Regreso al Hogar<br><br>2. Ángeles Guardianes<br><br>3. La Liberación de Steadwick | [Castillo](../towns/castle.md) | Al desembarcar hemos podido confirmar que los rumores y nuestros miedos eran reales. Tras la muerte de mi padre, los reinos vecinos están dividiendo las tierras de Erathia para satisfacer su codicia. |\n"
+"| La Sangre del Dragón | 1. Limpieza de Aspirantes<br><br>2. Sangre del Padre Dragón<br><br>3. Sed de Sangre | [Mazmorra](../towns/dungeon.md) | La señora Mutare, una ambiciosa dama de Nighon, desea hacerse con el lugar que le corresponde entre las filas de los poderosos señores de Nighon. Las tierras de Nighon no se heredan, sino que se les arrebatan a quienes son demasiado débiles como para resistirse. Solo los más fuertes pueden gobernar, y los túneles de Nighon están sembrados con los huesos de los débiles. |\n"
+"| El Ascenso del Nigromante | 1. Objetivo<br><br>2. Maestro<br><br>3. Duque Alarice | [Necrópolis](../towns/necropolis.md) | Sandro debe luchar contra su antiguo maestro y varios señores más que quieren los artefactos que posee. Una vez que llegue a Deyja, conseguirá aliados y pronto alcanzará lo más alto de la jerarquía. |\n"
+"| El Matadragones | 1. Dragones de Cristal<br><br>2. Dragones Herrumbrosos<br><br>3. Dragones Hada<br><br>4. Dragones Azures | [Torre](../towns/tower.md) | El camino del matadragones es un camino de violencia. Para demostrar su valía, Dracon deberá enfrentarse a un puñado de peligrosos desafíos, y el primer paso es derrotar a un dragón de cristal. Una vez que lo consiga, tendrá que buscar y luchar contra el wyrm más poderoso que jamás ha existido, pues solo cuando el dragón azur perezca Dracon podrá considerarse un verdadedor matadragones. |\n"
+"| Jugando con Fuego | 1. Cosecha de Ciudades<br><br>2. March Of The Undead<br><br>3. Burning Of Tatalia | [Fortaleza](../towns/fortress.md) | La secta necromántica de Lord Haart fue ilegalizada después de la Restauración de Erathia. Desde la clandestinidad, los sectarios resucitaron a su líder y decidieron mudarse a Tatalia. En ese mismo momento, la bruja Adrienne volvía a su tierra natal en Tatalia después de estudiar con los clérigos de Steadwick, la capital ethariana. Sin embargo, sus colegas desconfían de su especialidad, la magia de fuego, algo poco común en Tatalia. Adrienne descubre que un caballero de la muerte está preparando a la población local para ser cosechada por no muertos. Restaura esta tierra y persigue el mal que la acecha. El objetivo es exterminar la plaga de no muertos. |\n"
+"| La Venganza Se Sirve Fría | 1. En Busca de un Asesino<br><br>2. Paz Definitiva<br><br>3. Agentes de la Venganza | [Muralla](../towns/rampart.md) | Después del asesinato de dos señores de AvLee, Gem y Gelu deciden embarcarse en una misión para buscar justicia. Sin embargo, el destino los ha llevado a descubrir mucho más de lo que se esperaban. ¿Serán capaces de frustar los siniestros planes que se están fraguando en las fronteras de AvLee o el espantoso descubrimiento ha llegado demasiado tarde como para detener las estratagemas de los nigromantes? |\n"
 
 #. type: Title ##
 #: docs/scenarios/index.md
@@ -1438,13 +1438,13 @@ msgstr "[Escuela de Magia Ígnea](school_of_fire_magic.md)"
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr ""
+msgstr "[Escuela de Magia Acuática](school_of_water_magic.md)"
 
 #. type: Title #
 #: docs/spells/index.md
 #, no-wrap
 msgid "List of Spells"
-msgstr "Lista de hechizos"
+msgstr "Lista de Hechizos"
 
 #. type: Plain text
 #: docs/spells/index.md
@@ -1553,7 +1553,7 @@ msgstr ""
 "| [Forgetfulness](forgetfulness.md) | [Water](school_of_water_magic.md) | Basic | :ongoing: During its next activation, a \\* :unit_ranged: [unidad](../units/index.md) if your choice cannot :attack:.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden: | [Expansión de Muralla](../content/rampart_expansion.md) |\n"
 "| [Remove Obstacle](remove_obstacle.md) | [Water](school_of_water_magic.md) | Basic | :instant: Remove \\* obstacles (except [unidades](../units/index.md)) from the Combat board.<br><br>:empower: 0 ➣ \\*1<br>:empower: 1 ➣ \\*2<br>:empower: 2 ➣ \\*3 | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Weakness](weakness.md) | [Water](school_of_water_magic.md) | Basic | :instant: The selected [unidad](../units/index.md) suffers (to a minimum of 0):<br><br>:empower: 0 ➣ -1 :attack:<br>:empower: 1 ➣ -2 :attack:<br>:empower: 2 ➣ -3 :attack: | [Juego Principal](../content/core_game.md) |\n"
-"| [Frost Ring](frost_ring.md) | [Water](school_of_water_magic.md) | Expert | :activation: Select a space on the Combat board. 2 [unidades](../units/index.md) adjacent to this space suffer:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage: | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Anillo Helado](frost_ring.md) | [Water](school_of_water_magic.md) | Expert | :activation: Select a space on the Combat board. 2 [unidades](../units/index.md) adjacent to this space suffer:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage: | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 "| [Mirth](mirth.md) | [Water](school_of_water_magic.md) | Expert | :ongoing: You can reroll each of your [Attack dice](../dice.md#attack-die) once. During:<br><br>:empower: 0 ➣ This Activation<br>:empower: 2 ➣ This Combat round<br>:empower: 4 ➣ This Combat | [Expansión de Muralla](../content/rampart_expansion.md) |\n"
 "| [Prayer](prayer.md) | [Water](school_of_water_magic.md) | Expert | :instant: The selected [unidad](../units/index.md) gains \\* :attack:, :defense:, or :initiative::<br><br>:empower: 0 ➣ \\*+1 <br>:empower: 2 ➣ \\*+2 <br>:empower: 4 ➣ \\*+3  | [Juego Principal](../content/core_game.md) |\n"
 "| [Summon Water Elemental](summon_water_elemental.md) | [Water](school_of_water_magic.md) | Expert | :activation: On a chosen empty space:<br><br>:empower: 0 ➣ No effect<br>:empower: 2 ➣ Summon a Few [Water Elementals](../units/water_elementals.md)<br>:empower: 4 ➣ Summon a Pack of [Water Elementals](../units/water_elementals.md) | [Expansión de Conflujo](../content/conflux_expansion.md) |\n"
@@ -2251,7 +2251,7 @@ msgstr ""
 #. type: Plain text
 #: docs/units/index.md
 msgid "You can find war machines [here](../war_machines/index.md)."
-msgstr "Puede encontrar máquinas de guerra [aquí](../war_machines/index.md)."
+msgstr "Puedes encontrar máquinas de guerra [aquí](../war_machines/index.md)."
 
 #. type: Title #
 #: docs/war_machines/index.md
@@ -2270,7 +2270,7 @@ msgid ""
 "| [Cannon](cannon.md) | :permanent: Once during each Combat round, deal 2 :damage: to a selected enemy unit. | 10 :gold: | 14 :gold: | [Cove Expansion](../content/cove_expansion.md) |\n"
 "| [First Aid Tent](first_aid_tent.md) | :permanent: Once during each Combat round, remove 1 :damage: from your selected unit. | 3 :gold: | 6 :gold: | [Rampart Expansion](../content/rampart_expansion.md) |\n"
 msgstr ""
-"| Name | Ability | Cost at Blacksmith | Cost at Trade Post | [Content](../content/index.md) |\n"
+"| Nombre | Habilidad | Coste en la Herrería | Coste en el Mercadillo | [Contenido](../content/index.md) |\n"
 "| :--- | :--- | ---: | ---: | :--- |\n"
 "| [Carro de Munición](ammo_cart.md) | :permanent: Your :unit_ranged: units ignore combat penalties and gain \"+2 :initiative:\". | 5 :gold: | 8 :gold: | [Expansión de Muralla](../content/rampart_expansion.md) |\n"
 "| [Ballista](ballista.md) | :permanent: At the beginning of each Combat round, deal 1 :damage: to the enemy unit with the lowest :initiative:. | 7 :gold: | 10 :gold: | [Expansión de Muralla](../content/rampart_expansion.md) |\n"

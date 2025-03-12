@@ -439,12 +439,12 @@ msgstr "<p style=\"text-align: center;\" markdown>[Lugar Revisitable](../keyword
 #: docs/fields/war_machine_factory.md
 #, no-wrap
 msgid "War Machine Factory"
-msgstr "Fábrica de máquinas de guerra"
+msgstr "Fábrica de Máquinas de Guerra"
 
 #. type: Plain text
 #: docs/fields/war_machine_factory.md
 msgid "![War Machine Factory Map Location](../assets/locations-war_machine_factory.webp){ width=\"475\" align=right }"
-msgstr "![Máquina de Guerra Factory Map Location](../assets/locations-war_machine_factory.webp){ width=\"475\" align=right }"
+msgstr "![Ubicación de Fábrica de Máquinas de Guerra](../assets/locations-war_machine_factory.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/fields/war_machine_factory.md

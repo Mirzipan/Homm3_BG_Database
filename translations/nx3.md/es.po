@@ -719,7 +719,7 @@ msgstr "[Lista de Losetas](index.md)"
 #: docs/tiles/n8.md docs/tiles/nx3.md docs/tiles/s3.md docs/tiles/s4.md
 #: docs/tiles/s8.md
 msgid "Grass"
-msgstr "Césped"
+msgstr "Hierba"
 
 #. type: Bullet: '- '
 #: docs/tiles/c3.md docs/tiles/c4.md docs/tiles/f1.md docs/tiles/f10.md

@@ -322,7 +322,6 @@ msgstr "Ver También"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/keywords/revisitable_field.md
-#, fuzzy
 msgid "[Visitable Field](visitable_field.md)"
 msgstr "[Lugar Visitable](visitable_field.md)"
 
@@ -336,7 +335,7 @@ msgstr "Lugar Revisitable"
 #: docs/keywords/revisitable_field.md
 #, no-wrap
 msgid "List of Revisitable Fields"
-msgstr "Lista de Lugares revisitables"
+msgstr "Lista de Lugares Revisitables"
 
 #. type: Bullet: '- '
 #: docs/keywords/revisitable_field.md docs/tiles/fx5.md
@@ -364,24 +363,15 @@ msgstr "[Taberna](../fields/tavern.md)"
 #. type: Bullet: '- '
 #: docs/keywords/revisitable_field.md
 msgid "[Trading Post](../fields/trading_post.md)"
-msgstr ""
+msgstr "[Mercadillo](../fields/trading_post.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/revisitable_field.md docs/tiles/c3.md docs/tiles/f12.md
 #: docs/tiles/n8.md
-#, fuzzy
 msgid "[War Machine Factory](../fields/war_machine_factory.md)"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Máquina de Guerra Factory](../fields/war_machine_factory.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Fábrica de Máquinas de Guerra](../fields/war_machine_factory.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Fábrica de Máquinas de Guerra](../fields/war_machine_factory.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Máquina de Guerra Factory](../fields/war_machine_factory.md)"
+msgstr "[Fábrica de Máquinas de Guerra](../fields/war_machine_factory.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/revisitable_field.md docs/keywords/visitable_field.md
 msgid "[Flaggable Field](flaggable_field.md)"
-msgstr "[Lugar Señalizable] (flaggable_field.md)"
+msgstr "[Lugar Señalizable](flaggable_field.md)"

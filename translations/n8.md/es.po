@@ -509,17 +509,8 @@ msgstr "Lugares"
 #. type: Bullet: '- '
 #: docs/keywords/revisitable_field.md docs/tiles/c3.md docs/tiles/f12.md
 #: docs/tiles/n8.md
-#, fuzzy
 msgid "[War Machine Factory](../fields/war_machine_factory.md)"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Máquina de Guerra Factory](../fields/war_machine_factory.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Fábrica de Máquinas de Guerra](../fields/war_machine_factory.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Fábrica de Máquinas de Guerra](../fields/war_machine_factory.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Máquina de Guerra Factory](../fields/war_machine_factory.md)"
+msgstr "[Fábrica de Máquinas de Guerra](../fields/war_machine_factory.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/f15.md docs/tiles/f21.md
@@ -718,7 +709,7 @@ msgstr "[Lista de Losetas](index.md)"
 #: docs/tiles/n8.md docs/tiles/nx3.md docs/tiles/s3.md docs/tiles/s4.md
 #: docs/tiles/s8.md
 msgid "Grass"
-msgstr "Césped"
+msgstr "Hierba"
 
 #. type: Bullet: '- '
 #: docs/tiles/f1.md docs/tiles/f10.md docs/tiles/f11.md docs/tiles/f12.md

@@ -289,7 +289,7 @@ msgstr "Una de las cuatro escuelas de magia."
 #: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
 #, no-wrap
 msgid "Basic"
-msgstr ""
+msgstr "Básico"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
@@ -302,7 +302,7 @@ msgstr "[Magic Arrow] (Magic_arrow.md)"
 #: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
 #, no-wrap
 msgid "Expert"
-msgstr ""
+msgstr "Experto"
 
 #. type: Title #
 #: docs/spells/school_of_water_magic.md
@@ -313,55 +313,55 @@ msgstr "Escuela de Magia Acuática"
 #. type: Bullet: '- '
 #: docs/spells/school_of_water_magic.md
 msgid "[Bless](bless.md)"
-msgstr "[Bendición] (bendiga.md)"
+msgstr "[Bendición](bless.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_water_magic.md
 msgid "[Cure](cure.md)"
-msgstr "[Cure] (Cure.md)"
+msgstr "[Curación](cure.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_water_magic.md
 msgid "[Dispel](dispel.md)"
-msgstr "[Dispel] (Dispel.md)"
+msgstr "[Disipar](dispel.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_water_magic.md
 msgid "[Forgetfulness](forgetfulness.md)"
-msgstr "[Olvido] (olvido.md)"
+msgstr "[Olvido](forgetfulness.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_water_magic.md
 msgid "[Remove Obstacle](remove_obstacle.md)"
-msgstr "[Eliminar obstáculo] (remove_obstacle.md)"
+msgstr "[Eliminar Obstáculo](remove_obstacle.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_water_magic.md
 msgid "[Weakness](weakness.md)"
-msgstr "[Debilidad] (debilidad.md)"
+msgstr "[Debilidad](weakness.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_water_magic.md
 msgid "[Frost Ring](frost_ring.md)"
-msgstr "[Ring Frost] (Frost_ring.MD)"
+msgstr "[Anillo Helado](frost_ring.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_water_magic.md
 msgid "[Mirth](mirth.md)"
-msgstr "[Mirth] (Mirt.MD)"
+msgstr "[Alegría](mirth.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_water_magic.md
 msgid "[Prayer](prayer.md)"
-msgstr "[Oración] (oración.md)"
+msgstr "[Plegaria](prayer.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
 msgid "[Summon Water Elemental](summon_water_elemental.md)"
-msgstr "[Summon Water Elemental] (Summon_water_elemental.md)"
+msgstr "[Invocar Elemental de Agua](summon_water_elemental.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_water_magic.md
 msgid "[Teleport](teleport.md)"
-msgstr "[TelePort] (TelePort.MD)"
+msgstr "[Teletransporte](teleport.md)"
