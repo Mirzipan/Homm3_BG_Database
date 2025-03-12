@@ -626,13 +626,13 @@ msgstr ""
 #: docs/keywords/water_tile.md
 #, no-wrap
 msgid "Water Tile"
-msgstr "Baldosa de agua"
+msgstr "Loseta de Agua"
 
 #. type: Title ##
 #: docs/keywords/water_tile.md
 #, no-wrap
 msgid "List of Water Tiles"
-msgstr "Lista de baldosas de agua"
+msgstr "Lista de Losetas de Agua"
 
 #. type: Bullet: '- '
 #: docs/keywords/water_tile.md

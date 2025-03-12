@@ -802,7 +802,7 @@ msgstr "Ser"
 #. type: Plain text
 #: docs/tiles/s9.md
 msgid "Highlands"
-msgstr "Tierras altas"
+msgstr "Acantilado"
 
 #. type: Bullet: '- '
 #: docs/tiles/s9.md

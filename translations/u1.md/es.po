@@ -486,7 +486,7 @@ msgstr "Lugares"
 #: docs/fields/subterranean_gate.md docs/tiles/u1.md
 #, no-wrap
 msgid "Subterranean Gate"
-msgstr "Puerta subterránea"
+msgstr "Puerta Subterránea"
 
 #. type: Bullet: '- '
 #: docs/fields/subterranean_gate.md docs/heroes/crag_hack.md
