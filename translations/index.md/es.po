@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2025-03-06 00:32+0000\n"
-"PO-Revision-Date: 2025-03-06 19:24+0100\n"
+"PO-Revision-Date: 2025-03-06 23:10+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -744,26 +744,26 @@ msgid ""
 msgstr ""
 "| Nombre | Efecto | [Contenido](../content/index.md) |\n"
 "| :--- | :---: | :--- |\n"
-"| [Una Subasta Turbia](a_shady_auction.md) | Repeat 3 times: Reveal the top card from the [Artefacto](../artifacts/index.md) deck. In secret, each player takes as much :gold: in their hand as they are willing to pay for it. Then reveal your bets at the same time. The one with the highest proposal discards the :gold: and claims the card. If there are no bets or there is a tie, discard the card. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
-"| [Artifact Merchant](artifact_merchant.md) | Draw 5 [artifacts](../artifacts/index.md). You can buy either any number of them or the face-up card from the [Artifact](../artifacts/index.md) discard pile. After finishing, give the rest of the cards to the player on the left. The exchange goes on until the last card is bought or the cards return to the one who drew them. [Minor Artifacts](../keywords/minor_artifact.md) cards cost 3 :gold:, [Major](../keywords/major_artifact.md) 5 :gold:, [Relic](../keywords/relic_artifact.md) 7 :gold:. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Crypt](crypt.md) | **Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 [:treasure:](../dice.md#treasure-die). If any of them shows #, you gain nothing. Otherwise, resolve one result.<br><br>— OR —<br><br>Gain Positive Morale.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for half the cost. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Cursed Swamp](cursed_swamp.md) | **Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 :treasure: and choose one result.<br><br>— OR —<br><br>Remove one or more [:spellpower:](../spells/index.md) from your hand; if you remove at least 2, **Search (3)** the Artifact deck.<br><br>— OR —<br><br>Discard your cheapest unit.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for free. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Den of Thieves](den_of_thieves.md) | Take the top 2 cards from a [Neutral Unit](../units/index.md) deck of your choice. You may buy one of them. Then decide what to do with the remaining card(s) - you may place them at the bottom or top of the respective [Neutral Unit](../units/index.md) deck. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Garden of Revelation](garden_of_revelation.md) | **Each player chooses one option:** <br>Draw 4 cards either from your discard pile or your deck. Then Remove any number of [Spell](../spells/index.md) or [Ability](../abilities/index.md) cards from your hand. For every two cards removed  this way, you can perform **Search(2)** the [Spell](../spells/index.md) deck or the [Ability](../abilities/index.md) deck. After that, discard all cards from hand and draw up to your :hand:.<br><br>— OR —<br><br>Leave and gain nothing. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Library of Enlightenment](library_of_enlightenment.md) | For every player in the game, draw the top two [Spell](../spells/index.md) cards and put them face-up within all players' reach. Each player can buy once of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables:. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Mage Laboratory](mage_laboratory.md) | For every player in the game, draw two [Spell](../spells/index.md) cards and place them face-up within all players' reach. Each player can buy one of these [:spellpower:](../spells/index.md) for 4 :gold: or 1 :valuables:. If a player buys a card, they immediately shuffle their deck and discard pile along with the newly bought card. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Magical Forest](magical_forest.md) | Choose 1 [Spell](../spells/index.md), [Artifact](../artifacts/index.md), or [Ability](../abilities/index.md) card from your hand and put it face-down on the table.<br><br>— OR —<br><br>Draw and view 1 card from the [Spell](../spells/index.md), [Artifact](../artifacts/index.md), or [Ability](../abilities/index.md) deck and put it face-down on the table.<br><br>When all players have added a card to the pool, shuffle it. Each player can now either take a card from the pool or gain 4 :gold:. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Market of Time](market_of_time.md) | **Each player chooses one option:** <br>Discard as many cards as you want, then draw new cards up to your :hand: +2. Remove any number of [Ability](../abilities/index.md) or [Spell](../spells/index.md) cards from your hand. For every two cards removed this way, you can perform **Search (2)** the [Artifact](../artifacts/index.md) deck.<br><br>— OR —<br><br>Leave and gain nothing. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Marketplace](marketplace.md) | **Each player chooses one option:** <br>Roll 1 [:resource_die:](../dice.md#resource-die) and resolve its effects.<br><br>— OR —<br><br>[Trade](../trading.md) resources using Trading Post rules.<br><br>— OR —<br><br>Propose an exchange of resources with other players - one type of resource for one type of resource. Each player can propose one deal. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Mercenary Camp](mercenary_camp.md) | Each player can draw up to 2 [Neutral Unit](../units/index.md) from one of the chosen decks. Then they are spread on the table, and each player can **Recruit** one of them. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Messenger with Supplies](messenger_with_supplies.md) | Each player draws 2 top cards from the [Artifact](../artifacts/index.md) deck and then chooses one option: <br>Buy one of the cards. [Minor Artifacts](../keywords/minor_artifact.md) cards cost 3 :gold:, [Major](../keywords/major_artifact.md) 5 :gold:, [Relic](../keywords/relic_artifact.md) 7 :gold:.<br><br>— OR —<br><br>Put them both on the [Artifact](../artifacts/index.md) discard pile to roll 2 [:resource_die:](../dice.md#resource-die) and resolve one of them. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Mischievous Leprechaun](mischievous_leprechaun.md) | Pool 2 [:treasure:](../dice.md#treasure-die) and 2 [:resource_die:](../dice.md#resource-die), roll them, and put them within all players' reach. Starting from the player who drew this event, each player rolls 1 [:treasure:](../dice.md#treasure-die) and 1 [:resource_die:](../dice.md#resource-die). If they can match any of the pool's rolls, they may take one matching die from the pool and resolve its effects. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Prison](prison.md) | Draw 2 [Neutral Unit](../units/index.md) cards from any deck (except for Azure). You can buy one of them or discard it to gain 3 :gold:. After that, pass the remaining card to the next player. That player also draws a [Neutral Unit](../units/index.md) card from any deck (except for Azure) and repeats the rest of the process. The exchange goes on till every player has a chance to choose something. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [School of Magic and School of War](school_of_magic_and_school_of_war.md) | **Each player chooses one option:** <br>Discard as many cards as you want, then draw new cards up to your :hand: +2. Remove any number of Ability or Spell cards from your hand. For every two cards removed this way, you can perform **Search (2)** the Ability deck or the Spell deck.<br><br>— OR —<br><br>Leave and gain nothing. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Shrine of the Magic Thought](shrine_of_the_magic_thought.md) | For every player in the game, draw two random [Spell](../spells/index.md) cards and place them face-up within all players' reach. Each player can either buy one of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables: or roll and resolve 1 [:resource_die:](../dice.md#resource-die). Place the remaining, not bought, cards in the [Spell](../spells/index.md) discard pile. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Stables](stables.md) | **Each player chooses one option:** <br>Your Main [hero](../heroes/index.md) gains +1 :movement:.<br><br>— OR —<br><br>:pay: 1 :movement: from any of your [heroes](../heroes/index.md) to roll 1 [:resource_die:](../dice.md#resource-die). | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [The Villagers' Plea](the_villagers_plea.md) | **Each player chooses one option:** <br>Remove an [Artifact](../artifacts/index.md) or [Spell](../spells/index.md) card from your hand.<br><br>— OR —<br><br>:pay: 1 :building_materials:<br><br>— OR —<br><br>:pay: 5 :gold:<br><br>— OR —<br><br>:pay: 1 :movement: from any of your [heroes](../heroes/index.md). | [Fortress Expansion](../content/fortress_expansion.md) |\n"
-"| [Withered Hermit](withered_hermit.md) | **Each player chooses one option:** <br>Name a resource that will not show on any of the dice, then roll 3 [:resource_die:](../dice.md#resource-die). If you are correct, resolve one of the dice. If you are wrong, choose one result and subtract it from you resources.<br><br>— OR —<br><br>Roll 1 [:resource_die:](../dice.md#resource-die). You may pay the indicated resources to **Search(2)** the [Artifact](../artifacts/index.md) deck.<br><br>— OR —<br><br>Leave and gain nothing. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
+"| [Una Subasta Turbia](a_shady_auction.md) | Repite 3 veces: Revela la carta superior del mazo de [Artefacto](../artifacts/index.md). En secreto, cada jugador coge tanto :gold: en su mano como esté dispuesto a pagar por él. Luego revelan sus apuestas al mismo tiempo. El que tenga la propuesta más alta entrega el :gold: y reclama la carta. Si no hay apuestas o hay empate, descarta la carta. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Comerciante de Artefactos](artifact_merchant.md) | Roba 5 [artefactos](../artifacts/index.md). Puedes comprar cualquier cantidad de ellos o colocar una carta descubierta en la pila de descartes de [Artefacto](../artifacts/index.md). Cuando acabes, pasa el resto de cartas al jugador de la izquierda. El intercambio tendrá lugar hasta que la última carta sea comprada o hasta que las cartas vuelvan al jugador que las robó. Las cartas de [Artefactos Menores](../keywords/minor_artifact.md) cuestan 3 :gold:, [Mayor](../keywords/major_artifact.md) 5 :gold:, [Reliquia](../keywords/relic_artifact.md) 7 :gold:. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Cripta](crypt.md) | **Cada jugador elige una opción:** <br>Obtener Moral Negativa. Después tira 2 [:treasure:](../dice.md#treasure-die). Si alguno de ellos muestra #, no ganas nada. En caso contrario, resuelve un resultado.<br><br>— O —<br><br>Obtener Moral Positiva.<br><br>— O —<br><br>Sólo para [:necro:](../towns/necropolis.md). **Refuerza** una de tus :bronze: o :silver: por la mitad del coste. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Pantano Maldito](cursed_swamp.md) | **Cada jugador elige una opción:** <br>Ganar Moral Negativa para lanzar 2 :treasure: y elegir un resultado.<br><br>— O —<br><br>Retirar uno o más [:spellpower:](../spells/index.md) de tu mano; si retiras al menos 2, **Busca (3)** en el mazo de Artefacto.<br><br>— O —<br><br>Descarta tu unidad con menor coste.<br><br>— O —<br><br>Solo para [:necro:](../towns/necropolis.md). **Refuerza** una de tus :bronze: o :silver: gratis. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Cueva de Ladrones](den_of_thieves.md) | Coge las 2 cartas superiores de un mazo de [Unidad Neutral](../units/index.md) de tu elección. Puedes comprar una de ellas. Luego decide qué hacer con la(s) carta(s) restante(s): puedes colocarlas en la parte inferior o superior del mazo de [Unidad Neutral](../units/index.md) respectivo. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Jardín de la Revelación](garden_of_revelation.md) | **Cada jugador elige una opción:** <br>Roba 4 cartas de tu pila de descartes o de tu mazo. A continuación, elimina cualquier número de cartas de [Hechizo](../spells/index.md) o [Habilidad](../abilities/index.md) de tu mano. Por cada dos cartas eliminadas de esta forma, **Busca(2)** en el mazo de [Hechizo](../spells/index.md) o en el mazo de [Habilidad](../abilities/index.md). Después, descarta todas las cartas de la mano y roba hasta completar tu :hand:.<br><br>— O —<br><br>Déjalo y no ganes nada. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Biblioteca de la Ilustración](library_of_enlightenment.md) | Por cada jugador de la partida, roba las dos cartas de [Hechizo](../spells/index.md) superiores y ponlas boca arriba al alcance de todos los jugadores. Cada jugador puede comprar uno de estos [:spellpower:](../spells/index.md) por 6 :gold: o 2 :valuables:. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Laboratorio de Magos](mage_laboratory.md) | Por cada jugador de la partida, roba dos cartas de [Hechizo](../hechizos/index.md) y colócalas boca arriba al alcance de todos los jugadores. Cada jugador puede comprar uno de estos [:spellpower:](../spells/index.md) por 4 :gold: o 1 :valuables:. Si un jugador compra una carta, baraja inmediatamente su mazo y su pila de descartes junto con la carta recién comprada. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Bosque Mágico](magical_forest.md) | Elige 1 carta de [Hechizo](../spells/index.md), [Artefacto](../artifacts/index.md), o [Habilidad](../abilities/index.md) de tu mano y ponla boca abajo sobre la mesa.<br><br>— O —<br><br>Roba y mira 1 carta del mazo de [Hechizo](../spells/index.md), [Artefacto](../artifacts/index.md), o [Habilidad](../abilities/index.md) y ponla boca abajo sobre la mesa.<br><br>Cuando todos los jugadores hayan añadido una carta al mazo, barájalo. Cada jugador puede ahora coger una carta de la reserva o ganar 4 :gold:. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Mercado del Tiempo](market_of_time.md) | **Cada jugador elige una opción:** <br>Descarta tantas cartas como quieras, luego roba nuevas cartas hasta tu :hand: +2. Retira cualquier número de cartas de [Habilidad](../abilities/index.md) o [Hechizo](../spells/index.md) de tu mano. Por cada dos cartas eliminadas de esta forma, puedes **Buscar (2)** en el mazo de [Artefacto](../artifacts/index.md).<br><br>— O —<br><br>Déjalo y no ganes nada. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Mercado](marketplace.md) | ** Cada jugador elige una opción:** <br>Lanzar 1 [:resource_die:](../dice.md#resource-die) y resolver sus efectos.<br><br>— O —<br><br>[Comerciar](../trading.md) recursos usando las reglas del Puesto de Comercio.<br><br>— O —<br><br>Proponer un intercambio de recursos con otros jugadores - un tipo de recurso por otro tipo de recurso. Cada jugador puede proponer un trato. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Campamento Mercenario](mercenary_camp.md) | Cada jugador puede robar hasta 2 [Unidades Neutrales](../units/index.md) de uno de los mazos elegidos. Luego se esparcen sobre la mesa, y cada jugador puede **Reclutar** una de ellas. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Mensajero con Provisiones](messenger_with_supplies.md) | Cada jugador roba 2 cartas superiores del mazo de [Artefacto](../artifacts/index.md) y elige una opción: <br>Comprar una de las cartas. El coste de las cartas de [Artefacto Menor](../keywords/minor_artifact.md) es 3 :gold:, [Mayor](../keywords/major_artifact.md) 5 :gold:, [Reliquia](../keywords/relic_artifact.md) 7 :gold:.<br><br>— O —<br><br>Pon ambos en la pila de descartes de [Artefacto](../artifacts/index.md) para tirar 2 [:resource_die:](../dice.md#resource-die) y resolver uno de ellos. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Duende Travieso](mischievous_leprechaun.md) | Recoge 2 [:tesoro:](../dice.md#dado_tesoro) y 2 [:dado_recursos:](../dice.md#dado_recursos), lánzalos y ponlos al alcance de todos los jugadores. Empezando por el jugador que sacó este evento, cada jugador tira 1 [:treasure:](../dice.md#treasure-die) y 1 [:resource_die:](../dice.md#resource-die). Si pueden igualar cualquiera de las tiradas de la reserva, pueden coger un dado igual de la reserva y resolver sus efectos. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Prisión](prison.md) | Roba 2 cartas de [Unidad Neutral](../units/index.md) de cualquier mazo (excepto Azur). Puedes comprar una de ellas o descartarla para ganar 3 :gold:. Después, pasa la carta restante al siguiente jugador. Ese jugador también roba una carta de [Unidad Neutral](../units/index.md) de cualquier mazo (excepto Azur) y repite el resto del proceso. El intercambio continúa hasta que todos los jugadores tengan la oportunidad de elegir algo. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Escuela de Magia y Escuela de Guerra](school_of_magic_and_school_of_war.md) | **Cada jugador elige una opción:** <br>Descarta tantas cartas como quieras, luego roba nuevas cartas hasta tu :hand: +2. Retira cualquier número de cartas de Habilidad o Hechizo de tu mano. Por cada dos cartas eliminadas de esta forma, puedes **Buscar (2)** en el mazo de Habilidad o el mazo de Hechizo.<br><br>— O —<br><br>Déjalo y no ganes nada. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Santuario del Pensamiento Mágico](shrine_of_the_magic_thought.md) | Por cada jugador de la partida, roba dos cartas de [Hechizo](../spells/index.md) al azar y colócalas boca arriba al alcance de todos los jugadores. Cada jugador puede comprar una de estas [:spellpower:](../spells/index.md) por 6 :gold: o 2 :valuables: o lanzar y resolver 1 [:resource_die:](../dice.md#resource-die). Coloca las cartas restantes, no compradas, en la pila de descartes de [Hechizo](../spells/index.md). | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Establos](stables.md) | **Cada jugador elige una opción:** <br>Tu [héroe](../heroes/index.md) principal gana +1 :movement:.<br><br>— O —<br><br>:pay: 1 :movement: de cualquiera de tus [héroes](../heroes/index.md) para tirar 1 [:resource_die:](../dice.md#resource-die). | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [La Súplica de los Aldeanos](the_villagers_plea.md) | **Cada jugador elige una opción:** <br>Retira una carta de [Artefacto](../artifacts/index.md) o [Hechizo](../spells/index.md) de tu mano.<br><br>— O —<br><br>:pay: 1 :building_materials:<br><br>— O —<br><br>:pay: 5 :gold:<br><br>— O —<br><br>:pay: 1 :movement: de cualquiera de tus [héroes](../heroes/index.md). | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
+"| [Ermitaño Marchito](withered_hermit.md) | **Cada jugador elige una opción:** <br>Nombra un recurso para que no salga en ninguno de los dados y tira 3 [:resource_die:](../dice.md#resource-die). Si aciertas, resuelve uno de los dados. Si te equivocas, elige un resultado y réstalo de tus recursos.<br><br>— O —<br><br>Lanza 1 [:resource_die:](../dice.md#resource-die). Puedes pagar los recursos indicados para **Buscar(2)** en el mazo de [Artefacto](../artifacts/index.md).<br><br>— O —<br><br>Leave and gain nothing. | [Expansión de Fortaleza](../content/fortress_expansion.md) |\n"
 
 #. type: Bullet: '- '
 #: docs/events/index.md
@@ -821,7 +821,7 @@ msgstr "Las Zonas o Lugares son cada casilla en una [loseta](../tiles/index.md).
 
 #. type: Plain text
 #: docs/fields/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Name | Type | Effect |\n"
 "| :--- | :---: | :--- |\n"
@@ -846,7 +846,7 @@ msgid ""
 "| [Prison](prison.md) | [Visitable](../keywords/visitable_field.md) | Gain a Secondary [Hero](../heroes/index.md). Place their model on this Field. If you already have a Secondary [Hero](../heroes/index.md), gain 3 :gold: instead. |\n"
 "| [Redwood Observatory](redwood_observatory.md) | [Visitable](../keywords/visitable_field.md) | Discover a face down [Tile](../tiles/index.md) adjacent to this one. |\n"
 "| [Resources](resources.md) | [Visitable](../keywords/visitable_field.md) | Roll a [Resource Die](../dice.md#resource-die) and gain the indicated Resources. |\n"
-"| [Scholar](scholar.md) | [Visitable](../keywords/visitable_field.md) | Roll 1 [Attack Die](../dice.md#attack-die). Depending on the result, do the following:<br><br>**+1** - Gain a [Statistic](../statistics/index.md) Card of your choice or Remove a [Statistic](../statistics/index.md) Card from your hand.<br><br>**0** - Draw 2 Cards from the [Ability](../abilities/index.md) Deck, gain one of them and discard the other.<br><br>**+1** - Draw 2 Cards from the [Spell](../spells/index.md) Deck, gain one of them and discard the other. |\n"
+"| [Scholar](scholar.md) | [Visitable](../keywords/visitable_field.md) | Roll 1 [Attack Die](../dice.md#attack-die). Depending on the result, do the following:<br><br>**+1** - Gain a [Statistic](../statistics/index.md) Card of your choice or Remove a [Statistic](../statistics/index.md) Card from your hand.<br><br>**0** - Draw 2 Cards from the [Ability](../abilities/index.md) Deck, gain one of them and discard the other.<br><br>**-1** - Draw 2 Cards from the [Spell](../spells/index.md) Deck, gain one of them and discard the other. |\n"
 "| [Shrine of Magic Gesture](shrine_of_magic_gesture.md) | [Visitable](../keywords/visitable_field.md) | Pay :pay: 3 :gold: to **Search(2)** the [Spell](../spells/index.md) Deck. |\n"
 "| [Shrine of Magic Incantation](shrine_of_magic_incantation.md) | [Visitable](../keywords/visitable_field.md) | **Search(2)** the [Spell](../spells/index.md) Deck. |\n"
 "| [Temple](temple.md) | [Visitable](../keywords/visitable_field.md) | Gain :morale_positive: token. |\n"
@@ -865,43 +865,43 @@ msgid ""
 msgstr ""
 "| Nombre | Tipo | Efecto |\n"
 "| :--- | :---: | :--- |\n"
-"| [Utopía del Dragón](dragon_utopia.md) | [Flaggable](../keywords/flaggable_field.md) | Effects depend on the Scenario. |\n"
-"| [Mine](mine.md) | [Flaggable](../keywords/flaggable_field.md) | When flagged, increases the specific resource income (shown on the field). The first player to flag the Mine also gains its income immediately. There are following types of Mines:<br><br>+5 :gold: income<br>+2 :building_materials: income<br>+1 :valuables: income |\n"
-"| [Obelisk](obelisk.md) | [Flaggable](../keywords/flaggable_field.md) | Effects depend on the Scenario. When you Flag this Field, do not remove any enemy Faction Cubes; multiple players may have a [Faction](../towns/index.md) Cube on this Field. |\n"
-"| [Random Town](random_town.md) | [Flaggable](../keywords/flaggable_field.md) | When revealed, all players roll 2 [Resource dice](../dice.md#resource-die). The highest roller chooses an unused [Faction](../towns/index.md). The random [Town](../towns/index.md) is defended by [Units](../units/index.md) from that [Faction](../towns/index.md). They have a \"Pack\" of :bronze:, two \"Packs\" of :silver:, and two \"Fews\" of :golden: [Units](../units/index.md). The :bronze: [Unit](../units/index.md) is chosen by the player who controls the [Units](../units/index.md) during that Combat.<br><br>When flagged, increases :gold: income by 10. The first player to flag the [Town](../towns/index.md) also gains its income immediately. |\n"
-"| [Settlement](settlement.md) | [Flaggable](../keywords/flaggable_field.md) | Works as a spawn point for Secondary [Heroes](../heroes/index.md) or Main [Heroes](../heroes/index.md) that have been defeated.<br><br>Works the same way as a mine, but the player can choose which resource income to increase. The settlement is then marked with a token of the chosen resource.<br><br>— OR —<br><br>Reinforce one of your :bronze: or :silver: [Units](../units/index.md) immediately for half the cost, rounded up. The first player to flag the settlement Reinforces that [Unit](../units/index.md) for free. |\n"
-"| [Star Axis](star_axis.md) | [Flaggable](../keywords/flaggable_field.md) | You may Remove one of your [Statistic](../statistics/index.md) cards from your hand and replace it with an **Empowered** one of the same type. When you Flag this Field, do not remove any enemy Faction Cubes; multiple players may have a Faction Cube on this Field. |\n"
-"| [Town](town.md) | [Flaggable](../keywords/flaggable_field.md) | When flagged, the enemy Secondary [Heroes](../heroes/index.md) or Main [Heroes](../heroes/index.md) that have been defeated cannot spawn here.<br>Flagging an enemy town does prevent the enemy player from using it, nor does it grant any access to the [Town](../towns/index.md) board or [Faction Units](../units/index.md) to the player who flagged it.<br>Flagging a [Town](../towns/index.md) can cause Player Elimination win condition, and some scenarios may have extra rules and rewards attached to flagging [Towns](../towns/index.md). |\n"
-"| [2 Resources](2_resources.md) | [Visitable](../keywords/visitable_field.md) | Roll 2 [Resource Dice](../dice.md#resource-die) and choose the bonus from one of them. |\n"
-"| [Artifact](artifact.md) | [Visitable](../keywords/visitable_field.md) | **Search(2)** the [Artifact](../artifacts/index.md) Deck |\n"
-"| [Fountain of Youth](fountain_of_youth.md) | [Visitable](../keywords/visitable_field.md) | Gain :morale_positive: token. Gain +1 :movement: for this turn. |\n"
-"| [Grail](grail.md) | [Visitable](../keywords/visitable_field.md) | Gain a Grail Token. Only one Grail Token can exist in the game, do not gain another if this Field’s Black Cube is removed or if there are multiple Grail Fields. The Token’s effects are described in the Scenario’s description. |\n"
-"| [Hill Fort](hill_fort.md) | [Visitable](../keywords/visitable_field.md) | You may immediately Reinforce one of your :bronze: or :silver: [Units](../units/index.md). The Reinforcement cost is reduced by 3 :gold: to a minimum of 0. |\n"
-"| [Learning Stone](learning_stone.md) | [Visitable](../keywords/visitable_field.md) | Gain one :experience:. |\n"
+"| [Utopía del Dragón](dragon_utopia.md) | [Señalizable](../keywords/flaggable_field.md) | Los efectos dependen del Escenario. |\n"
+"| [Mina](mine.md) | [Señalizable](../keywords/flaggable_field.md) | Cuando se captura, aumenta los ingresos del recurso específico (mostrado en la casilla). El primer jugador en capturar la Mina también recibe sus recursos inmediatamente. Existen los siguientes tipos:<br><br>Mina de oro: +5 :gold: <br>Mina de minerales: +2 :building_materials:<br>Laboratorio de alquimia, mina de cristal, estanque de gemas: +1 .valuables: |\n"
+"| [Obelisco](obelisk.md) | [Señalizable](../keywords/flaggable_field.md) | Los efectos dependen del Escenario. Cuando lo visites, no retires los cubos de la facción enemiga. Puede haber varios Cubos de [Facción](../towns/index.md) en la Zona. |\n"
+"| [Ciudad Aleatoria](random_town.md) | [Señalizable](../keywords/flaggable_field.md) | Cuando se revele, todos los jugadores lanzan 2 [dados de Recurso](../dice.md#resource-die). El más alto selecciona una [Facción](../towns/index.md) sin usar. La [Ciudad](../towns/index.md) Aleatoria es defendida por [Unidades](../units/index.md) de esa [Facción](../towns/index.md). Tendrá una [Unidad](../units/index.md) \"Manada\" :bronze:, dos \"Manadas\" :silver:, y dos \"Pocas\" :golden:. La [Unidad](../units/index.md) :bronze: es escogida por el jugador que controle las [Unidades](../units/index.md) durante el Combate.<br><br>Señalizarla incrementa la producción de :gold: en 10. El primer jugador en señalizar la [Ciudad](../towns/index.md) también los ingresa inmediatamente. |\n"
+"| [Asentamiento](settlement.md) | [Señalizable](../keywords/flaggable_field.md) | Funciona como punto de aparición de los [Héroes](../heroes/index.md) Secundarios o de [Héroes](../heroes/index.md) Principales que han sido derrotados.<br><br>Funciona como una mina, pero el jugador puede elegir qué ingresos de recursos aumentar. El asentamiento se marca con una Ficha del Recurso elegido.<br><br>— O —<br><br>Refuerza una de tus [Unidades](../units/index.md) :bronze: o :silver: inmediatamente por la mitad del coste, redondeado hacia arriba. El primer jugador que capture el asentamiento refuerza esa [Unidad](../units/index.md) gratis. |\n"
+"| [Eje Estelar](star_axis.md) | [Señalizable](../keywords/flaggable_field.md) | Puedes eliminar una de tus cartas de [Características](../statistics/index.md) de tu mano y reemplazarla por una **Potenciada** del mismo tipo. Cuando Señalices esta Casilla, no elimines ningún Cubo de Facción enemigo, puede haber varios cubos de varios jugadores. |\n"
+"| [Ciudad](town.md) | [Señalizable](../keywords/flaggable_field.md) | Señalizarla, evita que sus [Héroes](../heroes/index.md) Secundarios o Principales que han sido derrotados pueden aparecer o moverse allí.<br>Señalizar una Ciudad te da un Cubo de la Facción de su dueño, pero no tiene más efectos para su propietario, ni concede ningún acceso al tablero de [Ciudad](../towns/index.md) o [Unidades de Facción](../units/index.md) al jugador que la señaló.<br>Señalizar una [Ciudad](../towns/index.md) puede **Eliminar al Jugador**, y algunos escenarios tienen recompensas. |\n"
+"| [2 Recursos](2_resources.md) | [Visitable](../keywords/visitable_field.md) | Lanza 2 [Dados de Recursos](../dice.md#resource-die) y escoge el bonus de uno de ellos. |\n"
+"| [Artefacto](artifact.md) | [Visitable](../keywords/visitable_field.md) | **Busca (2)** [Artefactos](../artifacts/index.md) |\n"
+"| [Fuente de la Juventud](fountain_of_youth.md) | [Visitable](../keywords/visitable_field.md) | Gana :moral_positiva:. Gana +1 :movement: para este turno. |\n"
+"| [Grial](grail.md) | [Visitable](../keywords/visitable_field.md) | Gana una Ficha de Grial. Sólo puede existir una Ficha en el juego, no ganas otra si el Cubo Negro es retirado o si varias Casillas de Grial. Los efectos de la Ficha se describen en la descripción del Escenario. |\n"
+"| [Colina Fortificada](hill_fort.md) | [Visitable](../keywords/visitable_field.md) | Puedes Reforzar inmediatamente una [Unidad](../units/index.md) :bronze: o :silver:. El coste de Reforzarla se reduce en 3 :gold: con un mínimo de 0. |\n"
+"| [Learning Stone](learning_stone.md) | [Visitable](../keywords/visitable_field.md) | Ganas un :experience:. |\n"
 "| [Library](library.md) | [Visitable](../keywords/visitable_field.md) | 🚧 |\n"
-"| [Magic Spring](magic_spring.md) | [Visitable](../keywords/visitable_field.md) | You may look at the top 3 Cards of your Discard Pile and return one of them to your Hand. Return the remaining cards to the top of your Discard Pile in any order. |\n"
-"| [Market of Time](market_of_time.md) | [Visitable](../keywords/visitable_field.md) | Remove one card from your hand. Then **Search(2)** the [Ability](../abilities/index.md), [Spell](../spells/index.md), or [Artifact](../artifacts/index.md) Deck. |\n"
-"| [Mystical Garden](mystical_garden.md) | [Visitable](../keywords/visitable_field.md) | Gain 2 :gold:.<br><br>— OR —<br><br>Gain 1 :valuables:. |\n"
-"| [Pandora's Box](pandoras_box.md) | [Visitable](../keywords/visitable_field.md) | Roll 2 [Treasure Dice](../dice.md#treasure-die) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Resource Dice](../dice.md#resource-die) and choose 1 result to gain. |\n"
-"| [Prison](prison.md) | [Visitable](../keywords/visitable_field.md) | Gain a Secondary [Hero](../heroes/index.md). Place their model on this Field. If you already have a Secondary [Hero](../heroes/index.md), gain 3 :gold: instead. |\n"
-"| [Redwood Observatory](redwood_observatory.md) | [Visitable](../keywords/visitable_field.md) | Discover a face down [Tile](../tiles/index.md) adjacent to this one. |\n"
-"| [Resources](resources.md) | [Visitable](../keywords/visitable_field.md) | Roll a [Resource Die](../dice.md#resource-die) and gain the indicated Resources. |\n"
-"| [Scholar](scholar.md) | [Visitable](../keywords/visitable_field.md) | Roll 1 [Attack Die](../dice.md#attack-die). Depending on the result, do the following:<br><br>**+1** - Gain a [Statistic](../statistics/index.md) Card of your choice or Remove a [Statistic](../statistics/index.md) Card from your hand.<br><br>**0** - Draw 2 Cards from the [Ability](../abilities/index.md) Deck, gain one of them and discard the other.<br><br>**+1** - Draw 2 Cards from the [Spell](../spells/index.md) Deck, gain one of them and discard the other. |\n"
-"| [Shrine of Magic Gesture](shrine_of_magic_gesture.md) | [Visitable](../keywords/visitable_field.md) | Pay :pay: 3 :gold: to **Search(2)** the [Spell](../spells/index.md) Deck. |\n"
-"| [Shrine of Magic Incantation](shrine_of_magic_incantation.md) | [Visitable](../keywords/visitable_field.md) | **Search(2)** the [Spell](../spells/index.md) Deck. |\n"
-"| [Temple](temple.md) | [Visitable](../keywords/visitable_field.md) | Gain :morale_positive: token. |\n"
-"| [Tree of Knowledge](tree_of_knowledge.md) | [Visitable](../keywords/visitable_field.md) | You may :pay: 3 :valuables: or 10 :gold: to gain 2 :experience:. |\n"
-"| [University](university.md) | [Visitable](../keywords/visitable_field.md) | :pay: 6 :gold: to **Search(4)** the [Ability](../abilities/index.md) Discard Pile |\n"
-"| [Warrior's Tomb](warriors_tomb.md) | [Visitable](../keywords/visitable_field.md) | **Search(2)** [Artifacts](../artifacts/index.md) twice, then gain :morale_negative: token twice. |\n"
-"| [Water Wheel](water_wheel.md) | [Visitable](../keywords/visitable_field.md) | Gain 3 :gold:. |\n"
-"| [Windmill](windmill.md) | [Visitable](../keywords/visitable_field.md) | Gain 1 :valuables:. |\n"
-"| [Witch Hut](witch_hut.md) | [Visitable](../keywords/visitable_field.md) | Choose one:<br><br>Remove an [Ability](../abilities/index.md) card from your hand<br><br>— OR —<br><br>look at the top card of the [Ability](../abilities/index.md) Deck and put that card into your hand or into the [Ability](../abilities/index.md) Deck Discard Pile. |\n"
-"| [Black Market](black_market.md) | [Revisitable](../keywords/revisitable_field.md) | Look at the top 4 cards from the [Artifact](../artifacts/index.md) Discard Pile. You may buy one of them for:<br><br>5 :gold: if it is a [Minor Artifact](../keywords/minor_artifact.md)<br>7 :gold: if it is a [Major Artifact](../keywords/major_artifact.md)<br>10 :gold: if it is a [Relic Artifact](../keywords/relic_artifact.md) |\n"
-"| [Sanctuary](sanctuary.md) | [Revisitable](../keywords/revisitable_field.md) | Heroes on this Field cannot be attacked by other [Heroes](../heroes/index.md). Friendly Heroes can move through enemy [Heroes](../heroes/index.md) on this Field but cannot stop here. |\n"
-"| [Stables](stables.md) | [Revisitable](../keywords/revisitable_field.md) | Gain +1 :movement: for this turn. |\n"
-"| [Tavern](tavern.md) | [Revisitable](../keywords/revisitable_field.md) | You can :pay: 7 :gold: to gain a Secondary [Hero](../heroes/index.md). Place their model on this Field. Then, choose one enemy player to discard 1 random card from their hand. |\n"
-"| [Trading Post](trading_post.md) | [Revisitable](../keywords/revisitable_field.md) | Choose one:<br><br>[Trade](../trading.md) resources<br><br>— OR —<br><br>Remove a card<br><br>— OR —<br><br>Buy a [War Machine](../war_machines/index.md) |\n"
-"| [War Machine Factory](war_machine_factory.md) | [Revisitable](../keywords/revisitable_field.md) | Buy a [War Machine](../war_machines/index.md) |\n"
+"| [Magic Spring](magic_spring.md) | [Visitable](../keywords/visitable_field.md) | Puedes mirar las 3 Cartas superiores de tu Pila de Descarte y devolver una de ellas a tu Mano. Devuelve las cartas restantes a la parte superior de tu Pila de Descarte en cualquier orden. |\n"
+"| [Market of Time](market_of_time.md) | [Visitable](../keywords/visitable_field.md) | Retira una carta de tu mano para **Buscar(2)** en el Mazo de [Habilidad](../abilities/index.md), [Hechizo](../spells/index.md), o [Artefacto](../artifacts/index.md). |\n"
+"| [Mystical Garden](mystical_garden.md) | [Visitable](../keywords/visitable_field.md) | Ganas 2 :gold:.<br><br>— O —<br><br>Ganas 1 :valuables:. |\n"
+"| [Pandora's Box](pandoras_box.md) | [Visitable](../keywords/visitable_field.md) | Tira 2 [Dados de Tesoro](../dice.md#treasure-die) y escoge 1 resultado a obtener.<br><br>— O —<br><br>Tira 2 [Dados de Recurso](../dice.md#resource-die) y escoge 1 resultado a obtener. |\n"
+"| [Prison](prison.md) | [Visitable](../keywords/visitable_field.md) | Gana un [Héroe](../heroes/index.md) Secundario. Coloca su miniatura en esta Zona. Si ya tienes un [Héroe](../heroes/index.md) Secundario, ganas 3 :gold: en su lugar. |\n"
+"| [Redwood Observatory](redwood_observatory.md) | [Visitable](../keywords/visitable_field.md) | Descubre una [Loseta](../tiles/index.md) boca abajo adyacente a esta. |\n"
+"| [Resources](resources.md) | [Visitable](../keywords/visitable_field.md) | Tira un [Dado de Recurso](../dice.md#resource-die) y gana los Recursos indicados. |\n"
+"| [Erudición](scholar.md) | [Visitable](../keywords/visitable_field.md) | Tira 1 [Dado de Ataque](../dice.md#attack-die). Dependiendo del resultado, haz lo siguiente:<br><br>**+1** - Gana una Carta [Característica](../statistics/index.md) a tu elección o Retira una Carta [Característica](../statistics/index.md) de tu mano.<br><br>**0** - Roba 2 Cartas del Mazo de [Habilidad](../habilidades/index.md), gana una de ellas y descarta la otra.<br><br>**+1** - Roba 2 Cartas del Mazo [Hechizo](../spells/index.md), gana una de ellas y descarta la otra. |\n"
+"| [Shrine of Magic Gesture](shrine_of_magic_gesture.md) | [Visitable](../keywords/visitable_field.md) | Paga :pay: 3 :gold: para **Buscar(2)** en el Mazo de [Hechizo](../spells/index.md). |\n"
+"| [Shrine of Magic Incantation](shrine_of_magic_incantation.md) | [Visitable](../keywords/visitable_field.md) | **Buscar(2)** en el Mazo de [Hechizo](../spells/index.md). |\n"
+"| [Temple](temple.md) | [Visitable](../keywords/visitable_field.md) | Ganas una ficha de :morale_positive:. |\n"
+"| [Tree of Knowledge](tree_of_knowledge.md) | [Visitable](../keywords/visitable_field.md) | Puedes :pay: 3 :valuables: o 10 :gold: para ganar 2 :experience:. |\n"
+"| [University](university.md) | [Visitable](../keywords/visitable_field.md) | :pay: 6 :gold: para **Buscar(4)** en la Pila de Descartes de [Habilidad](../abilities/index.md) |\n"
+"| [Warrior's Tomb](warriors_tomb.md) | [Visitable](../keywords/visitable_field.md) | **Buscar(2)** [Artefactos](../artifacts/index.md) dos veces, luego obtienes doble :morale_negative:. |\n"
+"| [Water Wheel](water_wheel.md) | [Visitable](../keywords/visitable_field.md) | Ganas 3 :gold:. |\n"
+"| [Windmill](windmill.md) | [Visitable](../keywords/visitable_field.md) | Ganas 1 :valuables:. |\n"
+"| [Witch Hut](witch_hut.md) | [Visitable](../keywords/visitable_field.md) | Elige una:<br><br>Retira una carta de [Habilidad](../abilities/index.md) de tu mano<br><br>— O —<br><br>Mira la carta superior del Mazo de [Habilidad](../abilities/index.md) y pon esa carta en tu mano o en la Pila de Descartes del Mazo de [Habilidad](../abilities/index.md). |\n"
+"| [Black Market](black_market.md) | [Revisitable](../keywords/revisitable_field.md) | Mira las 4 cartas superiores de la Pila de Descartes de [Artefacto](../artifacts/index.md). Puedes comprar una de ellas por:<br><br>5 :gold: si es un [Artefacto Menor](../keywords/minor_artifact.md)<br>7 :gold: si es un [Artefacto Mayor](../keywords/major_artifact.md)<br>10 :gold: si es un [Artefacto Reliquia](../keywords/relic_artifact.md) |\n"
+"| [Santuario](sanctuary.md) | [Revisitable](../keywords/revisitable_field.md) | Los Héroes en esta Zona no pueden ser atacados por otros [Héroes](../heroes/index.md). Los Héroes Aliados pueden moverse a través de [Héroes](../heroes/index.md) enemigos en esta Zona, pero no pueden detenerse aquí. |\n"
+"| [Stables](stables.md) | [Revisitable](../keywords/revisitable_field.md) | Ganas +1 :movement: durante este turno. |\n"
+"| [Tavern](tavern.md) | [Revisitable](../keywords/revisitable_field.md) | Puedes :pay: 7 :gold: para ganar un [Héroe](../heroes/index.md) Secundario. Coloca su miniatura en esta Zona. Luego, elige un jugador enemigo para descartar 1 carta al azar de su mano. |\n"
+"| [Mercadillo](trading_post.md) | [Revisitable](../keywords/revisitable_field.md) | Elige uno:<br><br>[Comerciar](../trading.md) recursos<br><br>— O —<br><br>Retirar una carta<br><br>— O —<br><br>Comprar una [Máquina de Guerra](../war_machines/index.md) |\n"
+"| [War Machine Factory](war_machine_factory.md) | [Revisitable](../keywords/revisitable_field.md) | Compra una [Máquina de Guerra](../war_machines/index.md) |\n"
 
 #. type: Title #
 #: docs/heroes/index.md
@@ -1287,7 +1287,7 @@ msgstr "Un modo competitivo para 2-3 jugadores."
 
 #. type: Plain text
 #: docs/scenarios/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Name | Players | Description |\n"
 "| :--- | :---: | :--- |\n"
@@ -1301,13 +1301,13 @@ msgid ""
 msgstr ""
 "| Nombre | Jugadores | Descripción |\n"
 "| :--- | :---: | :--- |\n"
-"| All For One | 3 | Three life-long friends become enemies, when each inherits a portion of the kingdom, following the King’s death. You must show your former friends how to rule... through conquest. |\n"
-"| Brave New World | 2-3 | A great upheaval shook the very foundations of the world, breaking apart continents and dividing territories in new breaking apart continents and dividing territories in new ways. After the earth stood still once more, the people crawled out from their hiding places and have begun rebuilding this Brave New World. |\n"
-"| Carpe Diem | 2 | A few years back, the Gods decided they no longer wanted any part in this world. Now there is total anarchy. Everybody blames everyone else for the gods abandoning them. While sitting in the throne room, you decided you are the only person fit to rule. |\n"
-"| Dwarven Gold | 2-3 | Dwarven gold madness swept the region when Invis Smythers (renowned Dwarven miner) struck it lucky when he found a gold vein worth 75,000 gold pieces. Local lords have started mounting expeditions. |\n"
-"| Manifest Destiny | 3 | The neighboring lands have become increasingly more crowded. Only one kingdom is fit to rule the others. It is time to show the other petty nobles it is your manifest destiny to rule this land. |\n"
-"| Monk’s Retreat | 2 | The monks who ruled this area of the world for years, have finally been pushed back to their islands. As one of the lords just freed by the monk’s retreat, you feel it is up to you to unite these lands under your rule. |\n"
-"| Search For The Grail | 2-3 | The Grail is said to have been lost somewhere in the area, and you have been charged with finding and retrieving it. But beware! The minions of your enemies are also seeking to lay their hands on it! |\n"
+"|Todo por uno |3 |Tres amigos de toda la vida se convierten en enemigos, cuando cada uno hereda una parte del reino, después de la muerte del rey.Debes mostrar a tus antiguos amigos cómo gobernar ... a través de la conquista.|\n"
+"|Valiente nuevo mundo |2-3 |Un gran trastorno sacudió las bases del mundo, rompiendo continentes y dividiendo territorios en nuevos continentes que se separan y dividiendo territorios de nuevas maneras.Después de que la tierra se detuvo una vez más, la gente se arrastró de sus escondites y ha comenzado a reconstruir este valiente nuevo mundo.|\n"
+"|Carpe Diem |2 |Hace unos años, los dioses decidieron que ya no querían ninguna parte en este mundo.Ahora hay anarquía total.Todos culpan a todos los demás por los dioses que los abandonan.Mientras estaba sentado en la sala del trono, decidió que usted es la única persona adecuada para gobernar.|\n"
+"|Oro enano |2-3 |La locura de oro enano barrió la región cuando Invis Smythers (reconocido minero enano) le dio suerte cuando encontró una vena de oro por valor de 75,000 piezas de oro.Los señores locales han comenzado a montar expediciones.|\n"
+"|Destino manifiesto |3 |Las tierras vecinas se han vuelto cada vez más llenas.Solo un reino es apto para gobernar a los demás.Es hora de mostrar a los otros nobles menores que es su destino manifiesto para gobernar esta tierra.|\n"
+"|Retiro de Monk |2 |Los monjes que gobernaron esta área del mundo durante años, finalmente han sido empujados de regreso a sus islas.Como uno de los señores acaba de liberarse por el retiro del monje, sientes que depende de ti unir estas tierras bajo tu regla.|\n"
+"|Buscar el grial |2-3 |Se dice que el Grial se perdió en algún lugar del área, y se le ha acusado de encontrarlo y recuperarlo.¡Pero cuidado!¡Los secuaces de tus enemigos también buscan ponerlo en las manos!|\n"
 
 #. type: Title ##
 #: docs/scenarios/index.md
@@ -1355,7 +1355,7 @@ msgstr "Modo por equipos (2 contra 2) en el que un amigo y tú os enfrentáis a 
 
 #. type: Plain text
 #: docs/scenarios/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Name | Description |\n"
 "| :--- | :--- |\n"
@@ -1382,7 +1382,7 @@ msgstr "Partidas cooperativas para 2-3 jugadores en las que todos comparten el m
 
 #. type: Plain text
 #: docs/scenarios/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Name | Players | Description |\n"
 "| :--- | :---: | :--- |\n"
@@ -1453,7 +1453,7 @@ msgstr "Además de sus efectos regulares, cualquier hechizo también se puede de
 
 #. type: Plain text
 #: docs/spells/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Name | School | Level | Effect | [Content](../content/index.md) |\n"
 "| :--- | :---: | :---: | :---: | :--- |\n"
@@ -1572,7 +1572,7 @@ msgstr "Para aprender sobre Características de un héroe específico, ver [hér
 
 #. type: Plain text
 #: docs/statistics/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Name | Effect | :expert: Effect |\n"
 "| :--- | :--- | :--- |\n"
@@ -1604,7 +1604,7 @@ msgstr "Losetas"
 
 #. type: Plain text
 #: docs/tiles/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |\n"
 "| :---: | :---: | :---: | :--- |\n"
@@ -1804,7 +1804,7 @@ msgstr "Para la versión \"Pocos\" y \"Manada\" de la misma unidad, los cambios 
 
 #. type: Plain text
 #: docs/units/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Name | Town | # |Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities | [Content](../content/index.md) |\n"
 "| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- | :--- |\n"
@@ -2261,7 +2261,7 @@ msgstr "Máquinas de Guerra"
 
 #. type: Plain text
 #: docs/war_machines/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "| Name | Ability | Cost at Blacksmith | Cost at Trade Post | [Content](../content/index.md) |\n"
 "| :--- | :--- | ---: | ---: | :--- |\n"
