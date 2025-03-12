@@ -89,31 +89,9 @@ msgstr "Notas"
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text."
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es válida para todos los modos de juego.La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es válida para todos los modos de juego.La variante específica para el modo de juego se menciona en el texto."
+msgstr "[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto."
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
@@ -186,13 +164,8 @@ msgstr ":bronze: [Gremlins](../units/gremlins.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/castle.md
-#, fuzzy
 msgid ":bronze: [Halberdiers](../units/halberdiers.md)"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-":bronze: [Alabarderos](../units/halberdiers.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-":bronce: [Alabarderos](../units/halberdiers.md)"
+msgstr ":bronze: [Alabarderos](../units/halberdiers.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/keywords/ranged_unit.md
@@ -258,13 +231,8 @@ msgstr ":silver: [Basiliscos](../units/basilisks.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/castle.md
-#, fuzzy
 msgid ":silver: [Crusaders](../units/crusaders.md)"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-":silver: [Cruzados](../units/crusaders.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-":plata: [Cruzados](../units/crusaders.md)"
+msgstr ":silver: [Cruzados](../units/crusaders.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/inferno.md
