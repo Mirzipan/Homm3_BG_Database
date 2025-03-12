@@ -654,13 +654,8 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
-#, fuzzy
 msgid ":azure: units may *not* be recruited via this card."
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"Las unidades :azure: no pueden ser reclutadas a través de esta carta.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-" :azure: Las unidades pueden * no * ser reclutadas a través de esta tarjeta."
+msgstr "Las unidades :azure: no pueden ser reclutadas a través de esta carta."
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
