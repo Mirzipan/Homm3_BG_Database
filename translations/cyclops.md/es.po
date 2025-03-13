@@ -738,7 +738,7 @@ msgstr ""
 "| :health_points: | 6 | **7** | 🚧 |\n"
 "| :initiative: | 6 | **8** | 🚧 |\n"
 "| Coste | 13 :gold: | 17 :gold:<br>1 :valuables: | 🚧 |\n"
-"| Habilidades | :unit_other: Esta unidad puede destruir la Puerta o un Muro. | :unit_other: Esta unidad puede destruir la Puerta, un Muro, o la [Torre de Flechas](arrow_tower.md). | 🚧 |\n"
+"| Habilidades | :unit_other: Esta unidad puede destruir la Puerta o un Muro. | :unit_other: Esta unidad puede destruir la Puerta, un Muro, o la [Torre de Arqueros](arrow_tower.md). | 🚧 |\n"
 
 #. type: Bullet: '- '
 #: docs/units/cyclops.md

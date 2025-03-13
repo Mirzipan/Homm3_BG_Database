@@ -768,4 +768,4 @@ msgstr "**Pocos and Pack** - Enemy units, that were attacked by the Wyverns, rec
 #. type: Bullet: '- '
 #: docs/units/wyverns.md
 msgid "**Few and Pack** - If [Trolls](trolls.md) or [Wraiths](wraiths.md) were attacked by the Wyverns, both the damage and the healing take place simultaneously. This means [Trolls](trolls.md) only remove up to 2 :damage:. Nothing happens for faction (Few and Pack) [Wraiths](wraiths.md), and their Neutral variant removes up to 1 :damage:."
-msgstr "**Pocos and Pack** - If [Trolls](trolls.md) or [Wraiths](wraiths.md) were attacked by the Wyverns, both the damage and the healing take place simultaneously. This means [Trolls](trolls.md) only remove up to 2 :damage:. Nothing happens for faction (Pocos and Pack) [Wraiths](wraiths.md), and their Neutral variant removes up to 1 :damage:."
+msgstr "**Pocos and Pack** - If [Trolls](trolls.md) or [Espectros](wraiths.md) were attacked by the Wyverns, both the damage and the healing take place simultaneously. This means [Trolls](trolls.md) only remove up to 2 :damage:. Nothing happens for faction (Pocos and Pack) [Espectros](wraiths.md), and their Neutral variant removes up to 1 :damage:."

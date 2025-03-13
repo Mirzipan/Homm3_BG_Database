@@ -501,12 +501,12 @@ msgstr ":golden: [Behemoths](../units/behemoths.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/stronghold.md
 msgid ":bronze: [Orcs](../units/orcs.md)"
-msgstr ""
+msgstr ":bronze: [Orcos](../units/orcs.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/stronghold.md
 msgid ":golden: [Cyclops](../units/cyclops.md)"
-msgstr ""
+msgstr ":golden: [Cíclopes](../units/cyclops.md)"
 
 #. type: Title ##
 #: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md

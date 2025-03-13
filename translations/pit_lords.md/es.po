@@ -732,7 +732,7 @@ msgstr ""
 "| :health_points: | 6 | 6 | 5 |\n"
 "| :initiative: | 6 | **7** | 7 |\n"
 "| Cost | 8 :gold: | 15 :gold: | 15 :gold: |\n"
-"| Abilities | - | :unit_other: If one of your units has been removed from the board during this Combat, Summon or Reinforce [Demons](demons.md). | - |\n"
+"| Abilities | - | :unit_other: If one of your units has been removed from the board during this Combat, Summon or Reinforce [Demonios](demons.md). | - |\n"
 
 #. type: Bullet: '- '
 #: docs/units/pit_lords.md
@@ -752,14 +752,14 @@ msgstr "**Pack** - Should the Pit Lords reinforce [Pocos Demons](demons.md) to a
 #. type: Bullet: '- '
 #: docs/units/pit_lords.md
 msgid "**Pack** - The summoned [Demons](demons.md) will activate during the Combat round when they were summoned, as long as their initiative is lower or equal to the initiative of the Pit Lords. If the initiative is higher, they are treated as if they were already activated during this Combat round."
-msgstr "**Manada** - The summoned [Demons](demons.md) will activate during the Combat round when they were summoned, as long as their initiative is lower or equal to the initiative of the Pit Lords. If the initiative is higher, they are treated as if they were already activated during this Combat round."
+msgstr "**Manada** - The summoned [Demonios](demons.md) will activate during the Combat round when they were summoned, as long as their initiative is lower or equal to the initiative of the Pit Lords. If the initiative is higher, they are treated as if they were already activated during this Combat round."
 
 #. type: Bullet: '- '
 #: docs/units/pit_lords.md
 msgid "**Pack** - The summoned or reinforced [Demons](demons.md) stay in the player's army after the end of the Combat."
-msgstr "**Manada** - The summoned or reinforced [Demons](demons.md) stay in the player's army after the end of the Combat."
+msgstr "**Manada** - The summoned or reinforced [Demonios](demons.md) stay in the player's army after the end of the Combat."
 
 #. type: Bullet: '- '
 #: docs/units/pit_lords.md
 msgid "**Pack** - The Pit Lords may only summon or reinforce [Demons](demons.md) once per Combat."
-msgstr "**Manada** - The Pit Lords may only summon or reinforce [Demons](demons.md) once per Combat."
+msgstr "**Manada** - The Pit Lords may only summon or reinforce [Demonios](demons.md) once per Combat."
