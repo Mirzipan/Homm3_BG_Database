@@ -593,6 +593,7 @@ msgstr "[Ⅶ](../difficulties.md) [Grial](../fields/grail.md)"
 #: docs/tiles/nx2.md docs/tiles/nx3.md
 msgid "[Trading Post](../trading.md)"
 msgstr "[Mercadillo](../trading.md)"
+
 #. type: Title #
 #: docs/tiles/c4.md
 #, no-wrap
