@@ -444,6 +444,5 @@ msgstr ""
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/near_tile.md docs/keywords/starting_tile.md
 #: docs/keywords/underground_tile.md
-#, fuzzy
 msgid "[Water Tile](water_tile.md)"
 msgstr "[Loseta de Agua](water_tile.md)"

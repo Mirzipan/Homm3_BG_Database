@@ -372,7 +372,6 @@ msgstr "[Ciudad](../fields/town.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/keywords/revisitable_field.md
-#, fuzzy
 msgid "[Visitable Field](visitable_field.md)"
 msgstr "[Lugar Visitable](visitable_field.md)"
 

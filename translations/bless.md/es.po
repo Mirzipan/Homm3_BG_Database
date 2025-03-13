@@ -602,4 +602,4 @@ msgstr "Si no se tira ningún dado de Ataque durante el ataque, tampoco se muest
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr ""
+msgstr "[Escuela de Magia Acuática](school_of_water_magic.md)"
