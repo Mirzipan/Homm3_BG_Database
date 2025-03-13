@@ -526,7 +526,7 @@ msgstr "[Observatorio de Caoba](../fields/redwood_observatory.md)"
 msgid "[Blocked Field](../keywords/blocked_field.md)"
 msgstr ""
 "#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Campo Bloqueado](../keywords/blocked_field.md)\n"
+"[Zona Bloqueada](../keywords/blocked_field.md)\n"
 "#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
 "[Zona Bloqueada](../keywords/blocked_field.md)"
 

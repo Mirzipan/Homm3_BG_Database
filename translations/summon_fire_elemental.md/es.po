@@ -482,11 +482,11 @@ msgstr ""
 "#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
 "[Invocar Elemental de Agua](summon_water_elemental.md)\n"
 "#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Summon Water Elemental] (Summon_water_elemental.md)\n"
+"[Invocar Elemental de Agua](summon_water_elemental.md)\n"
 "#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Summon Water Elemental] (Summon_water_elemental.md)\n"
+"[Invocar Elemental de Agua](summon_water_elemental.md)\n"
 "#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Summon Water Elemental] (Summon_water_elemental.md)"
+"[Invocar Elemental de Agua](summon_water_elemental.md)"
 
 #. type: Title #
 #: docs/spells/summon_fire_elemental.md

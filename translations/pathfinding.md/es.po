@@ -593,4 +593,4 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/abilities/pathfinding.md docs/artifacts/angel_wings.md
 msgid "See [Blocked Field](../keywords/blocked_field.md)"
-msgstr "Ver [Campo Bloqueado](../keywords/blocked_field.md)"
+msgstr "Ver [Zona Bloqueada](../keywords/blocked_field.md)"
