@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-03-11 14:03+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -50,29 +51,9 @@ msgstr "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
 #: docs/abilities/scholar.md docs/abilities/scouting.md
 #: docs/abilities/sorcery.md docs/abilities/tactics.md
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :experto: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
+msgstr "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md

@@ -484,17 +484,9 @@ msgstr "[Juego Principal](../content/core_game.md)"
 #: docs/spells/air_shield.md docs/spells/disrupting_ray.md
 #: docs/spells/fortune.md docs/spells/haste.md docs/spells/lightning_bolt.md
 #: docs/spells/precision.md docs/spells/view_air.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Basic Air Spell](school_of_air_magic.md)</p>\n"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown>[Hechizo de Aire Básico](school_of_air_magic.md)</p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown>[Hechizo Básico de Aire](school_of_air_magic.md)</p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown>[Hechizo Básico de Aire](school_of_air_magic.md)</p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown>[Hechizo Básico de Aire](school_of_air_magic.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo de Aire Básico](school_of_air_magic.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/chain_lightning.md

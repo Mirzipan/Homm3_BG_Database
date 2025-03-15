@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
 "POT-Creation-Date: 2024-10-21 12:24+0200\n"
-"PO-Revision-Date: 2025-02-25 14:29+0100\n"
+"PO-Revision-Date: 2025-03-11 13:47+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -51,29 +51,9 @@ msgstr "<p style=\"text-align: center;\" markdown>[Habilidad](index.md)</p>\n"
 #: docs/abilities/scholar.md docs/abilities/scouting.md
 #: docs/abilities/sorcery.md docs/abilities/tactics.md
 #: docs/abilities/water_magic.md docs/abilities/wisdom.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :experto: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"<p style=\"text-align: center;\" markdown> :expert: </p>\n"
+msgstr "<p style=\"text-align: center;\" markdown> :expert: </p>\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -679,13 +659,8 @@ msgstr "Para el reclutamiento que ocurre como resultado del uso de esta habilida
 #. type: Bullet: '- '
 #: docs/abilities/diplomacy.md
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
-#, fuzzy
 msgid "[^1] When played with miniatures (e.g. such as when playing on the large battlefield), this ability cannot be used to recruit units from a faction controller by another player, nor to recruit neutral units that are already recruited by another player. Should a player draw such card, that may not be recruited, they shall draw a replacement card instead."
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1] Cuando se juega con miniaturas ( ej. cuando se juega en el campo de batalla grande), esta habilidad no puede ser usada para reclutar unidades de una facción controlada por otro jugador, ni para reclutar unidades neutrales que ya estén reclutadas por otro jugador. Si un jugador roba una carta de este tipo, que no puede ser reclutada, deberá robar una carta de reemplazo en su lugar.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1] Cuando se juega con miniaturas (ej. cuando se juega en el gran campo de batalla), esta habilidad no puede utilizarse para reclutar unidades de una facción controlada por otro jugador, ni para reclutar unidades neutrales que ya estén reclutadas por otro jugador. Si un jugador roba una carta de este tipo, que no puede ser reclutada, deberá robar una carta de reemplazo en su lugar."
+msgstr "[^1] Cuando se juega con miniaturas (ej. cuando se juega en el gran campo de batalla), esta habilidad no puede utilizarse para reclutar unidades de una facción controlada por otro jugador, ni para reclutar unidades neutrales que ya estén reclutadas por otro jugador. Si un jugador roba una carta de este tipo, que no puede ser reclutada, deberá robar una carta de reemplazo en su lugar."
 
 #. type: Link reference
 #: docs/abilities/diplomacy.md
@@ -694,28 +669,6 @@ msgstr ""
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text."
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es válida para todos los modos de juego.La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[^1]: Excepciones para modos de juego específicos.Esta explicación no es válida para todos los modos de juego.La variante específica para el modo de juego se menciona en el texto."
+msgstr "[^1]: Excepciones para modos de juego específicos. Esta explicación no es válida para todos los modos de juego. La variante específica para el modo de juego se menciona en el texto."
