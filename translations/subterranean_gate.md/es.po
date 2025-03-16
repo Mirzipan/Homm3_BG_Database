@@ -227,7 +227,7 @@ msgstr "Viene Con"
 #: docs/fields/subterranean_gate.md docs/tiles/u1.md
 #, no-wrap
 msgid "Subterranean Gate"
-msgstr "Puerta subterránea"
+msgstr "Puerta Subterránea"
 
 #. type: Bullet: '- '
 #: docs/fields/subterranean_gate.md docs/tiles/f19.md docs/tiles/f20.md

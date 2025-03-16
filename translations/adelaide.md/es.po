@@ -688,13 +688,8 @@ msgstr "**Ⅰ y Ⅵ** - El :damage: de Anillo Helado también se aplica a unidad
 
 #. type: Bullet: '- '
 #: docs/heroes/adelaide.md docs/heroes/deemer.md
-#, fuzzy
 msgid "These specialties can be played as *instant* effects at any time during Combat, not just during the friendly unit activations."
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"Estas especialidades se pueden jugar como efectos *instantáneos* en cualquier momento durante el Combate, no solo durante las activaciones de unidades aliadas.\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"Estas especialidades pueden jugarse como efectos * instantáneos * en cualquier momento del Combate, no sólo durante las activaciones de las unidades aliadas."
+msgstr "Estas especialidades se pueden jugar como efectos *instantáneos* en cualquier momento durante el Combate, no solo durante las activaciones de unidades aliadas."
 
 #. type: Bullet: '- '
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md

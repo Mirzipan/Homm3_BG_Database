@@ -276,7 +276,7 @@ msgstr "[Escuela de Magia Ígnea](school_of_fire_magic.md)"
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr ""
+msgstr "[Escuela de Magia Acuática](school_of_water_magic.md)"
 
 #. type: Plain text
 #: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
@@ -289,7 +289,7 @@ msgstr "Una de las cuatro escuelas de magia."
 #: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
 #, no-wrap
 msgid "Basic"
-msgstr ""
+msgstr "Básico"
 
 #. type: Bullet: '- '
 #: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
@@ -302,7 +302,7 @@ msgstr "[Magic Arrow] (Magic_arrow.md)"
 #: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
 #, no-wrap
 msgid "Expert"
-msgstr ""
+msgstr "Experto"
 
 #. type: Title #
 #: docs/spells/school_of_earth_magic.md

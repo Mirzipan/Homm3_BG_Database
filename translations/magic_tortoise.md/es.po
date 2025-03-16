@@ -671,4 +671,4 @@ msgstr ""
 #: docs/statistics/defense.md docs/statistics/knowledge.md
 #: docs/statistics/power.md docs/towns/index.md
 msgid "[List of Heroes](../heroes/index.md)"
-msgstr ""
+msgstr "[Lista de Héroes](../heroes/index.md)"

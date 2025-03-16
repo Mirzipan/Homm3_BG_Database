@@ -580,13 +580,8 @@ msgstr "<p style=\"text-align: center;\" markdown>[Resistencia](../abilities/res
 
 #. type: Plain text
 #: docs/heroes/bron.md
-#, fuzzy
 msgid "=== \"Basilisks Ⅰ\""
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"=== \"Basiliscos Ⅰ\"\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"=== \"Basiliscos ⅰ\""
+msgstr "=== \"Basiliscos Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/bron.md

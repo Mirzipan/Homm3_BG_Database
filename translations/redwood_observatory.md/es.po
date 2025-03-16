@@ -449,7 +449,7 @@ msgstr "[Lista de Losetas](../tiles/index.md)"
 #: docs/fields/redwood_observatory.md
 #, no-wrap
 msgid "Redwood Observatory"
-msgstr "Observatorio de Redwood"
+msgstr "Observatorio de Caoba"
 
 #. type: Plain text
 #: docs/fields/redwood_observatory.md

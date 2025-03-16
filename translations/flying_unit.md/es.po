@@ -219,7 +219,7 @@ msgstr ":golden: [Dragones Negros](../units/black_dragons.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/inferno.md
 msgid ":golden: [Efreet](../units/efreet.md)"
-msgstr ":golden: [Ifrits](../units/efreet.md)"
+msgstr ":golden: [Efrits](../units/efreet.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/necropolis.md
@@ -244,7 +244,7 @@ msgstr ":golden: [Fénixes](../units/phoenixes.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/fortress.md
 msgid ":golden: [Wyverns](../units/wyverns.md)"
-msgstr ":golden: [Guivernos](../units/wyverns.md)"
+msgstr ":golden: [Wyverns](../units/wyverns.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/neutral.md

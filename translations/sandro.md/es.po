@@ -815,9 +815,9 @@ msgstr "**Ⅳ** - the abilities of the [Manada de Zombies](../units/zombies.md) 
 #. type: Bullet: '- '
 #: docs/heroes/sandro.md
 msgid "**Ⅵ** - can be playedon \"Few\", \"Pack\", or even \"Horde\" of [Skeletons](../units/skeletons.md)."
-msgstr "**Ⅵ** - can be playedon \"Pocos\", \"Pack\", or even \"Horde\" of [Skeletons](../units/skeletons.md)."
+msgstr "**Ⅵ** - can be playedon \"Pocos\", \"Pack\", or even \"Horde\" of [Esqueletos](../units/skeletons.md)."
 
 #. type: Bullet: '- '
 #: docs/heroes/sandro.md
 msgid "[^1] **Ⅵ** - If the [Skeletons](../units/skeletons.md) are upgraded to a \"Legion\", they may be further upgraded to a \"Pack\" or a \"Horde\", but the \"Legion\" stays on top and its statistics are applied until defeated."
-msgstr "[^1] **Ⅵ** - If the [Skeletons](../units/skeletons.md) are upgraded to a \"Legion\", they may be further upgraded to a \"Manada\" or a \"Horde\", but the \"Legion\" stays on top and its statistics are applied until defeated."
+msgstr "[^1] **Ⅵ** - If the [Esqueletos](../units/skeletons.md) are upgraded to a \"Legion\", they may be further upgraded to a \"Manada\" or a \"Horde\", but the \"Legion\" stays on top and its statistics are applied until defeated."

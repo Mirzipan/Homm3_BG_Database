@@ -528,7 +528,7 @@ msgstr ":golden: [Titanes](../units/titans.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/tower.md
 msgid ":silver: [Magi](../units/magi.md)"
-msgstr ""
+msgstr ":silver: [Magos](../units/magi.md)"
 
 #. type: Title ##
 #: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md

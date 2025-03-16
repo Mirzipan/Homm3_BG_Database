@@ -859,7 +859,7 @@ msgstr ""
 "| :health_points: | 8 | 8 | 10 |\n"
 "| :initiative: | 7 | **11** | 10 |\n"
 "| Cost | 18 :gold:<br>1 :valuables: | 32 :gold:<br>2 :valuables: | 39 :gold: |\n"
-"| Abilities | :unit_passive: Ignore any :ongoing: effects on this unit. | :unit_passive: Ignore any :ongoing: effects on this unit and combat penalties against adjacent units. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking [Black Dragons](black_dragons.md), this unit gains +2 :attack:. |\n"
+"| Abilities | :unit_passive: Ignore any :ongoing: effects on this unit. | :unit_passive: Ignore any :ongoing: effects on this unit and combat penalties against adjacent units. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking [Dragones Negros](black_dragons.md), this unit gains +2 :attack:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/titans.md

@@ -445,7 +445,7 @@ msgstr "[Lista de Losetas](../tiles/index.md)"
 #: docs/fields/water_wheel.md
 #, no-wrap
 msgid "Water Wheel"
-msgstr "Rueda de agua"
+msgstr "Molino de Agua"
 
 #. type: Plain text
 #: docs/fields/water_wheel.md
