@@ -542,7 +542,7 @@ msgstr "[Juego Principal](../content/core_game.md)"
 #. type: Bullet: '- '
 #: docs/abilities/pathfinding.md docs/artifacts/angel_wings.md
 msgid "See [Blocked Field](../keywords/blocked_field.md)"
-msgstr "Ver [Campo Bloqueado](../keywords/blocked_field.md)"
+msgstr "Ver [Zona Bloqueada](../keywords/blocked_field.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md

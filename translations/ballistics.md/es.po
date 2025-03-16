@@ -480,7 +480,7 @@ msgstr "<p style=\"text-align: center;\" markdown>:instant: Juega esta carta dur
 #: docs/abilities/ballistics.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:instant: Play this card during a siege.<br>Destroy the [Arrow Tower](../units/arrow_tower.md).</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: Juega esta carta durante un asedio.<br>Destruye la  [Torre de Flechas](../units/arrow_tower.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Juega esta carta durante un asedio.<br>Destruye la  [Torre de Arqueros](../units/arrow_tower.md).</p>\n"
 
 #. type: Bullet: '- '
 #: docs/abilities/ballistics.md docs/abilities/scholar.md

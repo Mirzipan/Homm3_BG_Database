@@ -333,7 +333,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/revisitable_field.md docs/keywords/visitable_field.md
 msgid "[Flaggable Field](flaggable_field.md)"
-msgstr "[Lugar Señalizable] (flaggable_field.md)"
+msgstr "[Lugar Señalizable](flaggable_field.md)"
 
 #. type: Title #
 #: docs/keywords/visitable_field.md
@@ -418,7 +418,7 @@ msgstr ""
 #: docs/tiles/f5.md docs/tiles/f7.md docs/tiles/f9.md docs/tiles/fx3.md
 #: docs/tiles/fx6.md docs/tiles/fx9.md docs/tiles/n12.md docs/tiles/n8.md
 msgid "[Redwood Observatory](../fields/redwood_observatory.md)"
-msgstr "[Observatorio de las Secuoyas](../fields/redwood_observatory.md)"
+msgstr "[Observatorio de Caoba](../fields/redwood_observatory.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/fx2.md docs/tiles/s1.md
@@ -477,27 +477,8 @@ msgstr "[Tumba del Guerrero](../fields/warriors_tomb.md)"
 #: docs/tiles/f17.md docs/tiles/f3.md docs/tiles/f4.md docs/tiles/f6.md
 #: docs/tiles/fx3.md docs/tiles/fx4.md docs/tiles/fx5.md docs/tiles/n12.md
 #: docs/tiles/n4.md docs/tiles/n5.md docs/tiles/n6.md docs/tiles/n7.md
-#, fuzzy
 msgid "[Water Wheel](../fields/water_wheel.md)"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Noria de Agua](../fields/water_wheel.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Molino de Agua](../fields/water_wheel.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Molino de Agua](../fields/water_wheel.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Molino de Agua](../fields/water_wheel.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Molino de Agua](../fields/water_wheel.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Molino de Agua](../fields/water_wheel.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Molino de Agua](../fields/water_wheel.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Molino de Agua](../fields/water_wheel.md)\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"[Molino de Agua](../fields/water_wheel.md)"
+msgstr "[Molino de Agua](../fields/water_wheel.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/f1.md docs/tiles/f10.md

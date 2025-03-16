@@ -558,7 +558,7 @@ msgstr "[Lista de Artefactos](../artifacts/index.md)"
 #: docs/statistics/defense.md docs/statistics/knowledge.md
 #: docs/statistics/power.md docs/towns/index.md
 msgid "[List of Heroes](../heroes/index.md)"
-msgstr ""
+msgstr "[Lista de Héroes](../heroes/index.md)"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md

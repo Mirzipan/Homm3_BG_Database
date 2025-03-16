@@ -629,7 +629,7 @@ msgstr ":golden: [Archidiablos](../units/arch_devils.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/inferno.md
 msgid ":golden: [Efreet](../units/efreet.md)"
-msgstr ":golden: [Ifrits](../units/efreet.md)"
+msgstr ":golden: [Efrits](../units/efreet.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md docs/towns/inferno.md

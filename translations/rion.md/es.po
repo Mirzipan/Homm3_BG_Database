@@ -627,23 +627,13 @@ msgstr "Apariciones Como Héroe Jugador"
 
 #. type: Bullet: '- '
 #: docs/heroes/catherine.md docs/heroes/rion.md
-#, fuzzy
 msgid "Long Live The Queen - 2. Guardian Angels"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"Larga Vida a la Reina - 2. Ángeles Guardianes\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"Long Live the Queen - 2. Ángeles guardianes"
+msgstr "Larga Vida a la Reina - 2. Ángeles Guardianes"
 
 #. type: Bullet: '- '
 #: docs/heroes/catherine.md docs/heroes/rion.md
-#, fuzzy
 msgid "Long Live The Queen - 3. Steadwick's Liberation"
-msgstr ""
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"Larga Vida a la Reina - 3. La Liberación de Steadwick\n"
-"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"Long Live the Queen - 3. Liberación de Steadwick"
+msgstr "Larga Vida a la Reina - 3. La Liberación de Steadwick"
 
 #. type: Title #
 #: docs/heroes/rion.md

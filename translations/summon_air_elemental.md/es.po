@@ -477,7 +477,7 @@ msgstr "[Summon Fire Elemental] (Summon_fire_elemental.md)"
 #: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
 msgid "[Summon Water Elemental](summon_water_elemental.md)"
-msgstr "[Summon Water Elemental] (Summon_water_elemental.md)"
+msgstr "[Invocar Elemental de Agua](summon_water_elemental.md)"
 
 #. type: Title #
 #: docs/spells/summon_air_elemental.md

@@ -156,7 +156,7 @@ msgstr "Lista de unidades a distancia"
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/rampart.md
 msgid ":bronze: [Elves](../units/elves.md)"
-msgstr ""
+msgstr ":bronze: [Elfos](../units/elves.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/dungeon.md
@@ -166,7 +166,7 @@ msgstr ":bronze: [Ojos Maléficos](../units/evil_eyes.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
 msgid ":bronze: [Halflings](../units/halflings.md)"
-msgstr ""
+msgstr ":bronze: [Medianos](../units/halflings.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/fortress.md
@@ -181,12 +181,12 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/castle.md
 msgid ":bronze: [Marksmen](../units/marksmen.md)"
-msgstr ":bronze: [Arqueros](../units/marksmen.md)"
+msgstr ":bronze: [Tiradores](../units/marksmen.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/stronghold.md
 msgid ":bronze: [Orcs](../units/orcs.md)"
-msgstr ""
+msgstr ":bronze: [Orcos](../units/orcs.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/cove.md
@@ -201,7 +201,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/tower.md
 msgid ":silver: [Magi](../units/magi.md)"
-msgstr ""
+msgstr ":silver: [Magos](../units/magi.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/dungeon.md
@@ -226,7 +226,7 @@ msgstr ":silver: [Fanáticos](../units/zealots.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/stronghold.md
 msgid ":golden: [Cyclops](../units/cyclops.md)"
-msgstr ""
+msgstr ":golden: [Cíclopes](../units/cyclops.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/neutral.md
@@ -236,7 +236,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
 msgid ":azure: [Titans](../units/titans.md)"
-msgstr ""
+msgstr ":azure: [Titanes](../units/titans.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
