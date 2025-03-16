@@ -602,7 +602,7 @@ msgstr ""
 #: docs/units/sharpshooters.md
 #, no-wrap
 msgid "Sharpshooters"
-msgstr ""
+msgstr "Strzelcy"
 
 #. type: Plain text
 #: docs/units/sharpshooters.md
@@ -612,6 +612,9 @@ msgid ""
 "    ![Neutral Sharpshooters](../assets/units-neutral-silver-sharpshooters.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Sharpshooters](../assets/pl/units-neutral-silver-sharpshooters.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/sharpshooters.md
@@ -629,3 +632,14 @@ msgid ""
 "| Cost | 10 :gold: |\n"
 "| Abilities | :unit_attack: Ignore the combat penalties. |\n"
 msgstr ""
+"| Statystyki | Neutralne |\n"
+"| :--- | :---: |\n"
+"| Miasto | [Neutralne](../towns/neutral.md) |\n"
+"| Poziom | :silver: |\n"
+"| Typ | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| :attack: | 3 |\n"
+"| :defense: | 0 |\n"
+"| :health_points: | 6 |\n"
+"| :initiative: | 9 |\n"
+"| Koszt | 10 :gold: |\n"
+"| Zdolności | :unit_attack: Zignoruj kary do Walki. |\n"
