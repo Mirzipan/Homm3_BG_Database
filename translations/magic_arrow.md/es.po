@@ -709,7 +709,7 @@ msgstr "[Escuela de Magia Ígnea](school_of_fire_magic.md)"
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr ""
+msgstr "[Escuela de Magia Acuática](school_of_water_magic.md)"
 
 #. type: Title #
 #: docs/spells/magic_arrow.md

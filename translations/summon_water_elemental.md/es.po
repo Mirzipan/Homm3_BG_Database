@@ -450,7 +450,7 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr ""
+msgstr "[Escuela de Magia Acuática](school_of_water_magic.md)"
 
 #. type: Plain text
 #: docs/spells/frost_ring.md docs/spells/mirth.md docs/spells/prayer.md
@@ -481,7 +481,7 @@ msgstr "[Summon Fire Elemental] (Summon_fire_elemental.md)"
 #: docs/spells/summon_water_elemental.md
 #, no-wrap
 msgid "Summon Water Elemental"
-msgstr "Convocar alemental de agua"
+msgstr "Convocar Elemental de Agua"
 
 #. type: Plain text
 #: docs/spells/summon_water_elemental.md

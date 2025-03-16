@@ -884,4 +884,4 @@ msgstr "La capacidad se aplica justo después de que se activan los Wraiths."
 #. type: Bullet: '- '
 #: docs/units/wraiths.md
 msgid "If Wraiths were attacked by [Wyverns](wyverns.md), both the damage and the healing take place simultaneously. Nothing happens for faction (Few and Pack) Wraiths, and the Neutral variant removes up to 1 :damage:."
-msgstr "If Wraiths were attacked by [Guivernos](wyverns.md), both the damage and the healing take place simultaneously. Nothing happens for faction (Pocos and Pack) Wraiths, and the Neutral variant removes up to 1 :damage:."
+msgstr "If Wraiths were attacked by [Wyverns](wyverns.md), both the damage and the healing take place simultaneously. Nothing happens for faction (Pocos and Pack) Wraiths, and the Neutral variant removes up to 1 :damage:."

@@ -645,7 +645,7 @@ msgstr ":golden: [Campeones](../units/champions.md)"
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/castle.md
 msgid ":bronze: [Marksmen](../units/marksmen.md)"
-msgstr ":bronze: [Arqueros](../units/marksmen.md)"
+msgstr ":bronze: [Tiradores](../units/marksmen.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/castle.md
@@ -781,7 +781,7 @@ msgstr ""
 "| Nombre | Coste de Construcción | Efecto |\n"
 "| :--- | ---: | :---: |\n"
 "| Alcaldía | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | Al inicio de cada ronda de Recursos, elige:<br>:instant: 5 :gold:<br><br>— O —<br><br>:instant: +1:movement: |\n"
-"| Ciudadela | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Permite **Refuerzo** de [unidades](#units). Cuando estás bajo asedio, añade 3 cartas Muros, 1 Puerta, y 1 [Torre de Flechas](../units/arrow_tower.md) al tablero de Combate. |\n"
+"| Ciudadela | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Permite **Refuerzo** de [unidades](#units). Cuando estás bajo asedio, añade 3 cartas Muros, 1 Puerta, y 1 [Torre de Arqueros](../units/arrow_tower.md) al tablero de Combate. |\n"
 "| Cofradía de Magos | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **Cuando se construye:**<br>**Buscar(2)** [:spellpower:](../spells/index.md) dos veces.<br><br>**Después de construirlo:**<br>Una vez por turno :pay: 6 :gold: para **Buscar(2)** [:spellpower:](../spells/index.md). |\n"
 "| Torres | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Permite **Reclutamiento** de [unidades](#units) de :bronze:. |\n"
 "| Campos Sagrados | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Permite **Reclutamiento** de [unidades](#units) de :silver:. |\n"

@@ -115,7 +115,7 @@ msgstr ""
 #: docs/keywords/blocked_field.md
 #, no-wrap
 msgid "Blocked Field"
-msgstr "Campo Bloqueado"
+msgstr "Zona Bloqueada"
 
 #. type: Bullet: '- '
 #: docs/keywords/blocked_field.md

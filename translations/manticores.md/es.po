@@ -826,4 +826,4 @@ msgstr "**Manada (Alternate)** - See [Paralysis](../keywords/paralysis.md)"
 #. type: Bullet: '- '
 #: docs/units/manticores.md
 msgid "**Neutral** - When attacked by neutral [Champions](champions.md), the Manticores receive +2 :defense:, as both Attack dice will always end up as a 0 or a 1."
-msgstr "** Neutral ** - Cuando está atacado por Neutral [Champions] (Champions.MD), las Mantícoras reciben +2: Defensa:, ya que ambos dados de ataque siempre terminarán como un 0 o un 1."
+msgstr "** Neutral ** - Cuando está atacado por Neutral [Campeones](champions.md), las Mantícoras reciben +2: Defensa:, ya que ambos dados de ataque siempre terminarán como un 0 o un 1."
