@@ -20,3 +20,5 @@ Here are some projects within the homm3bg community that are definitely worth a 
 
 - [Rulebook Rewrite Project](https://github.com/Heegu-sama/Homm3BG)
 - [Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book)
+- [Factory Rule Book](https://github.com/piotrbruzda/Homm3BG-FactoryRulebook)
+- [Scenario Map Editor](https://github.com/zedero/HoMM3Boardgame)
