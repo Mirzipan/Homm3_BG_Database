@@ -22,7 +22,7 @@ ___
 
 ## Notes
 
-- This ability is active during each ranged attack of the Combat round, which means that it applies to both attacks of [Elves](../units/elves.md) and [Sharpshooters](../units/sharpshooters.md).
+- This ability is active during each ranged attack of the Combat round, which means that it applies to both attacks of [Elves](../units/elves.md) and [Marksmen](../units/marksmen.md).
 
 
 ## Comes With
