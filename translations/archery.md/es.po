@@ -576,8 +576,8 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/abilities/archery.md
-msgid "This ability is active during each ranged attack of the Combat round, which means that it applies to both attacks of [Elves](../units/elves.md) and [Sharpshooters](../units/sharpshooters.md)."
-msgstr "Esta habilidad se activa durante cada ataque a distancia de la ronda de Combate, lo que significa que se aplica a ambos ataques de [Elfos](../units/elves.md) y [Tiradores Certeros](../units/sharpshooters.md)."
+msgid "This ability is active during each ranged attack of the Combat round, which means that it applies to both attacks of [Elves](../units/elves.md) and [Marksmen](../units/marksmen.md)."
+msgstr "Esta habilidad se activa durante cada ataque a distancia de la ronda de Combate, lo que significa que se aplica a ambos ataques de [Elfos](../units/elves.md) y [Ballesteros](../units/marksmen.md)."
 
 #. type: Bullet: '- '
 #: docs/abilities/archery.md docs/abilities/armorer.md
