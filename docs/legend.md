@@ -3,6 +3,13 @@
 Quick reference for what the different glyphs mean.
 
 
+## Heroes
+
+| Icon | Description |
+| :---: | :--- |
+| :might: | Hero of Might |
+| :magic: | Hero of Magic |
+
 ## Units
 
 | Icon | Description |
@@ -74,3 +81,11 @@ Quick reference for what the different glyphs mean.
 | :morale_positive: | Positive morale |
 | :morale_negative: | Negative morale |
 | :movement: | Movement point |
+
+## AI Hero Card Types
+
+| Icon | Description |
+| :---: | :--- |
+| :might: | Might card |
+| :magic: | Magic card |
+| :skill: | Skill card |
