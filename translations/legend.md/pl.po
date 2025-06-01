@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2024-10-21 11:09+0000\n"
+"POT-Creation-Date: 2025-06-01 05:43+0000\n"
 "PO-Revision-Date: 2024-10-17 23:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -37,6 +37,25 @@ msgstr "Legenda"
 #. type: Plain text
 #: docs/legend.md
 msgid "Quick reference for what the different glyphs mean."
+msgstr ""
+
+#. type: Title ##
+#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
+#: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md
+#, no-wrap
+msgid "Heroes"
+msgstr ""
+
+#. type: Plain text
+#: docs/legend.md
+#, no-wrap
+msgid ""
+"| Icon | Description |\n"
+"| :---: | :--- |\n"
+"| :might: | Hero of Might |\n"
+"| :magic: | Hero of Magic |\n"
 msgstr ""
 
 #. type: Title ##
@@ -163,4 +182,22 @@ msgid ""
 "| :morale_positive: | Positive morale |\n"
 "| :morale_negative: | Negative morale |\n"
 "| :movement: | Movement point |\n"
+msgstr ""
+
+#. type: Title ##
+#: docs/legend.md
+#, fuzzy, no-wrap
+#| msgid "Card Types"
+msgid "AI Hero Card Types"
+msgstr "Typy Kart"
+
+#. type: Plain text
+#: docs/legend.md
+#, no-wrap
+msgid ""
+"| Icon | Description |\n"
+"| :---: | :--- |\n"
+"| :might: | Might card |\n"
+"| :magic: | Magic card |\n"
+"| :skill: | Skill card |\n"
 msgstr ""
