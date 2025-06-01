@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2024-10-21 11:09+0000\n"
+"POT-Creation-Date: 2025-06-01 05:43+0000\n"
 "PO-Revision-Date: 2024-10-21 11:09+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -40,10 +40,36 @@ msgid "Quick reference for what the different glyphs mean."
 msgstr "Referencia rápida del significado de los diferentes glifos."
 
 #. type: Title ##
-#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md
-#: docs/towns/cove.md docs/towns/dungeon.md docs/towns/fortress.md
-#: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/neutral.md
-#: docs/towns/rampart.md docs/towns/stronghold.md docs/towns/tower.md
+#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
+#: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md
+#, no-wrap
+msgid "Heroes"
+msgstr "Héroes"
+
+#. type: Plain text
+#: docs/legend.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "| Icon | Description |\n"
+#| "| :---: | :--- |\n"
+#| "| :necro: | Necropolis |\n"
+msgid ""
+"| Icon | Description |\n"
+"| :---: | :--- |\n"
+"| :might: | Hero of Might |\n"
+"| :magic: | Hero of Magic |\n"
+msgstr ""
+"| Icono | Descripción |\n"
+"| :---: | :--- |\n"
+"| :necro: | Necrópolis |\n"
+
+#. type: Title ##
+#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
+#: docs/towns/necropolis.md docs/towns/neutral.md docs/towns/rampart.md
+#: docs/towns/stronghold.md docs/towns/tower.md
 #, no-wrap
 msgid "Units"
 msgstr "Unidades"
@@ -215,3 +241,32 @@ msgstr ""
 "| :morale_positive: | Moral positiva |\n"
 "| :morale_negative: | Moral negativa |\n"
 "| :movement: | Punto de movimiento |\n"
+
+#. type: Title ##
+#: docs/legend.md
+#, fuzzy, no-wrap
+#| msgid "Card Types"
+msgid "AI Hero Card Types"
+msgstr "Tipos de Cartas"
+
+#. type: Plain text
+#: docs/legend.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "| Icon | Description |\n"
+#| "| :---: | :--- |\n"
+#| "| :gold: | Gold |\n"
+#| "| :building_materials: | Building materials |\n"
+#| "| :valuables: | Valuables |\n"
+msgid ""
+"| Icon | Description |\n"
+"| :---: | :--- |\n"
+"| :might: | Might card |\n"
+"| :magic: | Magic card |\n"
+"| :skill: | Skill card |\n"
+msgstr ""
+"| Icono | Descripción |\n"
+"| :---: | :--- |\n"
+"| :gold: | Oro |\n"
+"| :building_materials: | Materiales de construcción |\n"
+"| :valuables: | Objetos de valor |\n"

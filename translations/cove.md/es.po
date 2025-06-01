@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2024-10-21 17:38+0000\n"
+"POT-Creation-Date: 2025-06-01 05:43+0000\n"
 "PO-Revision-Date: 2025-02-20 13:46+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
@@ -584,6 +584,15 @@ msgstr ":silver: [Hechiceras](../units/sorceresses.md)"
 #. type: Title ##
 #: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
 #: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
+#: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md
+#, no-wrap
+msgid "Heroes"
+msgstr "Héroes"
+
+#. type: Title ##
+#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
 #: docs/towns/necropolis.md docs/towns/neutral.md docs/towns/rampart.md
 #: docs/towns/stronghold.md docs/towns/tower.md
 #, no-wrap
@@ -598,15 +607,6 @@ msgstr "Unidades"
 #, no-wrap
 msgid "Buildings"
 msgstr "Edificios"
-
-#. type: Title ##
-#: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
-#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
-#: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/stronghold.md
-#: docs/towns/tower.md
-#, no-wrap
-msgid "Heroes"
-msgstr "Héroes"
 
 #. type: Title #
 #: docs/towns/cove.md
