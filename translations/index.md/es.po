@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-04-04 08:35+0000\n"
+"POT-Creation-Date: 2025-09-30 19:07+0000\n"
 "PO-Revision-Date: 2025-03-12 14:45+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
@@ -867,24 +867,24 @@ msgid "[List of Tiles](../tiles/index.md)"
 msgstr "[Lista de Losetas](../tiles/index.md)"
 
 #. type: Title ##
-#: docs/fields/index.md docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md
-#: docs/tiles/c4.md docs/tiles/c5.md docs/tiles/cx1.md docs/tiles/f1.md
-#: docs/tiles/f10.md docs/tiles/f11.md docs/tiles/f12.md docs/tiles/f13.md
-#: docs/tiles/f14.md docs/tiles/f15.md docs/tiles/f16.md docs/tiles/f17.md
-#: docs/tiles/f18.md docs/tiles/f19.md docs/tiles/f2.md docs/tiles/f20.md
-#: docs/tiles/f21.md docs/tiles/f3.md docs/tiles/f4.md docs/tiles/f5.md
-#: docs/tiles/f6.md docs/tiles/f7.md docs/tiles/f8.md docs/tiles/f9.md
-#: docs/tiles/fx1.md docs/tiles/fx10.md docs/tiles/fx2.md docs/tiles/fx3.md
-#: docs/tiles/fx4.md docs/tiles/fx5.md docs/tiles/fx6.md docs/tiles/fx7.md
-#: docs/tiles/fx8.md docs/tiles/fx9.md docs/tiles/n1.md docs/tiles/n10.md
-#: docs/tiles/n11.md docs/tiles/n12.md docs/tiles/n13.md docs/tiles/n14.md
-#: docs/tiles/n2.md docs/tiles/n3.md docs/tiles/n4.md docs/tiles/n5.md
-#: docs/tiles/n6.md docs/tiles/n7.md docs/tiles/n8.md docs/tiles/n9.md
-#: docs/tiles/nx1.md docs/tiles/nx2.md docs/tiles/nx3.md docs/tiles/s1.md
-#: docs/tiles/s2.md docs/tiles/s3.md docs/tiles/s4.md docs/tiles/s5.md
-#: docs/tiles/s6.md docs/tiles/s7.md docs/tiles/s8.md docs/tiles/s9.md
-#: docs/tiles/sx1.md docs/tiles/u1.md docs/tiles/u2.md docs/tiles/w1.md
-#: docs/tiles/w2.md docs/tiles/w3.md
+#: docs/fields/index.md docs/keywords/index.md docs/tiles/c1.md
+#: docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md docs/tiles/c5.md
+#: docs/tiles/cx1.md docs/tiles/f1.md docs/tiles/f10.md docs/tiles/f11.md
+#: docs/tiles/f12.md docs/tiles/f13.md docs/tiles/f14.md docs/tiles/f15.md
+#: docs/tiles/f16.md docs/tiles/f17.md docs/tiles/f18.md docs/tiles/f19.md
+#: docs/tiles/f2.md docs/tiles/f20.md docs/tiles/f21.md docs/tiles/f3.md
+#: docs/tiles/f4.md docs/tiles/f5.md docs/tiles/f6.md docs/tiles/f7.md
+#: docs/tiles/f8.md docs/tiles/f9.md docs/tiles/fx1.md docs/tiles/fx10.md
+#: docs/tiles/fx2.md docs/tiles/fx3.md docs/tiles/fx4.md docs/tiles/fx5.md
+#: docs/tiles/fx6.md docs/tiles/fx7.md docs/tiles/fx8.md docs/tiles/fx9.md
+#: docs/tiles/n1.md docs/tiles/n10.md docs/tiles/n11.md docs/tiles/n12.md
+#: docs/tiles/n13.md docs/tiles/n14.md docs/tiles/n2.md docs/tiles/n3.md
+#: docs/tiles/n4.md docs/tiles/n5.md docs/tiles/n6.md docs/tiles/n7.md
+#: docs/tiles/n8.md docs/tiles/n9.md docs/tiles/nx1.md docs/tiles/nx2.md
+#: docs/tiles/nx3.md docs/tiles/s1.md docs/tiles/s2.md docs/tiles/s3.md
+#: docs/tiles/s4.md docs/tiles/s5.md docs/tiles/s6.md docs/tiles/s7.md
+#: docs/tiles/s8.md docs/tiles/s9.md docs/tiles/sx1.md docs/tiles/u1.md
+#: docs/tiles/u2.md docs/tiles/w1.md docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
 msgstr "Lugares"
@@ -1223,6 +1223,117 @@ msgstr "**Notas:** Schlupf [Referenz-Regelbuch](https://discord.com/channels/740
 msgid "Thanks to the community for miscellaneous help, pointers, and ideas."
 msgstr "Gracias a la comunidad por la ayuda desinteresada, los consejos e ideas."
 
+#. type: Bullet: '- '
+#: docs/keywords/center_tile.md docs/keywords/far_tile.md
+#: docs/keywords/index.md docs/keywords/near_tile.md
+#: docs/keywords/underground_tile.md docs/keywords/water_tile.md
+#, fuzzy
+msgid "[Starting Tile](starting_tile.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Inicial](starting_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Inicial](starting_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Tíle de inicio] (starting_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Tíle de inicio] (starting_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Inicial](starting_tile.md)"
+
+#. type: Bullet: '- '
+#: docs/keywords/center_tile.md docs/keywords/index.md
+#: docs/keywords/near_tile.md docs/keywords/starting_tile.md
+#: docs/keywords/underground_tile.md docs/keywords/water_tile.md
+#, fuzzy
+msgid "[Far Tile](far_tile.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Lejana](far_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[FAR TILE] (FAR_TILE.MD)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[FAR TILE] (FAR_TILE.MD)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[FAR TILE] (FAR_TILE.MD)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[FAR TILE] (FAR_TILE.MD)"
+
+#. type: Bullet: '- '
+#: docs/keywords/center_tile.md docs/keywords/far_tile.md
+#: docs/keywords/index.md docs/keywords/starting_tile.md
+#: docs/keywords/underground_tile.md docs/keywords/water_tile.md
+#, fuzzy
+msgid "[Near Tile](near_tile.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Cercana](near_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Cercana](near_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Cerca de mosaico] (cerca de_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Cerca de mosaico] (cerca de_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Cerca de mosaico] (cerca de_tile.md)"
+
+#. type: Bullet: '- '
+#: docs/keywords/center_tile.md docs/keywords/far_tile.md
+#: docs/keywords/index.md docs/keywords/near_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/water_tile.md
+#, fuzzy
+msgid "[Underground Tile](underground_tile.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta de Subterráneo](underground_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta de Subterráneo](underground_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Mosaico subterráneo] (Underground_til.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Mosaico subterráneo] (Underground_til.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Mosaico subterráneo] (Underground_til.md)"
+
+#. type: Bullet: '- '
+#: docs/keywords/center_tile.md docs/keywords/far_tile.md
+#: docs/keywords/index.md docs/keywords/near_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
+msgid "[Water Tile](water_tile.md)"
+msgstr "[Loseta de Agua](water_tile.md)"
+
+#. type: Bullet: '- '
+#: docs/keywords/far_tile.md docs/keywords/index.md docs/keywords/near_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/water_tile.md
+#, fuzzy
+msgid "[Center Tile](center_tile.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Loseta Central](center_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Tile central] (Center_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Tile central] (Center_tile.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Tile central] (Center_tile.md)"
+
+#. type: Bullet: '- '
+#: docs/keywords/flaggable_field.md docs/keywords/index.md
+#: docs/keywords/revisitable_field.md
+msgid "[Visitable Field](visitable_field.md)"
+msgstr "[Lugar Visitable](visitable_field.md)"
+
+#. type: Bullet: '- '
+#: docs/keywords/flaggable_field.md docs/keywords/index.md
+#: docs/keywords/visitable_field.md
+#, fuzzy
+msgid "[Revisitable Field](revisitable_field.md)"
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Zona Revisitable] (revisable_field.md)\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"[Lugar Revisitable] (revisable_field.md)"
+
 #. type: Title #
 #: docs/keywords/index.md
 #, no-wrap
@@ -1265,9 +1376,20 @@ msgid "[:permanent: Permanent Effect](permanent_effect.md)"
 msgstr "[:permanent: Efecto Permanente](permanent_effect.md)"
 
 #. type: Title ##
-#: docs/keywords/index.md
+#: docs/keywords/index.md docs/legend.md docs/towns/castle.md
+#: docs/towns/conflux.md docs/towns/cove.md docs/towns/dungeon.md
+#: docs/towns/fortress.md docs/towns/inferno.md docs/towns/necropolis.md
+#: docs/towns/neutral.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md
 #, no-wrap
-msgid "Unit Types"
+msgid "Units"
+msgstr "Unidades"
+
+#. type: Title ###
+#: docs/keywords/index.md
+#, fuzzy, no-wrap
+#| msgid "Unit Types"
+msgid "Types"
 msgstr "Tipos de Unidades"
 
 #. type: Bullet: '- '
@@ -1285,10 +1407,11 @@ msgstr "[:unit_ground: Unidad Terrestre](ground_unit.md)"
 msgid "[:unit_ranged: Ranged Unit](ranged_unit.md)"
 msgstr "[:unit_ranged: Unidad a Distancia](ranged_unit.md)"
 
-#. type: Title ##
+#. type: Title ###
 #: docs/keywords/index.md
-#, no-wrap
-msgid "Unit Statistics"
+#, fuzzy, no-wrap
+#| msgid "Unit Statistics"
+msgid "Statistics"
 msgstr "Características de Unidad"
 
 #. type: Bullet: '- '
@@ -1311,7 +1434,7 @@ msgstr "[:health_points: Puntos de Salud](health_points.md)"
 msgid "[:initiative: Initiative Value](initiative_value.md)"
 msgstr "[:initiative: Valor de Iniciativa](initiative_value.md)"
 
-#. type: Title ##
+#. type: Title ###
 #: docs/keywords/index.md
 #, no-wrap
 msgid "Combat"
@@ -1332,16 +1455,42 @@ msgstr "[:paralysis: Parálisis](paralysis.md)"
 msgid "[:unit_other: Alternative Action](alternative_action.md)"
 msgstr "[:unit_other: Acción Alternativa](alternative_action.md)"
 
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+#, fuzzy
+#| msgid "[Remove Obstacle](remove_obstacle.md)"
+msgid "[Obstacle](obstacle.md)"
+msgstr "[Eliminar Obstáculo](remove_obstacle.md)"
+
 #. type: Title ##
 #: docs/keywords/index.md
 #, no-wrap
 msgid "Map"
 msgstr "Mapa"
 
+#. type: Title #
+#: docs/keywords/index.md docs/tiles/index.md
+#, no-wrap
+msgid "Tiles"
+msgstr "Losetas"
+
 #. type: Bullet: '- '
 #: docs/keywords/index.md
 msgid "[Blocked Field](blocked_field.md)"
 msgstr "[Zona Bloqueada](blocked_field.md)"
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md
+#, fuzzy
+#| msgid "[Empty Field](../keywords/empty_field.md)"
+msgid "[Empty Field](empty_field.md)"
+msgstr "[Zona Vacía](../keywords/empty_field.md)"
+
+#. type: Bullet: '- '
+#: docs/keywords/index.md docs/keywords/revisitable_field.md
+#: docs/keywords/visitable_field.md
+msgid "[Flaggable Field](flaggable_field.md)"
+msgstr "[Lugar Señalizable](flaggable_field.md)"
 
 #. type: Title #
 #: docs/scenarios/index.md
@@ -1670,12 +1819,6 @@ msgstr ""
 "| [Poder Potenciado](power.md) | :instant: +2 :empower: | - |\n"
 "| [Conocimiento](knowledge.md) | :instant: Juega esta carta tras lanzar un [hechizo](../spells/index.md). En lugar de descartar la carta del [Hechizo](../spells/index.md), devuélvela a tu mano. | :instant: Juega esta carta tras lanzar un [hechizo](../spells/index.md). En lugar de descartar la carta del [Hechizo](../spells/index.md), devuélvela a tu mano. Durante esta ronda de combate, tu límite de [hechizo](../spells/index.md) aumenta en 1. |\n"
 "| [Conocimiento Potenciado](knowledge.md) | :instant: Juega esta carta tras lanzar un [hechizo](../spells/index.md). En lugar de descartar la carta del [Hechizo](../spells/index.md), devuélvela a tu mano. Durante esta ronda de combate, tu límite de [hechizo](../spells/index.md) aumenta en 1. | - |\n"
-
-#. type: Title #
-#: docs/tiles/index.md
-#, no-wrap
-msgid "Tiles"
-msgstr "Losetas"
 
 #. type: Plain text
 #: docs/tiles/index.md

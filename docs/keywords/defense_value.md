@@ -1,2 +1,5 @@
 # :defense: Defense Value
 
+
+## Notes
+

@@ -1,13 +1,13 @@
-# Spanish translations for Homm package
+# Spanish translations for PACKAGE package
 # Copyright (C) 2025 Free Software Foundation, Inc.
-# This file is distributed under the same license as the Homm package.
+# This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2025.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Homm 3_BG_Database\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-09-30 19:07+0000\n"
-"PO-Revision-Date: 2024-10-18 10:02+0200\n"
+"PO-Revision-Date: 2025-09-30 19:07+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -85,14 +85,20 @@ msgid "Notes"
 msgstr "Notas"
 
 #. type: Title #
-#: docs/keywords/alternative_action.md
-#, no-wrap
-msgid ":unit_other: Alternative Action"
-msgstr ":unit_other: Acción Alternativa"
+#: docs/keywords/obstacle.md
+#, fuzzy, no-wrap
+#| msgid "Remove Obstacle"
+msgid "Obstacle"
+msgstr "Eliminar el obstáculo"
 
 #. type: Bullet: '- '
-#: docs/keywords/alternative_action.md
+#: docs/keywords/obstacle.md
+msgid "Any space that is occupied by a [unit](../units/index.md), an obstacle marker, a Wall or a Gate may not be stepped on."
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/obstacle.md
 #, fuzzy
-#| msgid "**Few** - Should the Genies use their [alternative action](../keywords/alternative_action.md), they are not allowed to move, attack or defend."
-msgid "Should a unit use the alternative action, they are not allowed to move, attack or defend."
-msgstr "**Pocos** - Si los Genios usan su [acción alternativa](../keywords/alternative_action.md), no pueden moverse, atacar o defenderse."
+#| msgid "Flying units may move over obstacles, as long as their movement ends on an empty space."
+msgid "[Flying units](flying_unit.md) may move through these spaces, but their movement is not allowed to end in such a space."
+msgstr "Las unidades voladoras pueden moverse por encima de obstáculos, siempre que su movimiento termine en un espacio vacío."
