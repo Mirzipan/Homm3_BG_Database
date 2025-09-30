@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2025-06-01 05:43+0000\n"
+"POT-Creation-Date: 2025-09-30 19:07+0000\n"
 "PO-Revision-Date: 2024-10-17 23:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -27,6 +27,16 @@ msgstr "Kości"
 #, no-wrap
 msgid "Resources"
 msgstr "Zasoby"
+
+#. type: Title ##
+#: docs/keywords/index.md docs/legend.md docs/towns/castle.md
+#: docs/towns/conflux.md docs/towns/cove.md docs/towns/dungeon.md
+#: docs/towns/fortress.md docs/towns/inferno.md docs/towns/necropolis.md
+#: docs/towns/neutral.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md
+#, no-wrap
+msgid "Units"
+msgstr "Jednostki"
 
 #. type: Title #
 #: docs/legend.md
@@ -57,15 +67,6 @@ msgid ""
 "| :might: | Hero of Might |\n"
 "| :magic: | Hero of Magic |\n"
 msgstr ""
-
-#. type: Title ##
-#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
-#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
-#: docs/towns/necropolis.md docs/towns/neutral.md docs/towns/rampart.md
-#: docs/towns/stronghold.md docs/towns/tower.md
-#, no-wrap
-msgid "Units"
-msgstr "Jednostki"
 
 #. type: Plain text
 #: docs/legend.md

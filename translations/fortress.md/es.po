@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-06-01 05:43+0000\n"
+"POT-Creation-Date: 2025-09-30 19:07+0000\n"
 "PO-Revision-Date: 2025-02-25 11:10+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -599,6 +599,16 @@ msgstr ":silver: [Gorgonas](../units/gorgons.md)"
 msgid ":golden: [Hydras](../units/hydras.md)"
 msgstr ":golden: [Hidras](../units/hydras.md)"
 
+#. type: Title ##
+#: docs/keywords/index.md docs/legend.md docs/towns/castle.md
+#: docs/towns/conflux.md docs/towns/cove.md docs/towns/dungeon.md
+#: docs/towns/fortress.md docs/towns/inferno.md docs/towns/necropolis.md
+#: docs/towns/neutral.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md
+#, no-wrap
+msgid "Units"
+msgstr "Unidades"
+
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/fortress.md
 msgid ":bronze: [Lizardmen](../units/lizardmen.md)"
@@ -612,15 +622,6 @@ msgstr ":bronze: [Hombres Lagarto](../units/lizardmen.md)"
 #, no-wrap
 msgid "Heroes"
 msgstr "Héroes"
-
-#. type: Title ##
-#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
-#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
-#: docs/towns/necropolis.md docs/towns/neutral.md docs/towns/rampart.md
-#: docs/towns/stronghold.md docs/towns/tower.md
-#, no-wrap
-msgid "Units"
-msgstr "Unidades"
 
 #. type: Title ##
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
