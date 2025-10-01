@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-09-30 19:07+0000\n"
+"POT-Creation-Date: 2025-09-30 20:05+0000\n"
 "PO-Revision-Date: 2025-03-12 14:45+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
@@ -1187,6 +1187,12 @@ msgstr ":skill: Otros Proyectos Comunitarios"
 msgid "Here are some projects within the homm3bg community that are definitely worth a visit."
 msgstr "He aquí algunos proyectos de la comunidad homm3bg que sin duda merecen una visita."
 
+#. type: Title ###
+#: docs/index.md
+#, no-wrap
+msgid "Books"
+msgstr ""
+
 #. type: Bullet: '- '
 #: docs/index.md
 msgid "[Rulebook Rewrite Project](https://github.com/Heegu-sama/Homm3BG)"
@@ -1196,6 +1202,29 @@ msgstr "[Proyecto de Reglas Reescritas](https://github.com/Heegu-sama/Homm3BG)"
 #: docs/index.md
 msgid "[Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book)"
 msgstr "[Libro de Misiones por Aficionados](https://github.com/qwrtln/Homm3BG-mission-book)"
+
+#. type: Bullet: '- '
+#: docs/index.md
+#, fuzzy
+#| msgid "[Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book)"
+msgid "[Factory Rule Book](https://github.com/piotrbruzda/Homm3BG-FactoryRulebook)"
+msgstr "[Libro de Misiones por Aficionados](https://github.com/qwrtln/Homm3BG-mission-book)"
+
+#. type: Title ###
+#: docs/index.md
+#, no-wrap
+msgid "Editors"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/index.md
+msgid "[Scenario Editor](https://zedero.github.io/HoMM3BoardgameScenarioEditor/)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/index.md
+msgid "[Hero Creator](https://k-adam.github.io/Homm3_hero_creator/)"
+msgstr ""
 
 #. type: Title ##
 #: docs/index.md
@@ -1210,6 +1239,11 @@ msgstr "**Desarrollador Principal:** Mirzipan"
 
 #. type: Bullet: '- '
 #: docs/index.md
+msgid "**Automation and Miscellaneous Help:** [qwrtln](https://github.com/qwrtln)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/index.md
 msgid "**Visual References:** FlatPanda"
 msgstr "**Referencias Visuales:** Flatpanda"
 
@@ -1217,6 +1251,11 @@ msgstr "**Referencias Visuales:** Flatpanda"
 #: docs/index.md
 msgid "**Notes:** Schlupf [Referenz-Regelbuch](https://discord.com/channels/740870068178649108/1269274294408450078/1269274294408450078)"
 msgstr "**Notas:** Schlupf [Referenz-Regelbuch](https://discord.com/channels/740870068178649108/1269274294408450078/1269274294408450078)"
+
+#. type: Bullet: '- '
+#: docs/index.md
+msgid "**Special Thanks:** you, who are using this, and those who contribute in a greater or lesser way"
+msgstr ""
 
 #. type: Plain text
 #: docs/index.md

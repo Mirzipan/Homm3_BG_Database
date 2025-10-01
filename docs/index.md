@@ -22,14 +22,23 @@ This project is a fan project, and is in no way official or affiliated with [Arc
 
 Here are some projects within the homm3bg community that are definitely worth a visit.
 
+### Books
 - [Rulebook Rewrite Project](https://github.com/Heegu-sama/Homm3BG)
 - [Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book)
+- [Factory Rule Book](https://github.com/piotrbruzda/Homm3BG-FactoryRulebook)
+
+
+### Editors
+- [Scenario Editor](https://zedero.github.io/HoMM3BoardgameScenarioEditor/)
+- [Hero Creator](https://k-adam.github.io/Homm3_hero_creator/)
 
 
 ## :initiative: Credits & Thanks
 
 - **Main Developer:** Mirzipan
+- **Automation and Miscellaneous Help:** [qwrtln](https://github.com/qwrtln)
 - **Visual References:** FlatPanda
 - **Notes:** Schlupf [Referenz-Regelbuch](https://discord.com/channels/740870068178649108/1269274294408450078/1269274294408450078)
+- **Special Thanks:** you, who are using this, and those who contribute in a greater or lesser way
 
 Thanks to the community for miscellaneous help, pointers, and ideas.
