@@ -13,6 +13,11 @@
 - [:permanent: Permanent Effect](permanent_effect.md)
 
 
+## Heroes
+
+- [Level](level.md)
+
+
 ## Units
 
 ### Types
