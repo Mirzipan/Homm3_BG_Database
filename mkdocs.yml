@@ -1,5 +1,5 @@
 site_name: "Heroes of Might and Magic 3: The Board Game Database"
-site_url: https://homm3bg.wiki
+site_url: https://en.homm3bg.wiki
 
 markdown_extensions:
   - attr_list
@@ -65,6 +65,23 @@ theme:
   icon:
     repo: fontawesome/brands/git-alt
 
+extra:
+  alternate:
+    - name: English
+      link: https://en.homm3bg.wiki
+      lang: en
+    - name: Polski
+      link: https://pl.homm3bg.wiki
+      lang: pl
+    - name: Español
+      link: https://es.homm3bg.wiki
+      lang: es
+    - name: Français
+      link: https://fr.homm3bg.wiki
+      lang: fr
+    - name: Help translate
+      link: https://discord.gg/Y4uM9pPWF6
+
 extra_css:
   - stylesheets/extra.css
 
@@ -78,60 +95,6 @@ plugins:
   - exclude-search:
       exclude:
         - /*/index.md
-  - i18n:
-      docs_structure: suffix
-      fallback_to_default: true
-      reconfigure_material: true
-      reconfigure_search: true
-      languages:
-        - locale: en
-          default: true
-          name: English
-          build: true
-        - locale: pl
-          name: Polski
-          build: true
-          nav_translations:
-            Home: Strona Główna
-            Abilities: Zdolności
-            Artifacts: Artefakty
-            Astrologers proclaim: Astrologowie ogłaszają
-            Content: Zawartość
-            Events: Wydarzenia
-            Fields: Pola
-            Heroes: Bohaterowie
-            Keywords: Słowa kluczowe
-            Scenarios: Scenariusze
-            Spells: Zaklęcia
-            Statistics: Statystyki
-            Tiles: Kafelki
-            Towns: Miasta
-            Units: Jednostki
-            War machines: Machiny Wojenne
-        - locale: es
-          name: Español
-          build: true
-          nav_translations:
-            Home: Inicio
-            Abilities: Habilidades
-            Artifacts: Artefactos
-            Astrologers proclaim: Proclama de los Astrólogos
-            Content: Contenido
-            Events: Eventos
-            Fields: Zonas
-            Heroes: Héroes
-            Keywords: Palabras Clave
-            Scenarios: Escenarios
-            Spells: Hechizos
-            Statistics: Estadísticas
-            Tiles: Losetas
-            Towns: Ciudades
-            Units: Unidades
-            War machines: Máquinas de Guerra
-        - locale: "null"
-          name: Help translate
-          build: false
-          fixed_link: https://discord.gg/Y4uM9pPWF6
 
 repo_url: https://github.com/Mirzipan/Homm3_BG_Database
 repo_name: Mirzipan/Homm3_BG_Database
