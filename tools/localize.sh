@@ -22,7 +22,7 @@ find docs/ -name "*.$LANGUAGE.md"| while IFS= read -r file; do
   mv "$file" "$target"
 done
 
-cp "navigation.$LANGUAGE.yml" docs/.nav.yml
+cp "translations/navigation/$LANGUAGE.yml" docs/.nav.yml
 
 sed -i -e "s/language: en/language: $LANGUAGE/" \
     -e "s/alternate.*-round/alternate: $LANGUAGE-round/" \

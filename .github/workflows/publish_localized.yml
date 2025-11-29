@@ -51,7 +51,7 @@ jobs:
             echo "Moving file: $file -> $target"
             mv "$file" "$target"
           done
-          cp "navigation.$LANGUAGE.yml" docs/.nav.yml
+          cp "translations/navigation/$LANGUAGE.yml" docs/.nav.yml
 
       - name: Set CNAME for ${{ matrix.language }}
         run: |
