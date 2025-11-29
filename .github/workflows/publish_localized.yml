@@ -1,0 +1,75 @@
+name: Publish localized site
+on:
+  push:
+    branches:
+      - main
+  pull_request:  # To be deleted before merging
+    branches:
+      - main
+
+
+
+env:
+  SITE_URL: homm3bg.wiki
+
+jobs:
+  localize:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - language: pl
+            secret_name: SSH_DEPLOY_KEY_PL
+          - language: es
+            secret_name: SSH_DEPLOY_KEY_ES
+          - language: fr
+            secret_name: SSH_DEPLOY_KEY_FR
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Set site language
+        run: |
+          sed -i -e 's/language: en/language: ${{ matrix.language }}/' \
+                 -e 's@site_url: https://en.${{ env.site_url }}/@site_url: https://${{ matrix.language }}.${{ env.SITE_URL }}/@' \
+                 -e 's/gb-round/${{ matrix.language }}-round/' \
+            mkdocs.yml
+
+      - name: Generate ${{ matrix.language }} translations
+        uses: qwrtln/po4a-action@v1.3
+        with:
+          version: "0.74"
+          config: "po4a.cfg"
+          args: "--no-update"
+          language: "${{ matrix.language }}"
+
+      - name: Replace files with localized ones
+        run: |
+          find docs/ -name "*.$LANGUAGE.md"| while IFS= read -r file; do
+            target="${file::-5}md"
+            echo "Moving file: $file -> $target"
+            mv "$file" "$target"
+          done
+          cp "navigation.$LANGUAGE.yml" docs/.nav.yml
+
+      - name: Set CNAME for ${{ matrix.language }}
+        run: |
+          echo "${{ matrix.language }}.${{ env.SITE_URL }}" > docs/CNAME
+
+      - name: Create dir for publishing
+        run: |
+          mkdir -p ${{ matrix.language }}/.github/workflows
+          cp .github/workflows/publish_docs.yml ${{ matrix.language }}/.github/workflows
+          cp -r overrides docs mkdocs.yml ${{ matrix.language }}
+
+      # - name: Push ${{ matrix.language }} site
+      #   uses: peaceiris/actions-gh-pages@v4
+      #   with:
+      #     deploy_key: ${{ secrets[matrix.secret_name] }}
+      #     external_repository: qwrtln/${{ matrix.language }}-homm3bg-wiki
+      #     full_commit_message: ${{ github.event.head_commit.message }}
+      #     publish_branch: main
+      #     force_orphan: true
+      #     publish_dir: ${{ matrix.language }}
+      #     exclude_assets: ''
