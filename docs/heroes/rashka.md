@@ -40,13 +40,13 @@ ___
 | Ⅵ | :ongoing: Until the end of Combat, when your selected [unit](../units/index.md) is attacked by a :unit_ground: or :unit_flying: [unit](../units/index.md), the attacker takes 1 :damage:.<br><br>This effect doubles for the [Efreet unit](../units/efreet.md). |
 
 
-## Pochodzi z
+## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

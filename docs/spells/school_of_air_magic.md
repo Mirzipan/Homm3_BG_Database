@@ -24,7 +24,7 @@ One of the four schools of magic.
 - [Summon Air Elemental](summon_air_elemental.md)
 
 
-## Zobacz też
+## See Also
 
 - [List of Spells](index.md)
 - [School of Earth Magic](school_of_earth_magic.md)

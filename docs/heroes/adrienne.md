@@ -47,13 +47,13 @@ ___
 - Playing With Fire - 3. Burning Of Tatalia
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

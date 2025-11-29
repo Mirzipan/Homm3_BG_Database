@@ -21,12 +21,12 @@ ___
 - [:magic: Vidomina](../heroes/vidomina.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Uwagi
+## Notes
 
 - Only the heroes belonging to the [Necropolis Faction](../towns/necropolis.md) may play Necromancy.
 - Necromancy may only be used to reinforce units that belong to the [Necropolis Faction](../towns/necropolis.md).
@@ -34,7 +34,7 @@ ___
 - If a hero that does not belong to the [Necropolis Faction](../towns/necropolis.md) should draw it from the [Ability](index.md) deck, they may put it into the discard pile and draw another card instead. They may also choose to keep the card, they may, however, not play it.
 
 
-## Zobacz też
+## See Also
 
-- [Lista Zdolności](index.md)
+- [List of Abilities](index.md)
 - [Necropolis Town](../towns/necropolis.md)

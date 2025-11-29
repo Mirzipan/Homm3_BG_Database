@@ -32,12 +32,12 @@
 | Abilities | - | :activation: Add +1 :empower: to the first [Fire Magic](../spells/school_of_fire_magic.md) spell you cast during this Activation. | 🚧 |
 
 
-## Pochodzi z
+## Comes With
 
 - [Conflux Expansion](../content/conflux_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

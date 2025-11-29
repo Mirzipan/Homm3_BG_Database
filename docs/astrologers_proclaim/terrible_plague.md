@@ -1,4 +1,4 @@
-# Paskudnej Plagi
+# Terrible Plague
 
 <figure markdown="span">
 
@@ -7,20 +7,20 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Wszyscy gracze odwracają kartę wybranej [jednostki](../units/index.md) ze strony "Grupy" na stronę "Garstki", jeśli to możliwe.</p>
+<p style="text-align: center;" markdown>All players flip one of their [units](../units/index.md) from the "Pack" to the "Few" side, if possible.</p>
 ___
-<p style="text-align: center;" markdown>*Pstryk! Ginie połowa populacji.*</p>
+<p style="text-align: center;" markdown>*All populations are halved.<br>Snap.*</p>
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
-- [Lista Jednostek](../units/index.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Units](../units/index.md)

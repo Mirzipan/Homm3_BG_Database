@@ -32,23 +32,23 @@
 | Abilities | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this unit by 1 (to a minimum of 0), | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), | :unit_retaliate: The target is :paralysis:. |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Clancy](../heroes/clancy.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - **Neutral** - See [Paralysis](../keywords/paralysis.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
 - [Tower Expansion](../content/tower_expansion.md) (Neutral)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

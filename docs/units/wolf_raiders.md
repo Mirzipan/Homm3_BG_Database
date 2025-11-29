@@ -32,12 +32,12 @@
 | Abilities | - | :unit_attack: Attack this target again. The second attack happens after the target retaliates (if possible). | 🚧 |
 
 
-## Pochodzi z
+## Comes With
 
 - [Stronghold Expansion](../content/stronghold_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

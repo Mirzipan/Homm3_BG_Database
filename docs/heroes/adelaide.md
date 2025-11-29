@@ -40,19 +40,19 @@ ___
 | Ⅵ | :instant: Discard 2 cards. Target a space on the Combat board. All [units](../units/index.md) adjacent to this space suffer 2 :damage:. |
 
 
-## Uwagi
+## Notes
 
 - **Ⅰ and Ⅵ** - The :damage: from Frost Ring also applies to friendly units.
 - These specialties can be played as *instant* effects at any time during Combat, not just during the friendly unit activations.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

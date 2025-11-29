@@ -26,18 +26,18 @@
 | Abilities | 🚧 | 🚧 |
 
 
-## Uwagi
+## Notes
 
 - Summoned by [Summon Earth Elemental](../spells/summon_earth_elemental.md).
 
 
-## Pochodzi z
+## Comes With
 
 - [Conflux Expansion](../content/conflux_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Zaklęć](../spells/index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Spells](../spells/index.md)
+- [List of Towns](../towns/index.md)

@@ -1,4 +1,4 @@
-# Wozu z Amunicją
+# Ammo&nbsp;Cart
 
 <figure markdown="span">
 
@@ -7,25 +7,25 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Ten efekt trwa do następnej rundy Astrologów<br><br>Każda [Balista](../war_machines/ballista.md) zadaje +1 :damage:, każdy [Namiot Medyka](../war_machines/first_aid_tent.md) leczy +1 :health_points:, a każdy [Wóz z Amunicją](../war_machines/ammo_cart.md) pozwala przerzucić 1 [kość Ataku](../dice.md#attack-die) każdej [jednostce :ranged:](../units/index.md).</p>
+<p style="text-align: center;" markdown>Until the next Astrologers round, each [Ballista](../war_machines/ballista.md) deals +1 :damage:, each [First Aid Tent](../war_machines/first_aid_tent.md) heals +1 :health_points:‍, and each [Ammo Cart](../war_machines/ammo_cart.md) allows re-rolling 1 [Attack die](../dice.md#attack-die) for all ranged [units](../units/index.md).</p>
 ___
-<p style="text-align: center;" markdown>*Wóz z Amunicją — najlepsza maszyna!<br>Tylko ja posiadłem moc nieskończoności!<br>Inne maszyny przy mnie są zerem!<br>Dlaczego żaden heros nie ma mnie w specjalności?<br>Bo sam powinienem być bohaterem! Łiiiiiiiiii!*</p>
+<p style="text-align: center;" markdown>*Ammo cart - the best machine!<br>Yo!<br>Only I have the power of infinity!<br>Why is there no hero who specializes in me?<br>Because I should be a hero myself! Weehee!*</p>
 ___
 
 
-## Uwagi
+## Notes
 
 - Should the expert effect of [Artillery](../abilities/artillery.md) be used during this week, it will deal 3 times 2 damage, so 6 damage in total.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
+- [List of Astrologers Proclaim Cards](index.md)
 - [List of War Machines](../war_machines/index.md)

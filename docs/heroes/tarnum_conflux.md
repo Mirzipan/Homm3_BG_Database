@@ -40,14 +40,14 @@ ___
 | Ⅵ | 🚧 |
 
 
-## Pochodzi z
+## Comes With
 
 - [Conflux Expansion](../content/conflux_expansion.md)
 
 
-## Zobacz też
+## See Also
 
 - [Tarnum (Stronghold)](tarnum_stronghold.md)
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

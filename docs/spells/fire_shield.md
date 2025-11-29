@@ -9,17 +9,17 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - The attacking unit is damaged by the Fire Shield even if it defeats the unit which has Fire Shield.
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
 - [School of Fire Magic](school_of_fire_magic.md)
 - [List of Spells](index.md)

@@ -32,12 +32,12 @@
 | Abilities | - | :effect_map: +1 :movement: if you start the round on a Sea tile. | 🚧 |
 
 
-## Pochodzi z
+## Comes With
 
 - [Cove Expansion](../content/cove_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

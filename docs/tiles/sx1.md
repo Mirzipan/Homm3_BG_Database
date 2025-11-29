@@ -7,7 +7,7 @@ Snow
 ___
 
 
-## Pola
+## Fields
 
 - [Ⅰ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
 - [Blocked Field](../keywords/blocked_field.md)
@@ -18,11 +18,11 @@ ___
 - [Ⅰ](../difficulties.md) [Treasure](../fields/treasure.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Kafelków](index.md)
+- [List of Tiles](index.md)

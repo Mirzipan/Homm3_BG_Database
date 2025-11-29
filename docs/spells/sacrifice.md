@@ -9,12 +9,12 @@ ___
 ___
 
 
-## Pochodzi z
+## Comes With
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## Zobacz też
+## See Also
 
 - [School of Fire Magic](school_of_fire_magic.md)
 - [List of Spells](index.md)

@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You meet an old Armorer, who claims he owes you a favor. Taking him up on it, he pieces together some Dragon scales, forming a well-fashioned shield.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
 - [Crown of Dragontooth](crown_of_dragontooth.md)
 - [Dragon Scale Armor](dragon_scale_armor.md)
@@ -22,4 +22,4 @@ ___
 - [Necklace of Dragonteeth](necklace_of_dragonteeth.md)
 - [Red Dragon Flame Tongue](red_dragon_flame_tongue.md)
 
-- [Lista Artefaktów](index.md)
+- [List of Artifacts](index.md)

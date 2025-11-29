@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card played in each player's turn gets +1 :empower:.</p>
 ___
@@ -15,12 +15,12 @@ ___
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
-- [Lista Zaklęć](../spells/index.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Spells](../spells/index.md)

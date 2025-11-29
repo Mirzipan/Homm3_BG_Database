@@ -7,6 +7,6 @@ ___
 ___
 
 
-## Pochodzi z
+## Comes With
 
 - [Stronghold Expansion](../content/stronghold_expansion.md)

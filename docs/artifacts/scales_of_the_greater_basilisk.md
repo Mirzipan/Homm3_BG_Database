@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You meet an old Armorer, who claims he owes you a favor. Taking him up on it, he pieces together some Basilisk scales, forming a well-fashioned breastplate.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
-
-
-## Zobacz też
+- [Fortress Expansion](../content/fortress_expansion.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

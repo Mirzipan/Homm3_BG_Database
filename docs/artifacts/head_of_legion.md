@@ -9,21 +9,21 @@ ___
 <p style="text-align: center;" markdown>*Searching a ruin, you are amazed to find a piece of the Statue of Legion. You carefully dust it off before placing it in your pack.*</p>
 
 
-## Uwagi
+## Notes
 
 - See [Arms of Legion](arms_of_legion.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
 - [Arms of Legion](arms_of_legion.md)
 - [Legs of Legion](legs_of_legion.md)
 - [Loins of Legion](loins_of_legion.md)
 - [Torso of Legion](torso_of_legion.md)
 
-- [Lista Artefaktów](index.md)
+- [List of Artifacts](index.md)

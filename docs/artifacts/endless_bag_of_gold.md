@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A nobleman, separated from her traveling companions, asks for your help. After escorting her home, she rewards you with a bag filled with Gold.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
-
-
-## Zobacz też
+- [Core Game](../content/core_game.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

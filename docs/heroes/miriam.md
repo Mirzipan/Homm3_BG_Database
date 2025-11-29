@@ -40,13 +40,13 @@ ___
 | Ⅵ | :instant: **Search(3)** [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) deck. Then Remove this card. |
 
 
-## Pochodzi z
+## Comes With
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

@@ -32,18 +32,18 @@
 | Abilities | - | - | - |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Wystan](../heroes/wystan.md#specialty)
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
 - [Tower Expansion](../content/tower_expansion.md) (Neutral)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

@@ -2,7 +2,7 @@
 search:
   exclude: true
 ---
-# Machiny Wojenne
+# War Machines
 
 
 | Name | Ability | Cost at Blacksmith | Cost at Trade Post | [Content](../content/index.md) |

@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A brief stop at an improbable rural inn yields an exchange of money, tales, and accidentally, luggage. You find a magical cloak in your new backpack.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
-
-
-## Zobacz też
+- [Rampart Expansion](../content/rampart_expansion.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

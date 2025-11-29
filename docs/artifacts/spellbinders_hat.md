@@ -9,21 +9,21 @@ ___
 <p style="text-align: center;" markdown>*You see a Wizard fleeing from a Dragon. He opens a portal and rides through, getting his bat knocked off by the edge of the gate. The Dragon follows, and the gate closes, You pick the hat up.*</p>
 
 
-## Uwagi
+## Notes
 
 - With the first effect, only [abilities](../abilities/index.md), [artifacts](../artifacts/index.md), and [spells](../spells/index.md) can be exchanged, as only those have a corresponding deck to draw from. [Statistics](../statistics/index.md) and [specialties](../heroes/index.md) can not be removed.
 - [^1] With the second effect, any card may be removed together with the Spellbinder's Hat.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
-
-
-## Zobacz też
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)
 
 
 [^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.

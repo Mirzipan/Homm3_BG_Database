@@ -40,13 +40,13 @@ ___
 | Ⅵ | :instant: Your selected [unit](../units/index.md) gains +2 :attack:<br><br>This effect doubles for the [Cerberi unit](../units/cerberi.md). |
 
 
-## Pochodzi z
+## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

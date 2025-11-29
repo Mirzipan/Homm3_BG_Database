@@ -32,12 +32,12 @@
 | Abilities | - | :unit_passive: Ignore the combat penalty against adjacent units. | :unit_passive: Ignore the combat penalty against adjacent units. |
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

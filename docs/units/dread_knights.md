@@ -32,26 +32,26 @@
 | Abilities | :unit_attack: When retaliating after this attack, the enemy rolls 2 [Attack dice](../dice.md#attack-die) and resolves the lower result. | :unit_attack: If you resolve a "0" or a "+1" on the [Attack die](../dice.md#attack-die), increase this unit's total attack value by another "+1". | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Lord Haart (Necropolis)](../heroes/lord_haart_necropolis.md#specialty)
 - [:might: Tamika](../heroes/tamika.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - [^1] **Few** - Should the Dread Knights attack neutral [Crusaders](crusaders.md), when the [Crusaders](crusaders.md) retaliate against a few Dread Knights, they're abilities cancel out and a single [Attack die](../dice.md#attack-die) is rolled as if it was a regular attack.
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)
 
 
 [^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.

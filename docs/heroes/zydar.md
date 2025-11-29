@@ -40,13 +40,13 @@ ___
 | Ⅵ | :ongoing: Until the end of the Combat round, after casting a [:spellpower:](../spells/index.md), draw 1 card.<br><br>:instant: +2 :empower: |
 
 
-## Pochodzi z
+## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

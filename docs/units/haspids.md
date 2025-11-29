@@ -32,12 +32,12 @@
 | Abilities | :unit_attack: If this unit turns from Pack side in this combat, gain +2 :attack: | :unit_attack: Place 2 faction cubes on the target. At the beginning of its every activation, remove 1 of them to inflict 1 :damage:. | 🚧 |
 
 
-## Pochodzi z
+## Comes With
 
 - [Cove Expansion](../content/cove_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

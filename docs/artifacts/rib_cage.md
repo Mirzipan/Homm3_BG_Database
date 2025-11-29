@@ -9,15 +9,15 @@ ___
 <p style="text-align: center;" markdown>*You trip over, what was, the rib cage of a large creature. Upon further examination, you discover the rib cage to be a piece of armor.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
 - [Blackshard of the Dead Knight](blackshard_of_the_dead_knight.md)
 - [Shield of the Yawning Dead](shield_of_the_yawning_dead.md)
 - [Skull Helmet](skull_helmet.md)
 
-- [Lista Artefaktów](index.md)
+- [List of Artifacts](index.md)

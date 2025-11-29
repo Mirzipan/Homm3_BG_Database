@@ -9,17 +9,17 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - Global effects that are not bound to a specific unit (e.g. Archery) may not be removed.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
 - [School of Water Magic](school_of_water_magic.md)
 - [List of Spells](index.md)

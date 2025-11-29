@@ -13,12 +13,12 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - Due to a misprint, the Windmill on the tile [#N3](../tiles/nx3.md) has a "?". It should say "+1 :valuables:".
 
 
-## Zobacz też
+## See Also
 
 - [List of Fields](index.md)
-- [Lista Kafelków](../tiles/index.md)
+- [List of Tiles](../tiles/index.md)

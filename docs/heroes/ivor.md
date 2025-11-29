@@ -45,13 +45,13 @@ ___
 - Rise Of The Necromancer - 2. Master
 
 
-## Pochodzi z
+## Comes With
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Each player can immediately search the [Neutral Units](../units/index.md) deck and **Recruit** 1 chosen unit associated with their faction for free. Each player still needs to have the corresponding [dwelling](../towns/index.md) built in their [town](../towns/index.md).</p>
 ___
@@ -15,18 +15,18 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
-- Tą kartą *nie można* zrekrutować :azure: jednostek.
-
-
-## Pochodzi z
-
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- :azure: units may *not* be recruited via this card.
 
 
-## Zobacz też
+## Comes With
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
-- [Lista Miast](../towns/index.md)
-- [Lista Jednostek](../units/index.md)
+- [Tower Expansion](../content/tower_expansion.md)
+
+
+## See Also
+
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Towns](../towns/index.md)
+- [List of Units](../units/index.md)

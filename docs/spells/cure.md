@@ -9,19 +9,19 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - [^1] It is uncertain what it meant by "effect" here.
 - [^2] Cure can only be cast on a friendly unit.
 - [^2] The removal of an effect is optional. A positive effect does not have to be removed and may therefore remain active.
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
 - [School of Water Magic](school_of_water_magic.md)
 - [List of Spells](index.md)

@@ -32,13 +32,13 @@
 | Abilities | :unit_attack: Remove all :ongoing: effects played on the target by the enemy player. | :unit_attack: Remove all :ongoing: effects played on the target by the enemy player. If the target retaliates, it suffers - 1 :attack:. | :unit_attack: Retaliation Attacks against Dragon Flies suffer -1 :attack:. |
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
 - [Tower Expansion](../content/tower_expansion.md) (Neutral)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

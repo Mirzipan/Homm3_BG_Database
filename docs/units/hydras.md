@@ -32,23 +32,23 @@
 | Abilities | :unit_attack: Ignore the Retaliation Attack. | :unit_attack: Ignore the Retaliation Attack. This unit attacks up to 2 adjacent enemy units. | :unit_attack: Ignore Retaliation Attacks. This unit attacks up to 2 adjacent enemy units. |
 
 
-## Uwagi
+## Notes
 
 - **Pack and Neutral** - The attacks take place after each other and each of those attacks has a separate Attack Die roll. The player decides the order of attacks.
 - **Pack and Neutral** - Neither of the attacks triggers a Retaliation Attack. The :unit_attack: symbol affects both target of the Hydras.
 - [^1] **Pack and Neutral** - Hydras can not attack a unit and a Wall at the same time, only one or the other.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
 - [Tower Expansion](../content/tower_expansion.md) (Neutral)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)
 
 
 [^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.

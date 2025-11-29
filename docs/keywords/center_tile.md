@@ -13,10 +13,10 @@ Contains fields with Ⅵ-Ⅶ [difficulty](../difficulties.md).
 - [#C1](../tiles/cx1.md) - [Tower Settlement](../towns/tower.md)
 
 
-## Uwagi
+## Notes
 
 
-## Zobacz też
+## See Also
 
 - [Starting Tile](starting_tile.md)
 - [Far Tile](far_tile.md)

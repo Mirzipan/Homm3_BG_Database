@@ -18,23 +18,23 @@
 | Abilities | :unit_attack: If you resolve a "-1" on the [Attack die](../dice.md#attack-die), the target gains :paralysis:.<br>:unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Mutare](../heroes/mutare.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - The effects of the player's own spells and specialties are also ignored.
 - Specialties are the hero-specific cards (Ⅰ, Ⅳ, and Ⅵ).
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

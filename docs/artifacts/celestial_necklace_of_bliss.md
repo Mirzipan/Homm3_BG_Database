@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*After rescuing a Sorceress from a cursed tomb, she rewards your heroism with an exquisite jeweled necklace.*</p>
 
 
-## Pochodzi z
+## Comes With
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## Zobacz też
+## See Also
 
 
-- [Lista Artefaktów](index.md)
+- [List of Artifacts](index.md)

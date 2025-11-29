@@ -40,20 +40,20 @@ ___
 | Ⅵ | :instant: Select a [unit](../units/index.md) and 2 [units](../units/index.md) adjacent to it. Deal \* to all selected [units](../units/index.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |
 
 
-## Uwagi
+## Notes
 
 - **Ⅰ and Ⅵ** - The specialty can be improved by spell power, just like a regular spell.
 - **Ⅰ and Ⅵ** - The :damage: from Meteor Shower also applies to friendly units.
 - These specialties can be played as *instant* effects at any time during Combat, not just during the friendly unit activations.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

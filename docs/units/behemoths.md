@@ -32,12 +32,12 @@
 | Abilities | :unit_attack: Decrease the target's :defense: by 1 (to a minimum of 0). | :unit_attack: Decrease the target's :defense: by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. | 🚧 |
 
 
-## Pochodzi z
+## Comes With
 
 - [Stronghold Expansion](../content/stronghold_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

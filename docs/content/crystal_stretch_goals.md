@@ -10,6 +10,6 @@
 - *Unreleased*
 
 
-## Zobacz też
+## See Also
 
 - [List of Content](index.md)

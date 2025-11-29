@@ -18,12 +18,12 @@
 | Abilities | :unit_passive: Ignore all [:spellpower:](../spells/index.md) and [Specialty](../heroes/index.md) effects other than :damage:. |
 
 
-## Pochodzi z
+## Comes With
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

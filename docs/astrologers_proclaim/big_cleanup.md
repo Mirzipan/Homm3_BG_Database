@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Each player must immediately discard all cards from their hand and draw the same number of cards.</p>
 ___
@@ -15,11 +15,11 @@ ___
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
+- [List of Astrologers Proclaim Cards](index.md)

@@ -9,12 +9,12 @@ ___
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
 - [School of Water Magic](school_of_water_magic.md)
 - [List of Spells](index.md)

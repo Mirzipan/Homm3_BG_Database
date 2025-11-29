@@ -29,10 +29,10 @@
 - [Witch Hut](../fields/witch_hut.md)
 
 
-## Uwagi
+## Notes
 
 
-## Zobacz też
+## See Also
 
 - [Revisitable Field](revisitable_field.md)
 - [Flaggable Field](flaggable_field.md)

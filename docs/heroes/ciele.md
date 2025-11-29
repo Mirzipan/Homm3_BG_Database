@@ -40,13 +40,13 @@ ___
 | Ⅵ | 🚧 Selected unit suffers 2 :damage:.<br><br>— OR —<br><br>:instant: +2 :empower: |
 
 
-## Pochodzi z
+## Comes With
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

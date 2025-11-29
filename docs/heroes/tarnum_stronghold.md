@@ -40,14 +40,14 @@ ___
 | Ⅵ | 🚧 Your selected unit gains +2 :attack:. |
 
 
-## Pochodzi z
+## Comes With
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## Zobacz też
+## See Also
 
 - [Tarnum (Conflux)](tarnum_conflux.md)
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

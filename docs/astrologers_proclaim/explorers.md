@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>During this round, players do not draw cards at the start of their turns. Instead, each player draws cards up their :hand:. Then, each of them may discard any number of cards. For every 3 cards discarded this way, they can Remove one [Statistic](../statistics/index.md) card and replace it with an [Empowered Statistic](../statistics/index.md) card of the same type.</p>
 ___
@@ -15,19 +15,19 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - [^1] The removed [statistic](../statistics/index.md) needs to come from the player's hand. When taking the empowered [statistic](../statistics/index.md), player adds it to their hand.
 
 
-## Pochodzi z
+## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
+- [List of Astrologers Proclaim Cards](index.md)
 - [List of Statistics](../statistics/index.md)
 
 

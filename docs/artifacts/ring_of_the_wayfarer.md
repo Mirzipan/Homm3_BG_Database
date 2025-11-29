@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*Visiting a local wise man, you explain the intent of your journey. He reaches into a sack and withdraws a strange ring which he hands to you.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
-
-
-## Zobacz też
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

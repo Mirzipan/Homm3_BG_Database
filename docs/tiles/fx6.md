@@ -7,7 +7,7 @@ Dirt
 ___
 
 
-## Pola
+## Fields
 
 - [Trading Post](../trading.md)
 - [Blocked Field](../keywords/blocked_field.md)
@@ -18,11 +18,11 @@ ___
 - [Redwood Observatory](../fields/redwood_observatory.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Kafelków](index.md)
+- [List of Tiles](index.md)

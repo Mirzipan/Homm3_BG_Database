@@ -9,17 +9,17 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - Units that are protected from spells via Anti-Magic are also immune to area effects of spells (e.g. [Fireball spell](../spells/fireball.md)).
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
 - [School of Earth Magic](school_of_earth_magic.md)
 - [List of Spells](index.md)

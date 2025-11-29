@@ -9,14 +9,14 @@ ___
 <p style="text-align: center;" markdown>*A brief stop at a hastily abandoned Wizard's tower, you discover a magical vial of mercury that, as always, has a little left in the bottom. Recognizing a treasure when you see one, you cap it and slip it into your pocket.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
 - [Everflowing Crystal Cloak](everflowing_crystal_cloak.md)
 - [Eversmoking Ring of Sulfur](eversmoking_ring_of_sulfur.md)
 
-- [Lista Artefaktów](index.md)
+- [List of Artifacts](index.md)

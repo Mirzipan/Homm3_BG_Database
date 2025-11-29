@@ -40,13 +40,13 @@ ___
 | Ⅵ | :effect_map: Until the end of the round during combat, gain an extra 1 Ballista. This and all other Ballistas can be activated now.</br></br>When player, this card counts as a Ballista. |
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

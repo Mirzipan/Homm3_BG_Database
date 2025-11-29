@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A clumsy Gnoll has killed himself with his own flail. Knowing your superior skill with this weapon, you confidently remove the spectacular flail from the fallen creature.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
-
-
-## Zobacz też
+- [Rampart Expansion](../content/rampart_expansion.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

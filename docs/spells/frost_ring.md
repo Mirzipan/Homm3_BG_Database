@@ -9,17 +9,17 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - The :damage: from Frost Ring also applies to friendly units.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
 
 
-## Zobacz też
+## See Also
 
 - [School of Water Magic](school_of_water_magic.md)
 - [List of Spells](index.md)

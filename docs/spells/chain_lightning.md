@@ -9,18 +9,18 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - The :damage: from Chain Lightning also applies to friendly units.
 - If multiple units are the same distance away from the target of this spell, the caster chooses which one of them receives the second damage and which one receives the third.
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
 - [List of Spells](index.md)
 - [School of Air Magic](school_of_air_magic.md)

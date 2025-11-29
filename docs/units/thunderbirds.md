@@ -32,17 +32,17 @@
 | Abilities | - | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](../dice.md#attack-die), on a "+1", deal 1 :spell: :damage: to the target. | 🚧 |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Shiva](../heroes/shiva.md#specialty)
 
 
-## Pochodzi z
+## Comes With
 
 - [Stronghold Expansion](../content/stronghold_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

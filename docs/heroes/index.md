@@ -2,7 +2,7 @@
 search:
   exclude: true
 ---
-# Lista Bohaterów
+# List of Heroes
 
 
 | Name | [Town](../towns/index.md) | Class | [Ability](../abilities/index.md) | Specialty | [Content](../content/index.md) |
@@ -73,6 +73,6 @@ search:
 | [Zilare](zilare.md) | [Cove](../towns/cove.md) | :magic: Navigator | [Interference](../abilities/interference.md) | [Forgetfulness](zilare.md#specialty) | [Cove Expansion](../content/cove_expansion.md) |
 
 
-## Zobacz też
+## See Also
 
-- [Lista Miast](../towns/index.md)
+- [List of Towns](../towns/index.md).

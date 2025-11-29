@@ -18,22 +18,22 @@
 | Abilities | :effect_map: At the beginning of each Resource round, gain 2 :valuables:. |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Mutare](../heroes/mutare.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - The effect only triggers if the Crystal Dragons are in the player's unit deck, so they had to be recruited beforehand (e.g. by [Diplomacy](../abilities/diplomacy.md)).
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

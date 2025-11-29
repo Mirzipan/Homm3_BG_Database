@@ -18,7 +18,7 @@ ___
 - [:magic: Cyra](../heroes/cyra.md)
 
 
-## Uwagi
+## Notes
 
 - If the player already has a :golden: dwelling, they draw cards from both, the :golden: and :azure: Neutral decks.
 - The recruitment costs for neutral units can be found on the card of the respective unit.
@@ -26,14 +26,14 @@ ___
 - [^1] When played with miniatures (e.g. such as when playing on the large battlefield), this ability cannot be used to recruit units from a faction controller by another player, nor to recruit neutral units that are already recruited by another player. Should a player draw such card, that may not be recruited, they shall draw a replacement card instead.
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Zdolności](index.md)
+- [List of Abilities](index.md)
 
 
 [^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text.

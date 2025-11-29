@@ -13,12 +13,12 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - Towns are always located in the center of a [Starting Tile](../keywords/starting_tile.md)
 
 
-## Zobacz też
+## See Also
 
 - [List of Fields](index.md)
-- [Lista Kafelków](../tiles/index.md)
+- [List of Tiles](../tiles/index.md)

@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>At the beginning of the next round, each player can take 1 [War Machine](../war_machines/index.md) of their choice from the [War Machines](../war_machines/index.md) deck at not cost.</p>
 ___
@@ -15,17 +15,17 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - The [war machine](../war_machines/index.md) will be chosen and taken in the resource round that follows the current astrologers proclaim round.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
+- [List of Astrologers Proclaim Cards](index.md)
 - [List of War Machines](../war_machines/index.md)

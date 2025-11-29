@@ -32,24 +32,24 @@
 | Abilities | - | - | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](../towns/necropolis.md#heroes), immediately Reinforce 1 of your :bronze: units. |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:magic: Sandro](../heroes/sandro.md#specialty)
 - [:magic: Vidomina](../heroes/vidomina.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - **Neutral** - A [Necropolis](../towns/necropolis.md) player can reinforce their :bronze: unit during ongoing Combat. Any damage present on the Few side of the unit is transferred to the Pack side.
 - **Neutral** - The reinforcement is free and does not need to be paid.
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

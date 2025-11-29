@@ -1,4 +1,4 @@
-# Chciwego Smoka
+# Greedy Dragon
 
 <figure markdown="span">
 
@@ -7,19 +7,19 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Na początku najbliższej rundy Zasobów wszyscy gracze otrzymują o 1 :valuables: mniej (minimum 0).</p>
+<p style="text-align: center;" markdown>At the beginning of the next Resource round, all players gain 1 less :valuables:, down to a minimum of 0.</p>
 ___
-<p style="text-align: center;" markdown>*Dracon, głupcze! Nigdy więcej nie drwij z żywego smoka!*</p>
+<p style="text-align: center;" markdown>*Never laugh at live dragons, Dracon, you fool!*</p>
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
+- [List of Astrologers Proclaim Cards](index.md)

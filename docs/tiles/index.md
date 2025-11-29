@@ -1,4 +1,4 @@
-# Kafelki
+# Tiles
 
 | Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
 | :---: | :---: | :---: | :--- |
@@ -73,6 +73,6 @@
 | [W3](w3.md) | Water | :building_materials: [Mine](../fields/mine.md) | [Cove Expansion](../content/cove_expansion.md) |
 
 
-## Zobacz też
+## See Also
 
 - [List of Fields](../fields/index.md)

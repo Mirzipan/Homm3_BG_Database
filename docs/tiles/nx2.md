@@ -7,7 +7,7 @@ Snow
 ___
 
 
-## Pola
+## Fields
 
 - [Fountain of Youth](../fields/fountain_of_youth.md)
 - [Ⅴ](../difficulties.md) :valuables: [Mine](../fields/mine.md)
@@ -18,11 +18,11 @@ ___
 - [Witch Hut](../fields/witch_hut.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Kafelków](index.md)
+- [List of Tiles](index.md)

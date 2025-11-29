@@ -2,7 +2,7 @@
 search:
   exclude: true
 ---
-# Lista Jednostek
+# List of Units
 
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
@@ -219,7 +219,7 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Titans](titans.md) | [Neutral](../towns/neutral.md) | - | :azure: | [:unit_ranged:](../keywords/ranged_unit.md) | 6 | 2 | 10 | 10 | 39 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking [Black Dragons](black_dragons.md), this unit gains +2 :attack:. | [Tower Expansion](../content/tower_expansion.md) |
 
 
-## Pozostałe
+## Other
 
 | Name | Type | :attack: | :defense: | :health_points: | :initiative: | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
@@ -228,6 +228,6 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 You can find war machines [here](../war_machines/index.md).
 
 
-## Zobacz też
+## See Also
 
-- [Lista Miast](../towns/index.md)
+- [List of Towns](../towns/index.md)

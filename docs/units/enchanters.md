@@ -18,24 +18,24 @@
 | Abilities | :activation: Remove up to 2 :damage: from a friendly unit. Otherwise, Enchanters gain +1 :attack:. |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:magic: Dracon](../heroes/dracon.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - If possible, the healing effect has to be chosen. The healing effect can not be skipped in favor of +1 :attack:.
 - The healing is applied right after activation.
 - Enchaters can not heal themselves.
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

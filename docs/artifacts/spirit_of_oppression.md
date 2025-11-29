@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*Walking through the ruins of an ancient walled city, you find the instrument of the city's destruction, the Spirit of Oppression.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
-
-
-## Zobacz też
+- [Fortress Expansion](../content/fortress_expansion.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

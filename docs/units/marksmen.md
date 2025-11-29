@@ -32,22 +32,22 @@
 | Abilities | - | :unit_attack: If a target is a non-adjacent unit, attack this target again. | :unit_attack: If a target is a non-adjacent unit, attack this target again. |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Valeska](../heroes/valeska.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - **Pack and Neutral** - The Marksmen can attack at most one additional time, not more.
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

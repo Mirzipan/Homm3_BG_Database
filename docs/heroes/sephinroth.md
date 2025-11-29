@@ -40,18 +40,18 @@ ___
 | Ⅵ | :effect_map: Gain 2 :valuables: or 6 :gold:. |
 
 
-## Uwagi
+## Notes
 
 - The specialty can be improved by spell power, just like a regular spell.
 
 
-## Pochodzi z
+## Comes With
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

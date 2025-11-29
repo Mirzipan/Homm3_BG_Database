@@ -32,22 +32,22 @@
 | Abilities | - | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. | :unit_attack: Ignores Retaliation Attacks. Additionally, deals 1 :damage: to another enemy unit adjacent to Cerberi. |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Fiona](../heroes/fiona.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - **Pack and Neutral** - Should the Cerberi attack a unit and there is only a friendly unit adjacent to their target, then the friendly unit will take the damage.
 
 
-## Pochodzi z
+## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

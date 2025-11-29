@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Each player can immediately **Reinforce** a [unit](../units/index.md) on the "Few" side at half the cost.</p>
 ___
@@ -15,12 +15,12 @@ ___
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
-- [Lista Jednostek](../units/index.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Units](../units/index.md)

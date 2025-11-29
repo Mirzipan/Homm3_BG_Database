@@ -13,11 +13,11 @@ ___
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Zdolności](index.md)
+- [List of Abilities](index.md)

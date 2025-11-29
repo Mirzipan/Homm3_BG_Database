@@ -32,18 +32,18 @@
 | Abilities | :unit_passive: When combat begins, draw 1 card. | :unit_passive: Once per Combat. Cancel an attack that would reduce another unit's :health_points: to 0. | :unit_attack: When attacking [Arch Devils](arch_devils.md), this unit gains +2 :attack:. |
 
 
-## Uwagi
+## Notes
 
 - **Pack** - The passive ability can be used at the moment when a friendly unit would be defeated.
 - **Pack** - See [Resurrection Spell](../spells/resurrection.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

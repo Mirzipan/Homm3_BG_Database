@@ -32,18 +32,18 @@
 | Abilities | - | :unit_passive: The :empower: of all enemy [spells](../spells/index.md) is reduced by 1 (to a minimum of 0). | :unit_passive: Whenever an enemy casts a [:spellpower:](../spells/index.md), they must discard an additional card with :empower:. |
 
 
-## Uwagi
+## Notes
 
 - **Neutral** - As long as Familiars are in play, the enemy player can only cast a [spell](../spells/index.md) if they can discard a card (the discard is treated as a cost of playing the spell). If they have no card to discard, they can not play any [spells](../spells/index.md).
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
 - [Tower Expansion](../content/tower_expansion.md) (Neutral)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

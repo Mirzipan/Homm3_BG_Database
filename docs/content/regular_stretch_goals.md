@@ -13,6 +13,6 @@
 - [Alternative Pack of Manticores](../units/manticores.md)
 
 
-## Zobacz też
+## See Also
 
 - [List of Content](index.md)

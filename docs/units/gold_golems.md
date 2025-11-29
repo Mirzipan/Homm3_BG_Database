@@ -1,29 +1,29 @@
-# Złote Golemy
+# Gold Golems
 
 <figure markdown="span">
-    ![Neutral Gold Golems](../assets/pl/units-neutral-golden-gold-golems.webp){ width="340" align=right }
+    ![Neutral Gold Golems](../assets/units-neutral-golden-gold_golems.webp){ width="340" align=right }
 </figure>
 
 
-| Statystyki | Neutralne |
+| Statistics | Neutral |
 | :--- | :---: |
-| Miasto | [Neutralne](../towns/neutral.md) |
-| Poziom | :golden: |
-| Typ | [:unit_ground:](../keywords/ground_unit.md) |
+| Town | [Neutral](../towns/neutral.md) |
+| Tier | :golden: |
+| Type | [:unit_ground:](../keywords/ground_unit.md) |
 | :attack: | 3 |
 | :defense: | 2 |
 | :health_points: | 6 |
 | :initiative: | 5 |
-| Koszt | 14 :gold: |
-| Zdolność | :unit_passive: Zmniejsz :damage: zadawane tej jednostce [zaklęciami](../spells/index.md) o 2 (maksymalnie do 0). |
+| Cost | 14 :gold: |
+| Abilities | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 2 - to a minimum of 0. |
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

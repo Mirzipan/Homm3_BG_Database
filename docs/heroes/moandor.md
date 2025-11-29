@@ -40,13 +40,13 @@ ___
 | Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Liches unit](../units/liches.md). |
 
 
-## Pochodzi z
+## Comes With
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

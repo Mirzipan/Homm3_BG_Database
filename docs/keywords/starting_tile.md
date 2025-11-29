@@ -17,14 +17,14 @@ Contains fields with Ⅰ [difficulty](../difficulties.md) and a faction town.
 - [#S1](../tiles/sx1.md) - [Tower](../towns/tower.md)
 
 
-## Uwagi
+## Notes
 
 
-## Zobacz też
+## See Also
 
 - [Far Tile](far_tile.md)
 - [Near Tile](near_tile.md)
 - [Center Tile](center_tile.md)
 - [Underground Tile](underground_tile.md)
 - [Water Tile](water_tile.md)
-- [Lista Miast](../towns/index.md)
+- [List of Towns](../towns/index.md)

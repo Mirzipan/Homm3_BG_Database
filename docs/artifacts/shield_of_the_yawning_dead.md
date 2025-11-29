@@ -9,15 +9,15 @@ ___
 <p style="text-align: center;" markdown>*Your units discover an eerie shrine dedicated to the Undead. You bless the shrine, causing the stone shield emblem, above the altar, to crack. Beneath it, is a real shield, which you decide to remove from this unholy place.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
 - [Blackshard of the Dead Knight](blackshard_of_the_dead_knight.md)
 - [Rib Cage](rib_cage.md)
 - [Skull Helmet](skull_helmet.md)
 
-- [Lista Artefaktów](index.md)
+- [List of Artifacts](index.md)

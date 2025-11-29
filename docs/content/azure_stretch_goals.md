@@ -22,6 +22,6 @@
 - Faction Units Miniatures
 
 
-## Zobacz też
+## See Also
 
 - [List of Content](index.md)

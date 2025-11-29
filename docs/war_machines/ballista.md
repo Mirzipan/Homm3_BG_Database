@@ -3,18 +3,18 @@
 ![Ballista](../assets/war_machines-ballista.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Machina Wojenna](index.md)</p>
+<p style="text-align: center;" markdown>[War Machine](index.md)</p>
 ___
 <p style="text-align: center;" markdown>:permanent: At the beginning of each Combat round, deal 1 :damage: to the enemy unit with the lowest :initiative:.</p>
 ___
 <p style="text-align: center;" markdown>:pay: 7 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 10 :gold: at Trade Post</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
 
 
-## Zobacz też
+## See Also
 
 - [List of War Machines](index.md)

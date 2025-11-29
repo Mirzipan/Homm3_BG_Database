@@ -32,7 +32,7 @@
 | Abilities | - | :unit_other: If one of your units has been removed from the board during this Combat, Summon or Reinforce [Demons](demons.md). | - |
 
 
-## Uwagi
+## Notes
 
 - **Pack** - Should the Pit Lords use their [alternative action](../keywords/alternative_action.md), they are not allowed to move, attack or defend.
 - **Pack** - Should the Pit Lords summon [Few Demons](demons.md), they have to be placed adjacent to the Pit Lords.
@@ -42,12 +42,12 @@
 - **Pack** - The Pit Lords may only summon or reinforce [Demons](demons.md) once per Combat.
 
 
-## Pochodzi z
+## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

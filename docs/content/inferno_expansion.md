@@ -14,6 +14,6 @@
 - [Empowered Statistics](../statistics/index.md)
 
 
-## Zobacz też
+## See Also
 
 - [List of Content](index.md)

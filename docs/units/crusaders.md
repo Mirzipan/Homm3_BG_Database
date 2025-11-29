@@ -32,30 +32,30 @@
 | Abilities | - | :unit_attack: You can reroll every "0" on this unit's [Attack die](../dice.md#attack-die). | :unit_passive: During any attack, roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher outcome. |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Catherine](../heroes/catherine.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - **Pack and Neutral** - The [Attack die](../dice.md#attack-die) may be rerolled until the number on the die no longer equals "0".
 - [^1] **Neutral** - Should the Crusaders retaliate against a few [Dread Knights](dread_knights.md), they're abilities cancel out and a single [Attack die](../dice.md#attack-die) is rolled as if it was a regular attack.
 
 
-## Uwagi
+## Notes
 
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)
 
 
 [^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.

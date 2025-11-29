@@ -40,13 +40,13 @@ ___
 | Ⅵ | :instant: Your selected [unit](../units/index.md) gains +2 :attack:<br><br>This effect doubles for the [Golems unit](../units/iron_golems.md). |
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

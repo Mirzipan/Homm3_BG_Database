@@ -1,4 +1,4 @@
 # :attack: Attack Value
 
 
-## Uwagi
+## Notes

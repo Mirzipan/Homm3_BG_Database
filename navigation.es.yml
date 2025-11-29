@@ -1,17 +1,32 @@
 nav:
-  - Inicio: index.md
-  - Habilidades: abilities/index.md
-  - Artefactos: artifacts/index.md
-  - Proclama de los Astrólogos: astrologers-proclaim/index.md
-  - Contenido: content/index.md
-  - Eventos: events/index.md
-  - Zonas: fields/index.md
-  - Héroes: heroes/index.md
-  - Palabras Clave: keywords/index.md
-  - Escenarios: scenarios/index.md
-  - Hechizos: spells/index.md
-  - Estadísticas: statistics/index.md
-  - Losetas: tiles/index.md
-  - Ciudades: towns/index.md
-  - Unidades: units/index.md
-  - Máquinas de Guerra: war-machines/index.md
+  - "*.md"
+  - Habilidades:
+     - "abilities/*.md"
+  - Artefactos:
+    - "artifacts/*.md"
+  - Proclama de los Astrólogos:
+    - "astrologers_proclaim/*.md"
+  - Contenido:
+    - "content/*.md"
+  - Eventos:
+    - "events/*.md"
+  - Zonas:
+    - "fields/*.md"
+  - Héroes:
+    - "heroes/*.md"
+  - Palabras Clave:
+    - "keywords/*.md"
+  - Escenarios:
+    - "scenarios/*.md"
+  - Hechizos:
+    - "spells/*.md"
+  - Estadísticas:
+    - "statistics/*.md"
+  - Losetas:
+    - "tiles/*.md"
+  - Ciudades:
+    - "towns/*.md"
+  - Unidades:
+    - "units/*.md"
+  - Máquinas de Guerra:
+    - "war_machines/*.md"

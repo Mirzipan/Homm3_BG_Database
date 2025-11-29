@@ -9,15 +9,15 @@ ___
 <p style="text-align: center;" markdown>*🚧*</p>
 
 
-## Pochodzi z
+## Comes With
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## Zobacz też
+## See Also
 
 - [Blackshard of the Dead Knight](blackshard_of_the_dead_knight.md)
 - [Rib Cage](rib_cage.md)
 - [Shield of the Yawning Dead](shield_of_the_yawning_dead.md)
 
-- [Lista Artefaktów](index.md)
+- [List of Artifacts](index.md)

@@ -18,23 +18,23 @@
 | Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Mutare](../heroes/mutare.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - The 2 :damage: can be dealt to any unit on the Combat board.
 - The ability counting as a [:spellpower:](../spells/index.md) is only relevant when the Fearie Dragons are in the player's unit deck (e.g. after being recruited by [Diplomacy](../abilities/diplomacy.md)).
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

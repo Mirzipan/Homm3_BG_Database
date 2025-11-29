@@ -1,7 +1,7 @@
 # Blocked Field
 
 
-## Uwagi
+## Notes
 
 - A blocked field is fully enclosed by a thick border and heroes are not allowed to enter it in general.
 - [^1] Should a hero be allowed to enter a blocked field due to an effect, they may only *pass through*. That means that they are required to immediately use another movement point during the same turn to move out of the blocked field. If they would not be able to leave the field, they are not allowed to enter it.

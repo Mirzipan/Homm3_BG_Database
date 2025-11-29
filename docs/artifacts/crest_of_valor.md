@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*After freeing a princess of a neighboring kingdom from the evil clutches of despicable slavers, she awards you with a Crest of Valor.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
-
-
-## Zobacz też
+- [Fortress Expansion](../content/fortress_expansion.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

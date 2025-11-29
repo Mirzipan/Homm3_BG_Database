@@ -13,11 +13,11 @@ ___
 ___
 
 
-## Pochodzi z
+## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Zdolności](index.md)
+- [List of Abilities](index.md)

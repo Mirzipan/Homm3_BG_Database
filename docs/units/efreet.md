@@ -32,17 +32,17 @@
 | Abilities | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the [Fire School of Magic](../spells/school_of_fire_magic.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the[Fire School of Magic](../spells/school_of_fire_magic.md). |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Rashka](../heroes/rashka.md#specialty)
 
 
-## Pochodzi z
+## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

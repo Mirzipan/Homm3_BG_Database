@@ -8,15 +8,15 @@
 - [W3](../tiles/w3.md)
 
 
-## Uwagi
+## Notes
 
 
-## Pochodzi z
+## Comes With
 
 - [Cove Expansion](../content/cove_expansion.md)
 
 
-## Zobacz też
+## See Also
 
 - [Starting Tile](starting_tile.md)
 - [Far Tile](far_tile.md)

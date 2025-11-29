@@ -9,17 +9,17 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - This card has to be played *before* rolling the die. It cannot be played after the die was rolled and the result of that roll is already known.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
 
 
-## Zobacz też
+## See Also
 
 - [School of Air Magic](school_of_air_magic.md)
 - [List of Spells](index.md)

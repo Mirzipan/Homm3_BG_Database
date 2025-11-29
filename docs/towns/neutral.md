@@ -9,7 +9,7 @@ Neutral is not a real town, just a term for [units](../units/index.md) that are 
 Every unit of every town has a neutral variant.
 
 
-## Jednostki
+## Units
 
 This list excludes the neutral units that have a town variant.
 
@@ -41,7 +41,7 @@ This list excludes the neutral units that have a town variant.
 - 🚧 [Water Elementals](../units/water_elementals.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Miast](../towns/index.md)
-- [Lista Jednostek](../units/index.md)
+- [List of Towns](../towns/index.md)
+- [List of Units](../units/index.md)

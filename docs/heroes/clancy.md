@@ -40,13 +40,13 @@ ___
 | Ⅵ | :ongoing: For this Combat, your selected [unit](../units/index.md) reduces any :damage: it takes from spells by 1 - to a minimum of 0.<br><br>This effect doubles for the [Unicorns unit](../units/unicorns.md). |
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Bohaterów](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
 

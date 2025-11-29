@@ -9,17 +9,17 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - [^1] On the large battlefield, a Fire Wall token is placed onto the battlefield instead of the card.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
 
 
-## Zobacz też
+## See Also
 
 - [School of Fire Magic](school_of_fire_magic.md)
 - [List of Spells](index.md)

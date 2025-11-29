@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A little leprechaun dances gleefully around a magical sack. Seeing you approach, he stops in mid-stride. The little man screams and stamps his foot ferociously, vanishing into thin air. Remembering the old leprechaun saying, 'Finders Keepers', you grab the sack and leave.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
-
-
-## Zobacz też
+- [Core Game](../content/core_game.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

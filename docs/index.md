@@ -1,4 +1,4 @@
-# Strona Główna
+# Home
 
 ## :attack: What Is This?
 

@@ -32,23 +32,23 @@
 | Abilities | - | :unit_attack: If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. | :unit_attack: If a target is a non adjacent unit, on a "-1" or "0" result, attack this target again. |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Gelu](../heroes/gelu.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - **Pack and Neutral** - The Elves can attack at most one additional time, not more.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
 - [Tower Expansion](../content/tower_expansion.md) (Neutral)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

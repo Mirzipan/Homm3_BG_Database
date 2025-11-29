@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A Paladin has been mortally wounded by a group of Zombies. He asks you to take his sword and finish what he started. As you pick it up, everything becomes a blur. The Zombies lie dead.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
-
-
-## Zobacz też
+- [Core Game](../content/core_game.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

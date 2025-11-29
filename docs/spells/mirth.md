@@ -9,12 +9,12 @@ ___
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
 
 
-## Zobacz też
+## See Also
 
 - [School of Water Magic](school_of_water_magic.md)
 - [List of Spells](index.md)

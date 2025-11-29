@@ -42,7 +42,7 @@
 - :magic: [Zydar](../heroes/zydar.md)
 
 
-## Jednostki
+## Units
 
 - :bronze: [Familiars](../units/familiars.md)
 - :bronze: [Magogs](../units/magogs.md)
@@ -53,11 +53,11 @@
 - :golden: [Arch Devils](../units/arch_devils.md)
 
 
-## Pochodzi z
+## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Miast](../towns/index.md)
+- [List of Towns](../towns/index.md)

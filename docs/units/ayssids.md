@@ -32,12 +32,12 @@
 | Abilities | - | :unit_attack: If the attack reduces the target to 0 :health_points:, the Ayssids can attack another unit adjacent to them. | 🚧 |
 
 
-## Pochodzi z
+## Comes With
 
 - [Cove Expansion](../content/cove_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

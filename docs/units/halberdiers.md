@@ -32,12 +32,12 @@
 | Abilities | - | :unit_passive: When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](../dice.md#attack-die) roll result. | :unit_passive: Treat allied adjacent units as if they had a Defense token. |
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

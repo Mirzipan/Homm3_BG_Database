@@ -7,7 +7,7 @@ Snow
 ___
 
 
-## Pola
+## Fields
 
 - [Shrine of Magic Gesture](../fields/shrine_of_magic_gesture.md)
 - [Ⅵ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
@@ -18,11 +18,11 @@ ___
 - [Blocked Field](../keywords/blocked_field.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Kafelków](index.md)
+- [List of Tiles](index.md)

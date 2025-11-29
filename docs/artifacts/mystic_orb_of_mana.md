@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You come upon a caravan of gypsies who are feasting and fortifying their bodies with mead. They call you forward and say, "If you prove that you can dance the Rama-Buta, we will reward you." You don't know it, but try anyway. They laugh hysterically, but admire your bravery, giving you a strange orb.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
-
-
-## Zobacz też
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

@@ -1,19 +1,19 @@
-# Lista słów kluczowych
+# List of Keywords
 
 
-## Karty
+## Cards
 
-- [Słaby Artefakt](minor_artifact.md)
-- [Mocny Artefakt](major_artifact.md)
+- [Minor Artifact](minor_artifact.md)
+- [Major Artifact](major_artifact.md)
 - [Relic Artifact](relic_artifact.md)
 
 
-## Efekt
+## Effects
 
 - [:permanent: Permanent Effect](permanent_effect.md)
 
 
-## Jednostki
+## Units
 
 ### Types
 
@@ -38,9 +38,9 @@
 - [Obstacle](obstacle.md)
 
 
-## Mapa
+## Map
 
-### Kafelki
+### Tiles
 
 - [Starting Tile](starting_tile.md)
 - [Far Tile](far_tile.md)
@@ -50,9 +50,9 @@
 - [Water Tile](water_tile.md)
 
 
-### Pola
+### Fields
 
-- [Zablokowane Pole](blocked_field.md)
+- [Blocked Field](blocked_field.md)
 - [Empty Field](empty_field.md)
 - [Visitable Field](visitable_field.md)
 - [Revisitable Field](revisitable_field.md)

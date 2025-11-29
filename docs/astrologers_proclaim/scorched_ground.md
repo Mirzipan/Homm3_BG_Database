@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Until the next Astrologers round, all [:spellpower:](../spells/index.md) from the [Earth Magic](../spells/school_of_earth_magic.md) and [Fire Magic](../spells/school_of_fire_magic.md) Schools are cast at a +1 :empower:.</p>
 ___
@@ -15,12 +15,12 @@ ___
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
-- [Lista Zaklęć](../spells/index.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Spells](../spells/index.md)

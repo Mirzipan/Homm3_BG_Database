@@ -43,7 +43,7 @@
 - :might: [Tarnum](../heroes/tarnum_rampart.md)
 
 
-## Jednostki
+## Units
 
 - :bronze: [Centaurs](../units/centaurs.md)
 - :bronze: [Dwarves](../units/dwarves.md)
@@ -54,11 +54,11 @@
 - :golden: [Gold Dragons](../units/gold_dragons.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Miast](../towns/index.md)
+- [List of Towns](../towns/index.md)

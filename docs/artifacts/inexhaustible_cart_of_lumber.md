@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*Pausing to rest and light a cook fire, you pull wood out of a nearby lumber cart. As you keep pulling wood from the cart, you notice its cargo does not shrink. You realize to your delight that the cart is enchanted, so you take it along.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
-
-
-## Zobacz też
+- [Core Game](../content/core_game.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

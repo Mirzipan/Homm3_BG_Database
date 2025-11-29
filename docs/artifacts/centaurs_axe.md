@@ -9,17 +9,17 @@ ___
 <p style="text-align: center;" markdown>*You see a heavy axe embedded deeply in the ground. After several unsuccessful attempts by your army to remove it, you tightly grip the handle of the axe and effortlessly pull it free.*</p>
 
 
-## Uwagi
+## Notes
 
 - The result of the Attack die may be tripled for purposes other than attacking, e.g. for playing the [Inferno spell](../spells/inferno.md). In that case, the artifact can also be played after the Attack die roll.
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
-
-
-## Zobacz też
+- [Core Game](../content/core_game.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

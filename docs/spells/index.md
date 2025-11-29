@@ -2,7 +2,7 @@
 search:
   exclude: true
 ---
-# Lista Zaklęć
+# List of Spells
 
 In addition to their regular effects, any spell can also be discarded to provide +1 :empower:. This option is omitted from the table below to avoid information duplication.
 
@@ -59,7 +59,7 @@ In addition to their regular effects, any spell can also be discarded to provide
 | [Teleport](teleport.md) | [Water](school_of_water_magic.md) | Expert | :activation: During Combat, move one allied \* [unit](../units/index.md) to any empty space - ignore any obstacles or effects when moving.<br><br>:empower: 0 ➣ \*:bronze:<br>:empower: 1 ➣ \*:bronze: or :silver:<br>:empower: 2 ➣ \*:bronze: or :silver: or :golden: | [Core Game](../content/core_game.md) |
 
 
-## Zobacz też
+## See Also
 
 - [School of Air Magic](school_of_air_magic.md)
 - [School of Earth Magic](school_of_earth_magic.md)

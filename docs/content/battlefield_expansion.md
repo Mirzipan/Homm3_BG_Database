@@ -16,6 +16,6 @@
 - Negative Morale Cards
 
 
-## Zobacz też
+## See Also
 
 - [List of Content](index.md)

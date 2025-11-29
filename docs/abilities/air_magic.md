@@ -13,18 +13,18 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - The expert effect may be played either from hand, or from the field. This does, however, not add the two effects, and the ability is put into the discard pile after being played.
 - See [Permanent Effect](../keywords/permanent_effect.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Zdolności](index.md)
+- [List of Abilities](index.md)
 - [School of Air Magic](../spells/school_of_air_magic.md)

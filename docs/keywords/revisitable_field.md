@@ -11,10 +11,10 @@
 - [War Machine Factory](../fields/war_machine_factory.md)
 
 
-## Uwagi
+## Notes
 
 
-## Zobacz też
+## See Also
 
 - [Visitable Field](visitable_field.md)
 - [Flaggable Field](flaggable_field.md)

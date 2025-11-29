@@ -1,6 +1,6 @@
-# Tabela Trudności
+# Difficulties
 
-| Poziom Trudności | Łatwy | Normalny | Trudny | Niemożliwy |
+| Difficulty | Easy | Normal | Hard | Impossible |
 | :---: | :---: | :---: | :---: | :---: |
 | Ⅰ | :bronze: | :bronze: | :bronze: :bronze: | :bronze: :bronze: :bronze: |
 | Ⅱ | :bronze: :bronze: | :bronze: :bronze: | :bronze: :bronze: :bronze: | :bronze: :bronze: :silver: |
@@ -11,6 +11,6 @@
 | Ⅶ | :azure: | :azure: :azure: | :golden: :azure: :azure: | :golden: :golden: :azure: :azure: |
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](units/index.md)
+- [List of Units](units/index.md)

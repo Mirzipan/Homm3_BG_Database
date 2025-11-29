@@ -42,7 +42,7 @@
 - :magic: [Vidomina](../heroes/vidomina.md)
 
 
-## Jednostki
+## Units
 
 - :bronze: [Skeletons](../units/skeletons.md)
 - :bronze: [Zombies](../units/zombies.md)
@@ -58,11 +58,11 @@
 - :necro: [Necromancy](../abilities/necromancy.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Miast](../towns/index.md)
+- [List of Towns](../towns/index.md)

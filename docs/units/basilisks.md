@@ -32,23 +32,23 @@
 | Abilities | :unit_attack: On "-1" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: On "-1" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die). On a "0" result, :paralysis: the target. |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Bron](../heroes/bron.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - See [Paralysis](../keywords/paralysis.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
 - [Tower Expansion](../content/tower_expansion.md) (Neutral)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

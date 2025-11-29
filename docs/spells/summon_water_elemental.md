@@ -9,12 +9,12 @@ ___
 ___
 
 
-## Pochodzi z
+## Comes With
 
 - [Conflux Expansion](../content/conflux_expansion.md)
 
 
-## Zobacz też
+## See Also
 
 - [Summon Air Elemental](summon_air_elemental.md)
 - [Summon Earth Elemental](summon_earth_elemental.md)

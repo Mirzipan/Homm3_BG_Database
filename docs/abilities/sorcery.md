@@ -22,17 +22,17 @@ ___
 - [:magic: Zydar](../heroes/zydar.md)
 
 
-## Uwagi
+## Notes
 
 - Sorcery may also be played without playing a [spell](../spells/index.md), in order to draw a card. In such case, the spell power bonus is unused and lost.
 - Sorcery may be played to first draw a card. A [spell](../spells/index.md) drawn in this way may then be played immediately after being drawn and receive the spell power bonus granted by Sorcery.
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Zdolności](index.md)
+- [List of Abilities](index.md)

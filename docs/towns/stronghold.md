@@ -24,7 +24,7 @@
 - :might: [Yog](../heroes/yog.md)
 
 
-## Jednostki
+## Units
 
 - :bronze: [Goblins](../units/goblins.md)
 - :bronze: [Wolf Raiders](../units/wolf_raiders.md)
@@ -35,11 +35,11 @@
 - :golden: [Behemoths](../units/behemoths.md)
 
 
-## Pochodzi z
+## Comes With
 
 - [Stronghold Expansion](../content/stronghold_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Miast](../towns/index.md)
+- [List of Towns](../towns/index.md)

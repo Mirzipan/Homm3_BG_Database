@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You meet a traveler who offers to let you draw a card form the strange deck. When you refuse, he draws one himself. He has a momentary look of surprise on his face, then vanishes with a pop, dropping the cards. You gather them, and leave.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
-
-
-## Zobacz też
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

@@ -15,6 +15,6 @@
 - [Neutral Units](../towns/neutral.md)
 
 
-## Zobacz też
+## See Also
 
 - [List of Content](index.md)

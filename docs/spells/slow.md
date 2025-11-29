@@ -9,17 +9,17 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - [^1] On the small battlefield, only the initiative of the unit is decreased, not its movement range. On the Battlefield Expansion, the initiative is used to determine the movement range, therefore a unit under this spell has its movement range decreased as well.
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
 - [School of Earth Magic](school_of_earth_magic.md)
 - [List of Spells](index.md)

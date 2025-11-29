@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A traveling tinker in need of supplies offers your a helm with a unicorn's horn on its top in exchange for food and water. You accept, and later find out that the helm is magical.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
-
-
-## Zobacz też
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)

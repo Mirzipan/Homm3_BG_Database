@@ -7,15 +7,15 @@
 - [U2](../tiles/u2.md)
 
 
-## Uwagi
+## Notes
 
 
-## Pochodzi z
+## Comes With
 
 - [Stronghold Expansion](../content/stronghold_expansion.md)
 
 
-## Zobacz też
+## See Also
 
 - [Starting Tile](starting_tile.md)
 - [Far Tile](far_tile.md)

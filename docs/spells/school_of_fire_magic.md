@@ -26,7 +26,7 @@ One of the four schools of magic.
 - [Summon Fire Elemental](summon_fire_elemental.md)
 
 
-## Zobacz też
+## See Also
 
 - [List of Spells](index.md)
 - [School of Air Magic](school_of_air_magic.md)

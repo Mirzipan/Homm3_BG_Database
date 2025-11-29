@@ -19,12 +19,12 @@ ___
 - [:might: Rashka](../heroes/rashka.md)
 
 
-## Pochodzi z
+## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Zdolności](index.md)
+- [List of Abilities](index.md)
 - [List of Statistics](../statistics/index.md)

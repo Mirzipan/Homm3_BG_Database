@@ -7,7 +7,7 @@ Snow
 ___
 
 
-## Pola
+## Fields
 
 - [Trading Post](../trading.md)
 - [Ⅱ](../difficulties.md) [Artifact](../artifacts/index.md)
@@ -18,11 +18,11 @@ ___
 - [Ⅲ](../difficulties.md) :gold: [Mine](../fields/mine.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Kafelków](index.md)
+- [List of Tiles](index.md)

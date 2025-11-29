@@ -32,12 +32,12 @@
 | Abilities | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |
 
 
-## Bohaterowie ze Specjalnością
+## Heroes With A Specialty
 
 - [:might: Mutare](../heroes/mutare.md#specialty)
 
 
-## Uwagi
+## Notes
 
 - The first attack targets a unit directly in front of the Gold Dragons. The second attack targets the unit directly behind the primary target in a straight line. There is no choice here.
 - The target of the second attack does not carry out a retaliation attack against the Gold Dragons, as it is not adjacent to it.
@@ -46,12 +46,12 @@
 - Should the Gold Dragons attack a Wall, no secondary attack will take place. Units behind the Wall are protected. Should they attack a unit directly in front of a Wall, the Wall will not take any damage.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

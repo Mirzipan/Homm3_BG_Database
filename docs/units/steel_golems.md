@@ -18,12 +18,12 @@
 | Abilities | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](../spells/index.md) or [Specialty](../heroes/index.md) by 2 - to a minimum of 0. |
 
 
-## Pochodzi z
+## Comes With
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

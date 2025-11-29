@@ -19,7 +19,7 @@
 | Empowered | :instant: +2 :defense: | - |
 
 
-## Zobacz też
+## See Also
 
 - [List of Heroes](../heroes/index.md)
 - [List of Statistics](index.md)

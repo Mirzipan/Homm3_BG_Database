@@ -26,12 +26,12 @@ ___
 - [:magic: Xyron](../heroes/xyron.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Zdolności](index.md)
-- [Lista Zaklęć](../spells/index.md)
+- [List of Abilities](index.md)
+- [List of Spells](../spells/index.md)

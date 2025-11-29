@@ -15,6 +15,6 @@
 - Monoliths
 
 
-## Zobacz też
+## See Also
 
 - [List of Content](index.md)

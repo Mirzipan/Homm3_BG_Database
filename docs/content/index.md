@@ -1,4 +1,4 @@
-# Zawartość
+# Content
 
 | Name | Description |
 | :--- | :---: |

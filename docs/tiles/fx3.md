@@ -7,7 +7,7 @@ Snow
 ___
 
 
-## Pola
+## Fields
 
 - [Blocked Field](../keywords/blocked_field.md)
 - [Redwood Observatory](../fields/redwood_observatory.md)
@@ -18,11 +18,11 @@ ___
 - [Water Wheel](../fields/water_wheel.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Kafelków](index.md)
+- [List of Tiles](index.md)

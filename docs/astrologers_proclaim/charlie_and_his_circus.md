@@ -1,4 +1,4 @@
-# Charliego i jego Cyrku
+# Charlie and his Circus
 
 <figure markdown="span">
 
@@ -7,30 +7,30 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Na początku tej i następnej rundy każdy gracz może dobrać do 3 kart z dowolnych talii [Jednostek Neutralnych](../units/index.md) i **Zrekrutować** jedną z tych jednostek. By to zrobić, gracz musi mieć w [Mieście](../towns/index.md) [Siedlisko](../towns/index.md) odpowiedniego poziomu i :pay: koszt Rekrutowania. Niezakupione karty należy wtasować z powrotem do odpowiednich talii.</p>
+<p style="text-align: center;" markdown>At the beginning of this round and the next one, each player can draw up to 3 cards from any [Neutral Units](../units/index.md) deck(s) and **Recruit** one of them. The Players must still :pay: the recruitment cost and have the corresponding [Dwelling](../towns/index.md) in their [Town(s)](../towns/index.md). Shuffle the remaining cards back into their respective deck(s) afterwards.</p>
 ___
-<p style="text-align: center;" markdown>*Cześć, Bohaterze! Chcesz balonik? Jestem Charle, Tańczący Clown. Mam tu orków, trolle i inne niespodzianki. I baloniki we wszystkich kolorach!*</p>
+<p style="text-align: center;" markdown>*Hi, Hero! Don't you want a balloon? I, Hero, am Charlie, the Dancing Clown. There are orcs, trolls, and all sorts of surprises down here. And balloons, too, all colors!*</p>
 ___
 
 
-## Uwagi
+## Notes
 
-- Tą kartą *nie można* zrekrutować :azure: jednostek.
+- :azure: units may *not* be recruited via this card.
 - [^1] When played with miniatures (e.g. such as when playing on the large battlefield), this ability cannot be used to recruit units from a faction controller by another player, nor to recruit neutral units that are already recruited by another player. Should a player draw such card, that may not be recruited, they shall draw a replacement card instead.
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
-- [Lista Miast](../towns/index.md)
-- [Lista Jednostek](../units/index.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Towns](../towns/index.md)
+- [List of Units](../units/index.md)
 
 
 [^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text.

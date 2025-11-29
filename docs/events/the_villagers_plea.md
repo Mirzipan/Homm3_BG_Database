@@ -15,14 +15,14 @@ ___
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Artefaktów](../artifacts/index.md)
-- [Lista Wydarzeń](index.md)
+- [List of Artifacts](../artifacts/index.md)
+- [List of Events](index.md)
 - [List of Heroes](../heroes/index.md)
-- [Lista Zaklęć](../spells/index.md)
+- [List of Spells](../spells/index.md)

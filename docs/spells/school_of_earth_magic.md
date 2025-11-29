@@ -23,7 +23,7 @@ One of the four schools of magic.
 - [Town Portal](town_portal.md)
 
 
-## Zobacz też
+## See Also
 
 - [List of Spells](index.md)
 - [School of Air Magic](school_of_air_magic.md)

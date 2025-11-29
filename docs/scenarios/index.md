@@ -1,7 +1,7 @@
-# Lista Scenariuszy
+# List of Scenarios
 
 
-## Tryb Starcia
+## Clash
 
 A fully competitive mode for 2-3 players.
 
@@ -16,7 +16,7 @@ A fully competitive mode for 2-3 players.
 | Search For The Grail | 2-3 | The Grail is said to have been lost somewhere in the area, and you have been charged with finding and retrieving it. But beware! The minions of your enemies are also seeking to lay their hands on it! |
 
 
-## Kampania
+## Campaign
 
 A single player mode of interconnected Scenarios against an enemy AI.
 
@@ -30,7 +30,7 @@ A single player mode of interconnected Scenarios against an enemy AI.
 | Dead-Cold Revenge | 1. Search For A Killer<br><br>2. Final Peace<br><br>3. Agents Of Vengeance | [Rampart](../towns/rampart.md) | TWhen two AvLee lords are found dead, Gem and Gelu set out on their vengeful quest to seek justice. Their fates, however, unexpectedly lead them to find much more than they had hoped for. Will they manage to foil the sinister plot brewing on AvLee borders, or has the gruesome discovery come too late to stop the Necromancers’ schemes? |
 
 
-## Tryb Sojuszu
+## Alliance
 
 A 2 versus 2 team-based mode. You will need an expansion pack with a town to play a 4-player game.
 
@@ -41,7 +41,7 @@ A 2 versus 2 team-based mode. You will need an expansion pack with a town to pla
 | The Challenge | The king has just revealed that it is only a matter of months before he passes away. For that reason he announced that whoever rises to the challenge of building the grail structure in the capital city of Osha within  the next six months will be anointed as his successor. The gauntlet has been thrown, will you take it up? |
 
 
-## Tryb Kooperacyjy
+## Cooperative
 
 A Cooperative mode for 2-3 players where everyone shares the same goal.
 

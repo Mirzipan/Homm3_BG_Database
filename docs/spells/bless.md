@@ -9,17 +9,17 @@ ___
 ___
 
 
-## Uwagi
+## Notes
 
 - If no Attack die is rolled during the attack, it also does not show any results. This means that any units that have abilities based on the result of an Attack die roll do not trigger. (e.g. the Zombies :defense: does not increase, and the Mummies cannot set the Attack die to "-1").
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
 - [School of Water Magic](school_of_water_magic.md)
 - [List of Spells](index.md)

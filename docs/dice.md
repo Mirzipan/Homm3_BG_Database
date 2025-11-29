@@ -1,8 +1,8 @@
-# Kości
+# Dice
 
-## Kość Ataku
+## Attack Die
 
-| Wyniki |
+| Sides |
 | :---: |
 | -1 |
 | -1 |
@@ -12,9 +12,9 @@
 | +1 |
 
 
-## Kość Zasobów
+## Resource Die
 
-| Wyniki |
+| Sides |
 | :---: |
 | 3 :gold: |
 | 6 :gold: |
@@ -24,9 +24,9 @@
 | 2 :valuables: |
 
 
-## Kość Skarbów
+## Treasure Die
 
-| Wyniki |
+| Sides |
 | :---: |
 | :experience: |
 | :experience: |

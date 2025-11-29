@@ -1,4 +1,4 @@
-# Swingującego Satyra
+# Groovy Satyr
 
 <figure markdown="span">
 
@@ -7,20 +7,20 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Ten efekt trwa do następnej rundy Astrologów.<br><br>Przed każdą Walką z [Jednostkami Neutralnymi](../units/index.md) możesz odrzucić jedną z dobranych kart [Jednostek Neutralnych](../units/index.md) i w jej miejsce dobrać inną kartę tego samego poziomu.</p>
+<p style="text-align: center;" markdown>Until the next Astrologers' round:<br><br>Whenever you trigger Combat with any [Neutral Units](../units/index.md), you may choose a [Neutral Unit](../units/index.md) card to discard and draw another card of the same tier instead.</p>
 ___
-<p style="text-align: center;" markdown>*— Znasz może jakieś hity Heroes Orchestry?<br>— Niestety, nie.<br>— To doskonale, bo ten utwór nie przypomina żadnego z nich.*</p>
+<p style="text-align: center;" markdown>*"Are you familiar with any AvLee melodies?"<br>"Sorry, no."<br>"Well, that's good because this probably won't sound anything like one."*</p>
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
-- [Lista Jednostek](../units/index.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Units](../units/index.md)

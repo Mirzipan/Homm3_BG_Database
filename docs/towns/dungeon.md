@@ -43,7 +43,7 @@
 - :magic: [Tarnum](../heroes/tarnum_dungeon.md)
 
 
-## Jednostki
+## Units
 
 - :bronze: [Troglodytes](../units/troglodytes.md)
 - :bronze: [Harpies](../units/harpies.md)
@@ -54,11 +54,11 @@
 - :golden: [Black Dragons](../units/black_dragons.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
+- [Core Game](../content/core_game.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Miast](../towns/index.md)
+- [List of Towns](../towns/index.md)

@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*Your troops find a crown. They hand it to you, and you notice an inscription. It reads: "Brains best brawn, and magic beats might. Heed my words, and you'll win every fight."*</p>
 
 
-## Pochodzi z
+## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## Zobacz też
+## See Also
 
 - [Dragon Scale Armor](dragon_scale_armor.md)
 - [Dragon Scale Shield](dragon_scale_shield.md)
@@ -22,4 +22,4 @@ ___
 - [Necklace of Dragonteeth](necklace_of_dragonteeth.md)
 - [Red Dragon Flame Tongue](red_dragon_flame_tongue.md)
 
-- [Lista Artefaktów](index.md)
+- [List of Artifacts](index.md)

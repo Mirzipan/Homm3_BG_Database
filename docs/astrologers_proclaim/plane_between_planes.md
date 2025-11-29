@@ -1,4 +1,4 @@
-# Pięknego Bazyliszka
+# Plane Between Planes
 
 <figure markdown="span">
 
@@ -7,19 +7,19 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Każdy gracz może natychmiast Usunąć do 2 kart z ręki lub swojego stosu kart odrzuconych.</p>
+<p style="text-align: center;" markdown>Each player can immediately Remove up to 2 cards from their hand or from their discard pile.</p>
 ___
-<p style="text-align: center;" markdown>*Odkąd zobaczyłem ciebie<br>Nie mogę iść, nie mogę wstać<br>W łuskach twych nie widzę siebie<br>Ślepia twe nie dają spać<br>Przez twe oczy, te oczy zielone skamieniaaaaaałem*</p>
+<p style="text-align: center;" markdown>*Hello? Is anybody right there?*</p>
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
+- [Fortress Expansion](../content/fortress_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
+- [List of Astrologers Proclaim Cards](index.md)

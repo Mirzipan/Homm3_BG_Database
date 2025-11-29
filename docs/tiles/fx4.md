@@ -7,7 +7,7 @@ Grass
 ___
 
 
-## Pola
+## Fields
 
 - [Water Wheel](../fields/water_wheel.md)
 - [Shrine of Magic Incantation](../fields/shrine_of_magic_incantation.md)
@@ -18,11 +18,11 @@ ___
 - [Ⅱ](../difficulties.md) [Market of Time](../fields/market_of_time.md)
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Kafelków](index.md)
+- [List of Tiles](index.md)

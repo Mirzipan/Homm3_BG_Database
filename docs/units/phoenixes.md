@@ -32,12 +32,12 @@
 | Abilities | :unit_passive: Once per Combat. When this unit's :health_points: drops to 0, set it to 1 instead. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | 🚧 |
 
 
-## Pochodzi z
+## Comes With
 
 - [Conflux Expansion](../content/conflux_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista Jednostek](index.md)
-- [Lista Miast](../towns/index.md)
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

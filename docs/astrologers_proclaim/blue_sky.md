@@ -1,4 +1,4 @@
-# Lodowej Burzy
+# Blue Sky
 
 <figure markdown="span">
 
@@ -7,20 +7,20 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Ten efekt trwa do następnej rundy Astrologów. Wszystkie [:spellpower:](../spells/index.md) ze Szkół [Magii Powietrza](../spells/school_of_air_magic.md) i [Wody](../spells/school_of_water_magic.md) otrzymują +1 :empower:.</p>
+<p style="text-align: center;" markdown>Until the next Astrologers' round, all [:spellpower:](../spells/index.md) from the [Air Magic](../spells/school_of_air_magic.md) and [Water Magic](../spells/school_of_water_magic.md) Schools are cast at a +1 :empower:.</p>
 ___
-<p style="text-align: center;" markdown>*A Sylvia wnet zapięła płaszcz,<br>Zaklęła: — Ech, do czarta!<br>Regańska flota nie ma szans!<br>Ten sztorm to dzieło Kalta!*</p>
+<p style="text-align: center;" markdown>*Hey Elemental Faces<br>Welcome to the Enroth Races<br>A celebration, Blue Sky's up there waiting<br>And now is the day we've waited for*</p>
 ___
 
 
-## Pochodzi z
+## Comes With
 
-- [Rozszerzenie Forteca](../content/tower_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md)
 
 
-## Zobacz też
+## See Also
 
-- [Lista kart Astrologowie Ogłaszają](index.md)
-- [Lista Zaklęć](../spells/index.md)
+- [List of Astrologers Proclaim Cards](index.md)
+- [List of Spells](../spells/index.md)

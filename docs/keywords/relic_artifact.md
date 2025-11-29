@@ -5,7 +5,7 @@ search:
 # Relic Artifact
 
 
-## Uwagi
+## Notes
 
 - Relic artifacts have a purple frame.
 - [^1] When playing according to the tournament rules, relic artifacts may only be obtained on Center (Ⅵ-Ⅶ) tiles.
@@ -31,12 +31,12 @@ search:
 - [Titan's Gladius](../artifacts/titans_gladius.md)
 
 
-## Zobacz też
+## See Also
 
-- [Słaby Artefakt](minor_artifact.md)
-- [Mocny Artefakt](major_artifact.md)
+- [Minor Artifact](minor_artifact.md)
+- [Major Artifact](major_artifact.md)
 
-- [Lista Artefaktów](../artifacts/index.md)
+- [List of Artifacts](../artifacts/index.md)
 
 
 [^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text.

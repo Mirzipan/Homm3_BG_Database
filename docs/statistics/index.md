@@ -1,4 +1,4 @@
-# Lista Statystyk
+# List of Statistics
 
 To learn about statistics of a specific hero, see [heroes](../heroes/index.md).
 

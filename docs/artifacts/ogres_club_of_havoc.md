@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*At a roadside tavern, a drunken Ogre challenges you to a fight. Not wanting to hurt the creature, you subdue him, instead. You take his massive club from him to prevent him from getting into any more trouble.*</p>
 
 
-## Pochodzi z
+## Comes With
 
-- [Pudełko Podstawowe](../content/core_game.md)
-
-
-## Zobacz też
+- [Core Game](../content/core_game.md)
 
 
-- [Lista Artefaktów](index.md)
+## See Also
+
+
+- [List of Artifacts](index.md)
