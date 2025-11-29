@@ -23,7 +23,7 @@ jobs:
         id: comment-branch
 
       - name: Set up repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: ${{ steps.comment-branch.outputs.head_ref }}
           repository: ${{ github.event.pull_request.head.repo.full_name }}
@@ -40,15 +40,15 @@ jobs:
           git diff --color=always
 
       - name: Generate translations
-        uses: qwrtln/po4a-action@v1
+        uses: qwrtln/po4a-action@v1.3
         with:
-          version: "0.73"
+          version: "0.74"
           config: "po4a.cfg"
           args: "--no-translations"
 
-      - uses: qwrtln/po4a-action@v1
+      - uses: qwrtln/po4a-action@v1.3
         with:
-          version: "0.73"
+          version: "0.74"
           config: "po4a.cfg"
           args: "--no-translations"
 
