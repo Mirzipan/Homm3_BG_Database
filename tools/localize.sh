@@ -7,6 +7,7 @@ git restore docs/
 
 find docs -name "*.pl.md" -delete
 find docs -name "*.es.md" -delete
+find docs -name "*.fr.md" -delete
 
 if [[ $LANGUAGE == "en" ]]; then
   exit
