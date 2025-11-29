@@ -10,6 +10,7 @@ find docs -name "*.es.md" -delete
 find docs -name "*.fr.md" -delete
 
 if [[ $LANGUAGE == "en" ]]; then
+  git restore mkdocs.yml
   exit
 fi
 
@@ -22,3 +23,7 @@ find docs/ -name "*.$LANGUAGE.md"| while IFS= read -r file; do
 done
 
 cp "navigation.$LANGUAGE.yml" docs/.nav.yml
+
+sed -i -e "s/language: en/language: $LANGUAGE/" \
+    -e "s/alternate.*-round/alternate: $LANGUAGE-round/" \
+  mkdocs.yml
