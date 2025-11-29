@@ -31,7 +31,7 @@ markdown_extensions:
 theme:
   name: material
   custom_dir: overrides
-  language: pl
+  language: en
   logo: assets/game_logo.png
   features:
     - content.code.copy
@@ -67,7 +67,7 @@ theme:
     text: Vollkorn
   icon:
     repo: fontawesome/brands/git-alt
-    alternate: pl-round
+    alternate: en-round
 
 extra:
   alternate:

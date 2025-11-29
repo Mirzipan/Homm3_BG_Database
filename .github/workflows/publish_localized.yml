@@ -46,12 +46,12 @@ jobs:
 
       - name: Replace files with localized ones
         run: |
-          find docs/ -name "*.$LANGUAGE.md"| while IFS= read -r file; do
+          find docs/ -name "*.${{ matrix.language }}.md"| while IFS= read -r file; do
             target="${file::-5}md"
             echo "Moving file: $file -> $target"
             mv "$file" "$target"
           done
-          cp "translations/navigation/$LANGUAGE.yml" docs/.nav.yml
+          cp "translations/navigation/${{ matrix.language }}.yml" docs/.nav.yml
 
       - name: Set CNAME for ${{ matrix.language }}
         run: |
