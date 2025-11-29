@@ -1,32 +1,37 @@
 nav:
+  - "index.md"
+  - "legend.md"
   - "*.md"
+  - Artefakty:
+     - "artifacts/*.md"
+  - Astrologowie ogłaszają:
+     - "astrologers_proclaim/*.md"
+  - Bohaterowie:
+     - "heroes/*.md"
+  - Handel: "trading.md"
+  - Jednostki:
+     - "units/*.md"
+  - Kafelki:
+     - "tiles/*.md"
+  - Kości: "dice.md"
+  - Machiny Wojenne:
+     - "war_machines/*.md"
+  - Miasta:
+     - "towns/*.md"
+  - Pola:
+     - "fields/*.md"
+  - Scenariusze:
+     - "scenarios/*.md"
+  - Statystyki:
+     - "statistics/*.md"
+  - Słowa kluczowe:
+     - "keywords/*.md"
+  - Tabela trudności: "difficulties.md"
+  - Wydarzenia:
+     - "events/*.md"
+  - Zaklęcia:
+     - "spells/*.md"
+  - Zawartość:
+     - "content/*.md"
   - Zdolności:
      - "abilities/*.md"
-  - Artefakty:
-    - "artifacts/*.md"
-  - Astrologowie ogłaszają:
-    - "astrologers_proclaim/*.md"
-  - Zawartość:
-    - "content/*.md"
-  - Wydarzenia:
-    - "events/*.md"
-  - Pola:
-    - "fields/*.md"
-  - Bohaterowie:
-    - "heroes/*.md"
-  - Słowa kluczowe:
-    - "keywords/*.md"
-  - Scenariusze:
-    - "scenarios/*.md"
-  - Zaklęcia:
-    - "spells/*.md"
-  - Statystyki:
-    - "statistics/*.md"
-  - Kafelki:
-    - "tiles/*.md"
-  - Miasta:
-    - "towns/*.md"
-  - Jednostki:
-    - "units/*.md"
-  - Machiny Wojenne:
-    - "war_machines/*.md"
