@@ -32,12 +32,12 @@
 | Abilities | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. | :unit_attack: Ignore Enemy's Retaliation Attack. Attack all adjacent units. :unit_passive: Ignore any [:spell:](../spells/index.md) effects and :damage: from Specialty. | 🚧 |
 
 
-## Comes With
+## Pochodzi z
 
 - [Conflux Expansion](../content/conflux_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

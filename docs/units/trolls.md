@@ -1,35 +1,35 @@
-# Trolls
+# Trolle
 
 <figure markdown="span">
-    ![Neutral Trolls](../assets/units-neutral-golden-trolls.webp){ width="340" align=right }
+    ![Neutral Trolls](../assets/pl/units-neutral-golden-trolls.webp){ width="340" align=right }
 </figure>
 
 
-| Statistics | Neutral |
+| Statystyki | Neutralne |
 | :--- | :---: |
-| Town | [Neutral](../towns/neutral.md) |
-| Tier | :golden: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) |
+| Miasto | [Neutralne](../towns/neutral.md) |
+| Poziom | :golden: |
+| Typ | [:unit_ground:](../keywords/ground_unit.md) |
 | :attack: | 4 |
 | :defense: | 0 |
 | :health_points: | 7 |
 | :initiative: | 7 |
-| Cost | 13 :gold: |
-| Abilities | :activation: Remove up to 3 :damage: from this unit. |
+| Koszt | 13 :gold: |
+| Zdolność | :activation: Usuń do 3 :damage: z tej jednostki. |
 
 
-## Notes
+## Uwagi
 
-- The ability is applied right after the Trolls are activated.
-- Should the Trolls be attacked by [Wyverns](wyverns.md), both the damage and the healing take place simultaneously. This means Trolls only remove up to 2 :damage:.
-
-
-## Comes With
-
-- [Core Game](../content/core_game.md)
+- Zdolność jest stosowana zaraz po aktywacji Trolli.
+- Jeśli Trolle są atakowane przez [Wiwerny](wyverns.md), zarówno obrażenia jak i leczenie zachodzą jednocześnie. To oznacza, że Trolle usuwają do 2 :damage:.
 
 
-## See Also
+## Pochodzi z
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Pudełko Podstawowe](../content/core_game.md)
+
+
+## Zobacz też
+
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

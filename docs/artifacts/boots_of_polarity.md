@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A Nomad trader seeks protection from a tribe of Goblins. For your assistance, he gives you a finely crafted pair of boots. Looking closely, you see ancient carvings engraved on the leather.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

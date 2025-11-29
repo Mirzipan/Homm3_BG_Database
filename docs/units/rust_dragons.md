@@ -1,34 +1,34 @@
-# Rust Dragons
+# Rdzawe Smoki
 
 <figure markdown="span">
-    ![Neutral Rust Dragons](../assets/units-neutral-azure-rust_dragons.webp){ width="340" align=right }
+    ![Neutral Rust Dragons](../assets/pl/units-neutral-azure-rust-dragons.webp){ width="340" align=right }
 </figure>
 
 
-| Statistics | Neutral |
+| Statystyki | Neutralne |
 | :--- | :---: |
-| Town | [Neutral](../towns/neutral.md) |
-| Tier | :azure: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) |
+| Miasto | [Neutralne](../towns/neutral.md) |
+| Poziom | :azure: |
+| Typ | [:unit_flying:](../keywords/flying_unit.md) |
 | :attack: | 7 |
 | :defense: | 3 |
 | :health_points: | 10 |
 | :initiative: | 17 |
-| Cost | 38 :gold:<br>1 :valuables: |
-| Abilities | :unit_attack: On "-1" results on the [Attack die](../dice.md#attack-die), decrease the attacked unit's :defense: by 2 - to a minimum of 0. |
+| Koszt | 38 :gold:<br>1 :valuables: |
+| Zdolności | :unit_attack: Jeśli rozpatrzysz „-1” z [kości Ataku](../dice.md#attack-die), zmniejsz :defense: atakowanej jednostki o 2 (maksymalnie do 0). |
 
 
-## Heroes With A Specialty
+## Bohaterowie ze Specjalnością
 
 - [:might: Mutare](../heroes/mutare.md#specialty)
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

@@ -32,18 +32,18 @@
 | Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../dice.md#attack-die), on a "0" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. |
 
 
-## Notes
+## Uwagi
 
 - **Few** - after the Retaliation Attack, roll *another* die. The result of the die rolled as part of the attack does not apply to the ability.
 - See [Paralysis](../keywords/paralysis.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

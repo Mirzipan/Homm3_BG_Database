@@ -32,12 +32,12 @@
 | Abilities | :unit_attack: Ignores Retaliation Attacks. | :unit_attack: Ignores Retaliation Attacks.<br>:unit_passive: As a regular movement, the Arch Devils can move to any empty space. | :unit_attack: When attacking [Archangels](archangels.md), this unit gains +2 :attack:. |
 
 
-## Comes With
+## Pochodzi z
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

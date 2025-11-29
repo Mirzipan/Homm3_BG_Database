@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A Sprite is carrying a Shield as big as it is. Yuu ask, "Need help?" The Sprite glares at you and answers, "You think this is funny? Fine. You can carry it. I much prefer flying anyway."*</p>
 
 
-## Comes With
+## Pochodzi z
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 
-- [List of Artifacts](index.md)
+- [Lista Artefaktów](index.md)

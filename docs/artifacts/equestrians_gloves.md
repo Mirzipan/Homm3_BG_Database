@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A brief stop at an improbable rural inn yields an exchange of money, tales, and accidentally, luggage. You find a magical pair of gloves in your new backpack.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

@@ -32,18 +32,18 @@
 | Abilities | :activation: Remove up to 1 :damage: from this unit. | :activation: Remove up to 1 :damage: from this unit, then discard 1 random card from the enemy's hand. | :activation: Remove up to 2 :damage: from this unit. |
 
 
-## Notes
+## Uwagi
 
 - The ability is applied right after the Wraiths are activated.
 - If Wraiths were attacked by [Wyverns](wyverns.md), both the damage and the healing take place simultaneously. Nothing happens for faction (Few and Pack) Wraiths, and the Neutral variant removes up to 1 :damage:.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

@@ -38,19 +38,19 @@
 | Abilities | - | :unit_attack: For this attack, ignore the :defense: value from the target unit's card. | :unit_attack: After the Attack, roll an [Attack die](../dice.md#attack-die), on a "0" or a "+1" the target is :paralysis:. | :unit_passive: On a "0" or a "+1" outcomes on the enemy's [Attack die](../dice.md#attack-die), gain +1 :defense:. |
 
 
-## Notes
+## Uwagi
 
 - **Pack** - Only the :defense: value printed on the target unit's card is ignored, bonuses provided by other cards are still valid.
 - **Pack (Alternate)** - See [Paralysis](../keywords/paralysis.md)
 - **Neutral** - When attacked by neutral [Champions](champions.md), the Manticores receive +2 :defense:, as both Attack dice will always end up as a 0 or a 1.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

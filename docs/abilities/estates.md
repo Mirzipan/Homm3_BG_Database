@@ -20,11 +20,11 @@ ___
 - [:magic: Tarnum (Dungeon)](../heroes/tarnum_dungeon.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Abilities](index.md)
+- [Lista Zdolności](index.md)

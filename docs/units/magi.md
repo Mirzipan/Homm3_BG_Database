@@ -32,23 +32,23 @@
 | Abilities | :unit_attack: Ignore combat penalties. | :unit_attack: Ignore combat penalties. :activation: Add +1 :empower: to the first [spell](../spells/index.md) you cast this round. | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. |
 
 
-## Heroes With A Specialty
+## Bohaterowie ze Specjalnością
 
 - [:magic: Dracon](../heroes/dracon.md#specialty)
 
 
-## Notes
+## Uwagi
 
 - **Pack** - A [spell](../spells/index.md) will only receive the +1 :empower: by the Magi, if it's the player's first [spell](../spells/index.md) of the current Combat round and it was played either during the activation of Magi or later.
 - **Neutral** - Should a random card be discarded, the card can not be chosen. In a multiplayer game, another player picks the random card.
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

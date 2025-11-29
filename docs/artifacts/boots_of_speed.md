@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*Visiting a local wise man, you explain the intent of your journey. He reaches into a chest and withdraws a strange pair of boots which he hands to you.*</p>
 
 
-## Comes With
+## Pochodzi z
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 
-- [List of Artifacts](index.md)
+- [Lista Artefaktów](index.md)

@@ -32,12 +32,12 @@
 | Abilities | - | - | - |
 
 
-## Comes With
+## Pochodzi z
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

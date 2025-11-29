@@ -12,10 +12,10 @@
 - [Town](../fields/town.md)
 
 
-## Notes
+## Uwagi
 
 
-## See Also
+## Zobacz też
 
 - [Visitable Field](visitable_field.md)
 - [Revisitable Field](revisitable_field.md)

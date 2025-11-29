@@ -2,7 +2,7 @@
 search:
   exclude: true
 ---
-# List of Artifacts
+# Lista Artefaktów
 
 | Name | Quality | Effect | [Content](../content/index.md) |
 | :--- | :---: | :---: | :--- |

@@ -9,17 +9,17 @@ ___
 ___
 
 
-## Notes
+## Uwagi
 
 - To play this spell, as least one spell power needs to also be played.
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 - [School of Earth Magic](school_of_earth_magic.md)
 - [List of Spells](index.md)

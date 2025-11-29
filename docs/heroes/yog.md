@@ -40,13 +40,13 @@ ___
 | Ⅵ | :instant: Your selected [unit](../units/index.md) gains +2 :attack: |
 
 
-## Comes With
+## Pochodzi z
 
 - [Stronghold Expansion](../content/stronghold_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Heroes](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Bohaterów](index.md)
+- [Lista Miast](../towns/index.md)
 

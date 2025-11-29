@@ -9,17 +9,17 @@ ___
 ___
 
 
-## Notes
+## Uwagi
 
 - See [Paralysis](../keywords/paralysis.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
 - [School of Fire Magic](school_of_fire_magic.md)
 - [List of Spells](index.md)

@@ -7,7 +7,7 @@ Subterranean
 ___
 
 
-## Fields
+## Pola
 
 - [Blocked Field](../keywords/blocked_field.md)
 - [Black Market](../fields/black_market.md)
@@ -18,11 +18,11 @@ ___
 - [Mystical Garden](../fields/mystical_garden.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Tiles](index.md)
+- [Lista Kafelków](index.md)

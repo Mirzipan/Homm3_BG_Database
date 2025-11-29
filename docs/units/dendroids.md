@@ -32,13 +32,13 @@
 | Abilities | - | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. | :unit_passive: Enemy units that start activation adjacent to this unit cannot move. |
 
 
-## Comes With
+## Pochodzi z
 
-- [Rampart Expansion](../content/rampart_expansion.md)
+- [Rozszerzenie Bastion](../content/rampart_expansion.md)
 - [Tower Expansion](../content/tower_expansion.md) (Neutral)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

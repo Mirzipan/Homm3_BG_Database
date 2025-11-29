@@ -19,17 +19,17 @@ ___
 - [:magic: Merist](../heroes/merist.md)
 
 
-## Notes
+## Uwagi
 
 - The expert effect can only be played when the [First Aid Tent](../war_machines/first_aid_tent.md) activates, which can only happen at the beginning of each Combat round.
-- Without an active [First Aid Tent](../war_machines/first_aid_tent.md), only the basic effect of this ability can be resolved. 
+- Without an active [First Aid Tent](../war_machines/first_aid_tent.md), only the basic effect of this ability can be resolved.
 
 
-## Comes With
+## Pochodzi z
 
-- [Rampart Expansion](../content/rampart_expansion.md)
+- [Rozszerzenie Bastion](../content/rampart_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Abilities](index.md)
+- [Lista Zdolności](index.md)

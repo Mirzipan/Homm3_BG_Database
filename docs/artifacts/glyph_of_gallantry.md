@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*Ridding the countryside of the hideous Minotaur who made a sport of eating noblemen's Knights, you are honored with the Glyph of Gallantry.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

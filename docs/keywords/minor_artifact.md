@@ -5,7 +5,7 @@ search:
 # Minor Artifact
 
 
-## Notes
+## Uwagi
 
 - Minor artifacts have a light blue frame.
 - [^1] When playing according to the tournament rules, minor artifacts may be obtained on all tiles.
@@ -45,12 +45,12 @@ search:
 - [Torso of Legion](../artifacts/torso_of_legion.md)
 
 
-## See Also
+## Zobacz też
 
-- [Major Artifact](major_artifact.md)
+- [Mocny Artefakt](major_artifact.md)
 - [Relic Artifact](relic_artifact.md)
 
-- [List of Artifacts](../artifacts/index.md)
+- [Lista Artefaktów](../artifacts/index.md)
 
 
 [^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text.

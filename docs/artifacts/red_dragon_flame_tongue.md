@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*As you are walking along a narrow path, a nearby bush suddenly bursts into flames. Before your very eyes, the flames become the image of a beautiful woman. She holds out a magnificent sword to you.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
 - [Crown of Dragontooth](crown_of_dragontooth.md)
 - [Dragon Scale Armor](dragon_scale_armor.md)
@@ -22,4 +22,4 @@ ___
 - [Dragon Wing Tabard](dragon_wing_tabard.md)
 - [Necklace of Dragonteeth](necklace_of_dragonteeth.md)
 
-- [List of Artifacts](index.md)
+- [Lista Artefaktów](index.md)

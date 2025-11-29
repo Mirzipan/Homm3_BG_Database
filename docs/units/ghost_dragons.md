@@ -32,24 +32,24 @@
 | Abilities | :activation: Discard the enemy's :morale_positive: token. | :activation: Discard the enemy's :morale_positive: token.<br>:unit_attack: Add +1 to your [Attack die](../dice.md#attack-die) result. | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die); if the result is "0", the target must immediately move away 1 space. |
 
 
-## Heroes With A Specialty
+## Bohaterowie ze Specjalnością
 
 - [:might: Mutare](../heroes/mutare.md#specialty)
 
 
-## Notes
+## Uwagi
 
 - **Pack** - First the +1 is added to the Attack die result, before other effects are applied, such as the effect of the [Centaur's Axe](../artifacts/centaurs_axe.md).
 - **Neutral** - The player od the attacked unit gets to decide, where the unit moves. The new field must be empty and must not be adjacent to the Ghost Dragons. If there is no such field, the attacked unit stays in place.
 - **Neutral** - If the attacked unit was unable to move away, retaliation attack will take place. Otherwise it would not take place, as the unit would not longer be adjacent to the Ghost Dragons.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

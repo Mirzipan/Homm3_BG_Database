@@ -32,13 +32,13 @@
 | Abilities | - | - | - |
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 - [Tower Expansion](../content/tower_expansion.md) (Neutral)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

@@ -1,6 +1,6 @@
-# Fields
+# Pola
 
-Fields are single cells on a [tile](../tiles/index.md).
+Pole to pojedyncza komórka [Kafelka](../tiles/index.md).
 
 | Name | Type | Effect |
 | :--- | :---: | :--- |
@@ -42,6 +42,6 @@ Fields are single cells on a [tile](../tiles/index.md).
 | [Trading Post](trading_post.md) | [Revisitable](../keywords/revisitable_field.md) | Choose one:<br><br>[Trade](../trading.md) resources<br><br>— OR —<br><br>Remove a card<br><br>— OR —<br><br>Buy a [War Machine](../war_machines/index.md) |
 | [War Machine Factory](war_machine_factory.md) | [Revisitable](../keywords/revisitable_field.md) | Buy a [War Machine](../war_machines/index.md) |
 
-## See Also
+## Zobacz też
 
-- [List of Tiles](../tiles/index.md)
+- [Lista Kafelków](../tiles/index.md)

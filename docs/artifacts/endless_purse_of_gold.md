@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*In your travels, you find a leather purse filled with gold that once belonged to a great warrior king who had the ability to transform any inanimate object into gold.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

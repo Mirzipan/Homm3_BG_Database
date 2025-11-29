@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A surprise turn in the landscape finds you in the midst of a grisly scene - vultures picking at the aftermath of a terrible battle. Your cursory search of the remains turns up an enchanted hourglass.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
-
-
-## See Also
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

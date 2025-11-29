@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A merchant from far away lands, trades you a new invention of his people for traveling supplies. It makes distant objects appear closer, and he calls it, a Speculum.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
-
-
-## See Also
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

@@ -1,4 +1,4 @@
-# Swift Weasel
+# Rączej Łasicy
 
 <figure markdown="span">
 
@@ -7,19 +7,19 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Until the next Astrologer's round:<br><br>Once per turn, each player can reroll a [Treasure die](../dice.md#treasure-die) or a [Resource die](../dice.md#resource-die).</p>
+<p style="text-align: center;" markdown>Ten efekt trwa do następnej rundy Astrologów.<br><br>Raz w turze każdy gracz może przerzucić [kość Skarbów](../dice.md#treasure-die) albo [kość Zasobów](../dice.md#resource-die).</p>
 ___
-<p style="text-align: center;" markdown>*You need cool rants for the victory dance.<br>Baboons are never better than weasels.<br><br>Your opponent reigns king in their mind.<br>They dream to be great as the weasely kind.<br><br>I am the Swift Weasel!*</p>
+<p style="text-align: center;" markdown>*By gnollem być, szkielety musisz mieć<br>To żadna już tajemnica<br><br>Do sławy się ten Sandro znów pnie<br>Przez całe dnie Hełm Czaszki kradnie<br><br>Jam nie łasica, a kawał licza!*</p>
 ___
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Astrologers Proclaim Cards](index.md)
+- [Lista kart Astrologowie Ogłaszają](index.md)

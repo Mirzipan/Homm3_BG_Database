@@ -32,13 +32,13 @@
 | Abilities | - | :unit_attack: After the attack, roll 2 [Attack dice](../dice.md#attack-die); on a double "0", decrease the target unit's :health_points: to 0. | :unit_attack: After the attack, roll 2 [Attack dice](../dice.md#attack-die). On two "-1" results, reduce the attacked unit's :health_points: to 0. |
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 - [Tower Expansion](../content/tower_expansion.md) (Neutral)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

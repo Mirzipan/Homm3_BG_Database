@@ -1,4 +1,4 @@
-# Legend
+# Legenda
 
 Quick reference for what the different glyphs mean.
 
@@ -10,7 +10,7 @@ Quick reference for what the different glyphs mean.
 | :might: | Hero of Might |
 | :magic: | Hero of Magic |
 
-## Units
+## Jednostki
 
 | Icon | Description |
 | :---: | :--- |
@@ -29,13 +29,13 @@ Quick reference for what the different glyphs mean.
 | :damage: | Damage |
 | :initiative: | Initiative |
 
-## Factions
+## Frakcje
 
 | Icon | Description |
 | :---: | :--- |
 | :necro: | Necropolis |
 
-## Effects And Abilities
+## Efekty i Zdolności
 
 | Icon | Description |
 | :---: | :--- |
@@ -50,14 +50,14 @@ Quick reference for what the different glyphs mean.
 | :instant: | Instant effect |
 | :permanent: | Permanent effect |
 
-## Card Types
+## Typy Kart
 
 | Icon | Description |
 | :---: | :--- |
 | :spellpower: | [Spell](spells/index.md) |
 | :artifact: | [Artifact](artifacts/index.md) |
 
-## Resources
+## Zasoby
 
 | Icon | Description |
 | :---: | :--- |
@@ -65,14 +65,14 @@ Quick reference for what the different glyphs mean.
 | :building_materials: | Building materials |
 | :valuables: | Valuables |
 
-## Dice
+## Kości
 
 | Icon | Description |
 | :---: | :--- |
 | :treasure: | [Treasure die](dice.md#treasure-die) |
 | :resource_die: | [Resource die](dice.md#resource-die) |
 
-## Miscellaneous
+## Pozostałe
 
 | Icon | Description |
 | :---: | :--- |

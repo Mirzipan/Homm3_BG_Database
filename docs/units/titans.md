@@ -32,7 +32,7 @@
 | Abilities | :unit_passive: Ignore any :ongoing: effects on this unit. | :unit_passive: Ignore any :ongoing: effects on this unit and combat penalties against adjacent units. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking [Black Dragons](black_dragons.md), this unit gains +2 :attack:. |
 
 
-## Notes
+## Uwagi
 
 - **Pack** - Only the Pack of Titans are a [:unit_ranged:](../keywords/ranged_unit.md). Few Titans are a [:unit_ground:](../keywords/ground_unit.md).
 - **Few and Pack** - Friendly :ongoing: effects are also ignored.
@@ -41,15 +41,15 @@
 - [^1] **Few and Pack** - Titans are immune to the effect of [Disrupting Ray spell](../spells/disrupting_ray.md) and the second effect of the [Orb of Inhibition](../artifacts/orb_of_inhibition.md), because their ability is already in play at the time when the other effects are played.
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)
 
 
 [^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.

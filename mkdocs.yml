@@ -35,6 +35,8 @@ theme:
   features:
     - content.code.copy
     - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.top
     - search.suggest
     - search.highlight
@@ -92,6 +94,7 @@ extra_javascript:
 
 plugins:
   - search
+  - awesome-nav
   - exclude-search:
       exclude:
         - /*/index.md

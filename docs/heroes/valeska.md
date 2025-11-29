@@ -40,13 +40,13 @@ ___
 | Ⅵ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Marksmen unit](../units/marksmen.md). |
 
 
-## Comes With
+## Pochodzi z
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Heroes](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Bohaterów](index.md)
+- [Lista Miast](../towns/index.md)
 

@@ -19,12 +19,12 @@ ___
 - [:might: Torosar](../heroes/torosar.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Abilities](index.md)
-- [List of Spells](../spells/index.md)
+- [Lista Zdolności](index.md)
+- [Lista Zaklęć](../spells/index.md)

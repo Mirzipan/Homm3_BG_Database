@@ -32,17 +32,17 @@
 | Abilities | :unit_attack: Ignore the Retaliation Attack. | :unit_attack: Ignore the Retaliation Attack. Then remove up to 2 :damage: from this unit. | :unit_attack: Ignore Enemy's Retaliation Attack. Then remove up to 2 :damage: from this unit. |
 
 
-## Notes
+## Uwagi
 
 - Vampires do not heal when attacking a Wall. Destroying a Wall is considered an action and not an actual attack.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

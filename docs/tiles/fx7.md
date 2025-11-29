@@ -7,7 +7,7 @@ Snow
 ___
 
 
-## Fields
+## Pola
 
 - [Stables](../fields/stables.md)
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
@@ -18,11 +18,11 @@ ___
 - [Magic Spring](../fields/magic_spring.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Tiles](index.md)
+- [Lista Kafelków](index.md)

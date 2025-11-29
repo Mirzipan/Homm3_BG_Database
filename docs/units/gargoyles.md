@@ -32,18 +32,18 @@
 | Abilities | :unit_passive: This unit ignores any :ongoing: [Spell](../spells/index.md) effects. | :unit_passive: This unit ignores any :ongoing: [Spell](../spells/index.md) effects. | :unit_passive: This unit ignores :paralysis: effect. |
 
 
-## Notes
+## Uwagi
 
 - **Few and Pack** - Only the :ongoing: [spell](../spells/index.md) effects are ignored. Other sources of :ongoing: effects will still work (e.g. [artifacts](../artifacts/index.md)).
 - **Few and Pack** - Friendly :ongoing: [spell](../spells/index.md) effects are also ignored.
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

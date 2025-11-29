@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You come upon a very old woman dying alone. You tend to her final needs and promise a proper burial. Grateful, she gives you a magic pendant emblazoned with a stylized eye. It lets you see with your eyes closed.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

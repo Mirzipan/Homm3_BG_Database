@@ -18,11 +18,11 @@ ___
 - [:magic: Zilare](../heroes/zilare.md)
 
 
-## Comes With
+## Pochodzi z
 
 - [Cove Expansion](../content/cove_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Abilities](index.md)
+- [Lista Zdolności](index.md)

@@ -45,13 +45,13 @@ ___
 - Rise Of The Necromancer - 1. Target
 
 
-## Comes With
+## Pochodzi z
 
 - [Stronghold Expansion](../content/stronghold_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Heroes](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Bohaterów](index.md)
+- [Lista Miast](../towns/index.md)
 

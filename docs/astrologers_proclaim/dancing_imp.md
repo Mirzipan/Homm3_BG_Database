@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
 ___
 <p style="text-align: center;" markdown>Each player can Remove a [Statistic](../statistics/index.md) card from their discard pile or hand to gain 1 [Empowered Statistic](../statistics/index.md) card of the same type.</p>
 ___
@@ -15,12 +15,12 @@ ___
 ___
 
 
-## Comes With
+## Pochodzi z
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Astrologers Proclaim Cards](index.md)
+- [Lista kart Astrologowie Ogłaszają](index.md)
 - [List of Statistics](../statistics/index.md)

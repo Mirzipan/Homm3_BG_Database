@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A gang of Rogues is sifting through the possessions of some dead warriors. Scaring off the scavengers, you notice the Rogues had overlooked a strange breastplate.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
-
-
-## See Also
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

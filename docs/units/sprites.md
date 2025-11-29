@@ -32,12 +32,12 @@
 | Abilities | - | :unit_attack: Ignore Enemy's Retaliation Attack. | 🚧 |
 
 
-## Comes With
+## Pochodzi z
 
 - [Conflux Expansion](../content/conflux_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

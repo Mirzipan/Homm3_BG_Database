@@ -14,6 +14,6 @@
 - [War Machines](../war_machines/index.md)
 
 
-## See Also
+## Zobacz też
 
 - [List of Content](index.md)

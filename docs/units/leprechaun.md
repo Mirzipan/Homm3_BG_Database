@@ -18,12 +18,12 @@
 | Abilities | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher one. |
 
 
-## Comes With
+## Pochodzi z
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

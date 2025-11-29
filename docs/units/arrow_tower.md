@@ -16,12 +16,12 @@
 | Abilities | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed.<br>:unit_passive: It can only be attack by [:unit_ranged:](../keywords/ranged_unit.md) attacks or card effects. |
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

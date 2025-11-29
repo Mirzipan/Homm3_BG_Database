@@ -32,22 +32,22 @@
 | Abilities | :unit_attack: After the enemy's Retaliation Attack, this unit can return to the space from which it moved to attack. | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. | :unit_attack: Ignore the Retaliation Attack. This unit can return to the space from which it moved to attack. |
 
 
-## Heroes With A Specialty
+## Bohaterowie ze Specjalnością
 
 - [:might: Lorelei](../heroes/lorelei.md#specialty)
 
 
-## Notes
+## Uwagi
 
 - The player can freely decided whether the Harpies return back to their starting position after their attack.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

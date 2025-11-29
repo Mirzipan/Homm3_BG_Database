@@ -1,29 +1,29 @@
-# Boars
+# Dziki
 
 <figure markdown="span">
-    ![Neutral Boars](../assets/units-neutral-bronze-boars.webp){ width="340" align=right }
+    ![Neutral Boars](../assets/pl/units-neutral-bronze-boars.webp){ width="340" align=right }
 </figure>
 
 
-| Statistics | Neutral |
+| Statystyki | Neutralne |
 | :--- | :---: |
-| Town | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) |
+| Miasto | [Neutralne](../towns/neutral.md) |
+| Poziom | :bronze: |
+| Typ | [:unit_ground:](../keywords/ground_unit.md) |
 | :attack: | 2 |
 | :defense: | 0 |
 | :health_points: | 4 |
 | :initiative: | 6 |
-| Cost | 4 :gold: |
-| Abilities | - |
+| Koszt | 4 :gold: |
+| Zdolności | - |
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

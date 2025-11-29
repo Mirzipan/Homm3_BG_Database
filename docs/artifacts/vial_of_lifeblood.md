@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You find a mystical shrine hidden among the trees. Floating above the altar is a vial said to contain the Blood of Life. You very carefully remove it, taking care not to disturb anything else.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
-
-
-## See Also
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

@@ -1,35 +1,35 @@
-# Mummies
+# Mumie
 
 <figure markdown="span">
-    ![Neutral Mummies](../assets/units-neutral-silver-mummies.webp){ width="340" align=right }
+    ![Neutral Mummies](../assets/pl/units-neutral-silver-mummies.webp){ width="340" align=right }
 </figure>
 
 
-| Statistics | Neutral |
+| Statystyki | Neutralne |
 | :--- | :---: |
-| Town | [Neutral](../towns/neutral.md) |
-| Tier | :silver: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) |
+| Miasto | [Neutralne](../towns/neutral.md) |
+| Poziom | :silver: |
+| Typ | [:unit_ground:](../keywords/ground_unit.md) |
 | :attack: | 3 |
 | :defense: | 1 |
 | :health_points: | 4 |
 | :initiative: | 5 |
-| Cost | 8 :gold: |
-| Abilities | :unit_attack: Ignore the result on the [Attack die](../dice.md#attack-die). :unit_passive: Whenever this unit is attacked, set your opponent's [Attack die](../dice.md#attack-die) to "-1". |
+| Koszt | 8 :gold: |
+| Zdolności | :unit_attack: Zignoruj wynik z  [kości Ataku](../dice.md#attack-die). :unit_passive: Gdy Mumie są atakowane, obróć [kość Ataku](../dice.md#attack-die) przeciwnika na wynik „-1”. |
 
 
-## Notes
+## Uwagi
 
-- The player still rolls the Attack die, as other effects that are related to the Attack die result may still apply.
-- For each Attack against the Mummies, only its initial Attack die roll is set to -1. After a roll is *set*, it can be modified by rerolls.
-
-
-## Comes With
-
-- [Core Game](../content/core_game.md)
+- Gracz nadal rzuca kością Ataku, ponieważ inne efekty związane z jej wynikiem mogą mieć zastosowanie.
+- Atak na Mumie ustawia tylko pierwotną kość Ataku na „-1”. Po rzucie może ona być zmodyfikowana przez efekty pozwalające na przerzucenia.
 
 
-## See Also
+## Pochodzi z
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Pudełko Podstawowe](../content/core_game.md)
+
+
+## Zobacz też
+
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

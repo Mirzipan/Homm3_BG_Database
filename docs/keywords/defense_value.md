@@ -1,5 +1,5 @@
 # :defense: Defense Value
 
 
-## Notes
+## Uwagi
 

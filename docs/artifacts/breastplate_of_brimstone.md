@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You meet a blacksmith who is melting down old pieces of armor. When he learns of your quest, he gives you a breastplate that he claims refused to melt, and is therefore of no value to him.*</p>
 
 
-## Comes With
+## Pochodzi z
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 
-- [List of Artifacts](index.md)
+- [Lista Artefaktów](index.md)

@@ -45,19 +45,19 @@ ___
 - Rise Of The Necromancer - 1. Target
 
 
-## Notes
+## Uwagi
 
 - **Ⅳ** - The specialty can be improved by spell power, just like a regular spell.
 - **Ⅳ** - See [Resurrection Spell](../spells/resurrection.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Heroes](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Bohaterów](index.md)
+- [Lista Miast](../towns/index.md)
 

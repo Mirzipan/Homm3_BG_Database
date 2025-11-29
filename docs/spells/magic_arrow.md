@@ -9,22 +9,22 @@ ___
 ___
 
 
-## Notes
+## Uwagi
 
 - Magic Arrow is considered a basic spell, despite having a magic symbol in each corner.
 - Magic Arrow can benefit from spell power bonus to any school of magic, but it can only be affected by a single school of magic at a time.
 - [^1] If a unit ignores a specific school of magic (it's immune to spells of that school of magic), it can *not* ignore the Magic Arrow.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
-- [Rampart Expansion](../content/rampart_expansion.md)
-- [Fortress Expansion](../content/fortress_expansion.md)
+- [Pudełko Podstawowe](../content/core_game.md)
+- [Rozszerzenie Bastion](../content/rampart_expansion.md)
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 - [School of Air Magic](school_of_air_magic.md)
 - [School of Earth Magic](school_of_earth_magic.md)

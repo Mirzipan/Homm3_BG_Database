@@ -7,7 +7,7 @@ Swamp
 ___
 
 
-## Fields
+## Pola
 
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
 - [Temple](../fields/temple.md)
@@ -18,11 +18,11 @@ ___
 - [Blocked Field](../keywords/blocked_field.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Tiles](index.md)
+- [Lista Kafelków](index.md)

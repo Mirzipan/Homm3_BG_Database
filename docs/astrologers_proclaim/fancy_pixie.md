@@ -1,4 +1,4 @@
-# Fancy Pixie
+# Fikuśnej Nimfy
 
 <figure markdown="span">
 
@@ -7,19 +7,19 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Each player immediately gains 1 :morale_positive:</p>
+<p style="text-align: center;" markdown>Każdy gracz natychmiast otrzymuje 1 :morale_positive:</p>
 ___
-<p style="text-align: center;" markdown>*I decided to take, into my own hands, fate.<br>This was the first time for love, I made.<br>We were young, I was the moment's owner.<br>We went out on a date to Skeleton Transformer.<br>Her heart is on my sleeve, we know each other, thoroughly.<br>I've looked right through her, I know every bone of she.*</p>
+<p style="text-align: center;" markdown>*Więc postanowiłem los wziąc w swoje ręce,<br>W ten sposób zdobyłem po raz pierwszy czyjeś serce,<br>Byliśmy młodzi i byliśmy wolni,<br>Poszliśmy na randkę do mej szkieletorni<br>Jej serce mam w kieszeni, my znamy się na wskroś,<br>Przejrzałem ją na wylot, znam jej każdą kość!*</p>
 ___
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Astrologers Proclaim Cards](index.md)
+- [Lista kart Astrologowie Ogłaszają](index.md)

@@ -9,21 +9,21 @@ ___
 <p style="text-align: center;" markdown>*Searching a ruin, you are amazed to find a piece of the Statue of Legion. You carefully dust it off before placing it in your pack.*</p>
 
 
-## Notes
+## Uwagi
 
 - See [Arms of Legion](arms_of_legion.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Rampart Expansion](../content/rampart_expansion.md)
+- [Rozszerzenie Bastion](../content/rampart_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 - [Arms of Legion](arms_of_legion.md)
 - [Head of Legion](head_of_legion.md)
 - [Legs of Legion](legs_of_legion.md)
 - [Loins of Legion](loins_of_legion.md)
 
-- [List of Artifacts](index.md)
+- [Lista Artefaktów](index.md)

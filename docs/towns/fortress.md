@@ -43,7 +43,7 @@
 - :might: [Wystan](../heroes/wystan.md)
 
 
-## Units
+## Jednostki
 
 - :bronze: [Gnolls](../units/gnolls.md)
 - :bronze: [Lizardmen](../units/lizardmen.md)
@@ -54,11 +54,11 @@
 - :golden: [Hydras](../units/hydras.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Towns](../towns/index.md)
+- [Lista Miast](../towns/index.md)

@@ -9,18 +9,18 @@ ___
 ___
 
 
-## Notes
+## Uwagi
 
 - Prayer only increases one of the three values, the caster gets to choose which one.
 - Prayer can be cast at any point during the Combat as an *instant*. This way a player may increase the initiative of a unit outside of their turn, causing the turn order to be adjusted immediately.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
 - [School of Water Magic](school_of_water_magic.md)
 - [List of Spells](index.md)

@@ -32,12 +32,12 @@
 | Abilities | :unit_other: Place a +1 :attack: token on a chosen [:unit_ground:](../keywords/ground_unit.md) or [:unit_flying:](../keywords/flying_unit.md) unit for 2 Combat rounds. | :unit_other: Place a +2 :attack: token on a chosen [:unit_ground:](../keywords/ground_unit.md) or [:unit_flying:](../keywords/flying_unit.md) unit for 2 Combat rounds. | 🚧 |
 
 
-## Comes With
+## Pochodzi z
 
 - [Stronghold Expansion](../content/stronghold_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

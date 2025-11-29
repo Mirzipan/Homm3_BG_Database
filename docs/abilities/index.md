@@ -2,7 +2,7 @@
 search:
   exclude: true
 ---
-# List of Abilities
+# Lista Zdolności
 
 | Name | Effect | :expert: Effect | [Content](../content/index.md) |
 | :--- | :---: | :---: | :--- |

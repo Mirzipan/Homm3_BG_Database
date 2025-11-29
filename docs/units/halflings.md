@@ -1,29 +1,29 @@
-# Halflings
+# Niziołki
 
 <figure markdown="span">
-    ![Neutral Halflings](../assets/units-neutral-bronze-halflings.webp){ width="340" align=right }
+    ![Neutral Halflings](../assets/pl/units-neutral-bronze-halflings.webp){ width="340" align=right }
 </figure>
 
 
-| Statistics | Neutral |
+| Statystyki | Neutralne |
 | :--- | :---: |
-| Town | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: |
-| Type | [:unit_ranged:](../keywords/ranged_unit.md) |
+| Miasto | [Neutralne](../towns/neutral.md) |
+| Poziom | :bronze: |
+| Typ | [:unit_ranged:](../keywords/ranged_unit.md) |
 | :attack: | 2 |
 | :defense: | 0 |
 | :health_points: | 3 |
 | :initiative: | 6 |
-| Cost | 5 :gold: |
-| Abilities | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher one. Ignore combat penalties. |
+| Koszt | 5 :gold: |
+| Zdolności | :unit_attack: Rzuć 2 [kośćmi Ataku](../dice.md#attack-die) i rozpatrz wyższy wyni. Zignoruj kary do Walki. |
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

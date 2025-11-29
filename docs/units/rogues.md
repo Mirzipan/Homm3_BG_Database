@@ -1,34 +1,34 @@
-# Rogues
+# Rozbójnicy
 
 <figure markdown="span">
-    ![Neutral Rogues](../assets/units-neutral-bronze-rogues.webp){ width="340" align=right }
+    ![Neutral Rogues](../assets/pl/units-neutral-bronze-rogues.webp){ width="340" align=right }
 </figure>
 
 
-| Statistics | Neutral |
+| Statystyki | Neutralne |
 | :--- | :---: |
-| Town | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) |
+| Miasto | [Neutralne](../towns/neutral.md) |
+| Poziom | :bronze: |
+| Typ | [:unit_ground:](../keywords/ground_unit.md) |
 | :attack: | 2 |
 | :defense: | 1 |
 | :health_points: | 3 |
 | :initiative: | 6 |
-| Cost | 5 :gold: |
-| Abilities | :effect_map: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. |
+| Koszt | 5 :gold: |
+| Zdolności | :effect_map: W swojej turze podejrzyj 1 wierzchnią kartę z dowolnej talii, a następnie odłóż ją na wierzch albo spód tej talii. |
 
 
-## Notes
+## Uwagi
 
-- The effect only triggers if the Rogues are in the player's unit deck, so they had to be recruited beforehand (e.g. by [Diplomacy](../abilities/diplomacy.md)).
-
-
-## Comes With
-
-- [Core Game](../content/core_game.md)
+- Efekt stosuje się jedynie wtedy, gdy Rozbójnicy są w talii jednostek gracza, więc najpierw trzeba ich zrekrutować (np. przez [Diplomację](../abilities/diplomacy.md)).
 
 
-## See Also
+## Pochodzi z
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Pudełko Podstawowe](../content/core_game.md)
+
+
+## Zobacz też
+
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

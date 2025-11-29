@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*🚧*</p>
 
 
-## Comes With
+## Pochodzi z
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## See Also
+## Zobacz też
 
 
-- [List of Artifacts](index.md)
+- [Lista Artefaktów](index.md)

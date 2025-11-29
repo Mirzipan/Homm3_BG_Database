@@ -9,17 +9,17 @@ ___
 ___
 
 
-## Notes
+## Uwagi
 
 - The :damage: from Inferno also applies to friendly units.
 
 
-## Comes With
+## Pochodzi z
 
 - [Inferno Expansion](../content/inferno_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 - [School of Fire Magic](school_of_fire_magic.md)
 - [List of Spells](index.md)

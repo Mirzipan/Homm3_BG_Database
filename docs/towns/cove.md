@@ -24,7 +24,7 @@
 - :magic: [Zilare](../heroes/zilare.md)
 
 
-## Units
+## Jednostki
 
 - :bronze: [Oceanids](../units/oceanids.md)
 - :bronze: [Seamen](../units/seamen.md)
@@ -35,11 +35,11 @@
 - :golden: [Haspids](../units/haspids.md)
 
 
-## Comes With
+## Pochodzi z
 
 - [Cove Expansion](../content/cove_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Towns](../towns/index.md)
+- [Lista Miast](../towns/index.md)

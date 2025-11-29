@@ -21,11 +21,11 @@ ___
 - [:might: Shiva](../heroes/shiva.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Abilities](index.md)
+- [Lista Zdolności](index.md)

@@ -22,7 +22,7 @@
 - [Dungeon Faction](../towns/dungeon.md)
 
 
-## See Also
+## Zobacz też
 
 - [List of Content](index.md)
 

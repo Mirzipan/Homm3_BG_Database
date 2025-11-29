@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*Walking through the ruins of an ancient walled city, you find the instrument of the city's destruction, the elaborately crafted Shackles of War.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
-
-
-## See Also
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

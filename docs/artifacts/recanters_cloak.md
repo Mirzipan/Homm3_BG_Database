@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You discover a young woman fleeing from a hungry bear. You slay the beast in the nick of time, and the grateful Sorceress weaves a magic cloak from the bear's hide.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

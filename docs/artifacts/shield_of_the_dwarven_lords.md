@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*While searching through the rubble of a collapsed mine, you free a group of trapped Dwarves. Grateful, the leader ives you a finely crafted shield.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
-
-
-## See Also
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

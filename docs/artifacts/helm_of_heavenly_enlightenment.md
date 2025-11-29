@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You spy a gleaming object poking up out of the ground. You send a member of your party over to investigate. He comes back with a golden helmet in his hands. You realize that it must be the Helm of Heavenly Enlightenment, the only helm ever rumored to be made from solid gold.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

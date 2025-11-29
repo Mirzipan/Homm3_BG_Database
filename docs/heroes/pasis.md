@@ -40,13 +40,13 @@ ___
 | Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2.<br><br>This effect doubles for the 🚧 Elementals unit. |
 
 
-## Comes With
+## Pochodzi z
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Heroes](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Bohaterów](index.md)
+- [Lista Miast](../towns/index.md)
 

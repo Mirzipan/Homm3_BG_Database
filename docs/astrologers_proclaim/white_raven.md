@@ -1,4 +1,4 @@
-# White Raven
+# Białego Kruka
 
 <figure markdown="span">
 
@@ -7,19 +7,19 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Each player immediately rolls 1 [Resource die](../dice.md#resource-die) and gains the rolled resources.</p>
+<p style="text-align: center;" markdown>Każdy gracz natychmiast rzuca 1 kością Zasobów i rozpatruje jej wynik.</p>
 ___
-<p style="text-align: center;" markdown>*"Where do you go, fantastic dream bird?"<br>"Eeofol, Deyja, Place Between Planes... Still interested?"*</p>
+<p style="text-align: center;" markdown>*— Dokąd pomykasz ptaszyno z mych snów?<br>— Do Eeofolu, Deyji, Wymiaru między wymiarami... A co, chcesz się przelecieć?*</p>
 ___
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Astrologers Proclaim Cards](index.md)
+- [Lista kart Astrologowie Ogłaszają](index.md)

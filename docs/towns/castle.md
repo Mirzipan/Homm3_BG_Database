@@ -43,7 +43,7 @@
 - :might: [Valeska](../heroes/valeska.md)
 
 
-## Units
+## Jednostki
 
 - :bronze: [Halberdiers](../units/halberdiers.md)
 - :bronze: [Marksmen](../units/marksmen.md)
@@ -54,11 +54,11 @@
 - :golden: [Archangels](../units/archangels.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Towns](../towns/index.md)
+- [Lista Miast](../towns/index.md)

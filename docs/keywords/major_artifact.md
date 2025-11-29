@@ -5,7 +5,7 @@ search:
 # Major Artifact
 
 
-## Notes
+## Uwagi
 
 - Major artifacts have a red frame.
 - [^1] When playing according to the tournament rules, major artifacts may be obtained on Near (Ⅳ-Ⅴ) and Center (Ⅵ-Ⅶ) tiles.
@@ -41,12 +41,12 @@ search:
 - [Vial of Lifeblood](../artifacts/vial_of_lifeblood.md)
 
 
-## See Also
+## Zobacz też
 
-- [Minor Artifact](minor_artifact.md)
+- [Słaby Artefakt](minor_artifact.md)
 - [Relic Artifact](relic_artifact.md)
 
-- [List of Artifacts](../artifacts/index.md)
+- [Lista Artefaktów](../artifacts/index.md)
 
 
 [^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text.

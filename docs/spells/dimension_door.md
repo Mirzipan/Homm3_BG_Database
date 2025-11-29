@@ -9,18 +9,18 @@ ___
 ___
 
 
-## Notes
+## Uwagi
 
 - Dimension Door can only move the caster's Hero, not a Hero controlled by any other player.
 - May be used to jump over blocked fields.
 
 
-## Comes With
+## Pochodzi z
 
-- [Rampart Expansion](../content/rampart_expansion.md)
+- [Rozszerzenie Bastion](../content/rampart_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 - [School of Air Magic](school_of_air_magic.md)
 - [List of Spells](index.md)

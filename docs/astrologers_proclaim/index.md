@@ -2,9 +2,9 @@
 search:
   exclude: true
 ---
-# Astrologers Proclaim
+# Astrologowie Ogłaszają
 
-All of the cards start with a prefix of 'Astrologers proclaim week of the'. In the interest of readability, this prefix has been removed from the names in the following table.
+Wszystkie karty zaczynają się słowami 'Astrologowie ogłaszają tydzień'. Dla czytelności pominięto je w spisie w poniższej tabeli.
 
 | Name | Effect | [Content](../content/index.md) |
 | :--- | :---: | :--- |
@@ -42,6 +42,6 @@ All of the cards start with a prefix of 'Astrologers proclaim week of the'. In t
 | [Wild Debauchery](wild_debauchery.md) | At the beginning of the next Resource round, all players gain 5 less :gold:. | [Core Game](../content/core_game.md) |
 
 
-## See Also
+## Zobacz też
 
-- [List of Events](../events/index.md)
+- [Lista Wydarzeń](../events/index.md)

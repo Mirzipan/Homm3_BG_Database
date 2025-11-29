@@ -1,4 +1,4 @@
-# Annoying Lizard
+# Wkurzającej Jaszczurki
 
 <figure markdown="span">
 
@@ -7,21 +7,21 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Each player must shuffle all [Artifact](../artifacts/index.md) and [Spell](../spells/index.md) cards from their hand back into their deck and draw the same number of cards from the top of their deck of Might and Magic.</p>
+<p style="text-align: center;" markdown>Każdy gracz musi wtasować wszystkie karty [Artefaktów](../artifacts/index.md) i [Zaklęć](../spells/index.md) z ręki do swojej talii M&M, a następnie dobrać taką samą liczbę kart z wierzchu swojej talii M&M.</p>
 ___
-<p style="text-align: center;" markdown>*Hey, Hero! Hero! Hey, Hero! Hero! Hey!*</p>
+<p style="text-align: center;" markdown>*Tej, Bohaterze! Bohaterze! Tej, Bohaterze! Bohaterze! Tej!*</p>
 ___
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Artifacts](../artifacts/index.md)
-- [List of Astrologers Proclaim Cards](index.md)
-- [List of Spells](../spells/index.md)
+- [Lista Artefaktów](../artifacts/index.md)
+- [Lista kart Astrologowie Ogłaszają](index.md)
+- [Lista Zaklęć](../spells/index.md)

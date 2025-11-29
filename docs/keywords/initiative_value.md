@@ -1,5 +1,5 @@
 # :initiative: Initiative Value
 
 
-## Notes
+## Uwagi
 

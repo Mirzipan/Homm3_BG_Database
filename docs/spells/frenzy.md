@@ -9,12 +9,12 @@ ___
 ___
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 - [School of Fire Magic](school_of_fire_magic.md)
 - [List of Spells](index.md)

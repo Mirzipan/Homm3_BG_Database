@@ -7,7 +7,7 @@ Snow
 ___
 
 
-## Fields
+## Pola
 
 - [Tree of Knowledge](../fields/tree_of_knowledge.md)
 - [Magic Spring](../fields/magic_spring.md)
@@ -18,11 +18,11 @@ ___
 - [Windmill](../fields/windmill.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Tiles](index.md)
+- [Lista Kafelków](index.md)

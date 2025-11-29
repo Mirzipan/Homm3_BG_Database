@@ -40,14 +40,14 @@ ___
 | Ⅵ | :instant: Gain 5 :gold:. |
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 - [Lord Haart (Necropolis)](lord_haart_necropolis.md)
-- [List of Heroes](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Bohaterów](index.md)
+- [Lista Miast](../towns/index.md)
 

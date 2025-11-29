@@ -1,34 +1,34 @@
-# Sharpshooters
+# Strzelcy
 
 <figure markdown="span">
-    ![Neutral Sharpshooters](../assets/units-neutral-silver-sharpshooters.webp){ width="340" align=right }
+    ![Neutral Sharpshooters](../assets/pl/units-neutral-silver-sharpshooters.webp){ width="340" align=right }
 </figure>
 
 
-| Statistics | Neutral |
+| Statystyki | Neutralne |
 | :--- | :---: |
-| Town | [Neutral](../towns/neutral.md) |
-| Tier | :silver: |
-| Type | [:unit_ranged:](../keywords/ranged_unit.md) |
+| Miasto | [Neutralne](../towns/neutral.md) |
+| Poziom | :silver: |
+| Typ | [:unit_ranged:](../keywords/ranged_unit.md) |
 | :attack: | 3 |
 | :defense: | 0 |
 | :health_points: | 6 |
 | :initiative: | 9 |
-| Cost | 10 :gold: |
-| Abilities | :unit_attack: Ignore the combat penalties. |
+| Koszt | 10 :gold: |
+| Zdolności | :unit_attack: Zignoruj kary do Walki. |
 
 
-## Heroes With A Specialty
+## Bohaterowie ze Specjalnością
 
 - [:might: Gelu](../heroes/gelu.md#specialty)
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

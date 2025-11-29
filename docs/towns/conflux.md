@@ -16,15 +16,15 @@
 
 ## Heroes
 
-- :magic: [Ciele](../heroes/ciele.md) 
-- :might: [Erdamon](../heroes/erdamon.md) 
-- :magic: [Luna](../heroes/luna.md) 
-- :might: [Monere](../heroes/monere.md) 
-- :might: [Pasis](../heroes/pasis.md) 
-- :magic: [Tarnum](../heroes/tarnum_conflux.md) 
+- :magic: [Ciele](../heroes/ciele.md)
+- :might: [Erdamon](../heroes/erdamon.md)
+- :magic: [Luna](../heroes/luna.md)
+- :might: [Monere](../heroes/monere.md)
+- :might: [Pasis](../heroes/pasis.md)
+- :magic: [Tarnum](../heroes/tarnum_conflux.md)
 
 
-## Units
+## Jednostki
 
 - :bronze: [Sprites](../units/sprites.md)
 - :bronze: [Storm Elementals](../units/storm_elementals.md)
@@ -35,11 +35,11 @@
 - :golden: [Phoenixes](../units/phoenixes.md)
 
 
-## Comes With
+## Pochodzi z
 
 - [Conflux Expansion](../content/conflux_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Towns](../towns/index.md)
+- [Lista Miast](../towns/index.md)

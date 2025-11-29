@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You catch a Cyclops skinny dipping, and as a prank you make off with his clothes. Later, you realize the tunic is magical.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
-
-
-## See Also
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

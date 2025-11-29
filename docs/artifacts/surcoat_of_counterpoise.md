@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*The Necromancer blasts the Paladin with a fire bolt, bringing him to his knees. You slay the evil one before the final blow. The grateful Paladin gives you the cloak that saved him.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

@@ -32,12 +32,12 @@
 | Abilities | - | :unit_passive: This unit cannot take more than 4 :damage: from a single attack. | 🚧 |
 
 
-## Comes With
+## Pochodzi z
 
 - [Cove Expansion](../content/cove_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

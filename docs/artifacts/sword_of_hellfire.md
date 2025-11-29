@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*During a sudden storm, a bolt of lightning strikes a tree, splitting it. Inside the tree you find a mysterious sword.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

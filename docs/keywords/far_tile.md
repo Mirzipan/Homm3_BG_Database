@@ -38,14 +38,14 @@ Contains fields with Ⅱ-Ⅲ [difficulty](../difficulties.md).
 - [#F10](../tiles/fx10.md)
 
 
-## Notes
+## Uwagi
 
 
-## See Also
+## Zobacz też
 
 - [Starting Tile](starting_tile.md)
 - [Near Tile](near_tile.md)
 - [Center Tile](center_tile.md)
 - [Underground Tile](underground_tile.md)
 - [Water Tile](water_tile.md)
-- [List of Towns](../towns/index.md)
+- [Lista Miast](../towns/index.md)

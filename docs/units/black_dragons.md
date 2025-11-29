@@ -32,12 +32,12 @@
 | Abilities | :unit_passive: Reduce :damage: taken by this unit from [:spellpower:](../spells/index.md) by 2 to a minimum of 0. | :unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. |
 
 
-## Heroes With A Specialty
+## Bohaterowie ze Specjalnością
 
 - [:might: Mutare](../heroes/mutare.md#specialty)
 
 
-## Notes
+## Uwagi
 
 - **Pack** - The effects of the player's own spells and specialties are also ignored.
 - **Pack** - Specialties are the hero-specific cards (Ⅰ, Ⅳ, and Ⅵ).
@@ -48,12 +48,12 @@
 - **Neutral** - Should the Black Dragons attack a Wall, no secondary attack will take place. Units behind the Wall are protected. Should they attack a unit directly in front of a Wall, the Wall will not take any damage.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

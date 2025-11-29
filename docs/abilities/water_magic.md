@@ -18,18 +18,18 @@ ___
 - [:magic: Ciele](../heroes/ciele.md)
 
 
-## Notes
+## Uwagi
 
 - The expert effect may be played either from hand, or from the field. This does, however, not add the two effects, and the ability is put into the discard pile after being played.
 - See [Permanent Effect](../keywords/permanent_effect.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Abilities](index.md)
+- [Lista Zdolności](index.md)
 - [School of Water Magic](../spells/school_of_water_magic.md)

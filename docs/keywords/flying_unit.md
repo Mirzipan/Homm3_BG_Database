@@ -5,7 +5,7 @@ search:
 # :unit_flying: Flying Unit
 
 
-## Notes
+## Uwagi
 
 - [^1] Flying units may move up to 3 spaces in Combat on the small battlefield. On the [large battlefield](../content/battlefield_expansion.md), their movement range is equal to their :initiative: value instead.
 - [^1] Flying units may attack first, and then move. On the [large battlefield](../content/battlefield_expansion.md), their movement always comes first.

@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You help a Peasant catch a mare. As gratitude, he hands you a sphere. When you grasp it, you feel the magical energy drain from your limbs...*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

@@ -1,34 +1,34 @@
-# Peasants
+# Chłopi
 
 <figure markdown="span">
-    ![Neutral Peasants](../assets/units-neutral-bronze-peasants.webp){ width="340" align=right }
+    ![Neutral Peasants](../assets/pl/units-neutral-bronze-peasants.webp){ width="340" align=right }
 </figure>
 
 
-| Statistics | Neutral |
+| Statystyki | Neutralne |
 | :--- | :---: |
-| Town | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) |
+| Miasto | [Neutralne](../towns/neutral.md) |
+| Poziom | :bronze: |
+| Typ | [:unit_ground:](../keywords/ground_unit.md) |
 | :attack: | 1 |
 | :defense: | 0 |
 | :health_points: | 2 |
 | :initiative: | 3 |
-| Cost | 3 :gold: |
-| Abilities | :effect_map: At the beginning of each Resource round, gain 3 :gold:. |
+| Koszt | 3 :gold: |
+| Zdolności | :effect_map: Na początku każdej rundy Zasobów zyskujesz 3 :gold:. |
 
 
-## Notes
+## Uwagi
 
-- The effect only triggers if the Peasants are in the player's unit deck, so they had to be recruited beforehand (e.g. by [Diplomacy](../abilities/diplomacy.md)).
-
-
-## Comes With
-
-- [Core Game](../content/core_game.md)
+- Efekt stosuje się jedynie wtedy, gdy Chłopi są w talii jednostek gracza, więc najpierw trzeba ich zrekrutować (np. przez [Dyplomację](../abilities/diplomacy.md)).
 
 
-## See Also
+## Pochodzi z
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Pudełko Podstawowe](../content/core_game.md)
+
+
+## Zobacz też
+
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

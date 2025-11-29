@@ -15,12 +15,12 @@ ___
 ___
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Events](index.md)
-- [List of Units](../units/index.md)
+- [Lista Wydarzeń](index.md)
+- [Lista Jednostek](../units/index.md)

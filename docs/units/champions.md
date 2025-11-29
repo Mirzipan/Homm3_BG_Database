@@ -32,18 +32,18 @@
 | Abilities | :effect_map: If your hero is on a field with Stables, this unit's reinforcement cost is reduced by 6 :gold:. | :unit_attack: If this unit's movement ends in a space other than where it started, you may reroll an [Attack die](../dice.md#attack-die). | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and apply both outcomes.<br>:unit_passive: Reroll this unit's all "-1" rolls. |
 
 
-## Notes
+## Uwagi
 
 - **Neutral** - A -1 on the Attack die is always rerolled, even multiple times.
 - **Neutral** - When attacking neutral [Manticores](manticores.md), the [Manticores](manticores.md) receive +2 :defense:, as both Attack dice will always end up as a 0 or a 1.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

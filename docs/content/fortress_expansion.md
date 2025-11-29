@@ -14,6 +14,6 @@
 - [Events](../events/index.md)
 
 
-## See Also
+## Zobacz też
 
 - [List of Content](index.md)

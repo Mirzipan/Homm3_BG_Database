@@ -9,18 +9,18 @@ ___
 ___
 
 
-## Notes
+## Uwagi
 
 - Units can not be removed by this spell, despite counting as obstacles for movement purposes.
 - Only the wall, the gate, and obstacle markers (on the large battlefield) may be removed by this spell.
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 - [School of Water Magic](school_of_water_magic.md)
 - [List of Spells](index.md)

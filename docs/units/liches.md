@@ -32,12 +32,12 @@
 | Abilities | - | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. | :unit_attack: Choose a unit adjacent to the target and attack it. For the purpose of this attack, your :attack: is 2. |
 
 
-## Heroes With A Specialty
+## Bohaterowie ze Specjalnością
 
 - [:might: Moandor](../heroes/moandor.md#specialty)
 
 
-## Notes
+## Uwagi
 
 - **Pack and Neutral** - Liches can only do one extra attack, not more.
 - **Pack and Neutral** - The extra attacks of Liches also trigger when attacking an adjacent target.
@@ -48,15 +48,15 @@
 - [^1] [^2] **Pack and Neutral** - Only on the large Battlefield: Should the Liches attack an adjacent unit, and both them, and their target have a common adjacent enemy to them, and this common adjacent unit is dealt damage from the secondary attack, both, the original target and the target of their secondary attack perform a retaliation attack against the Liches.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)
 
 
 [^1]: Not officially confirmed by game designers, and is therefore considered a Community rule.

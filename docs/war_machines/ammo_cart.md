@@ -1,9 +1,9 @@
-# Ammo Cart
+# Wóz z Amunicją
 
 ![Ammo Cart](../assets/war_machines-ammo_cart.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[War Machine](index.md)</p>
+<p style="text-align: center;" markdown>[Machina Wojenna](index.md)</p>
 ___
 <p style="text-align: center;" markdown>:permanent: Your :unit_ranged: units ignore combat penalties and gain "+2 :initiative:".
 </p>
@@ -11,11 +11,11 @@ ___
 <p style="text-align: center;" markdown>:pay: 5 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 8 :gold: at Trade Post</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Rampart Expansion](../content/rampart_expansion.md)
+- [Rozszerzenie Bastion](../content/rampart_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 - [List of War Machines](index.md)

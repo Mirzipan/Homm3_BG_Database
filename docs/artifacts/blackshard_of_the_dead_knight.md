@@ -9,15 +9,15 @@ ___
 <p style="text-align: center;" markdown>*The widow of a former Captain of the Guard admires your quest and gives you the enchanted Sword that her husband relied on during his tour of duty.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
 - [Rib Cage](rib_cage.md)
 - [Shield of the Yawning Dead](shield_of_the_yawning_dead.md)
 - [Skull Helmet](skull_helmet.md)
 
-- [List of Artifacts](index.md)
+- [Lista Artefaktów](index.md)

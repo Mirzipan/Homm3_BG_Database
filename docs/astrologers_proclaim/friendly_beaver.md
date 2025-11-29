@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
 ___
 <p style="text-align: center;" markdown>If you draw this card on the first Astrologers' round, discard it and draw another card.<br><br>Immediately remove all Black cubes from all locations on the map.</p>
 ___
@@ -15,17 +15,17 @@ ___
 ___
 
 
-## Notes
+## Uwagi
 
 - Only the black cube are removed, the colored faction cubes remain on fields (e.g. mines).
 - A second grail token can not come into play with this card, even if the field with the grail would be made visitable again.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Astrologers Proclaim Cards](index.md)
+- [Lista kart Astrologowie Ogłaszają](index.md)

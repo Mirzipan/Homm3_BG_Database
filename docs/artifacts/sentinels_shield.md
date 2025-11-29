@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You find a large box that seems to be made from some unknown material. When you touch it, the box opens with a load hiss, revealing a gleaming shield within.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
-
-
-## See Also
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

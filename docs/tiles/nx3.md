@@ -7,7 +7,7 @@ Grass
 ___
 
 
-## Fields
+## Pola
 
 - [Ⅴ](../difficulties.md) :gold: [Mine](../fields/mine.md)
 - [Trading Post](../trading.md)
@@ -18,11 +18,11 @@ ___
 - [Ⅳ](../difficulties.md) [Pandora's Box](../fields/pandoras_box.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Tiles](index.md)
+- [Lista Kafelków](index.md)

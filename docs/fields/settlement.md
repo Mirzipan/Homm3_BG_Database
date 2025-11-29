@@ -51,7 +51,7 @@ ___
 ___
 
 
-## See Also
+## Zobacz też
 
 - [List of Fields](index.md)
-- [List of Tiles](../tiles/index.md)
+- [Lista Kafelków](../tiles/index.md)

@@ -18,7 +18,7 @@
 | Abilities | :effect_map: At the end of your turn, move your [Hero's](../heroes/index.md) model to an adjacent empty field. |
 
 
-## Notes
+## Uwagi
 
 - The effect can be used at the end of each of the player's turns, as long as the Nomads are in the player's unit deck (e.g. after being recruited by [Diplomacy](../abilities/diplomacy.md)).
 - After using the :effect_map:, the Nomads are not put away, but stay in the player's unit deck.
@@ -26,12 +26,12 @@
 
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

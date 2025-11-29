@@ -9,19 +9,19 @@ ___
 ___
 
 
-## Notes
+## Uwagi
 
 - If there are multiple units that the shortest path away from the unit under this spell, the player owning the unit decides the direction of movement and the target of the attack.
 - Friendly units can also be attacked by the unit under this spell.
 - The attack of the unit under this spell does trigger a retaliation attack, even if the attacked unit was a friendly one.
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
 - [School of Fire Magic](school_of_fire_magic.md)
 - [List of Spells](index.md)

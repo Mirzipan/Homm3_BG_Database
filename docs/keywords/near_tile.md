@@ -24,10 +24,10 @@ Contains fields with Ⅳ-Ⅴ [difficulty](../difficulties.md).
 - [#N3](../tiles/nx3.md) - [Obelisk](../fields/obelisk.md)
 
 
-## Notes
+## Uwagi
 
 
-## See Also
+## Zobacz też
 
 - [Starting Tile](starting_tile.md)
 - [Far Tile](far_tile.md)

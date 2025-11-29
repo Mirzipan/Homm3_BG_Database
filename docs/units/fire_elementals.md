@@ -26,18 +26,18 @@
 | Abilities | 🚧 | 🚧 |
 
 
-## Notes
+## Uwagi
 
 - Summoned by [Summon Fire Elemental](../spells/summon_fire_elemental.md).
 
 
-## Comes With
+## Pochodzi z
 
 - [Conflux Expansion](../content/conflux_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Spells](../spells/index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Zaklęć](../spells/index.md)
+- [Lista Miast](../towns/index.md)

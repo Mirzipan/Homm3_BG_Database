@@ -19,18 +19,18 @@ ___
 - [:magic: Sephinroth](../heroes/sephinroth.md)
 
 
-## Notes
+## Uwagi
 
 - If both players are resolving cards with effects at the start of the Combat (e.g. playing Intelligence), the attacker (or the player with the initiative token) may resolve their card first.
 - This ability can only be played at the start of the Combat itself, not at the start of any Combat round.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Abilities](index.md)
-- [List of Spells](../spells/index.md)
+- [Lista Zdolności](index.md)
+- [Lista Zaklęć](../spells/index.md)

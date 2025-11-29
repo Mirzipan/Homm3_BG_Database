@@ -32,22 +32,22 @@
 | Abilities | :unit_passive: If the attacker resolves a "+1" on [Attack die](../dice.md#attack-die), gain +1 :defense:. | :unit_passive: If the attacker resolves a "0" or a +1" on [Attack die](../dice.md#attack-die), gain +1 :defense:. | :unit_passive: If the attacker resolves a "0" or a "+1" on an [Attack die](../dice.md#attack-die), gain +1 :defense: |
 
 
-## Heroes With A Specialty
+## Bohaterowie ze Specjalnością
 
 - [:magic: Sandro](../heroes/sandro.md#specialty)
 
 
-## Notes
+## Uwagi
 
 - The ability is triggered when a regular attack is performed against the Zombies, as well as a retaliation attack.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

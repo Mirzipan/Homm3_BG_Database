@@ -5,7 +5,7 @@ search:
 # :unit_ground: Ground Unit
 
 
-## Notes
+## Uwagi
 
 - [^1] Ground units may move up to 3 spaces in Combat on the small battlefield. On the [large battlefield](../content/battlefield_expansion.md), their movement range is equal to their :initiative: value instead.
 - Ground units may move first and then attack during their activation.

@@ -1,4 +1,4 @@
-# Profuse Growth
+# Olbrzymiej Obfitości
 
 <figure markdown="span">
 
@@ -7,19 +7,19 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Until the next Astrologers' round:<br><br>Your hand limit is increased by 1.</p>
+<p style="text-align: center;" markdown>Ten efekt trwa do następnej rundy Astrologów.<br><br>Limit kart na ręce każdego gracza wzrasta o 1.</p>
 ___
-<p style="text-align: center;" markdown>*A horn of plenty spills from your hands into the starved lives of hundreds...*</p>
+<p style="text-align: center;" markdown>*Twe ręce karmią wygłodniałe żywoty mas dobrodzejstwami rogu obfitości...*</p>
 ___
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Astrologers Proclaim Cards](index.md)
+- [Lista kart Astrologowie Ogłaszają](index.md)

@@ -20,17 +20,17 @@ ___
 - [:might: Wystan](../heroes/wystan.md)
 
 
-## Notes
+## Uwagi
 
 - This ability is active during each ranged attack of the Combat round, which means that it applies to both attacks of [Elves](../units/elves.md) and [Marksmen](../units/marksmen.md).
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Abilities](index.md)
+- [Lista Zdolności](index.md)
 - [List of Ranged Units](../keywords/ranged_unit.md)

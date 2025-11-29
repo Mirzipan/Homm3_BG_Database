@@ -40,7 +40,7 @@
 - :magic: [Solmyr](../heroes/solmyr.md)
 
 
-## Units
+## Jednostki
 
 - :bronze: [Gremlins](../units/gremlins.md)
 - :bronze: [Gargoyles](../units/gargoyles.md)
@@ -51,11 +51,11 @@
 - :golden: [Titans](../units/titans.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Towns](../towns/index.md)
+- [Lista Miast](../towns/index.md)

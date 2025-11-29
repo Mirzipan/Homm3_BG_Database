@@ -32,12 +32,12 @@
 | Abilities | :unit_retaliate:This unit can perform an unlimited number of Retaliation Attacks. | :unit_retaliate: This unit can perform an unlimited number of Retaliation Attacks. | :unit_retaliate: This unit can perform and unlimited number of Retaliation Attacks. |
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

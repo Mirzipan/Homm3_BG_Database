@@ -2,7 +2,7 @@
 search:
   exclude: true
 ---
-# List of Towns
+# Lista Miast
 
 | Name | [Content](../content/index.md) |
 | :--- | :--- |
@@ -18,7 +18,7 @@ search:
 | [Cove](cove.md) | [Cove Expansion](../content/cove_expansion.md) |
 
 
-## See Also
+## Zobacz też
 
 - [List of Heroes](../heroes/index.md)
-- [List of Units](../units/index.md)
+- [Lista Jednostek](../units/index.md)

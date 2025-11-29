@@ -9,14 +9,14 @@ ___
 <p style="text-align: center;" markdown>*Taking shelter from a storm in a small cave, you notice a small patch of crystal in one corner. Curious, you discover that the patch is really a cloak, and when you break a piece off it mysteriously grows back. You decide to take the cloak with you.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
 - [Everpouring Vial of Mercury](everpouring_vial_of_mercury.md)
 - [Eversmoking Ring of Sulfur](eversmoking_ring_of_sulfur.md)
 
-- [List of Artifacts](index.md)
+- [Lista Artefaktów](index.md)

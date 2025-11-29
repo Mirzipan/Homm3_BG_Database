@@ -40,13 +40,13 @@ ___
 | Ⅵ | :ongoing: For this Combat, every card you play can grant you +1 :attack: instead of its regular effect. |
 
 
-## Comes With
+## Pochodzi z
 
 - [Stronghold Expansion](../content/stronghold_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Heroes](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Bohaterów](index.md)
+- [Lista Miast](../towns/index.md)
 

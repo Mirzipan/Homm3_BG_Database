@@ -9,14 +9,14 @@ ___
 <p style="text-align: center;" markdown>*🚧*</p>
 
 
-## Comes With
+## Pochodzi z
 
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
-## See Also
+## Zobacz też
 
 - [Everflowing Crystal Cloak](everflowing_crystal_cloak.md)
 - [Everpouring Vial of Mercury](everpouring_vial_of_mercury.md)
 
-- [List of Artifacts](index.md)
+- [Lista Artefaktów](index.md)

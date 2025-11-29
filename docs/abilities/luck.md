@@ -19,18 +19,18 @@ ___
 - [:magic: Melodia](../heroes/melodia.md)
 
 
-## Notes
+## Uwagi
 
 - The expert effect allows to reroll *every* die that the player rolls during their entire turn. This includes every attack die during all of the fights during their turn.
 - This ability may be played during an enemy's turn, only in a fight, and only if the player hero is defending themselves. It can only be played during the activation of a friendly unit.
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Abilities](index.md)
+- [Lista Zdolności](index.md)
 - [Dice](../dice.md)

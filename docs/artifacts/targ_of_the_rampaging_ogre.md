@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You come upon a bridge spanning a dry gully. As you begin to cross, a gigantic, maddened Ogre appears from the other side and charges toward you, forcing you to slay it. You decide to take its shield, as a trophy.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
-
-
-## See Also
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

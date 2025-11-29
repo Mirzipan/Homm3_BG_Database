@@ -1,7 +1,7 @@
 # Permanent Effect
 
 
-## Notes
+## Uwagi
 
 - A card with a permanent effect is played from hand, just like any other card. The cards stays on the field after being played, its effect lasting continuously, and it does not go to the discard pile.
 - The player may decide to put an active permanent card into their discard pile. This stops the card effect immediately.

@@ -1,4 +1,4 @@
-# Battalion's Stallion
+# Ważkiego Ogiera
 
 <figure markdown="span">
 
@@ -7,19 +7,19 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
+<p style="text-align: center;" markdown>[Astrologowie Ogłaszają](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement.</p>
+<p style="text-align: center;" markdown>Ten efekt trwa do następnej rundy Astrologów.<br><br>Każdy Bohater zyskuje 1 PR.</p>
 ___
-<p style="text-align: center;" markdown>*"Yo, Adrienne, I did it!"*</p>
+<p style="text-align: center;" markdown>*Hej, Adrienne, udało mi się!*</p>
 ___
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Astrologers Proclaim Cards](index.md)
+- [Lista kart Astrologowie Ogłaszają](index.md)

@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A chance meeting with a famous Archer finds you in a game of knucklebones pitting his bow against your horse. You win.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Rampart Expansion](../content/rampart_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Bastion](../content/rampart_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

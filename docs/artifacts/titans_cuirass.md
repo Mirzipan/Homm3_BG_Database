@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A Titan stops you and says, "Pay me 5,000 Gold, or I shall slay you where you stand." You refuse. The Titan grabs the sword hanging from his belt, but you duck between his legs. He is so surprised by this maneuver that he trips, falling on his sword and killing himself, instantly. You relieve him of his belongings.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Core Game](../content/core_game.md)
-
-
-## See Also
+- [Pudełko Podstawowe](../content/core_game.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

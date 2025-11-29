@@ -1,0 +1,17 @@
+nav:
+  - Strona Główna: index.md
+  - Zdolności: abilities/index.md
+  - Artefakty: artifacts/index.md
+  - Astrologowie ogłaszają: astrologers-proclaim/index.md
+  - Zawartość: content/index.md
+  - Wydarzenia: events/index.md
+  - Pola: fields/index.md
+  - Bohaterowie: heroes/index.md
+  - Słowa kluczowe: keywords/index.md
+  - Scenariusze: scenarios/index.md
+  - Zaklęcia: spells/index.md
+  - Statystyki: statistics/index.md
+  - Kafelki: tiles/index.md
+  - Miasta: towns/index.md
+  - Jednostki: units/index.md
+  - Machiny Wojenne: war-machines/index.md

@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*A stone statue of a warrior holds a silver shield. As you remove the shield, the statue crumbles into dust.*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Rampart Expansion](../content/rampart_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Bastion](../content/rampart_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)

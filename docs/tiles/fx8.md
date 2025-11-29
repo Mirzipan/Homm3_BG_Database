@@ -7,7 +7,7 @@ Grass
 ___
 
 
-## Fields
+## Pola
 
 - [Shrine of Magic Incantation](../fields/shrine_of_magic_incantation.md)
 - [Stables](../fields/stables.md)
@@ -18,11 +18,11 @@ ___
 - [Temple](../fields/temple.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Tiles](index.md)
+- [Lista Kafelków](index.md)

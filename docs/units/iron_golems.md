@@ -32,17 +32,17 @@
 | Abilities | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells/index.md) by 1 - to a minimum of 0. | :unit_passive: This unit reduces any :damage: it takes from [spells](../spells/index.md) by 2 - to a minimum of 0. | :unit_passive: Reduce any :damage: from [spells](../spells/index.md) by 2 - to a minimum of 0. |
 
 
-## Heroes With A Specialty
+## Bohaterowie ze Specjalnością
 
 - [:might: Josephine](../heroes/josephine.md#specialty)
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

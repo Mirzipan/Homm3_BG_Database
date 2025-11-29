@@ -32,17 +32,17 @@
 | Abilities | - | - | - |
 
 
-## Notes
+## Uwagi
 
 - **Pack** - Only the Pack of Gremlins are a [:unit_ranged:](../keywords/ranged_unit.md). Few Gremlins are a [:unit_ground:](../keywords/ground_unit.md).
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

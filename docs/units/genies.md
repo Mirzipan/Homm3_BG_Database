@@ -32,12 +32,12 @@
 | Abilities | :unit_other: Discard 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: Discard up to 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: When attacking [Efreet](efreet.md), this unit gains +1 :attack:. |
 
 
-## Heroes With A Specialty
+## Bohaterowie ze Specjalnością
 
 - [:might: Iona](../heroes/iona.md#specialty)
 
 
-## Notes
+## Uwagi
 
 - **Few** - Should the Genies use their [alternative action](../keywords/alternative_action.md), they are not allowed to move, attack or defend.
 - **Few** - Exactly 3 cards are discarded from the deck.
@@ -45,12 +45,12 @@
 - **Few and Pack** - Should there not be enough cards to discard from the deck, the cards already discarded by the currently resolving ability are used to form the new discard pile. The old discard pile is then shuffled back into deck, and the remaining cards are discarded. The [spell](../spells/index.md) is then taken from the discarded cards.
 
 
-## Comes With
+## Pochodzi z
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rozszerzenie Forteca](../content/tower_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Units](index.md)
-- [List of Towns](../towns/index.md)
+- [Lista Jednostek](index.md)
+- [Lista Miast](../towns/index.md)

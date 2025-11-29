@@ -18,12 +18,12 @@ ___
 - [:magic: Ash](../heroes/ash.md)
 
 
-## Comes With
+## Pochodzi z
 
-- [Fortress Expansion](../content/fortress_expansion.md)
+- [Rozszerzenie Cytadela](../content/fortress_expansion.md)
 
 
-## See Also
+## Zobacz też
 
-- [List of Abilities](index.md)
-- [List of Spells](../spells/index.md)
+- [Lista Zdolności](index.md)
+- [Lista Zaklęć](../spells/index.md)

@@ -5,7 +5,7 @@ search:
 # :unit_ranged: Ranged Unit
 
 
-## Notes
+## Uwagi
 
 - [^1] Ranged units may move up to 1 space in Combat on the small battlefield. On the [large battlefield](../content/battlefield_expansion.md), their movement range is equal to their :initiative: value instead.
 - [^1] Ranged units may attack first, and then move. On the [large battlefield](../content/battlefield_expansion.md) they can either move or attack.

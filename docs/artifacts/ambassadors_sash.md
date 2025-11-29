@@ -9,12 +9,12 @@ ___
 <p style="text-align: center;" markdown>*You pause to help a diplomat with a broken axle to fix his problem. In gratitude, he gives you a sash with magical properties which he says will, "help people see things your way."*</p>
 
 
-## Comes With
+## Pochodzi z
 
-- [Rampart Expansion](../content/rampart_expansion.md)
-
-
-## See Also
+- [Rozszerzenie Bastion](../content/rampart_expansion.md)
 
 
-- [List of Artifacts](index.md)
+## Zobacz też
+
+
+- [Lista Artefaktów](index.md)
