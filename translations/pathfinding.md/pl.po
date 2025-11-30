@@ -565,7 +565,7 @@ msgstr ""
 #: docs/abilities/pathfinding.md
 #, no-wrap
 msgid "Pathfinding"
-msgstr "Tropicielstwo"
+msgstr "Znajdowanie Drogi"
 
 #. type: Plain text
 #: docs/abilities/pathfinding.md

@@ -561,7 +561,7 @@ msgstr ""
 #: docs/abilities/scholar.md docs/fields/scholar.md
 #, no-wrap
 msgid "Scholar"
-msgstr "Uczony"
+msgstr "Nauka Czarów"
 
 #. type: Plain text
 #: docs/abilities/scholar.md
