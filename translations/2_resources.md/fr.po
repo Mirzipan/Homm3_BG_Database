@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-21 16:09+0000\n"
-"PO-Revision-Date: 2024-10-21 16:09+0000\n"
+"PO-Revision-Date: 2025-11-30 21:31+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -253,7 +254,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr ""
+msgstr "Voir aussi"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -316,7 +317,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -379,18 +380,18 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Title #
 #: docs/fields/2_resources.md
 #, no-wrap
 msgid "2 Resources"
-msgstr ""
+msgstr "2 Ressources"
 
 #. type: Plain text
 #: docs/fields/2_resources.md
 msgid "![2 Resources Map Location](../assets/locations-resource_symbol.webp){ width=\"475\" align=right }"
-msgstr ""
+msgstr "![Symbole 2 ressources](../assets/locations-resource_symbol.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -407,13 +408,13 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keywords/visitable_field.md)</p>\n"
 
 #. type: Plain text
 #: docs/fields/2_resources.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Roll 2 [Resource Dice](../dice.md#resource-die) and choose the bonus from one of them.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Lancez 2 [Dés de ressource](../dice.md#resource-die) puis choisissez un résultat.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -434,7 +435,7 @@ msgstr ""
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 msgid "[List of Fields](index.md)"
-msgstr ""
+msgstr "[Liste des sites](index.md)"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -455,4 +456,4 @@ msgstr ""
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 msgid "[List of Tiles](../tiles/index.md)"
-msgstr ""
+msgstr "[Liste des tuiles](../tiles/index.md)"
