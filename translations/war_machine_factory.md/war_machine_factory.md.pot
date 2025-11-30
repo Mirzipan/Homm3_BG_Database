@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 09:10+0000\n"
+"POT-Creation-Date: 2025-11-29 10:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -444,8 +444,8 @@ msgstr ""
 #. type: Plain text
 #: docs/fields/war_machine_factory.md
 msgid ""
-"![War Machine Factory Map Location](../assets/locations-war_machine_factory."
-"webp){ width=\"475\" align=right }"
+"![War Machine Factory Map Location](../assets/locations-"
+"war_machine_factory.webp){ width=\"475\" align=right }"
 msgstr ""
 
 #. type: Plain text
