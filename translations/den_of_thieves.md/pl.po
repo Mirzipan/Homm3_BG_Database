@@ -570,7 +570,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/den_of_thieves.md
 #, no-wrap
 msgid "Den of Thieves"
-msgstr "Kryjówka Złodziei"
+msgstr "Zbójecka Kryjówka"
 
 #. type: Plain text
 #: docs/events/den_of_thieves.md

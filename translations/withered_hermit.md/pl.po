@@ -567,7 +567,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/withered_hermit.md
 #, no-wrap
 msgid "Withered Hermit"
-msgstr "Zwiędły Pustelnik"
+msgstr "Pomarszczony Pustelnik"
 
 #. type: Plain text
 #: docs/events/withered_hermit.md

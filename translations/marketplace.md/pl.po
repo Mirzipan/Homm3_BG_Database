@@ -555,7 +555,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/marketplace.md
 #, no-wrap
 msgid "Marketplace"
-msgstr "Rynek"
+msgstr "Targowisko"
 
 #. type: Plain text
 #: docs/events/marketplace.md

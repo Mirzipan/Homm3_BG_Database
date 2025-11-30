@@ -686,7 +686,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/events/market_of_time.md docs/fields/market_of_time.md
 #, no-wrap
 msgid "Market of Time"
-msgstr "Rynek Czasu"
+msgstr "Jarmark Czasu"
 
 #. type: Plain text
 #: docs/events/market_of_time.md

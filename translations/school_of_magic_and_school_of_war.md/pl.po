@@ -555,7 +555,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/school_of_magic_and_school_of_war.md
 #, no-wrap
 msgid "School of Magic and School of War"
-msgstr "Szkoła Magii i Szkoła Wojny"
+msgstr "Szkoła Magii i Akademia Wojskowa"
 
 #. type: Plain text
 #: docs/events/school_of_magic_and_school_of_war.md
