@@ -1,13 +1,8 @@
-
 name: Publish localized site
 on:
   push:
     branches:
       - main
-  pull_request:  # To be deleted before merging
-    branches:
-      - main
-
 
 env:
   SITE_URL: homm3bg.wiki
