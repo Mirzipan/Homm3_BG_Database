@@ -1,0 +1,37 @@
+nav:
+  - "index.md"
+  - "legend.md"
+  - "*.md"
+  - Artefakty:
+     - "artifacts/*.md"
+  - Astrologowie ogłaszają:
+     - "astrologers_proclaim/*.md"
+  - Bohaterowie:
+     - "heroes/*.md"
+  - Handel: "trading.md"
+  - Jednostki:
+     - "units/*.md"
+  - Kafelki:
+     - "tiles/*.md"
+  - Kości: "dice.md"
+  - Machiny Wojenne:
+     - "war_machines/*.md"
+  - Miasta:
+     - "towns/*.md"
+  - Pola:
+     - "fields/*.md"
+  - Scenariusze:
+     - "scenarios/*.md"
+  - Statystyki:
+     - "statistics/*.md"
+  - Słowa kluczowe:
+     - "keywords/*.md"
+  - Tabela trudności: "difficulties.md"
+  - Wydarzenia:
+     - "events/*.md"
+  - Zaklęcia:
+     - "spells/*.md"
+  - Zawartość:
+     - "content/*.md"
+  - Zdolności:
+     - "abilities/*.md"

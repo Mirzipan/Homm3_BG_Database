@@ -1,0 +1,35 @@
+# This file is a stub for localized navigation
+# It is suggested to maintain alphabetical order in localized versions
+# See navigation.pl.yml as an example
+nav:
+  - "*.md"
+  - Abilities:
+     - "abilities/*.md"
+  - Artifacts:
+     - "artifacts/*.md"
+  - Astrologers Proclaim:
+     - "astrologers_proclaim/*.md"
+  - Content:
+     - "content/*.md"
+  - Events:
+     - "events/*.md"
+  - Fields:
+     - "fields/*.md"
+  - Heroes:
+     - "heroes/*.md"
+  - Keywords:
+     - "keywords/*.md"
+  - Scenarios:
+     - "scenarios/*.md"
+  - Spels:
+     - "spells/*.md"
+  - Statistics:
+     - "statistics/*.md"
+  - Tiles:
+     - "tiles/*.md"
+  - Towns:
+     - "towns/*.md"
+  - Units:
+     - "units/*.md"
+  - War Machines:
+     - "war_machines/*.md"

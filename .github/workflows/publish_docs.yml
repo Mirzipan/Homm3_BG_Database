@@ -13,13 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - name: Run po4a
-        uses: qwrtln/po4a-action@v1.3
-        with:
-          version: "0.74"
-          config: "po4a.cfg"
-          args: "--no-update"
-
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]
@@ -29,7 +22,7 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Set cache id #This step is created with cache_id so that it can be referenced in the next step (fix Warning)
+      - name: Set cache id # This step is created with cache_id so that it can be referenced in the next step (fix Warning)
         id: set_cache_id
         run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_OUTPUT
 
@@ -45,6 +38,6 @@ jobs:
 
       - run: pip install mkdocs-material \
                mkdocs-exclude-search \
-               mkdocs-static-i18n
+               mkdocs-awesome-nav
 
       - run: mkdocs gh-deploy --force

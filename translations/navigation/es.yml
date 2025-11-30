@@ -1,0 +1,32 @@
+nav:
+  - "*.md"
+  - Artefactos:
+     - "artifacts/*.md"
+  - Ciudades:
+     - "towns/*.md"
+  - Contenido:
+     - "content/*.md"
+  - Escenarios:
+     - "scenarios/*.md"
+  - Estadísticas:
+     - "statistics/*.md"
+  - Eventos:
+     - "events/*.md"
+  - Habilidades:
+     - "abilities/*.md"
+  - Hechizos:
+     - "spells/*.md"
+  - Héroes:
+     - "heroes/*.md"
+  - Losetas:
+     - "tiles/*.md"
+  - Máquinas de Guerra:
+     - "war_machines/*.md"
+  - Palabras Clave:
+     - "keywords/*.md"
+  - Proclama de los Astrólogos:
+     - "astrologers_proclaim/*.md"
+  - Unidades:
+     - "units/*.md"
+  - Zonas:
+     - "fields/*.md"
