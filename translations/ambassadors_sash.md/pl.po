@@ -428,7 +428,7 @@ msgstr "[Rozszerzenie Bastion](../content/rampart_expansion.md)"
 #: docs/artifacts/ambassadors_sash.md
 #, no-wrap
 msgid "Ambassador's Sash"
-msgstr ""
+msgstr "Szarfa Ambasadora"
 
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md

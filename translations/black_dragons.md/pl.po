@@ -756,7 +756,7 @@ msgstr ""
 #: docs/units/black_dragons.md
 #, no-wrap
 msgid "Black Dragons"
-msgstr ""
+msgstr "Czarne Smoki"
 
 #. type: Plain text
 #: docs/units/black_dragons.md

@@ -729,7 +729,7 @@ msgstr ""
 #: docs/spells/inferno.md docs/towns/inferno.md
 #, no-wrap
 msgid "Inferno"
-msgstr ""
+msgstr "Piekielny Ogień"
 
 #. type: Plain text
 #: docs/spells/inferno.md

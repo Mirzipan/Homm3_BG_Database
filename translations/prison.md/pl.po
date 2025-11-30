@@ -663,7 +663,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/prison.md docs/fields/prison.md
 #, no-wrap
 msgid "Prison"
-msgstr ""
+msgstr "Więzienie"
 
 #. type: Plain text
 #: docs/events/prison.md

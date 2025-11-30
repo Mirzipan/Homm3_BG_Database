@@ -593,7 +593,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/the_villagers_plea.md
 #, no-wrap
 msgid "The Villagers' Plea"
-msgstr ""
+msgstr "Prośba Wieśniaków"
 
 #. type: Plain text
 #: docs/events/the_villagers_plea.md

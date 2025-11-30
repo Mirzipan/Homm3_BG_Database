@@ -530,7 +530,7 @@ msgstr ""
 #: docs/spells/counterstrike.md
 #, no-wrap
 msgid "Counterstrike"
-msgstr ""
+msgstr "Kontratak"
 
 #. type: Plain text
 #: docs/spells/counterstrike.md

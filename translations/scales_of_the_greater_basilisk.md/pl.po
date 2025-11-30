@@ -585,7 +585,7 @@ msgstr ""
 #: docs/artifacts/scales_of_the_greater_basilisk.md
 #, no-wrap
 msgid "Scales of the Greater Basilisk"
-msgstr ""
+msgstr "Łuski Wielkiego Bazyliszka"
 
 #. type: Plain text
 #: docs/artifacts/scales_of_the_greater_basilisk.md

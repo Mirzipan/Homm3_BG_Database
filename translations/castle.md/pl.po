@@ -673,7 +673,7 @@ msgstr ""
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Castle"
-msgstr ""
+msgstr "Zamek"
 
 #. type: Title ##
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md

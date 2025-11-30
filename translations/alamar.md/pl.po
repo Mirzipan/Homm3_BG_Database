@@ -666,7 +666,7 @@ msgstr ""
 #: docs/heroes/alamar.md
 #, no-wrap
 msgid "Alamar"
-msgstr ""
+msgstr "Alamar"
 
 #. type: Plain text
 #: docs/heroes/alamar.md

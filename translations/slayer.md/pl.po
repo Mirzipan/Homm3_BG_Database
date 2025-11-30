@@ -475,7 +475,7 @@ msgstr ""
 #: docs/spells/slayer.md
 #, no-wrap
 msgid "Slayer"
-msgstr ""
+msgstr "Zabójca"
 
 #. type: Plain text
 #: docs/spells/slayer.md

@@ -702,7 +702,7 @@ msgstr ""
 #: docs/units/elves.md
 #, no-wrap
 msgid "Elves"
-msgstr ""
+msgstr "Elfy"
 
 #. type: Plain text
 #: docs/units/elves.md

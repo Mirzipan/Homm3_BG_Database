@@ -552,7 +552,7 @@ msgstr ""
 #: docs/artifacts/titans_gladius.md
 #, no-wrap
 msgid "Titan's Gladius"
-msgstr ""
+msgstr "Gladius Tytana"
 
 #. type: Plain text
 #: docs/artifacts/titans_gladius.md

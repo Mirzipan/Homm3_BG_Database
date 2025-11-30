@@ -321,7 +321,7 @@ msgstr ""
 #: docs/keywords/minor_artifact.md
 #, no-wrap
 msgid "Minor Artifact"
-msgstr ""
+msgstr "Artefakt Pomniejszy"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md

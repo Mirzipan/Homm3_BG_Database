@@ -660,7 +660,7 @@ msgstr ""
 #: docs/artifacts/loins_of_legion.md
 #, no-wrap
 msgid "Loins of Legion"
-msgstr ""
+msgstr "Biodra Legionu"
 
 #. type: Plain text
 #: docs/artifacts/loins_of_legion.md

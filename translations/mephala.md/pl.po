@@ -572,7 +572,7 @@ msgstr ""
 #: docs/heroes/mephala.md
 #, no-wrap
 msgid "Mephala"
-msgstr ""
+msgstr "Mephala"
 
 #. type: Plain text
 #: docs/heroes/mephala.md

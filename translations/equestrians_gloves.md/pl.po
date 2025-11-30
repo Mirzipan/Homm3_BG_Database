@@ -515,7 +515,7 @@ msgstr ""
 #: docs/artifacts/equestrians_gloves.md
 #, no-wrap
 msgid "Equestrian's Gloves"
-msgstr ""
+msgstr "Rękawice Jeźdźca"
 
 #. type: Plain text
 #: docs/artifacts/equestrians_gloves.md

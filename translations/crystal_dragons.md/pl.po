@@ -665,7 +665,7 @@ msgstr ""
 #: docs/units/crystal_dragons.md
 #, no-wrap
 msgid "Crystal Dragons"
-msgstr ""
+msgstr "Kryształowe Smoki"
 
 #. type: Plain text
 #: docs/units/crystal_dragons.md

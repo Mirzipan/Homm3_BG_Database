@@ -703,7 +703,7 @@ msgstr ""
 #: docs/towns/necropolis.md
 #, no-wrap
 msgid "Necropolis"
-msgstr ""
+msgstr "Nekropolia"
 
 #. type: Plain text
 #: docs/towns/necropolis.md

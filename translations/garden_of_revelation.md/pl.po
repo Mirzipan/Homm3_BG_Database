@@ -576,7 +576,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/garden_of_revelation.md
 #, no-wrap
 msgid "Garden of Revelation"
-msgstr ""
+msgstr "Ogród Objawienia"
 
 #. type: Plain text
 #: docs/events/garden_of_revelation.md

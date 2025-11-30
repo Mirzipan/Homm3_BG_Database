@@ -640,7 +640,7 @@ msgstr ""
 #: docs/heroes/zilare.md
 #, no-wrap
 msgid "Zilare"
-msgstr ""
+msgstr "Zilare"
 
 #. type: Plain text
 #: docs/heroes/zilare.md

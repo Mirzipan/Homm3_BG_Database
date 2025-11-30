@@ -626,4 +626,4 @@ msgstr ""
 #: docs/tiles/fx6.md
 #, no-wrap
 msgid "#F6"
-msgstr ""
+msgstr "#F6"

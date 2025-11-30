@@ -20,7 +20,7 @@ msgstr ""
 #: docs/abilities/air_magic.md
 #, no-wrap
 msgid "Air Magic"
-msgstr ""
+msgstr "Magia Powietrza"
 
 #. type: Plain text
 #: docs/abilities/air_magic.md

@@ -604,7 +604,7 @@ msgstr ""
 #: docs/units/ogres.md
 #, no-wrap
 msgid "Ogres"
-msgstr ""
+msgstr "Ogry"
 
 #. type: Plain text
 #: docs/units/ogres.md

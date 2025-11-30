@@ -563,7 +563,7 @@ msgstr ""
 #: docs/artifacts/inexhaustible_cart_of_lumber.md
 #, no-wrap
 msgid "Inexhaustible Cart of Lumber"
-msgstr ""
+msgstr "Niewyczerpany Wóz Drewna"
 
 #. type: Plain text
 #: docs/artifacts/inexhaustible_cart_of_lumber.md

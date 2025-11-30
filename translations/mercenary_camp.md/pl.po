@@ -570,7 +570,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/mercenary_camp.md
 #, no-wrap
 msgid "Mercenary Camp"
-msgstr ""
+msgstr "Obóz Najemników"
 
 #. type: Plain text
 #: docs/events/mercenary_camp.md

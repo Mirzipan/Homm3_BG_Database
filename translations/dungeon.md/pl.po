@@ -703,7 +703,7 @@ msgstr ""
 #: docs/towns/dungeon.md
 #, no-wrap
 msgid "Dungeon"
-msgstr ""
+msgstr "Lochy"
 
 #. type: Plain text
 #: docs/towns/dungeon.md

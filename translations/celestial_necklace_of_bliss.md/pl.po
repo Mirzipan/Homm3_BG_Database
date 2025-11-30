@@ -475,7 +475,7 @@ msgstr ""
 #: docs/artifacts/celestial_necklace_of_bliss.md
 #, no-wrap
 msgid "Celestial Necklace of Bliss"
-msgstr ""
+msgstr "Niebiański Naszyjnik Błogości"
 
 #. type: Plain text
 #: docs/artifacts/celestial_necklace_of_bliss.md

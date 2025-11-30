@@ -470,7 +470,7 @@ msgstr ""
 #: docs/spells/sacrifice.md
 #, no-wrap
 msgid "Sacrifice"
-msgstr ""
+msgstr "Ofiara"
 
 #. type: Plain text
 #: docs/spells/sacrifice.md

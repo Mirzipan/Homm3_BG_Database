@@ -605,7 +605,7 @@ msgstr ""
 #: docs/units/nix.md
 #, no-wrap
 msgid "Nix"
-msgstr ""
+msgstr "Niksy"
 
 #. type: Plain text
 #: docs/units/nix.md

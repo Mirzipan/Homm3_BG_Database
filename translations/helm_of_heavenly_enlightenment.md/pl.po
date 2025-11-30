@@ -507,7 +507,7 @@ msgstr ""
 #: docs/artifacts/helm_of_heavenly_enlightenment.md
 #, no-wrap
 msgid "Helm of Heavenly Enlightenment"
-msgstr ""
+msgstr "Hełm Niebiańskiego Oświecenia"
 
 #. type: Plain text
 #: docs/artifacts/helm_of_heavenly_enlightenment.md

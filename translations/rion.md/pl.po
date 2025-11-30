@@ -639,7 +639,7 @@ msgstr ""
 #: docs/heroes/rion.md
 #, no-wrap
 msgid "Rion"
-msgstr ""
+msgstr "Rion"
 
 #. type: Plain text
 #: docs/heroes/rion.md

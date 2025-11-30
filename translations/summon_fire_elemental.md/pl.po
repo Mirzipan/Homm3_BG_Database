@@ -484,7 +484,7 @@ msgstr ""
 #: docs/spells/summon_fire_elemental.md
 #, no-wrap
 msgid "Summon Fire Elemental"
-msgstr ""
+msgstr "Przyzwanie Żywiołaka Ognia"
 
 #. type: Plain text
 #: docs/spells/summon_fire_elemental.md

@@ -583,7 +583,7 @@ msgstr "[Lista Bohaterów](index.md)"
 #: docs/heroes/crag_hack.md
 #, no-wrap
 msgid "Crag Hack"
-msgstr ""
+msgstr "Crag Hack"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md

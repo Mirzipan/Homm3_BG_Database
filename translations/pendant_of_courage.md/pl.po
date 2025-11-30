@@ -518,7 +518,7 @@ msgstr ""
 #: docs/artifacts/pendant_of_courage.md
 #, no-wrap
 msgid "Pendant of Courage"
-msgstr ""
+msgstr "Wisiorek Odwagi"
 
 #. type: Plain text
 #: docs/artifacts/pendant_of_courage.md

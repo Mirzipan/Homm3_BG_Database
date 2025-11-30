@@ -605,7 +605,7 @@ msgstr ""
 #: docs/units/oceanids.md
 #, no-wrap
 msgid "Oceanids"
-msgstr ""
+msgstr "Oceanidy"
 
 #. type: Plain text
 #: docs/units/oceanids.md

@@ -560,7 +560,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/ogres_club_of_havoc.md
 #, no-wrap
 msgid "Ogre's Club of Havoc"
-msgstr ""
+msgstr "Maczuga Ogra Spustoszenia"
 
 #. type: Plain text
 #: docs/artifacts/ogres_club_of_havoc.md

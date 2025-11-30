@@ -609,7 +609,7 @@ msgstr ""
 #: docs/units/magma_elementals.md
 #, no-wrap
 msgid "Magma Elementals"
-msgstr ""
+msgstr "Żywiołaki Magmy"
 
 #. type: Plain text
 #: docs/units/magma_elementals.md

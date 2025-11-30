@@ -577,7 +577,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/keywords/water_tile.md
 #, no-wrap
 msgid "Water Tile"
-msgstr ""
+msgstr "Pole Wodne"
 
 #. type: Title ##
 #: docs/keywords/water_tile.md

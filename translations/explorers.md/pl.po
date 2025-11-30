@@ -658,7 +658,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/explorers.md
 #, no-wrap
 msgid "Explorers"
-msgstr ""
+msgstr "Odkrywcy"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/explorers.md

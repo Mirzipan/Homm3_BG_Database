@@ -515,7 +515,7 @@ msgstr ""
 #: docs/artifacts/eversmoking_ring_of_sulfur.md
 #, no-wrap
 msgid "Eversmoking Ring of Sulfur"
-msgstr ""
+msgstr "Wiecznie Dymiący Pierścień Siarki"
 
 #. type: Plain text
 #: docs/artifacts/eversmoking_ring_of_sulfur.md

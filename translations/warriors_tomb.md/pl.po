@@ -445,7 +445,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/warriors_tomb.md
 #, no-wrap
 msgid "Warrior's Tomb"
-msgstr ""
+msgstr "Grobowiec Wojownika"
 
 #. type: Plain text
 #: docs/fields/warriors_tomb.md

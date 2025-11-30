@@ -445,7 +445,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/redwood_observatory.md
 #, no-wrap
 msgid "Redwood Observatory"
-msgstr ""
+msgstr "Obserwatorium Sekwoi"
 
 #. type: Plain text
 #: docs/fields/redwood_observatory.md

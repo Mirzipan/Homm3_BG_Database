@@ -664,7 +664,7 @@ msgstr ""
 #: docs/tiles/s3.md
 #, no-wrap
 msgid "S3"
-msgstr ""
+msgstr "S3"
 
 #. type: Bullet: '- '
 #: docs/tiles/s3.md

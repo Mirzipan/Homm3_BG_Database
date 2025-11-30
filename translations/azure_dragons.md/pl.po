@@ -642,7 +642,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/azure_dragons.md
 #, no-wrap
 msgid "Azure Dragons"
-msgstr ""
+msgstr "Błękitne Smoki"
 
 #. type: Plain text
 #: docs/units/azure_dragons.md

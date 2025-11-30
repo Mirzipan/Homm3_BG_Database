@@ -616,7 +616,7 @@ msgstr ""
 #: docs/towns/conflux.md
 #, no-wrap
 msgid "Conflux"
-msgstr ""
+msgstr "Conflux"
 
 #. type: Plain text
 #: docs/towns/conflux.md

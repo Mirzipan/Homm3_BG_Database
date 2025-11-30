@@ -582,7 +582,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/arch_devils.md
 #, no-wrap
 msgid "Arch Devils"
-msgstr ""
+msgstr "Arcydiabły"
 
 #. type: Plain text
 #: docs/units/arch_devils.md

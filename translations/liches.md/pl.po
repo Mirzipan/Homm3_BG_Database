@@ -758,7 +758,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/liches.md
 #, no-wrap
 msgid "Liches"
-msgstr ""
+msgstr "Lisze"
 
 #. type: Plain text
 #: docs/units/liches.md

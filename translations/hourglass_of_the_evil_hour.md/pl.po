@@ -563,7 +563,7 @@ msgstr ""
 #: docs/artifacts/hourglass_of_the_evil_hour.md
 #, no-wrap
 msgid "Hourglass of the Evil Hour"
-msgstr ""
+msgstr "Klepsydra Złej Godziny"
 
 #. type: Plain text
 #: docs/artifacts/hourglass_of_the_evil_hour.md

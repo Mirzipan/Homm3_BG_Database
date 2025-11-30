@@ -579,7 +579,7 @@ msgstr ""
 #: docs/spells/blind.md
 #, no-wrap
 msgid "Blind"
-msgstr ""
+msgstr "Oślepienie"
 
 #. type: Plain text
 #: docs/spells/blind.md

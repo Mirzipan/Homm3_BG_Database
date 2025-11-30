@@ -682,4 +682,4 @@ msgstr ""
 #: docs/tiles/f5.md
 #, no-wrap
 msgid "F5"
-msgstr ""
+msgstr "F5"

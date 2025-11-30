@@ -75,7 +75,7 @@ msgstr "Uwagi"
 #: docs/keywords/paralysis.md
 #, no-wrap
 msgid ":paralysis: Paralysis"
-msgstr ""
+msgstr ":paralysis: Paraliż"
 
 #. type: Bullet: '- '
 #: docs/keywords/paralysis.md

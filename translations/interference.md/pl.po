@@ -479,7 +479,7 @@ msgstr ""
 #: docs/abilities/interference.md
 #, no-wrap
 msgid "Interference"
-msgstr ""
+msgstr "Zakłócanie"
 
 #. type: Plain text
 #: docs/abilities/interference.md

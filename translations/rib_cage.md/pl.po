@@ -575,7 +575,7 @@ msgstr ""
 #: docs/artifacts/rib_cage.md
 #, no-wrap
 msgid "Rib Cage"
-msgstr ""
+msgstr "Klatka Piersiowa"
 
 #. type: Plain text
 #: docs/artifacts/rib_cage.md

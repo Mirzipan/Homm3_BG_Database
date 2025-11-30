@@ -97,7 +97,7 @@ msgstr ""
 #: docs/keywords/ground_unit.md
 #, no-wrap
 msgid ":unit_ground: Ground Unit"
-msgstr ""
+msgstr ":unit_ground: Jednostka Naziemna"
 
 #. type: Bullet: '- '
 #: docs/keywords/ground_unit.md

@@ -560,7 +560,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/vial_of_lifeblood.md
 #, no-wrap
 msgid "Vial of Lifeblood"
-msgstr ""
+msgstr "Fiolka Krwi Życia"
 
 #. type: Plain text
 #: docs/artifacts/vial_of_lifeblood.md

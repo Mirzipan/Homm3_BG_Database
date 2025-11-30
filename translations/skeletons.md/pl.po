@@ -748,7 +748,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/skeletons.md
 #, no-wrap
 msgid "Skeletons"
-msgstr ""
+msgstr "Szkielety"
 
 #. type: Plain text
 #: docs/units/skeletons.md

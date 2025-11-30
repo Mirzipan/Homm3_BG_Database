@@ -813,7 +813,7 @@ msgstr ""
 #: docs/units/wraiths.md
 #, no-wrap
 msgid "Wraiths"
-msgstr ""
+msgstr "Upiory"
 
 #. type: Plain text
 #: docs/units/wraiths.md

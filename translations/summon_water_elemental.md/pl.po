@@ -482,7 +482,7 @@ msgstr ""
 #: docs/spells/summon_water_elemental.md
 #, no-wrap
 msgid "Summon Water Elemental"
-msgstr ""
+msgstr "Przyzwanie Żywiołaka Wody"
 
 #. type: Plain text
 #: docs/spells/summon_water_elemental.md

@@ -632,7 +632,7 @@ msgstr ""
 #: docs/artifacts/blackshard_of_the_dead_knight.md
 #, no-wrap
 msgid "Blackshard of the Dead Knight"
-msgstr ""
+msgstr "Czarny Oścień Martwego Rycerza"
 
 #. type: Plain text
 #: docs/artifacts/blackshard_of_the_dead_knight.md

@@ -572,7 +572,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/shrine_of_the_magic_thought.md
 #, no-wrap
 msgid "Shrine of the Magic Thought"
-msgstr ""
+msgstr "Sanktuarium Magicznej Myśli"
 
 #. type: Plain text
 #: docs/events/shrine_of_the_magic_thought.md

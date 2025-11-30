@@ -558,7 +558,7 @@ msgstr ""
 #: docs/heroes/gem.md
 #, no-wrap
 msgid "Gem"
-msgstr ""
+msgstr "Gem"
 
 #. type: Plain text
 #: docs/heroes/gem.md

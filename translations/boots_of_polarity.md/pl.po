@@ -504,7 +504,7 @@ msgstr ""
 #: docs/artifacts/boots_of_polarity.md
 #, no-wrap
 msgid "Boots of Polarity"
-msgstr ""
+msgstr "Buty Polarności"
 
 #. type: Plain text
 #: docs/artifacts/boots_of_polarity.md

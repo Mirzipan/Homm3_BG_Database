@@ -612,7 +612,7 @@ msgstr ""
 #: docs/towns/stronghold.md
 #, no-wrap
 msgid "Stronghold"
-msgstr ""
+msgstr "Twierdza"
 
 #. type: Plain text
 #: docs/towns/stronghold.md

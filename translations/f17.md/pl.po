@@ -612,4 +612,4 @@ msgstr ""
 #: docs/tiles/f17.md
 #, no-wrap
 msgid "F17"
-msgstr ""
+msgstr "F17"

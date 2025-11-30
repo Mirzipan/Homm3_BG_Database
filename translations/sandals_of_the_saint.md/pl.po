@@ -503,7 +503,7 @@ msgstr ""
 #: docs/artifacts/sandals_of_the_saint.md
 #, no-wrap
 msgid "Sandals of the Saint"
-msgstr ""
+msgstr "Sandały Świętego"
 
 #. type: Plain text
 #: docs/artifacts/sandals_of_the_saint.md

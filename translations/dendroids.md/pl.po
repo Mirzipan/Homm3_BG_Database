@@ -627,7 +627,7 @@ msgstr ""
 #: docs/units/dendroids.md
 #, no-wrap
 msgid "Dendroids"
-msgstr ""
+msgstr "Dendroidy"
 
 #. type: Plain text
 #: docs/units/dendroids.md

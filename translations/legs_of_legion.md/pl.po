@@ -653,7 +653,7 @@ msgstr ""
 #: docs/artifacts/legs_of_legion.md
 #, no-wrap
 msgid "Legs of Legion"
-msgstr ""
+msgstr "Nogi Legionu"
 
 #. type: Plain text
 #: docs/artifacts/legs_of_legion.md

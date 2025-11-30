@@ -428,7 +428,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/dragon_utopia.md
 #, no-wrap
 msgid "Dragon Utopia"
-msgstr ""
+msgstr "Smocza Utopia"
 
 #. type: Plain text
 #: docs/fields/dragon_utopia.md

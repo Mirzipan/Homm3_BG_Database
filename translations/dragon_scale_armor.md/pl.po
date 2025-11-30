@@ -582,7 +582,7 @@ msgstr ""
 #: docs/artifacts/dragon_scale_armor.md
 #, no-wrap
 msgid "Dragon Scale Armor"
-msgstr ""
+msgstr "Zbroja z Łuski Smoka"
 
 #. type: Plain text
 #: docs/artifacts/dragon_scale_armor.md

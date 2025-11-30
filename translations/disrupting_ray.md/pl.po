@@ -530,7 +530,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/disrupting_ray.md
 #, no-wrap
 msgid "Disrupting Ray"
-msgstr ""
+msgstr "Promień Rozpraszający"
 
 #. type: Plain text
 #: docs/spells/disrupting_ray.md

@@ -515,7 +515,7 @@ msgstr ""
 #: docs/artifacts/helm_of_the_alabaster_unicorn.md
 #, no-wrap
 msgid "Helm of the Alabaster Unicorn"
-msgstr ""
+msgstr "Hełm Alabastrowego Jednorożca"
 
 #. type: Plain text
 #: docs/artifacts/helm_of_the_alabaster_unicorn.md

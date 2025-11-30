@@ -436,7 +436,7 @@ msgstr ""
 #: docs/fields/sanctuary.md
 #, no-wrap
 msgid "Sanctuary"
-msgstr ""
+msgstr "Sanktuarium"
 
 #. type: Plain text
 #: docs/fields/sanctuary.md

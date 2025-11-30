@@ -473,7 +473,7 @@ msgstr ""
 #: docs/spells/mirth.md
 #, no-wrap
 msgid "Mirth"
-msgstr ""
+msgstr "Wesołość"
 
 #. type: Plain text
 #: docs/spells/mirth.md

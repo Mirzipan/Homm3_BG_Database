@@ -248,7 +248,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/statistics/power.md
 #, no-wrap
 msgid "Power"
-msgstr ""
+msgstr "Moc"
 
 #. type: Plain text
 #: docs/statistics/power.md

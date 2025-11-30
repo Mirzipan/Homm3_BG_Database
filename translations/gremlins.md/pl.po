@@ -685,7 +685,7 @@ msgstr ""
 #: docs/units/gremlins.md
 #, no-wrap
 msgid "Gremlins"
-msgstr ""
+msgstr "Gremliny"
 
 #. type: Plain text
 #: docs/units/gremlins.md

@@ -529,7 +529,7 @@ msgstr ""
 #: docs/spells/bloodlust.md
 #, no-wrap
 msgid "Bloodlust"
-msgstr ""
+msgstr "Żądza Krwi"
 
 #. type: Plain text
 #: docs/spells/bloodlust.md

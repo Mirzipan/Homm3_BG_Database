@@ -609,7 +609,7 @@ msgstr ""
 #: docs/units/sprites.md
 #, no-wrap
 msgid "Sprites"
-msgstr ""
+msgstr "Wróżki"
 
 #. type: Plain text
 #: docs/units/sprites.md

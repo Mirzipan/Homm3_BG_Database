@@ -648,7 +648,7 @@ msgstr ""
 #: docs/heroes/casmetra.md
 #, no-wrap
 msgid "Casmetra"
-msgstr ""
+msgstr "Casmetra"
 
 #. type: Plain text
 #: docs/heroes/casmetra.md

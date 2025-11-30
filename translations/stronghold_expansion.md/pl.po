@@ -282,7 +282,7 @@ msgstr ""
 #: docs/content/stronghold_expansion.md
 #, no-wrap
 msgid "Stronghold Expansion"
-msgstr ""
+msgstr "Rozszerzenie Twierdza"
 
 #. type: Plain text
 #: docs/content/stronghold_expansion.md

@@ -653,7 +653,7 @@ msgstr ""
 #: docs/heroes/gerwulf.md
 #, no-wrap
 msgid "Gerwulf"
-msgstr ""
+msgstr "Gerwulf"
 
 #. type: Plain text
 #: docs/heroes/gerwulf.md

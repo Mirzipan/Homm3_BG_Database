@@ -515,7 +515,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/endless_purse_of_gold.md
 #, no-wrap
 msgid "Endless Purse of Gold"
-msgstr ""
+msgstr "Niekończący się Sakiewka Złota"
 
 #. type: Plain text
 #: docs/artifacts/endless_purse_of_gold.md

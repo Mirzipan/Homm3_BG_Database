@@ -555,7 +555,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/mischievous_leprechaun.md
 #, no-wrap
 msgid "Mischievous Leprechaun"
-msgstr ""
+msgstr "Psotny Krasnoludek"
 
 #. type: Plain text
 #: docs/events/mischievous_leprechaun.md

@@ -508,7 +508,7 @@ msgstr ""
 #: docs/artifacts/greater_gnolls_flail.md
 #, no-wrap
 msgid "Greater Gnoll's Flail"
-msgstr ""
+msgstr "Cep Wielkiego Gnola"
 
 #. type: Plain text
 #: docs/artifacts/greater_gnolls_flail.md

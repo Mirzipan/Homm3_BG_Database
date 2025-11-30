@@ -593,7 +593,7 @@ msgstr ""
 #: docs/heroes/pasis.md
 #, no-wrap
 msgid "Pasis"
-msgstr ""
+msgstr "Pasis"
 
 #. type: Plain text
 #: docs/heroes/pasis.md

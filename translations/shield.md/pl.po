@@ -481,7 +481,7 @@ msgstr ""
 #: docs/spells/shield.md
 #, no-wrap
 msgid "Shield"
-msgstr ""
+msgstr "Tarcza"
 
 #. type: Plain text
 #: docs/spells/shield.md

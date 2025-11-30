@@ -673,7 +673,7 @@ msgstr ""
 #: docs/units/evil_eyes.md
 #, no-wrap
 msgid "Evil Eyes"
-msgstr ""
+msgstr "Złe Oczy"
 
 #. type: Plain text
 #: docs/units/evil_eyes.md

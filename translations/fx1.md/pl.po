@@ -623,7 +623,7 @@ msgstr ""
 #: docs/tiles/fx1.md
 #, no-wrap
 msgid "#F1"
-msgstr ""
+msgstr "#F1"
 
 #. type: Bullet: '- '
 #: docs/tiles/fx1.md

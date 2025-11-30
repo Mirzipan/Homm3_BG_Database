@@ -604,7 +604,7 @@ msgstr ""
 #: docs/artifacts/dragon_scale_shield.md
 #, no-wrap
 msgid "Dragon Scale Shield"
-msgstr ""
+msgstr "Tarcza z Łuski Smoka"
 
 #. type: Plain text
 #: docs/artifacts/dragon_scale_shield.md

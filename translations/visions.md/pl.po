@@ -467,7 +467,7 @@ msgstr ""
 #: docs/spells/visions.md
 #, no-wrap
 msgid "Visions"
-msgstr ""
+msgstr "Wizje"
 
 #. type: Plain text
 #: docs/spells/visions.md

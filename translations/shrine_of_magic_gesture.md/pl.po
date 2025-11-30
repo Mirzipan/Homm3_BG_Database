@@ -445,7 +445,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/shrine_of_magic_gesture.md
 #, no-wrap
 msgid "Shrine of Magic Gesture"
-msgstr ""
+msgstr "Sanktuarium Magicznego Gestu"
 
 #. type: Plain text
 #: docs/fields/shrine_of_magic_gesture.md

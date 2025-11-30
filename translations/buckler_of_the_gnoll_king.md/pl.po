@@ -508,7 +508,7 @@ msgstr ""
 #: docs/artifacts/buckler_of_the_gnoll_king.md
 #, no-wrap
 msgid "Buckler of the Gnoll King"
-msgstr ""
+msgstr "Puklerz Króla Gnoli"
 
 #. type: Plain text
 #: docs/artifacts/buckler_of_the_gnoll_king.md

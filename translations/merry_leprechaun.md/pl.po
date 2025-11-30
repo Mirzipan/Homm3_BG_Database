@@ -638,7 +638,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/merry_leprechaun.md
 #, no-wrap
 msgid "Merry Leprechaun"
-msgstr ""
+msgstr "Wesoły Krasnoludek"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/merry_leprechaun.md

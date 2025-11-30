@@ -576,7 +576,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/mage_laboratory.md
 #, no-wrap
 msgid "Mage Laboratory"
-msgstr ""
+msgstr "Laboratorium Maga"
 
 #. type: Plain text
 #: docs/events/mage_laboratory.md

@@ -501,7 +501,7 @@ msgstr ""
 #: docs/fields/town.md
 #, no-wrap
 msgid "Town"
-msgstr ""
+msgstr "Miasto"
 
 #. type: Plain text
 #: docs/fields/town.md

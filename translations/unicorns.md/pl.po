@@ -702,7 +702,7 @@ msgstr ""
 #: docs/units/unicorns.md
 #, no-wrap
 msgid "Unicorns"
-msgstr ""
+msgstr "Jednorożce"
 
 #. type: Plain text
 #: docs/units/unicorns.md

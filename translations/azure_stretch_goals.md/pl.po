@@ -221,7 +221,7 @@ msgstr "Zobacz też"
 #: docs/content/azure_stretch_goals.md
 #, no-wrap
 msgid "Azure Stretch Goals 2022"
-msgstr ""
+msgstr "Azure Stretch Goals 2022"
 
 #. type: Plain text
 #: docs/content/azure_stretch_goals.md

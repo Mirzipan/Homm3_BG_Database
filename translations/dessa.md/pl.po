@@ -539,7 +539,7 @@ msgstr ""
 #: docs/heroes/dessa.md
 #, no-wrap
 msgid "Dessa"
-msgstr ""
+msgstr "Dessa"
 
 #. type: Plain text
 #: docs/heroes/dessa.md

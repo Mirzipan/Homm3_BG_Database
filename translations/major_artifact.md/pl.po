@@ -321,7 +321,7 @@ msgstr ""
 #: docs/keywords/major_artifact.md
 #, no-wrap
 msgid "Major Artifact"
-msgstr ""
+msgstr "Artefakt Główny"
 
 #. type: Bullet: '- '
 #: docs/keywords/major_artifact.md

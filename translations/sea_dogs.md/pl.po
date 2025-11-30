@@ -605,7 +605,7 @@ msgstr ""
 #: docs/units/sea_dogs.md
 #, no-wrap
 msgid "Sea Dogs"
-msgstr ""
+msgstr "Wilki Morskie"
 
 #. type: Plain text
 #: docs/units/sea_dogs.md

@@ -604,7 +604,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md
 #, no-wrap
 msgid "Wolf Raiders"
-msgstr ""
+msgstr "Wilkołaki Najezdnicy"
 
 #. type: Plain text
 #: docs/units/wolf_raiders.md

@@ -672,7 +672,7 @@ msgstr ""
 #: docs/units/water_elementals.md
 #, no-wrap
 msgid "Water Elementals"
-msgstr ""
+msgstr "Żywiołaki Wody"
 
 #. type: Plain text
 #: docs/units/water_elementals.md

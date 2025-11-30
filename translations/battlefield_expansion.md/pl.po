@@ -242,7 +242,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/content/battlefield_expansion.md
 #, no-wrap
 msgid "Battlefield Expansion"
-msgstr ""
+msgstr "Rozszerzenie Pole Bitwy"
 
 #. type: Plain text
 #: docs/content/battlefield_expansion.md

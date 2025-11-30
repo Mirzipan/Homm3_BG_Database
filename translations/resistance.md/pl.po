@@ -630,7 +630,7 @@ msgstr "[Lista Zaklęć](../spells/index.md)"
 #: docs/abilities/resistance.md
 #, no-wrap
 msgid "Resistance"
-msgstr ""
+msgstr "Odporność"
 
 #. type: Plain text
 #: docs/abilities/resistance.md

@@ -619,7 +619,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/cyclops.md
 #, no-wrap
 msgid "Cyclops"
-msgstr ""
+msgstr "Cyklopy"
 
 #. type: Plain text
 #: docs/units/cyclops.md

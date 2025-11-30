@@ -620,4 +620,4 @@ msgstr ""
 #: docs/tiles/fx9.md
 #, no-wrap
 msgid "#F9"
-msgstr ""
+msgstr "#F9"

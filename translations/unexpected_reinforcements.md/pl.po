@@ -734,7 +734,7 @@ msgstr "[Lista Jednostek](../units/index.md)"
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
 #, no-wrap
 msgid "Unexpected Reinforcements"
-msgstr ""
+msgstr "Nieoczekiwane Posiłki"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/unexpected_reinforcements.md

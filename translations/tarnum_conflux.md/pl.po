@@ -693,7 +693,7 @@ msgstr ""
 #: docs/heroes/tarnum_conflux.md
 #, no-wrap
 msgid "Tarnum (Conflux)"
-msgstr ""
+msgstr "Tarnum (Conflux)"
 
 #. type: Plain text
 #: docs/heroes/tarnum_conflux.md

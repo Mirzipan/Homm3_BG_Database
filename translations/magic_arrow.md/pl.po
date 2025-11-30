@@ -692,7 +692,7 @@ msgstr ""
 #: docs/spells/magic_arrow.md
 #, no-wrap
 msgid "Magic Arrow"
-msgstr ""
+msgstr "Magiczna Strzała"
 
 #. type: Plain text
 #: docs/spells/magic_arrow.md

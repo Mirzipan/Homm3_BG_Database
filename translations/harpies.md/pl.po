@@ -748,7 +748,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/harpies.md
 #, no-wrap
 msgid "Harpies"
-msgstr ""
+msgstr "Harpie"
 
 #. type: Plain text
 #: docs/units/harpies.md

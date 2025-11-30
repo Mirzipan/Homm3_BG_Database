@@ -578,7 +578,7 @@ msgstr ""
 #: docs/tiles/u1.md
 #, no-wrap
 msgid "U1"
-msgstr ""
+msgstr "U1"
 
 #. type: Plain text
 #: docs/tiles/u1.md docs/tiles/u2.md

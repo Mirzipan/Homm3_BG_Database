@@ -563,7 +563,7 @@ msgstr ""
 #: docs/artifacts/speculum.md
 #, no-wrap
 msgid "Speculum"
-msgstr ""
+msgstr "Zwierciadło"
 
 #. type: Plain text
 #: docs/artifacts/speculum.md

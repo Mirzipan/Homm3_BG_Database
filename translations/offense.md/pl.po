@@ -613,7 +613,7 @@ msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 #: docs/abilities/offense.md
 #, no-wrap
 msgid "Offense"
-msgstr ""
+msgstr "Atak"
 
 #. type: Plain text
 #: docs/abilities/offense.md

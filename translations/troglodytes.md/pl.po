@@ -673,7 +673,7 @@ msgstr ""
 #: docs/units/troglodytes.md
 #, no-wrap
 msgid "Troglodytes"
-msgstr ""
+msgstr "Troglodyci"
 
 #. type: Plain text
 #: docs/units/troglodytes.md

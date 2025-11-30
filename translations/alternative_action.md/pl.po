@@ -88,7 +88,7 @@ msgstr "Uwagi"
 #: docs/keywords/alternative_action.md
 #, no-wrap
 msgid ":unit_other: Alternative Action"
-msgstr ""
+msgstr ":unit_other: Akcja Alternatywna"
 
 #. type: Bullet: '- '
 #: docs/keywords/alternative_action.md

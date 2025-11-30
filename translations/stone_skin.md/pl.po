@@ -528,7 +528,7 @@ msgstr ""
 #: docs/spells/stone_skin.md
 #, no-wrap
 msgid "Stone Skin"
-msgstr ""
+msgstr "Kamienna Skóra"
 
 #. type: Plain text
 #: docs/spells/stone_skin.md

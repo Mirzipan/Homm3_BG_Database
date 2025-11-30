@@ -533,7 +533,7 @@ msgstr ""
 #: docs/spells/frost_ring.md
 #, no-wrap
 msgid "Frost Ring"
-msgstr ""
+msgstr "Lodowy Krąg"
 
 #. type: Plain text
 #: docs/spells/frost_ring.md

@@ -485,7 +485,7 @@ msgstr ""
 #: docs/spells/frenzy.md
 #, no-wrap
 msgid "Frenzy"
-msgstr ""
+msgstr "Szał Bojowy"
 
 #. type: Plain text
 #: docs/spells/frenzy.md

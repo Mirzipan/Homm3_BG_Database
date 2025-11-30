@@ -613,7 +613,7 @@ msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 #: docs/abilities/necromancy.md
 #, no-wrap
 msgid "Necromancy"
-msgstr ""
+msgstr "Nekromancja"
 
 #. type: Plain text
 #: docs/abilities/necromancy.md

@@ -623,7 +623,7 @@ msgstr ""
 #: docs/artifacts/centaurs_axe.md
 #, no-wrap
 msgid "Centaur's Axe"
-msgstr ""
+msgstr "Topór Centaura"
 
 #. type: Plain text
 #: docs/artifacts/centaurs_axe.md

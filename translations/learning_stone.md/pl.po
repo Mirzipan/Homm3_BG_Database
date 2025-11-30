@@ -445,7 +445,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/learning_stone.md
 #, no-wrap
 msgid "Learning Stone"
-msgstr ""
+msgstr "Kamień Nauki"
 
 #. type: Plain text
 #: docs/fields/learning_stone.md

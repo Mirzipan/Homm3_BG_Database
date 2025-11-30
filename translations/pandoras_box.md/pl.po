@@ -445,7 +445,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/pandoras_box.md
 #, no-wrap
 msgid "Pandora's Box"
-msgstr ""
+msgstr "Puszka Pandory"
 
 #. type: Plain text
 #: docs/fields/pandoras_box.md

@@ -552,7 +552,7 @@ msgstr ""
 #: docs/artifacts/sword_of_judgement.md
 #, no-wrap
 msgid "Sword of Judgement"
-msgstr ""
+msgstr "Miecz Sądu"
 
 #. type: Plain text
 #: docs/artifacts/sword_of_judgement.md

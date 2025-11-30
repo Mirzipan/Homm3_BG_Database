@@ -610,7 +610,7 @@ msgstr ""
 #: docs/units/faerie_dragons.md
 #, no-wrap
 msgid "Faerie Dragons"
-msgstr ""
+msgstr "Wróżkowe Smoki"
 
 #. type: Plain text
 #: docs/units/faerie_dragons.md

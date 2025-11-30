@@ -504,7 +504,7 @@ msgstr ""
 #: docs/artifacts/orb_of_inhibition.md
 #, no-wrap
 msgid "Orb of Inhibition"
-msgstr ""
+msgstr "Kula Zahamowania"
 
 #. type: Plain text
 #: docs/artifacts/orb_of_inhibition.md

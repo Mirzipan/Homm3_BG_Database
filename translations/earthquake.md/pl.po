@@ -473,7 +473,7 @@ msgstr ""
 #: docs/spells/earthquake.md
 #, no-wrap
 msgid "Earthquake"
-msgstr ""
+msgstr "Trzęsienie Ziemi"
 
 #. type: Plain text
 #: docs/spells/earthquake.md

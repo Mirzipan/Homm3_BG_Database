@@ -605,7 +605,7 @@ msgstr ""
 #: docs/artifacts/torso_of_legion.md
 #, no-wrap
 msgid "Torso of Legion"
-msgstr ""
+msgstr "Tułów Legionu"
 
 #. type: Plain text
 #: docs/artifacts/torso_of_legion.md

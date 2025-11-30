@@ -609,7 +609,7 @@ msgstr ""
 #: docs/abilities/artillery.md
 #, no-wrap
 msgid "Artillery"
-msgstr ""
+msgstr "Artyleria"
 
 #. type: Plain text
 #: docs/abilities/artillery.md

@@ -637,7 +637,7 @@ msgstr ""
 #: docs/units/gnolls.md
 #, no-wrap
 msgid "Gnolls"
-msgstr ""
+msgstr "Gnolle"
 
 #. type: Plain text
 #: docs/units/gnolls.md

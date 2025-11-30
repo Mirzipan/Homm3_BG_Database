@@ -661,7 +661,7 @@ msgstr ""
 #: docs/tiles/n2.md
 #, no-wrap
 msgid "N2"
-msgstr ""
+msgstr "N2"
 
 #. type: Bullet: '- '
 #: docs/tiles/n2.md
