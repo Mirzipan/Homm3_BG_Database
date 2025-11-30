@@ -287,7 +287,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Fourni avec"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -530,7 +530,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr ""
+msgstr "Voir aussi"
 
 #. type: Bullet: '- '
 #: docs/abilities/artillery.md docs/abilities/first_aid.md
@@ -623,7 +623,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -691,7 +691,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
