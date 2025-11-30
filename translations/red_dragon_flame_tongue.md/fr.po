@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 09:10+0000\n"
+"POT-Creation-Date: 2025-11-29 10:07+0000\n"
 "PO-Revision-Date: 2025-02-16 09:10+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -222,7 +222,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Fourni avec"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -465,7 +465,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr ""
+msgstr "Voir aussi"
 
 #. type: Bullet: '- '
 #: docs/abilities/archery.md docs/abilities/armorer.md
@@ -517,35 +517,34 @@ msgstr ""
 #: docs/astrologers_proclaim/terrible_plague.md
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md docs/heroes/alamar.md
-#: docs/heroes/catherine.md docs/heroes/moandor.md docs/heroes/mutare.md
-#: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/tamika.md
-#: docs/spells/anti-magic.md docs/spells/bless.md docs/spells/blind.md
-#: docs/spells/bloodlust.md docs/spells/chain_lightning.md
-#: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
-#: docs/spells/disrupting_ray.md docs/spells/fire_shield.md
-#: docs/spells/fireball.md docs/spells/haste.md docs/spells/lightning_bolt.md
-#: docs/spells/magic_arrow.md docs/spells/prayer.md docs/spells/resurrection.md
-#: docs/spells/slow.md docs/spells/stone_skin.md docs/spells/teleport.md
-#: docs/spells/town_portal.md docs/spells/weakness.md docs/tiles/c1.md
-#: docs/tiles/c2.md docs/tiles/f1.md docs/tiles/f2.md docs/tiles/f3.md
-#: docs/tiles/f4.md docs/tiles/f5.md docs/tiles/f6.md docs/tiles/f7.md
-#: docs/tiles/f8.md docs/tiles/f9.md docs/tiles/n1.md docs/tiles/n2.md
-#: docs/tiles/n3.md docs/tiles/n4.md docs/tiles/n5.md docs/tiles/n6.md
-#: docs/tiles/s1.md docs/tiles/s2.md docs/tiles/s3.md docs/towns/castle.md
-#: docs/towns/dungeon.md docs/towns/necropolis.md docs/units/archangels.md
-#: docs/units/arrow_tower.md docs/units/azure_dragons.md
-#: docs/units/black_dragons.md docs/units/boars.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md
-#: docs/units/diamond_golems.md docs/units/dread_knights.md
-#: docs/units/enchanters.md docs/units/evil_eyes.md docs/units/ghost_dragons.md
-#: docs/units/gold_golems.md docs/units/griffins.md docs/units/halberdiers.md
-#: docs/units/halflings.md docs/units/harpies.md docs/units/liches.md
-#: docs/units/manticores.md docs/units/marksmen.md docs/units/medusas.md
-#: docs/units/minotaurs.md docs/units/mummies.md docs/units/nomads.md
-#: docs/units/peasants.md docs/units/rogues.md docs/units/sharpshooters.md
-#: docs/units/skeletons.md docs/units/troglodytes.md docs/units/trolls.md
-#: docs/units/vampires.md docs/units/wraiths.md docs/units/zealots.md
-#: docs/units/zombies.md
+#: docs/heroes/catherine.md docs/heroes/mutare.md docs/heroes/rion.md
+#: docs/heroes/sandro.md docs/heroes/tamika.md docs/spells/anti-magic.md
+#: docs/spells/bless.md docs/spells/blind.md docs/spells/bloodlust.md
+#: docs/spells/chain_lightning.md docs/spells/counterstrike.md
+#: docs/spells/cure.md docs/spells/curse.md docs/spells/disrupting_ray.md
+#: docs/spells/fire_shield.md docs/spells/fireball.md docs/spells/haste.md
+#: docs/spells/lightning_bolt.md docs/spells/magic_arrow.md
+#: docs/spells/prayer.md docs/spells/resurrection.md docs/spells/slow.md
+#: docs/spells/stone_skin.md docs/spells/teleport.md docs/spells/town_portal.md
+#: docs/spells/weakness.md docs/tiles/c1.md docs/tiles/c2.md docs/tiles/f1.md
+#: docs/tiles/f2.md docs/tiles/f3.md docs/tiles/f4.md docs/tiles/f5.md
+#: docs/tiles/f6.md docs/tiles/f7.md docs/tiles/f8.md docs/tiles/f9.md
+#: docs/tiles/n1.md docs/tiles/n2.md docs/tiles/n3.md docs/tiles/n4.md
+#: docs/tiles/n5.md docs/tiles/n6.md docs/tiles/s1.md docs/tiles/s2.md
+#: docs/tiles/s3.md docs/towns/castle.md docs/towns/dungeon.md
+#: docs/towns/necropolis.md docs/units/archangels.md docs/units/arrow_tower.md
+#: docs/units/azure_dragons.md docs/units/black_dragons.md docs/units/boars.md
+#: docs/units/champions.md docs/units/crusaders.md
+#: docs/units/crystal_dragons.md docs/units/diamond_golems.md
+#: docs/units/dread_knights.md docs/units/enchanters.md docs/units/evil_eyes.md
+#: docs/units/ghost_dragons.md docs/units/gold_golems.md docs/units/griffins.md
+#: docs/units/halberdiers.md docs/units/halflings.md docs/units/harpies.md
+#: docs/units/liches.md docs/units/manticores.md docs/units/marksmen.md
+#: docs/units/medusas.md docs/units/minotaurs.md docs/units/mummies.md
+#: docs/units/nomads.md docs/units/peasants.md docs/units/rogues.md
+#: docs/units/sharpshooters.md docs/units/skeletons.md
+#: docs/units/troglodytes.md docs/units/trolls.md docs/units/vampires.md
+#: docs/units/wraiths.md docs/units/zealots.md docs/units/zombies.md
 msgid "[Core Game](../content/core_game.md)"
 msgstr ""
 
@@ -681,7 +680,6 @@ msgstr ""
 
 #. type: Plain text
 #: docs/artifacts/red_dragon_flame_tongue.md
-#: docs/artifacts/scales_of_the_greater_basilisk.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:instant: +1 :defense:<br><br>— OR —<br><br>:instant: +1 :attack:</p>\n"
 msgstr ""
