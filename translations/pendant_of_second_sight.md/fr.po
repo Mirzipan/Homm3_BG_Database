@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 09:10+0000\n"
+"POT-Creation-Date: 2025-11-29 10:07+0000\n"
 "PO-Revision-Date: 2025-02-16 09:10+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -222,7 +222,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Fourni avec"
 
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md docs/abilities/earth_magic.md
@@ -243,17 +243,16 @@ msgstr ""
 #: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dracon.md
 #: docs/heroes/iona.md docs/heroes/jeddite.md docs/heroes/josephine.md
 #: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
-#: docs/heroes/mephala.md docs/heroes/septienna.md docs/heroes/solmyr.md
-#: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/vidomina.md
-#: docs/spells/berserk.md docs/spells/dispel.md docs/spells/shield.md
-#: docs/spells/view_air.md docs/tiles/cx1.md docs/tiles/fx1.md
-#: docs/tiles/fx10.md docs/tiles/fx2.md docs/tiles/fx3.md docs/tiles/fx4.md
-#: docs/tiles/fx5.md docs/tiles/fx6.md docs/tiles/fx7.md docs/tiles/fx8.md
-#: docs/tiles/fx9.md docs/tiles/nx1.md docs/tiles/nx2.md docs/tiles/nx3.md
-#: docs/tiles/sx1.md docs/towns/tower.md docs/units/gargoyles.md
-#: docs/units/genies.md docs/units/gold_dragons.md docs/units/gremlins.md
-#: docs/units/iron_golems.md docs/units/magi.md docs/units/nagas.md
-#: docs/units/titans.md
+#: docs/heroes/mephala.md docs/heroes/solmyr.md docs/heroes/tazar.md
+#: docs/heroes/torosar.md docs/heroes/vidomina.md docs/spells/berserk.md
+#: docs/spells/dispel.md docs/spells/shield.md docs/spells/view_air.md
+#: docs/tiles/cx1.md docs/tiles/fx1.md docs/tiles/fx10.md docs/tiles/fx2.md
+#: docs/tiles/fx3.md docs/tiles/fx4.md docs/tiles/fx5.md docs/tiles/fx6.md
+#: docs/tiles/fx7.md docs/tiles/fx8.md docs/tiles/fx9.md docs/tiles/nx1.md
+#: docs/tiles/nx2.md docs/tiles/nx3.md docs/tiles/sx1.md docs/towns/tower.md
+#: docs/units/gargoyles.md docs/units/genies.md docs/units/gold_dragons.md
+#: docs/units/gremlins.md docs/units/iron_golems.md docs/units/magi.md
+#: docs/units/nagas.md docs/units/titans.md
 msgid "[Tower Expansion](../content/tower_expansion.md)"
 msgstr ""
 
@@ -498,7 +497,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr ""
+msgstr "Voir aussi"
 
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/arms_of_legion.md

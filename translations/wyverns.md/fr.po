@@ -259,7 +259,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Fourni avec"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -460,7 +460,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr ""
+msgstr "Voir aussi"
 
 #. type: Bullet: '- '
 #: docs/abilities/eagle_eye.md docs/abilities/learning.md
@@ -492,7 +492,7 @@ msgstr ""
 #: docs/units/hydras.md docs/units/lizardmen.md docs/units/rust_dragons.md
 #: docs/units/wyverns.md
 msgid "[Fortress Expansion](../content/fortress_expansion.md)"
-msgstr ""
+msgstr "[Extension forteresse](../content/fortress_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md

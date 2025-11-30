@@ -201,7 +201,7 @@ msgstr ""
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Fourni avec"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -401,7 +401,7 @@ msgstr ""
 #: docs/towns/cove.md docs/towns/castle.md docs/difficulties.md
 #, no-wrap
 msgid "See Also"
-msgstr ""
+msgstr "Voir aussi"
 
 #. type: Bullet: '- '
 #: docs/units/sea_dogs.md docs/units/nix.md docs/units/seamen.md

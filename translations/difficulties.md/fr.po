@@ -214,7 +214,7 @@ msgstr ""
 #: docs/towns/cove.md docs/towns/castle.md docs/difficulties.md
 #, no-wrap
 msgid "See Also"
-msgstr ""
+msgstr "Voir aussi"
 
 #. type: Title #
 #: docs/difficulties.md
