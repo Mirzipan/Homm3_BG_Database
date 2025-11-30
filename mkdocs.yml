@@ -67,7 +67,7 @@ theme:
     text: Vollkorn
   icon:
     repo: fontawesome/brands/git-alt
-    alternate: en-round
+    alternate: gb-round
 
 extra:
   alternate:
