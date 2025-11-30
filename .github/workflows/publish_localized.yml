@@ -8,6 +8,7 @@ on:
     branches:
       - main
 
+
 env:
   SITE_URL: homm3bg.wiki
 
