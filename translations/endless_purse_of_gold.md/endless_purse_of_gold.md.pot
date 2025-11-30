@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 09:10+0000\n"
+"POT-Creation-Date: 2025-11-29 10:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -587,8 +587,8 @@ msgstr ""
 #. type: Plain text
 #: docs/artifacts/endless_purse_of_gold.md
 msgid ""
-"![Endless Purse of Gold](../assets/artifacts_major-endless_purse_of_gold."
-"webp){ width=\"340\" align=right }"
+"![Endless Purse of Gold](../assets/artifacts_major-"
+"endless_purse_of_gold.webp){ width=\"340\" align=right }"
 msgstr ""
 
 #. type: Plain text

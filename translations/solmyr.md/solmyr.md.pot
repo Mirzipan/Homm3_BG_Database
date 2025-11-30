@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 09:10+0000\n"
+"POT-Creation-Date: 2025-11-29 10:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -40,19 +40,22 @@ msgstr ""
 #: docs/fields/windmill.md docs/heroes/adelaide.md docs/heroes/alamar.md
 #: docs/heroes/deemer.md docs/heroes/jeddite.md docs/heroes/sandro.md
 #: docs/heroes/sephinroth.md docs/heroes/solmyr.md docs/heroes/tazar.md
-#: docs/heroes/xyron.md docs/keywords/blocked_field.md
-#: docs/keywords/center_tile.md docs/keywords/empty_field.md
+#: docs/heroes/xyron.md docs/keywords/alternative_action.md
+#: docs/keywords/attack_value.md docs/keywords/blocked_field.md
+#: docs/keywords/center_tile.md docs/keywords/damage.md
+#: docs/keywords/defense_value.md docs/keywords/empty_field.md
 #: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
 #: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
+#: docs/keywords/health_points.md docs/keywords/initiative_value.md
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
-#: docs/keywords/near_tile.md docs/keywords/paralysis.md
-#: docs/keywords/permanent_effect.md docs/keywords/ranged_unit.md
-#: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
-#: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
-#: docs/spells/blind.md docs/spells/chain_lightning.md docs/spells/cure.md
-#: docs/spells/dimension_door.md docs/spells/dispel.md
+#: docs/keywords/near_tile.md docs/keywords/obstacle.md
+#: docs/keywords/paralysis.md docs/keywords/permanent_effect.md
+#: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
+#: docs/keywords/revisitable_field.md docs/keywords/starting_tile.md
+#: docs/keywords/underground_tile.md docs/keywords/visitable_field.md
+#: docs/keywords/water_tile.md docs/spells/anti-magic.md docs/spells/berserk.md
+#: docs/spells/bless.md docs/spells/blind.md docs/spells/chain_lightning.md
+#: docs/spells/cure.md docs/spells/dimension_door.md docs/spells/dispel.md
 #: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
 #: docs/spells/fortune.md docs/spells/frost_ring.md docs/spells/haste.md
 #: docs/spells/implosion.md docs/spells/inferno.md docs/spells/magic_arrow.md
@@ -308,17 +311,16 @@ msgstr ""
 #: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dracon.md
 #: docs/heroes/iona.md docs/heroes/jeddite.md docs/heroes/josephine.md
 #: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
-#: docs/heroes/mephala.md docs/heroes/septienna.md docs/heroes/solmyr.md
-#: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/vidomina.md
-#: docs/spells/berserk.md docs/spells/dispel.md docs/spells/shield.md
-#: docs/spells/view_air.md docs/tiles/cx1.md docs/tiles/fx1.md
-#: docs/tiles/fx10.md docs/tiles/fx2.md docs/tiles/fx3.md docs/tiles/fx4.md
-#: docs/tiles/fx5.md docs/tiles/fx6.md docs/tiles/fx7.md docs/tiles/fx8.md
-#: docs/tiles/fx9.md docs/tiles/nx1.md docs/tiles/nx2.md docs/tiles/nx3.md
-#: docs/tiles/sx1.md docs/towns/tower.md docs/units/gargoyles.md
-#: docs/units/genies.md docs/units/gold_dragons.md docs/units/gremlins.md
-#: docs/units/iron_golems.md docs/units/magi.md docs/units/nagas.md
-#: docs/units/titans.md
+#: docs/heroes/mephala.md docs/heroes/solmyr.md docs/heroes/tazar.md
+#: docs/heroes/torosar.md docs/heroes/vidomina.md docs/spells/berserk.md
+#: docs/spells/dispel.md docs/spells/shield.md docs/spells/view_air.md
+#: docs/tiles/cx1.md docs/tiles/fx1.md docs/tiles/fx10.md docs/tiles/fx2.md
+#: docs/tiles/fx3.md docs/tiles/fx4.md docs/tiles/fx5.md docs/tiles/fx6.md
+#: docs/tiles/fx7.md docs/tiles/fx8.md docs/tiles/fx9.md docs/tiles/nx1.md
+#: docs/tiles/nx2.md docs/tiles/nx3.md docs/tiles/sx1.md docs/towns/tower.md
+#: docs/units/gargoyles.md docs/units/genies.md docs/units/gold_dragons.md
+#: docs/units/gremlins.md docs/units/iron_golems.md docs/units/magi.md
+#: docs/units/nagas.md docs/units/titans.md
 msgid "[Tower Expansion](../content/tower_expansion.md)"
 msgstr ""
 
@@ -811,8 +813,8 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/heroes/solmyr.md
 msgid ""
-"**Ⅰ** - Only 2 units are dealt :damage: to and this cannot be changed by :"
-"empower:."
+"**Ⅰ** - Only 2 units are dealt :damage: to and this cannot be changed "
+"by :empower:."
 msgstr ""
 
 #. type: Bullet: '- '
@@ -828,7 +830,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/heroes/solmyr.md
 msgid ""
-"**Ⅰ** - The 0 on the third damage position allows the player to deal 1 :"
-"damage: to two units that have a friendly unit between them, as the friendly "
-"unit may be assigned the 0."
+"**Ⅰ** - The 0 on the third damage position allows the player to deal "
+"1 :damage: to two units that have a friendly unit between them, as the "
+"friendly unit may be assigned the 0."
 msgstr ""

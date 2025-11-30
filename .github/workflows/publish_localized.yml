@@ -1,3 +1,4 @@
+
 name: Publish localized site
 on:
   push:
@@ -6,8 +7,6 @@ on:
   pull_request:  # To be deleted before merging
     branches:
       - main
-
-
 
 env:
   SITE_URL: homm3bg.wiki
@@ -63,13 +62,13 @@ jobs:
           cp .github/workflows/publish_docs.yml ${{ matrix.language }}/.github/workflows
           cp -r overrides docs mkdocs.yml ${{ matrix.language }}
 
-      # - name: Push ${{ matrix.language }} site
-      #   uses: peaceiris/actions-gh-pages@v4
-      #   with:
-      #     deploy_key: ${{ secrets[matrix.secret_name] }}
-      #     external_repository: qwrtln/${{ matrix.language }}-homm3bg-wiki
-      #     full_commit_message: ${{ github.event.head_commit.message }}
-      #     publish_branch: main
-      #     force_orphan: true
-      #     publish_dir: ${{ matrix.language }}
-      #     exclude_assets: ''
+      - name: Push ${{ matrix.language }} site
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          deploy_key: ${{ secrets[matrix.secret_name] }}
+          external_repository: qwrtln/${{ matrix.language }}-homm3bg-wiki
+          full_commit_message: ${{ github.event.head_commit.message }}
+          publish_branch: main
+          force_orphan: true
+          publish_dir: ${{ matrix.language }}
+          exclude_assets: ''
