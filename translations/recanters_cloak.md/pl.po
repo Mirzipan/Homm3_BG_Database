@@ -515,7 +515,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/recanters_cloak.md
 #, no-wrap
 msgid "Recanter's Cloak"
-msgstr "Płaszcz Odwołującego"
+msgstr "Płaszcz Wyrzeczenia"
 
 #. type: Plain text
 #: docs/artifacts/recanters_cloak.md

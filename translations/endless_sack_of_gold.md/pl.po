@@ -552,7 +552,7 @@ msgstr ""
 #: docs/artifacts/endless_sack_of_gold.md
 #, no-wrap
 msgid "Endless Sack of Gold"
-msgstr "Niekończący się Worek Złota"
+msgstr "Bezdenna Sakwa Złota"
 
 #. type: Plain text
 #: docs/artifacts/endless_sack_of_gold.md

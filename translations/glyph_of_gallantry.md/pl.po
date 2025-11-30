@@ -515,7 +515,7 @@ msgstr ""
 #: docs/artifacts/glyph_of_gallantry.md
 #, no-wrap
 msgid "Glyph of Gallantry"
-msgstr "Glif Dzielności"
+msgstr "Glejt Rycerskości"
 
 #. type: Plain text
 #: docs/artifacts/glyph_of_gallantry.md

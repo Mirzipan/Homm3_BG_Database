@@ -512,7 +512,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/surcoat_of_counterpoise.md
 #, no-wrap
 msgid "Surcoat of Counterpoise"
-msgstr "Kotara Równowagi"
+msgstr "Opończa Przeciwstawienia"
 
 #. type: Plain text
 #: docs/artifacts/surcoat_of_counterpoise.md

@@ -498,7 +498,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/breastplate_of_brimstone.md
 #, no-wrap
 msgid "Breastplate of Brimstone"
-msgstr "Napierśnik z Siarki"
+msgstr "Napierśnik Brimstone'a"
 
 #. type: Plain text
 #: docs/artifacts/breastplate_of_brimstone.md

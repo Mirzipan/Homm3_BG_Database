@@ -490,7 +490,7 @@ msgstr ""
 #: docs/artifacts/crown_of_dragontooth.md
 #, no-wrap
 msgid "Crown of Dragontooth"
-msgstr "Korona Smoczego Zęba"
+msgstr "Korona ze Smoczych Zębów"
 
 #. type: Plain text
 #: docs/artifacts/crown_of_dragontooth.md

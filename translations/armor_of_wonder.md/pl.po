@@ -537,7 +537,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/armor_of_wonder.md
 #, no-wrap
 msgid "Armor of Wonder"
-msgstr "Zbroja Cudów"
+msgstr "Pancerz Cudów"
 
 #. type: Plain text
 #: docs/artifacts/armor_of_wonder.md

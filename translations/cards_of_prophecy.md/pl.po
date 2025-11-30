@@ -512,7 +512,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/cards_of_prophecy.md
 #, no-wrap
 msgid "Cards of Prophecy"
-msgstr "Karty Przepowiedni"
+msgstr "Talia Tarota"
 
 #. type: Plain text
 #: docs/artifacts/cards_of_prophecy.md

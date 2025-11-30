@@ -560,7 +560,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #, no-wrap
 msgid "Tunic of the Cyclops King"
-msgstr "Tunika Króla Cyklopów"
+msgstr "Tunika Cyklopa Królewskiego"
 
 #. type: Plain text
 #: docs/artifacts/tunic_of_the_cyclops_king.md

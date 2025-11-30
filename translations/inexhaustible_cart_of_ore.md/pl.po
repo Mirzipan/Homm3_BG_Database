@@ -575,7 +575,7 @@ msgstr ""
 #: docs/artifacts/inexhaustible_cart_of_ore.md
 #, no-wrap
 msgid "Inexhaustible Cart of Ore"
-msgstr "Niewyczerpany Wóz Rudy"
+msgstr "Wóz Wiecznego Kamienia"
 
 #. type: Plain text
 #: docs/artifacts/inexhaustible_cart_of_ore.md

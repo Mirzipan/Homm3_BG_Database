@@ -581,7 +581,7 @@ msgstr ""
 #: docs/artifacts/shield_of_the_yawning_dead.md
 #, no-wrap
 msgid "Shield of the Yawning Dead"
-msgstr "Tarcza Ziuwiających Umarłych"
+msgstr "Tarcza Zionącej Śmierci"
 
 #. type: Plain text
 #: docs/artifacts/shield_of_the_yawning_dead.md

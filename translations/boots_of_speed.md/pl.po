@@ -501,7 +501,7 @@ msgstr ""
 #: docs/artifacts/boots_of_speed.md
 #, no-wrap
 msgid "Boots of Speed"
-msgstr "Buty Prędkości"
+msgstr "Buty Szybkości"
 
 #. type: Plain text
 #: docs/artifacts/boots_of_speed.md

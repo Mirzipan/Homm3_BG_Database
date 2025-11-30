@@ -552,7 +552,7 @@ msgstr ""
 #: docs/artifacts/titans_cuirass.md
 #, no-wrap
 msgid "Titan's Cuirass"
-msgstr "Kirys Tytana"
+msgstr "Pabncerz Tytanów"
 
 #. type: Plain text
 #: docs/artifacts/titans_cuirass.md
