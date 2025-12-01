@@ -478,7 +478,7 @@ msgstr "[Rozszerzenie Cytadela](../content/fortress_expansion.md)"
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -524,7 +524,7 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -550,7 +550,7 @@ msgstr "[Lista Jednostek](../units/index.md)"
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Event](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Wydarzenie](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md

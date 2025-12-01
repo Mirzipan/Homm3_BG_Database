@@ -623,7 +623,7 @@ msgstr "Wozu z Amunicją"
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -691,7 +691,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -822,6 +822,5 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/cannon.md docs/war_machines/first_aid_tent.md
-#, fuzzy
 msgid "[List of War Machines](index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Machin Wojennych](units/index.md)"

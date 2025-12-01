@@ -24,9 +24,13 @@ msgstr "Kości"
 
 #. type: Title ##
 #: docs/fields/resources.md docs/legend.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Resources"
-msgstr "Zasoby"
+msgstr ""
+"#-#-#-#-#  pl.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"Zasób\n"
+"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
+"Zasoby"
 
 #. type: Title ##
 #: docs/keywords/index.md docs/legend.md docs/towns/castle.md

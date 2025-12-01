@@ -468,7 +468,7 @@ msgstr "Zobacz też"
 #: docs/units/sea_dogs.md docs/units/seamen.md docs/units/sorceresses.md
 #: docs/war_machines/cannon.md
 msgid "[Cove Expansion](../content/cove_expansion.md)"
-msgstr ""
+msgstr "[Rozszerzenie Przystań](../content/cove_expansion.md)"
 
 #. type: Title ##
 #: docs/fields/index.md docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md
