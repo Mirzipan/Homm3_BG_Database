@@ -482,7 +482,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/view_air.md
 #, no-wrap
 msgid "View Air"
-msgstr "Wizja Powietrza"
+msgstr "Aura Artefaktów"
 
 #. type: Plain text
 #: docs/spells/view_air.md

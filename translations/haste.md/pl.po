@@ -595,7 +595,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/haste.md
 #, no-wrap
 msgid "Haste"
-msgstr "Pośpiech"
+msgstr "Przyspieszenie"
 
 #. type: Plain text
 #: docs/spells/haste.md

@@ -538,7 +538,7 @@ msgstr ""
 #: docs/spells/dispel.md
 #, no-wrap
 msgid "Dispel"
-msgstr "Rozproszenie"
+msgstr "Odwrócenie Zaklęć"
 
 #. type: Plain text
 #: docs/spells/dispel.md

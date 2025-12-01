@@ -588,7 +588,7 @@ msgstr ""
 #: docs/spells/prayer.md
 #, no-wrap
 msgid "Prayer"
-msgstr "Modlitwa"
+msgstr "Psalm Mocy"
 
 #. type: Plain text
 #: docs/spells/prayer.md

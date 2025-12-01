@@ -483,7 +483,7 @@ msgstr ""
 #: docs/spells/view_earth.md
 #, no-wrap
 msgid "View Earth"
-msgstr "Wizja Ziemi"
+msgstr "Zasoby Ziemi"
 
 #. type: Plain text
 #: docs/spells/view_earth.md

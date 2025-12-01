@@ -593,7 +593,7 @@ msgstr ""
 #: docs/spells/town_portal.md
 #, no-wrap
 msgid "Town Portal"
-msgstr "Portal do Miasta"
+msgstr "Magiczny Portal"
 
 #. type: Plain text
 #: docs/spells/town_portal.md

@@ -544,7 +544,7 @@ msgstr ""
 #: docs/spells/misfortune.md
 #, no-wrap
 msgid "Misfortune"
-msgstr "Nieszczęście"
+msgstr "Pech"
 
 #. type: Plain text
 #: docs/spells/misfortune.md

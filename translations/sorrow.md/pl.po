@@ -472,7 +472,7 @@ msgstr ""
 #: docs/spells/sorrow.md
 #, no-wrap
 msgid "Sorrow"
-msgstr "Smutek"
+msgstr "Przygnębienie"
 
 #. type: Plain text
 #: docs/spells/sorrow.md

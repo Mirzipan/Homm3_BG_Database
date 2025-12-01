@@ -519,7 +519,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/berserk.md
 #, no-wrap
 msgid "Berserk"
-msgstr "Szał"
+msgstr "Szaleństwo"
 
 #. type: Plain text
 #: docs/spells/berserk.md

@@ -676,7 +676,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Heroes"
-msgstr ""
+msgstr "Bohaterowie"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
@@ -729,7 +729,7 @@ msgstr ""
 #: docs/spells/inferno.md docs/towns/inferno.md
 #, no-wrap
 msgid "Inferno"
-msgstr "Piekielny Ogień"
+msgstr "Inferno"
 
 #. type: Plain text
 #: docs/spells/inferno.md
@@ -749,7 +749,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Buildings"
-msgstr ""
+msgstr "Budynki"
 
 #. type: Plain text
 #: docs/towns/castle.md docs/towns/dungeon.md docs/towns/fortress.md
