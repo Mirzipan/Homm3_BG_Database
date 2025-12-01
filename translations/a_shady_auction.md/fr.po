@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-21 12:24+0200\n"
-"PO-Revision-Date: 2025-11-30 21:54+0100\n"
+"PO-Revision-Date: 2025-12-01 09:59+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -535,7 +535,7 @@ msgstr "</figure>\n"
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/relic_artifact.md
 msgid "[List of Artifacts](../artifacts/index.md)"
-msgstr "[Liste des artéfacts](../artifacts/index.md)"
+msgstr "[Liste des artefacts](../artifacts/index.md)"
 
 #. type: Title #
 #: docs/events/a_shady_auction.md
@@ -567,13 +567,13 @@ msgstr "<p style=\"text-align: center;\" markdown>[Evénement](index.md)</p>\n"
 #: docs/events/a_shady_auction.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Repeat 3 times: Reveal the top card from the [Artifact](../artifacts/index.md) deck. In secret, each player takes as much :gold: in their hand as they are willing to pay for it. Then reveal your bets at the same time. The one with the highest proposal discards the :gold: and claims the card. If there are no bets or there is a tie, discard the card.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Répétez 3 fois: Révélez la première carte [Artéfact](../artifacts/index.md) de la pioche. Chaque joueur prend secrètement en main autant de :gold: qu'il est prêt à payer pour l'acheter. Dévoilez vos enchères simultanément. Le joueur avec l'offre la plus haute défausse son :gold: et prend la carte. En cas d'égalité ou si personne n'a enchéri, défaussez la carte.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Répétez 3 fois : Révélez la 1<sup>re</sup> carte de la pioche [Artefact](../artifacts/index.md). Chaque joueur prend secrètement en main autant de :gold: qu'il est prêt à payer pour l'acheter. Dévoilez vos enchères simultanément. Le joueur avec l'offre la plus haute défausse son :gold: et prend la carte. En cas d'égalité ou si personne n'a enchéri, défaussez la carte.</p>\n"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*In the depth of the night, you come across a crowdy camp encircling a stage. On it, a corpulent man with a twirly mustache is shouting vigorously, \"...and the vase goes to the lovely bearded lady in the back row! Now gaze upon this marvelous item I shed tears and blood to get! Not mine of course... The starting price is...\"*</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>*En pleine nuit, vous tombez sur un campement bondé, agglutiné autour d'une estrade. Sur scène un homme corpulent, aux moustaches retroussées s'époumone : \"...et le vase est adjugé à la charmante femme barbue au dernier rand! Admirez maintenant cette merveille, dénichée à force de sang et de larmes ! Pas les miens évidemment... La mise à prix est de...\"*</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>*En pleine nuit, vous tombez sur un campement bondé, agglutiné autour d'une estrade. Sur scène, un homme corpulent aux moustaches retroussées s'époumone : \"...et le vase est adjugé à la charmante femme barbue au dernier rang ! Admirez maintenant cette merveille, dénichée à force de sang et de larmes ! Pas les miens évidemment... La mise à prix est de...\"*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -587,4 +587,4 @@ msgstr "<p style=\"text-align: center;\" markdown>*En pleine nuit, vous tombez s
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 msgid "[List of Events](index.md)"
-msgstr "[Liste des événements](index.md)"
+msgstr "[Liste des Evénements](index.md)"
