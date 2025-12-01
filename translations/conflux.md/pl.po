@@ -616,7 +616,7 @@ msgstr "Budynki"
 #: docs/towns/conflux.md
 #, no-wrap
 msgid "Conflux"
-msgstr "Conflux"
+msgstr "Wrota Żywiołów"
 
 #. type: Plain text
 #: docs/towns/conflux.md
