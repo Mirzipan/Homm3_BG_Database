@@ -610,7 +610,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Heroes"
-msgstr ""
+msgstr "Bohaterowie"
 
 #. type: Title ##
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
@@ -619,7 +619,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Buildings"
-msgstr ""
+msgstr "Budynki"
 
 #. type: Plain text
 #: docs/towns/castle.md docs/towns/dungeon.md docs/towns/fortress.md

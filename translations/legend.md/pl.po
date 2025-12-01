@@ -56,7 +56,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Heroes"
-msgstr ""
+msgstr "Bohaterowie"
 
 #. type: Plain text
 #: docs/legend.md

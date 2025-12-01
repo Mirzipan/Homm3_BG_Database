@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2025-09-30 20:05+0000\n"
+"POT-Creation-Date: 2025-11-29 10:07+0000\n"
 "PO-Revision-Date: 2024-10-17 23:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -991,15 +991,8 @@ msgstr "[Mocny Artefakt](major_artifact.md)"
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md
-#, fuzzy
 msgid "[Relic Artifact](relic_artifact.md)"
-msgstr ""
-"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
-"[Relikt](relic_artifact.md)\n"
-"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
-"[Lista Jednostek](units/index.md)\n"
-"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
-"[Lista Jednostek](units/index.md)"
+msgstr "[Relikt](relic_artifact.md)"
 
 #. type: Title ##
 #: docs/keywords/index.md
