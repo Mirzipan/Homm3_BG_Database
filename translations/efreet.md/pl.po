@@ -626,7 +626,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/efreet.md
 #, no-wrap
 msgid "Efreet"
-msgstr "Efreeci"
+msgstr "Ifryty"
 
 #. type: Plain text
 #: docs/units/efreet.md

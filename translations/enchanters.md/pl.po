@@ -657,7 +657,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/enchanters.md
 #, no-wrap
 msgid "Enchanters"
-msgstr "Zaklinacze"
+msgstr "Czarodzieje"
 
 #. type: Plain text
 #: docs/units/enchanters.md
