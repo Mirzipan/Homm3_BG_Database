@@ -242,7 +242,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/content/fortress_expansion.md
 #, no-wrap
 msgid "Fortress Expansion"
-msgstr "Rozszerzenie Forteca"
+msgstr "Rozszerzenie Cytadela"
 
 #. type: Plain text
 #: docs/content/fortress_expansion.md

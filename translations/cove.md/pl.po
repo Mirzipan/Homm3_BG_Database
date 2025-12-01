@@ -612,7 +612,7 @@ msgstr ""
 #: docs/towns/cove.md
 #, no-wrap
 msgid "Cove"
-msgstr "Zatoka"
+msgstr "Przystań"
 
 #. type: Plain text
 #: docs/towns/cove.md

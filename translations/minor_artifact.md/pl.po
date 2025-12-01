@@ -307,21 +307,14 @@ msgstr "[Mocny Artefakt](major_artifact.md)"
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md
-#, fuzzy
 msgid "[Relic Artifact](relic_artifact.md)"
-msgstr ""
-"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
-"[Relikt](relic_artifact.md)\n"
-"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
-"[Lista Jednostek](units/index.md)\n"
-"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
-"[Lista Jednostek](units/index.md)"
+msgstr "[Relikt](relic_artifact.md)\n"
 
 #. type: Title #
 #: docs/keywords/minor_artifact.md
 #, no-wrap
 msgid "Minor Artifact"
-msgstr "Artefakt Pomniejszy"
+msgstr "Słaby Pomniejszy"
 
 #. type: Bullet: '- '
 #: docs/keywords/minor_artifact.md

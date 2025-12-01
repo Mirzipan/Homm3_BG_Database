@@ -656,7 +656,7 @@ msgstr ""
 #: docs/towns/fortress.md
 #, no-wrap
 msgid "Fortress"
-msgstr "Forteca"
+msgstr "Cytadela"
 
 #. type: Plain text
 #: docs/towns/fortress.md

@@ -605,7 +605,7 @@ msgstr ""
 #: docs/units/ayssids.md
 #, no-wrap
 msgid "Ayssids"
-msgstr "Ayssidzi"
+msgstr ""
 
 #. type: Plain text
 #: docs/units/ayssids.md

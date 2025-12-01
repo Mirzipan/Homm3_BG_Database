@@ -361,7 +361,7 @@ msgstr "[Mocny Artefakt](major_artifact.md)"
 #: docs/keywords/relic_artifact.md
 #, no-wrap
 msgid "Relic Artifact"
-msgstr "Artefakt Relikwiowy"
+msgstr "Relikt"
 
 #. type: Bullet: '- '
 #: docs/keywords/relic_artifact.md

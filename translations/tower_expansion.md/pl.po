@@ -247,7 +247,7 @@ msgstr ""
 #: docs/content/tower_expansion.md
 #, no-wrap
 msgid "Tower Expansion"
-msgstr "Rozszerzenie Wieża"
+msgstr "Rozszerzenie Forteca"
 
 #. type: Plain text
 #: docs/content/tower_expansion.md

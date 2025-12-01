@@ -539,7 +539,7 @@ msgstr ""
 #: docs/artifacts/skull_helmet.md
 #, no-wrap
 msgid "Skull Helmet"
-msgstr "Hełm Czaszki"
+msgstr ""
 
 #. type: Plain text
 #: docs/artifacts/skull_helmet.md

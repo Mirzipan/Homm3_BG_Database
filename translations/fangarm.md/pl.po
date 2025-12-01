@@ -522,7 +522,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/fangarm.md
 #, no-wrap
 msgid "Fangarm"
-msgstr "Kłoramię"
+msgstr ""
 
 #. type: Plain text
 #: docs/units/fangarm.md

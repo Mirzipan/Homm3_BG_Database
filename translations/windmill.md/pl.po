@@ -510,7 +510,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/windmill.md
 #, no-wrap
 msgid "Windmill"
-msgstr "Młyn"
+msgstr "Wiatrak"
 
 #. type: Plain text
 #: docs/fields/windmill.md

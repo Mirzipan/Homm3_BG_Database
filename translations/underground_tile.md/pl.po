@@ -569,7 +569,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/keywords/underground_tile.md
 #, no-wrap
 msgid "Underground Tile"
-msgstr "Pole Podziemne"
+msgstr "Kafelek Podziemi"
 
 #. type: Title ##
 #: docs/keywords/underground_tile.md

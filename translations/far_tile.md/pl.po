@@ -418,7 +418,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/keywords/far_tile.md
 #, no-wrap
 msgid "Far Tile"
-msgstr "Dalekie Pole"
+msgstr "Kafelek Daleki"
 
 #. type: Plain text
 #: docs/keywords/far_tile.md

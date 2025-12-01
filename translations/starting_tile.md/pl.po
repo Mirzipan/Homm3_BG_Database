@@ -426,7 +426,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/keywords/starting_tile.md
 #, no-wrap
 msgid "Starting Tile"
-msgstr "Pole Startowe"
+msgstr "Kafelek Początkowy"
 
 #. type: Plain text
 #: docs/keywords/starting_tile.md

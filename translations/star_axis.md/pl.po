@@ -436,7 +436,7 @@ msgstr ""
 #: docs/fields/star_axis.md
 #, no-wrap
 msgid "Star Axis"
-msgstr "Oś Gwiazd"
+msgstr "Oś Gwiazdy"
 
 #. type: Plain text
 #: docs/fields/star_axis.md

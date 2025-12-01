@@ -619,7 +619,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/thunderbirds.md
 #, no-wrap
 msgid "Thunderbirds"
-msgstr "Gromowładne"
+msgstr ""
 
 #. type: Plain text
 #: docs/units/thunderbirds.md

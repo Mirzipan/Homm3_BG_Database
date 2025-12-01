@@ -605,7 +605,7 @@ msgstr ""
 #: docs/units/haspids.md
 #, no-wrap
 msgid "Haspids"
-msgstr "Haspidzi"
+msgstr ""
 
 #. type: Plain text
 #: docs/units/haspids.md

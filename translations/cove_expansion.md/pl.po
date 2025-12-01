@@ -276,7 +276,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/content/cove_expansion.md
 #, no-wrap
 msgid "Cove Expansion"
-msgstr "Rozszerzenie Zatoka"
+msgstr "Rozszerzenie Przystań"
 
 #. type: Plain text
 #: docs/content/cove_expansion.md

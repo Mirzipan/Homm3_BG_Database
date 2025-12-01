@@ -522,7 +522,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/leprechaun.md
 #, no-wrap
 msgid "Leprechaun"
-msgstr "Leprekauny"
+msgstr ""
 
 #. type: Plain text
 #: docs/units/leprechaun.md

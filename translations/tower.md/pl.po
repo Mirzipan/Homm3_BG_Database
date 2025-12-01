@@ -656,7 +656,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Tower"
-msgstr "Wieża"
+msgstr "Forteca"
 
 #. type: Plain text
 #: docs/towns/tower.md
