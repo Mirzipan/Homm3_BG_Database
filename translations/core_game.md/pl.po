@@ -242,7 +242,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/content/core_game.md
 #, no-wrap
 msgid "Core Game"
-msgstr ""
+msgstr "Pudełko Podstawowe"
 
 #. type: Plain text
 #: docs/content/core_game.md

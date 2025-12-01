@@ -645,7 +645,7 @@ msgstr ""
 #: docs/artifacts/head_of_legion.md
 #, no-wrap
 msgid "Head of Legion"
-msgstr ""
+msgstr "Głowa Legionu"
 
 #. type: Plain text
 #: docs/artifacts/head_of_legion.md

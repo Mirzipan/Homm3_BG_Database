@@ -566,7 +566,7 @@ msgstr ""
 #: docs/artifacts/everpouring_vial_of_mercury.md
 #, no-wrap
 msgid "Everpouring Vial of Mercury"
-msgstr ""
+msgstr "Bezdenna Fiolka Rtęci"
 
 #. type: Plain text
 #: docs/artifacts/everpouring_vial_of_mercury.md

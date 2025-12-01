@@ -624,7 +624,7 @@ msgstr ""
 #: docs/tiles/f14.md
 #, no-wrap
 msgid "F14"
-msgstr ""
+msgstr "F14"
 
 #. type: Bullet: '- '
 #: docs/tiles/f14.md docs/tiles/fx10.md docs/tiles/fx5.md docs/tiles/n12.md

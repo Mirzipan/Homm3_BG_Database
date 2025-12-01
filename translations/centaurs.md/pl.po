@@ -627,7 +627,7 @@ msgstr ""
 #: docs/units/centaurs.md
 #, no-wrap
 msgid "Centaurs"
-msgstr ""
+msgstr "Centaury"
 
 #. type: Plain text
 #: docs/units/centaurs.md

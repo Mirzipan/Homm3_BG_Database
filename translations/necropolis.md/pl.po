@@ -667,7 +667,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Heroes"
-msgstr ""
+msgstr "Bohaterowie"
 
 #. type: Title ##
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
@@ -676,7 +676,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Buildings"
-msgstr ""
+msgstr "Budynki"
 
 #. type: Plain text
 #: docs/towns/castle.md docs/towns/dungeon.md docs/towns/fortress.md
@@ -703,7 +703,7 @@ msgstr ""
 #: docs/towns/necropolis.md
 #, no-wrap
 msgid "Necropolis"
-msgstr ""
+msgstr "Nekropolia"
 
 #. type: Plain text
 #: docs/towns/necropolis.md

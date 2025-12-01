@@ -242,7 +242,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/content/inferno_expansion.md
 #, no-wrap
 msgid "Inferno Expansion"
-msgstr ""
+msgstr "Rozszerzenie Inferno"
 
 #. type: Plain text
 #: docs/content/inferno_expansion.md

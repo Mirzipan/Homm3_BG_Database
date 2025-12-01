@@ -560,7 +560,7 @@ msgstr ""
 #: docs/heroes/ivor.md
 #, no-wrap
 msgid "Ivor"
-msgstr ""
+msgstr "Ivor"
 
 #. type: Plain text
 #: docs/heroes/ivor.md

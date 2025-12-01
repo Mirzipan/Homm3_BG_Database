@@ -738,7 +738,7 @@ msgstr ""
 #: docs/units/medusas.md
 #, no-wrap
 msgid "Medusas"
-msgstr ""
+msgstr "Meduzy"
 
 #. type: Plain text
 #: docs/units/medusas.md

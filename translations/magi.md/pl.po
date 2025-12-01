@@ -705,7 +705,7 @@ msgstr ""
 #: docs/units/magi.md
 #, no-wrap
 msgid "Magi"
-msgstr ""
+msgstr "Magowie"
 
 #. type: Plain text
 #: docs/units/magi.md

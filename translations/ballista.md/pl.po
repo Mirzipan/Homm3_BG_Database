@@ -441,7 +441,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/war_machines/ballista.md
 #, no-wrap
 msgid "Ballista"
-msgstr ""
+msgstr "Balista"
 
 #. type: Plain text
 #: docs/war_machines/ballista.md

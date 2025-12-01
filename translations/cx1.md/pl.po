@@ -590,7 +590,7 @@ msgstr "[Lista Kafelków](index.md)"
 #: docs/tiles/cx1.md
 #, no-wrap
 msgid "#C1"
-msgstr ""
+msgstr "#C1"
 
 #. type: Plain text
 #: docs/tiles/cx1.md docs/tiles/fx1.md docs/tiles/fx2.md docs/tiles/fx3.md

@@ -575,7 +575,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/arms_of_legion.md
 #, no-wrap
 msgid "Arms of Legion"
-msgstr ""
+msgstr "Ramiona Legionu"
 
 #. type: Plain text
 #: docs/artifacts/arms_of_legion.md

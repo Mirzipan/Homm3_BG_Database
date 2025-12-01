@@ -675,7 +675,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/tiles/f2.md
 #, no-wrap
 msgid "F2"
-msgstr ""
+msgstr "F2"
 
 #. type: Bullet: '- '
 #: docs/tiles/f2.md

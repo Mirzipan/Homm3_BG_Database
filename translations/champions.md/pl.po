@@ -733,7 +733,7 @@ msgstr ""
 #: docs/units/champions.md
 #, no-wrap
 msgid "Champions"
-msgstr ""
+msgstr "Czempioni"
 
 #. type: Plain text
 #: docs/units/champions.md

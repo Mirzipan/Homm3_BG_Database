@@ -91,7 +91,7 @@ msgstr ""
 #: docs/keywords/flying_unit.md
 #, no-wrap
 msgid ":unit_flying: Flying Unit"
-msgstr ""
+msgstr ":unit_flying: Jednostka Latająca"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md
@@ -117,7 +117,7 @@ msgstr ""
 #: docs/keywords/flying_unit.md
 #, no-wrap
 msgid "List of Flying Units"
-msgstr ""
+msgstr "Lista Jednostek Latających"
 
 #. type: Bullet: '- '
 #: docs/keywords/flying_unit.md docs/towns/fortress.md

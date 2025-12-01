@@ -528,4 +528,4 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/tiles/f20.md
 #, no-wrap
 msgid "F20"
-msgstr ""
+msgstr "F20"

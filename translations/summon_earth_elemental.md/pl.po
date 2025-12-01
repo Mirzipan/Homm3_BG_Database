@@ -482,7 +482,7 @@ msgstr ""
 #: docs/spells/summon_earth_elemental.md
 #, no-wrap
 msgid "Summon Earth Elemental"
-msgstr ""
+msgstr "Przyzwanie Żywiołaka Ziemi"
 
 #. type: Plain text
 #: docs/spells/summon_earth_elemental.md

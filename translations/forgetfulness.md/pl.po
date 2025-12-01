@@ -474,7 +474,7 @@ msgstr ""
 #: docs/spells/forgetfulness.md
 #, no-wrap
 msgid "Forgetfulness"
-msgstr ""
+msgstr "Aura Zapomnienia"
 
 #. type: Plain text
 #: docs/spells/forgetfulness.md

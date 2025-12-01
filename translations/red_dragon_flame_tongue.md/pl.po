@@ -602,7 +602,7 @@ msgstr ""
 #: docs/artifacts/red_dragon_flame_tongue.md
 #, no-wrap
 msgid "Red Dragon Flame Tongue"
-msgstr ""
+msgstr "Ognisty Język Czerwonego Smoka"
 
 #. type: Plain text
 #: docs/artifacts/red_dragon_flame_tongue.md

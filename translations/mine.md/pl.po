@@ -436,7 +436,7 @@ msgstr ""
 #: docs/fields/mine.md
 #, no-wrap
 msgid "Mine"
-msgstr ""
+msgstr "Kopalnia"
 
 #. type: Plain text
 #: docs/fields/mine.md

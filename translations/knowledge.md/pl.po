@@ -306,7 +306,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/statistics/knowledge.md
 #, no-wrap
 msgid "Knowledge"
-msgstr ""
+msgstr "Wiedza"
 
 #. type: Plain text
 #: docs/statistics/knowledge.md

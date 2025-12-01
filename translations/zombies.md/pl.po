@@ -753,7 +753,7 @@ msgstr ""
 #: docs/units/zombies.md
 #, no-wrap
 msgid "Zombies"
-msgstr ""
+msgstr "Zombie"
 
 #. type: Plain text
 #: docs/units/zombies.md

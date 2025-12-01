@@ -598,7 +598,7 @@ msgstr ""
 #: docs/tiles/c4.md
 #, no-wrap
 msgid "C4"
-msgstr ""
+msgstr "C4"
 
 #. type: Plain text
 #: docs/tiles/c4.md docs/tiles/f13.md docs/tiles/f14.md docs/tiles/f15.md

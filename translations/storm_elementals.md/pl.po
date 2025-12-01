@@ -609,7 +609,7 @@ msgstr ""
 #: docs/units/storm_elementals.md
 #, no-wrap
 msgid "Storm Elementals"
-msgstr ""
+msgstr "Żywiołaki Burzy"
 
 #. type: Plain text
 #: docs/units/storm_elementals.md

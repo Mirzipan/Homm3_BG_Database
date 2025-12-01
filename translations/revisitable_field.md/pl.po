@@ -343,7 +343,7 @@ msgstr ""
 #: docs/keywords/revisitable_field.md
 #, no-wrap
 msgid "Revisitable Field"
-msgstr ""
+msgstr "Pole Wielorazowe"
 
 #. type: Title ##
 #: docs/keywords/revisitable_field.md

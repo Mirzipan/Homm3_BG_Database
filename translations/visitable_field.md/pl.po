@@ -334,7 +334,7 @@ msgstr ""
 #: docs/keywords/visitable_field.md
 #, no-wrap
 msgid "Visitable Field"
-msgstr ""
+msgstr "Pole Jednorazowe"
 
 #. type: Title ##
 #: docs/keywords/visitable_field.md

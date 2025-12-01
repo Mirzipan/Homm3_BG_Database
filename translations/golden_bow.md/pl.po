@@ -505,7 +505,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/golden_bow.md
 #, no-wrap
 msgid "Golden Bow"
-msgstr ""
+msgstr "Złoty Łuk"
 
 #. type: Plain text
 #: docs/artifacts/golden_bow.md

@@ -572,7 +572,7 @@ msgstr ""
 #: docs/heroes/lord_haart_castle.md
 #, no-wrap
 msgid "Lord Haart (Castle)"
-msgstr ""
+msgstr "Lord Haart (Zamek)"
 
 #. type: Plain text
 #: docs/heroes/lord_haart_castle.md

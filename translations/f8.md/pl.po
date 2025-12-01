@@ -679,4 +679,4 @@ msgstr ""
 #: docs/tiles/f8.md
 #, no-wrap
 msgid "F8"
-msgstr ""
+msgstr "F8"

@@ -494,7 +494,7 @@ msgstr "[Rozszerzenie Cytadela](../content/fortress_expansion.md)"
 #: docs/abilities/learning.md
 #, no-wrap
 msgid "Learning"
-msgstr ""
+msgstr "Nauka"
 
 #. type: Plain text
 #: docs/abilities/learning.md

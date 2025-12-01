@@ -548,7 +548,7 @@ msgstr ""
 #: docs/heroes/luna.md
 #, no-wrap
 msgid "Luna"
-msgstr ""
+msgstr "Luna"
 
 #. type: Plain text
 #: docs/heroes/luna.md

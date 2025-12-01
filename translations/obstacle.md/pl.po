@@ -88,7 +88,7 @@ msgstr "Uwagi"
 #: docs/keywords/obstacle.md
 #, no-wrap
 msgid "Obstacle"
-msgstr ""
+msgstr "Przeszkoda"
 
 #. type: Bullet: '- '
 #: docs/keywords/obstacle.md

@@ -673,7 +673,7 @@ msgstr ""
 #: docs/units/griffins.md
 #, no-wrap
 msgid "Griffins"
-msgstr ""
+msgstr "Gryfy"
 
 #. type: Plain text
 #: docs/units/griffins.md

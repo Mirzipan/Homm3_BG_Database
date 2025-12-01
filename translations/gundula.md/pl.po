@@ -610,7 +610,7 @@ msgstr ""
 #: docs/heroes/gundula.md
 #, no-wrap
 msgid "Gundula"
-msgstr ""
+msgstr "Gundula"
 
 #. type: Plain text
 #: docs/heroes/gundula.md

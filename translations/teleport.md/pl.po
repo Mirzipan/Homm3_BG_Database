@@ -528,7 +528,7 @@ msgstr ""
 #: docs/spells/teleport.md
 #, no-wrap
 msgid "Teleport"
-msgstr ""
+msgstr "Teleport"
 
 #. type: Plain text
 #: docs/spells/teleport.md

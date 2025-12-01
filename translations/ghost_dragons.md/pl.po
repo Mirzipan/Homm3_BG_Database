@@ -756,7 +756,7 @@ msgstr ""
 #: docs/units/ghost_dragons.md
 #, no-wrap
 msgid "Ghost Dragons"
-msgstr ""
+msgstr "Upiorne Smoki"
 
 #. type: Plain text
 #: docs/units/ghost_dragons.md

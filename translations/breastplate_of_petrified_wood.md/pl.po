@@ -563,7 +563,7 @@ msgstr ""
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #, no-wrap
 msgid "Breastplate of Petrified Wood"
-msgstr ""
+msgstr "Napierśnik ze Skamieniałego Drzewa"
 
 #. type: Plain text
 #: docs/artifacts/breastplate_of_petrified_wood.md

@@ -672,7 +672,7 @@ msgstr ""
 #: docs/units/fire_elementals.md
 #, no-wrap
 msgid "Fire Elementals"
-msgstr ""
+msgstr "Żywiołaki Ognia"
 
 #. type: Plain text
 #: docs/units/fire_elementals.md

@@ -650,7 +650,7 @@ msgstr "[Lista Kafelków](index.md)"
 #: docs/tiles/c2.md
 #, no-wrap
 msgid "C2"
-msgstr ""
+msgstr "C2"
 
 #. type: Bullet: '- '
 #: docs/tiles/c2.md docs/tiles/c5.md

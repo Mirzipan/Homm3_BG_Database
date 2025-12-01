@@ -608,7 +608,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/scorched_ground.md
 #, no-wrap
 msgid "Scorched Ground"
-msgstr ""
+msgstr "Spalonej Ziemi"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/scorched_ground.md

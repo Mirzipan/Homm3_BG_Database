@@ -540,7 +540,7 @@ msgstr "[Lista Artefaktów](../artifacts/index.md)"
 #: docs/events/a_shady_auction.md
 #, no-wrap
 msgid "A Shady Auction"
-msgstr ""
+msgstr "Szemrana Aukcja"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md

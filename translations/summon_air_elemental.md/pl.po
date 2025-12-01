@@ -484,7 +484,7 @@ msgstr ""
 #: docs/spells/summon_air_elemental.md
 #, no-wrap
 msgid "Summon Air Elemental"
-msgstr ""
+msgstr "Przyzwanie Żywiołaka Powietrza"
 
 #. type: Plain text
 #: docs/spells/summon_air_elemental.md

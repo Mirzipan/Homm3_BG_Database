@@ -556,7 +556,7 @@ msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 #: docs/abilities/tactics.md
 #, no-wrap
 msgid "Tactics"
-msgstr ""
+msgstr "Taktyka"
 
 #. type: Plain text
 #: docs/abilities/tactics.md

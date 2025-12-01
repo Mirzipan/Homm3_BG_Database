@@ -512,7 +512,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/pendant_of_second_sight.md
 #, no-wrap
 msgid "Pendant of Second Sight"
-msgstr ""
+msgstr "Wisiorek Magicznej Wizji"
 
 #. type: Plain text
 #: docs/artifacts/pendant_of_second_sight.md

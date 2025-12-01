@@ -637,7 +637,7 @@ msgstr ""
 #: docs/units/dragon_flies.md
 #, no-wrap
 msgid "Dragon Flies"
-msgstr ""
+msgstr "Oślizgi Smocze"
 
 #. type: Plain text
 #: docs/units/dragon_flies.md

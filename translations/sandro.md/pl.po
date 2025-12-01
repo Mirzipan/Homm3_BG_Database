@@ -706,7 +706,7 @@ msgstr ""
 #: docs/heroes/sandro.md
 #, no-wrap
 msgid "Sandro"
-msgstr ""
+msgstr "Sandro"
 
 #. type: Plain text
 #: docs/heroes/sandro.md

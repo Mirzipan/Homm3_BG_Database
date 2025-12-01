@@ -475,7 +475,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/precision.md
 #, no-wrap
 msgid "Precision"
-msgstr ""
+msgstr "Precyzja"
 
 #. type: Plain text
 #: docs/spells/precision.md

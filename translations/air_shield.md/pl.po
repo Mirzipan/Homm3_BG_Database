@@ -423,7 +423,7 @@ msgstr ""
 #: docs/spells/air_shield.md
 #, no-wrap
 msgid "Air Shield"
-msgstr ""
+msgstr "Tarcza Powietrzna"
 
 #. type: Plain text
 #: docs/spells/air_shield.md

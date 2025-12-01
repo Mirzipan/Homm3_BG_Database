@@ -503,7 +503,7 @@ msgstr ""
 #: docs/artifacts/lions_shield_of_courage.md
 #, no-wrap
 msgid "Lion's Shield of Courage"
-msgstr ""
+msgstr "Lwa Tarcza Odwagi"
 
 #. type: Plain text
 #: docs/artifacts/lions_shield_of_courage.md

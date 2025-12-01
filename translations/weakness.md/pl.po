@@ -529,7 +529,7 @@ msgstr ""
 #: docs/spells/weakness.md
 #, no-wrap
 msgid "Weakness"
-msgstr ""
+msgstr "Osłabienie"
 
 #. type: Plain text
 #: docs/spells/weakness.md

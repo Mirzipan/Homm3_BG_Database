@@ -647,7 +647,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/nomads.md
 #, no-wrap
 msgid "Nomads"
-msgstr ""
+msgstr "Nomadzi"
 
 #. type: Plain text
 #: docs/units/nomads.md

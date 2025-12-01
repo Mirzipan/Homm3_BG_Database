@@ -638,7 +638,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
 msgid "Wild Debauchery"
-msgstr ""
+msgstr "Hulanek i Swawoli"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/wild_debauchery.md

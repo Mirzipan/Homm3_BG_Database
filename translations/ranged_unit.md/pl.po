@@ -115,7 +115,7 @@ msgstr ""
 #: docs/keywords/ranged_unit.md
 #, no-wrap
 msgid ":unit_ranged: Ranged Unit"
-msgstr ""
+msgstr ":unit_ranged: Jednostka Dystansowa"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
@@ -151,7 +151,7 @@ msgstr ""
 #: docs/keywords/ranged_unit.md
 #, no-wrap
 msgid "List of Ranged Units"
-msgstr ""
+msgstr "Lista Jednostek Dystansowych"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/rampart.md

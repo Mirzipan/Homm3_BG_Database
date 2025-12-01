@@ -436,7 +436,7 @@ msgstr ""
 #: docs/fields/war_machine_factory.md
 #, no-wrap
 msgid "War Machine Factory"
-msgstr ""
+msgstr "Fabryka Machin Wojennych"
 
 #. type: Plain text
 #: docs/fields/war_machine_factory.md

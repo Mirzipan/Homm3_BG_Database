@@ -521,7 +521,7 @@ msgstr ""
 #: docs/artifacts/necklace_of_swiftness.md
 #, no-wrap
 msgid "Necklace of Swiftness"
-msgstr ""
+msgstr "Naszyjnik Zwinności"
 
 #. type: Plain text
 #: docs/artifacts/necklace_of_swiftness.md

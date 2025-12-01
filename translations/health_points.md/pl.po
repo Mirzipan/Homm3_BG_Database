@@ -88,4 +88,4 @@ msgstr "Uwagi"
 #: docs/keywords/health_points.md
 #, no-wrap
 msgid ":health_points: Health Points"
-msgstr ""
+msgstr ":health_points: Punkty Życia"

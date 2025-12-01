@@ -445,7 +445,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/grail.md
 #, no-wrap
 msgid "Grail"
-msgstr ""
+msgstr "Graal"
 
 #. type: Plain text
 #: docs/fields/grail.md

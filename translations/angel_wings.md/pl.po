@@ -602,7 +602,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/angel_wings.md
 #, no-wrap
 msgid "Angel Wings"
-msgstr ""
+msgstr "Skrzydła Anioła"
 
 #. type: Plain text
 #: docs/artifacts/angel_wings.md

@@ -587,7 +587,7 @@ msgstr ""
 #: docs/spells/fireball.md
 #, no-wrap
 msgid "Fireball"
-msgstr ""
+msgstr "Kula Ognia"
 
 #. type: Plain text
 #: docs/spells/fireball.md

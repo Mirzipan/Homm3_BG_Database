@@ -609,7 +609,7 @@ msgstr ""
 #: docs/units/magic_elementals.md
 #, no-wrap
 msgid "Magic Elementals"
-msgstr ""
+msgstr "Żywiołaki Magii"
 
 #. type: Plain text
 #: docs/units/magic_elementals.md

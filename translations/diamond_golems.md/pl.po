@@ -582,7 +582,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/diamond_golems.md
 #, no-wrap
 msgid "Diamond Golems"
-msgstr ""
+msgstr "Diamentowe Golemy"
 
 #. type: Plain text
 #: docs/units/diamond_golems.md

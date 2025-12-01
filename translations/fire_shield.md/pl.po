@@ -587,7 +587,7 @@ msgstr ""
 #: docs/spells/fire_shield.md
 #, no-wrap
 msgid "Fire Shield"
-msgstr ""
+msgstr "Tarcza Ognia"
 
 #. type: Plain text
 #: docs/spells/fire_shield.md

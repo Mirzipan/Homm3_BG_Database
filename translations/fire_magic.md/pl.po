@@ -578,7 +578,7 @@ msgstr ""
 #: docs/abilities/fire_magic.md
 #, no-wrap
 msgid "Fire Magic"
-msgstr ""
+msgstr "Magia Ognia"
 
 #. type: Plain text
 #: docs/abilities/fire_magic.md

@@ -654,7 +654,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/astrologers_proclaim/mcgiver.md
 #, no-wrap
 msgid "McGiver"
-msgstr ""
+msgstr "McGivera"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/mcgiver.md

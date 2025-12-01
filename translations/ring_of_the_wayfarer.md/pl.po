@@ -515,7 +515,7 @@ msgstr ""
 #: docs/artifacts/ring_of_the_wayfarer.md
 #, no-wrap
 msgid "Ring of the Wayfarer"
-msgstr ""
+msgstr "Pierścień Wędrowca"
 
 #. type: Plain text
 #: docs/artifacts/ring_of_the_wayfarer.md

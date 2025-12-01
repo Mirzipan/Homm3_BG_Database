@@ -569,7 +569,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/messenger_with_supplies.md
 #, no-wrap
 msgid "Messenger with Supplies"
-msgstr ""
+msgstr "Posłaniec z Przesyłką"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md

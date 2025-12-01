@@ -561,7 +561,7 @@ msgstr "[Lista Zdolności](index.md)"
 #: docs/abilities/earth_magic.md
 #, no-wrap
 msgid "Earth Magic"
-msgstr ""
+msgstr "Magia Ziemi"
 
 #. type: Plain text
 #: docs/abilities/earth_magic.md

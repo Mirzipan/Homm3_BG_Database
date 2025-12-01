@@ -601,7 +601,7 @@ msgstr "Jednostki"
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Heroes"
-msgstr ""
+msgstr "Bohaterowie"
 
 #. type: Title ##
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
@@ -610,13 +610,13 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Buildings"
-msgstr ""
+msgstr "Budynki"
 
 #. type: Title #
 #: docs/towns/conflux.md
 #, no-wrap
 msgid "Conflux"
-msgstr ""
+msgstr "Wrota Żywiołów"
 
 #. type: Plain text
 #: docs/towns/conflux.md

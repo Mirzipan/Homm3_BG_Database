@@ -542,7 +542,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/fortune.md
 #, no-wrap
 msgid "Fortune"
-msgstr ""
+msgstr "Fortuna"
 
 #. type: Plain text
 #: docs/spells/fortune.md

@@ -430,7 +430,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/war_machines/cannon.md
 #, no-wrap
 msgid "Cannon"
-msgstr ""
+msgstr "Armata"
 
 #. type: Plain text
 #: docs/war_machines/cannon.md

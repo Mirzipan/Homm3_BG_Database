@@ -485,7 +485,7 @@ msgstr ""
 #: docs/spells/fly.md
 #, no-wrap
 msgid "Fly"
-msgstr ""
+msgstr "Lot"
 
 #. type: Plain text
 #: docs/spells/fly.md

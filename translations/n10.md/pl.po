@@ -606,7 +606,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/tiles/n10.md
 #, no-wrap
 msgid "N10"
-msgstr ""
+msgstr "N10"
 
 #. type: Bullet: '- '
 #: docs/tiles/n10.md docs/tiles/n5.md docs/tiles/n7.md

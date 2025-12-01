@@ -573,7 +573,7 @@ msgstr "[Lista Zaklęć](../spells/index.md)"
 #: docs/abilities/wisdom.md
 #, no-wrap
 msgid "Wisdom"
-msgstr ""
+msgstr "Mądrość"
 
 #. type: Plain text
 #: docs/abilities/wisdom.md

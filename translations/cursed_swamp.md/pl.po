@@ -576,7 +576,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/cursed_swamp.md
 #, no-wrap
 msgid "Cursed Swamp"
-msgstr ""
+msgstr "Przeklęte Bagno"
 
 #. type: Plain text
 #: docs/events/cursed_swamp.md

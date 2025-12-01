@@ -560,7 +560,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/targ_of_the_rampaging_ogre.md
 #, no-wrap
 msgid "Targ of the Rampaging Ogre"
-msgstr ""
+msgstr "Tarcza Szalonego Ogra"
 
 #. type: Plain text
 #: docs/artifacts/targ_of_the_rampaging_ogre.md

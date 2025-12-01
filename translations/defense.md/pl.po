@@ -248,7 +248,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/statistics/defense.md
 #, no-wrap
 msgid "Defense"
-msgstr ""
+msgstr "Obrona"
 
 #. type: Plain text
 #: docs/statistics/defense.md

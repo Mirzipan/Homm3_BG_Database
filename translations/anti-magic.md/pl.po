@@ -567,7 +567,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/anti-magic.md
 #, no-wrap
 msgid "Anti-Magic"
-msgstr ""
+msgstr "Antymagia"
 
 #. type: Plain text
 #: docs/spells/anti-magic.md

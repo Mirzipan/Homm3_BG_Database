@@ -88,7 +88,7 @@ msgstr "Uwagi"
 #: docs/keywords/damage.md
 #, no-wrap
 msgid ":damage: Damage"
-msgstr ""
+msgstr ":damage: Obrażenia"
 
 #. type: Bullet: '- '
 #: docs/keywords/damage.md

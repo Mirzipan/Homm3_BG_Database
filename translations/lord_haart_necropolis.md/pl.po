@@ -558,7 +558,7 @@ msgstr ""
 #: docs/heroes/lord_haart_necropolis.md
 #, no-wrap
 msgid "Lord Haart (Necropolis)"
-msgstr ""
+msgstr "Lord Haart (Nekropolia)"
 
 #. type: Plain text
 #: docs/heroes/lord_haart_necropolis.md

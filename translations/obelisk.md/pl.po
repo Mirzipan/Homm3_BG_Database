@@ -436,7 +436,7 @@ msgstr ""
 #: docs/fields/obelisk.md
 #, no-wrap
 msgid "Obelisk"
-msgstr ""
+msgstr "Obelisk"
 
 #. type: Plain text
 #: docs/fields/obelisk.md

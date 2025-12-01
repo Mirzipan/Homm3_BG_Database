@@ -555,7 +555,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/crypt.md
 #, no-wrap
 msgid "Crypt"
-msgstr ""
+msgstr "Krypta"
 
 #. type: Plain text
 #: docs/events/crypt.md

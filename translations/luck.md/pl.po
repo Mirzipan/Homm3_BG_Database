@@ -691,7 +691,7 @@ msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 #: docs/abilities/luck.md
 #, no-wrap
 msgid "Luck"
-msgstr ""
+msgstr "Szczęście"
 
 #. type: Plain text
 #: docs/abilities/luck.md

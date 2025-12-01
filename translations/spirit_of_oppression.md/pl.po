@@ -518,7 +518,7 @@ msgstr ""
 #: docs/artifacts/spirit_of_oppression.md
 #, no-wrap
 msgid "Spirit of Oppression"
-msgstr ""
+msgstr "Duch Opresji"
 
 #. type: Plain text
 #: docs/artifacts/spirit_of_oppression.md

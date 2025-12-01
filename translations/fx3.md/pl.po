@@ -629,4 +629,4 @@ msgstr ""
 #: docs/tiles/fx3.md
 #, no-wrap
 msgid "#F3"
-msgstr ""
+msgstr "#F3"

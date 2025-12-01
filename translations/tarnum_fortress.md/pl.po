@@ -674,7 +674,7 @@ msgstr ""
 #: docs/heroes/tarnum_fortress.md
 #, no-wrap
 msgid "Tarnum (Fortress)"
-msgstr ""
+msgstr "Tarnum (Forteca)"
 
 #. type: Plain text
 #: docs/heroes/tarnum_fortress.md

@@ -616,4 +616,4 @@ msgstr ""
 #: docs/tiles/n7.md
 #, no-wrap
 msgid "N7"
-msgstr ""
+msgstr "N7"
