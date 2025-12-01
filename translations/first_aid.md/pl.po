@@ -633,7 +633,7 @@ msgstr "[Rozszerzenie Bastion](../content/rampart_expansion.md)"
 #: docs/abilities/first_aid.md
 #, no-wrap
 msgid "First Aid"
-msgstr ""
+msgstr "Pierwsza Pomoc"
 
 #. type: Plain text
 #: docs/abilities/first_aid.md

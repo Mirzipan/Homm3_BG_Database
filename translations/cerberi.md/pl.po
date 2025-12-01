@@ -686,7 +686,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/cerberi.md
 #, no-wrap
 msgid "Cerberi"
-msgstr ""
+msgstr "Cerbery"
 
 #. type: Plain text
 #: docs/units/cerberi.md

@@ -687,7 +687,7 @@ msgstr ""
 #: docs/units/pegasi.md
 #, no-wrap
 msgid "Pegasi"
-msgstr ""
+msgstr "Pegazy"
 
 #. type: Plain text
 #: docs/units/pegasi.md

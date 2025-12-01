@@ -758,7 +758,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/crusaders.md
 #, no-wrap
 msgid "Crusaders"
-msgstr ""
+msgstr "Krzyżowcy"
 
 #. type: Plain text
 #: docs/units/crusaders.md

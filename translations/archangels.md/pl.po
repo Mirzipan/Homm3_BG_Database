@@ -733,7 +733,7 @@ msgstr ""
 #: docs/units/archangels.md
 #, no-wrap
 msgid "Archangels"
-msgstr ""
+msgstr "Archanioły"
 
 #. type: Plain text
 #: docs/units/archangels.md

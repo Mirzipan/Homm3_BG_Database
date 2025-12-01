@@ -554,7 +554,7 @@ msgstr "[Lista Miast](../towns/index.md)"
 #: docs/heroes/adelaide.md
 #, no-wrap
 msgid "Adelaide"
-msgstr ""
+msgstr "Adelaide"
 
 #. type: Plain text
 #: docs/heroes/adelaide.md

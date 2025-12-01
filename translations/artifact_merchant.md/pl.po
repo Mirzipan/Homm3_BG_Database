@@ -569,7 +569,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/artifact_merchant.md
 #, no-wrap
 msgid "Artifact Merchant"
-msgstr ""
+msgstr "Handlarz Artefaktów"
 
 #. type: Plain text
 #: docs/events/artifact_merchant.md

@@ -445,7 +445,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/magic_spring.md
 #, no-wrap
 msgid "Magic Spring"
-msgstr ""
+msgstr "Magiczne Źródło"
 
 #. type: Plain text
 #: docs/fields/magic_spring.md

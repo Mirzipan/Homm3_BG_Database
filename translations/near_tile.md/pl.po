@@ -362,7 +362,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/keywords/near_tile.md
 #, no-wrap
 msgid "Near Tile"
-msgstr ""
+msgstr "Kafelek Bliski"
 
 #. type: Plain text
 #: docs/keywords/near_tile.md

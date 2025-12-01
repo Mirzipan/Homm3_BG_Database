@@ -609,7 +609,7 @@ msgstr ""
 #: docs/units/energy_elementals.md
 #, no-wrap
 msgid "Energy Elementals"
-msgstr ""
+msgstr "Żywiołaki Energii"
 
 #. type: Plain text
 #: docs/units/energy_elementals.md

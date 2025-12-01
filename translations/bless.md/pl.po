@@ -567,7 +567,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/bless.md
 #, no-wrap
 msgid "Bless"
-msgstr ""
+msgstr "Błogosławieństwo"
 
 #. type: Plain text
 #: docs/spells/bless.md

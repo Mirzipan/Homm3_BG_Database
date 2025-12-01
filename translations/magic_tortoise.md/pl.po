@@ -646,7 +646,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/magic_tortoise.md
 #, no-wrap
 msgid "Magic Tortoise"
-msgstr ""
+msgstr "Magicznego Żółwia"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/magic_tortoise.md

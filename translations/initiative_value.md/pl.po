@@ -88,4 +88,4 @@ msgstr "Uwagi"
 #: docs/keywords/initiative_value.md
 #, no-wrap
 msgid ":initiative: Initiative Value"
-msgstr ""
+msgstr ":initiative: Wartość Inicjatywy"

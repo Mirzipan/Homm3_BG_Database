@@ -445,7 +445,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/water_wheel.md
 #, no-wrap
 msgid "Water Wheel"
-msgstr ""
+msgstr "Młyn Wodny"
 
 #. type: Plain text
 #: docs/fields/water_wheel.md

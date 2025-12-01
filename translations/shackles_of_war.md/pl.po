@@ -560,7 +560,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/shackles_of_war.md
 #, no-wrap
 msgid "Shackles of War"
-msgstr ""
+msgstr "Kajdany Wojny"
 
 #. type: Plain text
 #: docs/artifacts/shackles_of_war.md

@@ -563,7 +563,7 @@ msgstr ""
 #: docs/artifacts/charm_of_mana.md
 #, no-wrap
 msgid "Charm of Mana"
-msgstr ""
+msgstr "Amulet Many"
 
 #. type: Plain text
 #: docs/artifacts/charm_of_mana.md

@@ -655,7 +655,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/crazy_wizard.md
 #, no-wrap
 msgid "Crazy Wizard"
-msgstr ""
+msgstr "Pomylonego Maga"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/crazy_wizard.md

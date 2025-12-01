@@ -599,4 +599,4 @@ msgstr ""
 #: docs/tiles/u2.md
 #, no-wrap
 msgid "U2"
-msgstr ""
+msgstr "U2"

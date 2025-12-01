@@ -613,7 +613,7 @@ msgstr ""
 #: docs/tiles/s5.md
 #, no-wrap
 msgid "S5"
-msgstr ""
+msgstr "S5"
 
 #. type: Bullet: '- '
 #: docs/tiles/s5.md

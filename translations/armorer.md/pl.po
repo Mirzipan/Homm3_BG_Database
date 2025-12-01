@@ -691,7 +691,7 @@ msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 #: docs/abilities/armorer.md
 #, no-wrap
 msgid "Armorer"
-msgstr ""
+msgstr "Uzbrojenie"
 
 #. type: Plain text
 #: docs/abilities/armorer.md

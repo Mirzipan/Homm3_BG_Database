@@ -563,7 +563,7 @@ msgstr ""
 #: docs/tiles/w3.md
 #, no-wrap
 msgid "W3"
-msgstr ""
+msgstr "W3"
 
 #. type: Bullet: '- '
 #: docs/tiles/w3.md

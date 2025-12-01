@@ -693,7 +693,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/friendly_beaver.md
 #, no-wrap
 msgid "Friendly Beaver"
-msgstr ""
+msgstr "Przyjaznego Bobra"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/friendly_beaver.md

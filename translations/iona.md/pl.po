@@ -551,7 +551,7 @@ msgstr ""
 #: docs/heroes/iona.md
 #, no-wrap
 msgid "Iona"
-msgstr ""
+msgstr "Iona"
 
 #. type: Plain text
 #: docs/heroes/iona.md

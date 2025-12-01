@@ -683,4 +683,4 @@ msgstr ""
 #: docs/tiles/f4.md
 #, no-wrap
 msgid "F4"
-msgstr ""
+msgstr "F4"

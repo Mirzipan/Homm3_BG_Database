@@ -588,7 +588,7 @@ msgstr ""
 #: docs/spells/resurrection.md
 #, no-wrap
 msgid "Resurrection"
-msgstr ""
+msgstr "Wskrzeszenie"
 
 #. type: Plain text
 #: docs/spells/resurrection.md

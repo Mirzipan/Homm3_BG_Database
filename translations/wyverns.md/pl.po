@@ -697,7 +697,7 @@ msgstr ""
 #: docs/units/wyverns.md
 #, no-wrap
 msgid "Wyverns"
-msgstr ""
+msgstr "Wiwerny"
 
 #. type: Plain text
 #: docs/units/wyverns.md

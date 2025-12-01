@@ -518,7 +518,7 @@ msgstr ""
 #: docs/artifacts/crest_of_valor.md
 #, no-wrap
 msgid "Crest of Valor"
-msgstr ""
+msgstr "Herb Męstwa"
 
 #. type: Plain text
 #: docs/artifacts/crest_of_valor.md

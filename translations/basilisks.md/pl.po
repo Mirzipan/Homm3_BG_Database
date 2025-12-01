@@ -708,7 +708,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/basilisks.md
 #, no-wrap
 msgid "Basilisks"
-msgstr ""
+msgstr "Bazyliszki"
 
 #. type: Plain text
 #: docs/units/basilisks.md

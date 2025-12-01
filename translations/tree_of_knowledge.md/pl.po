@@ -445,7 +445,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/tree_of_knowledge.md
 #, no-wrap
 msgid "Tree of Knowledge"
-msgstr ""
+msgstr "Drzewo Wiedzy"
 
 #. type: Plain text
 #: docs/fields/tree_of_knowledge.md

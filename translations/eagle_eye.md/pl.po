@@ -544,7 +544,7 @@ msgstr ""
 #: docs/abilities/eagle_eye.md
 #, no-wrap
 msgid "Eagle Eye"
-msgstr ""
+msgstr "Sokoli Wzrok"
 
 #. type: Plain text
 #: docs/abilities/eagle_eye.md

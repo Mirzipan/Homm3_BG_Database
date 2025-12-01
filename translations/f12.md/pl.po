@@ -602,7 +602,7 @@ msgstr ""
 #: docs/tiles/f12.md
 #, no-wrap
 msgid "F12"
-msgstr ""
+msgstr "F12"
 
 #. type: Bullet: '- '
 #: docs/tiles/f12.md docs/tiles/f18.md

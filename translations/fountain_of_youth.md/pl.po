@@ -445,7 +445,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/fountain_of_youth.md
 #, no-wrap
 msgid "Fountain of Youth"
-msgstr ""
+msgstr "Fontanna Młodości"
 
 #. type: Plain text
 #: docs/fields/fountain_of_youth.md

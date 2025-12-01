@@ -621,4 +621,4 @@ msgstr ""
 #: docs/tiles/nx2.md
 #, no-wrap
 msgid "#N2"
-msgstr ""
+msgstr "#N2"

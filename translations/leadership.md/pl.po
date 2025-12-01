@@ -626,7 +626,7 @@ msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 #: docs/abilities/leadership.md
 #, no-wrap
 msgid "Leadership"
-msgstr ""
+msgstr "Dowodzenie"
 
 #. type: Plain text
 #: docs/abilities/leadership.md

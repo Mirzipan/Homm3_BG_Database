@@ -201,7 +201,7 @@ msgstr ""
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Fourni avec"
 
 #. type: Bullet: '- '
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/gold_dragons.md
@@ -430,7 +430,7 @@ msgstr ""
 #: docs/towns/cove.md docs/towns/castle.md docs/difficulties.md
 #, no-wrap
 msgid "See Also"
-msgstr ""
+msgstr "Voir aussi"
 
 #. type: Bullet: '- '
 #: docs/spells/bloodlust.md docs/spells/visions.md docs/spells/fireball.md

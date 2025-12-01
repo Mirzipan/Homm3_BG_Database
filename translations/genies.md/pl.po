@@ -700,7 +700,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/genies.md
 #, no-wrap
 msgid "Genies"
-msgstr ""
+msgstr "Dżiny"
 
 #. type: Plain text
 #: docs/units/genies.md

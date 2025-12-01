@@ -617,7 +617,7 @@ msgstr ""
 #: docs/tiles/fx8.md
 #, no-wrap
 msgid "#F8"
-msgstr ""
+msgstr "#F8"
 
 #. type: Bullet: '- '
 #: docs/tiles/fx8.md

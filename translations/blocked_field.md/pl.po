@@ -90,7 +90,7 @@ msgstr ""
 #: docs/keywords/blocked_field.md
 #, no-wrap
 msgid "Blocked Field"
-msgstr ""
+msgstr "Pole Zablokowane"
 
 #. type: Bullet: '- '
 #: docs/keywords/blocked_field.md

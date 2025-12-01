@@ -80,7 +80,7 @@ msgstr "Uwagi"
 #: docs/keywords/permanent_effect.md
 #, no-wrap
 msgid "Permanent Effect"
-msgstr ""
+msgstr "Efekt Permanentny"
 
 #. type: Bullet: '- '
 #: docs/keywords/permanent_effect.md

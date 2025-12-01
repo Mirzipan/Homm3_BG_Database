@@ -578,7 +578,7 @@ msgstr ""
 #: docs/abilities/water_magic.md
 #, no-wrap
 msgid "Water Magic"
-msgstr ""
+msgstr "Magia Wody"
 
 #. type: Plain text
 #: docs/abilities/water_magic.md

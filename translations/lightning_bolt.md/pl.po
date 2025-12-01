@@ -530,7 +530,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/lightning_bolt.md
 #, no-wrap
 msgid "Lightning Bolt"
-msgstr ""
+msgstr "Piorun"
 
 #. type: Plain text
 #: docs/spells/lightning_bolt.md

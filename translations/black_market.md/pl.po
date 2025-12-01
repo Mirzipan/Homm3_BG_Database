@@ -428,7 +428,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/black_market.md
 #, no-wrap
 msgid "Black Market"
-msgstr ""
+msgstr "Czarny Rynek"
 
 #. type: Plain text
 #: docs/fields/black_market.md

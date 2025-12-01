@@ -671,7 +671,7 @@ msgstr ""
 #: docs/units/pit_lords.md
 #, no-wrap
 msgid "Pit Lords"
-msgstr ""
+msgstr "Czarcie Lordy"
 
 #. type: Plain text
 #: docs/units/pit_lords.md

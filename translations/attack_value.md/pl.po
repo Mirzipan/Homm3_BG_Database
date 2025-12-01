@@ -88,4 +88,4 @@ msgstr "Uwagi"
 #: docs/keywords/attack_value.md
 #, no-wrap
 msgid ":attack: Attack Value"
-msgstr ""
+msgstr ":attack: Wartość Ataku"

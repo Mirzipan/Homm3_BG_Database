@@ -570,7 +570,7 @@ msgstr ""
 #: docs/heroes/josephine.md
 #, no-wrap
 msgid "Josephine"
-msgstr ""
+msgstr "Josephine"
 
 #. type: Plain text
 #: docs/heroes/josephine.md

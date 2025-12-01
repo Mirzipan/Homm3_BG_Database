@@ -436,7 +436,7 @@ msgstr ""
 #: docs/fields/tavern.md
 #, no-wrap
 msgid "Tavern"
-msgstr ""
+msgstr "Karczma"
 
 #. type: Plain text
 #: docs/fields/tavern.md

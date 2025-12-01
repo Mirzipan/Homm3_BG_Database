@@ -434,10 +434,9 @@ msgstr ""
 
 #. type: Title #
 #: docs/fields/trading_post.md
-#, fuzzy, no-wrap
-#| msgid "Trading"
+#, no-wrap
 msgid "Trading Post"
-msgstr "Handel"
+msgstr "Punkt Handlowy"
 
 #. type: Plain text
 #: docs/fields/trading_post.md

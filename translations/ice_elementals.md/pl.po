@@ -609,7 +609,7 @@ msgstr ""
 #: docs/units/ice_elementals.md
 #, no-wrap
 msgid "Ice Elementals"
-msgstr ""
+msgstr "Żywiołaki Lodu"
 
 #. type: Plain text
 #: docs/units/ice_elementals.md

@@ -593,7 +593,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/events/magical_forest.md
 #, no-wrap
 msgid "Magical Forest"
-msgstr ""
+msgstr "Zaczarowany Gaj"
 
 #. type: Plain text
 #: docs/events/magical_forest.md

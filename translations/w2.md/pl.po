@@ -537,4 +537,4 @@ msgstr ""
 #: docs/tiles/w2.md
 #, no-wrap
 msgid "W2"
-msgstr ""
+msgstr "W2"

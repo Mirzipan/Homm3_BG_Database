@@ -654,7 +654,7 @@ msgstr ""
 #: docs/heroes/octavia.md
 #, no-wrap
 msgid "Octavia"
-msgstr ""
+msgstr "Octavia"
 
 #. type: Plain text
 #: docs/heroes/octavia.md

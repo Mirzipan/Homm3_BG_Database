@@ -560,7 +560,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/endless_bag_of_gold.md
 #, no-wrap
 msgid "Endless Bag of Gold"
-msgstr ""
+msgstr "Bezdenny Worek Złota"
 
 #. type: Plain text
 #: docs/artifacts/endless_bag_of_gold.md

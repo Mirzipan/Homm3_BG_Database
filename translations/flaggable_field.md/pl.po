@@ -324,7 +324,7 @@ msgstr "Zobacz też"
 #: docs/keywords/flaggable_field.md
 #, no-wrap
 msgid "Flaggable Field"
-msgstr ""
+msgstr "Pole do Oflagowania"
 
 #. type: Title ##
 #: docs/keywords/flaggable_field.md

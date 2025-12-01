@@ -708,7 +708,7 @@ msgstr ""
 #: docs/units/gold_dragons.md
 #, no-wrap
 msgid "Gold Dragons"
-msgstr ""
+msgstr "Złote Smoki"
 
 #. type: Plain text
 #: docs/units/gold_dragons.md

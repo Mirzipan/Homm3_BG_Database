@@ -564,7 +564,7 @@ msgstr ""
 #: docs/artifacts/spellbinders_hat.md
 #, no-wrap
 msgid "Spellbinder's Hat"
-msgstr ""
+msgstr "Kapelusz Czarodzieja"
 
 #. type: Plain text
 #: docs/artifacts/spellbinders_hat.md

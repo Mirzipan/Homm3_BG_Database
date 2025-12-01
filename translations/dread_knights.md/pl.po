@@ -838,7 +838,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/dread_knights.md
 #, no-wrap
 msgid "Dread Knights"
-msgstr ""
+msgstr "Rycerze Grozy"
 
 #. type: Plain text
 #: docs/units/dread_knights.md

@@ -436,7 +436,7 @@ msgstr ""
 #: docs/fields/random_town.md
 #, no-wrap
 msgid "Random Town"
-msgstr ""
+msgstr "Losowe Miasto"
 
 #. type: Plain text
 #: docs/fields/random_town.md

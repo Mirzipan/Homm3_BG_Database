@@ -533,7 +533,7 @@ msgstr ""
 #: docs/spells/implosion.md
 #, no-wrap
 msgid "Implosion"
-msgstr ""
+msgstr "Implozja"
 
 #. type: Plain text
 #: docs/spells/implosion.md

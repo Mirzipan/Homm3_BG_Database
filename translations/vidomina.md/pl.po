@@ -585,7 +585,7 @@ msgstr ""
 #: docs/heroes/vidomina.md
 #, no-wrap
 msgid "Vidomina"
-msgstr ""
+msgstr "Vidomina"
 
 #. type: Plain text
 #: docs/heroes/vidomina.md

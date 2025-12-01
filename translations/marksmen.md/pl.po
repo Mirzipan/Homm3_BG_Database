@@ -748,7 +748,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/marksmen.md
 #, no-wrap
 msgid "Marksmen"
-msgstr ""
+msgstr "Kusznicy"
 
 #. type: Plain text
 #: docs/units/marksmen.md

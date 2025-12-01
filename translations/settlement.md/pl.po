@@ -310,7 +310,7 @@ msgstr ""
 #: docs/fields/settlement.md
 #, no-wrap
 msgid "Settlement"
-msgstr ""
+msgstr "Osada"
 
 #. type: Plain text
 #: docs/fields/settlement.md

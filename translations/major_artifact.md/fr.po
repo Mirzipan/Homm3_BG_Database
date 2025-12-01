@@ -275,7 +275,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
-msgstr ""
+msgstr "Voir aussi"
 
 #. type: Link reference
 #: docs/abilities/diplomacy.md
@@ -296,7 +296,7 @@ msgstr ""
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/relic_artifact.md
 msgid "[List of Artifacts](../artifacts/index.md)"
-msgstr ""
+msgstr "[Liste des artéfacts](../artifacts/index.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/major_artifact.md

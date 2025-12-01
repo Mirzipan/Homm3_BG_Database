@@ -579,7 +579,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/chain_lightning.md
 #, no-wrap
 msgid "Chain Lightning"
-msgstr ""
+msgstr "Łańcuch Piorunów"
 
 #. type: Plain text
 #: docs/spells/chain_lightning.md

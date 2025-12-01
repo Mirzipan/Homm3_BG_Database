@@ -601,7 +601,7 @@ msgstr ""
 #: docs/artifacts/dragon_wing_tabard.md
 #, no-wrap
 msgid "Dragon Wing Tabard"
-msgstr ""
+msgstr "Kamizelka ze Smoczych Skrzydeł"
 
 #. type: Plain text
 #: docs/artifacts/dragon_wing_tabard.md

@@ -625,7 +625,7 @@ msgstr ""
 #: docs/units/nagas.md
 #, no-wrap
 msgid "Nagas"
-msgstr ""
+msgstr "Nagi"
 
 #. type: Plain text
 #: docs/units/nagas.md

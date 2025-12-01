@@ -626,7 +626,7 @@ msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 #: docs/abilities/estates.md
 #, no-wrap
 msgid "Estates"
-msgstr ""
+msgstr "Finanse"
 
 #. type: Plain text
 #: docs/abilities/estates.md

@@ -532,7 +532,7 @@ msgstr ""
 #: docs/spells/dimension_door.md
 #, no-wrap
 msgid "Dimension Door"
-msgstr ""
+msgstr "Wrota Wymiarów"
 
 #. type: Plain text
 #: docs/spells/dimension_door.md

@@ -558,7 +558,7 @@ msgstr ""
 #: docs/units/air_elementals.md
 #, no-wrap
 msgid "Air Elementals"
-msgstr ""
+msgstr "Żywiołaki Powietrza"
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md

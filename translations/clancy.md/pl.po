@@ -544,7 +544,7 @@ msgstr "[Lista Bohaterów](index.md)"
 #: docs/heroes/clancy.md
 #, no-wrap
 msgid "Clancy"
-msgstr ""
+msgstr "Clancy"
 
 #. type: Plain text
 #: docs/heroes/clancy.md

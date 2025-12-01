@@ -623,7 +623,7 @@ msgstr ""
 #: docs/tiles/fx4.md
 #, no-wrap
 msgid "#F4"
-msgstr ""
+msgstr "#F4"
 
 #. type: Bullet: '- '
 #: docs/tiles/fx4.md

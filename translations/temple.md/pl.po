@@ -445,7 +445,7 @@ msgstr "[Lista Kafelków](../tiles/index.md)"
 #: docs/fields/temple.md
 #, no-wrap
 msgid "Temple"
-msgstr ""
+msgstr "Świątynia"
 
 #. type: Plain text
 #: docs/fields/temple.md

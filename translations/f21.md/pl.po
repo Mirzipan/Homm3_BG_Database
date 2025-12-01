@@ -595,4 +595,4 @@ msgstr ""
 #: docs/tiles/f21.md
 #, no-wrap
 msgid "F21"
-msgstr ""
+msgstr "F21"

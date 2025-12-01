@@ -719,7 +719,7 @@ msgstr ""
 #: docs/heroes/tazar.md
 #, no-wrap
 msgid "Tazar"
-msgstr ""
+msgstr "Tazar"
 
 #. type: Plain text
 #: docs/heroes/tazar.md

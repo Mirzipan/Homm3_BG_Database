@@ -201,7 +201,7 @@ msgstr ""
 #: docs/towns/castle.md
 #, no-wrap
 msgid "Comes With"
-msgstr ""
+msgstr "Fourni avec"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -401,7 +401,7 @@ msgstr ""
 #: docs/towns/cove.md docs/towns/castle.md docs/difficulties.md
 #, no-wrap
 msgid "See Also"
-msgstr ""
+msgstr "Voir aussi"
 
 #. type: Bullet: '- '
 #: docs/units/hydras.md docs/units/gorgons.md docs/units/lizardmen.md
@@ -432,7 +432,7 @@ msgstr ""
 #: docs/spells/magic_arrow.md docs/spells/fortune.md docs/heroes/adrienne.md
 #: docs/heroes/wystan.md docs/towns/fortress.md
 msgid "[Fortress Expansion](../content/fortress_expansion.md)"
-msgstr ""
+msgstr "[Extension forteresse](../content/fortress_expansion.md)"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -476,7 +476,7 @@ msgstr ""
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -520,7 +520,7 @@ msgstr ""
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -535,7 +535,7 @@ msgstr ""
 #: docs/events/withered_hermit.md docs/events/a_shady_auction.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Event](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Evénement](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -549,7 +549,7 @@ msgstr ""
 #: docs/events/marketplace.md docs/events/garden_of_revelation.md
 #: docs/events/withered_hermit.md docs/events/a_shady_auction.md
 msgid "[List of Events](index.md)"
-msgstr ""
+msgstr "[Liste des événements](index.md)"
 
 #. type: Title #
 #: docs/events/crypt.md

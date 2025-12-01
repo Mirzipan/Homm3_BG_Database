@@ -552,7 +552,7 @@ msgstr ""
 #: docs/artifacts/sentinels_shield.md
 #, no-wrap
 msgid "Sentinel's Shield"
-msgstr ""
+msgstr "Tarcza Strażnika Niebios"
 
 #. type: Plain text
 #: docs/artifacts/sentinels_shield.md

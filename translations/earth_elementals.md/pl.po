@@ -654,7 +654,7 @@ msgstr "[Lista Jednostek](index.md)"
 #: docs/units/earth_elementals.md
 #, no-wrap
 msgid "Earth Elementals"
-msgstr ""
+msgstr "Żywiołaki Ziemi"
 
 #. type: Plain text
 #: docs/units/earth_elementals.md

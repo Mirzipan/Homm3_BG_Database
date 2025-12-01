@@ -560,7 +560,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/everflowing_crystal_cloak.md
 #, no-wrap
 msgid "Everflowing Crystal Cloak"
-msgstr ""
+msgstr "Płaszcz Błyszczącego Kryształu"
 
 #. type: Plain text
 #: docs/artifacts/everflowing_crystal_cloak.md

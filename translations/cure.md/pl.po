@@ -586,7 +586,7 @@ msgstr ""
 #: docs/spells/cure.md
 #, no-wrap
 msgid "Cure"
-msgstr ""
+msgstr "Wzmocnienie"
 
 #. type: Plain text
 #: docs/spells/cure.md

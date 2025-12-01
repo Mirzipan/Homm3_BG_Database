@@ -441,7 +441,7 @@ msgstr ""
 #: docs/towns/neutral.md
 #, no-wrap
 msgid "Neutral"
-msgstr ""
+msgstr "Neutralne"
 
 #. type: Plain text
 #: docs/towns/neutral.md

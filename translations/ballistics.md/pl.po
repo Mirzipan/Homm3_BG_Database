@@ -462,7 +462,7 @@ msgstr "[Lista Zdolności](index.md)"
 #: docs/abilities/ballistics.md
 #, no-wrap
 msgid "Ballistics"
-msgstr ""
+msgstr "Balistyka"
 
 #. type: Plain text
 #: docs/abilities/ballistics.md

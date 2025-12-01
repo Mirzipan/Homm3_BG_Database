@@ -673,7 +673,7 @@ msgstr ""
 #: docs/units/halberdiers.md
 #, no-wrap
 msgid "Halberdiers"
-msgstr ""
+msgstr "Halabardnicy"
 
 #. type: Plain text
 #: docs/units/halberdiers.md

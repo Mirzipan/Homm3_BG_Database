@@ -733,7 +733,7 @@ msgstr ""
 #: docs/units/manticores.md
 #, no-wrap
 msgid "Manticores"
-msgstr ""
+msgstr "Mantykory"
 
 #. type: Plain text
 #: docs/units/manticores.md

@@ -496,7 +496,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "First Aid Tent"
-msgstr ""
+msgstr "Namiot Medyka"
 
 #. type: Plain text
 #: docs/war_machines/first_aid_tent.md

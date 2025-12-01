@@ -707,7 +707,7 @@ msgstr ""
 #: docs/units/hydras.md
 #, no-wrap
 msgid "Hydras"
-msgstr ""
+msgstr "Hydry"
 
 #. type: Plain text
 #: docs/units/hydras.md

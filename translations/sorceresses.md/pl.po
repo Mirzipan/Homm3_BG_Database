@@ -605,7 +605,7 @@ msgstr ""
 #: docs/units/sorceresses.md
 #, no-wrap
 msgid "Sorceresses"
-msgstr ""
+msgstr "Czarodziejki"
 
 #. type: Plain text
 #: docs/units/sorceresses.md

@@ -539,7 +539,7 @@ msgstr ""
 #: docs/spells/fire_wall.md
 #, no-wrap
 msgid "Fire Wall"
-msgstr ""
+msgstr "Ściana Ognia"
 
 #. type: Plain text
 #: docs/spells/fire_wall.md

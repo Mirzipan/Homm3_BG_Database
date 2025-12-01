@@ -324,7 +324,7 @@ msgstr "Zobacz też"
 #: docs/keywords/center_tile.md
 #, no-wrap
 msgid "Center Tile"
-msgstr ""
+msgstr "Centralne Pole"
 
 #. type: Plain text
 #: docs/keywords/center_tile.md

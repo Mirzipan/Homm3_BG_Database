@@ -693,7 +693,7 @@ msgstr ""
 #: docs/heroes/torosar.md
 #, no-wrap
 msgid "Torosar"
-msgstr ""
+msgstr "Torosar"
 
 #. type: Plain text
 #: docs/heroes/torosar.md

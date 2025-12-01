@@ -652,7 +652,7 @@ msgstr ""
 #: docs/units/lizardmen.md
 #, no-wrap
 msgid "Lizardmen"
-msgstr ""
+msgstr "Jaszczuroludzie"
 
 #. type: Plain text
 #: docs/units/lizardmen.md

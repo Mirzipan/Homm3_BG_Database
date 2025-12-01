@@ -532,7 +532,7 @@ msgstr "[Lista Bohaterów](index.md)"
 #: docs/heroes/ciele.md
 #, no-wrap
 msgid "Ciele"
-msgstr ""
+msgstr "Ciele"
 
 #. type: Plain text
 #: docs/heroes/ciele.md

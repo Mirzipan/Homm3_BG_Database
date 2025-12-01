@@ -661,7 +661,7 @@ msgstr "[Lista Wydarzeń](index.md)"
 #: docs/events/stables.md docs/fields/stables.md
 #, no-wrap
 msgid "Stables"
-msgstr ""
+msgstr "Stajnie"
 
 #. type: Plain text
 #: docs/events/stables.md

@@ -529,7 +529,7 @@ msgstr ""
 #: docs/spells/curse.md
 #, no-wrap
 msgid "Curse"
-msgstr ""
+msgstr "Klątwa"
 
 #. type: Plain text
 #: docs/spells/curse.md

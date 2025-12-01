@@ -511,7 +511,7 @@ msgstr ""
 #: docs/artifacts/pendant_of_negativity.md
 #, no-wrap
 msgid "Pendant of Negativity"
-msgstr ""
+msgstr "Wisiorek Negatywności"
 
 #. type: Plain text
 #: docs/artifacts/pendant_of_negativity.md

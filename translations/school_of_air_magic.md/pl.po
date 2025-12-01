@@ -282,7 +282,7 @@ msgstr ""
 #: docs/spells/school_of_air_magic.md
 #, no-wrap
 msgid "School of Air Magic"
-msgstr ""
+msgstr "Szkoła Magii Powietrza"
 
 #. type: Plain text
 #: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md

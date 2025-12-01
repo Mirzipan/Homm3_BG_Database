@@ -242,7 +242,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/content/rampart_expansion.md
 #, no-wrap
 msgid "Rampart Expansion"
-msgstr ""
+msgstr "Rozszerzenie Bastion"
 
 #. type: Plain text
 #: docs/content/rampart_expansion.md

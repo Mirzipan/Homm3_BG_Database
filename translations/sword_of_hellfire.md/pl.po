@@ -515,7 +515,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/sword_of_hellfire.md
 #, no-wrap
 msgid "Sword of Hellfire"
-msgstr ""
+msgstr "Miecz Ognia Piekielnego"
 
 #. type: Plain text
 #: docs/artifacts/sword_of_hellfire.md

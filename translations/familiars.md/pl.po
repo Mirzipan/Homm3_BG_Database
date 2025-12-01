@@ -671,7 +671,7 @@ msgstr ""
 #: docs/units/familiars.md
 #, no-wrap
 msgid "Familiars"
-msgstr ""
+msgstr "Chowańce"
 
 #. type: Plain text
 #: docs/units/familiars.md

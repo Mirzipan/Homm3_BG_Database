@@ -550,7 +550,7 @@ msgstr ""
 #: docs/artifacts/necklace_of_dragonteeth.md
 #, no-wrap
 msgid "Necklace of Dragonteeth"
-msgstr ""
+msgstr "Naszyjnik Smoczych Zębów"
 
 #. type: Plain text
 #: docs/artifacts/necklace_of_dragonteeth.md

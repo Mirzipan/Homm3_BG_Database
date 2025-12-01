@@ -673,7 +673,7 @@ msgstr ""
 #: docs/units/minotaurs.md
 #, no-wrap
 msgid "Minotaurs"
-msgstr ""
+msgstr "Minotaury"
 
 #. type: Plain text
 #: docs/units/minotaurs.md

@@ -625,4 +625,4 @@ msgstr ""
 #: docs/tiles/nx3.md
 #, no-wrap
 msgid "#N3"
-msgstr ""
+msgstr "#N3"

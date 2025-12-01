@@ -88,4 +88,4 @@ msgstr "Uwagi"
 #: docs/keywords/defense_value.md
 #, no-wrap
 msgid ":defense: Defense Value"
-msgstr ""
+msgstr ":defense: Wartość Obrony"

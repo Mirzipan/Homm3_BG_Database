@@ -541,7 +541,7 @@ msgstr ""
 #: docs/spells/remove_obstacle.md
 #, no-wrap
 msgid "Remove Obstacle"
-msgstr ""
+msgstr "Usunięcie Przeszkody"
 
 #. type: Plain text
 #: docs/spells/remove_obstacle.md

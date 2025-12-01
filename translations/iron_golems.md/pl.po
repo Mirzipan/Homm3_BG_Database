@@ -640,7 +640,7 @@ msgstr "Bohaterowie ze Specjalnością"
 #: docs/units/iron_golems.md
 #, no-wrap
 msgid "Iron Golems"
-msgstr ""
+msgstr "Żelazne Golemy"
 
 #. type: Plain text
 #: docs/units/iron_golems.md
