@@ -325,38 +325,34 @@ msgstr "Zobacz też"
 #: docs/keywords/near_tile.md docs/keywords/underground_tile.md
 #: docs/keywords/water_tile.md
 msgid "[Starting Tile](starting_tile.md)"
-msgstr ""
+msgstr "[Kafelek Początkowy](starting_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/near_tile.md
 #: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
 #: docs/keywords/water_tile.md
-#, fuzzy
 msgid "[Far Tile](far_tile.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Kafelek Daleki](far_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/near_tile.md docs/keywords/starting_tile.md
 #: docs/keywords/water_tile.md
-#, fuzzy
 msgid "[Underground Tile](underground_tile.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Kafelek Podziemi](underground_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/near_tile.md docs/keywords/starting_tile.md
 #: docs/keywords/underground_tile.md
-#, fuzzy
 msgid "[Water Tile](water_tile.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Kafelek Morza](water_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md docs/keywords/near_tile.md
 #: docs/keywords/starting_tile.md docs/keywords/water_tile.md
-#, fuzzy
 msgid "[Center Tile](center_tile.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Kafelek Centralny](center_tile.md)"
 
 #. type: Title #
 #: docs/keywords/near_tile.md

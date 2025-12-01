@@ -375,9 +375,9 @@ msgstr "[Lista Jednostek](units/index.md)"
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/keywords/revisitable_field.md
 msgid "[Visitable Field](visitable_field.md)"
-msgstr ""
+msgstr "[Pole Jednorazowe](visitable_field.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/keywords/visitable_field.md
 msgid "[Revisitable Field](revisitable_field.md)"
-msgstr ""
+msgstr "[Pole Wielorazowe](revisitable_field.md)"

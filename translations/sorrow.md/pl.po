@@ -459,7 +459,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/school_of_water_magic.md docs/spells/implosion.md
 #: docs/spells/slow.md docs/spells/sorrow.md docs/spells/magic_arrow.md
 msgid "[School of Earth Magic](school_of_earth_magic.md)"
-msgstr ""
+msgstr "[Szkoła Ziemi](school_of_earth_magic.md)"
 
 #. type: Plain text
 #: docs/spells/resurrection.md docs/spells/summon_earth_elemental.md

@@ -331,13 +331,13 @@ msgstr "Zobacz też"
 #: docs/keywords/flaggable_field.md docs/keywords/index.md
 #: docs/keywords/revisitable_field.md
 msgid "[Visitable Field](visitable_field.md)"
-msgstr ""
+msgstr "[Pole Jednorazowe](visitable_field.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/revisitable_field.md
 #: docs/keywords/visitable_field.md
 msgid "[Flaggable Field](flaggable_field.md)"
-msgstr ""
+msgstr "[Pole Flagowalne](flaggable_field.md)"
 
 #. type: Title #
 #: docs/keywords/revisitable_field.md

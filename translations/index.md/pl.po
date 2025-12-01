@@ -782,186 +782,181 @@ msgstr "Strona Główna"
 #: docs/index.md
 #, no-wrap
 msgid ":attack: What Is This?"
-msgstr ""
+msgstr ":attack: Co to jest?"
 
 #. type: Plain text
 #: docs/index.md
 msgid "A simple collection of cards contained within the Heroes of Might and Magic 3: The Board Game, that also offers extra explanations for how some cards work or interact with others."
-msgstr ""
+msgstr "Prosty zbiór kart zawartych w grze Heroes of Might and Magic 3: The Board Game, który zawiera również dodatkowe wyjaśnienia dotyczące działania niektórych kart oraz ich wzajemnych interakcji."
 
 #. type: Plain text
 #: docs/index.md
 msgid "Every now and then I want to see what some cards do, either while theorycrafting about what to play, or even during play, when I want to check or reference something. This database is meant to provide an easy way to find any card contained within the game, including a visual reference and extra information where necessary or applicable."
-msgstr ""
+msgstr "Co jakiś czas chciałem sprawdzić, co robią niektóre karty - czy to podczas obmyślania strategii, czy nawet w trakcie gry, gdy chcę coś wyjaśnić albo znaleźć odniesienie. Ta baza danych ma na celu zapewnienie łatwego dostępu do dowolnej karty w grze, a także wizualnego odniesienia i dodatkowych informacji tam, gdzie jest to konieczne (lub możliwe)."
 
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
 msgid ":defense: Future Plans?"
-msgstr ""
+msgstr ":defense: Plany na przyszłość?"
 
 #. type: Bullet: '* '
 #: docs/index.md
 msgid "Adding extra explanations to all cards that may need some"
-msgstr ""
+msgstr "Dodać wyjaśnienia do wszystkich kart, które mogą ich potrzebować"
 
 #. type: Bullet: '* '
 #: docs/index.md
 msgid "Fixing incorrect information (all of the cards were put in by hand, there is a chance that some may contains typos or other inaccuracies)"
-msgstr ""
+msgstr "Naprawić nieścisłości (wszystkie karty jak i ich tłumaczenia zostały wprowadzone ręcznie, istnieje ryzyko, że niektóre mogą zawierać literówki lub inne błędy)"
 
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
 msgid ":empower: Disclaimer"
-msgstr ""
+msgstr ":empower: Zastrzeżenia"
 
 #. type: Plain text
 #: docs/index.md
 msgid "This project is a fan project, and is in no way official or affiliated with [Archon Studio](https://archon-studio.com)."
-msgstr ""
+msgstr "To fanowski projekt i w żaden sposób nie jest powiązany z [Archon Studio](https://archon-studio.com)."
 
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
 msgid ":skill: Other Community Projects"
-msgstr ""
+msgstr ":skill: Inne projekty społeczności"
 
 #. type: Plain text
 #: docs/index.md
 msgid "Here are some projects within the homm3bg community that are definitely worth a visit."
-msgstr ""
+msgstr "Oto kilka projektów społeczności homm3bg, które zdecydowanie warto zobaczyć."
 
 #. type: Title ###
 #: docs/index.md
 #, no-wrap
 msgid "Books"
-msgstr ""
+msgstr "Księgi"
 
 #. type: Bullet: '- '
 #: docs/index.md
 msgid "[Rulebook Rewrite Project](https://github.com/Heegu-sama/Homm3BG)"
-msgstr ""
+msgstr "[Fanowska Księga Zasad](https://github.com/Heegu-sama/Homm3BG)"
 
 #. type: Bullet: '- '
 #: docs/index.md
 msgid "[Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book)"
-msgstr ""
+msgstr "[Fanowska Księga Misji](https://github.com/qwrtln/Homm3BG-mission-book)"
 
 #. type: Bullet: '- '
 #: docs/index.md
 msgid "[Factory Rule Book](https://github.com/piotrbruzda/Homm3BG-FactoryRulebook)"
-msgstr ""
+msgstr "[Factory: Fanowski Dodatek](https://github.com/piotrbruzda/Homm3BG-FactoryRulebook)"
 
 #. type: Title ###
 #: docs/index.md
 #, no-wrap
 msgid "Editors"
-msgstr ""
+msgstr "Kreatory"
 
 #. type: Bullet: '- '
 #: docs/index.md
 msgid "[Scenario Editor](https://zedero.github.io/HoMM3BoardgameScenarioEditor/)"
-msgstr ""
+msgstr "[Kreator scenariuszy](https://zedero.github.io/HoMM3BoardgameScenarioEditor/)"
 
 #. type: Bullet: '- '
 #: docs/index.md
 msgid "[Hero Creator](https://k-adam.github.io/Homm3_hero_creator/)"
-msgstr ""
+msgstr "[Kreator bohaterów](https://k-adam.github.io/Homm3_hero_creator/)"
 
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
 msgid ":initiative: Credits & Thanks"
-msgstr ""
+msgstr ":initiative: Podziękowania"
 
 #. type: Bullet: '- '
 #: docs/index.md
 msgid "**Main Developer:** Mirzipan"
-msgstr ""
+msgstr "**Główny programista:** Mirzipan"
 
 #. type: Bullet: '- '
 #: docs/index.md
 msgid "**Automation and Miscellaneous Help:** [qwrtln](https://github.com/qwrtln)"
-msgstr ""
+msgstr "**Automatyzacja i lokalizacja:** [qwrtln](https://github.com/qwrtln)"
 
 #. type: Bullet: '- '
 #: docs/index.md
 msgid "**Visual References:** FlatPanda"
-msgstr ""
+msgstr "**Odnośniki wizualne:** FlatPanda"
 
 #. type: Bullet: '- '
 #: docs/index.md
 msgid "**Notes:** Schlupf [Referenz-Regelbuch](https://discord.com/channels/740870068178649108/1269274294408450078/1269274294408450078)"
-msgstr ""
+msgstr "**Notatki:** Schlupf [Referenz-Regelbuch](https://discord.com/channels/740870068178649108/1269274294408450078/1269274294408450078)"
 
 #. type: Bullet: '- '
 #: docs/index.md
 msgid "**Special Thanks:** you, who are using this, and those who contribute in a greater or lesser way"
-msgstr ""
+msgstr "**Specjalne podziękowania:** dla Ciebie, użytkowniku tej strony, oraz tych, którzy przyczyniają się do jej powstawania w mniejszym lub większym stopniu"
 
 #. type: Plain text
 #: docs/index.md
 msgid "Thanks to the community for miscellaneous help, pointers, and ideas."
-msgstr ""
+msgstr "Podziękowania dla społeczności za wszelką pomoc, wskazówki i pomysły."
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/index.md docs/keywords/near_tile.md
 #: docs/keywords/underground_tile.md docs/keywords/water_tile.md
 msgid "[Starting Tile](starting_tile.md)"
-msgstr ""
+msgstr "[Kafelek Początkowy](starting_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/index.md
 #: docs/keywords/near_tile.md docs/keywords/starting_tile.md
 #: docs/keywords/underground_tile.md docs/keywords/water_tile.md
-#, fuzzy
 msgid "[Far Tile](far_tile.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Kafelek Daleki](far_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/index.md docs/keywords/starting_tile.md
 #: docs/keywords/underground_tile.md docs/keywords/water_tile.md
-#, fuzzy
 msgid "[Near Tile](near_tile.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Kafelek Bliski](near_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/index.md docs/keywords/near_tile.md
 #: docs/keywords/starting_tile.md docs/keywords/water_tile.md
-#, fuzzy
 msgid "[Underground Tile](underground_tile.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Kafelek Podziemi](underground_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/index.md docs/keywords/near_tile.md
 #: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#, fuzzy
 msgid "[Water Tile](water_tile.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Kafelek Morza](water_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md docs/keywords/index.md docs/keywords/near_tile.md
 #: docs/keywords/starting_tile.md docs/keywords/water_tile.md
-#, fuzzy
 msgid "[Center Tile](center_tile.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Kafelek Centralny](center_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/keywords/index.md
 #: docs/keywords/revisitable_field.md
 msgid "[Visitable Field](visitable_field.md)"
-msgstr ""
+msgstr "[Pole Jednorazowe](visitable_field.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/keywords/index.md
 #: docs/keywords/visitable_field.md
 msgid "[Revisitable Field](revisitable_field.md)"
-msgstr ""
+msgstr "[Pole Wielorazowe](revisitable_field.md)"
 
 #. type: Title #
 #: docs/keywords/index.md
@@ -1016,10 +1011,9 @@ msgstr "Jednostki"
 
 #. type: Title ###
 #: docs/keywords/index.md
-#, fuzzy, no-wrap
-#| msgid "Unit Types"
+#, no-wrap
 msgid "Types"
-msgstr "Typy Jednostek"
+msgstr "Typy"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md
@@ -1067,7 +1061,7 @@ msgstr ""
 #: docs/keywords/index.md
 #, no-wrap
 msgid "Combat"
-msgstr ""
+msgstr "Walka"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md
@@ -1108,16 +1102,14 @@ msgstr "[Zablokowane Pole](blocked_field.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md
-#, fuzzy
-#| msgid "[Blocked Field](blocked_field.md)"
 msgid "[Empty Field](empty_field.md)"
-msgstr "[Zablokowane Pole](blocked_field.md)"
+msgstr "[Puste Pole](empty_field.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/revisitable_field.md
 #: docs/keywords/visitable_field.md
 msgid "[Flaggable Field](flaggable_field.md)"
-msgstr ""
+msgstr "[Pole Flagowalne](flaggable_field.md)"
 
 #. type: Title #
 #: docs/scenarios/index.md
@@ -1229,7 +1221,7 @@ msgstr ""
 #: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
 #: docs/spells/view_air.md
 msgid "[School of Air Magic](school_of_air_magic.md)"
-msgstr ""
+msgstr "[Szkoła Powietrza](school_of_air_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/anti-magic.md docs/spells/earthquake.md docs/spells/implosion.md
@@ -1240,7 +1232,7 @@ msgstr ""
 #: docs/spells/summon_earth_elemental.md docs/spells/town_portal.md
 #: docs/spells/view_earth.md
 msgid "[School of Earth Magic](school_of_earth_magic.md)"
-msgstr ""
+msgstr "[Szkoła Ziemi](school_of_earth_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/berserk.md docs/spells/blind.md docs/spells/bloodlust.md
@@ -1252,7 +1244,7 @@ msgstr ""
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #: docs/spells/visions.md
 msgid "[School of Fire Magic](school_of_fire_magic.md)"
-msgstr ""
+msgstr "[Szkoła Ognia](school_of_fire_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/bless.md docs/spells/cure.md docs/spells/dispel.md
@@ -1263,7 +1255,7 @@ msgstr ""
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr ""
+msgstr "[Szkoła Wody](school_of_water_magic.md)"
 
 #. type: Title #
 #: docs/spells/index.md
