@@ -1,5 +1,10 @@
 nav:
+  - "index.md"
   - "*.md"
+  - Dès: "dice.md"
+  - Niveaux de Difficulté: "difficulties.md"
+  - Liste des Symboles: "legend.md"
+  - Conversion Ressources: "trading.md"
   - Compétences:
      - "abilities/*.md"
   - Artefacts:
