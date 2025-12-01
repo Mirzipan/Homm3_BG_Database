@@ -695,7 +695,7 @@ msgstr ""
 #: docs/units/titans.md
 #, no-wrap
 msgid "Titans"
-msgstr "Tytani"
+msgstr "Tytany"
 
 #. type: Plain text
 #: docs/units/titans.md
