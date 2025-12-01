@@ -673,7 +673,7 @@ msgstr ""
 #: docs/units/zealots.md
 #, no-wrap
 msgid "Zealots"
-msgstr "Zeloci"
+msgstr "Kapłani"
 
 #. type: Plain text
 #: docs/units/zealots.md
