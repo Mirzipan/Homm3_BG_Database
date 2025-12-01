@@ -655,7 +655,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/grim_warlock.md
 #, no-wrap
 msgid "Grim Warlock"
-msgstr "Ponury Czarnoksiężnik"
+msgstr "Ponurego Czarnoksiężnika"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/grim_warlock.md

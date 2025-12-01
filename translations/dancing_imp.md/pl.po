@@ -591,7 +591,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/dancing_imp.md
 #, no-wrap
 msgid "Dancing Imp"
-msgstr "Tańczący Chochlik"
+msgstr "Tańczącego Diablika"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/dancing_imp.md

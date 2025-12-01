@@ -638,7 +638,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "Gold Dragon"
-msgstr "Złoty Smok"
+msgstr "Złotego Smoka"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/gold_dragon.md

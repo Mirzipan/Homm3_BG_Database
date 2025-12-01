@@ -638,7 +638,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/fluffy_rabbit.md
 #, no-wrap
 msgid "Fluffy Rabbit"
-msgstr "Puchaty Królik"
+msgstr "Puchatego Króliczka"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/fluffy_rabbit.md

@@ -593,7 +593,7 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 #: docs/astrologers_proclaim/big_cleanup.md
 #, no-wrap
 msgid "Big Cleanup"
-msgstr "Wielkie Porządki"
+msgstr "Wiosennej Czystki"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/big_cleanup.md
