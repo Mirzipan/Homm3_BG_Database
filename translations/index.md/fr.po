@@ -1007,7 +1007,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Units"
-msgstr ""
+msgstr "Unités"
 
 #. type: Title ###
 #: docs/keywords/index.md

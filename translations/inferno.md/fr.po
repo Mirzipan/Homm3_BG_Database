@@ -662,7 +662,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Units"
-msgstr ""
+msgstr "Unités"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/inferno.md
@@ -676,7 +676,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Heroes"
-msgstr ""
+msgstr "Héros"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md

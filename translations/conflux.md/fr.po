@@ -592,7 +592,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Units"
-msgstr ""
+msgstr "Unités"
 
 #. type: Title ##
 #: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
@@ -601,7 +601,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Heroes"
-msgstr ""
+msgstr "Héros"
 
 #. type: Title ##
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md

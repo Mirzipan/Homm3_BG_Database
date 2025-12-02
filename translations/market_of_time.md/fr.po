@@ -508,7 +508,7 @@ msgstr "[Extension forteresse](../content/fortress_expansion.md)"
 #: docs/units/earth_elementals.md docs/units/fire_elementals.md
 #: docs/units/water_elementals.md
 msgid "[List of Spells](../spells/index.md)"
-msgstr ""
+msgstr "[Liste des Sorts](../spells/index.md)"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -643,31 +643,8 @@ msgstr "</figure>\n"
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/relic_artifact.md
-#, fuzzy
 msgid "[List of Artifacts](../artifacts/index.md)"
-msgstr ""
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po  #-#-#-#-#\n"
-"[Liste des artefacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)"
+msgstr "[Liste des Artefacts](../artifacts/index.md)"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -695,49 +672,8 @@ msgstr "<p style=\"text-align: center;\" markdown>[Evénement](index.md)</p>\n"
 #: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#, fuzzy
 msgid "[List of Events](index.md)"
-msgstr ""
-"#-#-#-#-#  fr.po  #-#-#-#-#\n"
-"[Liste des Evénements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)"
+msgstr "[Liste des Evénements](index.md)"
 
 #. type: Bullet: '- '
 #: docs/events/garden_of_revelation.md docs/events/magical_forest.md

@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-21 12:24+0200\n"
-"PO-Revision-Date: 2024-10-21 12:24+0200\n"
+"PO-Revision-Date: 2025-12-02 21:23+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -449,7 +450,7 @@ msgstr "[Extension forteresse](../content/fortress_expansion.md)"
 #: docs/units/earth_elementals.md docs/units/fire_elementals.md
 #: docs/units/water_elementals.md
 msgid "[List of Spells](../spells/index.md)"
-msgstr ""
+msgstr "[Liste des Sorts](../spells/index.md)"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -569,69 +570,28 @@ msgstr "<p style=\"text-align: center;\" markdown>[Evénement](index.md)</p>\n"
 #: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#, fuzzy
 msgid "[List of Events](index.md)"
-msgstr ""
-"#-#-#-#-#  fr.po  #-#-#-#-#\n"
-"[Liste des Evénements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)"
+msgstr "[Liste des Evénements](index.md)"
 
 #. type: Title #
 #: docs/events/cursed_swamp.md
 #, no-wrap
 msgid "Cursed Swamp"
-msgstr ""
+msgstr "Marais maudit"
 
 #. type: Plain text
 #: docs/events/cursed_swamp.md
 msgid "![Cursed Swamp](../assets/events-cursed_swamp.webp){ width=\"475\" align=right }"
-msgstr ""
+msgstr "![Marais maudit](../assets/events-cursed_swamp.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/events/cursed_swamp.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 :treasure: and choose one result.<br><br>— OR —<br><br>Remove one or more [:spellpower:](../spells/index.md) from your hand; if you remove at least 2, **Search (3)** the Artifact deck.<br><br>— OR —<br><br>Discard your cheapest unit.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for free.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>**Chaque joueur choisit:** <br>Gagnez :morale_negative:. Puis lancez 2 :treasure: et choisissez 1 résultat.<br><br>— OU —<br><br>Détruisez un ou plusieurs [:spellpower:](../spells/index.md) de votre main; si vous en détruisez au moins 2, **Fouillez (3)** dans la pile des Artefacts.<br><br>— OU —<br><br>Défaussez votre unité avec le coût de recrutement le plus faible.<br><br>— OU —<br><br>Uniquement [:necro:](../towns/necropolis.md). **Améliorez** gratuitement une de vos :bronze: ou :silver: .</p>\n"
 
 #. type: Plain text
 #: docs/events/cursed_swamp.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>**On your journey, you wander into a swamp. Only after some time do you notice the eerie atmosphere surrounding this place and the eyes lurking just beneath the water's surface. Eyes of the dead. Your army trembles in panic while you gather your thoughts. Will you force them to go on or, maybe, shield them with your magic?**</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>**Votre voyage vous mène jusqu'à un marais. Vous mettez un certain temps avant de sentir l'atmosphère sinistre qui règne en ce lieu. Et les yeux vous observent juste sous la surface de l'eau. Les yeux des morts.<br>Vous reprenez vos esprits tandis que la peur se propage dans les rangs de votre armée. Devez-vous les pousser vers l'avant ou utiliser votre magie pour les protéger ?**</p>\n"

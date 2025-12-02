@@ -477,7 +477,7 @@ msgstr "Voir aussi"
 #: docs/units/earth_elementals.md docs/units/fire_elementals.md
 #: docs/units/water_elementals.md
 msgid "[List of Spells](../spells/index.md)"
-msgstr ""
+msgstr "[Liste des Sorts](../spells/index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md

@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-12-02 22:13+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,18 +15,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/dice.md docs/legend.md
 #, no-wrap
 msgid "Dice"
-msgstr ""
+msgstr "Dés"
 
 #. type: Title ##
 #: docs/dice.md
 #, no-wrap
 msgid "Attack Die"
-msgstr ""
+msgstr "Dé d'attaque"
 
 #. type: Plain text
 #: docs/dice.md
@@ -41,12 +42,20 @@ msgid ""
 "| +1 |\n"
 "| +1 |\n"
 msgstr ""
+"| Faces |\n"
+"| :---: |\n"
+"| -1 |\n"
+"| -1 |\n"
+"| 0 |\n"
+"| 0 |\n"
+"| +1 |\n"
+"| +1 |\n"
 
 #. type: Title ##
 #: docs/dice.md
 #, no-wrap
 msgid "Resource Die"
-msgstr ""
+msgstr "Dé de Ressource"
 
 #. type: Plain text
 #: docs/dice.md
@@ -61,12 +70,20 @@ msgid ""
 "| 1 :valuables: |\n"
 "| 2 :valuables: |\n"
 msgstr ""
+"| Faces |\n"
+"| :---: |\n"
+"| 3 :gold: |\n"
+"| 6 :gold: |\n"
+"| 2 :building_materials: |\n"
+"| 4 :building_materials: |\n"
+"| 1 :valuables: |\n"
+"| 2 :valuables: |\n"
 
 #. type: Title ##
 #: docs/dice.md
 #, no-wrap
 msgid "Treasure Die"
-msgstr ""
+msgstr "Dé de Trésor"
 
 #. type: Plain text
 #: docs/dice.md
@@ -81,3 +98,11 @@ msgid ""
 "| :resource_die: |\n"
 "| 2:resource_die: |\n"
 msgstr ""
+"| Faces |\n"
+"| :---: |\n"
+"| :experience: |\n"
+"| :experience: |\n"
+"| [:artifact:](artifacts/index.md) |\n"
+"| [:artifact:](artifacts/index.md) |\n"
+"| :resource_die: |\n"
+"| 2:resource_die: |\n"

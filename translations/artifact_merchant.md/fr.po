@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-18 16:54+0200\n"
-"PO-Revision-Date: 2024-10-18 16:54+0200\n"
+"PO-Revision-Date: 2025-12-01 22:29+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -533,31 +534,8 @@ msgstr "</figure>\n"
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/relic_artifact.md
-#, fuzzy
 msgid "[List of Artifacts](../artifacts/index.md)"
-msgstr ""
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po  #-#-#-#-#\n"
-"[Liste des artefacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)"
+msgstr "[Liste des Artefacts](../artifacts/index.md)"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -585,69 +563,28 @@ msgstr "<p style=\"text-align: center;\" markdown>[Evénement](index.md)</p>\n"
 #: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#, fuzzy
 msgid "[List of Events](index.md)"
-msgstr ""
-"#-#-#-#-#  fr.po  #-#-#-#-#\n"
-"[Liste des Evénements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)"
+msgstr "[Liste des Evénements](index.md)"
 
 #. type: Title #
 #: docs/events/artifact_merchant.md
 #, no-wrap
 msgid "Artifact Merchant"
-msgstr ""
+msgstr "Marchand d'artefacts"
 
 #. type: Plain text
 #: docs/events/artifact_merchant.md
 msgid "![Artifact Merchant](../assets/events-artifact_merchant.webp){ width=\"475\" align=right }"
-msgstr ""
+msgstr "![Marchand d'artefacts](../assets/events-artifact_merchant.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/events/artifact_merchant.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Draw 5 [artifacts](../artifacts/index.md). You can buy either any number of them or the face-up card from the [Artifact](../artifacts/index.md) discard pile. After finishing, give the rest of the cards to the player on the left. The exchange goes on until the last card is bought or the cards return to the one who drew them. [Minor Artifacts](../keywords/minor_artifact.md) cards cost 3 :gold:, [Major](../keywords/major_artifact.md) 5 :gold:, [Relic](../keywords/relic_artifact.md) 7 :gold:.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Piochez 5 [Artefacts](../artifacts/index.md). Vous pouvez acheter tous ceux que vous désirez, ou la première carte sur la défausse [Artefact](../artifacts/index.md). Donnez ensuite les cartes restantes à votre voisin de gauche. La transaction continue jusqu'à ce que la dernière carte soit achetée, ou que les cartes vous reviennent. Les [Artefacts mineurs](../keywords/minor_artifact.md) coûtent 3 :gold:, les [Majeurs](../keywords/major_artifact.md) 5 :gold:, et les [Reliques](../keywords/relic_artifact.md) 7 :gold:.</p>\n"
 
 #. type: Plain text
 #: docs/events/artifact_merchant.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*On your journey, you wander into a blacksmith's workshop. They welcome you with a cheerful laugh and present their wares.*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*Vous passez par hasard devant l'atelier d'un forgeron. Il vous accueille en riant et vous présente ses marchandises*</p>\n"
