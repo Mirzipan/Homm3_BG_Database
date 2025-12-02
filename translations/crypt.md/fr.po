@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-18 10:02+0200\n"
-"PO-Revision-Date: 2024-10-18 10:02+0200\n"
+"PO-Revision-Date: 2025-12-02 21:20+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -548,69 +549,28 @@ msgstr "<p style=\"text-align: center;\" markdown>[Evénement](index.md)</p>\n"
 #: docs/events/market_of_time.md docs/events/crypt.md
 #: docs/events/marketplace.md docs/events/garden_of_revelation.md
 #: docs/events/withered_hermit.md docs/events/a_shady_auction.md
-#, fuzzy
 msgid "[List of Events](index.md)"
-msgstr ""
-"#-#-#-#-#  fr.po  #-#-#-#-#\n"
-"[Liste des Evénements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des événements](index.md)"
+msgstr "[Liste des Evénements](index.md)"
 
 #. type: Title #
 #: docs/events/crypt.md
 #, no-wrap
 msgid "Crypt"
-msgstr ""
+msgstr "Crypte"
 
 #. type: Plain text
 #: docs/events/crypt.md
 msgid "![Crypt](../assets/events-crypt.webp){ width=\"475\" align=right }"
-msgstr ""
+msgstr "![Crypte](../assets/events-crypt.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/events/crypt.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 [:treasure:](../dice.md#treasure-die). If any of them shows #, you gain nothing. Otherwise, resolve one result.<br><br>— OR —<br><br>Gain Positive Morale.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for half the cost.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>**Chaque joueur choisit :** <br>Gagnez :morale_negative:. Puis, lancez 2 [:treasure:](../dice.md#treasure-die). Sur au moins un #, Vous ne gagnez rien. Sinon, choisissez un résultat.<br><br>— OU —<br><br>Gagnez :morale_positive:.<br><br>— OU —<br><br>Uniquement [:necro:](../towns/necropolis.md). **Améliorez** une de vos :bronze: ou :silver: pour la moitié du coût.</p>\n"
 
 #. type: Plain text
 #: docs/events/crypt.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*You tentatively approach the burial crypt of ancient warriors. Disturbing the peace of the dead is a dirty and despicable act. Yet, something of worth may be buried among these ancient graves...*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*Vous approchez prudemment de la crypte d'anciens guerriers. Troubler le repos des morts est un acte vil et d'une grande lâcheté. Mais quelque chose d'une grande valeur pourrait avoir été enterré ici...*</p>\n"

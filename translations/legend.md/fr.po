@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2025-09-30 19:07+0000\n"
-"PO-Revision-Date: 2025-09-30 19:07+0000\n"
+"PO-Revision-Date: 2025-12-02 22:11+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,18 +15,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/dice.md docs/legend.md
 #, no-wrap
 msgid "Dice"
-msgstr ""
+msgstr "Dés"
 
 #. type: Title ##
 #: docs/fields/resources.md docs/legend.md
 #, no-wrap
 msgid "Resources"
-msgstr ""
+msgstr "Ressources"
 
 #. type: Title ##
 #: docs/keywords/index.md docs/legend.md docs/towns/castle.md
@@ -36,18 +37,18 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Units"
-msgstr ""
+msgstr "Unités"
 
 #. type: Title #
 #: docs/legend.md
 #, no-wrap
 msgid "Legend"
-msgstr ""
+msgstr "Liste des Symboles"
 
 #. type: Plain text
 #: docs/legend.md
 msgid "Quick reference for what the different glyphs mean."
-msgstr ""
+msgstr "Liste des différents symboles et leur signification."
 
 #. type: Title ##
 #: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
@@ -56,7 +57,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Heroes"
-msgstr ""
+msgstr "Héros"
 
 #. type: Plain text
 #: docs/legend.md
@@ -67,6 +68,10 @@ msgid ""
 "| :might: | Hero of Might |\n"
 "| :magic: | Hero of Magic |\n"
 msgstr ""
+"| Symbole | Description |\n"
+"| :---: | :--- |\n"
+"| :might: | Héro guerrier |\n"
+"| :magic: | Héro magicien |\n"
 
 #. type: Plain text
 #: docs/legend.md
@@ -89,12 +94,28 @@ msgid ""
 "| :damage: | Damage |\n"
 "| :initiative: | Initiative |\n"
 msgstr ""
+"| Symbole | Description |\n"
+"| :---: | :--- |\n"
+"| :bronze: | Rang Bronze |\n"
+"| :silver: | Rang Argent |\n"
+"| :golden: | Rang Or |\n"
+"| :azure: | Rang Azur |\n"
+"| :unit_ground: | Unité Au Sol |\n"
+"| :unit_flying: | Unité Volante |\n"
+"| :unit_ranged: | Unité à Distance |\n"
+"| :attack: | Attaque |\n"
+"| :defense: | Défense |\n"
+"| :empower: | Puissance |\n"
+"| :skill: | Savoir |\n"
+"| :health_points: | Points de vie |\n"
+"| :damage: | Dégâts |\n"
+"| :initiative: | Initiative |\n"
 
 #. type: Title ##
 #: docs/legend.md
 #, no-wrap
 msgid "Factions"
-msgstr ""
+msgstr "Factions"
 
 #. type: Plain text
 #: docs/legend.md
@@ -104,12 +125,15 @@ msgid ""
 "| :---: | :--- |\n"
 "| :necro: | Necropolis |\n"
 msgstr ""
+"| Symbole | Description |\n"
+"| :---: | :--- |\n"
+"| :necro: | Nécropole |\n"
 
 #. type: Title ##
 #: docs/legend.md
 #, no-wrap
 msgid "Effects And Abilities"
-msgstr ""
+msgstr "Effets et Capacités spéciales"
 
 #. type: Plain text
 #: docs/legend.md
@@ -128,12 +152,24 @@ msgid ""
 "| :instant: | Instant effect |\n"
 "| :permanent: | Permanent effect |\n"
 msgstr ""
+"| Symbole | Description |\n"
+"| :---: | :--- |\n"
+"| :effect_map: | Stratégie. Ne peut être activé qu'à votre tour et hors d'un combat. |\n"
+"| :unit_attack: | Action d’Attaque. Se résout quand l’Unité Activée Attaque. Dans le cas d’Attaques multiples, résoudre cet effet pour la première Attaque seulement. |\n"
+"| :unit_retaliate: | Riposte. Se résout à chaque fois que l’Unité Riposte |\n"
+"| :activation: | Activation. Se résout à l’Activation de l’Unité. |\n"
+"| :unit_passive: | Passif. Se résout à chaque fois que les conditions sont remplies. |\n"
+"| :unit_other: | Autre Action peut se résoudre à la place de l’Activation normale de l’Unité. Remplace le Mouvement et/ou l’Attaque. |\n"
+"| :paralysis: | Paralysie. Certains effets placent un Jeton Paralysie sur les Unités. Cette Unité perd sa prochaine Activation. Retirez le Jeton à la place de l’Activer. Si l’Unité est attaquée ou subit des dégâts avant, retirez le Jeton. Le Jeton Paralysie n’empêche pas la Riposte. |\n"
+"| :ongoing: | Persistant. Effet durant jusqu’à épuisement ou jusqu’au début du prochain Tour du Joueur (ce qui arrive en premier). |\n"
+"| :instant: | Instantané/ Effet à résoudre immédiatement. |\n"
+"| :permanent: | Permanent. LaCarte reste en jeu jusqu’à défausse ou remplacement. Vous ne pouvez avoir qu’un effet permanent en même temps; en jouer une autre défausse la première |\n"
 
 #. type: Title ##
 #: docs/legend.md
 #, no-wrap
 msgid "Card Types"
-msgstr ""
+msgstr "Types de Cartes"
 
 #. type: Plain text
 #: docs/legend.md
@@ -144,6 +180,10 @@ msgid ""
 "| :spellpower: | [Spell](spells/index.md) |\n"
 "| :artifact: | [Artifact](artifacts/index.md) |\n"
 msgstr ""
+"| Symbole | Description |\n"
+"| :---: | :--- |\n"
+"| :spellpower: | [Sort](spells/index.md) |\n"
+"| :artifact: | [Artefact](artifacts/index.md) |\n"
 
 #. type: Plain text
 #: docs/legend.md
@@ -155,6 +195,11 @@ msgid ""
 "| :building_materials: | Building materials |\n"
 "| :valuables: | Valuables |\n"
 msgstr ""
+"| Symbole | Description |\n"
+"| :---: | :--- |\n"
+"| :gold: | Or |\n"
+"| :building_materials: | Matériaux |\n"
+"| :valuables: | Richesses |\n"
 
 #. type: Plain text
 #: docs/legend.md
@@ -165,12 +210,16 @@ msgid ""
 "| :treasure: | [Treasure die](dice.md#treasure-die) |\n"
 "| :resource_die: | [Resource die](dice.md#resource-die) |\n"
 msgstr ""
+"| Symbole | Description |\n"
+"| :---: | :--- |\n"
+"| :treasure: | [Dé de Trésor](dice.md#treasure-die) |\n"
+"| :resource_die: | [Dé de Ressource](dice.md#resource-die) |\n"
 
 #. type: Title ##
 #: docs/legend.md
 #, no-wrap
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Divers"
 
 #. type: Plain text
 #: docs/legend.md
@@ -184,12 +233,19 @@ msgid ""
 "| :morale_negative: | Negative morale |\n"
 "| :movement: | Movement point |\n"
 msgstr ""
+"| Symbole | Description |\n"
+"| :---: | :--- |\n"
+"| :expert: | Effet Expert |\n"
+"| :pay: | Payer |\n"
+"| :morale_positive: | Moral positif |\n"
+"| :morale_negative: | Moral négatif |\n"
+"| :movement: | Point de mouvement |\n"
 
 #. type: Title ##
 #: docs/legend.md
 #, no-wrap
 msgid "AI Hero Card Types"
-msgstr ""
+msgstr "Types de carte IA"
 
 #. type: Plain text
 #: docs/legend.md
@@ -201,3 +257,8 @@ msgid ""
 "| :magic: | Magic card |\n"
 "| :skill: | Skill card |\n"
 msgstr ""
+"| Symbole | Description |\n"
+"| :---: | :--- |\n"
+"| :might: | Carte guerrier |\n"
+"| :magic: | Carte magie |\n"
+"| :skill: | Carte capacité |\n"

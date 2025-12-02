@@ -345,31 +345,8 @@ msgstr ""
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/relic_artifact.md
-#, fuzzy
 msgid "[List of Artifacts](../artifacts/index.md)"
-msgstr ""
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po  #-#-#-#-#\n"
-"[Liste des artefacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)\n"
-"#-#-#-#-#  fr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Liste des artéfacts](../artifacts/index.md)"
+msgstr "[Liste des Artefacts](../artifacts/index.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/major_artifact.md
