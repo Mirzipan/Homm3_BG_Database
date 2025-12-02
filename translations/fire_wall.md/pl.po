@@ -526,7 +526,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #: docs/spells/visions.md
 msgid "[School of Fire Magic](school_of_fire_magic.md)"
-msgstr ""
+msgstr "[Szkoła Ognia](school_of_fire_magic.md)"
 
 #. type: Plain text
 #: docs/spells/blind.md docs/spells/bloodlust.md docs/spells/curse.md

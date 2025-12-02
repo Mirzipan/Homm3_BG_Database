@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2024-10-21 16:09+0000\n"
+"POT-Creation-Date: 2025-11-29 10:07+0000\n"
 "PO-Revision-Date: 2024-10-21 11:09+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -147,21 +147,25 @@ msgstr ""
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
-#: docs/heroes/bron.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/catherine.md docs/heroes/ciele.md docs/heroes/clancy.md
-#: docs/heroes/crag_hack.md docs/heroes/cyra.md docs/heroes/deemer.md
-#: docs/heroes/dessa.md docs/heroes/dracon.md docs/heroes/erdamon.md
-#: docs/heroes/fiona.md docs/heroes/gelu.md docs/heroes/gem.md
+#: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/bron.md
+#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
+#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
+#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
+#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
+#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gerwulf.md
 #: docs/heroes/gundula.md docs/heroes/index.md docs/heroes/ingham.md
 #: docs/heroes/iona.md docs/heroes/ivor.md docs/heroes/jeddite.md
 #: docs/heroes/jeremy.md docs/heroes/josephine.md
 #: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
 #: docs/heroes/lorelei.md docs/heroes/luna.md docs/heroes/melodia.md
-#: docs/heroes/mephala.md docs/heroes/moandor.md docs/heroes/monere.md
-#: docs/heroes/mutare.md docs/heroes/pasis.md docs/heroes/rashka.md
+#: docs/heroes/mephala.md docs/heroes/merist.md docs/heroes/miriam.md
+#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/rashka.md
 #: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/sephinroth.md
 #: docs/heroes/septienna.md docs/heroes/shiva.md docs/heroes/solmyr.md
-#: docs/heroes/tamika.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tamika.md docs/heroes/tarnum_castle.md
+#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
 #: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
 #: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
@@ -316,7 +320,7 @@ msgstr "Zobacz też"
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -379,7 +383,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -396,7 +400,7 @@ msgstr ""
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Pole Jednorazowe](../keywords/visitable_field.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
@@ -416,9 +420,8 @@ msgstr ""
 #: docs/fields/tree_of_knowledge.md docs/fields/university.md
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
-#, fuzzy
 msgid "[List of Fields](index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Pól](index.md)"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md

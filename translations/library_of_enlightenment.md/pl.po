@@ -493,7 +493,7 @@ msgstr "[Lista Zaklęć](../spells/index.md)"
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
-msgstr ""
+msgstr "<figure markdown=\"span\">\n"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -537,7 +537,7 @@ msgstr ""
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "</figure>\n"
-msgstr ""
+msgstr "</figure>\n"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
@@ -552,7 +552,7 @@ msgstr ""
 #: docs/events/withered_hermit.md docs/events/a_shady_auction.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Event](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Wydarzenie](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
