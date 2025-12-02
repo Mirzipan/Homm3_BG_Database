@@ -407,7 +407,7 @@ msgstr "Zobacz też"
 #: docs/artifacts/pendant_of_courage.md docs/artifacts/skull_helmet.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>🚧</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>🚧</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/arms_of_legion.md

@@ -323,12 +323,12 @@ msgstr "Zobacz też"
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/keywords/visitable_field.md
 msgid "[Revisitable Field](revisitable_field.md)"
-msgstr ""
+msgstr "[Pole Wielorazowe](revisitable_field.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/revisitable_field.md docs/keywords/visitable_field.md
 msgid "[Flaggable Field](flaggable_field.md)"
-msgstr ""
+msgstr "[Pole Flagowalne](flaggable_field.md)"
 
 #. type: Title #
 #: docs/keywords/visitable_field.md

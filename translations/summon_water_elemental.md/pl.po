@@ -451,7 +451,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr ""
+msgstr "[Szkoła Wody](school_of_water_magic.md)"
 
 #. type: Plain text
 #: docs/spells/frost_ring.md docs/spells/mirth.md docs/spells/prayer.md

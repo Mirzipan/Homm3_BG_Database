@@ -410,7 +410,7 @@ msgstr "Zobacz też"
 #: docs/heroes/cassiopeia.md docs/heroes/zilare.md docs/heroes/jeremy.md
 #: docs/heroes/casmetra.md docs/war_machines/cannon.md docs/towns/cove.md
 msgid "[Cove Expansion](../content/cove_expansion.md)"
-msgstr ""
+msgstr "[Rozszerzenie Przystań](../content/cove_expansion.md)"
 
 #. type: Plain text
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
@@ -422,15 +422,14 @@ msgstr "<p style=\"text-align: center;\" markdown>[Machina Wojenna](index.md)</p
 #. type: Bullet: '- '
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/first_aid_tent.md docs/war_machines/cannon.md
-#, fuzzy
 msgid "[List of War Machines](index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Machin Wojennych](units/index.md)"
 
 #. type: Title #
 #: docs/war_machines/cannon.md
 #, no-wrap
 msgid "Cannon"
-msgstr "Armata"
+msgstr ""
 
 #. type: Plain text
 #: docs/war_machines/cannon.md
