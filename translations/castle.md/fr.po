@@ -648,7 +648,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Units"
-msgstr ""
+msgstr "Unités"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/castle.md
@@ -667,7 +667,7 @@ msgstr ""
 #: docs/towns/tower.md
 #, no-wrap
 msgid "Heroes"
-msgstr ""
+msgstr "Héros"
 
 #. type: Title #
 #: docs/towns/castle.md

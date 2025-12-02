@@ -508,7 +508,7 @@ msgstr "[Extension forteresse](../content/fortress_expansion.md)"
 #: docs/units/earth_elementals.md docs/units/fire_elementals.md
 #: docs/units/water_elementals.md
 msgid "[List of Spells](../spells/index.md)"
-msgstr ""
+msgstr "[Liste des Sorts](../spells/index.md)"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md

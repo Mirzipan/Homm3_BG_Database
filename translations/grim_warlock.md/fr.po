@@ -494,7 +494,7 @@ msgstr ""
 #: docs/abilities/resistance.md docs/abilities/mysticism.md
 #: docs/abilities/wisdom.md docs/abilities/intelligence.md
 msgid "[List of Spells](../spells/index.md)"
-msgstr ""
+msgstr "[Liste des Sorts](../spells/index.md)"
 
 #. type: Plain text
 #: docs/events/messenger_with_supplies.md docs/events/cursed_swamp.md
