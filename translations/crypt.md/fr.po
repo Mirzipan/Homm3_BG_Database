@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-18 10:02+0200\n"
-"PO-Revision-Date: 2025-12-02 21:20+0100\n"
+"PO-Revision-Date: 2025-12-03 20:39+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -567,7 +567,7 @@ msgstr "![Crypte](../assets/events-crypt.webp){ width=\"475\" align=right }"
 #: docs/events/crypt.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 [:treasure:](../dice.md#treasure-die). If any of them shows #, you gain nothing. Otherwise, resolve one result.<br><br>— OR —<br><br>Gain Positive Morale.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for half the cost.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>**Chaque joueur choisit :** <br>Gagnez :morale_negative:. Puis, lancez 2 [:treasure:](../dice.md#treasure-die). Sur au moins un #, Vous ne gagnez rien. Sinon, choisissez un résultat.<br><br>— OU —<br><br>Gagnez :morale_positive:.<br><br>— OU —<br><br>Uniquement [:necro:](../towns/necropolis.md). **Améliorez** une de vos :bronze: ou :silver: pour la moitié du coût.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>**Chaque joueur choisit :** <br>Gagnez :morale_negative:. Puis, lancez 2 [:treasure:](../dice.md#treasure-die). Sur au moins un :experience:, Vous ne gagnez rien. Sinon, choisissez un résultat.<br><br>— OU —<br><br>Gagnez :morale_positive:.<br><br>— OU —<br><br>Uniquement [:necro:](../towns/necropolis.md). **Améliorez** une de vos :bronze: ou :silver: pour la moitié du coût.</p>\n"
 
 #. type: Plain text
 #: docs/events/crypt.md
