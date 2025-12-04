@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-21 16:09+0000\n"
-"PO-Revision-Date: 2024-10-21 16:09+0000\n"
+"PO-Revision-Date: 2025-12-04 21:18+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -625,7 +626,7 @@ msgstr "</figure>\n"
 #: docs/statistics/defense.md docs/statistics/knowledge.md
 #: docs/statistics/power.md docs/towns/index.md
 msgid "[List of Heroes](../heroes/index.md)"
-msgstr ""
+msgstr "[Liste des Héros](../heroes/index.md)"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -660,24 +661,24 @@ msgstr "[Liste des Evénements](index.md)"
 #: docs/events/stables.md docs/fields/stables.md
 #, no-wrap
 msgid "Stables"
-msgstr ""
+msgstr "Ecurie"
 
 #. type: Plain text
 #: docs/events/stables.md
 msgid "![Stables](../assets/events-stables.webp){ width=\"475\" align=right }"
-msgstr ""
+msgstr "![Ecurie](../assets/events-stables.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/events/stables.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Your Main [hero](../heroes/index.md) gains +1 :movement:.<br><br>— OR —<br><br>:pay: 1 :movement: from any of your [heroes](../heroes/index.md) to roll 1 [:resource_die:](../dice.md#resource-die).</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>**Chaque joueur choisit:** <br>Votre [hero](../heroes/index.md) principal gagne +1 :movement:.<br><br>— OU —<br><br>:pay: 1 :movement: d'un de vos [Héros](../heroes/index.md) pour lancer 1 [:resource_die:](../dice.md#resource-die).</p>\n"
 
 #. type: Plain text
 #: docs/events/stables.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*While traveling to your next location, you see a small fork in the road. Out of curiosity, you check it out and find an old stable. The overjoyed host offers you an amazing bargain.*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*En chemin vers votre prochaine destination, vous remarquez un petit chemin qui s'écarte de la route. Par curiosité, vous décidez de le suivre et arrivez devant une vieille écurie. Le propriétaire, ravi de voir quelqu'un, vous propose l'affaire du siécle.*</p>\n"
 
 #. type: Bullet: '- '
 #: docs/fields/2_resources.md docs/fields/artifact.md
