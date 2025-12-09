@@ -422,7 +422,7 @@ msgstr "Voir aussi"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Extension Rampart](../content/rampart_expansion.md)"
 
 #. type: Plain text
 #: docs/spells/air_shield.md docs/spells/disrupting_ray.md
@@ -442,7 +442,7 @@ msgstr ""
 #: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
 #: docs/spells/view_air.md
 msgid "[School of Air Magic](school_of_air_magic.md)"
-msgstr ""
+msgstr "[Ecole de magie de l'Air](school_of_air_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md

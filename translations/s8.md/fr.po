@@ -480,7 +480,7 @@ msgstr "Voir aussi"
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr ""
+msgstr "Sites"
 
 #. type: Bullet: '- '
 #: docs/heroes/erdamon.md docs/heroes/luna.md docs/heroes/monere.md

@@ -605,7 +605,7 @@ msgstr "</figure>\n"
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Proclamation des Astrologues](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -640,7 +640,7 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 msgid "[List of Astrologers Proclaim Cards](index.md)"
-msgstr ""
+msgstr "[Liste des cartes de Proclamation des Astrologues](index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -651,7 +651,7 @@ msgstr ""
 #: docs/events/den_of_thieves.md docs/events/mercenary_camp.md
 #: docs/events/prison.md docs/towns/index.md docs/towns/neutral.md
 msgid "[List of Units](../units/index.md)"
-msgstr ""
+msgstr "[Liste des Unités](../units/index.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/groovy_satyr.md

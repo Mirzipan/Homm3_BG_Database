@@ -82,7 +82,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -331,7 +331,7 @@ msgstr "Voir aussi"
 #: docs/keywords/flaggable_field.md docs/keywords/index.md
 #: docs/keywords/revisitable_field.md
 msgid "[Visitable Field](visitable_field.md)"
-msgstr ""
+msgstr "[Site explorable](visitable_field.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/revisitable_field.md

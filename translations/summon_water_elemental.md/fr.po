@@ -450,7 +450,7 @@ msgstr ""
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr ""
+msgstr "[Ecole de magie de l'Eau](school_of_water_magic.md)"
 
 #. type: Plain text
 #: docs/spells/frost_ring.md docs/spells/mirth.md docs/spells/prayer.md

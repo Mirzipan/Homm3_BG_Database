@@ -79,7 +79,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -372,32 +372,32 @@ msgstr ""
 #: docs/keywords/near_tile.md docs/keywords/underground_tile.md
 #: docs/keywords/water_tile.md
 msgid "[Starting Tile](starting_tile.md)"
-msgstr ""
+msgstr "[Tuile de départ](starting_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/near_tile.md
 #: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
 #: docs/keywords/water_tile.md
 msgid "[Far Tile](far_tile.md)"
-msgstr ""
+msgstr "[Tuile lointaine](far_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
 #: docs/keywords/water_tile.md
 msgid "[Near Tile](near_tile.md)"
-msgstr ""
+msgstr "[Tuile proche](near_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/near_tile.md docs/keywords/starting_tile.md
 #: docs/keywords/water_tile.md
 msgid "[Underground Tile](underground_tile.md)"
-msgstr ""
+msgstr "[Tuile souterraine](underground_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/near_tile.md docs/keywords/starting_tile.md
 #: docs/keywords/underground_tile.md
 msgid "[Water Tile](water_tile.md)"
-msgstr ""
+msgstr "[Tuile maritime](water_tile.md)"

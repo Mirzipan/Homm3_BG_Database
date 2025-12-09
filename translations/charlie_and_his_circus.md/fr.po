@@ -74,7 +74,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -482,7 +482,7 @@ msgstr "Voir aussi"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Extension Rampart](../content/rampart_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/diplomacy.md
@@ -627,7 +627,7 @@ msgstr "</figure>\n"
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Proclamation des Astrologues](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -662,7 +662,7 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 msgid "[List of Astrologers Proclaim Cards](index.md)"
-msgstr ""
+msgstr "[Liste des cartes de Proclamation des Astrologues](index.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -753,7 +753,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "[List of Towns](../towns/index.md)"
-msgstr ""
+msgstr "[Liste des Villes](../towns/index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -764,4 +764,4 @@ msgstr ""
 #: docs/events/den_of_thieves.md docs/events/mercenary_camp.md
 #: docs/events/prison.md docs/towns/index.md docs/towns/neutral.md
 msgid "[List of Units](../units/index.md)"
-msgstr ""
+msgstr "[Liste des Unités](../units/index.md)"

@@ -69,7 +69,7 @@ msgstr ""
 #: docs/keywords/permanent_effect.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -654,7 +654,7 @@ msgstr "</figure>\n"
 #: docs/astrologers_proclaim/gold_dragon.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Proclamation des Astrologues](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/groovy_satyr.md
@@ -687,7 +687,7 @@ msgstr ""
 #: docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/gold_dragon.md
 msgid "[List of Astrologers Proclaim Cards](index.md)"
-msgstr ""
+msgstr "[Liste des cartes de Proclamation des Astrologues](index.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/friendly_beaver.md
