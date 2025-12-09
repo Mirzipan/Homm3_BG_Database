@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-21 12:24+0200\n"
-"PO-Revision-Date: 2024-10-21 12:24+0200\n"
+"PO-Revision-Date: 2025-12-04 20:26+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -535,7 +536,7 @@ msgstr "</figure>\n"
 #: docs/events/den_of_thieves.md docs/events/mercenary_camp.md
 #: docs/events/prison.md docs/towns/index.md docs/towns/neutral.md
 msgid "[List of Units](../units/index.md)"
-msgstr ""
+msgstr "[Liste des Unités](../units/index.md)"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -570,21 +571,21 @@ msgstr "[Liste des Evénements](index.md)"
 #: docs/events/den_of_thieves.md
 #, no-wrap
 msgid "Den of Thieves"
-msgstr ""
+msgstr "Repaire des Voleurs"
 
 #. type: Plain text
 #: docs/events/den_of_thieves.md
 msgid "![Den of Thieves](../assets/events-den_of_thieves.webp){ width=\"475\" align=right }"
-msgstr ""
+msgstr "![Repaire des Voleurs](../assets/events-den_of_thieves.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/events/den_of_thieves.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>Take the top 2 cards from a [Neutral Unit](../units/index.md) deck of your choice. You may buy one of them. Then decide what to do with the remaining card(s) - you may place them at the bottom or top of the respective [Neutral Unit](../units/index.md) deck.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Prenez les 2 premières cartes d'une pile d'[Unités Neutres](../units/index.md) de votre choix. Vous pouvez en acheter une. Puis, remettez la ou les cartes restantes au-dessus ou en-dessous de la pile d'[Unités Neutres](../units/index.md) de même rang.</p>\n"
 
 #. type: Plain text
 #: docs/events/den_of_thieves.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*Searching through the underbrush, you find the secret entrance to the Den of Thieves. In there, an old \"acquaintance\" grabs your arm and starts talking about all the \"secrets\" she has learned since you last meeting.*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*En fouillant des les taillis, vous découvrez l'entrée secrète du Repaire des Voleurs. A l'intérieur, une vieille \"connaissance\" vous attrape par le bras et vous racontes tous les \"secrets\" qu'elle a appris depuis votre dernière rencontre.*</p>\n"

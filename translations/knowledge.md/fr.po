@@ -71,7 +71,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -280,7 +280,7 @@ msgstr "Voir aussi"
 #: docs/statistics/defense.md docs/statistics/knowledge.md
 #: docs/statistics/power.md docs/towns/index.md
 msgid "[List of Heroes](../heroes/index.md)"
-msgstr ""
+msgstr "[Liste des Héros](../heroes/index.md)"
 
 #. type: Plain text
 #: docs/statistics/attack.md docs/statistics/defense.md

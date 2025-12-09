@@ -481,7 +481,7 @@ msgstr "Voir aussi"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Extension Rampart](../content/rampart_expansion.md)"
 
 #. type: Title ##
 #: docs/fields/index.md docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md
@@ -504,7 +504,7 @@ msgstr ""
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr ""
+msgstr "Sites"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/f10.md docs/tiles/f13.md

@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-18 16:17+0200\n"
-"PO-Revision-Date: 2024-10-18 16:17+0200\n"
+"PO-Revision-Date: 2025-12-04 21:24+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -557,7 +558,7 @@ msgstr "[Liste des Artefacts](../artifacts/index.md)"
 #: docs/statistics/defense.md docs/statistics/knowledge.md
 #: docs/statistics/power.md docs/towns/index.md
 msgid "[List of Heroes](../heroes/index.md)"
-msgstr ""
+msgstr "[Liste des Héros](../heroes/index.md)"
 
 #. type: Plain text
 #: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
@@ -592,21 +593,21 @@ msgstr "[Liste des Evénements](index.md)"
 #: docs/events/the_villagers_plea.md
 #, no-wrap
 msgid "The Villagers' Plea"
-msgstr ""
+msgstr "La supplication des villageois"
 
 #. type: Plain text
 #: docs/events/the_villagers_plea.md
 msgid "![The Villagers' Plea](../assets/events-the_villagers_plea.webp){ width=\"475\" align=right }"
-msgstr ""
+msgstr "![La supplication des villageois](../assets/events-the_villagers_plea.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/events/the_villagers_plea.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Remove an [Artifact](../artifacts/index.md) or [Spell](../spells/index.md) card from your hand.<br><br>— OR —<br><br>:pay: 1 :building_materials:<br><br>— OR —<br><br>:pay: 5 :gold:<br><br>— OR —<br><br>:pay: 1 :movement: from any of your [heroes](../heroes/index.md).</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>**Chaque joueur choisit:** <br>Détruisez une carte [Artefact](../artifacts/index.md) ou un [Sort](../spells/index.md) dans votre main.<br><br>— OU —<br><br>:pay: 1 :building_materials:<br><br>— OU —<br><br>:pay: 5 :gold:<br><br>— OU —<br><br>:pay: 1 :movement: d'un de vos [héros](../heroes/index.md).</p>\n"
 
 #. type: Plain text
 #: docs/events/the_villagers_plea.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*In the distance, you see a small village covered in a cloud of smoke. Upon arrival, you are greeted only by charred ruins and the lamentations of families who lost all they had. Will you help them?*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*Vous distinguez au loin un petit village obscurci par un nuage de fumée. Lorsque vous arrivez, vous ne voyez que des ruines calcinées et des famille éplorées d'avoir tout perdu. Leur viendrez-vous en aide ?*</p>\n"

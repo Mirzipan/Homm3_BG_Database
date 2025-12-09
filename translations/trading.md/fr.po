@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-21 11:09+0000\n"
-"PO-Revision-Date: 2024-10-21 11:09+0000\n"
+"PO-Revision-Date: 2025-12-03 20:45+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,17 +15,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title #
 #: docs/trading.md
 #, no-wrap
 msgid "Trading"
-msgstr ""
+msgstr "Conversion des Ressources"
 
 #. type: Plain text
 #: docs/trading.md
 msgid "Ratios when trading resources. Mostly used as an action at the [Trading Post](fields/trading_post.md)."
-msgstr ""
+msgstr "Lorsque vous explorez un [Comptoir](fields/trading_post.md), vous pouvez échanger vos ressources selon le tableau suivant."
 
 #. type: Plain text
 #: docs/trading.md
@@ -37,3 +38,8 @@ msgid ""
 "| :building_materials: | 1:1 | - | 3:1 |\n"
 "| :valuables: | 1:3 | 1:2 | - |\n"
 msgstr ""
+"| ↓ Vente / Achat → | :gold: | :building_materials: | :valuables: |\n"
+"| :---: | :---: | :---: | :---: |\n"
+"| :gold: | - | 2:1 | 6:1 |\n"
+"| :building_materials: | 1:1 | - | 3:1 |\n"
+"| :valuables: | 1:3 | 1:2 | - |\n"

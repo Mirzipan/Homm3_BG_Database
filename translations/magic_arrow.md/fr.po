@@ -71,7 +71,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -556,7 +556,7 @@ msgstr ""
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Extension Rampart](../content/rampart_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/abilities/ballistics.md docs/abilities/scholar.md
@@ -625,7 +625,7 @@ msgstr ""
 #: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
 #: docs/spells/view_air.md
 msgid "[School of Air Magic](school_of_air_magic.md)"
-msgstr ""
+msgstr "[Ecole de magie de l'Air](school_of_air_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
@@ -662,7 +662,7 @@ msgstr ""
 #: docs/spells/summon_earth_elemental.md docs/spells/town_portal.md
 #: docs/spells/view_earth.md
 msgid "[School of Earth Magic](school_of_earth_magic.md)"
-msgstr ""
+msgstr "[Ecole de magie de Terre](school_of_earth_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/berserk.md docs/spells/blind.md docs/spells/bloodlust.md
@@ -674,7 +674,7 @@ msgstr ""
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #: docs/spells/visions.md
 msgid "[School of Fire Magic](school_of_fire_magic.md)"
-msgstr ""
+msgstr "[Ecole de magie de Feu](school_of_fire_magic.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/bless.md docs/spells/cure.md docs/spells/dispel.md
@@ -685,7 +685,7 @@ msgstr ""
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/weakness.md
 msgid "[School of Water Magic](school_of_water_magic.md)"
-msgstr ""
+msgstr "[Ecole de magie de l'Eau](school_of_water_magic.md)"
 
 #. type: Title #
 #: docs/spells/magic_arrow.md

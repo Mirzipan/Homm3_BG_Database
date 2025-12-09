@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-18 10:02+0200\n"
-"PO-Revision-Date: 2024-10-18 10:02+0200\n"
+"PO-Revision-Date: 2025-12-03 20:41+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -220,7 +221,7 @@ msgstr "Voir aussi"
 #: docs/difficulties.md
 #, no-wrap
 msgid "Difficulties"
-msgstr ""
+msgstr "Niveaux de difficulté"
 
 #. type: Plain text
 #: docs/difficulties.md
@@ -236,8 +237,17 @@ msgid ""
 "| Ⅵ | :bronze: :bronze: :silver: :silver: :golden: | :bronze: :silver: :silver: :golden: :golden: | :silver: :silver: :golden: :golden: :golden: | :silver: :golden: :golden: :golden: :golden: |\n"
 "| Ⅶ | :azure: | :azure: :azure: | :golden: :azure: :azure: | :golden: :golden: :azure: :azure: |\n"
 msgstr ""
+"| Difficulté | Facile | Normal | Difficile | Impossible |\n"
+"| :---: | :---: | :---: | :---: | :---: |\n"
+"| Ⅰ | :bronze: | :bronze: | :bronze: :bronze: | :bronze: :bronze: :bronze: |\n"
+"| Ⅱ | :bronze: :bronze: | :bronze: :bronze: | :bronze: :bronze: :bronze: | :bronze: :bronze: :silver: |\n"
+"| Ⅲ | :bronze: :silver: | :bronze: :bronze: :silver: | :bronze: :silver: :silver: | :silver: :silver: :silver: |\n"
+"| Ⅳ | :bronze: :bronze: :silver: | :bronze: :silver: :silver: | :silver: :silver: :silver: | :silver: :silver: :golden: |\n"
+"| Ⅴ | :bronze: :bronze: :silver: :golden: | :bronze: :silver: :silver: :golden: | :silver: :silver: :golden: :golden: | :silver: :golden: :golden: :golden: |\n"
+"| Ⅵ | :bronze: :bronze: :silver: :silver: :golden: | :bronze: :silver: :silver: :golden: :golden: | :silver: :silver: :golden: :golden: :golden: | :silver: :golden: :golden: :golden: :golden: |\n"
+"| Ⅶ | :azure: | :azure: :azure: | :golden: :azure: :azure: | :golden: :golden: :azure: :azure: |\n"
 
 #. type: Bullet: '- '
 #: docs/difficulties.md
 msgid "[List of Units](units/index.md)"
-msgstr ""
+msgstr "[Liste des Unités](units/index.md)"

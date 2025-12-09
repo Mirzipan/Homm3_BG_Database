@@ -421,7 +421,7 @@ msgstr "Voir aussi"
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/first_aid_tent.md docs/towns/rampart.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Extension Rampart](../content/rampart_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/spells/bloodlust.md docs/spells/visions.md docs/spells/fireball.md
@@ -458,7 +458,7 @@ msgstr ""
 #: docs/spells/school_of_water_magic.md docs/spells/implosion.md
 #: docs/spells/slow.md docs/spells/sorrow.md docs/spells/magic_arrow.md
 msgid "[School of Earth Magic](school_of_earth_magic.md)"
-msgstr ""
+msgstr "[Ecole de magie de Terre](school_of_earth_magic.md)"
 
 #. type: Plain text
 #: docs/spells/resurrection.md docs/spells/summon_earth_elemental.md

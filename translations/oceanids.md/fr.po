@@ -409,7 +409,7 @@ msgstr "Voir aussi"
 #: docs/units/nix.md docs/units/oceanids.md docs/units/sea_dogs.md
 #: docs/units/seamen.md docs/units/sorceresses.md docs/war_machines/cannon.md
 msgid "[Cove Expansion](../content/cove_expansion.md)"
-msgstr ""
+msgstr "[Extension Crique](../content/cove_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
@@ -471,7 +471,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md
 msgid "[List of Towns](../towns/index.md)"
-msgstr ""
+msgstr "[Liste des Villes](../towns/index.md)"
 
 #. type: Plain text
 #: docs/units/air_elementals.md docs/units/arch_devils.md

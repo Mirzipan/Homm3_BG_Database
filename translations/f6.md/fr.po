@@ -562,7 +562,7 @@ msgstr ""
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr ""
+msgstr "Sites"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/f16.md docs/tiles/f19.md

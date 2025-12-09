@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-18 10:02+0200\n"
-"PO-Revision-Date: 2024-10-18 10:02+0200\n"
+"PO-Revision-Date: 2025-12-04 21:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -572,21 +573,21 @@ msgstr "[Liste des Evénements](index.md)"
 #: docs/events/library_of_enlightenment.md
 #, no-wrap
 msgid "Library of Enlightenment"
-msgstr ""
+msgstr "Bibliothèque d'Illumination"
 
 #. type: Plain text
 #: docs/events/library_of_enlightenment.md
 msgid "![Library of Enlightenment](../assets/events-library_of_enlightenment.webp){ width=\"475\" align=right }"
-msgstr ""
+msgstr "![Bibliothèque d'Illumination](../assets/events-library_of_enlightenment.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/events/library_of_enlightenment.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>For every player in the game, draw the top two [Spell](../spells/index.md) cards and put them face-up within all players' reach. Each player can buy once of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables:.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Piochez 2 [Sorts](../spells/index.md) par joueur, puis placez-les face visible au centre de la table. Chaque joueur peut acheter une de ses cartes [:spellpower:](../spells/index.md) pour 6 :gold: ou 2 :valuables:.</p>\n"
 
 #. type: Plain text
 #: docs/events/library_of_enlightenment.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*In the town you are currently visiting, there is a famous library said to possess a vast collection of arcane tomes. Are you willing to seek their knowledge?*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*La ville dans laquelle vous séjournez abrite une bibliothèque célèbre pour sa vaste collection d'ouvrages magiques. En profiterez-vous pour puiser dans ce savoir ?*</p>\n"

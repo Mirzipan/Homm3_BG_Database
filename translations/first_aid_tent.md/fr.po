@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2025-11-29 10:07+0000\n"
-"PO-Revision-Date: 2025-02-16 09:10+0000\n"
+"PO-Revision-Date: 2025-12-03 22:11+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -82,7 +83,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -557,50 +558,50 @@ msgstr "Voir aussi"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Extension Rampart](../content/rampart_expansion.md)"
 
 #. type: Plain text
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/cannon.md docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[War Machine](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Machine de Guerre](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/cannon.md docs/war_machines/first_aid_tent.md
 msgid "[List of War Machines](index.md)"
-msgstr ""
+msgstr "[Liste des Machines de Guerre](index.md)"
 
 #. type: Title #
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "First Aid Tent"
-msgstr ""
+msgstr "Dispensaire"
 
 #. type: Plain text
 #: docs/war_machines/first_aid_tent.md
 msgid "![First Aid Tent](../assets/war_machines-first_aid_tent.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Dispensaire](../assets/war_machines-first_aid_tent.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:permanent: Once during each Combat round, remove 1 :damage: from your selected unit.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>:permanent: Une fois par tour de Combat, retirez 1 :damage: sur une de vos unités.</p>\n"
 
 #. type: Plain text
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:pay: 3 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 6 :gold: at Trade Post</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>:pay: 3 :gold: à la Manufacture d'Armes<br><br>— OU —<br><br>:pay: 6 :gold: au Comptoir</p>\n"
 
 #. type: Bullet: '- '
 #: docs/war_machines/first_aid_tent.md
 msgid "The effect may be used at any point during the Combat round (similar to an :instant: effect)."
-msgstr ""
+msgstr "Cet effet peut être utilisé à tout moment pendant le round de combat (similaire à un :instant: )."
 
 #. type: Bullet: '- '
 #: docs/war_machines/first_aid_tent.md
 msgid ":damage: can only be removed *after* it was dealt. The First Aid Tent can not prevent defeat of a unit by reducing the incoming :damage:."
-msgstr ""
+msgstr "Les :damage: ne peuvent être supprimé qu'*après* avoir été infligés. Le dispensaire ne peut pas empêcher la défaite d'une unité en réduisant les :damage: infligés."

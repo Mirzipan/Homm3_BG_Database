@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2025-11-29 10:07+0000\n"
-"PO-Revision-Date: 2025-02-16 09:10+0000\n"
+"PO-Revision-Date: 2025-12-04 21:10+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -677,21 +678,21 @@ msgstr "[Liste des Evénements](index.md)"
 #: docs/events/shrine_of_the_magic_thought.md
 #, no-wrap
 msgid "Shrine of the Magic Thought"
-msgstr ""
+msgstr "Temple de Pensée"
 
 #. type: Plain text
 #: docs/events/shrine_of_the_magic_thought.md
 msgid "![Shrine of the Magic Thought](../assets/events-shrine_of_the_magic_thought.webp){ width=\"475\" align=right }"
-msgstr ""
+msgstr "![Temple de pensée](../assets/events-shrine_of_the_magic_thought.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/events/shrine_of_the_magic_thought.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>For every player in the game, draw two random [Spell](../spells/index.md) cards and place them face-up within all players' reach. Each player can either buy one of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables: or roll and resolve 1 [:resource_die:](../dice.md#resource-die). Place the remaining, not bought, cards in the [Spell](../spells/index.md) discard pile.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>Piochez 2 [Sorts](../spells/index.md) par joueur dans la partie, puis placez les au centre de la table. Chaque joueur peut soit acheter une de ces cartes pour [:spellpower:](../spells/index.md) pour 6 :gold: ou 2 :valuables:, soit lancer 1 dé [:resource_die:](../dice.md#resource-die) et appliquer le résultat. Placez toutes les cartes non achetées dans la défausse de cartes [Sorts](../spells/index.md).</p>\n"
 
 #. type: Plain text
 #: docs/events/shrine_of_the_magic_thought.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>*You come across a lavish shrine attended by a group of high priests. Their eyes are full of fear, and they beg you to chase away nearby monsters. In exchange for protection, they agree to teach you a sophisticated spell.*</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>*Vous découvrez un autel resplendissant entretenu par un groupe de grands prêtres. Ils vous implorent de faire déguerpir les créatures monstrueuses qui les terrorisent. En échange de votre protection, ils acceptent de vous enseigner un sort complexe.*</p>\n"
