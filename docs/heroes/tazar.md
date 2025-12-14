@@ -37,7 +37,7 @@ ___
 | :---: | :---: |
 | Ⅰ | :instant: +2 :defense: |
 | Ⅳ | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :defense:. |
-| Ⅵ | :effect_map: Fron your hand, Remove 1 card or Discard 3 cards to draw an [Artifact](../artifacts/index.md) card from the top of the [Artifact](../artifacts/index.md) deck. |
+| Ⅵ | :effect_map: From your hand, Remove 1 card or Discard 3 cards to draw an [Artifact](../artifacts/index.md) card from the top of the [Artifact](../artifacts/index.md) deck. |
 
 
 ## Notes
