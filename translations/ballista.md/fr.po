@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-18 10:02+0200\n"
-"PO-Revision-Date: 2024-10-18 10:02+0200\n"
+"PO-Revision-Date: 2025-12-03 22:04+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -421,40 +422,40 @@ msgstr "Voir aussi"
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/first_aid_tent.md docs/towns/rampart.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Extension Rampart](../content/rampart_expansion.md)"
 
 #. type: Plain text
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/first_aid_tent.md docs/war_machines/cannon.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[War Machine](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Machine de Guerre](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/first_aid_tent.md docs/war_machines/cannon.md
 msgid "[List of War Machines](index.md)"
-msgstr ""
+msgstr "[Liste des Machines de Guerre](index.md)"
 
 #. type: Title #
 #: docs/war_machines/ballista.md
 #, no-wrap
 msgid "Ballista"
-msgstr ""
+msgstr "Baliste"
 
 #. type: Plain text
 #: docs/war_machines/ballista.md
 msgid "![Ballista](../assets/war_machines-ballista.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Baliste](../assets/war_machines-ballista.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/war_machines/ballista.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:permanent: At the beginning of each Combat round, deal 1 :damage: to the enemy unit with the lowest :initiative:.</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>:permanent: Au début de chaque tour de Combat, infligez 1 :damage: à l'unité ennemie avec la plus faible  :initiative:.</p>\n"
 
 #. type: Plain text
 #: docs/war_machines/ballista.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:pay: 7 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 10 :gold: at Trade Post</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>:pay: 7 :gold: à la Manufacture d'Armes<br><br>— OU —<br><br>:pay: 10 :gold: au Comptoir</p>\n"

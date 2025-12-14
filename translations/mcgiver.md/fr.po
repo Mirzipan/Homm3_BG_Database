@@ -71,7 +71,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -479,7 +479,7 @@ msgstr "Voir aussi"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Extension Rampart](../content/rampart_expansion.md)"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -607,7 +607,7 @@ msgstr "</figure>\n"
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Proclamation des Astrologues](index.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -642,12 +642,12 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 msgid "[List of Astrologers Proclaim Cards](index.md)"
-msgstr ""
+msgstr "[Liste des cartes de Proclamation des Astrologues](index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md docs/astrologers_proclaim/mcgiver.md
 msgid "[List of War Machines](../war_machines/index.md)"
-msgstr ""
+msgstr "[Liste des Machines de Guerre](../war_machines/index.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/mcgiver.md

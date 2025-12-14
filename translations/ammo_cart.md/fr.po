@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2024-10-22 19:19+0200\n"
-"PO-Revision-Date: 2024-10-22 19:19+0200\n"
+"PO-Revision-Date: 2025-12-03 21:59+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -79,7 +80,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -554,13 +555,13 @@ msgstr "Voir aussi"
 #: docs/units/unicorns.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/first_aid_tent.md
 msgid "[Rampart Expansion](../content/rampart_expansion.md)"
-msgstr ""
+msgstr "[Extension Rampart](../content/rampart_expansion.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/ammo_cart.md
 #, no-wrap
 msgid "Ammo&nbsp;Cart"
-msgstr ""
+msgstr "Chariot&nbsp;de&nbsp;Munitions"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -628,7 +629,7 @@ msgstr "<figure markdown=\"span\">\n"
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
 msgid "![Ammo Cart](../assets/astrologers_proclaim-ammo_cart.webp){ width=\"475\" align=right }"
-msgstr ""
+msgstr "![Chariot de Munitions](../assets/astrologers_proclaim-ammo_cart.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -727,7 +728,7 @@ msgstr "</figure>\n"
 #: docs/astrologers_proclaim/wild_debauchery.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Proclamation des Astrologues](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
@@ -779,30 +780,30 @@ msgstr ""
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
 msgid "[List of Astrologers Proclaim Cards](index.md)"
-msgstr ""
+msgstr "[Liste des cartes de Proclamation des Astrologues](index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md docs/astrologers_proclaim/mcgiver.md
 msgid "[List of War Machines](../war_machines/index.md)"
-msgstr ""
+msgstr "[Liste des Machines de Guerre](../war_machines/index.md)"
 
 #. type: Title #
 #: docs/war_machines/ammo_cart.md
 #, no-wrap
 msgid "Ammo Cart"
-msgstr ""
+msgstr "Chariot de Munitions"
 
 #. type: Plain text
 #: docs/war_machines/ammo_cart.md
 msgid "![Ammo Cart](../assets/war_machines-ammo_cart.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Chariot de Munitions](../assets/war_machines-ammo_cart.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/cannon.md docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[War Machine](index.md)</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>[Machine de Guerre](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/war_machines/ammo_cart.md
@@ -811,15 +812,17 @@ msgid ""
 "<p style=\"text-align: center;\" markdown>:permanent: Your :unit_ranged: units ignore combat penalties and gain \"+2 :initiative:\".\n"
 "</p>\n"
 msgstr ""
+"<p style=\"text-align: center;\" markdown>:permanent: Vos unités :unit_ranged: ignorent les pénalités d'attaque et gagnent \"+2 :initiative:\".\n"
+"</p>\n"
 
 #. type: Plain text
 #: docs/war_machines/ammo_cart.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:pay: 5 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 8 :gold: at Trade Post</p>\n"
-msgstr ""
+msgstr "<p style=\"text-align: center;\" markdown>:pay: 5 :gold: à la Manufacture d'Armes<br><br>— OU —<br><br>:pay: 8 :gold: au Comptoir</p>\n"
 
 #. type: Bullet: '- '
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/cannon.md docs/war_machines/first_aid_tent.md
 msgid "[List of War Machines](index.md)"
-msgstr ""
+msgstr "[Liste des Machines de Guerre](index.md)"

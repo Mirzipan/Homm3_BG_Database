@@ -71,7 +71,7 @@ msgstr ""
 #: docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -572,7 +572,7 @@ msgstr ""
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #: docs/spells/visions.md
 msgid "[School of Fire Magic](school_of_fire_magic.md)"
-msgstr ""
+msgstr "[Ecole de magie de Feu](school_of_fire_magic.md)"
 
 #. type: Title #
 #: docs/spells/blind.md

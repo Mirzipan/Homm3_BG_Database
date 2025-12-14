@@ -69,7 +69,7 @@ msgstr ""
 #: docs/keywords/permanent_effect.md
 #, no-wrap
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. type: Title ##
 #: docs/units/magi.md docs/units/iron_golems.md docs/units/sea_dogs.md
@@ -579,7 +579,7 @@ msgstr ""
 #: docs/spells/school_of_water_magic.md docs/spells/implosion.md
 #: docs/spells/slow.md docs/spells/sorrow.md docs/spells/magic_arrow.md
 msgid "[School of Earth Magic](school_of_earth_magic.md)"
-msgstr ""
+msgstr "[Ecole de magie de Terre](school_of_earth_magic.md)"
 
 #. type: Plain text
 #: docs/spells/resurrection.md docs/spells/summon_earth_elemental.md

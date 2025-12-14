@@ -497,7 +497,7 @@ msgstr ""
 #: docs/tiles/w2.md docs/tiles/w3.md
 #, no-wrap
 msgid "Fields"
-msgstr ""
+msgstr "Sites"
 
 #. type: Bullet: '- '
 #: docs/keywords/flaggable_field.md docs/tiles/n11.md docs/tiles/n13.md
