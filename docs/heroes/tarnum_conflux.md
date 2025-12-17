@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: **Search(1)** [:spellpower:](../spells/index.md). You can Remove this card instead of taking it into your hand. |
+| Ⅳ | :effect_map: :pay: 10 :gold:, then find the [Enchanters](../units/enchanters.md) card in the [:golden: Neutral Unit](../units/index.md) deck and add it to your [Unit](../units/index.md) deck. You can control only 1 [Enchanters unit](../units/enchanters.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |
+| Ⅵ | :instant: **Search(1)** [:spellpower:](../spells/index.md) twice. If their type allows it, and you have enough :empower: available, you can immediatelly cast one or both of these [spells](../spells/index.md), even if you already cast a spell this round. Place each spell you use this way on the top of the [Spell](../spells/index.md) deck or on its discard pile in any order. |
 
 
 ## Comes With

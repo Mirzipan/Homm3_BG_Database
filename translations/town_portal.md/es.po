@@ -93,7 +93,7 @@ msgstr "Notas"
 #: docs/units/crystal_dragons.md docs/units/cerberi.md docs/units/liches.md
 #: docs/units/storm_elementals.md docs/units/gold_golems.md
 #: docs/units/dwarves.md docs/units/demons.md docs/units/mummies.md
-#: docs/units/water_elementals.md docs/units/centaurs.md docs/units/cyclops.md
+#: docs/units/water_elementals.md docs/units/centaurs.md docs/units/cyclopes.md
 #: docs/units/earth_elementals.md docs/units/rogues.md docs/units/peasants.md
 #: docs/units/efreet.md docs/units/arrow_tower.md docs/units/nagas.md
 #: docs/units/satyrs.md docs/units/dread_knights.md docs/units/sprites.md
@@ -280,7 +280,7 @@ msgstr "Viene Con"
 #: docs/units/crystal_dragons.md docs/units/cerberi.md docs/units/liches.md
 #: docs/units/storm_elementals.md docs/units/gold_golems.md
 #: docs/units/dwarves.md docs/units/demons.md docs/units/mummies.md
-#: docs/units/water_elementals.md docs/units/centaurs.md docs/units/cyclops.md
+#: docs/units/water_elementals.md docs/units/centaurs.md docs/units/cyclopes.md
 #: docs/units/earth_elementals.md docs/units/rogues.md docs/units/peasants.md
 #: docs/units/efreet.md docs/units/arrow_tower.md docs/units/nagas.md
 #: docs/units/satyrs.md docs/units/dread_knights.md docs/units/sprites.md

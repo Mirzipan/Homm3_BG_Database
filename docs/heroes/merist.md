@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :defense: and an additional +1 :defense: if it is adjacent to the attacker. |
+| Ⅳ | :activation: All your units gain a Defense token. |
+| Ⅵ | :ongoing: For this Combat, your Defense tokens provide the extra :defense: on a "0" or a "+1" roll. When this card is played, place a Defense token on all your units. |
 
 
 ## Comes With

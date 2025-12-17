@@ -225,8 +225,8 @@ msgstr ":silver: [Fanáticos](../units/zealots.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/stronghold.md
-msgid ":golden: [Cyclops](../units/cyclops.md)"
-msgstr ":golden: [Cíclopes](../units/cyclops.md)"
+msgid ":golden: [Cyclopes](../units/cyclopes.md)"
+msgstr ":golden: [Cíclopes](../units/cyclopes.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/neutral.md

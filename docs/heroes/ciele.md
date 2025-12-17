@@ -36,8 +36,8 @@ ___
 | Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and put it into your hand.<br><br>— OR —<br><br>:instant: +1 :empower: |
-| Ⅳ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and cast it.<br><br>— OR —<br><br>:instant: +1 :empower: |
-| Ⅵ | 🚧 Selected unit suffers 2 :damage:.<br><br>— OR —<br><br>:instant: +2 :empower: |
+| Ⅳ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and cast it. This spell does not count toward your Spell limit per Combat round.<br><br>— OR —<br><br>:instant: +1 :empower: |
+| Ⅵ | :instant: The selected [unit](../units/index.md) suffers 2 :damage:.<br><br>— OR —<br><br>:instant: +2 :empower: |
 
 
 ## Comes With

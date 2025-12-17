@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Play this card after rolling at least 1 [:resource_die:](../dice.md) to set 1 [:resource_die:](../dice.md) to "6 :gold:".<br><br>— OR —<br><br>:instant: Draw 1 card. |
+| Ⅳ | :instant: Roll and resolve 1 [:resource_die:](../dice.md).<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :attack:. |
+| Ⅵ | :instant: Roll 2 [:resource_die:](../dice.md) and resolve one of them.<br><br>— OR —<br><br>:instant: Draw 2 cards. |
 
 
 ## Comes With

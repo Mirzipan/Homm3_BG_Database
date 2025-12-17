@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :effect_map: Until the end of the round during combat, gain an extra 1 Ballista.</br></br>When player, this card counts as a Ballista. |
-| Ⅳ | :effect_map: Until the end of the round during combat, gain an extra 1 Ballista. This and 1 other Ballista can be activated now.</br></br>When player, this card counts as a Ballista. |
-| Ⅵ | :effect_map: Until the end of the round during combat, gain an extra 1 Ballista. This and all other Ballistas can be activated now.</br></br>When player, this card counts as a Ballista. |
+| Ⅰ | :effect_map: Pay 5 :gold: to gain a [Ballista](../war_machines/ballista.md).<br><br>— OR —<br><br>:instant: Activate your [Ballista](../war_machines/ballista.md) (if you have one). |
+| Ⅳ | :effect_map: Until the end of the round, gain an additional [Ballista](../war_machines/ballista.md) during Combat.</br></br>When played, this card counts as a [Ballista](../war_machines/ballista.md). |
+| Ⅵ | :instant: For this Combat, gain an additional [Ballista](../war_machines/ballista.md). You can activate all your [Ballistas](../war_machines/ballista.md) now.</br></br>When played, this card counts as a [Ballista](../war_machines/ballista.md). |
 
 
 ## Comes With

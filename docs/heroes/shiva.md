@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Thunderbirds unit](../units/thunderbirds.md). |
-| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Thunderbirds unit](../units/thunderbirds.md). |
-| Ⅵ | :instant: Your selected [unit](../units/index.md) gains +2 :attack: |
+| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Thunderbirds unit](../units/thunderbirds.md). |
+| Ⅳ | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :health_points:.<br><br>The effect doubles for the [Thunderbirds unit](../units/thunderbirds.md). |
+| Ⅵ | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +2 :initiative:.<br><br>The effect doubles for the [Thunderbirds unit](../units/thunderbirds.md).|
 
 
 ## Appearances As Enemy Hero

@@ -31,7 +31,7 @@
 - :bronze: [Orcs](../units/orcs.md)
 - :silver: [Ogres](../units/ogres.md)
 - :silver: [Thunderbirds](../units/thunderbirds.md)
-- :golden: [Cyclops](../units/cyclops.md)
+- :golden: [Cyclopes](../units/cyclopes.md)
 - :golden: [Behemoths](../units/behemoths.md)
 
 

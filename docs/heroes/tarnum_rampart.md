@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Elves](../units/elves.md) or [Sharpshooters unit](../units/sharpshooters.md). |
+| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Elves](../units/elves.md) or [Sharpshooters unit](../units/sharpshooters.md). |
+| Ⅵ | :instant: Play this card at the start of Combat. Find a [Sharpshooters unit](../units/sharpshooters.md) in the [:silver: Neutral Unit](../units/index.md) deck (or its discard pile) and add it to your army for this Combat (discard it afterwards).<br><br>— OR —<br><br>:instant: Draw a card. |
 
 
 ## Comes With

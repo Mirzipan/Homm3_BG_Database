@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), then draw 1 card. |
-| Ⅳ | instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), and remove up to 2 :damage: from the selected [unit](../units/index.md). |
-| Ⅵ | instant: Discard a card and remove up to 🚧 :damage: from the selected [unit](../units/index.md). |
+| Ⅰ | instant: Remove any effect or [:paralysis:](../keywords/paralysis.md) from your selected [unit](../units/index.md), then draw 1 card. |
+| Ⅳ | instant: Remove any effect or [:paralysis:](../keywords/paralysis.md) as well as up to 2 :damage: from your selected [unit](../units/index.md). |
+| Ⅵ | instant: Remove up to 3 :damage: from your selected [unit](../units/index.md). |
 
 
 ## Comes With

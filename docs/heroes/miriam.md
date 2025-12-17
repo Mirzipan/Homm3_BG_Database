@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: **Search(3)** [Ability](../abilities/index.md) deck. Then Remove this card. |
-| Ⅳ | :instant: **Search(2)** [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) deck. Then Remove this card. |
-| Ⅵ | :instant: **Search(3)** [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) deck. Then Remove this card. |
+| Ⅰ | :instant: Remove 1 [Ability](../abilities/index.md) card from your hand to **Search(2)** the [Ability](../abilities/index.md) deck. Then, you may Remove this Specialty card. |
+| Ⅳ | :instant: Remove 1 [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) card from your hand to **Search(2)** the corresponding deck. Then, you may Remove this Specialty card. |
+| Ⅵ | :instant: Remove 1 [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) card from your hand to **Search(4)** the corresponding deck. Then, you may Remove this Specialty card.  |
 
 
 ## Comes With
