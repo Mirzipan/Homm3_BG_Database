@@ -1,0 +1,27 @@
+{
+  "name": "Ivor",
+  "image": null,
+  "class": "Ranger",
+  "town": "Rampart",
+  "stats": {
+    "attack": 1,
+    "defense": 3,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Offense",
+  "specialty": {
+    "name": "Elves",
+    "images": [],
+    "levels": {
+      "Ⅰ": ":instant: Change your next Attack roll to \"0\".",
+      "Ⅳ": ":instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Ranged unit](../units/index.md).",
+      "Ⅵ": ":instant: Change your next attack roll on any side."
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

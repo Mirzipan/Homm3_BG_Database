@@ -1,0 +1,10 @@
+{
+  "name": "Library of Enlightenment",
+  "image": "../assets/events-library_of_enlightenment.webp",
+  "type": "Event",
+  "effect": "*In the town you are currently visiting, there is a famous library said to possess a vast collection of arcane tomes. Are you willing to seek their knowledge?*",
+  "flavor_text": "In the town you are currently visiting, there is a famous library said to possess a vast collection of arcane tomes. Are you willing to seek their knowledge?",
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Tactics",
+  "image": "../assets/abilities-tactics.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:activation: During Combat, you can switch the position of any 2 of your [units](../units/index.md).",
+  "expert_effect": ":activation: During Combat, you can switch the position of any 2 of your [units](../units/index.md).",
+  "heroes": [
+    "Cassiopeia",
+    "Mutare"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

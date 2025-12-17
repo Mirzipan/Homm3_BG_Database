@@ -1,0 +1,11 @@
+{
+  "name": "Targ of the Rampaging Ogre",
+  "image": "../assets/artifacts_major-targ_of_the_rampaging_ogre.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "You come upon a bridge spanning a dry gully. As you begin to cross, a gigantic, maddened Ogre appears from the other side and charges toward you, forcing you to slay it. You decide to take its shield, as a trophy.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

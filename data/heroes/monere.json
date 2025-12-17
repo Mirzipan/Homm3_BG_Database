@@ -1,0 +1,27 @@
+{
+  "name": "Monere",
+  "image": null,
+  "class": "Planeswalker",
+  "town": "Conflux",
+  "stats": {
+    "attack": 3,
+    "defense": 1,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Logistics",
+  "specialty": {
+    "name": "Magic Elementals",
+    "images": [],
+    "levels": {
+      "Ⅰ": "🚧",
+      "Ⅳ": "🚧",
+      "Ⅵ": "🚧"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Conflux Expansion"
+  ]
+}

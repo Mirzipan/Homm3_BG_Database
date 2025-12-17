@@ -1,0 +1,11 @@
+{
+  "name": "Shield of the Dwarven Lords",
+  "image": "../assets/artifacts_minor-shield_of_the_dwarven_lords.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "While searching through the rubble of a collapsed mine, you free a group of trapped Dwarves. Grateful, the leader ives you a finely crafted shield.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

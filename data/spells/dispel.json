@@ -1,0 +1,12 @@
+{
+  "name": "Dispel",
+  "image": "../assets/spells-dispel.webp",
+  "type": "Basic Water Spell",
+  "effect": "[Basic Water Spell](school_of_water_magic.md)",
+  "notes": [
+    "Global effects that are not bound to a specific unit (e.g. Archery) may not be removed."
+  ],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

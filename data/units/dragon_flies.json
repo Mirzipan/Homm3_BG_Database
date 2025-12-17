@@ -1,0 +1,14 @@
+{
+  "name": "Dragon Flies",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [],
+  "comes_with": [
+    "Fortress Expansion",
+    "Tower Expansion"
+  ]
+}

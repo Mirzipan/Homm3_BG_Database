@@ -1,0 +1,11 @@
+{
+  "name": "Inexhaustible Cart of Lumber",
+  "image": "../assets/artifacts_minor-inexhaustible_cart_of_lumber.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "Pausing to rest and light a cook fire, you pull wood out of a nearby lumber cart. As you keep pulling wood from the cart, you notice its cargo does not shrink. You realize to your delight that the cart is enchanted, so you take it along.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

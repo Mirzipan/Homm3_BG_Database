@@ -1,0 +1,14 @@
+{
+  "name": "Angel Wings",
+  "image": "../assets/artifacts_relic-angel_wings.webp",
+  "type": "Relic Artifact",
+  "effect": null,
+  "flavor_text": "Not really wanting to know where the Angel, whose wings these belong to, is, you take the wings and quickly depart.",
+  "notes": [
+    "After playing Angel Wings, the hero may move through borders and blocked fields. They may, however, not end their movement on a blocked field.",
+    "See [Blocked Field](../keywords/blocked_field.md)"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

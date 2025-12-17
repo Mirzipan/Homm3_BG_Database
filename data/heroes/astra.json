@@ -1,0 +1,27 @@
+{
+  "name": "Astra",
+  "image": null,
+  "class": "Navigator",
+  "town": "Cove",
+  "stats": {
+    "attack": 2,
+    "defense": 0,
+    "power": 1,
+    "knowledge": 2
+  },
+  "starting_ability": "Luck",
+  "specialty": {
+    "name": "Cure",
+    "images": [],
+    "levels": {
+      "Ⅰ": "instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), then draw 1 card.",
+      "Ⅳ": "instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), and remove up to 2 :damage: from the selected [unit](../units/index.md).",
+      "Ⅵ": "instant: Discard a card and remove up to 🚧 :damage: from the selected [unit](../units/index.md)."
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

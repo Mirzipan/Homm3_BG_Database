@@ -1,0 +1,35 @@
+{
+  "name": "Mutare",
+  "image": "../assets/heroes-dungeon-might-mutare.webp",
+  "class": "Overlord",
+  "town": "Dungeon",
+  "stats": {
+    "attack": 2,
+    "defense": 2,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Tactics",
+  "specialty": {
+    "name": "Dragons",
+    "images": [
+      "../assets/hero_specialties-dungeon-mutare-1.webp",
+      "../assets/hero_specialties-dungeon-mutare-4.webp",
+      "../assets/hero_specialties-dungeon-mutare-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": ":instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for a Dragons [unit](../units/index.md).",
+      "Ⅳ": ":ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for a Dragons [unit](../units/index.md).",
+      "Ⅵ": ":ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for a Dragons [unit](../units/index.md)."
+    }
+  },
+  "notes": [],
+  "appearances": [
+    "Dragon’s Blood - 1. Savaging The Scavengers",
+    "Dragon’s Blood - 2. Blood Of The Dragon Father",
+    "Dragon’s Blood - 3. Blood Thirsty"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

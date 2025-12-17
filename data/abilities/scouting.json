@@ -1,0 +1,16 @@
+{
+  "name": "Scouting",
+  "image": "../assets/abilities-scouting.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: Play this card before taking a **Search** action, then do **Search(5)** instead.",
+  "expert_effect": ":instant: Play this card before taking a **Search** action, then do **Search(5)** instead.",
+  "heroes": [
+    "Deemer",
+    "Fiona",
+    "Lorelei",
+    "Shiva"
+  ],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

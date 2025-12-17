@@ -1,0 +1,15 @@
+{
+  "name": "Harpies",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "The player can freely decided whether the Harpies return back to their starting position after their attack."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

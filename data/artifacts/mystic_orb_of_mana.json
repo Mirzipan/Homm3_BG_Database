@@ -1,0 +1,11 @@
+{
+  "name": "Mystic Orb of Mana",
+  "image": "../assets/artifacts_major-mystic_orb_of_mana.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "You come upon a caravan of gypsies who are feasting and fortifying their bodies with mead. They call you forward and say, \"If you prove that you can dance the Rama-Buta, we will reward you.\" You don't know it, but try anyway. They laugh hysterically, but admire your bravery, giving you a strange orb.",
+  "notes": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

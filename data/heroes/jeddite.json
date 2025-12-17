@@ -1,0 +1,34 @@
+{
+  "name": "Jeddite",
+  "image": "../assets/heroes-dungeon-magic-jeddite.webp",
+  "class": "Warlock",
+  "town": "Dungeon",
+  "stats": {
+    "attack": 0,
+    "defense": 0,
+    "power": 3,
+    "knowledge": 2
+  },
+  "starting_ability": "Sorcery",
+  "specialty": {
+    "name": "Mysterious Warlock",
+    "images": [
+      "../assets/hero_specialties-dungeon-jeddite-1.webp",
+      "../assets/hero_specialties-dungeon-jeddite-4.webp",
+      "../assets/hero_specialties-dungeon-jeddite-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": ":instant: Draw up to 3 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards.",
+      "Ⅳ": ":instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \\*:bronze: Unit<br>:empower: 1 - \\*:silver: Unit<br>:empower: 2 - \\*:golden: Unit",
+      "Ⅵ": ":instant: Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards."
+    }
+  },
+  "notes": [
+    "**Ⅳ** - The specialty can be improved by spell power, just like a regular spell.",
+    "**Ⅳ** - See [Resurrection Spell](../spells/resurrection.md)"
+  ],
+  "appearances": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

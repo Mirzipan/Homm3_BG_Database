@@ -1,0 +1,27 @@
+{
+  "name": "Ciele",
+  "image": null,
+  "class": "Elementalist",
+  "town": "Conflux",
+  "stats": {
+    "attack": 0,
+    "defense": 0,
+    "power": 2,
+    "knowledge": 3
+  },
+  "starting_ability": "Water Magic",
+  "specialty": {
+    "name": "Magic Arrow",
+    "images": [],
+    "levels": {
+      "Ⅰ": ":instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and put it into your hand.<br><br>— OR —<br><br>:instant: +1 :empower:",
+      "Ⅳ": ":instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and cast it.<br><br>— OR —<br><br>:instant: +1 :empower:",
+      "Ⅵ": "🚧 Selected unit suffers 2 :damage:.<br><br>— OR —<br><br>:instant: +2 :empower:"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

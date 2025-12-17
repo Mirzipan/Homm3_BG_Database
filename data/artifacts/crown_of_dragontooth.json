@@ -1,0 +1,11 @@
+{
+  "name": "Crown of Dragontooth",
+  "image": "../assets/artifacts_relic-crown_of_dragontooth.webp",
+  "type": "Relic Artifact",
+  "effect": null,
+  "flavor_text": "Your troops find a crown. They hand it to you, and you notice an inscription. It reads: \"Brains best brawn, and magic beats might. Heed my words, and you'll win every fight.\"",
+  "notes": [],
+  "comes_with": [
+    "Inferno Expansion"
+  ]
+}

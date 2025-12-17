@@ -1,0 +1,11 @@
+{
+  "name": "Ring of the Wayfarer",
+  "image": "../assets/artifacts_minor-ring_of_the_wayfarer.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "Visiting a local wise man, you explain the intent of your journey. He reaches into a sack and withdraws a strange ring which he hands to you.",
+  "notes": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

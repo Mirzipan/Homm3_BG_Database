@@ -1,0 +1,15 @@
+{
+  "name": "Estates",
+  "image": "../assets/abilities-estates.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: Gain 6 :gold:.",
+  "expert_effect": ":instant: Gain 6 :gold:.",
+  "heroes": [
+    "Erdamon",
+    "Lord Haart (Castle)",
+    "Tarnum (Dungeon)"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Orb of Inhibition",
+  "image": "../assets/artifacts_relic-orb_of_inhibition.webp",
+  "type": "Relic Artifact",
+  "effect": null,
+  "flavor_text": "You help a Peasant catch a mare. As gratitude, he hands you a sphere. When you grasp it, you feel the magical energy drain from your limbs...",
+  "notes": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

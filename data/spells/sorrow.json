@@ -1,0 +1,10 @@
+{
+  "name": "Sorrow",
+  "image": "../assets/spells-sorrow.webp",
+  "type": "Expert Earth Spell",
+  "effect": "[Expert Earth Spell](school_of_earth_magic.md)",
+  "notes": [],
+  "comes_with": [
+    "Rampart Expansion"
+  ]
+}

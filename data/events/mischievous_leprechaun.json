@@ -1,0 +1,10 @@
+{
+  "name": "Mischievous Leprechaun",
+  "image": "../assets/events-mischievous_leprechaun.webp",
+  "type": "Event",
+  "effect": "*You are making your way through the dense forest when you stumble upon a mischievous magical creature - a leprechaun sitting on a pile of treasures.<br>\"Answer my question and I shall part with some of these worthless trumpery. Now... what do I have in my pocket?\"*",
+  "flavor_text": "You are making your way through the dense forest when you stumble upon a mischievous magical creature - a leprechaun sitting on a pile of treasures.<br>\"Answer my question and I shall part with some of these worthless trumpery. Now... what do I have in my pocket?\"",
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

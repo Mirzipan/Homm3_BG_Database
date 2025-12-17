@@ -1,0 +1,27 @@
+{
+  "name": "Luna",
+  "image": null,
+  "class": "Elementalist",
+  "town": "Conflux",
+  "stats": {
+    "attack": 0,
+    "defense": 0,
+    "power": 2,
+    "knowledge": 3
+  },
+  "starting_ability": "Fire Magic",
+  "specialty": {
+    "name": "Fire Wall",
+    "images": [],
+    "levels": {
+      "Ⅰ": ":ongoing: For this Combat, place this card in an empty space on the Combat board. Deal 1 :damage: to any [unit](../units/index.md) stopping here and to any :unit_ground: or :unit_ranged: [unit](../units/index.md) passing through.",
+      "Ⅳ": "🚧",
+      "Ⅵ": "🚧"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Conflux Expansion"
+  ]
+}

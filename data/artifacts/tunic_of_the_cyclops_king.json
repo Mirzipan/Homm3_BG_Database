@@ -1,0 +1,11 @@
+{
+  "name": "Tunic of the Cyclops King",
+  "image": "../assets/artifacts_major-tunic_of_the_cyclops_king.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "You catch a Cyclops skinny dipping, and as a prank you make off with his clothes. Later, you realize the tunic is magical.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

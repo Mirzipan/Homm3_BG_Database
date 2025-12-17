@@ -1,0 +1,11 @@
+{
+  "name": "Glyph of Gallantry",
+  "image": "../assets/artifacts_minor-glyph_of_gallantry.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "Ridding the countryside of the hideous Minotaur who made a sport of eating noblemen's Knights, you are honored with the Glyph of Gallantry.",
+  "notes": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

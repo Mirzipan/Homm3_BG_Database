@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Wing Tabard",
+  "image": "../assets/artifacts_minor-dragon_wing_tabard.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "Ridding the countryside of the hideous Dragon who made a sport of eating noblemen's Knights, you are honored with the Dragon Wing Tabard.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

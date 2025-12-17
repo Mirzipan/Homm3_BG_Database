@@ -1,0 +1,11 @@
+{
+  "name": "Boots of Polarity",
+  "image": "../assets/artifacts_relic-boots_of_polarity.webp",
+  "type": "Relic Artifact",
+  "effect": null,
+  "flavor_text": "A Nomad trader seeks protection from a tribe of Goblins. For your assistance, he gives you a finely crafted pair of boots. Looking closely, you see ancient carvings engraved on the leather.",
+  "notes": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

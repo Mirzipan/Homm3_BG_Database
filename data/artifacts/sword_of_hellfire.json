@@ -1,0 +1,11 @@
+{
+  "name": "Sword of Hellfire",
+  "image": "../assets/artifacts_major-sword_of_hellfire.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "During a sudden storm, a bolt of lightning strikes a tree, splitting it. Inside the tree you find a mysterious sword.",
+  "notes": [],
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

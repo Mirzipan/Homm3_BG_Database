@@ -1,0 +1,8 @@
+{
+  "name": "Defense",
+  "variants": [
+    "Regular",
+    "Empowered"
+  ],
+  "effects": {}
+}

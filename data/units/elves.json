@@ -1,0 +1,16 @@
+{
+  "name": "Elves",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "**Pack and Neutral** - The Elves can attack at most one additional time, not more."
+  ],
+  "comes_with": [
+    "Rampart Expansion",
+    "Tower Expansion"
+  ]
+}

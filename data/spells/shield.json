@@ -1,0 +1,10 @@
+{
+  "name": "Shield",
+  "image": "../assets/spells-shield.webp",
+  "type": "Basic Earth Spell",
+  "effect": "[Basic Earth Spell](school_of_earth_magic.md)",
+  "notes": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Rib Cage",
+  "image": "../assets/artifacts_minor-rib_cage.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "You trip over, what was, the rib cage of a large creature. Upon further examination, you discover the rib cage to be a piece of armor.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

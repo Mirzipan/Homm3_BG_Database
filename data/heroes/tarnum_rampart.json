@@ -1,0 +1,27 @@
+{
+  "name": "Tarnum (Rampart)",
+  "image": null,
+  "class": "Ranger",
+  "town": "Rampart",
+  "stats": {
+    "attack": 1,
+    "defense": 3,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Leadership",
+  "specialty": {
+    "name": "Sharpshooters",
+    "images": [],
+    "levels": {
+      "Ⅰ": "🚧",
+      "Ⅳ": "🚧",
+      "Ⅵ": "🚧"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

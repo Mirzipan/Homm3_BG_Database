@@ -1,0 +1,31 @@
+{
+  "name": "Lord Haart (Castle)",
+  "image": "../assets/heroes-castle-might-lord_haart.webp",
+  "class": "Knight",
+  "town": "Castle",
+  "stats": {
+    "attack": 2,
+    "defense": 2,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Estates",
+  "specialty": {
+    "name": "Estates",
+    "images": [
+      "../assets/hero_specialties-castle-lord_haart-1.webp",
+      "../assets/hero_specialties-castle-lord_haart-4.webp",
+      "../assets/hero_specialties-castle-lord_haart-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": ":instant: Gain 2 :gold:.",
+      "Ⅳ": ":instant: Gain 3 :gold:.",
+      "Ⅵ": ":instant: Gain 5 :gold:."
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

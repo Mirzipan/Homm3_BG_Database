@@ -1,0 +1,14 @@
+{
+  "name": "Air Elementals",
+  "variants": [
+    "Few",
+    "Pack"
+  ],
+  "statistics": {},
+  "notes": [
+    "Summoned by [Summon Air Elemental](../spells/summon_air_elemental.md)."
+  ],
+  "comes_with": [
+    "Conflux Expansion"
+  ]
+}

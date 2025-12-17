@@ -1,0 +1,12 @@
+{
+  "name": "Town Portal",
+  "image": "../assets/spells-town_portal.webp",
+  "type": "Expert Earth Spell",
+  "effect": "[Expert Earth Spell](school_of_earth_magic.md)",
+  "notes": [
+    "[^1] If the selected town already has a hero in it, and the teleporting hero would not be able to move out of the city during this turn, they can not teleport to the town."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

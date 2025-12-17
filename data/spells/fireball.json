@@ -1,0 +1,12 @@
+{
+  "name": "Fireball",
+  "image": "../assets/spells-fireball.webp",
+  "type": "Expert Fire Spell",
+  "effect": "[Expert Fire Spell](school_of_fire_magic.md)",
+  "notes": [
+    "The :damage: from Fireball also applies to friendly units."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

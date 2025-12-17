@@ -1,0 +1,23 @@
+{
+  "name": "Peasants",
+  "variants": [],
+  "statistics": {
+    "Neutral": {
+      "Town": "[Neutral](../towns/neutral.md)",
+      "Tier": ":bronze:",
+      "Type": "[:unit_ground:](../keywords/ground_unit.md)",
+      ":attack:": "1",
+      ":defense:": "0",
+      ":health_points:": "2",
+      ":initiative:": "3",
+      "Cost": "3 :gold:",
+      "Abilities": ":effect_map: At the beginning of each Resource round, gain 3 :gold:."
+    }
+  },
+  "notes": [
+    "The effect only triggers if the Peasants are in the player's unit deck, so they had to be recruited beforehand (e.g. by [Diplomacy](../abilities/diplomacy.md))."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

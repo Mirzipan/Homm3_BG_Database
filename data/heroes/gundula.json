@@ -1,0 +1,27 @@
+{
+  "name": "Gundula",
+  "image": null,
+  "class": "Battle Mage",
+  "town": "Stronghold",
+  "stats": {
+    "attack": 2,
+    "defense": 1,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Wisdom",
+  "specialty": {
+    "name": "Slow",
+    "images": [],
+    "levels": {
+      "Ⅰ": ":ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is decreased by 1.",
+      "Ⅳ": ":ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is decreased by 2.",
+      "Ⅵ": ":ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is decreased by 3."
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Stronghold Expansion"
+  ]
+}

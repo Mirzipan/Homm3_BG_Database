@@ -1,0 +1,11 @@
+{
+  "name": "Breastplate of Brimstone",
+  "image": "../assets/artifacts_major-breastplate_of_brimstone.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "You meet a blacksmith who is melting down old pieces of armor. When he learns of your quest, he gives you a breastplate that he claims refused to melt, and is therefore of no value to him.",
+  "notes": [],
+  "comes_with": [
+    "Inferno Expansion"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Counterstrike",
+  "image": "../assets/spells-counterstrike.webp",
+  "type": "Expert Air Spell",
+  "effect": "[Expert Air Spell](school_of_air_magic.md)",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

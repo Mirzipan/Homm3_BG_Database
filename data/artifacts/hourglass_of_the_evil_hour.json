@@ -1,0 +1,11 @@
+{
+  "name": "Hourglass of the Evil Hour",
+  "image": "../assets/artifacts_minor-hourglass_of_the_evil_hour.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "A surprise turn in the landscape finds you in the midst of a grisly scene - vultures picking at the aftermath of a terrible battle. Your cursory search of the remains turns up an enchanted hourglass.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

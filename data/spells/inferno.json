@@ -1,0 +1,12 @@
+{
+  "name": "Inferno",
+  "image": "../assets/spells-inferno.webp",
+  "type": "Expert Fire Spell",
+  "effect": "[Expert Fire Spell](school_of_fire_magic.md)",
+  "notes": [
+    "The :damage: from Inferno also applies to friendly units."
+  ],
+  "comes_with": [
+    "Inferno Expansion"
+  ]
+}

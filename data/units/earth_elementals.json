@@ -1,0 +1,14 @@
+{
+  "name": "Earth Elementals",
+  "variants": [
+    "Few",
+    "Pack"
+  ],
+  "statistics": {},
+  "notes": [
+    "Summoned by [Summon Earth Elemental](../spells/summon_earth_elemental.md)."
+  ],
+  "comes_with": [
+    "Conflux Expansion"
+  ]
+}

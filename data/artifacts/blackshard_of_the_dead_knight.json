@@ -1,0 +1,11 @@
+{
+  "name": "Blackshard of the Dead Knight",
+  "image": "../assets/artifacts_minor-blackshard_of_the_dead_knight.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "The widow of a former Captain of the Guard admires your quest and gives you the enchanted Sword that her husband relied on during his tour of duty.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

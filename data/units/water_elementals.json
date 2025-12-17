@@ -1,0 +1,14 @@
+{
+  "name": "Water Elementals",
+  "variants": [
+    "Few",
+    "Pack"
+  ],
+  "statistics": {},
+  "notes": [
+    "Summoned by [Summon Water Elemental](../spells/summon_water_elemental.md)."
+  ],
+  "comes_with": [
+    "Conflux Expansion"
+  ]
+}

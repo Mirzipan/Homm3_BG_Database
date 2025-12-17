@@ -1,0 +1,27 @@
+{
+  "name": "Melodia",
+  "image": null,
+  "class": "Druid",
+  "town": "Rampart",
+  "stats": {
+    "attack": 0,
+    "defense": 2,
+    "power": 1,
+    "knowledge": 2
+  },
+  "starting_ability": "Luck",
+  "specialty": {
+    "name": "Fortune",
+    "images": [],
+    "levels": {
+      "Ⅰ": ":instant: Gain :morale_positive:.",
+      "Ⅳ": ":instant: Use this after any roll. You can reroll the [dice](../dice.md).",
+      "Ⅵ": "🚧"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Diplomacy",
+  "image": "../assets/abilities-diplomacy.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: Skip Combat with [Neutral Units](../units/index.md) on a field whose Field Difficulty is equal to your Hero's level. Visit the field. This Hero gains no Experience.",
+  "expert_effect": ":instant: Skip Combat with [Neutral Units](../units/index.md) on a field whose Field Difficulty is equal to your Hero's level. Visit the field. This Hero gains no Experience.",
+  "heroes": [
+    "Cyra"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

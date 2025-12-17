@@ -1,0 +1,27 @@
+{
+  "name": "Dessa",
+  "image": null,
+  "class": "Battle Mage",
+  "town": "Stronghold",
+  "stats": {
+    "attack": 2,
+    "defense": 1,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Logistics",
+  "specialty": {
+    "name": "Logistics",
+    "images": [],
+    "levels": {
+      "Ⅰ": ":instant: Extend your Combat for another round.",
+      "Ⅳ": ":effect_map: Gain 1 :movement:.",
+      "Ⅵ": "🚧"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

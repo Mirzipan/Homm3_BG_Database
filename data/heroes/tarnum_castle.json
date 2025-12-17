@@ -1,0 +1,27 @@
+{
+  "name": "Tarnum (Castle)",
+  "image": null,
+  "class": "Knight",
+  "town": "Castle",
+  "stats": {
+    "attack": 2,
+    "defense": 2,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Artillery",
+  "specialty": {
+    "name": "Ballista",
+    "images": [],
+    "levels": {
+      "Ⅰ": "🚧",
+      "Ⅳ": "🚧",
+      "Ⅵ": "🚧"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

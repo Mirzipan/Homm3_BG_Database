@@ -1,0 +1,27 @@
+{
+  "name": "Tarnum (Stronghold)",
+  "image": null,
+  "class": "Barbarian",
+  "town": "Stronghold",
+  "stats": {
+    "attack": 4,
+    "defense": 0,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Offense",
+  "specialty": {
+    "name": "Offense",
+    "images": [],
+    "levels": {
+      "Ⅰ": ":ongoing: Your selected unit gains +1 :attack:.",
+      "Ⅳ": "🚧 Your selected unit gains +1 :attack:.",
+      "Ⅵ": "🚧 Your selected unit gains +2 :attack:."
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

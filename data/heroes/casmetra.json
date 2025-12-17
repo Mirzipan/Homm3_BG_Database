@@ -1,0 +1,27 @@
+{
+  "name": "Casmetra",
+  "image": null,
+  "class": "Navigator",
+  "town": "Cove",
+  "stats": {
+    "attack": 2,
+    "defense": 0,
+    "power": 1,
+    "knowledge": 2
+  },
+  "starting_ability": "Wisdom",
+  "specialty": {
+    "name": "🚧",
+    "images": [],
+    "levels": {
+      "Ⅰ": "🚧",
+      "Ⅳ": "🚧",
+      "Ⅵ": "🚧"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Cove Expansion"
+  ]
+}

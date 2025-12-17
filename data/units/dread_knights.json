@@ -1,0 +1,15 @@
+{
+  "name": "Dread Knights",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "[^1] **Few** - Should the Dread Knights attack neutral [Crusaders](crusaders.md), when the [Crusaders](crusaders.md) retaliate against a few Dread Knights, they're abilities cancel out and a single [Attack die](../dice.md#attack-die) is rolled as if it was a regular attack."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

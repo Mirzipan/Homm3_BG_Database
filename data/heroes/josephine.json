@@ -1,0 +1,31 @@
+{
+  "name": "Josephine",
+  "image": "../assets/heroes-tower-might-josephine.webp",
+  "class": "Alchemist",
+  "town": "Tower",
+  "stats": {
+    "attack": 1,
+    "defense": 1,
+    "power": 2,
+    "knowledge": 2
+  },
+  "starting_ability": "Sorcery",
+  "specialty": {
+    "name": "Golems",
+    "images": [
+      "../assets/hero_specialties-tower-josephine-1.webp",
+      "../assets/hero_specialties-tower-josephine-4.webp",
+      "../assets/hero_specialties-tower-josephine-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": ":ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Golems unit](../units/iron_golems.md).",
+      "Ⅳ": ":instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Golems unit](../units/iron_golems.md).",
+      "Ⅵ": ":instant: Your selected [unit](../units/index.md) gains +2 :attack:<br><br>This effect doubles for the [Golems unit](../units/iron_golems.md)."
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

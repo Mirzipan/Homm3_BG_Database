@@ -1,0 +1,14 @@
+{
+  "name": "Intelligence",
+  "image": "../assets/abilities-intelligence.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. This spell does not count toward your spell limit per Combat round.",
+  "expert_effect": ":instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. This spell does not count toward your spell limit per Combat round.",
+  "heroes": [
+    "Iona",
+    "Sephinroth"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

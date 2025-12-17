@@ -1,0 +1,11 @@
+{
+  "name": "Spirit of Oppression",
+  "image": "../assets/artifacts_minor-spirit_of_oppression.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "Walking through the ruins of an ancient walled city, you find the instrument of the city's destruction, the Spirit of Oppression.",
+  "notes": [],
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

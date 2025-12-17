@@ -1,0 +1,15 @@
+{
+  "name": "Vampires",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "Vampires do not heal when attacking a Wall. Destroying a Wall is considered an action and not an actual attack."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

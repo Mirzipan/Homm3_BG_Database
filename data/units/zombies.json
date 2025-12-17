@@ -1,0 +1,15 @@
+{
+  "name": "Zombies",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "The ability is triggered when a regular attack is performed against the Zombies, as well as a retaliation attack."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

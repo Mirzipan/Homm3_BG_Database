@@ -1,0 +1,15 @@
+{
+  "name": "Marksmen",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "**Pack and Neutral** - The Marksmen can attack at most one additional time, not more."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

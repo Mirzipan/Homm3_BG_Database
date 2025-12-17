@@ -1,0 +1,11 @@
+{
+  "name": "Buckler of the Gnoll King",
+  "image": "../assets/artifacts_minor-buckler_of_the_gnoll_king.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "A stone statue of a warrior holds a silver shield. As you remove the shield, the statue crumbles into dust.",
+  "notes": [],
+  "comes_with": [
+    "Rampart Expansion"
+  ]
+}

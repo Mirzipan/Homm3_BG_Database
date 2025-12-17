@@ -1,0 +1,36 @@
+# {{name}}
+
+![{{name}}]({{image}}){ width="340" align=right }
+
+___
+<p style="text-align: center;" markdown>[Ability](index.md)</p>
+___
+<p style="text-align: center;" markdown>{{effect}}</p>
+___
+{{#expert_effect}}
+<p style="text-align: center;" markdown> :expert: </p>
+
+<p style="text-align: center;" markdown>{{.}}</p>
+___
+
+{{/expert_effect}}
+{{#heroes}}
+
+## Heroes With Starting Ability
+
+{{#heroes_list}}
+- [:{{icon}}: {{name}}](../heroes/{{slug}}.md)
+{{/heroes_list}}
+{{/heroes}}
+
+## Comes With
+
+{{#comes_with_list}}
+- [{{.}}](../content/{{slug}}.md)
+{{/comes_with_list}}
+
+
+## See Also
+
+- [List of Abilities](index.md)
+- [List of Spells](../spells/index.md)

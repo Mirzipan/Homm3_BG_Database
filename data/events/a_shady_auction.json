@@ -1,0 +1,10 @@
+{
+  "name": "A Shady Auction",
+  "image": "../assets/events-a_shady_auction.webp",
+  "type": "Event",
+  "effect": "*In the depth of the night, you come across a crowdy camp encircling a stage. On it, a corpulent man with a twirly mustache is shouting vigorously, \"...and the vase goes to the lovely bearded lady in the back row! Now gaze upon this marvelous item I shed tears and blood to get! Not mine of course... The starting price is...\"*",
+  "flavor_text": "In the depth of the night, you come across a crowdy camp encircling a stage. On it, a corpulent man with a twirly mustache is shouting vigorously, \"...and the vase goes to the lovely bearded lady in the back row! Now gaze upon this marvelous item I shed tears and blood to get! Not mine of course... The starting price is...\"",
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Miriam",
+  "image": null,
+  "class": "Captain",
+  "town": "Cove",
+  "stats": {
+    "attack": 3,
+    "defense": 0,
+    "power": 2,
+    "knowledge": 1
+  },
+  "starting_ability": "Logistics",
+  "specialty": {
+    "name": "Scouting",
+    "images": [],
+    "levels": {
+      "Ⅰ": ":instant: **Search(3)** [Ability](../abilities/index.md) deck. Then Remove this card.",
+      "Ⅳ": ":instant: **Search(2)** [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) deck. Then Remove this card.",
+      "Ⅵ": ":instant: **Search(3)** [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) deck. Then Remove this card."
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

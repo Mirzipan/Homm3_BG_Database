@@ -1,0 +1,27 @@
+{
+  "name": "Merist",
+  "image": null,
+  "class": "Witch",
+  "town": "Fortress",
+  "stats": {
+    "attack": 0,
+    "defense": 1,
+    "power": 2,
+    "knowledge": 2
+  },
+  "starting_ability": "First Aid",
+  "specialty": {
+    "name": "Stone Skin",
+    "images": [],
+    "levels": {
+      "Ⅰ": "🚧",
+      "Ⅳ": "🚧",
+      "Ⅵ": "🚧"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

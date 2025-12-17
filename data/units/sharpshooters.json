@@ -1,0 +1,21 @@
+{
+  "name": "Sharpshooters",
+  "variants": [],
+  "statistics": {
+    "Neutral": {
+      "Town": "[Neutral](../towns/neutral.md)",
+      "Tier": ":silver:",
+      "Type": "[:unit_ranged:](../keywords/ranged_unit.md)",
+      ":attack:": "3",
+      ":defense:": "0",
+      ":health_points:": "6",
+      ":initiative:": "9",
+      "Cost": "10 :gold:",
+      "Abilities": ":unit_attack: Ignore the combat penalties."
+    }
+  },
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

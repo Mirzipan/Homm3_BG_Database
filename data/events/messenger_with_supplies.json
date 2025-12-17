@@ -1,0 +1,10 @@
+{
+  "name": "Messenger with Supplies",
+  "image": "../assets/events-messenger_with_supplies.webp",
+  "type": "Event",
+  "effect": "*A lone rider on a battered horse catches up with your army.<br>They dismount, pull out a small package, and stagger toward you.<br>Gasping heavily, the messenger starts:<br>\"Your... delivery... arrived...\" After that, they faint.<br>You don't remember ordering anything...*",
+  "flavor_text": "A lone rider on a battered horse catches up with your army.<br>They dismount, pull out a small package, and stagger toward you.<br>Gasping heavily, the messenger starts:<br>\"Your... delivery... arrived...\" After that, they faint.<br>You don't remember ordering anything...",
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

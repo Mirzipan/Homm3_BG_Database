@@ -1,0 +1,14 @@
+{
+  "name": "Centaurs",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [],
+  "comes_with": [
+    "Rampart Expansion",
+    "Tower Expansion"
+  ]
+}

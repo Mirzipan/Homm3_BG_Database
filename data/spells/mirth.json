@@ -1,0 +1,10 @@
+{
+  "name": "Mirth",
+  "image": "../assets/spells-mirth.webp",
+  "type": "Expert Water Spell",
+  "effect": "[Expert Water Spell](school_of_water_magic.md)",
+  "notes": [],
+  "comes_with": [
+    "Rampart Expansion"
+  ]
+}

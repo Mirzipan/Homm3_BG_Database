@@ -1,0 +1,37 @@
+{
+  "name": "Alamar",
+  "image": "../assets/heroes-dungeon-magic-alamar.webp",
+  "class": "Warlock",
+  "town": "Dungeon",
+  "stats": {
+    "attack": 0,
+    "defense": 0,
+    "power": 3,
+    "knowledge": 2
+  },
+  "starting_ability": "Wisdom",
+  "specialty": {
+    "name": "Resurrection",
+    "images": [
+      "../assets/hero_specialties-dungeon-alamar-1.webp",
+      "../assets/hero_specialties-dungeon-alamar-4.webp",
+      "../assets/hero_specialties-dungeon-alamar-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": ":instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 1 - \\*:bronze:<br>:empower: 2 - \\*:silver:<br>:empower: 4 - \\*:golden:",
+      "Ⅳ": ":instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \\*:bronze:<br>:empower: 1 - \\*:silver:<br>:empower: 3 - \\*:golden:",
+      "Ⅵ": ":instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \\*:bronze:<br>:empower: 0 - \\*:silver:<br>:empower: 2 - \\*:golden:"
+    }
+  },
+  "notes": [
+    "The specialty can be improved by spell power, just like a regular spell.",
+    "See [Resurrection Spell](../spells/resurrection.md)"
+  ],
+  "appearances": [
+    "Dragon’s Blood - 2. Blood Of The Dragon Father",
+    "Dragon’s Blood - 3. Blood Thirsty"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

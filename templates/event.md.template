@@ -1,0 +1,30 @@
+# {{name}}
+
+<figure markdown="span">
+
+![{{name}}]({{image}}){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>[Event](index.md)</p>
+___
+<p style="text-align: center;" markdown>{{effect}}</p>
+___
+{{#flavor_text}}
+<p style="text-align: center;" markdown>*{{.}}*</p>
+___
+
+{{/flavor_text}}
+
+## Comes With
+
+{{#comes_with_list}}
+- [{{.}}](../content/{{slug}}.md)
+{{/comes_with_list}}
+
+
+## See Also
+
+- [List of Events](index.md)
+- [List of Units](../units/index.md)

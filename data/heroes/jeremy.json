@@ -1,0 +1,27 @@
+{
+  "name": "Jeremy",
+  "image": null,
+  "class": "Captain",
+  "town": "Cove",
+  "stats": {
+    "attack": 3,
+    "defense": 0,
+    "power": 2,
+    "knowledge": 1
+  },
+  "starting_ability": "Offense",
+  "specialty": {
+    "name": "Cannon",
+    "images": [],
+    "levels": {
+      "Ⅰ": "🚧",
+      "Ⅳ": "🚧",
+      "Ⅵ": "🚧"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Cove Expansion"
+  ]
+}

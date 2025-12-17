@@ -1,0 +1,29 @@
+{
+  "name": "Sephinroth",
+  "image": null,
+  "class": "Warlock",
+  "town": "Dungeon",
+  "stats": {
+    "attack": 0,
+    "defense": 0,
+    "power": 3,
+    "knowledge": 2
+  },
+  "starting_ability": "Intelligence",
+  "specialty": {
+    "name": "Valueables",
+    "images": [],
+    "levels": {
+      "Ⅰ": ":effect_map: Pay 2 :gold: to gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card.",
+      "Ⅳ": ":effect_map: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card.",
+      "Ⅵ": ":effect_map: Gain 2 :valuables: or 6 :gold:."
+    }
+  },
+  "notes": [
+    "The specialty can be improved by spell power, just like a regular spell."
+  ],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

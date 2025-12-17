@@ -1,0 +1,11 @@
+{
+  "name": "Sword of Judgement",
+  "image": "../assets/artifacts_relic-sword_of_judgement.webp",
+  "type": "Relic Artifact",
+  "effect": null,
+  "flavor_text": "A Paladin has been mortally wounded by a group of Zombies. He asks you to take his sword and finish what he started. As you pick it up, everything becomes a blur. The Zombies lie dead.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

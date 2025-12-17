@@ -1,0 +1,12 @@
+{
+  "name": "Fire Shield",
+  "image": "../assets/spells-fire_shield.webp",
+  "type": "Expert Fire Spell",
+  "effect": "[Expert Fire Spell](school_of_fire_magic.md)",
+  "notes": [
+    "The attacking unit is damaged by the Fire Shield even if it defeats the unit which has Fire Shield."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

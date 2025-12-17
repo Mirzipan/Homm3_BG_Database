@@ -1,0 +1,10 @@
+{
+  "name": "Fly",
+  "image": "../assets/spells-fly.webp",
+  "type": "Expert Air Spell",
+  "effect": "[Expert Air Spell](school_of_air_magic.md)",
+  "notes": [],
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

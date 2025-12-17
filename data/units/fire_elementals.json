@@ -1,0 +1,14 @@
+{
+  "name": "Fire Elementals",
+  "variants": [
+    "Few",
+    "Pack"
+  ],
+  "statistics": {},
+  "notes": [
+    "Summoned by [Summon Fire Elemental](../spells/summon_fire_elemental.md)."
+  ],
+  "comes_with": [
+    "Conflux Expansion"
+  ]
+}

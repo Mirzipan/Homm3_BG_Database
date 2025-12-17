@@ -1,0 +1,11 @@
+{
+  "name": "Ogre's Club of Havoc",
+  "image": "../assets/artifacts_major-ogres_club_of_havoc.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "At a roadside tavern, a drunken Ogre challenges you to a fight. Not wanting to hurt the creature, you subdue him, instead. You take his massive club from him to prevent him from getting into any more trouble.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

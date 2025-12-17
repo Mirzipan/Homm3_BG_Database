@@ -1,0 +1,11 @@
+{
+  "name": "Sentinel's Shield",
+  "image": "../assets/artifacts_relic-sentinels_shield.webp",
+  "type": "Relic Artifact",
+  "effect": null,
+  "flavor_text": "You find a large box that seems to be made from some unknown material. When you touch it, the box opens with a load hiss, revealing a gleaming shield within.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

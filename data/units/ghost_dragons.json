@@ -1,0 +1,17 @@
+{
+  "name": "Ghost Dragons",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "**Pack** - First the +1 is added to the Attack die result, before other effects are applied, such as the effect of the [Centaur's Axe](../artifacts/centaurs_axe.md).",
+    "**Neutral** - The player od the attacked unit gets to decide, where the unit moves. The new field must be empty and must not be adjacent to the Ghost Dragons. If there is no such field, the attacked unit stays in place.",
+    "**Neutral** - If the attacked unit was unable to move away, retaliation attack will take place. Otherwise it would not take place, as the unit would not longer be adjacent to the Ghost Dragons."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

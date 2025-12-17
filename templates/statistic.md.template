@@ -1,0 +1,22 @@
+# {{name}}
+
+{{#variants}}
+=== "{{.}}"
+
+    <figure markdown="span">
+        ![{{variant_name}}]({{image}}){ width="340" align=right }
+    </figure>
+
+{{/variants}}
+
+| Type |Effect | :expert: Effect |
+| :--- | :--- | :--- |
+{{#effects}}
+| {{type}} | {{effect}} | {{expert_effect}} |
+{{/effects}}
+
+
+## See Also
+
+- [List of Heroes](../heroes/index.md)
+- [List of Statistics](index.md)

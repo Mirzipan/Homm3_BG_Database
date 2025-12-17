@@ -1,0 +1,16 @@
+{
+  "name": "Gargoyles",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "**Few and Pack** - Only the :ongoing: [spell](../spells/index.md) effects are ignored. Other sources of :ongoing: effects will still work (e.g. [artifacts](../artifacts/index.md)).",
+    "**Few and Pack** - Friendly :ongoing: [spell](../spells/index.md) effects are also ignored."
+  ],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

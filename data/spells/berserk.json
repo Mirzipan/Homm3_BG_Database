@@ -1,0 +1,14 @@
+{
+  "name": "Berserk",
+  "image": "../assets/spells-berserk.webp",
+  "type": "Expert Fire Spell",
+  "effect": "[Expert Fire Spell](school_of_fire_magic.md)",
+  "notes": [
+    "If there are multiple units that the shortest path away from the unit under this spell, the player owning the unit decides the direction of movement and the target of the attack.",
+    "Friendly units can also be attacked by the unit under this spell.",
+    "The attack of the unit under this spell does trigger a retaliation attack, even if the attacked unit was a friendly one."
+  ],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

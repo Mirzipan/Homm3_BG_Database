@@ -1,0 +1,12 @@
+{
+  "name": "Slow",
+  "image": "../assets/spells-slow.webp",
+  "type": "Basic Earth Spell",
+  "effect": "[Basic Earth Spell](school_of_earth_magic.md)",
+  "notes": [
+    "[^1] On the small battlefield, only the initiative of the unit is decreased, not its movement range. On the Battlefield Expansion, the initiative is used to determine the movement range, therefore a unit under this spell has its movement range decreased as well."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

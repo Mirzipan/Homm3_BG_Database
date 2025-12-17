@@ -1,0 +1,10 @@
+{
+  "name": "Magical Forest",
+  "image": "../assets/events-magical_forest.webp",
+  "type": "Event",
+  "effect": "*The sound of music lures you into a magical forest where you see a young person running through the wood. The elusive silhouette disappears whenever you get closer. Finally, you catch up and grab their arm... only to wake up and discover you were unconscious for several hours. Dejected, you rise from the moss with a strange feeling that something has changed.*",
+  "flavor_text": "The sound of music lures you into a magical forest where you see a young person running through the wood. The elusive silhouette disappears whenever you get closer. Finally, you catch up and grab their arm... only to wake up and discover you were unconscious for several hours. Dejected, you rise from the moss with a strange feeling that something has changed.",
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

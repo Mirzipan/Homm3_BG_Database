@@ -1,0 +1,10 @@
+{
+  "name": "Visions",
+  "image": "../assets/spells-visions.webp",
+  "type": "Basic Fire Spell",
+  "effect": "[Basic Fire Spell](school_of_fire_magic.md)",
+  "notes": [],
+  "comes_with": [
+    "Inferno Expansion"
+  ]
+}

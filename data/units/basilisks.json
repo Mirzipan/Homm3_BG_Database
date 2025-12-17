@@ -1,0 +1,16 @@
+{
+  "name": "Basilisks",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "See [Paralysis](../keywords/paralysis.md)"
+  ],
+  "comes_with": [
+    "Fortress Expansion",
+    "Tower Expansion"
+  ]
+}

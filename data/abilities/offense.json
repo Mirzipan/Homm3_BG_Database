@@ -1,0 +1,18 @@
+{
+  "name": "Offense",
+  "image": "../assets/abilities-offense.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: +2 :attack:<br>Then draw 1 card.",
+  "expert_effect": ":instant: +2 :attack:<br>Then draw 1 card.",
+  "heroes": [
+    "Crag Hack",
+    "Ivor",
+    "Jeremy",
+    "Tamika",
+    "Tarnum (Stronghold)",
+    "Yog"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

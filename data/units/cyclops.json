@@ -1,0 +1,13 @@
+{
+  "name": "Cyclops",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [],
+  "comes_with": [
+    "Stronghold Expansion"
+  ]
+}

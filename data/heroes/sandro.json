@@ -1,0 +1,40 @@
+{
+  "name": "Sandro",
+  "image": "../assets/heroes-necropolis-magic-sandro.webp",
+  "class": "Necromancer",
+  "town": "Necropolis",
+  "stats": {
+    "attack": 1,
+    "defense": 0,
+    "power": 2,
+    "knowledge": 2
+  },
+  "starting_ability": "Sorcery",
+  "specialty": {
+    "name": "Cloak of the Undead King",
+    "images": [
+      "../assets/hero_specialties-necropolis-sandro-1.webp",
+      "../assets/hero_specialties-necropolis-sandro-4.webp",
+      "../assets/hero_specialties-necropolis-sandro-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": "Put this card on the [Pack of Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack: 3 :defense: 1 :health_points: 2 :initiative: 6",
+      "Ⅳ": "Put this card on the [Pack of Zombies Unit](../units/zombies.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Zombies**<br>:attack: 4 :defense: 1 :health_points: 3 :initiative: 5",
+      "Ⅵ": "Put this card on the [Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. When the Cloak of the Undead King card's :health_points: drops to 0. When it does, discard this card.<br><br>**Legion of Skeletons**<br>:attack: 4 :defense: 1 :health_points: 2 :initiative: 6"
+    }
+  },
+  "notes": [
+    "**Ⅰ and Ⅳ** - this can only be played on a *pack* of [Skeletons](../units/skeletons.md) or [Zombies](../units/zombies.md), adding another amount to them, named \"Horde\".",
+    "**Ⅳ** - the abilities of the [Pack of Zombies](../units/zombies.md) become inactive if they are upgraded to a \"Horde\". Once the \"Horde\" is defeated and they become a \"Pack\" again, their abilities function as usual.",
+    "**Ⅵ** - can be playedon \"Few\", \"Pack\", or even \"Horde\" of [Skeletons](../units/skeletons.md).",
+    "[^1] **Ⅵ** - If the [Skeletons](../units/skeletons.md) are upgraded to a \"Legion\", they may be further upgraded to a \"Pack\" or a \"Horde\", but the \"Legion\" stays on top and its statistics are applied until defeated."
+  ],
+  "appearances": [
+    "Rise Of The Necromancer - 1. Target",
+    "Rise Of The Necromancer - 2. Master",
+    "Rise Of The Necromancer - 3. Duke Alarice"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

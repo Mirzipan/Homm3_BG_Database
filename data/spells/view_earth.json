@@ -1,0 +1,10 @@
+{
+  "name": "View Earth",
+  "image": "../assets/spells-view_earth.webp",
+  "type": "Basic Earth Spell",
+  "effect": "[Basic Earth Spell](school_of_earth_magic.md)",
+  "notes": [],
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

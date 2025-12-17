@@ -1,0 +1,11 @@
+{
+  "name": "Breastplate of Petrified Wood",
+  "image": "../assets/artifacts_minor-breastplate_of_petrified_wood.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "A gang of Rogues is sifting through the possessions of some dead warriors. Scaring off the scavengers, you notice the Rogues had overlooked a strange breastplate.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

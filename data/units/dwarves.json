@@ -1,0 +1,17 @@
+{
+  "name": "Dwarves",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "The Attack die needs to be rolled even if the spell or specialty that was used was friendly.",
+    "[^1] Dwarves ignore the card effect if they are the only target. If the effect also affects other units, the Dwarves do not ignore it."
+  ],
+  "comes_with": [
+    "Rampart Expansion",
+    "Tower Expansion"
+  ]
+}

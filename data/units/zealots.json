@@ -1,0 +1,13 @@
+{
+  "name": "Zealots",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

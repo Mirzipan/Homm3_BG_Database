@@ -1,0 +1,13 @@
+{
+  "name": "Pathfinding",
+  "image": "../assets/abilities-pathfinding.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:effect_map: Your Hero can move over the yellow border and blocked fields, but cannot end movement on them.",
+  "expert_effect": ":effect_map: Your Hero can move over the yellow border and blocked fields, but cannot end movement on them.",
+  "heroes": [
+    "Clancy"
+  ],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

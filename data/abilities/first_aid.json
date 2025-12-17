@@ -1,0 +1,14 @@
+{
+  "name": "First Aid",
+  "image": "../assets/abilities-first_aid.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: When using the [First Aid Tent](../war_machines/first_aid_tent.md) card, resolve its effect against the same target 3 times.",
+  "expert_effect": ":instant: When using the [First Aid Tent](../war_machines/first_aid_tent.md) card, resolve its effect against the same target 3 times.",
+  "heroes": [
+    "Gem",
+    "Merist"
+  ],
+  "comes_with": [
+    "Rampart Expansion"
+  ]
+}

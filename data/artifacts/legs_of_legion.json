@@ -1,0 +1,13 @@
+{
+  "name": "Legs of Legion",
+  "image": "../assets/artifacts_minor-legs_of_legion.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "Searching a ruin, you are amazed to find a piece of the Statue of Legion. You carefully dust it off before placing it into your pack.",
+  "notes": [
+    "See [Arms of Legion](arms_of_legion.md)"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

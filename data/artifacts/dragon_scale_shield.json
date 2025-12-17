@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Scale Shield",
+  "image": "../assets/artifacts_major-dragon_scale_shield.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "You meet an old Armorer, who claims he owes you a favor. Taking him up on it, he pieces together some Dragon scales, forming a well-fashioned shield.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

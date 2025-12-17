@@ -1,0 +1,10 @@
+{
+  "name": "Den of Thieves",
+  "image": "../assets/events-den_of_thieves.webp",
+  "type": "Event",
+  "effect": "*Searching through the underbrush, you find the secret entrance to the Den of Thieves. In there, an old \"acquaintance\" grabs your arm and starts talking about all the \"secrets\" she has learned since you last meeting.*",
+  "flavor_text": "Searching through the underbrush, you find the secret entrance to the Den of Thieves. In there, an old \"acquaintance\" grabs your arm and starts talking about all the \"secrets\" she has learned since you last meeting.",
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

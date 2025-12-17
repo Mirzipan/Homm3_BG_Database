@@ -1,0 +1,10 @@
+{
+  "name": "Weakness",
+  "image": "../assets/spells-weakness.webp",
+  "type": "Basic Water Spell",
+  "effect": "[Basic Water Spell](school_of_water_magic.md)",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

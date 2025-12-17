@@ -1,0 +1,32 @@
+# {{name}}
+
+![{{name}}]({{image}}){ width="340" align=right }
+___
+<p style="text-align: center;" markdown>[{{type}}](../keywords/{{type_slug}}.md)</p>
+___
+<p style="text-align: center;" markdown>{{effect}}</p>
+___
+{{#flavor_text}}
+<p style="text-align: center;" markdown>*{{.}}*</p>
+
+{{/flavor_text}}
+{{#notes}}
+
+## Notes
+
+{{#notes_list}}
+- {{.}}
+{{/notes_list}}
+{{/notes}}
+
+## Comes With
+
+{{#comes_with_list}}
+- [{{.}}](../content/{{slug}}.md)
+{{/comes_with_list}}
+
+
+## See Also
+
+
+- [List of Artifacts](index.md)

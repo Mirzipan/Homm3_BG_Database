@@ -1,0 +1,10 @@
+{
+  "name": "Summon Air Elemental",
+  "image": null,
+  "type": "Expert Air Spell",
+  "effect": "[Expert Air Spell](school_of_air_magic.md)",
+  "notes": [],
+  "comes_with": [
+    "Conflux Expansion"
+  ]
+}

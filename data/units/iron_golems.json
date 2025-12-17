@@ -1,0 +1,13 @@
+{
+  "name": "Iron Golems",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

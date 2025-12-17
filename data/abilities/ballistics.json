@@ -1,0 +1,11 @@
+{
+  "name": "Ballistics",
+  "image": "../assets/abilities-ballistics.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: Play this card during a siege.<br>Destroy the [Arrow Tower](../units/arrow_tower.md).",
+  "expert_effect": ":instant: Play this card during a siege.<br>Destroy the [Arrow Tower](../units/arrow_tower.md).",
+  "heroes": [],
+  "comes_with": [
+    "Inferno Expansion"
+  ]
+}

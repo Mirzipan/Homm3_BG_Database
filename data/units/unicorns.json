@@ -1,0 +1,16 @@
+{
+  "name": "Unicorns",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "**Neutral** - See [Paralysis](../keywords/paralysis.md)"
+  ],
+  "comes_with": [
+    "Rampart Expansion",
+    "Tower Expansion"
+  ]
+}

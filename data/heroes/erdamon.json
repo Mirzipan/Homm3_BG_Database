@@ -1,0 +1,27 @@
+{
+  "name": "Erdamon",
+  "image": null,
+  "class": "Planeswalker",
+  "town": "Conflux",
+  "stats": {
+    "attack": 3,
+    "defense": 1,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Estates",
+  "specialty": {
+    "name": "Magma Elementals",
+    "images": [],
+    "levels": {
+      "Ⅰ": "🚧",
+      "Ⅳ": "🚧",
+      "Ⅵ": "🚧"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Conflux Expansion"
+  ]
+}

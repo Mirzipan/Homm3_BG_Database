@@ -1,0 +1,16 @@
+{
+  "name": "Archangels",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "**Pack** - The passive ability can be used at the moment when a friendly unit would be defeated.",
+    "**Pack** - See [Resurrection Spell](../spells/resurrection.md)"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

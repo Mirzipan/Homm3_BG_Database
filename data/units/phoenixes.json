@@ -1,0 +1,13 @@
+{
+  "name": "Phoenixes",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [],
+  "comes_with": [
+    "Conflux Expansion"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Surcoat of Counterpoise",
+  "image": "../assets/artifacts_major-surcoat_of_counterpoise.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "The Necromancer blasts the Paladin with a fire bolt, bringing him to his knees. You slay the evil one before the final blow. The grateful Paladin gives you the cloak that saved him.",
+  "notes": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Adelaide",
+  "image": "../assets/heroes-castle-magic-adelaide.webp",
+  "class": "Cleric",
+  "town": "Castle",
+  "stats": {
+    "attack": 1,
+    "defense": 0,
+    "power": 2,
+    "knowledge": 2
+  },
+  "starting_ability": "Wisdom",
+  "specialty": {
+    "name": "Frost Ring",
+    "images": [
+      "../assets/hero_specialties-castle-adelaide-1.webp",
+      "../assets/hero_specialties-castle-adelaide-4.webp",
+      "../assets/hero_specialties-castle-adelaide-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": ":instant: Discard 1 card. Target a space on the Combat board. All [units](../units/index.md) adjacent to this space suffer 1 :damage:.",
+      "Ⅳ": ":instant: Select 1 [Spell](../spells/index.md) or Specialty card from your discard pile and put it back in your hand.",
+      "Ⅵ": ":instant: Discard 2 cards. Target a space on the Combat board. All [units](../units/index.md) adjacent to this space suffer 2 :damage:."
+    }
+  },
+  "notes": [
+    "**Ⅰ and Ⅵ** - The :damage: from Frost Ring also applies to friendly units.",
+    "These specialties can be played as *instant* effects at any time during Combat, not just during the friendly unit activations."
+  ],
+  "appearances": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

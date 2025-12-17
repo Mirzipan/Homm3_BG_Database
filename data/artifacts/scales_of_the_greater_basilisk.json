@@ -1,0 +1,11 @@
+{
+  "name": "Scales of the Greater Basilisk",
+  "image": "../assets/artifacts_minor-scales_of_the_greater_basilisk.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "You meet an old Armorer, who claims he owes you a favor. Taking him up on it, he pieces together some Basilisk scales, forming a well-fashioned breastplate.",
+  "notes": [],
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

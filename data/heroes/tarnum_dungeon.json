@@ -1,0 +1,27 @@
+{
+  "name": "Tarnum (Dungeon)",
+  "image": null,
+  "class": "Overload",
+  "town": "Dungeon",
+  "stats": {
+    "attack": 2,
+    "defense": 2,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Estates",
+  "specialty": {
+    "name": "Dragons",
+    "images": [],
+    "levels": {
+      "Ⅰ": "🚧",
+      "Ⅳ": "🚧",
+      "Ⅵ": "🚧"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

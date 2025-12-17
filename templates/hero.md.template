@@ -1,0 +1,60 @@
+# {{name}}
+
+<p style="text-align: center;" markdown>![{{name}}]({{image}}){ width=540 align=right }</p>
+___
+<p style="text-align: center;" markdown>[:{{class_icon}}: {{class}}](index.md)</p>
+___
+<p style="text-align: center;" markdown>[{{town}}](../towns/{{town_slug}}.md)</p>
+___
+
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;{{stats.attack}}</br>[:defense:](../statistics/defense.md)&nbsp;{{stats.defense}}</br>[:empower:](../statistics/power.md)&nbsp;{{stats.power}}</br>[:skill:](../statistics/knowledge.md)&nbsp;{{stats.knowledge}}</p>
+___
+<p style="text-align: center;" markdown>[{{starting_ability}}](../abilities/{{starting_ability_slug}}.md)</p>
+___
+
+## Specialty
+
+{{#specialty_tabs}}
+=== "{{name}} {{level}}"
+
+    <figure markdown="span">
+        ![{{name}} {{level}}]({{image}}){ width="340" align=right }
+    </figure>
+
+{{/specialty_tabs}}
+
+| Level | Description |
+| :---: | :---: |
+{{#specialty_levels}}
+| {{level}} | {{description}} |
+{{/specialty_levels}}
+
+{{#notes}}
+
+## Notes
+
+{{#notes_list}}
+- {{.}}
+{{/notes_list}}
+{{/notes}}
+{{#appearances}}
+
+## Appearances As Player Hero
+
+{{#appearances_list}}
+- {{.}}
+{{/appearances_list}}
+{{/appearances}}
+
+## Comes With
+
+{{#comes_with_list}}
+- {{text}}
+{{/comes_with_list}}
+
+
+## See Also
+
+- [List of Heroes](index.md)
+- [List of Towns](../towns/index.md)
+

@@ -1,0 +1,14 @@
+{
+  "name": "Luck",
+  "image": "../assets/abilities-luck.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:ongoing: You can reroll any [die](../dice.md) once during this turn.",
+  "expert_effect": ":ongoing: You can reroll any [die](../dice.md) once during this turn.",
+  "heroes": [
+    "Astra",
+    "Melodia"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

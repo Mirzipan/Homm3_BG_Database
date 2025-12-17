@@ -1,0 +1,31 @@
+{
+  "name": "Vidomina",
+  "image": "../assets/heroes-necropolis-magic-vidomina.webp",
+  "class": "Necromancer",
+  "town": "Necropolis",
+  "stats": {
+    "attack": 1,
+    "defense": 0,
+    "power": 2,
+    "knowledge": 2
+  },
+  "starting_ability": "Necromancy",
+  "specialty": {
+    "name": "Necromancy",
+    "images": [
+      "../assets/hero_specialties-necropolis-vidomina-1.webp",
+      "../assets/hero_specialties-necropolis-vidomina-4.webp",
+      "../assets/hero_specialties-necropolis-vidomina-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": ":effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down).",
+      "Ⅳ": ":instant: Put this card on the [\"Pack\" of Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. Keep the card, until the card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack: 3 :defense: 1 :health_points: 2 :initiative: 6",
+      "Ⅵ": ":effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down)."
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Speculum",
+  "image": "../assets/artifacts_minor-speculum.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "A merchant from far away lands, trades you a new invention of his people for traveling supplies. It makes distant objects appear closer, and he calls it, a Speculum.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

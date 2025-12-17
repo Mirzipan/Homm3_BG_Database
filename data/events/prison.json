@@ -1,0 +1,10 @@
+{
+  "name": "Prison",
+  "image": "../assets/events-prison.webp",
+  "type": "Event",
+  "effect": "*In the town you have passed recently, you heard rumors of some people from your lands having been imprisoned by a local governor. In a dazzling display of daring, you break into the jail and free all imprisoned there. In return, some of them pledge loyalty to your cause.*",
+  "flavor_text": "In the town you have passed recently, you heard rumors of some people from your lands having been imprisoned by a local governor. In a dazzling display of daring, you break into the jail and free all imprisoned there. In return, some of them pledge loyalty to your cause.",
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

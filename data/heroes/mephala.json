@@ -1,0 +1,31 @@
+{
+  "name": "Mephala",
+  "image": "../assets/heroes-rampart-might-mephala.webp",
+  "class": "Ranger",
+  "town": "Rampart",
+  "stats": {
+    "attack": 1,
+    "defense": 3,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Leadership",
+  "specialty": {
+    "name": "Armorer",
+    "images": [
+      "../assets/hero_specialties-rampart-mephala-1.webp",
+      "../assets/hero_specialties-rampart-mephala-4.webp",
+      "../assets/hero_specialties-rampart-mephala-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": ":instant: +2 :defense:",
+      "Ⅳ": ":instant: +3 :defense:",
+      "Ⅵ": ":instant: +4 :defense:"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

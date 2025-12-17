@@ -1,0 +1,21 @@
+{
+  "name": "Liches",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "**Pack and Neutral** - Liches can only do one extra attack, not more.",
+    "**Pack and Neutral** - The extra attacks of Liches also trigger when attacking an adjacent target.",
+    "**Pack and Neutral** - Should the Liches attack a unit and there is only a friendly unit adjacent to their target, then the friendly unit will be the target of their secondary attack (even if the unit is undead).",
+    "**Pack and Neutral** - Should the Liches attack an adjacent unit, and there is no other unit adjacent to the target, the Liches deal the damage of the second attack to themselves.",
+    "[^1] **Pack and Neutral** - Should the Liches attack an adjacent unit, and there is another friendly unit adjacent to the target, they may target themselves for the second attack.",
+    "**Pack and Neutral** - Should the Liches attack an adjacent unit, and afterwards use the secondary attack on a unit that is adjacent to their original target, both of those attacks are resolved first. The retaliation attack will only be carried out after the secondary attack of Liches has been resolved.",
+    "[^1] [^2] **Pack and Neutral** - Only on the large Battlefield: Should the Liches attack an adjacent unit, and both them, and their target have a common adjacent enemy to them, and this common adjacent unit is dealt damage from the secondary attack, both, the original target and the target of their secondary attack perform a retaliation attack against the Liches."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

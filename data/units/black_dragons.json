@@ -1,0 +1,21 @@
+{
+  "name": "Black Dragons",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "**Pack** - The effects of the player's own spells and specialties are also ignored.",
+    "**Pack** - Specialties are the hero-specific cards (Ⅰ, Ⅳ, and Ⅵ).",
+    "**Neutral** - The first attack targets a unit directly in front of the Black Dragons. The second attack targets the unit directly behind the primary target in a straight line. There is no choice here.",
+    "**Neutral** - The target of the second attack does not carry out a retaliation attack against the Black Dragons, as it is not adjacent to it.",
+    "**Neutral** - Should the Black Dragons attack two units in a line, both of the attacks are resolved first. The retaliation attack will only be carried out after the secondary attack of Black Dragons has been resolved.",
+    "**Neutral** - Should the Black Dragons attack a unit, and the unit directly behind the primary target in a straight line happens to be a friendly unit, then the friendly unit will be the target of their secondary attack.",
+    "**Neutral** - Should the Black Dragons attack a Wall, no secondary attack will take place. Units behind the Wall are protected. Should they attack a unit directly in front of a Wall, the Wall will not take any damage."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

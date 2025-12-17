@@ -1,0 +1,16 @@
+{
+  "name": "Champions",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "**Neutral** - A -1 on the Attack die is always rerolled, even multiple times.",
+    "**Neutral** - When attacking neutral [Manticores](manticores.md), the [Manticores](manticores.md) receive +2 :defense:, as both Attack dice will always end up as a 0 or a 1."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

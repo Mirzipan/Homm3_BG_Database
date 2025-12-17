@@ -1,0 +1,11 @@
+{
+  "name": "Everpouring Vial of Mercury",
+  "image": "../assets/artifacts_major-everpouring_vial_of_mercury.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "A brief stop at a hastily abandoned Wizard's tower, you discover a magical vial of mercury that, as always, has a little left in the bottom. Recognizing a treasure when you see one, you cap it and slip it into your pocket.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

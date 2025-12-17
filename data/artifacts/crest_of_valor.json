@@ -1,0 +1,11 @@
+{
+  "name": "Crest of Valor",
+  "image": "../assets/artifacts_minor-crest_of_valor.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "After freeing a princess of a neighboring kingdom from the evil clutches of despicable slavers, she awards you with a Crest of Valor.",
+  "notes": [],
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

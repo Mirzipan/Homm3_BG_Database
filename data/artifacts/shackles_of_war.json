@@ -1,0 +1,11 @@
+{
+  "name": "Shackles of War",
+  "image": "../assets/artifacts_major-shackles_of_war.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "Walking through the ruins of an ancient walled city, you find the instrument of the city's destruction, the elaborately crafted Shackles of War.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

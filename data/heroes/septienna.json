@@ -1,0 +1,27 @@
+{
+  "name": "Septienna",
+  "image": null,
+  "class": "Necromancer",
+  "town": "Necropolis",
+  "stats": {
+    "attack": 1,
+    "defense": 0,
+    "power": 2,
+    "knowledge": 2
+  },
+  "starting_ability": "Necromancy",
+  "specialty": {
+    "name": "Death Ripple",
+    "images": [],
+    "levels": {
+      "Ⅰ": ":activation: Enemy :bronze: units suffer 1 :damage:.",
+      "Ⅳ": ":activation: Enemy :silver: units suffer 1 :damage:.",
+      "Ⅵ": ":activation: Enemy :golden: and :azure: units suffer 2 :damage:."
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

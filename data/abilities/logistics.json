@@ -1,0 +1,15 @@
+{
+  "name": "Logistics",
+  "image": "../assets/abilities-logistics.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: Your Hero gains +1 Movement.",
+  "expert_effect": ":instant: Your Hero gains +1 Movement.",
+  "heroes": [
+    "Dessa",
+    "Miriam",
+    "Monere"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

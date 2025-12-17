@@ -1,0 +1,35 @@
+{
+  "name": "Deemer",
+  "image": "../assets/heroes-dungeon-magic-deemer.webp",
+  "class": "Warlock",
+  "town": "Dungeon",
+  "stats": {
+    "attack": 0,
+    "defense": 0,
+    "power": 3,
+    "knowledge": 2
+  },
+  "starting_ability": "Scouting",
+  "specialty": {
+    "name": "Meteor Shower",
+    "images": [
+      "../assets/hero_specialties-dungeon-deemer-1.webp",
+      "../assets/hero_specialties-dungeon-deemer-4.webp",
+      "../assets/hero_specialties-dungeon-deemer-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": ":instant: Select a [unit](../units/index.md) and 1 [unit](../units/index.md) adjacent to it. Deal \\* to both selected [units](../units/index.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage:",
+      "Ⅳ": ":instant: +1 :empower:<br><br>— OR —<br><br>:instant: Shuffle your discard pile back into your deck, then draw 1 card.",
+      "Ⅵ": ":instant: Select a [unit](../units/index.md) and 2 [units](../units/index.md) adjacent to it. Deal \\* to all selected [units](../units/index.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage:"
+    }
+  },
+  "notes": [
+    "**Ⅰ and Ⅵ** - The specialty can be improved by spell power, just like a regular spell.",
+    "**Ⅰ and Ⅵ** - The :damage: from Meteor Shower also applies to friendly units.",
+    "These specialties can be played as *instant* effects at any time during Combat, not just during the friendly unit activations."
+  ],
+  "appearances": [],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

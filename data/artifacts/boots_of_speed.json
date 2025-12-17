@@ -1,0 +1,11 @@
+{
+  "name": "Boots of Speed",
+  "image": "../assets/artifacts_minor-boots_of_speed.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "Visiting a local wise man, you explain the intent of your journey. He reaches into a chest and withdraws a strange pair of boots which he hands to you.",
+  "notes": [],
+  "comes_with": [
+    "Inferno Expansion"
+  ]
+}

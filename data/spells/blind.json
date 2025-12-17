@@ -1,0 +1,12 @@
+{
+  "name": "Blind",
+  "image": "../assets/spells-blind.webp",
+  "type": "Basic Fire Spell",
+  "effect": "[Basic Fire Spell](school_of_fire_magic.md)",
+  "notes": [
+    "See [Paralysis](../keywords/paralysis.md)"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

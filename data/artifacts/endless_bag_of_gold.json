@@ -1,0 +1,11 @@
+{
+  "name": "Endless Bag of Gold",
+  "image": "../assets/artifacts_major-endless_bag_of_gold.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "A nobleman, separated from her traveling companions, asks for your help. After escorting her home, she rewards you with a bag filled with Gold.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

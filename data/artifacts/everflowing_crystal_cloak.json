@@ -1,0 +1,11 @@
+{
+  "name": "Everflowing Crystal Cloak",
+  "image": "../assets/artifacts_major-everflowing_crystal_cloak.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "Taking shelter from a storm in a small cave, you notice a small patch of crystal in one corner. Curious, you discover that the patch is really a cloak, and when you break a piece off it mysteriously grows back. You decide to take the cloak with you.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

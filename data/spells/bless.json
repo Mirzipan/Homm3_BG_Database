@@ -1,0 +1,12 @@
+{
+  "name": "Bless",
+  "image": "../assets/spells-bless.webp",
+  "type": "Basic Water Spell",
+  "effect": "[Basic Water Spell](school_of_water_magic.md)",
+  "notes": [
+    "If no Attack die is rolled during the attack, it also does not show any results. This means that any units that have abilities based on the result of an Attack die roll do not trigger. (e.g. the Zombies :defense: does not increase, and the Mummies cannot set the Attack die to \"-1\")."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

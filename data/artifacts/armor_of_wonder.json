@@ -1,0 +1,11 @@
+{
+  "name": "Armor of Wonder",
+  "image": "../assets/artifacts_minor-armor_of_wonder.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "A gang of Rogues is sifting through the possessions of some dead warriors. Scaring off the scavengers, you notice the Rogues had overlooked a dirty, but serviceable, breastplate.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

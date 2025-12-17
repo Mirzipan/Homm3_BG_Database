@@ -1,0 +1,14 @@
+{
+  "name": "Artillery",
+  "image": "../assets/abilities-artillery.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: When using the [Ballista](../war_machines/ballista.md) card, resolve its effect against the same target 3 times.",
+  "expert_effect": ":instant: When using the [Ballista](../war_machines/ballista.md) card, resolve its effect against the same target 3 times.",
+  "heroes": [
+    "Pasis",
+    "Tarnum (Castle)"
+  ],
+  "comes_with": [
+    "Rampart Expansion"
+  ]
+}

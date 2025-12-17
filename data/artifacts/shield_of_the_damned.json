@@ -1,0 +1,11 @@
+{
+  "name": "Shield of the Damned",
+  "image": "../assets/artifacts_major-shield_of_the_damned.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "A Sprite is carrying a Shield as big as it is. Yuu ask, \"Need help?\" The Sprite glares at you and answers, \"You think this is funny? Fine. You can carry it. I much prefer flying anyway.\"",
+  "notes": [],
+  "comes_with": [
+    "Inferno Expansion"
+  ]
+}

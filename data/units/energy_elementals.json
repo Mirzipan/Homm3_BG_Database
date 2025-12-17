@@ -1,0 +1,13 @@
+{
+  "name": "Energy Elementals",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [],
+  "comes_with": [
+    "Conflux Expansion"
+  ]
+}

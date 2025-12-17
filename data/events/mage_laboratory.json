@@ -1,0 +1,10 @@
+{
+  "name": "Mage Laboratory",
+  "image": "../assets/events-mage_laboratory.webp",
+  "type": "Event",
+  "effect": "*In the distance, you spot green smoke coming from a lonely tower in the middle of nowhere. When you approach, you are met by a lone mage in a tattered robe sitting by the entrance. Without looking at you, he says: \"Tell me what your hea...\" The mage hiccups. \"...heart desires. And ale... isle... I'll prepare appperfect spell for that...\" he gulps from a vial. \"...Sooner'rr'laterr.\"*",
+  "flavor_text": "In the distance, you spot green smoke coming from a lonely tower in the middle of nowhere. When you approach, you are met by a lone mage in a tattered robe sitting by the entrance. Without looking at you, he says: \"Tell me what your hea...\" The mage hiccups. \"...heart desires. And ale... isle... I'll prepare appperfect spell for that...\" he gulps from a vial. \"...Sooner'rr'laterr.\"",
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

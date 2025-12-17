@@ -1,0 +1,12 @@
+{
+  "name": "Frost Ring",
+  "image": "../assets/spells-frost_ring.webp",
+  "type": "Expert Water Spell",
+  "effect": "[Expert Water Spell](school_of_water_magic.md)",
+  "notes": [
+    "The :damage: from Frost Ring also applies to friendly units."
+  ],
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

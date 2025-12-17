@@ -1,0 +1,15 @@
+{
+  "name": "Gremlins",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [
+    "**Pack** - Only the Pack of Gremlins are a [:unit_ranged:](../keywords/ranged_unit.md). Few Gremlins are a [:unit_ground:](../keywords/ground_unit.md)."
+  ],
+  "comes_with": [
+    "Tower Expansion"
+  ]
+}

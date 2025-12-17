@@ -1,0 +1,10 @@
+{
+  "name": "Mercenary Camp",
+  "image": "../assets/events-mercenary_camp.webp",
+  "type": "Event",
+  "effect": "*You've come from a camp of mercenaries practicing their combat tactics. They welcome you and your troops and invite you to train with them. Sounds too good to be true...*",
+  "flavor_text": "You've come from a camp of mercenaries practicing their combat tactics. They welcome you and your troops and invite you to train with them. Sounds too good to be true...",
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Wolf Raiders",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [],
+  "comes_with": [
+    "Stronghold Expansion"
+  ]
+}

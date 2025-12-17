@@ -1,0 +1,15 @@
+{
+  "name": "Leadership",
+  "image": "../assets/abilities-leadership.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: Draw 2 cards.<br>Then, gain a :morale_positive: token.",
+  "expert_effect": ":instant: Draw 2 cards.<br>Then, gain a :morale_positive: token.",
+  "heroes": [
+    "Catherine",
+    "Mephala",
+    "Tarnum (Rampart)"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

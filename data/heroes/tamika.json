@@ -1,0 +1,35 @@
+{
+  "name": "Tamika",
+  "image": "../assets/heroes-necropolis-might-tamika.webp",
+  "class": "Death Knight",
+  "town": "Necropolis",
+  "stats": {
+    "attack": 1,
+    "defense": 2,
+    "power": 2,
+    "knowledge": 1
+  },
+  "starting_ability": "Offense",
+  "specialty": {
+    "name": "Dread Knights",
+    "images": [
+      "../assets/hero_specialties-necropolis-tamika-1.webp",
+      "../assets/hero_specialties-necropolis-tamika-4.webp",
+      "../assets/hero_specialties-necropolis-tamika-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": ":instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md).",
+      "Ⅳ": ":ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md).",
+      "Ⅵ": ":ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md)."
+    }
+  },
+  "notes": [],
+  "appearances": [
+    "Rise Of The Necromancer - 1. Target",
+    "Rise Of The Necromancer - 2. Master",
+    "Rise Of The Necromancer - 3. Duke Alarice"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

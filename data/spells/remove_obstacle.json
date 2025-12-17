@@ -1,0 +1,13 @@
+{
+  "name": "Remove Obstacle",
+  "image": "../assets/spells-remove_obstacle.webp",
+  "type": "Basic Water Spell",
+  "effect": "[Basic Water Spell](school_of_water_magic.md)",
+  "notes": [
+    "Units can not be removed by this spell, despite counting as obstacles for movement purposes.",
+    "Only the wall, the gate, and obstacle markers (on the large battlefield) may be removed by this spell."
+  ],
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

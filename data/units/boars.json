@@ -1,0 +1,21 @@
+{
+  "name": "Boars",
+  "variants": [],
+  "statistics": {
+    "Neutral": {
+      "Town": "[Neutral](../towns/neutral.md)",
+      "Tier": ":bronze:",
+      "Type": "[:unit_ground:](../keywords/ground_unit.md)",
+      ":attack:": "2",
+      ":defense:": "0",
+      ":health_points:": "4",
+      ":initiative:": "6",
+      "Cost": "4 :gold:",
+      "Abilities": "-"
+    }
+  },
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

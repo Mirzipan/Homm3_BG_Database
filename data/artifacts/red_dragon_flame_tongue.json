@@ -1,0 +1,11 @@
+{
+  "name": "Red Dragon Flame Tongue",
+  "image": "../assets/artifacts_minor-red_dragon_flame_tongue.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "As you are walking along a narrow path, a nearby bush suddenly bursts into flames. Before your very eyes, the flames become the image of a beautiful woman. She holds out a magnificent sword to you.",
+  "notes": [],
+  "comes_with": [
+    "Core Game"
+  ]
+}

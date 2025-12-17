@@ -1,0 +1,17 @@
+{
+  "name": "Magic Arrow",
+  "image": "../assets/spells-magic_arrow.webp",
+  "type": null,
+  "effect": "Basic Spell",
+  "notes": [
+    "Magic Arrow is considered a basic spell, despite having a magic symbol in each corner.",
+    "Magic Arrow can benefit from spell power bonus to any school of magic, but it can only be affected by a single school of magic at a time.",
+    "[^1] If a unit ignores a specific school of magic (it's immune to spells of that school of magic), it can *not* ignore the Magic Arrow."
+  ],
+  "comes_with": [
+    "Core Game",
+    "Rampart Expansion",
+    "Fortress Expansion",
+    "Inferno Expansion"
+  ]
+}

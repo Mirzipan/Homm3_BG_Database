@@ -1,0 +1,17 @@
+{
+  "name": "Sorcery",
+  "image": "../assets/abilities-sorcery.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: +2 :empower:<br>Then draw 1 card.",
+  "expert_effect": ":instant: +2 :empower:<br>Then draw 1 card.",
+  "heroes": [
+    "Jeddite",
+    "Josephine",
+    "Sandro",
+    "Solmyr",
+    "Zydar"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

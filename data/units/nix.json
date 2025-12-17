@@ -1,0 +1,13 @@
+{
+  "name": "Nix",
+  "variants": [
+    "Few",
+    "Pack",
+    "Neutral"
+  ],
+  "statistics": {},
+  "notes": [],
+  "comes_with": [
+    "Cove Expansion"
+  ]
+}

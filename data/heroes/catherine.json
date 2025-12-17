@@ -1,0 +1,35 @@
+{
+  "name": "Catherine",
+  "image": "../assets/heroes-castle-might-catherine.webp",
+  "class": "Knight",
+  "town": "Castle",
+  "stats": {
+    "attack": 2,
+    "defense": 2,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Leadership",
+  "specialty": {
+    "name": "Crusaders",
+    "images": [
+      "../assets/hero_specialties-castle-catherine-1.webp",
+      "../assets/hero_specialties-castle-catherine-4.webp",
+      "../assets/hero_specialties-castle-catherine-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": ":instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Crusaders unit](../units/crusaders.md).",
+      "Ⅳ": ":ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Crusaders unit](../units/crusaders.md).",
+      "Ⅵ": ":ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Crusaders unit](../units/crusaders.md)."
+    }
+  },
+  "notes": [],
+  "appearances": [
+    "Long Live The Queen - 1. Homecoming",
+    "Long Live The Queen - 2. Guardian Angels",
+    "Long Live The Queen - 3. Steadwick's Liberation"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

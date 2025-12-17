@@ -1,0 +1,11 @@
+{
+  "name": "Recanter's Cloak",
+  "image": "../assets/artifacts_major-recanters_cloak.webp",
+  "type": "Major Artifact",
+  "effect": null,
+  "flavor_text": "You discover a young woman fleeing from a hungry bear. You slay the beast in the nick of time, and the grateful Sorceress weaves a magic cloak from the bear's hide.",
+  "notes": [],
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

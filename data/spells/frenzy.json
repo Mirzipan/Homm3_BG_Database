@@ -1,0 +1,10 @@
+{
+  "name": "Frenzy",
+  "image": "../assets/spells-frenzy.webp",
+  "type": "Expert Fire Spell",
+  "effect": "[Expert Fire Spell](school_of_fire_magic.md)",
+  "notes": [],
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

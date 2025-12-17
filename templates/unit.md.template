@@ -1,0 +1,37 @@
+# {{name}}
+
+{{#variants}}
+=== "{{.}}"
+
+    <figure markdown="span">
+        ![{{variant_name}}]({{image}}){ width="340" align=right }
+    </figure>
+
+{{/variants}}
+
+| Statistics | {{stat_headers}} |
+| :--- | {{stat_header_align}} |
+{{#stat_rows}}
+| {{row_name}} | {{values}} |
+{{/stat_rows}}
+
+{{#notes}}
+
+## Notes
+
+{{#notes_list}}
+- {{.}}
+{{/notes_list}}
+{{/notes}}
+
+## Comes With
+
+{{#comes_with_list}}
+- [{{.}}](../content/{{slug}}.md)
+{{/comes_with_list}}
+
+
+## See Also
+
+- [List of Units](index.md)
+- [List of Towns](../towns/index.md)

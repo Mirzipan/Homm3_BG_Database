@@ -1,0 +1,11 @@
+{
+  "name": "Greater Gnoll's Flail",
+  "image": "../assets/artifacts_minor-greater_gnolls_flail.webp",
+  "type": "Minor Artifact",
+  "effect": null,
+  "flavor_text": "A clumsy Gnoll has killed himself with his own flail. Knowing your superior skill with this weapon, you confidently remove the spectacular flail from the fallen creature.",
+  "notes": [],
+  "comes_with": [
+    "Rampart Expansion"
+  ]
+}

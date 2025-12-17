@@ -1,0 +1,16 @@
+{
+  "name": "Necromancy",
+  "image": "../assets/abilities-necromancy.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down).",
+  "expert_effect": ":effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down).",
+  "heroes": [
+    "Lord Haart (Necropolis)",
+    "Moandor",
+    "Septienna",
+    "Vidomina"
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Adrienne",
+  "image": "../assets/heroes-fortress-magic-adrienne.webp",
+  "class": "Witch",
+  "town": "Fortress",
+  "stats": {
+    "attack": 0,
+    "defense": 1,
+    "power": 2,
+    "knowledge": 2
+  },
+  "starting_ability": "Wisdom",
+  "specialty": {
+    "name": "Fire Magic",
+    "images": [
+      "../assets/hero_specialties-fortress-adrienne-1.webp",
+      "../assets/hero_specialties-fortress-adrienne-4.webp",
+      "../assets/hero_specialties-fortress-adrienne-7.webp"
+    ],
+    "levels": {
+      "Ⅰ": ":ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/school_of_fire_magic.md) are cast with +1 :empower:.",
+      "Ⅳ": ":instant: **Search (3)** your deck, then shuffle your cards from the discard pile into the deck.",
+      "Ⅵ": ":ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/school_of_fire_magic.md) are cast with +2 :empower:."
+    }
+  },
+  "notes": [],
+  "appearances": [
+    "Playing With Fire - 1. Farming Towns",
+    "Playing With Fire - 2. March Of The Undead",
+    "Playing With Fire - 3. Burning Of Tatalia"
+  ],
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

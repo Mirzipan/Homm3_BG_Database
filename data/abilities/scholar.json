@@ -1,0 +1,14 @@
+{
+  "name": "Scholar",
+  "image": "../assets/abilities-scholar.webp",
+  "type": "Ability",
+  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:effect_map: Remove up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile. Remove the Scholar.",
+  "expert_effect": ":effect_map: Remove up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile. Remove the Scholar.",
+  "heroes": [
+    "Octavia",
+    "Rashka"
+  ],
+  "comes_with": [
+    "Inferno Expansion"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Artifact Merchant",
+  "image": "../assets/events-artifact_merchant.webp",
+  "type": "Event",
+  "effect": "*On your journey, you wander into a blacksmith's workshop. They welcome you with a cheerful laugh and present their wares.*",
+  "flavor_text": "On your journey, you wander into a blacksmith's workshop. They welcome you with a cheerful laugh and present their wares.",
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

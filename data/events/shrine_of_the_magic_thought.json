@@ -1,0 +1,10 @@
+{
+  "name": "Shrine of the Magic Thought",
+  "image": "../assets/events-shrine_of_the_magic_thought.webp",
+  "type": "Event",
+  "effect": "*You come across a lavish shrine attended by a group of high priests. Their eyes are full of fear, and they beg you to chase away nearby monsters. In exchange for protection, they agree to teach you a sophisticated spell.*",
+  "flavor_text": "You come across a lavish shrine attended by a group of high priests. Their eyes are full of fear, and they beg you to chase away nearby monsters. In exchange for protection, they agree to teach you a sophisticated spell.",
+  "comes_with": [
+    "Fortress Expansion"
+  ]
+}

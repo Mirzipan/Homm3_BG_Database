@@ -1,0 +1,27 @@
+{
+  "name": "Gerwulf",
+  "image": null,
+  "class": "Beastmaster",
+  "town": "Fortress",
+  "stats": {
+    "attack": 0,
+    "defense": 4,
+    "power": 1,
+    "knowledge": 1
+  },
+  "starting_ability": "Armorer",
+  "specialty": {
+    "name": "Ballista",
+    "images": [],
+    "levels": {
+      "Ⅰ": "🚧",
+      "Ⅳ": "🚧",
+      "Ⅵ": "🚧"
+    }
+  },
+  "notes": [],
+  "appearances": [],
+  "comes_with": [
+    "Regular Stretch Goals 2024"
+  ]
+}

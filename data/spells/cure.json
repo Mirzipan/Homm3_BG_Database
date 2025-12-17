@@ -1,0 +1,14 @@
+{
+  "name": "Cure",
+  "image": "../assets/spells-cure.webp",
+  "type": "Basic Water Spell",
+  "effect": "[Basic Water Spell](school_of_water_magic.md)",
+  "notes": [
+    "[^1] It is uncertain what it meant by \"effect\" here.",
+    "[^2] Cure can only be cast on a friendly unit.",
+    "[^2] The removal of an effect is optional. A positive effect does not have to be removed and may therefore remain active."
+  ],
+  "comes_with": [
+    "Core Game"
+  ]
+}
