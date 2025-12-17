@@ -27,7 +27,7 @@
 ## Comes With
 
 {{#comes_with_list}}
-- [{{.}}](../content/{{slug}}.md)
+- {{text}}
 {{/comes_with_list}}
 
 

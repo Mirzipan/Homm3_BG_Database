@@ -114,6 +114,9 @@ class MarkdownGenerator:
     
     def save_markdown(self, content: str, output_file: Path):
         """Save generated markdown to file."""
+        # Clean up excessive newlines (more than 2 in a row)
+        content = re.sub(r'\n{3,}', '\n\n', content)
+        
         output_file.parent.mkdir(parents=True, exist_ok=True)
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(content)
@@ -184,7 +187,7 @@ class HeroGenerator(MarkdownGenerator):
         # Comes with
         comes_with = data.get('comes_with', [])
         template_data['comes_with_list'] = [
-            {'name': item, 'slug': slugify(item)}
+            {'text': f"[{item}](../content/{slugify(item)}.md)", 'name': item, 'slug': slugify(item)}
             for item in comes_with
         ]
         
@@ -225,7 +228,7 @@ class ArtifactGenerator(MarkdownGenerator):
         # Comes with
         comes_with = data.get('comes_with', [])
         template_data['comes_with_list'] = [
-            {'name': item, 'slug': slugify(item)}
+            {'text': f"[{item}](../content/{slugify(item)}.md)", 'name': item, 'slug': slugify(item)}
             for item in comes_with
         ]
         
@@ -276,7 +279,7 @@ class SpellGenerator(MarkdownGenerator):
         # Comes with
         comes_with = data.get('comes_with', [])
         template_data['comes_with_list'] = [
-            {'name': item, 'slug': slugify(item)}
+            {'text': f"[{item}](../content/{slugify(item)}.md)", 'name': item, 'slug': slugify(item)}
             for item in comes_with
         ]
         
@@ -338,7 +341,7 @@ class UnitGenerator(MarkdownGenerator):
         # Comes with
         comes_with = data.get('comes_with', [])
         template_data['comes_with_list'] = [
-            {'name': item, 'slug': slugify(item)}
+            {'text': f"[{item}](../content/{slugify(item)}.md)", 'name': item, 'slug': slugify(item)}
             for item in comes_with
         ]
         
@@ -370,7 +373,7 @@ class EventGenerator(MarkdownGenerator):
         # Comes with
         comes_with = data.get('comes_with', [])
         template_data['comes_with_list'] = [
-            {'name': item, 'slug': slugify(item)}
+            {'text': f"[{item}](../content/{slugify(item)}.md)", 'name': item, 'slug': slugify(item)}
             for item in comes_with
         ]
         
@@ -411,7 +414,7 @@ class AbilityGenerator(MarkdownGenerator):
         # Comes with
         comes_with = data.get('comes_with', [])
         template_data['comes_with_list'] = [
-            {'name': item, 'slug': slugify(item)}
+            {'text': f"[{item}](../content/{slugify(item)}.md)", 'name': item, 'slug': slugify(item)}
             for item in comes_with
         ]
         
