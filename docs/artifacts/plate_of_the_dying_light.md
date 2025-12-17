@@ -1,6 +1,6 @@
 # Plate of the Dying Light
 
-![Plate of the Dying Light](../assets/player-deck-back.webpp){ width="340" align=right }
+![Plate of the Dying Light](../assets/player-deck-back.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>
 ___
