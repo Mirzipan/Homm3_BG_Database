@@ -2,7 +2,7 @@
   "name": "Weakness",
   "image": "../assets/spells-weakness.webp",
   "type": "Basic Water Spell",
-  "effect": null,
+  "effect": ":instant: The selected [unit](../units/index.md) suffers (to a minimum of 0):<br><br>:empower: 0 ➣ -1 :attack:<br>:empower: 1 ➣ -2 :attack:<br>:empower: 2 ➣ -3 :attack:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Core Game"

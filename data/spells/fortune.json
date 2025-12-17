@@ -2,7 +2,7 @@
   "name": "Fortune",
   "image": "../assets/spells-fortune.webp",
   "type": "Basic Air Spell",
-  "effect": null,
+  "effect": ":instant: Reroll one [Treasure](../dice.md#treasure-die), [Resource](../dice.md#resource-die), or [Attack die](../dice.md#attack-die) \\*. Resolve the result of your choice<br><br>:empower: 0 ➣ \\*once<br>:empower: 1 ➣ \\*twice<br>:empower: 2 ➣ \\*3 times<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [
     "This card has to be played *before* rolling the die. It cannot be played after the die was rolled and the result of that roll is already known."
   ],

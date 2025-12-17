@@ -2,7 +2,7 @@
   "name": "View Air",
   "image": "../assets/spells-view_air.webp",
   "type": "Basic Air Spell",
-  "effect": null,
+  "effect": ":effect_map: Gain:<br><br>:empower: 0 ➣ 3 :gold:<br>:empower: 1 ➣ 2 :building_materials:<br>:empower: 2 ➣ 1 :valuables:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Tower Expansion"

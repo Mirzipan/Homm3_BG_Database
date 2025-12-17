@@ -2,7 +2,7 @@
   "name": "Slayer",
   "image": "../assets/spells-slayer.webp",
   "type": "Expert Fire Spell",
-  "effect": null,
+  "effect": ":instant: When attacking a :golden: [unit](../units/index.md), roll an [Attack die](../dice.md#attack-die) \\* and apply all the results (except for a \"-1\"). After resolving this :attack:, draw 1 card.<br><br>:empower: 0 ➣ \\*twice<br>:empower: 2 ➣ \\*4 times<br>:empower: 4 ➣ \\*6 times<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Rampart Expansion"

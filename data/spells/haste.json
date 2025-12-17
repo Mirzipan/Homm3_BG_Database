@@ -2,7 +2,7 @@
   "name": "Haste",
   "image": "../assets/spells-haste.webp",
   "type": "Basic Air Spell",
-  "effect": null,
+  "effect": ":ongoing: Until the end of the Combat, the selected [unit](../units/index.md) gains:<br><br>:empower: 0 ➣ +1 :initiative:<br>:empower: 1 ➣ +2 :initiative:<br>:empower: 2 ➣ +3 :initiative:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [
     "[^1] On the small battlefield, only the initiative of the unit is increased, not its movement range. On the Battlefield Expansion, the initiative is used to determine the movement range, therefore a unit under this spell has its movement range increased as well."
   ],

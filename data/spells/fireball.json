@@ -2,7 +2,7 @@
   "name": "Fireball",
   "image": "../assets/spells-fireball.webp",
   "type": "Expert Fire Spell",
-  "effect": null,
+  "effect": ":activation: Select 2 adjacent places. Deal \\* :damage: to [units](../units/index.md) in these spaces.<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [
     "The :damage: from Fireball also applies to friendly units."
   ],

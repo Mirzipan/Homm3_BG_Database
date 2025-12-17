@@ -2,7 +2,7 @@
   "name": "Visions",
   "image": "../assets/spells-visions.webp",
   "type": "Basic Fire Spell",
-  "effect": null,
+  "effect": ":instant: Draw \\* from any Neutral [Unit](../units/index.md) deck. You can discard any of them and return the remaining cards in any order.<br><br>:empower: 0 ➣ \\*1 card<br>:empower: 1 ➣ \\*2 cards<br>:empower: 2 ➣ \\*3 cards<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Inferno Expansion"

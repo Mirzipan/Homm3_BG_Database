@@ -2,7 +2,7 @@
   "name": "Sacrifice",
   "image": null,
   "type": "Expert Fire Spell",
-  "effect": null,
+  "effect": ":instant: Redirect the :damage: dealt to the selected \\* [unit](../units/index.md) to any other of your [units](../units/index.md).<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Regular Stretch Goals 2024"

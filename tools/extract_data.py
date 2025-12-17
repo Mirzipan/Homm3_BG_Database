@@ -233,18 +233,31 @@ class SpellExtractor(MarkdownExtractor):
     
     def extract_spell_type(self, content: str) -> Optional[str]:
         """Extract spell type (e.g., Basic Water Spell)."""
+        # Try with link first
         match = re.search(r'<p style="text-align: center;" markdown>\[([^\]]+Spell)\]', content)
+        if match:
+            return match.group(1).strip()
+        # Try without link (e.g., "Basic Spell")
+        pattern = r'___\s*<p style="text-align: center;" markdown>([A-Z][^<:]+Spell)</p>'
+        match = re.search(pattern, content)
         return match.group(1).strip() if match else None
     
     def extract_effect(self, content: str) -> Optional[str]:
         """Extract spell effect."""
-        pattern = r'___\s*<p style="text-align: center;" markdown>(.+?)</p>\s*___'
+        # Look for all centered paragraphs
+        pattern = r'<p style="text-align: center;" markdown>(.+?)</p>'
         matches = re.findall(pattern, content, re.DOTALL)
-        # For spells, the effect is typically the paragraph after the spell type
-        # Skip any that look like spell type references
+        
+        # For spells, the effect is the paragraph after the spell type
+        # Skip any that look like spell type (either as link or plain text)
         for match in matches:
-            if not re.search(r'^\[.+?Spell\]', match.strip()):
-                return match.strip()
+            match_stripped = match.strip()
+            # Skip if it's a spell type link or just a spell type text (like "Basic Spell")
+            if (not re.search(r'^\[.+?Spell\]', match_stripped) and 
+                not re.match(r'^[A-Z][A-Za-z\s]+Spell$', match_stripped) and
+                # Make sure it's not empty or too short
+                len(match_stripped) > 20):
+                return match_stripped
         return None
     
     def extract_notes(self, content: str) -> List[str]:

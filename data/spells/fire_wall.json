@@ -2,7 +2,7 @@
   "name": "Fire Wall",
   "image": "../assets/spells-fire_wall.webp",
   "type": "Basic Fire Spell",
-  "effect": null,
+  "effect": ":ongoing: For this Combat, place this card in an empty space on the Combat board. Deal \\* to any [unit](../units/index.md) stopping here and to any :unit_ground: or :unit_ranged: [unit](../units/index.md) passing through.<br><br>:empower: 0 ➣ \\*1 :damage:<br>:empower: 2 ➣ \\*2 :damage:<br>:empower: 4 ➣ \\*3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [
     "[^1] On the large battlefield, a Fire Wall token is placed onto the battlefield instead of the card."
   ],

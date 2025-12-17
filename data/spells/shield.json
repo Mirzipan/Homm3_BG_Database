@@ -2,7 +2,7 @@
   "name": "Shield",
   "image": "../assets/spells-shield.webp",
   "type": "Basic Earth Spell",
-  "effect": null,
+  "effect": ":instant: The defending [unit](../units/index.md) gains \\* against a :unit_ground: or :unit_flying: [unit](../units/index.md).<br><br>:empower: 0 ➣ \\*+1 :defense:<br>:empower: 1 ➣ \\*+2 :defense:<br>:empower: 2 ➣ \\*+3 :defense:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Tower Expansion"

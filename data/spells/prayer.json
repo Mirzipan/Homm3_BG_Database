@@ -2,7 +2,7 @@
   "name": "Prayer",
   "image": "../assets/spells-prayer.webp",
   "type": "Expert Water Spell",
-  "effect": null,
+  "effect": ":instant: The selected [unit](../units/index.md) gains \\* :attack:, :defense:, or :initiative::<br><br>:empower: 0 ➣ \\*+1 <br>:empower: 2 ➣ \\*+2 <br>:empower: 4 ➣ \\*+3<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [
     "Prayer only increases one of the three values, the caster gets to choose which one.",
     "Prayer can be cast at any point during the Combat as an *instant*. This way a player may increase the initiative of a unit outside of their turn, causing the turn order to be adjusted immediately."

@@ -2,7 +2,7 @@
   "name": "Bloodlust",
   "image": "../assets/spells-bloodlust.webp",
   "type": "Basic Fire Spell",
-  "effect": null,
+  "effect": ":instant: The selected :unit_ground: or :unit_flying: [unit](../units/index.md) gains:<br><br>:empower: 0 ➣ +1 :attack:<br>:empower: 1 ➣ +2 :attack:<br>:empower: 2 ➣ +3 :attack:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Core Game"

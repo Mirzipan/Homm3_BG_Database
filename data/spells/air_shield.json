@@ -2,7 +2,7 @@
   "name": "Air Shield",
   "image": null,
   "type": "Basic Air Spell",
-  "effect": null,
+  "effect": ":ongoing: Until the end of the Combat, the selected [unit](../units/index.md) gains \\* whenever it is attacked by a :unit_ranged: [unit](../units/index.md).<br><br>:empower: 0 ➣ +1 :defense:<br>:empower: 1 ➣ +2 :defense:<br>:empower: 2 ➣ +3 :defense:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Regular Stretch Goals 2024"

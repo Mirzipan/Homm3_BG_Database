@@ -2,7 +2,7 @@
   "name": "View Earth",
   "image": "../assets/spells-view_earth.webp",
   "type": "Basic Earth Spell",
-  "effect": null,
+  "effect": ":instant: Choose enemy Mine within \\* fields. Replace the owner's cube with yours.<br><br>:empower: 0 ➣ \\*1<br>:empower: 1 ➣ \\*2<br>:empower: 2 ➣ \\*3<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Fortress Expansion"

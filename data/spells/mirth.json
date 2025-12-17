@@ -2,7 +2,7 @@
   "name": "Mirth",
   "image": "../assets/spells-mirth.webp",
   "type": "Expert Water Spell",
-  "effect": null,
+  "effect": ":ongoing: You can reroll each of your [Attack dice](../dice.md#attack-die) once. During:<br><br>:empower: 0 ➣ This Activation<br>:empower: 2 ➣ This Combat round<br>:empower: 4 ➣ This Combat<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Rampart Expansion"

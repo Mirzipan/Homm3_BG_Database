@@ -2,7 +2,7 @@
   "name": "Summon Earth Elemental",
   "image": null,
   "type": "Expert Earth Spell",
-  "effect": null,
+  "effect": ":activation: On a chosen empty space:<br><br>:empower: 0 ➣ No effect<br>:empower: 2 ➣ Summon a Few [Earth Elementals](../units/earth_elementals.md)<br>:empower: 4 ➣ Summon a Pack of [Earth Elementals](../units/earth_elementals.md)<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Conflux Expansion"

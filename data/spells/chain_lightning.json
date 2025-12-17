@@ -2,7 +2,7 @@
   "name": "Chain Lightning",
   "image": "../assets/spells-chain_lightning.webp",
   "type": "Expert Air Spell",
-  "effect": null,
+  "effect": ":activation: Select a [unit](../units/index.md) and another 2 [units](../units/index.md) closest to it. Allocate \\* :damage:, starting with the first selected [unit](../units/index.md).<br><br>:empower: 0 ➣ 1/1/1 :damage:<br>:empower: 2 ➣ 2/1/1 :damage:<br>:empower: 4 ➣ 3/2/1 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [
     "The :damage: from Chain Lightning also applies to friendly units.",
     "If multiple units are the same distance away from the target of this spell, the caster chooses which one of them receives the second damage and which one receives the third."

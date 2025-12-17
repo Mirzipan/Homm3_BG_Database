@@ -2,7 +2,7 @@
   "name": "Forgetfulness",
   "image": "../assets/spells-forgetfulness.webp",
   "type": "Basic Water Spell",
-  "effect": null,
+  "effect": ":ongoing: During its next activation, a \\* :unit_ranged: [unit](../units/index.md) if your choice cannot :attack:.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Rampart Expansion"

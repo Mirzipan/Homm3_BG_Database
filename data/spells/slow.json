@@ -2,7 +2,7 @@
   "name": "Slow",
   "image": "../assets/spells-slow.webp",
   "type": "Basic Earth Spell",
-  "effect": null,
+  "effect": ":ongoing: Until the end of the Combat, the selected [unit](../units/index.md) suffers:<br><br>:empower: 0 ➣ -1 :initiative:<br>:empower: 1 ➣ -2 :initiative:<br>:empower: 2 ➣ -3 :initiative:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [
     "[^1] On the small battlefield, only the initiative of the unit is decreased, not its movement range. On the Battlefield Expansion, the initiative is used to determine the movement range, therefore a unit under this spell has its movement range decreased as well."
   ],

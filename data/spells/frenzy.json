@@ -2,7 +2,7 @@
   "name": "Frenzy",
   "image": "../assets/spells-frenzy.webp",
   "type": "Expert Fire Spell",
-  "effect": null,
+  "effect": ":instant: This [unit](../units/index.md) ignores the :defense: of the attacked \\* [unit](../units/index.md).<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [],
   "comes_with": [
     "Fortress Expansion"

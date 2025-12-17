@@ -12,6 +12,17 @@ from pathlib import Path
 from typing import Dict, List, Any, Optional
 
 
+# Constants
+MAX_CONSECUTIVE_NEWLINES = 2
+MIGHT_HERO_CLASSES = ['Knight', 'Ranger', 'Death Knight', 'Beastmaster', 'Barbarian', 'Overlord', 'Planeswalker', 'Alchemist']
+SPELL_SCHOOLS = {
+    'Water': ('School of Water Magic', 'school_of_water_magic'),
+    'Fire': ('School of Fire Magic', 'school_of_fire_magic'),
+    'Air': ('School of Air Magic', 'school_of_air_magic'),
+    'Earth': ('School of Earth Magic', 'school_of_earth_magic'),
+}
+
+
 def slugify(text: str) -> str:
     """Convert text to slug format."""
     text = text.lower()
@@ -114,8 +125,8 @@ class MarkdownGenerator:
     
     def save_markdown(self, content: str, output_file: Path):
         """Save generated markdown to file."""
-        # Clean up excessive newlines (more than 2 in a row)
-        content = re.sub(r'\n{3,}', '\n\n', content)
+        # Clean up excessive newlines
+        content = re.sub(rf'\n{{{MAX_CONSECUTIVE_NEWLINES + 1},}}', '\n' * MAX_CONSECUTIVE_NEWLINES, content)
         
         output_file.parent.mkdir(parents=True, exist_ok=True)
         with open(output_file, 'w', encoding='utf-8') as f:
@@ -135,10 +146,7 @@ class HeroGenerator(MarkdownGenerator):
         
         # Determine class icon (might or magic)
         class_name = data.get('class', '')
-        if class_name in ['Knight', 'Ranger', 'Death Knight', 'Beastmaster', 'Barbarian', 'Overlord', 'Planeswalker', 'Alchemist']:
-            template_data['class_icon'] = 'might'
-        else:
-            template_data['class_icon'] = 'magic'
+        template_data['class_icon'] = 'might' if class_name in MIGHT_HERO_CLASSES else 'magic'
         
         # Town slug
         template_data['town_slug'] = slugify(data.get('town', ''))
@@ -255,19 +263,15 @@ class SpellGenerator(MarkdownGenerator):
         
         # Extract school from type
         spell_type = data.get('type', '')
-        if 'Water' in spell_type:
-            template_data['school_name'] = 'School of Water Magic'
-            template_data['school_slug'] = 'school_of_water_magic'
-        elif 'Fire' in spell_type:
-            template_data['school_name'] = 'School of Fire Magic'
-            template_data['school_slug'] = 'school_of_fire_magic'
-        elif 'Air' in spell_type:
-            template_data['school_name'] = 'School of Air Magic'
-            template_data['school_slug'] = 'school_of_air_magic'
-        elif 'Earth' in spell_type:
-            template_data['school_name'] = 'School of Earth Magic'
-            template_data['school_slug'] = 'school_of_earth_magic'
-        else:
+        school_found = False
+        for school_keyword, (school_name, school_slug) in SPELL_SCHOOLS.items():
+            if school_keyword in spell_type:
+                template_data['school_name'] = school_name
+                template_data['school_slug'] = school_slug
+                school_found = True
+                break
+        
+        if not school_found:
             template_data['school_name'] = 'List of Spells'
             template_data['school_slug'] = 'index'
         

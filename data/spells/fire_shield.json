@@ -2,7 +2,7 @@
   "name": "Fire Shield",
   "image": "../assets/spells-fire_shield.webp",
   "type": "Expert Fire Spell",
-  "effect": null,
+  "effect": ":ongoing: When the targeted [unit](../units/index.md) is attacked by an adjacent [unit](../units/index.md) during this Combat round, the attacking [unit](../units/index.md) takes:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [
     "The attacking unit is damaged by the Fire Shield even if it defeats the unit which has Fire Shield."
   ],

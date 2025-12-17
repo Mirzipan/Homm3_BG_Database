@@ -2,7 +2,7 @@
   "name": "Blind",
   "image": "../assets/spells-blind.webp",
   "type": "Basic Fire Spell",
-  "effect": null,
+  "effect": ":activation: Place a :paralysis: token on the selected \\* [unit](../units/index.md):<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [
     "See [Paralysis](../keywords/paralysis.md)"
   ],

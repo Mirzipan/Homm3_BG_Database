@@ -2,7 +2,7 @@
   "name": "Remove Obstacle",
   "image": "../assets/spells-remove_obstacle.webp",
   "type": "Basic Water Spell",
-  "effect": null,
+  "effect": ":instant: Remove \\* obstacles (except [units](../units/index.md)) from the Combat board.<br><br>:empower: 0 ➣ \\*1<br>:empower: 1 ➣ \\*2<br>:empower: 2 ➣ \\*3<br><br>— OR —<br><br>:instant: +1 :empower:",
   "notes": [
     "Units can not be removed by this spell, despite counting as obstacles for movement purposes.",
     "Only the wall, the gate, and obstacle markers (on the large battlefield) may be removed by this spell."
