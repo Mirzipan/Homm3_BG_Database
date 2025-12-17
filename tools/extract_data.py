@@ -179,11 +179,16 @@ class ArtifactExtractor(MarkdownExtractor):
     
     def extract_effect(self, content: str) -> Optional[str]:
         """Extract artifact effect."""
-        # Look for centered text after artifact type
-        pattern = r'___\s*<p style="text-align: center;" markdown>(.+?)</p>\s*___'
+        # The effect is in a centered paragraph after the artifact type but not in italics
+        # Pattern: after "___", find centered paragraph without asterisks (italics)
+        pattern = r'___\s*<p style="text-align: center;" markdown>([^*]+?)</p>'
         matches = re.findall(pattern, content, re.DOTALL)
-        if len(matches) >= 2:
-            return matches[1].strip()
+        # Look for the effect paragraph (not the type)
+        for match in matches:
+            match_stripped = match.strip()
+            # Skip if it's just a link to artifact type
+            if not re.match(r'^\[.+?Artifact.*?\]\(.+?\)$', match_stripped):
+                return match_stripped
         return None
     
     def extract_flavor_text(self, content: str) -> Optional[str]:
@@ -235,8 +240,11 @@ class SpellExtractor(MarkdownExtractor):
         """Extract spell effect."""
         pattern = r'___\s*<p style="text-align: center;" markdown>(.+?)</p>\s*___'
         matches = re.findall(pattern, content, re.DOTALL)
-        if len(matches) >= 1:
-            return matches[0].strip()
+        # For spells, the effect is typically the paragraph after the spell type
+        # Skip any that look like spell type references
+        for match in matches:
+            if not re.search(r'^\[.+?Spell\]', match.strip()):
+                return match.strip()
         return None
     
     def extract_notes(self, content: str) -> List[str]:

@@ -2,7 +2,7 @@
   "name": "Cards of Prophecy",
   "image": "../assets/artifacts_major-cards_of_prophecy.webp",
   "type": "Major Artifact",
-  "effect": null,
+  "effect": ":instant: Reroll any [die](../dice.md).<br><br>— OR —<br><br>:instant: Set a :resource_die: or :treasure: on the side of your choice.",
   "flavor_text": "You meet a traveler who offers to let you draw a card form the strange deck. When you refuse, he draws one himself. He has a momentary look of surprise on his face, then vanishes with a pop, dropping the cards. You gather them, and leave.",
   "notes": [],
   "comes_with": [

@@ -2,7 +2,7 @@
   "name": "Speculum",
   "image": "../assets/artifacts_minor-speculum.webp",
   "type": "Minor Artifact",
-  "effect": null,
+  "effect": ":instant: Discover any Map tile adjacent to the Map tile your [Hero](../heroes/index.md) is currently on..<br><br>— OR —<br><br>:instant: Remove this card, then draw 1 card.",
   "flavor_text": "A merchant from far away lands, trades you a new invention of his people for traveling supplies. It makes distant objects appear closer, and he calls it, a Speculum.",
   "notes": [],
   "comes_with": [

@@ -2,7 +2,7 @@
   "name": "Buckler of the Gnoll King",
   "image": "../assets/artifacts_minor-buckler_of_the_gnoll_king.webp",
   "type": "Minor Artifact",
-  "effect": null,
+  "effect": ":instant: +2 :defense:<br>:ongoing: Until the end of the Combat, this [unit](../units/index.md) suffers -1 :attack: (to a minimum of 0).<br><br>— OR —<br><br>:instant: +1 :defense:",
   "flavor_text": "A stone statue of a warrior holds a silver shield. As you remove the shield, the statue crumbles into dust.",
   "notes": [],
   "comes_with": [

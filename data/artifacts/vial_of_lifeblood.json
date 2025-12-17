@@ -2,7 +2,7 @@
   "name": "Vial of Lifeblood",
   "image": "../assets/artifacts_major-vial_of_lifeblood.webp",
   "type": "Major Artifact",
-  "effect": null,
+  "effect": ":instant: Remove up to 3 :damage: from one of your units.<br><br>— OR —<br><br> :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :health_points:.",
   "flavor_text": "You find a mystical shrine hidden among the trees. Floating above the altar is a vial said to contain the Blood of Life. You very carefully remove it, taking care not to disturb anything else.",
   "notes": [],
   "comes_with": [

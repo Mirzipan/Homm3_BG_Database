@@ -2,7 +2,7 @@
   "name": "Armor of Wonder",
   "image": "../assets/artifacts_minor-armor_of_wonder.webp",
   "type": "Minor Artifact",
-  "effect": null,
+  "effect": ":instant: Draw 1 card and gain +1 :attack:.<br><br>— OR —<br><br>:instant: Draw 1 card and gain +1 :defense:.",
   "flavor_text": "A gang of Rogues is sifting through the possessions of some dead warriors. Scaring off the scavengers, you notice the Rogues had overlooked a dirty, but serviceable, breastplate.",
   "notes": [],
   "comes_with": [

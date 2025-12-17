@@ -2,7 +2,7 @@
   "name": "Dimension Door",
   "image": "../assets/spells-dimension_door.webp",
   "type": "Expert Air Spell",
-  "effect": "[Expert Air Spell](school_of_air_magic.md)",
+  "effect": null,
   "notes": [
     "Dimension Door can only move the caster's Hero, not a Hero controlled by any other player.",
     "May be used to jump over blocked fields."

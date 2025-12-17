@@ -4,3 +4,11 @@
 **/*.es.md
 **/*.fr.md
 **/*.mo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test output
+/tmp/test_output/

@@ -2,7 +2,7 @@
   "name": "Lion's Shield of Courage",
   "image": null,
   "type": "Relic Artifact",
-  "effect": null,
+  "effect": ":instant: Discard X cards from hand to gain +X :defense:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +3 :defense:.",
   "flavor_text": "🚧",
   "notes": [],
   "comes_with": [

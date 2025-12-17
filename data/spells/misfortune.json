@@ -2,7 +2,7 @@
   "name": "Misfortune",
   "image": "../assets/spells-misfortune.webp",
   "type": "Basic Fire Spell",
-  "effect": "[Basic Fire Spell](school_of_fire_magic.md)",
+  "effect": null,
   "notes": [
     "The card has to be played immediately after declaring the attack, before other cards are played.",
     "The result of the Attack die roll is negated, *as well as* all future effects that increase the :attack: of the attacking unit.",

@@ -2,7 +2,7 @@
   "name": "Endless Sack of Gold",
   "image": "../assets/artifacts_relic-endless_sack_of_gold.webp",
   "type": "Relic Artifact",
-  "effect": null,
+  "effect": ":instant: Gain 5 :gold:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 8 :gold:.",
   "flavor_text": "A little leprechaun dances gleefully around a magical sack. Seeing you approach, he stops in mid-stride. The little man screams and stamps his foot ferociously, vanishing into thin air. Remembering the old leprechaun saying, 'Finders Keepers', you grab the sack and leave.",
   "notes": [],
   "comes_with": [

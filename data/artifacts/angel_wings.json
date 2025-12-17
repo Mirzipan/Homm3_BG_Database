@@ -2,7 +2,7 @@
   "name": "Angel Wings",
   "image": "../assets/artifacts_relic-angel_wings.webp",
   "type": "Relic Artifact",
-  "effect": null,
+  "effect": ":effect_map: Chosen [Hero](../heroes/index.md) gain +1 :movement: and can move through any fields without resolving them. The last visited field must be resolved normally.<br><br>— OR —<br><br>:instant: Draw a card.",
   "flavor_text": "Not really wanting to know where the Angel, whose wings these belong to, is, you take the wings and quickly depart.",
   "notes": [
     "After playing Angel Wings, the hero may move through borders and blocked fields. They may, however, not end their movement on a blocked field.",

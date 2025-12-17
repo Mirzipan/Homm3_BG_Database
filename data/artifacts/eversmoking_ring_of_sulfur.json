@@ -2,7 +2,7 @@
   "name": "Eversmoking Ring of Sulfur",
   "image": null,
   "type": "Minor Artifact",
-  "effect": null,
+  "effect": ":permanent: At the beginning of each Resources round, gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 2 :valuables:.",
   "flavor_text": "🚧",
   "notes": [],
   "comes_with": [

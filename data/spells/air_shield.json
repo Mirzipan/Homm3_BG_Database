@@ -2,7 +2,7 @@
   "name": "Air Shield",
   "image": null,
   "type": "Basic Air Spell",
-  "effect": "[Basic Air Spell](school_of_air_magic.md)",
+  "effect": null,
   "notes": [],
   "comes_with": [
     "Regular Stretch Goals 2024"

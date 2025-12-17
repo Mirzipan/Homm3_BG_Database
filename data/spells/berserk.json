@@ -2,7 +2,7 @@
   "name": "Berserk",
   "image": "../assets/spells-berserk.webp",
   "type": "Expert Fire Spell",
-  "effect": "[Expert Fire Spell](school_of_fire_magic.md)",
+  "effect": null,
   "notes": [
     "If there are multiple units that the shortest path away from the unit under this spell, the player owning the unit decides the direction of movement and the target of the attack.",
     "Friendly units can also be attacked by the unit under this spell.",

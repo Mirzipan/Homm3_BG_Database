@@ -2,7 +2,7 @@
   "name": "Fire Wall",
   "image": "../assets/spells-fire_wall.webp",
   "type": "Basic Fire Spell",
-  "effect": "[Basic Fire Spell](school_of_fire_magic.md)",
+  "effect": null,
   "notes": [
     "[^1] On the large battlefield, a Fire Wall token is placed onto the battlefield instead of the card."
   ],

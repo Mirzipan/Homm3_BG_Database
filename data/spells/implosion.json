@@ -2,7 +2,7 @@
   "name": "Implosion",
   "image": "../assets/spells-implosion.webp",
   "type": "Expert Earth Spell",
-  "effect": "[Expert Earth Spell](school_of_earth_magic.md)",
+  "effect": null,
   "notes": [
     "To play this spell, as least one spell power needs to also be played."
   ],

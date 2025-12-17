@@ -2,7 +2,7 @@
   "name": "Greater Gnoll's Flail",
   "image": "../assets/artifacts_minor-greater_gnolls_flail.webp",
   "type": "Minor Artifact",
-  "effect": null,
+  "effect": ":instant: +2 :attack:<br>:ongoing: Until the end of the Combat, this [unit](../units/index.md) suffers -1 :defense: (to a minimum of 0).<br><br>— OR —<br><br>:instant: +1 :attack:",
   "flavor_text": "A clumsy Gnoll has killed himself with his own flail. Knowing your superior skill with this weapon, you confidently remove the spectacular flail from the fallen creature.",
   "notes": [],
   "comes_with": [

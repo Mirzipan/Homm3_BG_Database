@@ -2,7 +2,7 @@
   "name": "Sandals of the Saint",
   "image": null,
   "type": "Relic Artifact",
-  "effect": null,
+  "effect": ":instant: Discard X cards from hand to gain +X :empower:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +3 :empower:.",
   "flavor_text": "🚧",
   "notes": [],
   "comes_with": [

@@ -2,7 +2,7 @@
   "name": "Blind",
   "image": "../assets/spells-blind.webp",
   "type": "Basic Fire Spell",
-  "effect": "[Basic Fire Spell](school_of_fire_magic.md)",
+  "effect": null,
   "notes": [
     "See [Paralysis](../keywords/paralysis.md)"
   ],

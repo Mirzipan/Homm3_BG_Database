@@ -2,7 +2,7 @@
   "name": "Summon Fire Elemental",
   "image": null,
   "type": "Expert Fire Spell",
-  "effect": "[Expert Fire Spell](school_of_fire_magic.md)",
+  "effect": null,
   "notes": [],
   "comes_with": [
     "Conflux Expansion"

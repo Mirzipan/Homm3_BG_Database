@@ -2,7 +2,7 @@
   "name": "Dragon Scale Armor",
   "image": "../assets/artifacts_relic-dragon_scale_armor.webp",
   "type": "Relic Artifact",
-  "effect": null,
+  "effect": ":instant: +2 :attack:<br><br>— OR —<br><br>:instant: +2 :defense:",
   "flavor_text": "You meet an old Armorer, who claims he owes you a favor. Taking him up on it, he pieces together some Dragon scales, forming a well-fashioned breastplate.",
   "notes": [],
   "comes_with": [

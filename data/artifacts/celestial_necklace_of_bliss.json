@@ -2,7 +2,7 @@
   "name": "Celestial Necklace of Bliss",
   "image": null,
   "type": "Relic Artifact",
-  "effect": null,
+  "effect": ":instant: Discard X cards from hand to gain +X :attack:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +3 :attack:.",
   "flavor_text": "After rescuing a Sorceress from a cursed tomb, she rewards your heroism with an exquisite jeweled necklace.",
   "notes": [],
   "comes_with": [

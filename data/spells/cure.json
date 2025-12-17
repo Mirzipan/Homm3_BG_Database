@@ -2,7 +2,7 @@
   "name": "Cure",
   "image": "../assets/spells-cure.webp",
   "type": "Basic Water Spell",
-  "effect": "[Basic Water Spell](school_of_water_magic.md)",
+  "effect": null,
   "notes": [
     "[^1] It is uncertain what it meant by \"effect\" here.",
     "[^2] Cure can only be cast on a friendly unit.",

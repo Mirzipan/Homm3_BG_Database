@@ -2,7 +2,7 @@
   "name": "Bloodlust",
   "image": "../assets/spells-bloodlust.webp",
   "type": "Basic Fire Spell",
-  "effect": "[Basic Fire Spell](school_of_fire_magic.md)",
+  "effect": null,
   "notes": [],
   "comes_with": [
     "Core Game"

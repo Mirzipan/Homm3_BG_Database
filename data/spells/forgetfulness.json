@@ -2,7 +2,7 @@
   "name": "Forgetfulness",
   "image": "../assets/spells-forgetfulness.webp",
   "type": "Basic Water Spell",
-  "effect": "[Basic Water Spell](school_of_water_magic.md)",
+  "effect": null,
   "notes": [],
   "comes_with": [
     "Rampart Expansion"

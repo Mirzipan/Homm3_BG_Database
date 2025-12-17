@@ -2,7 +2,7 @@
   "name": "Earthquake",
   "image": "../assets/spells-earthquake.webp",
   "type": "Basic Earth Spell",
-  "effect": "[Basic Earth Spell](school_of_earth_magic.md)",
+  "effect": null,
   "notes": [],
   "comes_with": [
     "Rampart Expansion"

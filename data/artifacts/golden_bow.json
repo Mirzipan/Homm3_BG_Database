@@ -2,7 +2,7 @@
   "name": "Golden Bow",
   "image": "../assets/artifacts_major-golden_bow.webp",
   "type": "Major Artifact",
-  "effect": null,
+  "effect": ":ongoing: During this Combat, your :unit_ranged: [units](../units/index.md) ignore the combat penalty.<br><br>— OR —<br><br>:instant: A :unit_ranged: [unit](../units/index.md) of your choice gains +2 :attack:.",
   "flavor_text": "A chance meeting with a famous Archer finds you in a game of knucklebones pitting his bow against your horse. You win.",
   "notes": [],
   "comes_with": [

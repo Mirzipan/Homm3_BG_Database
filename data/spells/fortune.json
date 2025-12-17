@@ -2,7 +2,7 @@
   "name": "Fortune",
   "image": "../assets/spells-fortune.webp",
   "type": "Basic Air Spell",
-  "effect": "[Basic Air Spell](school_of_air_magic.md)",
+  "effect": null,
   "notes": [
     "This card has to be played *before* rolling the die. It cannot be played after the die was rolled and the result of that roll is already known."
   ],

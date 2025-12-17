@@ -2,7 +2,7 @@
   "name": "Anti-Magic",
   "image": "../assets/spells-anti_magic.webp",
   "type": "Basic Earth Spell",
-  "effect": "[Basic Earth Spell](school_of_earth_magic.md)",
+  "effect": null,
   "notes": [
     "Units that are protected from spells via Anti-Magic are also immune to area effects of spells (e.g. [Fireball spell](../spells/fireball.md))."
   ],

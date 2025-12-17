@@ -2,7 +2,7 @@
   "name": "Necklace of Dragonteeth",
   "image": null,
   "type": "Major Artifact",
-  "effect": null,
+  "effect": ":instant: +2 :empower:.<br><br>— OR —<br><br>:ongoing: During this Combat, you can cast 2 [:spellpower:](../spells/index.md) per Combat round.",
   "flavor_text": "🚧",
   "notes": [],
   "comes_with": [

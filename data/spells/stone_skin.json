@@ -2,7 +2,7 @@
   "name": "Stone Skin",
   "image": "../assets/spells-stone_skin.webp",
   "type": "Basic Earth Spell",
-  "effect": "[Basic Earth Spell](school_of_earth_magic.md)",
+  "effect": null,
   "notes": [],
   "comes_with": [
     "Core Game"

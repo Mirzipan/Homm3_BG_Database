@@ -2,7 +2,7 @@
   "name": "Chain Lightning",
   "image": "../assets/spells-chain_lightning.webp",
   "type": "Expert Air Spell",
-  "effect": "[Expert Air Spell](school_of_air_magic.md)",
+  "effect": null,
   "notes": [
     "The :damage: from Chain Lightning also applies to friendly units.",
     "If multiple units are the same distance away from the target of this spell, the caster chooses which one of them receives the second damage and which one receives the third."
