@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-10-21 19:00+0000\n"
+"POT-Creation-Date: 2025-12-17 17:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -478,8 +478,9 @@ msgstr ""
 #: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/ciele.md
 #: docs/heroes/dessa.md docs/heroes/gerwulf.md docs/heroes/ingham.md
 #: docs/heroes/ivor.md docs/heroes/lorelei.md docs/heroes/melodia.md
-#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/octavia.md
-#: docs/heroes/pasis.md docs/heroes/sephinroth.md docs/heroes/tarnum_castle.md
+#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/sephinroth.md
+#: docs/heroes/septienna.md docs/heroes/tarnum_castle.md
 #: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
 #: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
 #: docs/heroes/valeska.md docs/spells/air_shield.md docs/spells/sacrifice.md
@@ -618,23 +619,6 @@ msgid "<p style=\"text-align: center;\" markdown>[Inferno](../towns/inferno.md)<
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/ash.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/erdamon.md docs/heroes/gerwulf.md docs/heroes/ingham.md
-#: docs/heroes/jeremy.md docs/heroes/merist.md docs/heroes/monere.md
-#: docs/heroes/octavia.md docs/heroes/tarnum_castle.md
-#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
-#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
-#: docs/heroes/zilare.md
-#, no-wrap
-msgid ""
-"| Level | Description |\n"
-"| :---: | :---: |\n"
-"| Ⅰ | 🚧 |\n"
-"| Ⅳ | 🚧 |\n"
-"| Ⅵ | 🚧 |\n"
-msgstr ""
-
-#. type: Plain text
 #: docs/heroes/catherine.md docs/heroes/fiona.md
 #: docs/heroes/lord_haart_castle.md docs/heroes/lorelei.md
 #: docs/heroes/mutare.md docs/heroes/octavia.md docs/heroes/rashka.md
@@ -708,4 +692,15 @@ msgid ""
 "    <figure markdown=\"span\">\n"
 "        ![Gold Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/heroes/octavia.md
+#, no-wrap
+msgid ""
+"| Level | Description |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: Play this card after rolling at least 1 [:resource_die:](../dice.md) to set 1 [:resource_die:](../dice.md) to \"6 :gold:\".<br><br>— OR —<br><br>:instant: Draw 1 card. |\n"
+"| Ⅳ | :instant: Roll and resolve 1 [:resource_die:](../dice.md).<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :attack:. |\n"
+"| Ⅵ | :instant: Roll 2 [:resource_die:](../dice.md) and resolve one of them.<br><br>— OR —<br><br>:instant: Draw 2 cards. |\n"
 msgstr ""

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-10-21 16:09+0000\n"
+"POT-Creation-Date: 2025-12-17 17:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -122,21 +122,25 @@ msgstr ""
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/fields/subterranean_gate.md docs/heroes/adelaide.md
-#: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/bron.md
-#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
-#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
-#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
-#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
-#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gundula.md
+#: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/ash.md
+#: docs/heroes/astra.md docs/heroes/bron.md docs/heroes/casmetra.md
+#: docs/heroes/cassiopeia.md docs/heroes/catherine.md docs/heroes/ciele.md
+#: docs/heroes/clancy.md docs/heroes/crag_hack.md docs/heroes/cyra.md
+#: docs/heroes/deemer.md docs/heroes/dessa.md docs/heroes/dracon.md
+#: docs/heroes/erdamon.md docs/heroes/fiona.md docs/heroes/gelu.md
+#: docs/heroes/gem.md docs/heroes/gerwulf.md docs/heroes/gundula.md
 #: docs/heroes/ingham.md docs/heroes/iona.md docs/heroes/ivor.md
 #: docs/heroes/jeddite.md docs/heroes/jeremy.md docs/heroes/josephine.md
 #: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
 #: docs/heroes/lorelei.md docs/heroes/luna.md docs/heroes/melodia.md
-#: docs/heroes/mephala.md docs/heroes/moandor.md docs/heroes/monere.md
-#: docs/heroes/mutare.md docs/heroes/pasis.md docs/heroes/rashka.md
+#: docs/heroes/mephala.md docs/heroes/merist.md docs/heroes/miriam.md
+#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/rashka.md
 #: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/sephinroth.md
 #: docs/heroes/septienna.md docs/heroes/shiva.md docs/heroes/solmyr.md
-#: docs/heroes/tamika.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tamika.md docs/heroes/tarnum_castle.md
+#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
 #: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
 #: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
@@ -351,21 +355,25 @@ msgstr ""
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
-#: docs/heroes/bron.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/catherine.md docs/heroes/ciele.md docs/heroes/clancy.md
-#: docs/heroes/crag_hack.md docs/heroes/cyra.md docs/heroes/deemer.md
-#: docs/heroes/dessa.md docs/heroes/dracon.md docs/heroes/erdamon.md
-#: docs/heroes/fiona.md docs/heroes/gelu.md docs/heroes/gem.md
+#: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/bron.md
+#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
+#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
+#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
+#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
+#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gerwulf.md
 #: docs/heroes/gundula.md docs/heroes/index.md docs/heroes/ingham.md
 #: docs/heroes/iona.md docs/heroes/ivor.md docs/heroes/jeddite.md
 #: docs/heroes/jeremy.md docs/heroes/josephine.md
 #: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
 #: docs/heroes/lorelei.md docs/heroes/luna.md docs/heroes/melodia.md
-#: docs/heroes/mephala.md docs/heroes/moandor.md docs/heroes/monere.md
-#: docs/heroes/mutare.md docs/heroes/pasis.md docs/heroes/rashka.md
+#: docs/heroes/mephala.md docs/heroes/merist.md docs/heroes/miriam.md
+#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/rashka.md
 #: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/sephinroth.md
 #: docs/heroes/septienna.md docs/heroes/shiva.md docs/heroes/solmyr.md
-#: docs/heroes/tamika.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tamika.md docs/heroes/tarnum_castle.md
+#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
 #: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
 #: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
@@ -463,21 +471,25 @@ msgstr ""
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
-#: docs/heroes/bron.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/catherine.md docs/heroes/ciele.md docs/heroes/clancy.md
-#: docs/heroes/crag_hack.md docs/heroes/cyra.md docs/heroes/deemer.md
-#: docs/heroes/dessa.md docs/heroes/dracon.md docs/heroes/erdamon.md
-#: docs/heroes/fiona.md docs/heroes/gelu.md docs/heroes/gem.md
+#: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/bron.md
+#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
+#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
+#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
+#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
+#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gerwulf.md
 #: docs/heroes/gundula.md docs/heroes/ingham.md docs/heroes/iona.md
 #: docs/heroes/ivor.md docs/heroes/jeddite.md docs/heroes/jeremy.md
 #: docs/heroes/josephine.md docs/heroes/lord_haart_castle.md
 #: docs/heroes/lord_haart_necropolis.md docs/heroes/lorelei.md
 #: docs/heroes/luna.md docs/heroes/melodia.md docs/heroes/mephala.md
-#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
+#: docs/heroes/monere.md docs/heroes/mutare.md docs/heroes/octavia.md
 #: docs/heroes/pasis.md docs/heroes/rashka.md docs/heroes/rion.md
 #: docs/heroes/sandro.md docs/heroes/sephinroth.md docs/heroes/septienna.md
 #: docs/heroes/shiva.md docs/heroes/solmyr.md docs/heroes/tamika.md
-#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_stronghold.md
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
+#: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
 #: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/valeska.md
 #: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
@@ -534,21 +546,25 @@ msgstr ""
 
 #. type: Title ##
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
-#: docs/heroes/bron.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/catherine.md docs/heroes/ciele.md docs/heroes/clancy.md
-#: docs/heroes/crag_hack.md docs/heroes/cyra.md docs/heroes/deemer.md
-#: docs/heroes/dessa.md docs/heroes/dracon.md docs/heroes/erdamon.md
-#: docs/heroes/fiona.md docs/heroes/gelu.md docs/heroes/gem.md
+#: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/bron.md
+#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
+#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
+#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
+#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
+#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gerwulf.md
 #: docs/heroes/gundula.md docs/heroes/ingham.md docs/heroes/iona.md
 #: docs/heroes/ivor.md docs/heroes/jeddite.md docs/heroes/jeremy.md
 #: docs/heroes/josephine.md docs/heroes/lord_haart_castle.md
 #: docs/heroes/lord_haart_necropolis.md docs/heroes/lorelei.md
 #: docs/heroes/luna.md docs/heroes/melodia.md docs/heroes/mephala.md
-#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
+#: docs/heroes/monere.md docs/heroes/mutare.md docs/heroes/octavia.md
 #: docs/heroes/pasis.md docs/heroes/rashka.md docs/heroes/rion.md
 #: docs/heroes/sandro.md docs/heroes/sephinroth.md docs/heroes/septienna.md
 #: docs/heroes/shiva.md docs/heroes/solmyr.md docs/heroes/tamika.md
-#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_stronghold.md
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
+#: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
 #: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/valeska.md
 #: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
@@ -558,21 +574,25 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
-#: docs/heroes/bron.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/catherine.md docs/heroes/ciele.md docs/heroes/clancy.md
-#: docs/heroes/crag_hack.md docs/heroes/cyra.md docs/heroes/deemer.md
-#: docs/heroes/dessa.md docs/heroes/dracon.md docs/heroes/erdamon.md
-#: docs/heroes/fiona.md docs/heroes/gelu.md docs/heroes/gem.md
+#: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/bron.md
+#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
+#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
+#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
+#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
+#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gerwulf.md
 #: docs/heroes/gundula.md docs/heroes/ingham.md docs/heroes/iona.md
 #: docs/heroes/ivor.md docs/heroes/jeddite.md docs/heroes/jeremy.md
 #: docs/heroes/josephine.md docs/heroes/lord_haart_castle.md
 #: docs/heroes/lord_haart_necropolis.md docs/heroes/lorelei.md
 #: docs/heroes/luna.md docs/heroes/melodia.md docs/heroes/mephala.md
-#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
+#: docs/heroes/monere.md docs/heroes/mutare.md docs/heroes/octavia.md
 #: docs/heroes/pasis.md docs/heroes/rashka.md docs/heroes/rion.md
 #: docs/heroes/sandro.md docs/heroes/sephinroth.md docs/heroes/septienna.md
 #: docs/heroes/shiva.md docs/heroes/solmyr.md docs/heroes/tamika.md
-#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_stronghold.md
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
+#: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
 #: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/valeska.md
 #: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
@@ -681,7 +701,7 @@ msgstr ""
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Thunderbirds unit](../units/thunderbirds.md). |\n"
-"| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Thunderbirds unit](../units/thunderbirds.md). |\n"
-"| Ⅵ | :instant: Your selected [unit](../units/index.md) gains +2 :attack: |\n"
+"| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Thunderbirds unit](../units/thunderbirds.md). |\n"
+"| Ⅳ | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :health_points:.<br><br>The effect doubles for the [Thunderbirds unit](../units/thunderbirds.md). |\n"
+"| Ⅵ | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +2 :initiative:.<br><br>The effect doubles for the [Thunderbirds unit](../units/thunderbirds.md).|\n"
 msgstr ""

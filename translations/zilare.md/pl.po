@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2024-10-21 17:38+0000\n"
+"POT-Creation-Date: 2025-12-17 17:56+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -601,23 +601,6 @@ msgid "[List of Heroes](index.md)"
 msgstr "[Lista Bohaterów](index.md)"
 
 #. type: Plain text
-#: docs/heroes/ash.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/erdamon.md docs/heroes/gerwulf.md docs/heroes/ingham.md
-#: docs/heroes/jeremy.md docs/heroes/merist.md docs/heroes/monere.md
-#: docs/heroes/octavia.md docs/heroes/tarnum_castle.md
-#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
-#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
-#: docs/heroes/zilare.md
-#, no-wrap
-msgid ""
-"| Level | Description |\n"
-"| :---: | :---: |\n"
-"| Ⅰ | 🚧 |\n"
-"| Ⅳ | 🚧 |\n"
-"| Ⅵ | 🚧 |\n"
-msgstr ""
-
-#. type: Plain text
 #: docs/heroes/astra.md docs/heroes/casmetra.md docs/heroes/zilare.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[:magic: Navigator](index.md)</p>\n"
@@ -631,9 +614,9 @@ msgid "<p style=\"text-align: center;\" markdown>[Cove](../towns/cove.md)</p>\n"
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/dessa.md docs/heroes/gundula.md docs/heroes/zilare.md
+#: docs/heroes/astra.md docs/heroes/casmetra.md docs/heroes/zilare.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 msgstr ""
 
 #. type: Title #
@@ -694,4 +677,15 @@ msgid ""
 "    <figure markdown=\"span\">\n"
 "        ![Forgetfulness Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/heroes/zilare.md
+#, no-wrap
+msgid ""
+"| Level | Description |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :ongoing: During its next activation, a [:unit_ranged: unit](../keywords/ranged_unit.md) of :bronze: or :silver: tier cannot attack.<br><br>— OR —<br><br>:instant: Draw 1 card. |\n"
+"| Ⅳ | :ongoing: During its next activation, a [:unit_ranged: unit](../keywords/ranged_unit.md) of :bronze:, :silver:, or :golden: tier cannot attack.<br><br>— OR —<br><br>:instant: +2 :empower: |\n"
+"| Ⅵ | :ongoing: During its next activation, a :bronze:, :silver:, or :golden: [unit](../keywords/ranged_unit.md) cannot attack.<br><br>— OR —<br><br>:instant: +2 :empower: |\n"
 msgstr ""

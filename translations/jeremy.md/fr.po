@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-10-21 17:38+0000\n"
+"POT-Creation-Date: 2025-12-17 17:56+0000\n"
 "PO-Revision-Date: 2024-10-21 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -601,23 +601,6 @@ msgid "[List of Heroes](index.md)"
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/ash.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/erdamon.md docs/heroes/gerwulf.md docs/heroes/ingham.md
-#: docs/heroes/jeremy.md docs/heroes/merist.md docs/heroes/monere.md
-#: docs/heroes/octavia.md docs/heroes/tarnum_castle.md
-#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
-#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
-#: docs/heroes/zilare.md
-#, no-wrap
-msgid ""
-"| Level | Description |\n"
-"| :---: | :---: |\n"
-"| Ⅰ | 🚧 |\n"
-"| Ⅳ | 🚧 |\n"
-"| Ⅵ | 🚧 |\n"
-msgstr ""
-
-#. type: Plain text
 #: docs/heroes/astra.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
 #: docs/heroes/jeremy.md docs/heroes/miriam.md docs/heroes/zilare.md
 #, no-wrap
@@ -695,4 +678,15 @@ msgid ""
 "    <figure markdown=\"span\">\n"
 "        ![Cannon Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/heroes/jeremy.md
+#, no-wrap
+msgid ""
+"| Level | Description |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :effect_map: Pay 7 :gold: to gain a [Cannon](../war_machines/cannon.md).<br><br>— OR —<br><br>:instant: Deal 1 :damage: to an enemy [unit](../units/index.md). |\n"
+"| Ⅳ | :instant: You can immediately use the [Cannon](../war_machines/cannon.md) once without spending the :expert:. It does not count against the [Cannon's](../war_machines/cannon.md) round limit.<br><br>— OR —<br><br>:instant: Draw 1 card. |\n"
+"| Ⅵ | :instant: You can immediately use the [Cannon](../war_machines/cannon.md) once without spending the :expert:. It does not count against the [Cannon's](../war_machines/cannon.md) round limit.<br><br>— OR —<br><br>:instant: Draw 2 cards. |\n"
 msgstr ""

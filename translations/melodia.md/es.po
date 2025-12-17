@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2024-10-21 17:38+0000\n"
+"POT-Creation-Date: 2025-12-17 17:56+0000\n"
 "PO-Revision-Date: 2024-10-21 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -478,8 +478,9 @@ msgstr "Ver También"
 #: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/ciele.md
 #: docs/heroes/dessa.md docs/heroes/gerwulf.md docs/heroes/ingham.md
 #: docs/heroes/ivor.md docs/heroes/lorelei.md docs/heroes/melodia.md
-#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/octavia.md
-#: docs/heroes/pasis.md docs/heroes/sephinroth.md docs/heroes/tarnum_castle.md
+#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/sephinroth.md
+#: docs/heroes/septienna.md docs/heroes/tarnum_castle.md
 #: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
 #: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
 #: docs/heroes/valeska.md docs/spells/air_shield.md docs/spells/sacrifice.md
@@ -700,14 +701,25 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/melodia.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "| Level | Description |\n"
+#| "| :---: | :---: |\n"
+#| "| Ⅰ | :instant: Gain 2 :gold:. |\n"
+#| "| Ⅳ | :instant: Gain 3 :gold:. |\n"
+#| "| Ⅵ | :instant: Gain 5 :gold:. |\n"
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Gain :morale_positive:. |\n"
-"| Ⅳ | :instant: Use this after any roll. You can reroll the [dice](../dice.md). |\n"
-"| Ⅵ | 🚧 |\n"
+"| Ⅰ | :instant: Gain :morale_positive: and 1 :gold:. |\n"
+"| Ⅳ | :instant: Roll 2 [:resource_die:](../dice.md) and resolve one of them.</br>Gain 1 :gold:. |\n"
+"| Ⅵ | :effect_map: During this turn, the number of dice you roll and resolve at locations is increased by 1. Gain 1 :gold:. |\n"
 msgstr ""
+"|Nivel |Descripción |\n"
+"| :---: | :---: |\n"
+"|Ⅰ | :instant_effect: Gane 2 :gold:.|\n"
+"|Ⅳ | :instant_effect: Gane 3 :gold:.|\n"
+"|Ⅵ | :instant_effect: Gane 5 :gold:.|\n"
 
 #. type: Bullet: '- '
 #: docs/heroes/melodia.md docs/heroes/sandro.md docs/heroes/tamika.md

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-10-21 17:38+0000\n"
+"POT-Creation-Date: 2025-12-17 17:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -478,8 +478,9 @@ msgstr ""
 #: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/ciele.md
 #: docs/heroes/dessa.md docs/heroes/gerwulf.md docs/heroes/ingham.md
 #: docs/heroes/ivor.md docs/heroes/lorelei.md docs/heroes/melodia.md
-#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/octavia.md
-#: docs/heroes/pasis.md docs/heroes/sephinroth.md docs/heroes/tarnum_castle.md
+#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/sephinroth.md
+#: docs/heroes/septienna.md docs/heroes/tarnum_castle.md
 #: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
 #: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
 #: docs/heroes/valeska.md docs/spells/air_shield.md docs/spells/sacrifice.md
@@ -695,7 +696,7 @@ msgstr ""
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: **Search(3)** [Ability](../abilities/index.md) deck. Then Remove this card. |\n"
-"| Ⅳ | :instant: **Search(2)** [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) deck. Then Remove this card. |\n"
-"| Ⅵ | :instant: **Search(3)** [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) deck. Then Remove this card. |\n"
+"| Ⅰ | :instant: Remove 1 [Ability](../abilities/index.md) card from your hand to **Search(2)** the [Ability](../abilities/index.md) deck. Then, you may Remove this Specialty card. |\n"
+"| Ⅳ | :instant: Remove 1 [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) card from your hand to **Search(2)** the corresponding deck. Then, you may Remove this Specialty card. |\n"
+"| Ⅵ | :instant: Remove 1 [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) card from your hand to **Search(4)** the corresponding deck. Then, you may Remove this Specialty card.  |\n"
 msgstr ""
