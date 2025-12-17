@@ -14,22 +14,22 @@ ___
 
 ## Specialty
 
-=== "🚧 Ⅰ"
+=== "Enchanters Ⅰ"
 
     <figure markdown="span">
         ![🚧 Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
-=== "🚧 Ⅳ"
+=== "Enchanters Ⅳ"
 
     <figure markdown="span">
         ![🚧 Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
-=== "🚧 Ⅵ"
+=== "Enchanters Ⅵ"
 
     <figure markdown="span">
-        ![🚧 Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Enchanters Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 
@@ -47,6 +47,10 @@ ___
 
 ## See Also
 
+- [Tarnum (Castle)](tarnum_castle.md)
+- [Tarnum (Dungeon)](tarnum_dungeon.md)
+- [Tarnum (Fortress)](tarnum_fortress.md)
+- [Tarnum (Rampart)](tarnum_rampart.md)
 - [Tarnum (Stronghold)](tarnum_stronghold.md)
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)

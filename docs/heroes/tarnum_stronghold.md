@@ -47,7 +47,11 @@ ___
 
 ## See Also
 
+- [Tarnum (Castle)](tarnum_castle.md)
 - [Tarnum (Conflux)](tarnum_conflux.md)
+- [Tarnum (Dungeon)](tarnum_dungeon.md)
+- [Tarnum (Fortress)](tarnum_fortress.md)
+- [Tarnum (Rampart)](tarnum_rampart.md)
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
 

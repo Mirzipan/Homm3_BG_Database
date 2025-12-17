@@ -9,7 +9,7 @@ ___
 
 <p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>
 ___
-<p style="text-align: center;" markdown>[Fire Magic](../abilities/fire_magic.md)</p>
+<p style="text-align: center;" markdown>[Basic Fire Magic](../abilities/basic_fire_magic.md)</p>
 ___
 
 ## Specialty

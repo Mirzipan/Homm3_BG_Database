@@ -14,22 +14,22 @@ ___
 
 ## Specialty
 
-=== "🚧 Ⅰ"
+=== "Sorceresses Ⅰ"
 
     <figure markdown="span">
-        ![🚧 Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Sorceresses Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
-=== "🚧 Ⅳ"
+=== "Sorceresses Ⅳ"
 
     <figure markdown="span">
-        ![🚧 Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Sorceresses Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
-=== "🚧 Ⅵ"
+=== "Sorceresses Ⅵ"
 
     <figure markdown="span">
-        ![🚧 Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Sorceresses Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 

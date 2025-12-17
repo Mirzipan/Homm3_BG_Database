@@ -14,22 +14,22 @@ ___
 
 ## Specialty
 
-=== "Valueables Ⅰ"
+=== "Valuables Ⅰ"
 
     <figure markdown="span">
-        ![Valueables Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Valuables Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
-=== "Valueables Ⅳ"
+=== "Valuables Ⅳ"
 
     <figure markdown="span">
-        ![Valueables Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Valuebles Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
-=== "Valueables Ⅵ"
+=== "Valuables Ⅵ"
 
     <figure markdown="span">
-        ![Valueables Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Valuables Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 
