@@ -2,7 +2,7 @@
   "name": "Armorer",
   "image": "../assets/abilities-armorer.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: +2 :defense:<br>Then draw 1 card.",
+  "effect": ":instant: +1 :defense:<br>Then draw 1 card.",
   "expert_effect": ":instant: +2 :defense:<br>Then draw 1 card.",
   "heroes": [
     "Gerwulf",

@@ -12,7 +12,6 @@
   "starting_ability": "Offense",
   "specialty": {
     "name": "Offense",
-    "images": [],
     "levels": {
       "Ⅰ": ":ongoing: Your selected unit gains +1 :attack:.",
       "Ⅳ": "🚧 Your selected unit gains +1 :attack:.",

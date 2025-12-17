@@ -158,18 +158,24 @@ class HeroGenerator(MarkdownGenerator):
         specialty = data.get('specialty', {})
         if specialty:
             specialty_name = specialty.get('name', '')
-            images = specialty.get('images', [])
             levels_dict = specialty.get('levels', {})
+            
+            # Generate image paths dynamically
+            # Pattern: ../assets/hero_specialties-{town_lowercase}-{hero_lowercase}-{level_number}.webp
+            town_lower = slugify(data.get('town', ''))
+            hero_lower = slugify(data.get('name', ''))
             
             # Create tabs for each specialty level
             tabs = []
             level_names = ['Ⅰ', 'Ⅳ', 'Ⅵ']
-            for i, level in enumerate(level_names):
-                if i < len(images):
+            level_numbers = ['1', '4', '7']  # The actual numbers used in filenames
+            for level, level_num in zip(level_names, level_numbers):
+                if level in levels_dict:  # Only add tabs for levels that have descriptions
+                    image_path = f"../assets/hero_specialties-{town_lower}-{hero_lower}-{level_num}.webp"
                     tabs.append({
                         'name': specialty_name,
                         'level': level,
-                        'image': images[i]
+                        'image': image_path
                     })
             template_data['specialty_tabs'] = tabs
             

@@ -12,11 +12,6 @@
   "starting_ability": "Estates",
   "specialty": {
     "name": "Estates",
-    "images": [
-      "../assets/hero_specialties-castle-lord_haart-1.webp",
-      "../assets/hero_specialties-castle-lord_haart-4.webp",
-      "../assets/hero_specialties-castle-lord_haart-7.webp"
-    ],
     "levels": {
       "Ⅰ": ":instant: Gain 2 :gold:.",
       "Ⅳ": ":instant: Gain 3 :gold:.",

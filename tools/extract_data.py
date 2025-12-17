@@ -108,8 +108,8 @@ class HeroExtractor(MarkdownExtractor):
         name_match = re.search(r'=== "([^Ⅰ]+)', specialty_section)
         name = name_match.group(1).strip() if name_match else ""
         
-        # Extract specialty images
-        images = re.findall(r'!\[.+?\]\((\.\./assets/hero_specialties-.+?\.webp)\)', specialty_section)
+        # Note: Images are not extracted - they will be generated in the template
+        # based on the pattern: ../assets/hero_specialties-{town_lowercase}-{hero_lowercase}-{level}.webp
         
         # Extract specialty levels table
         levels = {}
@@ -125,7 +125,6 @@ class HeroExtractor(MarkdownExtractor):
         
         return {
             "name": name,
-            "images": images,
             "levels": levels
         }
     
@@ -411,11 +410,23 @@ class AbilityExtractor(MarkdownExtractor):
         return data
     
     def extract_effect(self, content: str) -> Optional[str]:
-        """Extract ability effect."""
-        pattern = r'___\s*<p style="text-align: center;" markdown>(.+?)</p>\s*___'
+        """Extract ability effect (the non-expert version)."""
+        # Look for centered paragraphs
+        pattern = r'<p style="text-align: center;" markdown>(.+?)</p>'
         matches = re.findall(pattern, content, re.DOTALL)
-        if len(matches) >= 2:
-            return matches[1].strip()
+        
+        # Find the effect paragraph (not the [Ability] link, and not containing :expert:)
+        for match in matches:
+            match_stripped = match.strip()
+            # Skip the ability type link
+            if '[Ability]' in match_stripped:
+                continue
+            # Skip if it's just the expert marker
+            if match_stripped == ':expert:':
+                continue
+            # This should be the regular effect (before expert)
+            if ':expert:' not in match_stripped and len(match_stripped) > 20:
+                return match_stripped
         return None
     
     def extract_expert_effect(self, content: str) -> Optional[str]:

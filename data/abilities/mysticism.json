@@ -2,7 +2,7 @@
   "name": "Mysticism",
   "image": "../assets/abilities-mysticism.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: Play this card immediately after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card and all other cards player together with it, take them back to your hand.",
+  "effect": ":instant: Play this card immediately after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back into your hand.",
   "expert_effect": ":instant: Play this card immediately after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card and all other cards player together with it, take them back to your hand.",
   "heroes": [
     "Ingham",

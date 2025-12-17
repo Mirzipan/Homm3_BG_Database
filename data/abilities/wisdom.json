@@ -2,7 +2,7 @@
   "name": "Wisdom",
   "image": "../assets/abilities-wisdom.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: The cost of buying [spells](../spells/index.md) in this Town is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(4)** instead of **Search(2)**.",
+  "effect": ":instant: The cost of buying [spells](../spells/index.md) in this Town is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(3)** instead of **Search(2)**.",
   "expert_effect": ":instant: The cost of buying [spells](../spells/index.md) in this Town is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(4)** instead of **Search(2)**.",
   "heroes": [
     "Adelaide",

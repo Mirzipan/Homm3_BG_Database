@@ -2,7 +2,7 @@
   "name": "Interference",
   "image": null,
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>🚧",
+  "effect": null,
   "expert_effect": "🚧",
   "heroes": [
     "Zilare"

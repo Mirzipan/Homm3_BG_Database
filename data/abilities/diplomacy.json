@@ -2,7 +2,7 @@
   "name": "Diplomacy",
   "image": "../assets/abilities-diplomacy.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: Skip Combat with [Neutral Units](../units/index.md) on a field whose Field Difficulty is equal to your Hero's level. Visit the field. This Hero gains no Experience.",
+  "effect": ":effect_map: For every Dwelling you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can **Recruit** one of these [units](../units/index.md) if you :pay: its Recruitment cost.",
   "expert_effect": ":instant: Skip Combat with [Neutral Units](../units/index.md) on a field whose Field Difficulty is equal to your Hero's level. Visit the field. This Hero gains no Experience.",
   "heroes": [
     "Cyra"

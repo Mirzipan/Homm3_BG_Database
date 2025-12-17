@@ -12,11 +12,6 @@
   "starting_ability": "Armorer",
   "specialty": {
     "name": "War Hero",
-    "images": [
-      "../assets/hero_specialties-fortress-tazar-1.webp",
-      "../assets/hero_specialties-fortress-tazar-4.webp",
-      "../assets/hero_specialties-fortress-tazar-7.webp"
-    ],
     "levels": {
       "Ⅰ": ":instant: +2 :defense:",
       "Ⅳ": ":ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :defense:.",

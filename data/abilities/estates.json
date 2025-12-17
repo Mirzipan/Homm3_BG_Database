@@ -2,7 +2,7 @@
   "name": "Estates",
   "image": "../assets/abilities-estates.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: Gain 6 :gold:.",
+  "effect": ":instant: Gain 3 :gold:.",
   "expert_effect": ":instant: Gain 6 :gold:.",
   "heroes": [
     "Erdamon",

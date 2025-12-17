@@ -2,7 +2,7 @@
   "name": "Artillery",
   "image": "../assets/abilities-artillery.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: When using the [Ballista](../war_machines/ballista.md) card, resolve its effect against the same target 3 times.",
+  "effect": ":instant: Deal 1 :damage: to an enemy [unit](../units/index.md) with the lowest :initiative:.",
   "expert_effect": ":instant: When using the [Ballista](../war_machines/ballista.md) card, resolve its effect against the same target 3 times.",
   "heroes": [
     "Pasis",

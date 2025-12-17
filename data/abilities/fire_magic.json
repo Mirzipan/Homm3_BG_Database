@@ -2,7 +2,7 @@
   "name": "Fire Magic",
   "image": "../assets/abilities-fire_magic.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>While casting :spellpower: from the [School of Fire](../spells/school_of_fire_magic.md), you can discard this card, then gain +3 :empower:.",
+  "effect": ":permanent: +1 :empower: for spells from [School of Fire Magic](../spells/school_of_fire_magic.md).",
   "expert_effect": "While casting :spellpower: from the [School of Fire](../spells/school_of_fire_magic.md), you can discard this card, then gain +3 :empower:.",
   "heroes": [
     "Luna"

@@ -12,11 +12,6 @@
   "starting_ability": "Wisdom",
   "specialty": {
     "name": "Resurrection",
-    "images": [
-      "../assets/hero_specialties-dungeon-alamar-1.webp",
-      "../assets/hero_specialties-dungeon-alamar-4.webp",
-      "../assets/hero_specialties-dungeon-alamar-7.webp"
-    ],
     "levels": {
       "Ⅰ": ":instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 1 - \\*:bronze:<br>:empower: 2 - \\*:silver:<br>:empower: 4 - \\*:golden:",
       "Ⅳ": ":instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \\*:bronze:<br>:empower: 1 - \\*:silver:<br>:empower: 3 - \\*:golden:",

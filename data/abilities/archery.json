@@ -2,7 +2,7 @@
   "name": "Archery",
   "image": "../assets/abilities-archery.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:ongoing: Until the end of the next Combat round, your [Ranged units](../keywords/ranged_unit.md) gain +1 :initiative: and +1 :attack: if the target is a non-adjacent [unit](../units/index.md).",
+  "effect": ":ongoing: During this Combat round, your [Ranged units](../keywords/ranged_unit.md) gain +1 :attack: if the target is a non-adjacent [unit](../units/index.md).",
   "expert_effect": ":ongoing: Until the end of the next Combat round, your [Ranged units](../keywords/ranged_unit.md) gain +1 :initiative: and +1 :attack: if the target is a non-adjacent [unit](../units/index.md).",
   "heroes": [
     "Gelu",

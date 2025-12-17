@@ -2,7 +2,7 @@
   "name": "Luck",
   "image": "../assets/abilities-luck.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:ongoing: You can reroll any [die](../dice.md) once during this turn.",
+  "effect": ":ongoing: You can reroll a [Treasure die](../dice.md#treasure-die) and a [Resource die](../dice.md#resource-die) once during this turn.",
   "expert_effect": ":ongoing: You can reroll any [die](../dice.md) once during this turn.",
   "heroes": [
     "Astra",

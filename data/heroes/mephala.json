@@ -12,11 +12,6 @@
   "starting_ability": "Leadership",
   "specialty": {
     "name": "Armorer",
-    "images": [
-      "../assets/hero_specialties-rampart-mephala-1.webp",
-      "../assets/hero_specialties-rampart-mephala-4.webp",
-      "../assets/hero_specialties-rampart-mephala-7.webp"
-    ],
     "levels": {
       "Ⅰ": ":instant: +2 :defense:",
       "Ⅳ": ":instant: +3 :defense:",

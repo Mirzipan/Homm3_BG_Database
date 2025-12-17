@@ -2,7 +2,7 @@
   "name": "Learning",
   "image": "../assets/abilities-learning.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: Play when the [Hero](../heroes/index.md) is about to level up. Advance their Experience Level by an additional level, then Remove this card.",
+  "effect": ":instant: Play when the [Hero](../heroes/index.md) is about to level up. Advance their Experience Level by an additional half level.",
   "expert_effect": ":instant: Play when the [Hero](../heroes/index.md) is about to level up. Advance their Experience Level by an additional level, then Remove this card.",
   "heroes": [],
   "comes_with": [

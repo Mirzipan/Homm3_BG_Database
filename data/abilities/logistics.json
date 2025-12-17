@@ -2,7 +2,7 @@
   "name": "Logistics",
   "image": "../assets/abilities-logistics.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: Your Hero gains +1 Movement.",
+  "effect": ":ongoing: At the end of your turn, move your Hero's model to an adjacent empty field.",
   "expert_effect": ":instant: Your Hero gains +1 Movement.",
   "heroes": [
     "Dessa",

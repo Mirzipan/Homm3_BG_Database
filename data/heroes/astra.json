@@ -12,7 +12,6 @@
   "starting_ability": "Luck",
   "specialty": {
     "name": "Cure",
-    "images": [],
     "levels": {
       "Ⅰ": "instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), then draw 1 card.",
       "Ⅳ": "instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), and remove up to 2 :damage: from the selected [unit](../units/index.md).",

@@ -12,11 +12,6 @@
   "starting_ability": "Leadership",
   "specialty": {
     "name": "Crusaders",
-    "images": [
-      "../assets/hero_specialties-castle-catherine-1.webp",
-      "../assets/hero_specialties-castle-catherine-4.webp",
-      "../assets/hero_specialties-castle-catherine-7.webp"
-    ],
     "levels": {
       "Ⅰ": ":instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Crusaders unit](../units/crusaders.md).",
       "Ⅳ": ":ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Crusaders unit](../units/crusaders.md).",

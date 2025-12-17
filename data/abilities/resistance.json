@@ -2,7 +2,7 @@
   "name": "Resistance",
   "image": "../assets/abilities-resistance.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). Ignore the [Spell](../spells/index.md) card's effect.",
+  "effect": ":instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). If the spell was cast with 1 :empower: or less, ignore the [Spell](../spells/index.md) card's effect.",
   "expert_effect": ":instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). Ignore the [Spell](../spells/index.md) card's effect.",
   "heroes": [
     "Bron"

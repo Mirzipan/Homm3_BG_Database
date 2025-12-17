@@ -12,11 +12,6 @@
   "starting_ability": "Wisdom",
   "specialty": {
     "name": "Inferno",
-    "images": [
-      "../assets/hero_specialties-inferno-xyron-1.webp",
-      "../assets/hero_specialties-inferno-xyron-4.webp",
-      "../assets/hero_specialties-inferno-xyron-7.webp"
-    ],
     "levels": {
       "Ⅰ": ":activation: Discard 2 cards. Then select a space. All [units](../units/index.md) on this and the adjacent spaces take 1 :damage:.",
       "Ⅳ": ":activation: Discard 1 card. Then select a space. All [units](../units/index.md) on this and the adjacent spaces take 1 :damage:.",

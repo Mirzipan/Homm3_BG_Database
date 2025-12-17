@@ -2,7 +2,7 @@
   "name": "Scholar",
   "image": "../assets/abilities-scholar.webp",
   "type": "Ability",
-  "effect": ":expert: </p>\n\n<p style=\"text-align: center;\" markdown>:effect_map: Remove up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile. Remove the Scholar.",
+  "effect": ":instant: Choose 1 card from your discard pile and add it to your hand.",
   "expert_effect": ":effect_map: Remove up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile. Remove the Scholar.",
   "heroes": [
     "Octavia",

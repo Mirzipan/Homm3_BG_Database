@@ -12,7 +12,6 @@
   "starting_ability": "Luck",
   "specialty": {
     "name": "Fortune",
-    "images": [],
     "levels": {
       "Ⅰ": ":instant: Gain :morale_positive:.",
       "Ⅳ": ":instant: Use this after any roll. You can reroll the [dice](../dice.md).",

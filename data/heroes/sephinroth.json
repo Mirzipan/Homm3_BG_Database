@@ -12,7 +12,6 @@
   "starting_ability": "Intelligence",
   "specialty": {
     "name": "Valueables",
-    "images": [],
     "levels": {
       "Ⅰ": ":effect_map: Pay 2 :gold: to gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card.",
       "Ⅳ": ":effect_map: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card.",
