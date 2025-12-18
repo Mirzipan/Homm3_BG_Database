@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-03-05 21:24+0000\n"
+"POT-Creation-Date: 2025-12-17 17:56+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -190,7 +190,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -432,7 +432,7 @@ msgstr "Viene Con"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -524,7 +524,7 @@ msgstr "[Metas Ampliadas Regulares 2024](../content/regular_stretch_goals.md)"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -696,11 +696,22 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/moandor.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "| Level | Description |\n"
+#| "| :---: | :---: |\n"
+#| "| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Basilisks unit](../units/basilisks.md). |\n"
+#| "| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Basilisks unit](../units/basilisks.md). |\n"
+#| "| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2.<br><br>This effect doubles for the [Basilisks unit](../units/basilisks.md). |\n"
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Liches unit](../units/liches.md). |\n"
-"| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Liches unit](../units/liches.md). |\n"
-"| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Liches unit](../units/liches.md). |\n"
+"| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Liches unit](../units/liches.md). |\n"
+"| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>The effect doubles for the [Liches unit](../units/liches.md). |\n"
+"| Ⅵ | :ongoing: For this Combat, your [Liches unit](../units/liches.md) deals elemental damage.<br><br>:instant: +2 :attack: |\n"
 msgstr ""
+"| Nivel | Descripción |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: Tu [unidad](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unidad](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para la [unidad Basiliscos](../units/basilisks.md). |\n"
+"| Ⅳ | :ongoing: Durante este Combate, la :health_points: de tu [unit's](../units/index.md) se incrementa en 1.<br><br>Este efecto es doble para la [unidad Basiliscos](../units/basilisks.md). |\n"
+"| Ⅵ | :ongoing: Durante este Combate, la :initiative: de tu [unit's](../units/index.md) se incrementa en 2.<br><br>Este efecto es doble para la [unidad Basiliscos](../units/basilisks.md). |\n"

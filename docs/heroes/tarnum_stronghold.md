@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :ongoing: Your selected unit gains +1 :attack:. |
-| Ⅳ | 🚧 Your selected unit gains +1 :attack:. |
-| Ⅵ | 🚧 Your selected unit gains +2 :attack:. |
+| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Draw 1 card. |
+| Ⅳ | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :attack:. |
+| Ⅵ | :instant: Your selected [unit](../units/index.md) gains +3 :attack:. |
 
 
 ## Comes With
@@ -47,7 +47,11 @@ ___
 
 ## See Also
 
+- [Tarnum (Castle)](tarnum_castle.md)
 - [Tarnum (Conflux)](tarnum_conflux.md)
+- [Tarnum (Dungeon)](tarnum_dungeon.md)
+- [Tarnum (Fortress)](tarnum_fortress.md)
+- [Tarnum (Rampart)](tarnum_rampart.md)
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
 

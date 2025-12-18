@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :activation: Enemy :bronze: units suffer 1 :damage:. |
-| Ⅳ | :activation: Enemy :silver: units suffer 1 :damage:. |
-| Ⅵ | :activation: Enemy :golden: and :azure: units suffer 2 :damage:. |
+| Ⅰ | :activation: Enemy :bronze: [units](../units/index.md) suffer 1 :damage:.<br><br>— OR —<br><br>:instant: +1 :empower: |
+| Ⅳ | :activation: Enemy :silver: [units](../units/index.md) suffer 1 :damage:.<br><br>— OR —<br><br>:instant: +1 :empower: |
+| Ⅵ | :activation: Enemy :golden: and :azure: [units](../units/index.md) suffer 2 :damage:.<br><br>— OR —<br><br>:instant: +2 :empower: |
 
 
 ## Comes With

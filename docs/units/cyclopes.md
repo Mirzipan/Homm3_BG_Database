@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Cyclops](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Few Cyclopes](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Cyclops](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Pack of Cyclopes](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Cyclops](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Neutral Cyclopes](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
 

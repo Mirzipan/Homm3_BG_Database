@@ -167,7 +167,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -367,7 +367,7 @@ msgstr "Viene Con"
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -432,7 +432,7 @@ msgstr "Ver También"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -467,7 +467,7 @@ msgstr "[Lista de Ciudades](../towns/index.md)"
 #. type: Bullet: '- '
 #: docs/heroes/crag_hack.md docs/heroes/gundula.md docs/heroes/shiva.md
 #: docs/heroes/yog.md docs/towns/stronghold.md docs/units/behemoths.md
-#: docs/units/cyclops.md docs/units/goblins.md docs/units/ogres.md
+#: docs/units/cyclopes.md docs/units/goblins.md docs/units/ogres.md
 #: docs/units/orcs.md docs/units/thunderbirds.md docs/units/wolf_raiders.md
 msgid "[Stronghold Expansion](../content/stronghold_expansion.md)"
 msgstr "[Expansión de Bastión](../content/stronghold_expansion.md)"
@@ -477,7 +477,7 @@ msgstr "[Expansión de Bastión](../content/stronghold_expansion.md)"
 #: docs/units/archangels.md docs/units/ayssids.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/cyclops.md docs/units/demons.md docs/units/dendroids.md
+#: docs/units/cyclopes.md docs/units/demons.md docs/units/dendroids.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
 #: docs/units/energy_elementals.md docs/units/evil_eyes.md
@@ -508,7 +508,7 @@ msgstr "=== \"Pocos\""
 #: docs/units/archangels.md docs/units/ayssids.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/cyclops.md docs/units/demons.md docs/units/dendroids.md
+#: docs/units/cyclopes.md docs/units/demons.md docs/units/dendroids.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
 #: docs/units/energy_elementals.md docs/units/evil_eyes.md
@@ -540,7 +540,7 @@ msgstr "=== \"Manada\""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -575,7 +575,7 @@ msgstr "[Lista de Unidades](index.md)"
 #: docs/units/arch_devils.md docs/units/archangels.md docs/units/ayssids.md
 #: docs/units/basilisks.md docs/units/behemoths.md docs/units/black_dragons.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crusaders.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/dragon_flies.md
 #: docs/units/dread_knights.md docs/units/dwarves.md docs/units/efreet.md
 #: docs/units/elves.md docs/units/energy_elementals.md docs/units/evil_eyes.md
@@ -603,7 +603,7 @@ msgstr "=== \"Neutral\""
 #. type: Title ##
 #: docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/black_dragons.md docs/units/cerberi.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/dread_knights.md docs/units/efreet.md docs/units/elves.md
 #: docs/units/enchanters.md docs/units/faerie_dragons.md docs/units/genies.md
 #: docs/units/ghost_dragons.md docs/units/gold_dragons.md docs/units/harpies.md

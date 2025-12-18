@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2024-10-21 17:38+0000\n"
+"POT-Creation-Date: 2025-12-18 01:47+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -190,7 +190,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -432,7 +432,7 @@ msgstr "Pochodzi z"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -502,7 +502,7 @@ msgstr "Zobacz też"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -598,65 +598,6 @@ msgid "[List of Heroes](index.md)"
 msgstr "[Lista Bohaterów](index.md)"
 
 #. type: Plain text
-#: docs/heroes/ash.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/erdamon.md docs/heroes/gerwulf.md docs/heroes/ingham.md
-#: docs/heroes/jeremy.md docs/heroes/merist.md docs/heroes/monere.md
-#: docs/heroes/octavia.md docs/heroes/tarnum_castle.md
-#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
-#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
-#: docs/heroes/zilare.md
-#, no-wrap
-msgid ""
-"| Level | Description |\n"
-"| :---: | :---: |\n"
-"| Ⅰ | 🚧 |\n"
-"| Ⅳ | 🚧 |\n"
-"| Ⅵ | 🚧 |\n"
-msgstr ""
-
-#. type: Plain text
-#: docs/heroes/casmetra.md docs/heroes/tarnum_conflux.md
-msgid "=== \"🚧 Ⅰ\""
-msgstr ""
-
-#. type: Plain text
-#: docs/heroes/casmetra.md docs/heroes/tarnum_conflux.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![🚧 Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
-
-#. type: Plain text
-#: docs/heroes/casmetra.md docs/heroes/tarnum_conflux.md
-msgid "=== \"🚧 Ⅳ\""
-msgstr ""
-
-#. type: Plain text
-#: docs/heroes/casmetra.md docs/heroes/tarnum_conflux.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![🚧 Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
-
-#. type: Plain text
-#: docs/heroes/casmetra.md docs/heroes/tarnum_conflux.md
-msgid "=== \"🚧 Ⅵ\""
-msgstr ""
-
-#. type: Plain text
-#: docs/heroes/casmetra.md docs/heroes/tarnum_conflux.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![🚧 Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
-
-#. type: Plain text
 #: docs/heroes/ciele.md docs/heroes/luna.md docs/heroes/tarnum_conflux.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>[:magic: Elementalist](index.md)</p>\n"
@@ -676,6 +617,21 @@ msgstr ""
 msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
 msgstr ""
 
+#. type: Plain text
+#: docs/heroes/dracon.md docs/heroes/tarnum_conflux.md
+msgid "=== \"Enchanters Ⅰ\""
+msgstr ""
+
+#. type: Plain text
+#: docs/heroes/dracon.md docs/heroes/tarnum_conflux.md
+msgid "=== \"Enchanters Ⅳ\""
+msgstr ""
+
+#. type: Plain text
+#: docs/heroes/dracon.md docs/heroes/tarnum_conflux.md
+msgid "=== \"Enchanters Ⅵ\""
+msgstr ""
+
 #. type: Bullet: '- '
 #: docs/heroes/erdamon.md docs/heroes/luna.md docs/heroes/monere.md
 #: docs/heroes/tarnum_conflux.md docs/spells/summon_air_elemental.md
@@ -687,6 +643,37 @@ msgstr ""
 #: docs/units/magma_elementals.md docs/units/phoenixes.md docs/units/sprites.md
 #: docs/units/storm_elementals.md docs/units/water_elementals.md
 msgid "[Conflux Expansion](../content/conflux_expansion.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
+#: docs/heroes/tarnum_stronghold.md
+#, fuzzy
+msgid "[Tarnum (Dungeon)](tarnum_dungeon.md)"
+msgstr "[Lista Jednostek](units/index.md)"
+
+#. type: Bullet: '- '
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_rampart.md
+#: docs/heroes/tarnum_stronghold.md
+#, fuzzy
+msgid "[Tarnum (Fortress)](tarnum_fortress.md)"
+msgstr "[Lista Jednostek](units/index.md)"
+
+#. type: Bullet: '- '
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
+#: docs/heroes/tarnum_stronghold.md
+#, fuzzy
+msgid "[Tarnum (Rampart)](tarnum_rampart.md)"
+msgstr "[Lista Jednostek](units/index.md)"
+
+#. type: Bullet: '- '
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
+#: docs/heroes/tarnum_rampart.md
+msgid "[Tarnum (Stronghold)](tarnum_stronghold.md)"
 msgstr ""
 
 #. type: Title #
@@ -701,7 +688,48 @@ msgstr "Tarnum (Wrota Żywiołów)"
 msgid "<p style=\"text-align: center;\" markdown>![Tarnum (Conflux)](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
 msgstr ""
 
-#. type: Bullet: '- '
+#. type: Plain text
 #: docs/heroes/tarnum_conflux.md
-msgid "[Tarnum (Stronghold)](tarnum_stronghold.md)"
+#, no-wrap
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![🚧 Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 msgstr ""
+
+#. type: Plain text
+#: docs/heroes/tarnum_conflux.md
+#, no-wrap
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![🚧 Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/heroes/tarnum_conflux.md
+#, fuzzy, no-wrap
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Enchanters Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+msgstr "[Lista Jednostek](units/index.md)"
+
+#. type: Plain text
+#: docs/heroes/tarnum_conflux.md
+#, no-wrap
+msgid ""
+"| Level | Description |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: **Search(1)** [:spellpower:](../spells/index.md). You can Remove this card instead of taking it into your hand. |\n"
+"| Ⅳ | :effect_map: :pay: 10 :gold:, then find the [Enchanters](../units/enchanters.md) card in the [:golden: Neutral Unit](../units/index.md) deck and add it to your [Unit](../units/index.md) deck. You can control only 1 [Enchanters unit](../units/enchanters.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |\n"
+"| Ⅵ | :instant: **Search(1)** [:spellpower:](../spells/index.md) twice. If their type allows it, and you have enough :empower: available, you can immediately cast one or both of these [spells](../spells/index.md), even if you already cast a spell this round. Place each spell you use this way on the top of the [Spell](../spells/index.md) deck or on its discard pile in any order. |\n"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
+#: docs/heroes/tarnum_stronghold.md
+#, fuzzy
+msgid "[Tarnum (Castle)](tarnum_castle.md)"
+msgstr "[Kafelek Daleki](far_tile.md)"

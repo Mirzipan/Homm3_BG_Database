@@ -241,7 +241,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/stronghold.md
-msgid ":golden: [Cyclops](../units/cyclops.md)"
+msgid ":golden: [Cyclopes](../units/cyclopes.md)"
 msgstr ""
 
 #. type: Bullet: '- '

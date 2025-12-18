@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2024-10-21 17:38+0000\n"
+"POT-Creation-Date: 2025-12-17 17:56+0000\n"
 "PO-Revision-Date: 2025-02-20 08:03+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
@@ -191,7 +191,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -433,7 +433,7 @@ msgstr "Viene Con"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -514,7 +514,7 @@ msgstr "[Expansión de Ensenada](../content/cove_expansion.md)"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -600,28 +600,6 @@ msgstr "Especialidad"
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
 msgid "[List of Heroes](index.md)"
 msgstr "[Lista de Héroes](index.md)"
-
-#. type: Plain text
-#: docs/heroes/ash.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/erdamon.md docs/heroes/gerwulf.md docs/heroes/ingham.md
-#: docs/heroes/jeremy.md docs/heroes/merist.md docs/heroes/monere.md
-#: docs/heroes/octavia.md docs/heroes/tarnum_castle.md
-#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
-#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
-#: docs/heroes/zilare.md
-#, no-wrap
-msgid ""
-"| Level | Description |\n"
-"| :---: | :---: |\n"
-"| Ⅰ | 🚧 |\n"
-"| Ⅳ | 🚧 |\n"
-"| Ⅵ | 🚧 |\n"
-msgstr ""
-"| Nivel | Descripción |\n"
-"| :---: | :---: |\n"
-"| Ⅰ | 🚧 |\n"
-"| Ⅳ | 🚧 |\n"
-"| Ⅵ | 🚧 |\n"
 
 #. type: Plain text
 #: docs/heroes/astra.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
@@ -710,3 +688,25 @@ msgstr ""
 "    <figure markdown=\"span\">\n"
 "        ![Oceánidas Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
+
+#. type: Plain text
+#: docs/heroes/cassiopeia.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "| Level | Description |\n"
+#| "| :---: | :---: |\n"
+#| "| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Cerberi unit](../units/cerberi.md). |\n"
+#| "| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Cerberi unit](../units/cerberi.md). |\n"
+#| "| Ⅵ | :instant: Your selected [unit](../units/index.md) gains +2 :attack:<br><br>This effect doubles for the [Cerberi unit](../units/cerberi.md). |\n"
+msgid ""
+"| Level | Description |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Oceanids unit](../units/oceanids.md). |\n"
+"| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>The effect doubles for the [Oceanids unit](../units/oceanids.md). |\n"
+"| Ⅵ | :instant: Your selected [unit](../units/index.md) gains +2 :attack:.<br><br>The effect doubles for the [Oceanids unit](../units/oceanids.md). |\n"
+msgstr ""
+"| Nivel | Descripción |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: Tu [unidad](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unidad](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para la [unidad Cerberos](../units/cerberi.md). |\n"
+"| Ⅳ | :ongoing: Para este Combate, los :health_points: de la [unidad](../units/index.md) seleccionada aumentan en 1.<br><br>Este efecto es doble para la [unidad Cerberos](../units/cerberi.md). |\n"
+"| Ⅵ | :instant: Tu [unidad](../units/index.md) seleccionada gana +2 :attack:<br><br>Este efecto es doble para la [unidad Cerberos](../units/cerberi.md). |\n"

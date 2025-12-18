@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Extend your Combat for another round. |
-| Ⅳ | :effect_map: Gain 1 :movement:. |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Extend your Combat against a Neutral Army for another round (without spending any :movement:). |
+| Ⅳ | :effect_map: Your Main Hero gains 1 :movement:.<br><br>— OR —<br><br>:ongoing: For this Combat, the :initiative: of all your [units](../units/index.md) is increased by 1. |
+| Ⅵ | effect_map: Your Main Hero gains 1 :movement: and can move through [blocked fields](../keywords/blocked_field.md) during this turn.<br><br>— OR —<br><br>:instant: Draw 2 cards. |
 
 
 ## Comes With

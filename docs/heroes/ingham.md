@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Zealots unit](../units/zealots.md). |
+| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>The effect doubles for the [Zealots unit](../units/zealots.md). |
+| Ⅵ | :ongoing: For this Combat, your [Zealots unit](../units/zealots.md) ignores its targets' :defense:.<br><br>— OR —<br><br>:instant: Draw 1 card. |
 
 
 ## Comes With

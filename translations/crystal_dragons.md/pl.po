@@ -227,7 +227,7 @@ msgstr "Uwagi"
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -427,7 +427,7 @@ msgstr "Pochodzi z"
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -569,7 +569,7 @@ msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -607,7 +607,7 @@ msgstr "[Lista Miast](../towns/index.md)"
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -641,7 +641,7 @@ msgstr "[Lista Jednostek](index.md)"
 #. type: Title ##
 #: docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/black_dragons.md docs/units/cerberi.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/dread_knights.md docs/units/efreet.md docs/units/elves.md
 #: docs/units/enchanters.md docs/units/faerie_dragons.md docs/units/genies.md
 #: docs/units/ghost_dragons.md docs/units/gold_dragons.md docs/units/harpies.md

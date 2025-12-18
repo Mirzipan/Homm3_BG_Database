@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2024-10-21 19:00+0000\n"
+"POT-Creation-Date: 2025-12-17 17:56+0000\n"
 "PO-Revision-Date: 2024-10-21 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -190,7 +190,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -432,7 +432,7 @@ msgstr "Pochodzi z"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -478,8 +478,9 @@ msgstr "Zobacz też"
 #: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/ciele.md
 #: docs/heroes/dessa.md docs/heroes/gerwulf.md docs/heroes/ingham.md
 #: docs/heroes/ivor.md docs/heroes/lorelei.md docs/heroes/melodia.md
-#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/octavia.md
-#: docs/heroes/pasis.md docs/heroes/sephinroth.md docs/heroes/tarnum_castle.md
+#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/sephinroth.md
+#: docs/heroes/septienna.md docs/heroes/tarnum_castle.md
 #: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
 #: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
 #: docs/heroes/valeska.md docs/spells/air_shield.md docs/spells/sacrifice.md
@@ -523,7 +524,7 @@ msgstr ""
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -619,23 +620,6 @@ msgid "<p style=\"text-align: center;\" markdown>[Fortress](../towns/fortress.md
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/ash.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/erdamon.md docs/heroes/gerwulf.md docs/heroes/ingham.md
-#: docs/heroes/jeremy.md docs/heroes/merist.md docs/heroes/monere.md
-#: docs/heroes/octavia.md docs/heroes/tarnum_castle.md
-#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
-#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
-#: docs/heroes/zilare.md
-#, no-wrap
-msgid ""
-"| Level | Description |\n"
-"| :---: | :---: |\n"
-"| Ⅰ | 🚧 |\n"
-"| Ⅳ | 🚧 |\n"
-"| Ⅵ | 🚧 |\n"
-msgstr ""
-
-#. type: Plain text
 #: docs/heroes/bron.md docs/heroes/gerwulf.md docs/heroes/tarnum_fortress.md
 #: docs/heroes/tazar.md docs/heroes/wystan.md
 #, no-wrap
@@ -707,4 +691,15 @@ msgid ""
 "    <figure markdown=\"span\">\n"
 "        ![Ballista Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/heroes/gerwulf.md
+#, no-wrap
+msgid ""
+"| Level | Description |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :effect_map: Pay 5 :gold: to gain a [Ballista](../war_machines/ballista.md).<br><br>— OR —<br><br>:instant: Activate your [Ballista](../war_machines/ballista.md) (if you have one). |\n"
+"| Ⅳ | :activation: The selected [unit](../units/index.md) suffers 1 :damage:.</br>:instant: Discard your [Ballista](../war_machines/ballista.md) to inflict 2 :damage: on the selected [unit](../units/index.md). |\n"
+"| Ⅵ | :ongoing: You can play this card at the start of Combat. For this Combat, you can choose targets for your [Ballista](../war_machines/ballista.md) (if you have one). </br>:instant: Discard your [Ballista](../war_machines/ballista.md) to inflict 3 :damage: on the selected [unit](../units/index.md). |\n"
 msgstr ""

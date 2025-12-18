@@ -34,7 +34,7 @@ search:
 - :silver: [Sharpshooters](../units/sharpshooters.md)
 - :silver: [Sorceresses](../units/sorceresses.md)
 - :silver: [Zealots](../units/zealots.md)
-- :golden: [Cyclops](../units/cyclops.md)
+- :golden: [Cyclopes](../units/cyclopes.md)
 - :golden: [Enchanters](../units/enchanters.md)
 - :golden: [Titans](../units/titans.md)
 - :azure: [Titans](../units/titans.md)

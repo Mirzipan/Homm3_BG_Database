@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2025-09-30 19:07+0000\n"
+"POT-Creation-Date: 2025-12-17 17:56+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -190,7 +190,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -432,7 +432,7 @@ msgstr "Pochodzi z"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -502,7 +502,7 @@ msgstr "Zobacz też"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -539,7 +539,7 @@ msgstr "[Lista Miast](../towns/index.md)"
 #: docs/heroes/gundula.md docs/heroes/shiva.md docs/heroes/yog.md
 #: docs/keywords/underground_tile.md docs/tiles/s7.md docs/tiles/u1.md
 #: docs/tiles/u2.md docs/towns/stronghold.md docs/units/behemoths.md
-#: docs/units/cyclops.md docs/units/goblins.md docs/units/ogres.md
+#: docs/units/cyclopes.md docs/units/goblins.md docs/units/ogres.md
 #: docs/units/orcs.md docs/units/thunderbirds.md docs/units/wolf_raiders.md
 msgid "[Stronghold Expansion](../content/stronghold_expansion.md)"
 msgstr ""
@@ -587,7 +587,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/stronghold.md
-msgid ":golden: [Cyclops](../units/cyclops.md)"
+msgid ":golden: [Cyclopes](../units/cyclopes.md)"
 msgstr ""
 
 #. type: Title ##
@@ -620,14 +620,14 @@ msgstr "Twierdza"
 msgid ""
 "| Name | Building Cost | Effect |\n"
 "| :--- | ---: | :---: |\n"
-"| City Hall | 12 :gold:<br>5 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: Draw 2 cards from M&M Deck.<br><br>— OR —<br><br>:instant: 2 :building_materials: |\n"
+"| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: Draw 2 cards from M&M Deck.<br><br>— OR —<br><br>:instant: 2 :building_materials: |\n"
 "| Citadel | 8 :gold:<br>4 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |\n"
 "| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 6 :gold: to **Search(2)** [:spellpower:](../spells/index.md). |\n"
 "| Barracks Tower | 4 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |\n"
 "| Fort under the Nest | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |\n"
 "| Mountain Caves | 10 :gold:<br>8 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |\n"
-"| Hall of Valhalla | 7 :gold:<br>3 :building_materials:<br>0 :valuables: | Once per round, one of your units gains +1 :attack: to a single attack. |\n"
-"| Freelancer's Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | Each time you win against [Neutral Units](../units/index.md), gain 1 :gold:. When **Reinforcing** or **Recruiting** you can use :building_materials: and :valuables: like :gold:. |\n"
+"| Hall of Valhalla | 8 :gold:<br>3 :building_materials:<br>0 :valuables: | Once per round, one of your units gains +1 :attack: to a single attack. |\n"
+"| Freelancer's Guild | 2 :gold:<br>2 :building_materials:<br>1 :valuables: | Each time you win against [Neutral Units](../units/index.md), gain 1 :gold:. When **Reinforcing** or **Recruiting** you can use :building_materials: and :valuables: like :gold:. |\n"
 msgstr ""
 
 #. type: Bullet: '- '

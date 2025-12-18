@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-09-30 19:07+0000\n"
+"POT-Creation-Date: 2025-12-17 17:56+0000\n"
 "PO-Revision-Date: 2025-02-20 13:46+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
@@ -191,7 +191,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -433,7 +433,7 @@ msgstr "Viene Con"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -514,7 +514,7 @@ msgstr "[Expansión de Ensenada](../content/cove_expansion.md)"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -617,17 +617,28 @@ msgstr "Ensenada"
 
 #. type: Plain text
 #: docs/towns/cove.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "| Name | Building Cost | Effect |\n"
+#| "| :--- | ---: | :---: |\n"
+#| "| City Hall | 12 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Astrologers' round, choose:<br>:instant:️ +3 :gold:<br><br>— OR —<br><br>:instant: +1 :movement: when a Hero is on Water. |\n"
+#| "| Citadel | 8 :gold:<br>4 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |\n"
+#| "| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](../spells/index.md). |\n"
+#| "| Bay | 4 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |\n"
+#| "| Towers of the Seas | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |\n"
+#| "| Maelstrom | 10 :gold:<br>8 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |\n"
+#| "| Thieves' Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | Once during your turn, choose one deck, look at the top 2 cards, then put one of them back and discard the other. |\n"
+#| "| Pub | 3 :gold:<br>2 :building_materials:<br>0 :valuables: | Once during Astrologers' round, while **Reinforcing** a unit, reduce the reinforcement cost by 3 :gold: (to a minimum of 0). |\n"
 msgid ""
 "| Name | Building Cost | Effect |\n"
 "| :--- | ---: | :---: |\n"
-"| City Hall | 12 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Astrologers' round, choose:<br>:instant:️ +3 :gold:<br><br>— OR —<br><br>:instant: +1 :movement: when a Hero is on Water. |\n"
+"| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Astrologers' round, choose:<br>:instant:️ 4 :gold:<br><br>— OR —<br><br>:instant: Remove 1 :artifact: from your hand to gain 1 :experience:. |\n"
 "| Citadel | 8 :gold:<br>4 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |\n"
 "| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](../spells/index.md). |\n"
 "| Bay | 4 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |\n"
-"| Towers of the Seas | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |\n"
-"| Maelstrom | 10 :gold:<br>8 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |\n"
-"| Thieves' Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | Once during your turn, choose one deck, look at the top 2 cards, then put one of them back and discard the other. |\n"
+"| Nests Towering the Seas | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |\n"
+"| Redoubled Vortex | 10 :gold:<br>8 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |\n"
+"| Thieves' Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | Once during your turn, choose any one deck in the game (including another player's M&M deck), look at its top 2 cards, and put one of them on its discard pile and the other back on top of the deck. |\n"
 "| Pub | 3 :gold:<br>2 :building_materials:<br>0 :valuables: | Once during Astrologers' round, while **Reinforcing** a unit, reduce the reinforcement cost by 3 :gold: (to a minimum of 0). |\n"
 msgstr ""
 "| Name | Building Cost | Effect |\n"

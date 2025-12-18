@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-10-21 17:38+0000\n"
+"POT-Creation-Date: 2025-12-17 17:56+0000\n"
 "PO-Revision-Date: 2024-10-21 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -190,7 +190,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -432,7 +432,7 @@ msgstr "Fourni avec"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -478,8 +478,9 @@ msgstr "Voir aussi"
 #: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/ciele.md
 #: docs/heroes/dessa.md docs/heroes/gerwulf.md docs/heroes/ingham.md
 #: docs/heroes/ivor.md docs/heroes/lorelei.md docs/heroes/melodia.md
-#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/octavia.md
-#: docs/heroes/pasis.md docs/heroes/sephinroth.md docs/heroes/tarnum_castle.md
+#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/sephinroth.md
+#: docs/heroes/septienna.md docs/heroes/tarnum_castle.md
 #: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
 #: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
 #: docs/heroes/valeska.md docs/spells/air_shield.md docs/spells/sacrifice.md
@@ -523,7 +524,7 @@ msgstr ""
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -611,23 +612,6 @@ msgid "[List of Heroes](index.md)"
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/ash.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/erdamon.md docs/heroes/gerwulf.md docs/heroes/ingham.md
-#: docs/heroes/jeremy.md docs/heroes/merist.md docs/heroes/monere.md
-#: docs/heroes/octavia.md docs/heroes/tarnum_castle.md
-#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
-#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
-#: docs/heroes/zilare.md
-#, no-wrap
-msgid ""
-"| Level | Description |\n"
-"| :---: | :---: |\n"
-"| Ⅰ | 🚧 |\n"
-"| Ⅳ | 🚧 |\n"
-"| Ⅵ | 🚧 |\n"
-msgstr ""
-
-#. type: Plain text
 #: docs/heroes/catherine.md docs/heroes/mephala.md
 #: docs/heroes/tarnum_rampart.md
 #, no-wrap
@@ -671,6 +655,42 @@ msgstr ""
 msgid "=== \"Sharpshooters Ⅵ\""
 msgstr ""
 
+#. type: Bullet: '- '
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_dungeon.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
+#: docs/heroes/tarnum_stronghold.md
+msgid "[Tarnum (Conflux)](tarnum_conflux.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
+#: docs/heroes/tarnum_stronghold.md
+msgid "[Tarnum (Dungeon)](tarnum_dungeon.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_rampart.md
+#: docs/heroes/tarnum_stronghold.md
+msgid "[Tarnum (Fortress)](tarnum_fortress.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
+#: docs/heroes/tarnum_rampart.md
+msgid "[Tarnum (Stronghold)](tarnum_stronghold.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
+#: docs/heroes/tarnum_stronghold.md
+#, fuzzy
+msgid "[Tarnum (Castle)](tarnum_castle.md)"
+msgstr "[Tuile lointaine](far_tile.md)"
+
 #. type: Title #
 #: docs/heroes/tarnum_rampart.md
 #, no-wrap
@@ -708,4 +728,15 @@ msgid ""
 "    <figure markdown=\"span\">\n"
 "        ![Sharpshooters Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/heroes/tarnum_rampart.md
+#, no-wrap
+msgid ""
+"| Level | Description |\n"
+"| :---: | :---: |\n"
+"| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Elves](../units/elves.md) or [Sharpshooters unit](../units/sharpshooters.md). |\n"
+"| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Elves](../units/elves.md) or [Sharpshooters unit](../units/sharpshooters.md). |\n"
+"| Ⅵ | :instant: Play this card at the start of Combat. Find a [Sharpshooters unit](../units/sharpshooters.md) in the [:silver: Neutral Unit](../units/index.md) deck (or its discard pile) and add it to your army for this Combat (discard it afterwards).<br><br>— OR —<br><br>:instant: Draw a card. |\n"
 msgstr ""

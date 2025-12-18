@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1. |
-| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2. |
-| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 3. |
+| Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 3. |
+| Ⅳ | :instant: Your selected [unit's](../units/index.md) gains +1 :attack:.</br></br>The effect doubles if the attacked [unit](../units/index.md) has higher :initiative:. |
+| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 3. This [unit](../units/index.md) gains +1 :defense: against attacks made by [units](../units/index.md) with lower :initiative:. |
 
 
 ## Comes With

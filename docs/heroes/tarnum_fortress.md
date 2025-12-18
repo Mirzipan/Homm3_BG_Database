@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Basilisks unit](../units/basilisks.md). |
+| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>The effect doubles for the [Basilisks unit](../units/basilisks.md). |
+| Ⅵ | :instant: Your selected [unit](../units/index.md) uses its special ability regardless of the required roll's result.<br><br>:instant: Your selected [unit](../units/index.md) gains +2 :attack:. |
 
 
 ## Comes With
@@ -47,6 +47,11 @@ ___
 
 ## See Also
 
+- [Tarnum (Castle)](tarnum_castle.md)
+- [Tarnum (Conflux)](tarnum_conflux.md)
+- [Tarnum (Dungeon)](tarnum_dungeon.md)
+- [Tarnum (Rampart)](tarnum_rampart.md)
+- [Tarnum (Stronghold)](tarnum_stronghold.md)
 - [List of Heroes](index.md)
 - [List of Towns](../towns/index.md)
 

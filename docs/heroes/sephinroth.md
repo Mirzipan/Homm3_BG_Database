@@ -14,30 +14,30 @@ ___
 
 ## Specialty
 
-=== "Valueables Ⅰ"
+=== "Valuables Ⅰ"
 
     <figure markdown="span">
-        ![Valueables Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Valuables Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
-=== "Valueables Ⅳ"
+=== "Valuables Ⅳ"
 
     <figure markdown="span">
-        ![Valueables Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Valuebles Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
-=== "Valueables Ⅵ"
+=== "Valuables Ⅵ"
 
     <figure markdown="span">
-        ![Valueables Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Valuables Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 
 | Level | Description |
 | :---: | :---: |
 | Ⅰ | :effect_map: Pay 2 :gold: to gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card. |
-| Ⅳ | :effect_map: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card. |
-| Ⅵ | :effect_map: Gain 2 :valuables: or 6 :gold:. |
+| Ⅳ | :effect_map: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: +2 :empower:. |
+| Ⅵ | :effect_map: Gain 2 :valuables:.<br><br>— OR —<br><br>Draw 2 cards. |
 
 
 ## Notes
