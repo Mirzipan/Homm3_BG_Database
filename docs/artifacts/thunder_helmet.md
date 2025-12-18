@@ -19,4 +19,5 @@ ___
 - [Sentinel's Shield](sentinels_shield.md)
 - [Titan's Cuirass](titans_cuirass.md)
 - [Titan's Gladius](titans_gladius.md)
+
 - [List of Artifacts](index.md)

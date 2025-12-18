@@ -17,4 +17,5 @@ ___
 ## See Also
 
 - [Ambassador's Sash](ambassadors_sash.md)
+
 - [List of Artifacts](index.md)

@@ -4,9 +4,9 @@
 ___
 <p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
 ___
-<p style="text-align: center;" markdown>🚧</p>
+<p style="text-align: center;" markdown>:instant: Take 1 non-Artifact card from your discard pile to hand.<br><br>— OR —<br><br>:instant: If the enemy has :morale_positive:, they gain :morale_negative:.</p>
 ___
-<p style="text-align: center;" markdown>*🚧*</p>
+<p style="text-align: center;" markdown>*A brief stop at an improbable rural inn yields an exchange of money, tales, and accidentally, luggage. You find a magical helm in your new backpack.*</p>
 
 
 ## Comes With

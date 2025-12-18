@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Find the first [Water Magic :spell:](../spells/school_of_water_magic.md) in the [Spell](../spells/index.md) deck. Take the [:spell:](../spells/index.md) into your hand or discard it. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: When playing a [Water Magic :spell:](../spells/school_of_water_magic.md), resolve its effect without paying the :empower: cost.</p>
+<p style="text-align: center;" markdown>:instant: Find the first [Water Magic :spellpower:](../spells/school_of_water_magic.md) in the [Spell](../spells/index.md) deck. Take the [:spellpower:](../spells/index.md) into your hand or discard it. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: When playing a [Water Magic :spellpower:](../spells/school_of_water_magic.md), resolve its effect without paying the :empower: cost.</p>
 ___
 <p style="text-align: center;" markdown>*You come across a conjurer who begs to accompany you and your army awhile for safety. You agree, and he offers as payment a copy of a book of the elements.*</p>
 
@@ -19,4 +19,5 @@ ___
 - [Tome of Air](tome_of_air.md)
 - [Tome of Earth](tome_of_earth.md)
 - [Tome of Fire](tome_of_fire.md)
+
 - [List of Artifacts](index.md)

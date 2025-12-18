@@ -17,4 +17,5 @@ ___
 ## See Also
 
 - [Diplomat's Ring](diplomats_ring.md)
+
 - [List of Artifacts](index.md)

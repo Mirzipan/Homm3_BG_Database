@@ -19,4 +19,5 @@ ___
 - [Thunder Helmet](thunder_helmet.md)
 - [Sentinel's Shield](sentinels_shield.md)
 - [Titan's Gladius](titans_gladius.md)
+
 - [List of Artifacts](index.md)

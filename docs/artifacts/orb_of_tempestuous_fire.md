@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: When casting a [:spell:](../spells/index.md) from the [School of Fire Magic](../spells/school_of_fire_magic.md), double the :empower: used for this [spell](../spells/index.md).<br><br>— OR —<br><br>:instant: When casting a [Fire Magic :spell:](../spells/school_of_fire_magic.md), Remove this card to gain +5 :empower:.</p>
+<p style="text-align: center;" markdown>:ongoing: When casting a [:spellpower:](../spells/index.md) from the [School of Fire Magic](../spells/school_of_fire_magic.md), double the :empower: used for this [spell](../spells/index.md).<br><br>— OR —<br><br>:instant: When casting a [Fire Magic :spellpower:](../spells/school_of_fire_magic.md), Remove this card to gain +5 :empower:.</p>
 ___
 <p style="text-align: center;" markdown>*You come across a conjurer who begs to accompany you and your army awhile for safety. You agree, and he offers as payment a strange orb of the elements.*</p>
 
@@ -19,4 +19,5 @@ ___
 - [Orb of Driving Rain](orb_of_driving_rain.md)
 - [Orb of Silt](orb_of_silt.md)
 - [Orb of the Firmament](orb_of_the_firmament.md)
+
 - [List of Artifacts](index.md)
