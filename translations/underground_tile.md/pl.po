@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2024-10-21 16:09+0000\n"
+"POT-Creation-Date: 2025-12-20 22:41+0000\n"
 "PO-Revision-Date: 2024-10-21 16:09+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -38,14 +38,18 @@ msgstr ""
 #: docs/astrologers_proclaim/mcgiver.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md docs/fields/town.md
 #: docs/fields/windmill.md docs/heroes/adelaide.md docs/heroes/alamar.md
-#: docs/heroes/deemer.md docs/heroes/jeddite.md docs/heroes/sandro.md
-#: docs/heroes/sephinroth.md docs/heroes/solmyr.md docs/heroes/tazar.md
-#: docs/heroes/xyron.md docs/keywords/blocked_field.md
-#: docs/keywords/center_tile.md docs/keywords/empty_field.md
-#: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
-#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
-#: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
-#: docs/keywords/near_tile.md docs/keywords/paralysis.md
+#: docs/heroes/deemer.md docs/heroes/jeddite.md docs/heroes/pasis.md
+#: docs/heroes/sandro.md docs/heroes/sephinroth.md docs/heroes/solmyr.md
+#: docs/heroes/tazar.md docs/heroes/xyron.md
+#: docs/keywords/alternative_action.md docs/keywords/attack_value.md
+#: docs/keywords/blocked_field.md docs/keywords/center_tile.md
+#: docs/keywords/damage.md docs/keywords/defense_value.md
+#: docs/keywords/empty_field.md docs/keywords/far_tile.md
+#: docs/keywords/flaggable_field.md docs/keywords/flying_unit.md
+#: docs/keywords/ground_unit.md docs/keywords/health_points.md
+#: docs/keywords/initiative_value.md docs/keywords/major_artifact.md
+#: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
+#: docs/keywords/obstacle.md docs/keywords/paralysis.md
 #: docs/keywords/permanent_effect.md docs/keywords/ranged_unit.md
 #: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
 #: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
@@ -187,21 +191,25 @@ msgstr "Uwagi"
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/fields/subterranean_gate.md docs/heroes/adelaide.md
-#: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/bron.md
-#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
-#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
-#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
-#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
-#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gundula.md
+#: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/ash.md
+#: docs/heroes/astra.md docs/heroes/bron.md docs/heroes/casmetra.md
+#: docs/heroes/cassiopeia.md docs/heroes/catherine.md docs/heroes/ciele.md
+#: docs/heroes/clancy.md docs/heroes/crag_hack.md docs/heroes/cyra.md
+#: docs/heroes/deemer.md docs/heroes/dessa.md docs/heroes/dracon.md
+#: docs/heroes/erdamon.md docs/heroes/fiona.md docs/heroes/gelu.md
+#: docs/heroes/gem.md docs/heroes/gerwulf.md docs/heroes/gundula.md
 #: docs/heroes/ingham.md docs/heroes/iona.md docs/heroes/ivor.md
 #: docs/heroes/jeddite.md docs/heroes/jeremy.md docs/heroes/josephine.md
 #: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
 #: docs/heroes/lorelei.md docs/heroes/luna.md docs/heroes/melodia.md
-#: docs/heroes/mephala.md docs/heroes/moandor.md docs/heroes/monere.md
-#: docs/heroes/mutare.md docs/heroes/pasis.md docs/heroes/rashka.md
+#: docs/heroes/mephala.md docs/heroes/merist.md docs/heroes/miriam.md
+#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/rashka.md
 #: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/sephinroth.md
 #: docs/heroes/septienna.md docs/heroes/shiva.md docs/heroes/solmyr.md
-#: docs/heroes/tamika.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tamika.md docs/heroes/tarnum_castle.md
+#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
 #: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
 #: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
@@ -416,21 +424,25 @@ msgstr "Pochodzi z"
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
-#: docs/heroes/bron.md docs/heroes/casmetra.md docs/heroes/cassiopeia.md
-#: docs/heroes/catherine.md docs/heroes/ciele.md docs/heroes/clancy.md
-#: docs/heroes/crag_hack.md docs/heroes/cyra.md docs/heroes/deemer.md
-#: docs/heroes/dessa.md docs/heroes/dracon.md docs/heroes/erdamon.md
-#: docs/heroes/fiona.md docs/heroes/gelu.md docs/heroes/gem.md
+#: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/bron.md
+#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
+#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
+#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
+#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
+#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gerwulf.md
 #: docs/heroes/gundula.md docs/heroes/index.md docs/heroes/ingham.md
 #: docs/heroes/iona.md docs/heroes/ivor.md docs/heroes/jeddite.md
 #: docs/heroes/jeremy.md docs/heroes/josephine.md
 #: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
 #: docs/heroes/lorelei.md docs/heroes/luna.md docs/heroes/melodia.md
-#: docs/heroes/mephala.md docs/heroes/moandor.md docs/heroes/monere.md
-#: docs/heroes/mutare.md docs/heroes/pasis.md docs/heroes/rashka.md
+#: docs/heroes/mephala.md docs/heroes/merist.md docs/heroes/miriam.md
+#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/rashka.md
 #: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/sephinroth.md
 #: docs/heroes/septienna.md docs/heroes/shiva.md docs/heroes/solmyr.md
-#: docs/heroes/tamika.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tamika.md docs/heroes/tarnum_castle.md
+#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
 #: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
 #: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
@@ -536,31 +548,38 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
-#: docs/keywords/near_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/water_tile.md
+#: docs/keywords/index.md docs/keywords/near_tile.md
+#: docs/keywords/underground_tile.md docs/keywords/water_tile.md
 msgid "[Starting Tile](starting_tile.md)"
 msgstr "[Kafelek Początkowy](starting_tile.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/center_tile.md docs/keywords/near_tile.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/water_tile.md
+#: docs/keywords/center_tile.md docs/keywords/index.md
+#: docs/keywords/near_tile.md docs/keywords/starting_tile.md
+#: docs/keywords/underground_tile.md docs/keywords/water_tile.md
 msgid "[Far Tile](far_tile.md)"
 msgstr "[Kafelek Daleki](far_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/water_tile.md
+#: docs/keywords/index.md docs/keywords/starting_tile.md
+#: docs/keywords/underground_tile.md docs/keywords/water_tile.md
 msgid "[Near Tile](near_tile.md)"
 msgstr "[Kafelek Bliski](near_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
-#: docs/keywords/near_tile.md docs/keywords/starting_tile.md
-#: docs/keywords/underground_tile.md
+#: docs/keywords/index.md docs/keywords/near_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
 msgid "[Water Tile](water_tile.md)"
 msgstr "[Kafelek Morza](water_tile.md)"
+
+#. type: Bullet: '- '
+#: docs/keywords/far_tile.md docs/keywords/index.md docs/keywords/near_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
+#: docs/keywords/water_tile.md
+msgid "[Center Tile](center_tile.md)"
+msgstr "[Kafelek Centralny](center_tile.md)"
 
 #. type: Title #
 #: docs/keywords/underground_tile.md
@@ -584,10 +603,4 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/keywords/underground_tile.md
 #, fuzzy
 msgid "[U2](../tiles/u2.md)"
-msgstr "[Lista Jednostek](units/index.md)"
-
-#. type: Bullet: '- '
-#: docs/keywords/underground_tile.md
-#, fuzzy
-msgid "[Center Tile](center_tile.md"
 msgstr "[Lista Jednostek](units/index.md)"
