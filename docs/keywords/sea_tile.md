@@ -1,7 +1,7 @@
-# Water Tile
+# Sea Tile
 
 
-## List of Water Tiles
+## List of Sea Tiles
 
 - [W1](../tiles/w1.md)
 - [W2](../tiles/w2.md)
@@ -22,4 +22,4 @@
 - [Far Tile](far_tile.md)
 - [Near Tile](near_tile.md)
 - [Center Tile](center_tile.md)
-- [Underground Tile](underground_tile.md)
+- [Subterranean Tile](subterranean_tile.md)

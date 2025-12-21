@@ -1,7 +1,7 @@
-# Underground Tile
+# Subterranean Tile
 
 
-## List of Underground Tiles
+## List of Subterranean Tiles
 
 - [U1](../tiles/u1.md)
 - [U2](../tiles/u2.md)
@@ -20,5 +20,5 @@
 - [Starting Tile](starting_tile.md)
 - [Far Tile](far_tile.md)
 - [Near Tile](near_tile.md)
-- [Center Tile](center_tile.md
-- [Water Tile](water_tile.md)
+- [Center Tile](center_tile.md)
+- [Sea Tile](sea_tile.md)

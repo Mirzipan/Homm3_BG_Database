@@ -1,0 +1,19 @@
+# Grave
+
+<figure markdown="span">
+
+![Grave Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+___
+<p style="text-align: center;" markdown>Gain gain [Negative Morale](../keywords/negative_morale.md) token, 3 :gold:, and [**Search(2)**](../keywords/search.md) [:artifact:](../artifacts/index.md).</p>
+___
+
+
+## See Also
+
+- [List of Fields](index.md)
+- [List of Tiles](../tiles/index.md)

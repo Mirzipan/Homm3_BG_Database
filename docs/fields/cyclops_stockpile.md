@@ -1,0 +1,19 @@
+# Cyclops Stockpile
+
+<figure markdown="span">
+
+![Cyclops Stockpile Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+
+</figure>
+
+___
+<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+___
+<p style="text-align: center;" markdown>When preparing the Neutral Army guarding this location, instead of drawing 1 :azure: unit, find 2 :golen: [Cyclopes](../units/cyclopes.md) and add them to the Neutral Army (look for them first in the :golden: discard pile, and then in the :golden: Neutral Unit deck). If you win the Combat, roll and resolve 4 [:resource_die:](../keywords/resource_die.md). Any additional effects depend on the scenario.</p>
+___
+
+
+## See Also
+
+- [List of Fields](index.md)
+- [List of Tiles](../tiles/index.md)
