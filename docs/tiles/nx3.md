@@ -23,6 +23,11 @@ ___
 - [Tower Expansion](../content/tower_expansion.md)
 
 
+## Notes
+
+- Due to a misprint, the [Windmill](../fields/windmill.md) on this tile has a "?". It should say "+1 :valuables:".
+
+
 ## See Also
 
 - [List of Tiles](index.md)

@@ -14,7 +14,7 @@ ___
 - [Tavern](../fields/tavern.md)
 - [Redwood Observatory](../fields/redwood_observatory.md)
 - [Ⅱ](../difficulties.md) [Mystical Garden](../fields/mystical_garden.md)
-- [Ⅱ](../difficulties.md) [Artifact](../artifacts/index.md)
+- [Ⅱ](../difficulties.md) [:artifact:](../fields/artifact_symbol.md)
 - [Blocked Field](../keywords/blocked_field.md)
 
 

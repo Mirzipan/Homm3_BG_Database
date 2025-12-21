@@ -14,7 +14,7 @@ ___
 - [Empty Field](../keywords/empty_field.md)
 - [Tower Town](../towns/tower.md)
 - [Empty Field](../keywords/empty_field.md)
-- [Resources](../fields/resource_symbol.md)
+- [:resource_die:](../fields/resource_symbol.md)
 - [Ⅰ](../difficulties.md) [Treasure](../fields/treasure_symbol.md)
 
 
