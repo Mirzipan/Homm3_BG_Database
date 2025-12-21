@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2025-12-18 02:35+0000\n"
+"POT-Creation-Date: 2025-12-21 16:59+0000\n"
 "PO-Revision-Date: 2025-12-03 21:31+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -141,52 +141,60 @@ msgstr ""
 #: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#: docs/fields/2_resources.md docs/fields/artifact.md
-#: docs/fields/black_market.md docs/fields/dragon_utopia.md
-#: docs/fields/fountain_of_youth.md docs/fields/grail.md
-#: docs/fields/hill_fort.md docs/fields/index.md docs/fields/learning_stone.md
-#: docs/fields/library.md docs/fields/magic_spring.md
-#: docs/fields/market_of_time.md docs/fields/mine.md
+#: docs/fields/artifact_symbol.md docs/fields/black_market.md
+#: docs/fields/buoy.md docs/fields/cyclops_stockpile.md
+#: docs/fields/derelict_ship.md docs/fields/dragon_utopia.md
+#: docs/fields/elemental_conflux.md docs/fields/faerie_ring.md
+#: docs/fields/flotsam.md docs/fields/fountain_of_youth.md docs/fields/grail.md
+#: docs/fields/grave.md docs/fields/hill_fort.md docs/fields/index.md
+#: docs/fields/jetsam.md docs/fields/learning_stone.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/mermaid.md docs/fields/mine.md
 #: docs/fields/mystical_garden.md docs/fields/obelisk.md
-#: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
-#: docs/fields/redwood_observatory.md docs/fields/resources.md
-#: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/settlement.md
-#: docs/fields/shrine_of_magic_gesture.md
-#: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md
-#: docs/fields/star_axis.md docs/fields/tavern.md docs/fields/temple.md
-#: docs/fields/town.md docs/fields/trading_post.md docs/fields/treasure.md
-#: docs/fields/tree_of_knowledge.md docs/fields/university.md
-#: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
-#: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
-#: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
-#: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/bron.md
-#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
-#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
-#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
-#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
-#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gerwulf.md
-#: docs/heroes/gundula.md docs/heroes/index.md docs/heroes/ingham.md
-#: docs/heroes/iona.md docs/heroes/ivor.md docs/heroes/jeddite.md
-#: docs/heroes/jeremy.md docs/heroes/josephine.md
-#: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
-#: docs/heroes/lorelei.md docs/heroes/luna.md docs/heroes/melodia.md
-#: docs/heroes/mephala.md docs/heroes/merist.md docs/heroes/miriam.md
-#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
-#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/rashka.md
-#: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/sephinroth.md
-#: docs/heroes/septienna.md docs/heroes/shiva.md docs/heroes/solmyr.md
-#: docs/heroes/tamika.md docs/heroes/tarnum_castle.md
-#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
-#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
-#: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
-#: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
-#: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
-#: docs/heroes/zydar.md docs/keywords/center_tile.md docs/keywords/far_tile.md
+#: docs/fields/one_way_monolith.md docs/fields/pandoras_box.md
+#: docs/fields/prison.md docs/fields/random_town.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
+#: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
+#: docs/fields/sea_chest.md docs/fields/settlement.md docs/fields/shipwreck.md
+#: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
+#: docs/fields/stables.md docs/fields/star_axis.md
+#: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
+#: docs/fields/temple_of_the_sea.md docs/fields/town.md
+#: docs/fields/trading_post.md docs/fields/treasure_symbol.md
+#: docs/fields/tree_of_knowledge.md docs/fields/two_way_monolith.md
+#: docs/fields/university.md docs/fields/war_machine_factory.md
+#: docs/fields/warriors_tomb.md docs/fields/water_wheel.md
+#: docs/fields/windmill.md docs/fields/witch_hut.md docs/heroes/adelaide.md
+#: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/ash.md
+#: docs/heroes/astra.md docs/heroes/bron.md docs/heroes/casmetra.md
+#: docs/heroes/cassiopeia.md docs/heroes/catherine.md docs/heroes/ciele.md
+#: docs/heroes/clancy.md docs/heroes/crag_hack.md docs/heroes/cyra.md
+#: docs/heroes/deemer.md docs/heroes/dessa.md docs/heroes/dracon.md
+#: docs/heroes/erdamon.md docs/heroes/fiona.md docs/heroes/gelu.md
+#: docs/heroes/gem.md docs/heroes/gerwulf.md docs/heroes/gundula.md
+#: docs/heroes/index.md docs/heroes/ingham.md docs/heroes/iona.md
+#: docs/heroes/ivor.md docs/heroes/jeddite.md docs/heroes/jeremy.md
+#: docs/heroes/josephine.md docs/heroes/lord_haart_castle.md
+#: docs/heroes/lord_haart_necropolis.md docs/heroes/lorelei.md
+#: docs/heroes/luna.md docs/heroes/melodia.md docs/heroes/mephala.md
+#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
+#: docs/heroes/monere.md docs/heroes/mutare.md docs/heroes/octavia.md
+#: docs/heroes/pasis.md docs/heroes/rashka.md docs/heroes/rion.md
+#: docs/heroes/sandro.md docs/heroes/sephinroth.md docs/heroes/septienna.md
+#: docs/heroes/shiva.md docs/heroes/solmyr.md docs/heroes/tamika.md
+#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
+#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
+#: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
+#: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/valeska.md
+#: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
+#: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
+#: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/flaggable_field.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
 #: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/keywords/sea_tile.md docs/keywords/starting_tile.md
+#: docs/keywords/subterranean_tile.md docs/keywords/visitable_field.md
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
 #: docs/spells/bless.md docs/spells/blind.md docs/spells/bloodlust.md
 #: docs/spells/chain_lightning.md docs/spells/counterstrike.md
@@ -343,7 +351,7 @@ msgid ""
 "| [Charm of Mana](charm_of_mana.md) | [Minor Artifact](../keywords/minor_artifact.md) | :instant: Discard 2 cards, then draw 3 cards.<br><br>— OR —<br><br>:instant: Draw 2 cards, then discard 1 card. | [Core Game](../content/core_game.md) |\n"
 "| [Crest of Valor](crest_of_valor.md) | [Minor Artifact](../keywords/minor_artifact.md) | :instant: Gain a :morale_positive: token.<br><br>— OR —<br><br>:effect_map: Ignore :morale_negative: effect from a field. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
 "| [Crown of Dragontooth](crown_of_dragontooth.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Select 2 [Spell](../spells/index.md) cards from your discard pile and put them back in your hand.<br><br>— OR —<br><br>:instant: Remove 1 [:spellpower:](../spells/index.md) from hand, then **Search(2)** [:spellpower:](../spells/index.md). | [Inferno Expansion](../content/inferno_expansion.md) |\n"
-"| [Crown of the Five Seas](crown_of_the_five_seas.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: Select 1 [Spell](../spells/index.md) card from your discard pile and put it back into your hand.<br><br>— OR —<br><br>:instant: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/water_tile.md), you may look at the top 3 cards of your discard pile and take 1 of them into your hand. | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Crown of the Five Seas](crown_of_the_five_seas.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: Select 1 [Spell](../spells/index.md) card from your discard pile and put it back into your hand.<br><br>— OR —<br><br>:instant: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/sea_tile.md), you may look at the top 3 cards of your discard pile and take 1 of them into your hand. | [Cove Expansion](../content/cove_expansion.md) |\n"
 "| [Diplomat's Ring](diplomats_ring.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: Reroll any [die](../dice.md) or any roll.<br><br>— OR —<br><br>:effect_map: For every [Dwelling](../keywords/dwelling.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can [Recruit](../keywords/recruit.md) one of these [units](../units/index.md). | [Stronghold Expansion](../content/stronghold_expansion.md) |\n"
 "| [Dragon Scale Armor](dragon_scale_armor.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: +2 :attack:<br><br>— OR —<br><br>:instant: +2 :defense: | [Core Game](../content/core_game.md) |\n"
 "| [Dragon Scale Shield](dragon_scale_shield.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: +2 :attack:<br><br>— OR —<br><br>:instant: +2 :defense: | [Core Game](../content/core_game.md) |\n"
@@ -386,13 +394,13 @@ msgid ""
 "| [Red Dragon Flame Tongue](red_dragon_flame_tongue.md) | [Minor Artifact](../keywords/minor_artifact.md) | :instant: +1 :defense:<br><br>— OR —<br><br>:instant: +1 :attack: | [Core Game](../content/core_game.md) |\n"
 "| [Rib Cage](rib_cage.md) | [Minor Artifact](../keywords/minor_artifact.md) | :instant: Select 1 Spell card from you discard pile and put it back into your hand. Then, shuffle your discard pile back into your deck of Might and Magic.<br><br>— OR —<br><br>:instant: +1 :empower: | [Core Game](../content/core_game.md) |\n"
 "| [Ring of the Wayfarer](ring_of_the_wayfarer.md) | [Minor Artifact](../keywords/minor_artifact.md) | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :initiative:.<br><br>— OR —<br><br>:instant: At start of Combat with [Neutral Units](../units/index.md) put :paralysis: token on any [unit](../units/index.md) except :azure:. | [Tower Expansion](../content/tower_expansion.md) |\n"
-"| [Royal Armor of Nix](royal_armor_of_nix.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: +2 :empower:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/water_tile.md), [**Search(2)**](../keywords/search.md) [:spellpower:](../spells/index.md)**. | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Royal Armor of Nix](royal_armor_of_nix.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: +2 :empower:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/sea_tile.md), [**Search(2)**](../keywords/search.md) [:spellpower:](../spells/index.md)**. | [Cove Expansion](../content/cove_expansion.md) |\n"
 "| [Sandals of the Saint](sandals_of_the_saint.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Discard X cards from hand to gain +X :empower:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +4 :empower:. | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Scales of the Greater Basilisk](scales_of_the_greater_basilisk.md) | [Minor Artifact](../keywords/minor_artifact.md) | :instant: +3 :spellpower:<br><br>— OR —<br><br>:instant: +1 :spellpower:, then draw a card. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
 "| [Sentinel's Shield](sentinels_shield.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Discard 1 card to gain +3 :defense:.<br><br>— OR —<br><br>:instant: +2 :defense: | [Core Game](../content/core_game.md) |\n"
 "| [Shackles of War](shackles_of_war.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: If played at the start of Combat, the Enemy [Hero](../heroes/index.md) can neither Retreat nor Surrender.<br><br>— OR —<br><br>:instant: Draw 2 cards, choose 1 card and discard the other. | [Core Game](../content/core_game.md) |\n"
 "| [Shaman's Puppet](shamans_puppet.md) | [Minor Artifact](../keywords/minor_artifact.md) | :ongoing: Choose a [unit](../units/index.md). Until the end of its activation, for its every attack, the [unit](../units/index.md) rolls 2 [dice](../dice.md) and resolves the lower result.<br><br>— OR —<br><br>:instant: Remove any effect or [:paralysis:](../keywords/paralysis.md) from the selected [unit](../units/index.md). | [Cove Expansion](../content/cove_expansion.md) |\n"
-"| [Shield of Naval Glory](shield_of_naval_glory.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: +2 :defense:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/water_tile.md), they gain +1 :movement:, and draw 1 card. | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Shield of Naval Glory](shield_of_naval_glory.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: +2 :defense:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/sea_tile.md), they gain +1 :movement:, and draw 1 card. | [Cove Expansion](../content/cove_expansion.md) |\n"
 "| [Shield of the Damned](shield_of_the_damned.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: Target [unit](../units/index.md) gains +3 :defense: and suffers 1 :damage:. It cannot be used on an enemy unit.<br><br>— OR —<br><br>:instant: Target [unit](../units/index.md) gains +5 :defense: and suffers 2 :damage:. It cannot be used on an enemy unit. | [Inferno Expansion](../content/inferno_expansion.md) |\n"
 "| [Shield of the Dwarven Lords](shield_of_the_dwarven_lords.md) | [Minor Artifact](../keywords/minor_artifact.md) | :instant: Use this after the [Attack die](../dice.md#attack-die) roll. Ignore the [Attack die](../dice.md#attack-die) and any additional effects it triggered.<br><br>— OR —<br><br>:instant: +1 :defense: | [Core Game](../content/core_game.md) |\n"
 "| [Shield of the Yawning Dead](shield_of_the_yawning_dead.md) | [Minor Artifact](../keywords/minor_artifact.md) | :instant: Discard 1 card to gain +2 :defense:.<br><br>— OR —<br><br>:instant: +1 :defense: | [Core Game](../content/core_game.md) |\n"
@@ -412,7 +420,7 @@ msgid ""
 "| [Tome of Fire](tome_of_fire.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Find the first [Fire Magic :spellpower:](../spells/school_of_fire_magic.md) in the [Spell](../spells/index.md) deck. Take the [:spellpower:](../spells/index.md) into your hand or discard it. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: When playing a [Fire Magic :spellpower:](../spells/school_of_fire_magic.md), resolve its effect without paying the :empower: cost. | [Conflux Expansion](../content/conflux_expansion.md) |\n"
 "| [Tome of Water](tome_of_water.md) | [Relic Artifact](../keywords/relic_artifact.md) | :instant: Find the first [Water Magic :spellpower:](../spells/school_of_water_magic.md) in the [Spell](../spells/index.md) deck. Take the [:spellpower:](../spells/index.md) into your hand or discard it. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: When playing a [Water Magic :spellpower:](../spells/school_of_water_magic.md), resolve its effect without paying the :empower: cost. | [Conflux Expansion](../content/conflux_expansion.md) |\n"
 "| [Torso of Legion](torso_of_legion.md) | [Minor Artifact](../keywords/minor_artifact.md) | :instant: Reduce the cost of Recruitment or reduce the cost of Reinforcing a [unit](../units/index.md) by 6 :gold: (to a minimum of 0).<br><br>— OR —<br><br>:instant: Gain 1 :valuables: or 2 :building_materials:. | [Rampart Expansion](../content/rampart_expansion.md) |\n"
-"| [Trident of Dominion](trident_of_dominion.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: +2 :attack:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/water_tile.md), draw 2 cards. | [Cove Expansion](../content/cove_expansion.md) |\n"
+"| [Trident of Dominion](trident_of_dominion.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: +2 :attack:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/sea_tile.md), draw 2 cards. | [Cove Expansion](../content/cove_expansion.md) |\n"
 "| [Tunic of the Cyclops King](tunic_of_the_cyclops_king.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: Draw 1 card and gain +1 :empower:.<br><br>— OR —<br><br>:instant: +2 :empower: | [Core Game](../content/core_game.md) |\n"
 "| [Vial of Lifeblood](vial_of_lifeblood.md) | [Major Artifact](../keywords/major_artifact.md) | :instant: Remove up to 3 :damage: from one of your units.<br><br>— OR —<br><br>:ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :health_points:. | [Core Game](../content/core_game.md) |\n"
 msgstr ""
@@ -626,23 +634,31 @@ msgid "[List of Astrologers Proclaim Card](../astrologers_proclaim/index.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/fields/2_resources.md docs/fields/artifact.md
-#: docs/fields/black_market.md docs/fields/dragon_utopia.md
-#: docs/fields/fountain_of_youth.md docs/fields/grail.md
-#: docs/fields/hill_fort.md docs/fields/index.md docs/fields/learning_stone.md
-#: docs/fields/library.md docs/fields/magic_spring.md
-#: docs/fields/market_of_time.md docs/fields/mine.md
+#: docs/fields/artifact_symbol.md docs/fields/black_market.md
+#: docs/fields/buoy.md docs/fields/cyclops_stockpile.md
+#: docs/fields/derelict_ship.md docs/fields/dragon_utopia.md
+#: docs/fields/elemental_conflux.md docs/fields/faerie_ring.md
+#: docs/fields/flotsam.md docs/fields/fountain_of_youth.md docs/fields/grail.md
+#: docs/fields/grave.md docs/fields/hill_fort.md docs/fields/index.md
+#: docs/fields/jetsam.md docs/fields/learning_stone.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/mermaid.md docs/fields/mine.md
 #: docs/fields/mystical_garden.md docs/fields/obelisk.md
-#: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
-#: docs/fields/redwood_observatory.md docs/fields/resources.md
-#: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/settlement.md
-#: docs/fields/shrine_of_magic_gesture.md
-#: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md
-#: docs/fields/star_axis.md docs/fields/tavern.md docs/fields/temple.md
-#: docs/fields/town.md docs/fields/trading_post.md docs/fields/treasure.md
-#: docs/fields/tree_of_knowledge.md docs/fields/university.md
-#: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
-#: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
+#: docs/fields/one_way_monolith.md docs/fields/pandoras_box.md
+#: docs/fields/prison.md docs/fields/random_town.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
+#: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
+#: docs/fields/sea_chest.md docs/fields/settlement.md docs/fields/shipwreck.md
+#: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
+#: docs/fields/stables.md docs/fields/star_axis.md
+#: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
+#: docs/fields/temple_of_the_sea.md docs/fields/town.md
+#: docs/fields/trading_post.md docs/fields/treasure_symbol.md
+#: docs/fields/tree_of_knowledge.md docs/fields/two_way_monolith.md
+#: docs/fields/university.md docs/fields/war_machine_factory.md
+#: docs/fields/warriors_tomb.md docs/fields/water_wheel.md
+#: docs/fields/windmill.md docs/fields/witch_hut.md
 msgid "[List of Tiles](../tiles/index.md)"
 msgstr "[Liste des tuiles](../tiles/index.md)"
 
@@ -680,43 +696,61 @@ msgstr "Les sites sont une case de [Tuile](../tiles/index.md)."
 msgid ""
 "| Name | Type | Effect |\n"
 "| :--- | :---: | :--- |\n"
-"| [Dragon Utopia](dragon_utopia.md) | [Flaggable](../keywords/flaggable_field.md) | Effects depend on the Scenario. |\n"
-"| [Mine](mine.md) | [Flaggable](../keywords/flaggable_field.md) | When flagged, increases the specific resource income (shown on the field). The first player to flag the Mine also gains its income immediately. There are following types of Mines:<br><br>+5 :gold: income<br>+2 :building_materials: income<br>+1 :valuables: income |\n"
-"| [Obelisk](obelisk.md) | [Flaggable](../keywords/flaggable_field.md) | Effects depend on the Scenario. When you Flag this Field, do not remove any enemy Faction Cubes; multiple players may have a [Faction](../towns/index.md) Cube on this Field. |\n"
-"| [Random Town](random_town.md) | [Flaggable](../keywords/flaggable_field.md) | When revealed, all players roll 2 [Resource dice](../dice.md#resource-die). The highest roller chooses an unused [Faction](../towns/index.md). The random [Town](../towns/index.md) is defended by [Units](../units/index.md) from that [Faction](../towns/index.md). They have a \"Pack\" of :bronze:, two \"Packs\" of :silver:, and two \"Fews\" of :golden: [Units](../units/index.md). The :bronze: [Unit](../units/index.md) is chosen by the player who controls the [Units](../units/index.md) during that Combat.<br><br>When flagged, increases :gold: income by 10. The first player to flag the [Town](../towns/index.md) also gains its income immediately. |\n"
-"| [Settlement](settlement.md) | [Flaggable](../keywords/flaggable_field.md) | Works as a spawn point for Secondary [Heroes](../heroes/index.md) or Main [Heroes](../heroes/index.md) that have been defeated.<br><br>Works the same way as a mine, but the player can choose which resource income to increase. The settlement is then marked with a token of the chosen resource.<br><br>— OR —<br><br>Reinforce one of your :bronze: or :silver: [Units](../units/index.md) immediately for half the cost, rounded up. The first player to flag the settlement Reinforces that [Unit](../units/index.md) for free. |\n"
-"| [Star Axis](star_axis.md) | [Flaggable](../keywords/flaggable_field.md) | You may Remove one of your [Statistic](../statistics/index.md) cards from your hand and replace it with an **Empowered** one of the same type. When you Flag this Field, do not remove any enemy Faction Cubes; multiple players may have a Faction Cube on this Field. |\n"
-"| [Town](town.md) | [Flaggable](../keywords/flaggable_field.md) | When flagged, the enemy Secondary [Heroes](../heroes/index.md) or Main [Heroes](../heroes/index.md) that have been defeated cannot spawn here.<br>Flagging an enemy town does prevent the enemy player from using it, nor does it grant any access to the [Town](../towns/index.md) board or [Faction Units](../units/index.md) to the player who flagged it.<br>Flagging a [Town](../towns/index.md) can cause Player Elimination win condition, and some scenarios may have extra rules and rewards attached to flagging [Towns](../towns/index.md). |\n"
-"| [2 Resources](2_resources.md) | [Visitable](../keywords/visitable_field.md) | Roll 2 [Resource Dice](../dice.md#resource-die) and choose the bonus from one of them. |\n"
-"| [Artifact](artifact.md) | [Visitable](../keywords/visitable_field.md) | **Search(2)** the [Artifact](../artifacts/index.md) Deck |\n"
-"| [Fountain of Youth](fountain_of_youth.md) | [Visitable](../keywords/visitable_field.md) | Gain :morale_positive: token. Gain +1 :movement: for this turn. |\n"
-"| [Grail](grail.md) | [Visitable](../keywords/visitable_field.md) | Gain a Grail Token. Only one Grail Token can exist in the game, do not gain another if this Field’s Black Cube is removed or if there are multiple Grail Fields. The Token’s effects are described in the Scenario’s description. |\n"
-"| [Hill Fort](hill_fort.md) | [Visitable](../keywords/visitable_field.md) | You may immediately Reinforce one of your :bronze: or :silver: [Units](../units/index.md). The Reinforcement cost is reduced by 3 :gold: to a minimum of 0. |\n"
-"| [Learning Stone](learning_stone.md) | [Visitable](../keywords/visitable_field.md) | Gain one :experience:. |\n"
-"| [Library](library.md) | [Visitable](../keywords/visitable_field.md) | 🚧 |\n"
-"| [Magic Spring](magic_spring.md) | [Visitable](../keywords/visitable_field.md) | You may look at the top 3 Cards of your Discard Pile and return one of them to your Hand. Return the remaining cards to the top of your Discard Pile in any order. |\n"
-"| [Market of Time](market_of_time.md) | [Visitable](../keywords/visitable_field.md) | Remove one card from your hand. Then **Search(2)** the [Ability](../abilities/index.md), [Spell](../spells/index.md), or [Artifact](../artifacts/index.md) Deck. |\n"
-"| [Mystical Garden](mystical_garden.md) | [Visitable](../keywords/visitable_field.md) | Gain 2 :gold:.<br><br>— OR —<br><br>Gain 1 :valuables:. |\n"
-"| [Pandora's Box](pandoras_box.md) | [Visitable](../keywords/visitable_field.md) | Roll 2 [Treasure Dice](../dice.md#treasure-die) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Resource Dice](../dice.md#resource-die) and choose 1 result to gain. |\n"
-"| [Prison](prison.md) | [Visitable](../keywords/visitable_field.md) | Gain a Secondary [Hero](../heroes/index.md). Place their model on this Field. If you already have a Secondary [Hero](../heroes/index.md), gain 3 :gold: instead. |\n"
-"| [Redwood Observatory](redwood_observatory.md) | [Visitable](../keywords/visitable_field.md) | Discover a face down [Tile](../tiles/index.md) adjacent to this one. |\n"
-"| [Resources](resources.md) | [Visitable](../keywords/visitable_field.md) | Roll a [Resource Die](../dice.md#resource-die) and gain the indicated Resources. |\n"
-"| [Scholar](scholar.md) | [Visitable](../keywords/visitable_field.md) | Roll 1 [Attack Die](../dice.md#attack-die). Depending on the result, do the following:<br><br>**+1** - Gain a [Statistic](../statistics/index.md) Card of your choice or Remove a [Statistic](../statistics/index.md) Card from your hand.<br><br>**0** - Draw 2 Cards from the [Ability](../abilities/index.md) Deck, gain one of them and discard the other.<br><br>**-1** - Draw 2 Cards from the [Spell](../spells/index.md) Deck, gain one of them and discard the other. |\n"
-"| [Shrine of Magic Gesture](shrine_of_magic_gesture.md) | [Visitable](../keywords/visitable_field.md) | Pay :pay: 3 :gold: to **Search(2)** the [Spell](../spells/index.md) Deck. |\n"
-"| [Shrine of Magic Incantation](shrine_of_magic_incantation.md) | [Visitable](../keywords/visitable_field.md) | **Search(2)** the [Spell](../spells/index.md) Deck. |\n"
-"| [Temple](temple.md) | [Visitable](../keywords/visitable_field.md) | Gain :morale_positive: token. |\n"
-"| [Tree of Knowledge](tree_of_knowledge.md) | [Visitable](../keywords/visitable_field.md) | You may :pay: 3 :valuables: or 10 :gold: to gain 2 :experience:. |\n"
-"| [University](university.md) | [Visitable](../keywords/visitable_field.md) | :pay: 6 :gold: to **Search(4)** the [Ability](../abilities/index.md) Discard Pile |\n"
-"| [Warrior's Tomb](warriors_tomb.md) | [Visitable](../keywords/visitable_field.md) | **Search(2)** [Artifacts](../artifacts/index.md) twice, then gain :morale_negative: token twice. |\n"
-"| [Water Wheel](water_wheel.md) | [Visitable](../keywords/visitable_field.md) | Gain 3 :gold:. |\n"
-"| [Windmill](windmill.md) | [Visitable](../keywords/visitable_field.md) | Gain 1 :valuables:. |\n"
-"| [Witch Hut](witch_hut.md) | [Visitable](../keywords/visitable_field.md) | Choose one:<br><br>Remove an [Ability](../abilities/index.md) card from your hand<br><br>— OR —<br><br>look at the top card of the [Ability](../abilities/index.md) Deck and put that card into your hand or into the [Ability](../abilities/index.md) Deck Discard Pile. |\n"
-"| [Black Market](black_market.md) | [Revisitable](../keywords/revisitable_field.md) | Look at the top 4 cards from the [Artifact](../artifacts/index.md) Discard Pile. You may buy one of them for:<br><br>5 :gold: if it is a [Minor Artifact](../keywords/minor_artifact.md)<br>7 :gold: if it is a [Major Artifact](../keywords/major_artifact.md)<br>10 :gold: if it is a [Relic Artifact](../keywords/relic_artifact.md) |\n"
-"| [Sanctuary](sanctuary.md) | [Revisitable](../keywords/revisitable_field.md) | Heroes on this Field cannot be attacked by other [Heroes](../heroes/index.md). Friendly Heroes can move through enemy [Heroes](../heroes/index.md) on this Field but cannot stop here. |\n"
-"| [Stables](stables.md) | [Revisitable](../keywords/revisitable_field.md) | Gain +1 :movement: for this turn. |\n"
-"| [Tavern](tavern.md) | [Revisitable](../keywords/revisitable_field.md) | You can :pay: 7 :gold: to gain a Secondary [Hero](../heroes/index.md). Place their model on this Field. Then, choose one enemy player to discard 1 random card from their hand. |\n"
-"| [Trading Post](trading_post.md) | [Revisitable](../keywords/revisitable_field.md) | Choose one:<br><br>[Trade](../trading.md) resources<br><br>— OR —<br><br>Remove a card<br><br>— OR —<br><br>Buy a [War Machine](../war_machines/index.md) |\n"
-"| [War Machine Factory](war_machine_factory.md) | [Revisitable](../keywords/revisitable_field.md) | Buy a [War Machine](../war_machines/index.md) |\n"
+"| [Artifact Symbol](artifact_symbol.md) | [Visitable Field](../keywords/visitable_field.md) | You may [**Search(2)**](../keywords/search.md) the [Artifact](../artifacts/index.md) deck. |\n"
+"| [Black Market](black_market.md) | [Revisitable Field](../keywords/revisitable_field.md) | Look at the top 4 cards from the [Artifact](../artifacts/index.md) discard pile. You may buy one of them for:<br><br>5 :gold: if it is a [Minor Artifact](../keywords/minor_artifact.md)<br>7 :gold: if it is a [Major Artifact](../keywords/major_artifact.md)<br>10 :gold: if it is a [Relic Artifact](../keywords/relic_artifact.md) |\n"
+"| [Buoy](buoy.md) | [Visitable Field](../keywords/visitable_field.md) | Gain a [Positive Morale](../keywords/positive_morale.md) token. |\n"
+"| [Cyclops Stockpile](cyclops_stockpile.md) | [Visitable Field](../keywords/visitable_field.md) | When preparing the Neutral Army guarding this location, instead of drawing 1 :azure: unit, find 2 :golen: [Cyclopes](../units/cyclopes.md) and add them to the Neutral Army (look for them first in the :golden: discard pile, and then in the :golden: Neutral Unit deck). If you win the Combat, roll and resolve 4 [:resource_die:](../keywords/resource_die.md). Any additional effects depend on the scenario. |\n"
+"| [Derelict Ship](derelict_ship.md) | [Visitable Field](../keywords/visitable_field.md) | You may [**Search(2)**](../keywords/search.md) the [Artifact](../artifacts/index.md) deck. If you do so, you also gain 2 :gold:. |\n"
+"| [Dragon Utopia](dragon_utopia.md) | [Flaggable Field](../keywords/flaggable_field.md) | Effects depend on the Scenario. |\n"
+"| [Elemental Conflux](elemental_conflux.md) | [Visitable Field](../keywords/visitable_field.md) | When you enter this location, for every [Dwelling](../keywords/dwelling.md) you have, draw from the corresponding [Neutral Unit](../units/index.md) deck until you find an \"Elementals\" card. You can [Recruit](../keywords/recruit.md) one of these units if you :pay: its [Recruitment cost](../keywords/recruit.md). Shuffle the rest of the cards back into their decks. |\n"
+"| [Faerie Ring](faerie_ring.md) | [Visitable Field](../keywords/visitable_field.md) | When you enter this location, [**Remove**](../keywords/remove.md) 1 card from your hand, then [**Search (2)**](../keywords/search.md) the card’s deck. You cannot [**Remove**](../keywords/remove.md) [Statistic](../statistics/index.md), Starting [Ability](../abilities/index.md), or [Specialty](../heroes/index.md) cards this way. |\n"
+"| [Flotsam](flotsam.md) | [Visitable Field](../keywords/visitable_field.md) | Gain 2 :building_materials:. |\n"
+"| [Fountain of Youth](fountain_of_youth.md) | [Visitable Field](../keywords/visitable_field.md) | Gain [:morale_positive:](../keywords/positive_morale.md) token. Gain +1 :movement: for this turn. |\n"
+"| [Grail](grail.md) | [Visitable Field](../keywords/visitable_field.md) | Gain a Grail Token. Only one Grail Token can exist in the game, do not gain another if this Field’s Black Cube is removed or if there are multiple Grail Fields. The Token’s effects are described in the Scenario’s description. |\n"
+"| [Grave](grave.md) | [Visitable Field](../keywords/visitable_field.md) | Gain gain [Negative Morale](../keywords/negative_morale.md) token, 3 :gold:, and [**Search(2)**](../keywords/search.md) [:artifact:](../artifacts/index.md). |\n"
+"| [Hill Fort](hill_fort.md) | [Visitable Field](../keywords/visitable_field.md) | You may immediately [Reinforce](../keywords/reinforce.md) one of your :bronze: or :silver: [Units](../units/index.md). The [Reinforcement](../keywords/reinforce.md) cost is reduced by 3 :gold: to a minimum of 0. |\n"
+"| [Jetsam](jetsam.md) | [Visitable Field](../keywords/visitable_field.md) | Roll 1 [Attack Die](../keywords/attack_die.md). Depending on the result, do the following:<br><br>**+1** - Roll and resolve 2 [:resource_die:](../keywords/resource_die.md).<br><br>**0** - Roll and resolve 1 [:resource_die:](../keywords/resource_die.md).<br><br>**-1** - Gain nothing. |\n"
+"| [Learning Stone](learning_stone.md) | [Visitable Field](../keywords/visitable_field.md) | Gain one :experience:. |\n"
+"| [Library of Enlightentment](library_of_enlightenment.md) | [Visitable Field](../keywords/visitable_field.md) | You can :pay: 3 :gold: to [Remove](../keywords/remove.md) 1 [Statistic](../statistics/index.md) card from your hand or discard pile and replace it with any other [Statistic](../statistics/index.md) card. You can do it twice per visit. |\n"
+"| [Magic Spring](magic_spring.md) | [Visitable Field](../keywords/visitable_field.md) | You may look at the top 3 Cards of your Discard Pile and return one of them to your Hand. Return the remaining cards to the top of your Discard Pile in any order. |\n"
+"| [Market of Time](market_of_time.md) | [Visitable Field](../keywords/visitable_field.md) | Remove one card from your hand. Then [**Search(2)**](../keywords/search.md) the [Ability](../abilities/index.md), [Spell](../spells/index.md), or [Artifact](../artifacts/index.md) Deck. |\n"
+"| [Mermaid](mermaid.md) | [Visitable Field](../keywords/visitable_field.md) | The [Hero](../heroes/index.md) who entered this field gains 1 additional MP this turn. You also gain a [Positive Morale](../keywords/positive_morale.md) token. |\n"
+"| [Mine](mine.md) | [Flaggable Field](../keywords/flaggable_field.md) | When flagged, increases the specific resource income (shown on the field). The first player to flag the Mine also gains its income immediately. There are following types of Mines:<br><br>+5 :gold: income<br>+2 :building_materials: income<br>+1 :valuables: income |\n"
+"| [Mystical Garden](mystical_garden.md) | [Visitable Field](../keywords/visitable_field.md) | Gain 2 :gold:.<br><br>— OR —<br><br>Gain 1 :valuables:. |\n"
+"| [Obelisk](obelisk.md) | [Flaggable Field](../keywords/flaggable_field.md) | Effects depend on the Scenario. When you Flag this Field, do not remove any enemy Faction Cubes; multiple players may have a [Faction](../towns/index.md) Cube on this Field. |\n"
+"| [One-Way Monolith](one_way_monolith.md) | [Revisitable Field](../keywords/revisitable_field.md) | When you enter this location, move your Hero to the corresponding Exit Monolith location. You **cannot** use the Exit Monolith to move back to the Entrance Monolith. |\n"
+"| [Pandora's Box](pandoras_box.md) | [Visitable Field](../keywords/visitable_field.md) | Roll 2 [Treasure Dice](../keywords/treasure_die.md) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Resource Dice](../keywords/resource_die.md) and choose 1 result to gain. |\n"
+"| [Prison](prison.md) | [Visitable Field](../keywords/visitable_field.md) | Gain a Secondary [Hero](../heroes/index.md). Place their model on this Field. If you already have a Secondary [Hero](../heroes/index.md), gain 3 :gold: instead. |\n"
+"| [Random Town](random_town.md) | [Flaggable Field](../keywords/flaggable_field.md) | When revealed, all players roll 2 [Resource dice](../keywords/resource_die.md). The highest roller chooses an unused [Faction](../towns/index.md). The random [Town](../towns/index.md) is defended by [Units](../units/index.md) from that [Faction](../towns/index.md). They have a \"Pack\" of :bronze:, two \"Packs\" of :silver:, and two \"Fews\" of :golden: [Units](../units/index.md). The :bronze: [Unit](../units/index.md) is chosen by the player who controls the [Units](../units/index.md) during that Combat.<br><br>When flagged, increases :gold: income by 10. The first player to flag the [Town](../towns/index.md) also gains its income immediately. |\n"
+"| [Redwood Observatory](redwood_observatory.md) | [Visitable Field](../keywords/visitable_field.md) | Discover a face down [Tile](../tiles/index.md) adjacent to this one. |\n"
+"| [Resource Symbol](resource_symbol.md) | [Visitable Field](../keywords/visitable_field.md) | Roll a specified number of [Resource dice](../keywords/resource_die.md), then select one to resolve its effect. |\n"
+"| [Sanctuary](sanctuary.md) | [Revisitable Field](../keywords/revisitable_field.md) | Heroes on this Field cannot be attacked by other [Heroes](../heroes/index.md). Friendly Heroes can move through enemy [Heroes](../heroes/index.md) on this Field but cannot stop here. |\n"
+"| [Scholar](scholar.md) | [Visitable Field](../keywords/visitable_field.md) | Roll 1 [Attack Die](../keywords/attack_die.md). Depending on the result, do the following:<br><br>**+1** - Gain a [Statistic](../statistics/index.md) Card of your choice or Remove a [Statistic](../statistics/index.md) Card from your hand.<br><br>**0** - Draw 2 Cards from the [Ability](../abilities/index.md) Deck, gain one of them and discard the other.<br><br>**-1** - Draw 2 Cards from the [Spell](../spells/index.md) Deck, gain one of them and discard the other. |\n"
+"| [Sea Barrel](sea_barrel.md) | [Visitable Field](../keywords/visitable_field.md) | Roll and resolve 1 [:resource_die:](../keywords/resource_die.md). |\n"
+"| [Sea Chest](sea_chest.md) | [Visitable Field](../keywords/visitable_field.md) | Roll 1 [Attack Die](../keywords/attack_die.md). Depending on the result, do the following:<br><br>**+1** - [**Search(1)**](../keywords/search.md) [:artifact:](../artifacts/index.md).<br><br>**0** - Gain 5 :gold:.<br><br>**-1** - Gain nothing. |\n"
+"| [Settlement](settlement.md) | [Flaggable Field](../keywords/flaggable_field.md) | Works as a spawn point for Secondary [Heroes](../heroes/index.md) or Main [Heroes](../heroes/index.md) that have been defeated.<br><br>Works the same way as a mine, but the player can choose which resource income to increase. The settlement is then marked with a token of the chosen resource.<br><br>— OR —<br><br>Reinforce one of your :bronze: or :silver: [Units](../units/index.md) immediately for half the cost, rounded up. The first player to flag the settlement Reinforces that [Unit](../units/index.md) for free. |\n"
+"| [Shipwreck](shipwreck.md) | [Visitable Field](../keywords/visitable_field.md) | Roll and resolve 2 [:resource_die:](../keywords/resource_die.md). |\n"
+"| [Shipwreck Survivor](shipwreck_survivor.md) | [Visitable Field](../keywords/visitable_field.md) | [**Search(2)**](../keywords/search.md) [:artifact:](../artifacts/index.md). |\n"
+"| [Shrine of Magic Gesture](shrine_of_magic_gesture.md) | [Visitable Field](../keywords/visitable_field.md) | Pay :pay: 3 :gold: to [**Search(2)**](../keywords/search.md) the [Spell](../spells/index.md) Deck. |\n"
+"| [Shrine of Magic Incantation](shrine_of_magic_incantation.md) | [Visitable Field](../keywords/visitable_field.md) | [**Search(2)**](../keywords/search.md) the [Spell](../spells/index.md) Deck. |\n"
+"| [Spell Scroll](spell_scroll.md) | [Visitable Field](../keywords/visitable_field.md) | When you enter this location, take 1 Spell Scroll card, place it near your [Hero](../heroes/index.md) card, and follow the instructions on the card. |\n"
+"| [Stables](stables.md) | [Revisitable Field](../keywords/revisitable_field.md) | Gain +1 :movement: for this turn. |\n"
+"| [Star Axis](star_axis.md) | [Flaggable Field](../keywords/flaggable_field.md) | You may Remove one of your [Statistic](../statistics/index.md) cards from your hand and replace it with an **Empowered** one of the same type. When you Flag this Field, do not remove any enemy Faction Cubes; multiple players may have a Faction Cube on this Field. |\n"
+"| [Subterranean Gate](subterranean_gate.md) | [Revisitable Field](../keywords/revisitable_field.md) | When you enter this location, move to the connected location on the adjacent [tile](../tiles/index.md). This location allows you to enter or exit [Subterranean tiles](../keywords/subterranean_tile.md. |\n"
+"| [Tavern](tavern.md) | [Revisitable Field](../keywords/revisitable_field.md) | You can :pay: 7 :gold: to gain a Secondary [Hero](../heroes/index.md). Place their model on this Field. Then, choose one enemy player to discard 1 random card from their hand. |\n"
+"| [Temple](temple.md) | [Visitable Field](../keywords/visitable_field.md) | Gain [:morale_positive:](../keywords/morale_positive.md) token. |\n"
+"| [Temple of the Sea](temple_of_the_sea.md) | [Visitable Field](../keywords/visitable_field.md) | Gain 10 :gold: and [**Search(2)**](../keywords/search.md) [:artifact:](../artifacts/index.md) twice. |\n"
+"| [Town](town.md) | [Flaggable Field](../keywords/flaggable_field.md) | When flagged, the enemy Secondary [Heroes](../heroes/index.md) or Main [Heroes](../heroes/index.md) that have been defeated cannot spawn here.<br>Flagging an enemy town does prevent the enemy player from using it, nor does it grant any access to the [Town](../towns/index.md) board or [Faction Units](../units/index.md) to the player who flagged it.<br>Flagging a [Town](../towns/index.md) can cause Player Elimination win condition, and some scenarios may have extra rules and rewards attached to flagging [Towns](../towns/index.md). |\n"
+"| [Trading Post](trading_post.md) | [Revisitable Field](../keywords/revisitable_field.md) | Choose one:<br><br>[Trade](../trading.md) resources<br><br>— OR —<br><br>Remove a card<br><br>— OR —<br><br>Buy a [War Machine](../war_machines/index.md) |\n"
+"| [Treasure Symbol](treasure_symbol.md) | [Visitable Field](../keywords/visitable_field.md) | Roll a specified number of [Treasure dice](../keywords/treasure_die.md), then select one to resolve its effect. |\n"
+"| [Tree of Knowledge](tree_of_knowledge.md) | [Visitable Field](../keywords/visitable_field.md) | You may :pay: 3 :valuables: or 10 :gold: to gain 2 :experience:. |\n"
+"| [Two-Way Monolith](two_way_monolith.md) | [Revisitable Field](../keywords/revisitable_field.md) | When you enter this location, move your Hero to the corresponding Exit Monolith location. You can **use** the Exit Monolith to move back to the Entrance Monolith. |\n"
+"| [University](university.md) | [Visitable Field](../keywords/visitable_field.md) | :pay: 6 :gold: to [**Search(4)**](../keywords/search.md) the [Ability](../abilities/index.md) Discard Pile |\n"
+"| [War Machine Factory](war_machine_factory.md) | [Revisitable Field](../keywords/revisitable_field.md) | Buy a [War Machine](../war_machines/index.md) |\n"
+"| [Warrior's Tomb](warriors_tomb.md) | [Visitable Field](../keywords/visitable_field.md) | [**Search(2)**](../keywords/search.md) [Artifacts](../artifacts/index.md) twice, then gain [:morale_negative:](../keywords/negative_morale.md) token twice. |\n"
+"| [Water Wheel](water_wheel.md) | [Visitable Field](../keywords/visitable_field.md) | Gain 3 :gold:. |\n"
+"| [Windmill](windmill.md) | [Visitable Field](../keywords/visitable_field.md) | Gain 1 :valuables:. |\n"
+"| [Witch Hut](witch_hut.md) | [Visitable Field](../keywords/visitable_field.md) | Choose one:<br><br>Remove an [Ability](../abilities/index.md) card from your hand<br><br>— OR —<br><br>look at the top card of the [Ability](../abilities/index.md) Deck and put that card into your hand or into the [Ability](../abilities/index.md) Deck Discard Pile. |\n"
 msgstr ""
 
 #. type: Title #
@@ -937,42 +971,43 @@ msgstr "Merci à la communauté pour son aide, ses conseils et ses idées."
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
-#: docs/keywords/index.md docs/keywords/near_tile.md
-#: docs/keywords/underground_tile.md docs/keywords/water_tile.md
+#: docs/keywords/index.md docs/keywords/near_tile.md docs/keywords/sea_tile.md
+#: docs/keywords/subterranean_tile.md
 msgid "[Starting Tile](starting_tile.md)"
 msgstr "[Tuile de départ](starting_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/index.md
-#: docs/keywords/near_tile.md docs/keywords/starting_tile.md
-#: docs/keywords/underground_tile.md docs/keywords/water_tile.md
+#: docs/keywords/near_tile.md docs/keywords/sea_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
 msgid "[Far Tile](far_tile.md)"
 msgstr "[Tuile lointaine](far_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
-#: docs/keywords/index.md docs/keywords/starting_tile.md
-#: docs/keywords/underground_tile.md docs/keywords/water_tile.md
+#: docs/keywords/index.md docs/keywords/sea_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
 msgid "[Near Tile](near_tile.md)"
 msgstr "[Tuile proche](near_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/index.md docs/keywords/near_tile.md
-#: docs/keywords/starting_tile.md docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md
 msgid "[Underground Tile](underground_tile.md)"
 msgstr "[Tuile souterraine](underground_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/index.md docs/keywords/near_tile.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
+#: docs/keywords/starting_tile.md
 msgid "[Water Tile](water_tile.md)"
 msgstr "[Tuile maritime](water_tile.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md docs/keywords/index.md docs/keywords/near_tile.md
-#: docs/keywords/starting_tile.md docs/keywords/water_tile.md
+#: docs/keywords/sea_tile.md docs/keywords/starting_tile.md
+#: docs/keywords/subterranean_tile.md
 msgid "[Center Tile](center_tile.md)"
 msgstr "[Tuile centrale](center_tile.md)"
 

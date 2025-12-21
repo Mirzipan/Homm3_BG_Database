@@ -11,7 +11,7 @@ ___
 
 - [Trading Post](../trading.md)
 - [Ⅱ](../difficulties.md) [Artifact](../artifacts/index.md)
-- [Resources](../fields/resources.md)
+- [Resources](../fields/resource_symbol.md)
 - [Empty Field](../keywords/empty_field.md)
 - [Learning Stone](../fields/learning_stone.md)
 - [Blocked Field](../keywords/blocked_field.md)
