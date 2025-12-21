@@ -155,8 +155,8 @@ msgstr ""
 #: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
 #: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
-#: docs/heroes/zydar.md docs/keywords/underground_tile.md
-#: docs/keywords/water_tile.md docs/spells/air_shield.md
+#: docs/heroes/zydar.md docs/keywords/subterranean_tile.md
+#: docs/keywords/sea_tile.md docs/spells/air_shield.md
 #: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
 #: docs/spells/blind.md docs/spells/bloodlust.md docs/spells/chain_lightning.md
 #: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
@@ -403,8 +403,8 @@ msgstr "Pochodzi z"
 #: docs/keywords/flaggable_field.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
 #: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/sea_tile.md
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
 #: docs/spells/bless.md docs/spells/blind.md docs/spells/bloodlust.md
 #: docs/spells/chain_lightning.md docs/spells/counterstrike.md
@@ -496,7 +496,7 @@ msgstr "Zobacz też"
 #: docs/artifacts/shield_of_naval_glory.md
 #: docs/artifacts/trident_of_dominion.md docs/heroes/casmetra.md
 #: docs/heroes/cassiopeia.md docs/heroes/jeremy.md docs/heroes/zilare.md
-#: docs/keywords/water_tile.md docs/tiles/s9.md docs/tiles/w1.md
+#: docs/keywords/sea_tile.md docs/tiles/s9.md docs/tiles/w1.md
 #: docs/tiles/w2.md docs/tiles/w3.md docs/towns/cove.md docs/units/ayssids.md
 #: docs/units/haspids.md docs/units/nix.md docs/units/oceanids.md
 #: docs/units/sea_dogs.md docs/units/seamen.md docs/units/sorceresses.md
@@ -614,7 +614,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/artifacts/trident_of_dominion.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :attack:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/water_tile.md), draw 2 cards.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :attack:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/sea_tile.md), draw 2 cards.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów.<br><br>Każdy Bohater zyskuje 1 PR.</p>\n"
 
 #. type: Plain text

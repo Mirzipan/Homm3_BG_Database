@@ -48,8 +48,8 @@ msgstr ""
 #: docs/keywords/near_tile.md docs/keywords/paralysis.md
 #: docs/keywords/permanent_effect.md docs/keywords/ranged_unit.md
 #: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/sea_tile.md
 #: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
 #: docs/spells/blind.md docs/spells/chain_lightning.md docs/spells/cure.md
 #: docs/spells/dimension_door.md docs/spells/dispel.md
@@ -205,8 +205,8 @@ msgstr "Notas"
 #: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
 #: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
-#: docs/heroes/zydar.md docs/keywords/underground_tile.md
-#: docs/keywords/water_tile.md docs/spells/air_shield.md
+#: docs/heroes/zydar.md docs/keywords/subterranean_tile.md
+#: docs/keywords/sea_tile.md docs/spells/air_shield.md
 #: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
 #: docs/spells/blind.md docs/spells/bloodlust.md docs/spells/chain_lightning.md
 #: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
@@ -438,8 +438,8 @@ msgstr "Viene Con"
 #: docs/keywords/flaggable_field.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
 #: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/sea_tile.md
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
 #: docs/spells/bless.md docs/spells/blind.md docs/spells/bloodlust.md
 #: docs/spells/chain_lightning.md docs/spells/counterstrike.md
@@ -527,7 +527,7 @@ msgstr "Ver También"
 #. type: Bullet: '- '
 #: docs/abilities/interference.md docs/heroes/casmetra.md
 #: docs/heroes/cassiopeia.md docs/heroes/jeremy.md docs/heroes/zilare.md
-#: docs/keywords/water_tile.md docs/tiles/s9.md docs/tiles/w1.md
+#: docs/keywords/sea_tile.md docs/tiles/s9.md docs/tiles/w1.md
 #: docs/tiles/w2.md docs/tiles/w3.md docs/towns/cove.md docs/units/ayssids.md
 #: docs/units/haspids.md docs/units/nix.md docs/units/oceanids.md
 #: docs/units/sea_dogs.md docs/units/seamen.md docs/units/sorceresses.md
@@ -537,8 +537,8 @@ msgstr "[Expansión de Ensenada](../content/cove_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
-#: docs/keywords/near_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/water_tile.md
+#: docs/keywords/near_tile.md docs/keywords/subterranean_tile.md
+#: docs/keywords/sea_tile.md
 #, fuzzy
 msgid "[Starting Tile](starting_tile.md)"
 msgstr ""
@@ -555,8 +555,8 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/near_tile.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
+#: docs/keywords/sea_tile.md
 #, fuzzy
 msgid "[Far Tile](far_tile.md)"
 msgstr ""
@@ -573,8 +573,8 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
+#: docs/keywords/sea_tile.md
 #, fuzzy
 msgid "[Near Tile](near_tile.md)"
 msgstr ""
@@ -592,7 +592,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/keywords/center_tile.md docs/keywords/far_tile.md
 #: docs/keywords/near_tile.md docs/keywords/starting_tile.md
-#: docs/keywords/water_tile.md
+#: docs/keywords/sea_tile.md
 #, fuzzy
 msgid "[Underground Tile](underground_tile.md)"
 msgstr ""
@@ -609,7 +609,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/far_tile.md docs/keywords/near_tile.md
-#: docs/keywords/starting_tile.md docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/sea_tile.md
 #, fuzzy
 msgid "[Center Tile](center_tile.md)"
 msgstr ""
@@ -623,28 +623,28 @@ msgstr ""
 "[Tile central] (Center_tile.md)"
 
 #. type: Title #
-#: docs/keywords/water_tile.md
+#: docs/keywords/sea_tile.md
 #, no-wrap
 msgid "Water Tile"
 msgstr "Loseta de Agua"
 
 #. type: Title ##
-#: docs/keywords/water_tile.md
+#: docs/keywords/sea_tile.md
 #, no-wrap
 msgid "List of Water Tiles"
 msgstr "Lista de Losetas de Agua"
 
 #. type: Bullet: '- '
-#: docs/keywords/water_tile.md
+#: docs/keywords/sea_tile.md
 msgid "[W1](../tiles/w1.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/water_tile.md
+#: docs/keywords/sea_tile.md
 msgid "[W2](../tiles/w2.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/water_tile.md
+#: docs/keywords/sea_tile.md
 msgid "[W3](../tiles/w3.md)"
 msgstr ""

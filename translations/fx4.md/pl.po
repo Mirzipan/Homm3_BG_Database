@@ -140,8 +140,8 @@ msgstr ""
 #: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
 #: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
-#: docs/heroes/zydar.md docs/keywords/underground_tile.md
-#: docs/keywords/water_tile.md docs/spells/air_shield.md
+#: docs/heroes/zydar.md docs/keywords/subterranean_tile.md
+#: docs/keywords/sea_tile.md docs/spells/air_shield.md
 #: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
 #: docs/spells/blind.md docs/spells/bloodlust.md docs/spells/chain_lightning.md
 #: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
@@ -406,8 +406,8 @@ msgstr "[Rozszerzenie Forteca](../content/tower_expansion.md)"
 #: docs/keywords/flaggable_field.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
 #: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/sea_tile.md
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
 #: docs/spells/bless.md docs/spells/blind.md docs/spells/bloodlust.md
 #: docs/spells/chain_lightning.md docs/spells/counterstrike.md

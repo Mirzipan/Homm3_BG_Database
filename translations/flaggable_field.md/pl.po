@@ -48,8 +48,8 @@ msgstr ""
 #: docs/keywords/near_tile.md docs/keywords/paralysis.md
 #: docs/keywords/permanent_effect.md docs/keywords/ranged_unit.md
 #: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/sea_tile.md
 #: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
 #: docs/spells/blind.md docs/spells/chain_lightning.md docs/spells/cure.md
 #: docs/spells/dimension_door.md docs/spells/dispel.md
@@ -234,8 +234,8 @@ msgstr "Uwagi"
 #: docs/keywords/flaggable_field.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
 #: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/sea_tile.md
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
 #: docs/spells/bless.md docs/spells/blind.md docs/spells/bloodlust.md
 #: docs/spells/chain_lightning.md docs/spells/counterstrike.md

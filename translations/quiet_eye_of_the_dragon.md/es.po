@@ -155,8 +155,8 @@ msgstr ""
 #: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
 #: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
-#: docs/heroes/zydar.md docs/keywords/underground_tile.md
-#: docs/keywords/water_tile.md docs/spells/air_shield.md
+#: docs/heroes/zydar.md docs/keywords/subterranean_tile.md
+#: docs/keywords/sea_tile.md docs/spells/air_shield.md
 #: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
 #: docs/spells/blind.md docs/spells/bloodlust.md docs/spells/chain_lightning.md
 #: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
@@ -403,8 +403,8 @@ msgstr "Viene Con"
 #: docs/keywords/flaggable_field.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
 #: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/sea_tile.md
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
 #: docs/spells/bless.md docs/spells/blind.md docs/spells/bloodlust.md
 #: docs/spells/chain_lightning.md docs/spells/counterstrike.md
@@ -588,7 +588,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/
 #: docs/artifacts/diplomats_ring.md docs/artifacts/quiet_eye_of_the_dragon.md
 #: docs/artifacts/thunder_helmet.md docs/fields/subterranean_gate.md
 #: docs/heroes/crag_hack.md docs/heroes/gundula.md docs/heroes/shiva.md
-#: docs/heroes/yog.md docs/keywords/underground_tile.md docs/tiles/s7.md
+#: docs/heroes/yog.md docs/keywords/subterranean_tile.md docs/tiles/s7.md
 #: docs/tiles/u1.md docs/tiles/u2.md docs/towns/stronghold.md
 #: docs/units/behemoths.md docs/units/cyclopes.md docs/units/goblins.md
 #: docs/units/ogres.md docs/units/orcs.md docs/units/thunderbirds.md

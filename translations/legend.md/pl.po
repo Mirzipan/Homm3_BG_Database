@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2025-12-21 16:34+0000\n"
+"POT-Creation-Date: 2025-09-30 19:07+0000\n"
 "PO-Revision-Date: 2024-10-17 23:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -21,6 +21,16 @@ msgstr ""
 #, no-wrap
 msgid "Dice"
 msgstr "Kości"
+
+#. type: Title ##
+#: docs/fields/resource_symbol.md docs/legend.md
+#, fuzzy, no-wrap
+msgid "Resources"
+msgstr ""
+"#-#-#-#-#  pl.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"Zasób\n"
+"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
+"Zasoby"
 
 #. type: Title ##
 #: docs/keywords/index.md docs/legend.md docs/towns/castle.md
@@ -138,16 +148,6 @@ msgid ""
 "| :spellpower: | [Spell](spells/index.md) |\n"
 "| :artifact: | [Artifact](artifacts/index.md) |\n"
 msgstr ""
-
-#. type: Title ##
-#: docs/legend.md
-#, fuzzy, no-wrap
-msgid "Resources"
-msgstr ""
-"#-#-#-#-#  pl.po (Homm 3_BG_Database)  #-#-#-#-#\n"
-"Zasób\n"
-"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
-"Zasoby"
 
 #. type: Plain text
 #: docs/legend.md
