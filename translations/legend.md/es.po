@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-09-30 19:07+0000\n"
+"POT-Creation-Date: 2025-12-21 16:34+0000\n"
 "PO-Revision-Date: 2024-10-21 11:09+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -21,12 +21,6 @@ msgstr ""
 #, no-wrap
 msgid "Dice"
 msgstr "Dados"
-
-#. type: Title ##
-#: docs/fields/resource_symbol.md docs/legend.md
-#, no-wrap
-msgid "Resources"
-msgstr "Recursos"
 
 #. type: Title ##
 #: docs/keywords/index.md docs/legend.md docs/towns/castle.md
@@ -186,6 +180,12 @@ msgstr ""
 "| :---: | :--- |\n"
 "| :spellpower: | [Hechizo](spells/index.md) |\n"
 "| :artifact: | [Artefacto](artifacts/index.md) |\n"
+
+#. type: Title ##
+#: docs/legend.md
+#, no-wrap
+msgid "Resources"
+msgstr "Recursos"
 
 #. type: Plain text
 #: docs/legend.md
