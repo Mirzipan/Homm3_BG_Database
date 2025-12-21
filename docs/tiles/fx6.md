@@ -11,7 +11,7 @@ ___
 
 - [Trading Post](../trading.md)
 - [Blocked Field](../keywords/blocked_field.md)
-- [Ⅱ](../difficulties.md) [Treasure](../fields/treasure_symbol.md)
+- [Ⅱ](../difficulties.md) [:treasure:](../fields/treasure_symbol.md)
 - [Windmill](../fields/windmill.md)
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
 - [Library](../fields/library_of_enlightenment.md)

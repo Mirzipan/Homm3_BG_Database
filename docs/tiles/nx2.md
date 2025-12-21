@@ -14,7 +14,7 @@ ___
 - [Blocked Field](../keywords/blocked_field.md)
 - [Obelisk](../fields/obelisk.md)
 - [Trading Post](../trading.md)
-- [Ⅳ](../difficulties.md) [Treasure](../fields/treasure_symbol.md)
+- [Ⅳ](../difficulties.md) [:treasure:](../fields/treasure_symbol.md)
 - [Witch Hut](../fields/witch_hut.md)
 
 
