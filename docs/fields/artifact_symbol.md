@@ -1,4 +1,4 @@
-# Artifact
+# Artifact Symbol
 
 <figure markdown="span">
 
@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
 ___
-<p style="text-align: center;" markdown>**Search(2)** the [Artifact](../artifacts/index.md) Deck</p>
+<p style="text-align: center;" markdown>You may [**Search(2)**](../keywords/search.md) the [Artifact](../artifacts/index.md) deck.</p>
 ___
 
 

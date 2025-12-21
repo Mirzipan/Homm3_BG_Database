@@ -130,7 +130,7 @@ msgstr ""
 #: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#: docs/fields/2_resources.md docs/fields/artifact.md
+#: docs/fields/2_resources.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/index.md docs/fields/learning_stone.md
@@ -298,7 +298,7 @@ msgstr "Ver También"
 #: docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#: docs/fields/2_resources.md docs/fields/artifact.md
+#: docs/fields/2_resources.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/learning_stone.md
@@ -361,7 +361,7 @@ msgstr "<figure markdown=\"span\">\n"
 #: docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#: docs/fields/2_resources.md docs/fields/artifact.md
+#: docs/fields/2_resources.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/learning_stone.md
@@ -383,7 +383,7 @@ msgid "</figure>\n"
 msgstr "</figure>\n"
 
 #. type: Plain text
-#: docs/fields/2_resources.md docs/fields/artifact.md
+#: docs/fields/2_resources.md docs/fields/artifact_symbol.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/learning_stone.md
 #: docs/fields/library.md docs/fields/magic_spring.md
@@ -400,7 +400,7 @@ msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/v
 msgstr "<p style=\"text-align: center;\" markdown>[Lugar Visitable](../keywords/visitable_field.md)</p>\n"
 
 #. type: Bullet: '- '
-#: docs/fields/2_resources.md docs/fields/artifact.md
+#: docs/fields/2_resources.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/learning_stone.md
@@ -421,7 +421,7 @@ msgid "[List of Fields](index.md)"
 msgstr "[Lista de Lugares](index.md)"
 
 #. type: Bullet: '- '
-#: docs/fields/2_resources.md docs/fields/artifact.md
+#: docs/fields/2_resources.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/index.md docs/fields/learning_stone.md
@@ -442,18 +442,18 @@ msgid "[List of Tiles](../tiles/index.md)"
 msgstr "[Lista de Losetas](../tiles/index.md)"
 
 #. type: Title #
-#: docs/fields/artifact.md
+#: docs/fields/artifact_symbol.md
 #, no-wrap
 msgid "Artifact"
 msgstr "Artefacto"
 
 #. type: Plain text
-#: docs/fields/artifact.md
+#: docs/fields/artifact_symbol.md
 msgid "![Artifact Map Location](../assets/locations-artifact_symbol.webp){ width=\"475\" align=right }"
 msgstr "![Ubicación de Artefacto](../assets/locations-artifact_symbol.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
-#: docs/fields/artifact.md
+#: docs/fields/artifact_symbol.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>**Search(2)** the [Artifact](../artifacts/index.md) Deck</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>**Busca(2)** en el Mazo de [Artefacto](../artifacts/index.md)</p>\n"

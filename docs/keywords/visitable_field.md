@@ -4,7 +4,7 @@
 ## List of Visitable Fields
 
 - [2 Resources](../fields/2_resources.md)
-- [Artifact](../fields/artifact.md)
+- [Artifact](../fields/artifact_symbol.md)
 - [Fountain of Youth](../fields/fountain_of_youth.md)
 - [Grail](../fields/grail.md)
 - [Hill Fort](../fields/hill_fort.md)
