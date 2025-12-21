@@ -130,15 +130,15 @@ msgstr ""
 #: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#: docs/fields/2_resources.md docs/fields/artifact_symbol.md
+#: docs/fields/resource_symbol.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/index.md docs/fields/learning_stone.md
-#: docs/fields/library.md docs/fields/magic_spring.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
 #: docs/fields/market_of_time.md docs/fields/mine.md
 #: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
-#: docs/fields/redwood_observatory.md docs/fields/resources.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/settlement.md
 #: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md
@@ -259,7 +259,7 @@ msgstr "Ver También"
 #. type: Plain text
 #: docs/abilities/interference.md docs/artifacts/necklace_of_swiftness.md
 #: docs/artifacts/pendant_of_courage.md docs/artifacts/skull_helmet.md
-#: docs/fields/library.md docs/fields/treasure.md
+#: docs/fields/library_of_enlightenment.md docs/fields/treasure.md
 #, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>🚧</p>\n"
 msgstr ""
@@ -306,15 +306,15 @@ msgstr ""
 #: docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#: docs/fields/2_resources.md docs/fields/artifact_symbol.md
+#: docs/fields/resource_symbol.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/learning_stone.md
-#: docs/fields/library.md docs/fields/magic_spring.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
 #: docs/fields/market_of_time.md docs/fields/mine.md
 #: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
-#: docs/fields/redwood_observatory.md docs/fields/resources.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md
 #: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md
@@ -369,15 +369,15 @@ msgstr "<figure markdown=\"span\">\n"
 #: docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#: docs/fields/2_resources.md docs/fields/artifact_symbol.md
+#: docs/fields/resource_symbol.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/learning_stone.md
-#: docs/fields/library.md docs/fields/magic_spring.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
 #: docs/fields/market_of_time.md docs/fields/mine.md
 #: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
-#: docs/fields/redwood_observatory.md docs/fields/resources.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md
 #: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md
@@ -391,13 +391,13 @@ msgid "</figure>\n"
 msgstr "</figure>\n"
 
 #. type: Plain text
-#: docs/fields/2_resources.md docs/fields/artifact_symbol.md
+#: docs/fields/resource_symbol.md docs/fields/artifact_symbol.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/learning_stone.md
-#: docs/fields/library.md docs/fields/magic_spring.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
 #: docs/fields/market_of_time.md docs/fields/mystical_garden.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md
-#: docs/fields/redwood_observatory.md docs/fields/resources.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/scholar.md docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/temple.md
 #: docs/fields/treasure.md docs/fields/tree_of_knowledge.md
@@ -408,15 +408,15 @@ msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/v
 msgstr "<p style=\"text-align: center;\" markdown>[Lugar Visitable](../keywords/visitable_field.md)</p>\n"
 
 #. type: Bullet: '- '
-#: docs/fields/2_resources.md docs/fields/artifact_symbol.md
+#: docs/fields/resource_symbol.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/learning_stone.md
-#: docs/fields/library.md docs/fields/magic_spring.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
 #: docs/fields/market_of_time.md docs/fields/mine.md
 #: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
-#: docs/fields/redwood_observatory.md docs/fields/resources.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/settlement.md
 #: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md
@@ -429,15 +429,15 @@ msgid "[List of Fields](index.md)"
 msgstr "[Lista de Lugares](index.md)"
 
 #. type: Bullet: '- '
-#: docs/fields/2_resources.md docs/fields/artifact_symbol.md
+#: docs/fields/resource_symbol.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/index.md docs/fields/learning_stone.md
-#: docs/fields/library.md docs/fields/magic_spring.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
 #: docs/fields/market_of_time.md docs/fields/mine.md
 #: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
-#: docs/fields/redwood_observatory.md docs/fields/resources.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/settlement.md
 #: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md

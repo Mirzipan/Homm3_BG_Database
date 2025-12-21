@@ -23,7 +23,7 @@ msgid "Dice"
 msgstr "Dados"
 
 #. type: Title ##
-#: docs/fields/resources.md docs/legend.md
+#: docs/fields/resource_symbol.md docs/legend.md
 #, no-wrap
 msgid "Resources"
 msgstr "Recursos"
