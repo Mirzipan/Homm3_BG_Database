@@ -10,9 +10,8 @@
 
 ## Inside The Box
 
-- *Unreleased*
 - [Stronghold Faction](../towns/stronghold.md)
-- [Underground Tiles](../tiles/index.md)
+- [Subterranean Tiles](../keywords/subterranean_tile.md)
 
 
 ## See Also

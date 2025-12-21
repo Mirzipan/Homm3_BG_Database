@@ -610,8 +610,8 @@ msgstr "[Ⅴ](../difficulties.md) :gold: [Mina](../fields/mine.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/n14.md docs/tiles/n8.md docs/tiles/nx2.md docs/tiles/u1.md
-msgid "[Ⅳ](../difficulties.md) [Treasure](../fields/treasure.md)"
-msgstr "[Ⅳ](../difficulties.md) [Tesoro](../fields/treasure.md)"
+msgid "[Ⅳ](../difficulties.md) [Treasure](../fields/treasure_symbol.md)"
+msgstr "[Ⅳ](../difficulties.md) [Tesoro](../fields/treasure_symbol.md)"
 
 #. type: Title #
 #: docs/tiles/n8.md

@@ -610,7 +610,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/tiles/n14.md docs/tiles/n8.md docs/tiles/nx2.md docs/tiles/u1.md
-msgid "[Ⅳ](../difficulties.md) [Treasure](../fields/treasure.md)"
+msgid "[Ⅳ](../difficulties.md) [Treasure](../fields/treasure_symbol.md)"
 msgstr ""
 
 #. type: Title #

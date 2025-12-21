@@ -13,7 +13,7 @@ ___
 - [Windmill](../fields/windmill.md)
 - [Ⅲ](../difficulties.md) [Tower Settlement](../towns/tower.md)
 - [Blocked Field](../keywords/blocked_field.md)
-- [Ⅱ](../difficulties.md) [Treasure](../fields/treasure.md)
+- [Ⅱ](../difficulties.md) [Treasure](../fields/treasure_symbol.md)
 - [Stables](../fields/stables.md)
 - [Witch Hut](../fields/witch_hut.md)
 

@@ -621,7 +621,7 @@ msgstr "F13"
 #. type: Bullet: '- '
 #: docs/tiles/f13.md docs/tiles/f7.md docs/tiles/f8.md docs/tiles/f9.md
 #: docs/tiles/fx1.md docs/tiles/fx6.md
-msgid "[Ⅱ](../difficulties.md) [Treasure](../fields/treasure.md)"
+msgid "[Ⅱ](../difficulties.md) [Treasure](../fields/treasure_symbol.md)"
 msgstr ""
 
 #. type: Bullet: '- '

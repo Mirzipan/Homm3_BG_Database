@@ -12,7 +12,7 @@ ___
 - [Blocked Field](../keywords/blocked_field.md)
 - [Black Market](../fields/black_market.md)
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
-- [Treasure](../fields/treasure.md)
+- [Treasure](../fields/treasure_symbol.md)
 - [Ⅱ](../difficulties.md) [Magic Spring](../fields/magic_spring.md)
 - [Water Wheel](../fields/water_wheel.md)
 - [Mystical Garden](../fields/mystical_garden.md)

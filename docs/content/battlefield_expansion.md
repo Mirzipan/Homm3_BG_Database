@@ -12,8 +12,8 @@
 
 - Hex Battlefield With Obstacles
 - Adventure Game Mode
-- Positive Morale Cards
-- Negative Morale Cards
+- [Positive Morale](../keywords/positive_morale.md) Cards
+- [Negative Morale](../keywords/negative_morale.md) Cards
 
 
 ## See Also

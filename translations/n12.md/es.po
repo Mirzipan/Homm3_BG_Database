@@ -578,8 +578,8 @@ msgstr "Suciedad"
 
 #. type: Bullet: '- '
 #: docs/tiles/f14.md docs/tiles/fx10.md docs/tiles/fx5.md docs/tiles/n12.md
-msgid "[Treasure](../fields/treasure.md)"
-msgstr "[Tesoro](../fields/treasure.md)"
+msgid "[Treasure](../fields/treasure_symbol.md)"
+msgstr "[Tesoro](../fields/treasure_symbol.md)"
 
 #. type: Plain text
 #: docs/tiles/n1.md docs/tiles/n10.md docs/tiles/n11.md docs/tiles/n12.md
