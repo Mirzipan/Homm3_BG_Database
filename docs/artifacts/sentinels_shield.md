@@ -16,5 +16,7 @@ ___
 
 ## See Also
 
-
+- [Thunder Helmet](thunder_helmet.md)
+- [Titan's Cuirass](titans_cuirass.md)
+- [Titan's Gladius](titans_gladius.md)
 - [List of Artifacts](index.md)

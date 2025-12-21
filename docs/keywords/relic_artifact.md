@@ -23,12 +23,18 @@ search:
 - [Lion's Shield of Courage](../artifacts/lions_shield_of_courage.md)
 - [Orb of Inhibition](../artifacts/orb_of_inhibition.md)
 - [Orb of Vulnerability](../artifacts/orb_of_vulnerability.md)
+- [Plate of the Dying Light](../artifacts/plate_of_the_dying_light.md)
 - [Sandals of the Saint](../artifacts/sandals_of_the_saint.md)
 - [Sentinel's Shield](../artifacts/sentinels_shield.md)
 - [Spellbinder's Hat](../artifacts/spellbinders_hat.md)
 - [Sword of Judgement](../artifacts/sword_of_judgement.md)
+- [Thunder Helmet](../artifacts/thunder_helmet.md)
 - [Titan's Cuirass](../artifacts/titans_cuirass.md)
 - [Titan's Gladius](../artifacts/titans_gladius.md)
+- [Tome of Air](../artifacts/tome_of_air.md)
+- [Tome of Earth](../artifacts/tome_of_earth.md)
+- [Tome of Fire](../artifacts/tome_of_fire.md)
+- [Tome of Water](../artifacts/tome_of_water.md)
 
 
 ## See Also

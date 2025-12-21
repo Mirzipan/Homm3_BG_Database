@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-11-29 10:07+0000\n"
+"POT-Creation-Date: 2025-12-18 02:35+0000\n"
 "PO-Revision-Date: 2025-02-16 09:10+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -35,15 +35,17 @@ msgstr ""
 #: docs/artifacts/armor_of_wonder.md docs/artifacts/arms_of_legion.md
 #: docs/artifacts/blackshard_of_the_dead_knight.md
 #: docs/artifacts/boots_of_polarity.md docs/artifacts/boots_of_speed.md
+#: docs/artifacts/bowstring_of_the_unicorns_mane.md
 #: docs/artifacts/breastplate_of_brimstone.md
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #: docs/artifacts/buckler_of_the_gnoll_king.md
 #: docs/artifacts/cape_of_velocity.md docs/artifacts/cards_of_prophecy.md
 #: docs/artifacts/celestial_necklace_of_bliss.md docs/artifacts/centaurs_axe.md
 #: docs/artifacts/charm_of_mana.md docs/artifacts/crest_of_valor.md
-#: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
-#: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
-#: docs/artifacts/endless_bag_of_gold.md
+#: docs/artifacts/crown_of_dragontooth.md
+#: docs/artifacts/crown_of_the_five_seas.md docs/artifacts/diplomats_ring.md
+#: docs/artifacts/dragon_scale_armor.md docs/artifacts/dragon_scale_shield.md
+#: docs/artifacts/dragon_wing_tabard.md docs/artifacts/endless_bag_of_gold.md
 #: docs/artifacts/endless_purse_of_gold.md
 #: docs/artifacts/endless_sack_of_gold.md docs/artifacts/equestrians_gloves.md
 #: docs/artifacts/everflowing_crystal_cloak.md
@@ -60,15 +62,21 @@ msgstr ""
 #: docs/artifacts/mystic_orb_of_mana.md
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/necklace_of_swiftness.md
-#: docs/artifacts/ogres_club_of_havoc.md docs/artifacts/orb_of_inhibition.md
+#: docs/artifacts/ogres_club_of_havoc.md docs/artifacts/orb_of_driving_rain.md
+#: docs/artifacts/orb_of_inhibition.md docs/artifacts/orb_of_silt.md
+#: docs/artifacts/orb_of_tempestuous_fire.md
+#: docs/artifacts/orb_of_the_firmament.md
 #: docs/artifacts/orb_of_vulnerability.md docs/artifacts/pendant_of_courage.md
 #: docs/artifacts/pendant_of_negativity.md
-#: docs/artifacts/pendant_of_second_sight.md docs/artifacts/recanters_cloak.md
+#: docs/artifacts/pendant_of_second_sight.md
+#: docs/artifacts/plate_of_the_dying_light.md
+#: docs/artifacts/quiet_eye_of_the_dragon.md docs/artifacts/recanters_cloak.md
 #: docs/artifacts/red_dragon_flame_tongue.md docs/artifacts/rib_cage.md
-#: docs/artifacts/ring_of_the_wayfarer.md
+#: docs/artifacts/ring_of_the_wayfarer.md docs/artifacts/royal_armor_of_nix.md
 #: docs/artifacts/sandals_of_the_saint.md
 #: docs/artifacts/scales_of_the_greater_basilisk.md
 #: docs/artifacts/sentinels_shield.md docs/artifacts/shackles_of_war.md
+#: docs/artifacts/shamans_puppet.md docs/artifacts/shield_of_naval_glory.md
 #: docs/artifacts/shield_of_the_damned.md
 #: docs/artifacts/shield_of_the_dwarven_lords.md
 #: docs/artifacts/shield_of_the_yawning_dead.md docs/artifacts/skull_helmet.md
@@ -77,8 +85,11 @@ msgstr ""
 #: docs/artifacts/surcoat_of_counterpoise.md
 #: docs/artifacts/sword_of_hellfire.md docs/artifacts/sword_of_judgement.md
 #: docs/artifacts/targ_of_the_rampaging_ogre.md
-#: docs/artifacts/titans_cuirass.md docs/artifacts/titans_gladius.md
-#: docs/artifacts/torso_of_legion.md
+#: docs/artifacts/thunder_helmet.md docs/artifacts/titans_cuirass.md
+#: docs/artifacts/titans_gladius.md docs/artifacts/tome_of_air.md
+#: docs/artifacts/tome_of_earth.md docs/artifacts/tome_of_fire.md
+#: docs/artifacts/tome_of_water.md docs/artifacts/torso_of_legion.md
+#: docs/artifacts/trident_of_dominion.md
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md docs/astrologers_proclaim/ammo_cart.md
 #: docs/astrologers_proclaim/annoying_lizard.md
@@ -243,15 +254,17 @@ msgstr "Fourni avec"
 #: docs/artifacts/armor_of_wonder.md docs/artifacts/arms_of_legion.md
 #: docs/artifacts/blackshard_of_the_dead_knight.md
 #: docs/artifacts/boots_of_polarity.md docs/artifacts/boots_of_speed.md
+#: docs/artifacts/bowstring_of_the_unicorns_mane.md
 #: docs/artifacts/breastplate_of_brimstone.md
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #: docs/artifacts/buckler_of_the_gnoll_king.md
 #: docs/artifacts/cape_of_velocity.md docs/artifacts/cards_of_prophecy.md
 #: docs/artifacts/celestial_necklace_of_bliss.md docs/artifacts/centaurs_axe.md
 #: docs/artifacts/charm_of_mana.md docs/artifacts/crest_of_valor.md
-#: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
-#: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
-#: docs/artifacts/endless_bag_of_gold.md
+#: docs/artifacts/crown_of_dragontooth.md
+#: docs/artifacts/crown_of_the_five_seas.md docs/artifacts/diplomats_ring.md
+#: docs/artifacts/dragon_scale_armor.md docs/artifacts/dragon_scale_shield.md
+#: docs/artifacts/dragon_wing_tabard.md docs/artifacts/endless_bag_of_gold.md
 #: docs/artifacts/endless_purse_of_gold.md
 #: docs/artifacts/endless_sack_of_gold.md docs/artifacts/equestrians_gloves.md
 #: docs/artifacts/everflowing_crystal_cloak.md
@@ -268,15 +281,21 @@ msgstr "Fourni avec"
 #: docs/artifacts/mystic_orb_of_mana.md
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/necklace_of_swiftness.md
-#: docs/artifacts/ogres_club_of_havoc.md docs/artifacts/orb_of_inhibition.md
+#: docs/artifacts/ogres_club_of_havoc.md docs/artifacts/orb_of_driving_rain.md
+#: docs/artifacts/orb_of_inhibition.md docs/artifacts/orb_of_silt.md
+#: docs/artifacts/orb_of_tempestuous_fire.md
+#: docs/artifacts/orb_of_the_firmament.md
 #: docs/artifacts/orb_of_vulnerability.md docs/artifacts/pendant_of_courage.md
 #: docs/artifacts/pendant_of_negativity.md
-#: docs/artifacts/pendant_of_second_sight.md docs/artifacts/recanters_cloak.md
+#: docs/artifacts/pendant_of_second_sight.md
+#: docs/artifacts/plate_of_the_dying_light.md
+#: docs/artifacts/quiet_eye_of_the_dragon.md docs/artifacts/recanters_cloak.md
 #: docs/artifacts/red_dragon_flame_tongue.md docs/artifacts/rib_cage.md
-#: docs/artifacts/ring_of_the_wayfarer.md
+#: docs/artifacts/ring_of_the_wayfarer.md docs/artifacts/royal_armor_of_nix.md
 #: docs/artifacts/sandals_of_the_saint.md
 #: docs/artifacts/scales_of_the_greater_basilisk.md
 #: docs/artifacts/sentinels_shield.md docs/artifacts/shackles_of_war.md
+#: docs/artifacts/shamans_puppet.md docs/artifacts/shield_of_naval_glory.md
 #: docs/artifacts/shield_of_the_damned.md
 #: docs/artifacts/shield_of_the_dwarven_lords.md
 #: docs/artifacts/shield_of_the_yawning_dead.md docs/artifacts/skull_helmet.md
@@ -285,8 +304,11 @@ msgstr "Fourni avec"
 #: docs/artifacts/surcoat_of_counterpoise.md
 #: docs/artifacts/sword_of_hellfire.md docs/artifacts/sword_of_judgement.md
 #: docs/artifacts/targ_of_the_rampaging_ogre.md
-#: docs/artifacts/titans_cuirass.md docs/artifacts/titans_gladius.md
-#: docs/artifacts/torso_of_legion.md
+#: docs/artifacts/thunder_helmet.md docs/artifacts/titans_cuirass.md
+#: docs/artifacts/titans_gladius.md docs/artifacts/tome_of_air.md
+#: docs/artifacts/tome_of_earth.md docs/artifacts/tome_of_fire.md
+#: docs/artifacts/tome_of_water.md docs/artifacts/torso_of_legion.md
+#: docs/artifacts/trident_of_dominion.md
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md docs/astrologers_proclaim/ammo_cart.md
 #: docs/astrologers_proclaim/annoying_lizard.md
@@ -553,15 +575,17 @@ msgstr ""
 #: docs/artifacts/armor_of_wonder.md docs/artifacts/arms_of_legion.md
 #: docs/artifacts/blackshard_of_the_dead_knight.md
 #: docs/artifacts/boots_of_polarity.md docs/artifacts/boots_of_speed.md
+#: docs/artifacts/bowstring_of_the_unicorns_mane.md
 #: docs/artifacts/breastplate_of_brimstone.md
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #: docs/artifacts/buckler_of_the_gnoll_king.md
 #: docs/artifacts/cape_of_velocity.md docs/artifacts/cards_of_prophecy.md
 #: docs/artifacts/celestial_necklace_of_bliss.md docs/artifacts/centaurs_axe.md
 #: docs/artifacts/charm_of_mana.md docs/artifacts/crest_of_valor.md
-#: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
-#: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
-#: docs/artifacts/endless_bag_of_gold.md
+#: docs/artifacts/crown_of_dragontooth.md
+#: docs/artifacts/crown_of_the_five_seas.md docs/artifacts/diplomats_ring.md
+#: docs/artifacts/dragon_scale_armor.md docs/artifacts/dragon_scale_shield.md
+#: docs/artifacts/dragon_wing_tabard.md docs/artifacts/endless_bag_of_gold.md
 #: docs/artifacts/endless_purse_of_gold.md
 #: docs/artifacts/endless_sack_of_gold.md docs/artifacts/equestrians_gloves.md
 #: docs/artifacts/everflowing_crystal_cloak.md
@@ -578,15 +602,21 @@ msgstr ""
 #: docs/artifacts/mystic_orb_of_mana.md
 #: docs/artifacts/necklace_of_dragonteeth.md
 #: docs/artifacts/necklace_of_swiftness.md
-#: docs/artifacts/ogres_club_of_havoc.md docs/artifacts/orb_of_inhibition.md
+#: docs/artifacts/ogres_club_of_havoc.md docs/artifacts/orb_of_driving_rain.md
+#: docs/artifacts/orb_of_inhibition.md docs/artifacts/orb_of_silt.md
+#: docs/artifacts/orb_of_tempestuous_fire.md
+#: docs/artifacts/orb_of_the_firmament.md
 #: docs/artifacts/orb_of_vulnerability.md docs/artifacts/pendant_of_courage.md
 #: docs/artifacts/pendant_of_negativity.md
-#: docs/artifacts/pendant_of_second_sight.md docs/artifacts/recanters_cloak.md
+#: docs/artifacts/pendant_of_second_sight.md
+#: docs/artifacts/plate_of_the_dying_light.md
+#: docs/artifacts/quiet_eye_of_the_dragon.md docs/artifacts/recanters_cloak.md
 #: docs/artifacts/red_dragon_flame_tongue.md docs/artifacts/rib_cage.md
-#: docs/artifacts/ring_of_the_wayfarer.md
+#: docs/artifacts/ring_of_the_wayfarer.md docs/artifacts/royal_armor_of_nix.md
 #: docs/artifacts/sandals_of_the_saint.md
 #: docs/artifacts/scales_of_the_greater_basilisk.md
 #: docs/artifacts/sentinels_shield.md docs/artifacts/shackles_of_war.md
+#: docs/artifacts/shamans_puppet.md docs/artifacts/shield_of_naval_glory.md
 #: docs/artifacts/shield_of_the_damned.md
 #: docs/artifacts/shield_of_the_dwarven_lords.md
 #: docs/artifacts/shield_of_the_yawning_dead.md docs/artifacts/skull_helmet.md
@@ -595,8 +625,11 @@ msgstr ""
 #: docs/artifacts/surcoat_of_counterpoise.md
 #: docs/artifacts/sword_of_hellfire.md docs/artifacts/sword_of_judgement.md
 #: docs/artifacts/targ_of_the_rampaging_ogre.md
-#: docs/artifacts/titans_cuirass.md docs/artifacts/titans_gladius.md
-#: docs/artifacts/torso_of_legion.md
+#: docs/artifacts/thunder_helmet.md docs/artifacts/titans_cuirass.md
+#: docs/artifacts/titans_gladius.md docs/artifacts/tome_of_air.md
+#: docs/artifacts/tome_of_earth.md docs/artifacts/tome_of_fire.md
+#: docs/artifacts/tome_of_water.md docs/artifacts/torso_of_legion.md
+#: docs/artifacts/trident_of_dominion.md
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 msgid "[List of Artifacts](index.md)"
@@ -606,6 +639,7 @@ msgstr ""
 #: docs/artifacts/armor_of_wonder.md
 #: docs/artifacts/blackshard_of_the_dead_knight.md
 #: docs/artifacts/boots_of_speed.md
+#: docs/artifacts/bowstring_of_the_unicorns_mane.md
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #: docs/artifacts/buckler_of_the_gnoll_king.md docs/artifacts/centaurs_axe.md
 #: docs/artifacts/charm_of_mana.md docs/artifacts/crest_of_valor.md
@@ -617,9 +651,11 @@ msgstr ""
 #: docs/artifacts/inexhaustible_cart_of_lumber.md
 #: docs/artifacts/inexhaustible_cart_of_ore.md docs/artifacts/legs_of_legion.md
 #: docs/artifacts/loins_of_legion.md docs/artifacts/necklace_of_swiftness.md
+#: docs/artifacts/quiet_eye_of_the_dragon.md
 #: docs/artifacts/red_dragon_flame_tongue.md docs/artifacts/rib_cage.md
 #: docs/artifacts/ring_of_the_wayfarer.md
 #: docs/artifacts/scales_of_the_greater_basilisk.md
+#: docs/artifacts/shamans_puppet.md
 #: docs/artifacts/shield_of_the_dwarven_lords.md
 #: docs/artifacts/shield_of_the_yawning_dead.md docs/artifacts/skull_helmet.md
 #: docs/artifacts/speculum.md docs/artifacts/spirit_of_oppression.md
@@ -632,6 +668,7 @@ msgstr ""
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_shield.md
 #: docs/artifacts/dragon_wing_tabard.md
 #: docs/artifacts/necklace_of_dragonteeth.md
+#: docs/artifacts/quiet_eye_of_the_dragon.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Dragon Scale Armor](dragon_scale_armor.md)"
 msgstr ""
@@ -640,6 +677,7 @@ msgstr ""
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
 #: docs/artifacts/dragon_wing_tabard.md
 #: docs/artifacts/necklace_of_dragonteeth.md
+#: docs/artifacts/quiet_eye_of_the_dragon.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Dragon Scale Shield](dragon_scale_shield.md)"
 msgstr ""
@@ -648,6 +686,7 @@ msgstr ""
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
 #: docs/artifacts/dragon_scale_shield.md
 #: docs/artifacts/necklace_of_dragonteeth.md
+#: docs/artifacts/quiet_eye_of_the_dragon.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Dragon Wing Tabard](dragon_wing_tabard.md)"
 msgstr ""
@@ -655,14 +694,24 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
 #: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
+#: docs/artifacts/quiet_eye_of_the_dragon.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Necklace of Dragonteeth](necklace_of_dragonteeth.md)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/artifacts/crown_of_dragontooth.md docs/artifacts/dragon_scale_armor.md
+#: docs/artifacts/dragon_scale_shield.md docs/artifacts/dragon_wing_tabard.md
+#: docs/artifacts/necklace_of_dragonteeth.md
+#: docs/artifacts/red_dragon_flame_tongue.md
+msgid "[Quiet Eye of the Dragon](quiet_eye_of_the_dragon.md)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/artifacts/dragon_scale_armor.md docs/artifacts/dragon_scale_shield.md
 #: docs/artifacts/dragon_wing_tabard.md
 #: docs/artifacts/necklace_of_dragonteeth.md
+#: docs/artifacts/quiet_eye_of_the_dragon.md
 #: docs/artifacts/red_dragon_flame_tongue.md
 msgid "[Crown of Dragontooth](crown_of_dragontooth.md)"
 msgstr ""

@@ -16,5 +16,10 @@ ___
 
 ## See Also
 
+- [Celestial Necklace of Bliss](celestial_necklace_of_bliss.md)
+- [Armor of Wonder](armor_of_wonder.md)
+- [Sandals of the Saint](sandals_of_the_saint.md)
+- [Sword of Judgement](sword_of_judgement.md)
+- [Lion's Shield of Courage](lions_shield_of_courage.md)
 
 - [List of Artifacts](index.md)

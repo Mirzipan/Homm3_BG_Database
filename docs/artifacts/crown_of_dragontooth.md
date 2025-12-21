@@ -20,6 +20,7 @@ ___
 - [Dragon Scale Shield](dragon_scale_shield.md)
 - [Dragon Wing Tabard](dragon_wing_tabard.md)
 - [Necklace of Dragonteeth](necklace_of_dragonteeth.md)
+- [Quiet Eye of the Dragon](quiet_eye_of_the_dragon.md)
 - [Red Dragon Flame Tongue](red_dragon_flame_tongue.md)
 
 - [List of Artifacts](index.md)

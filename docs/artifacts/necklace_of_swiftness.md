@@ -4,9 +4,9 @@
 ___
 <p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
 ___
-<p style="text-align: center;" markdown>🚧</p>
+<p style="text-align: center;" markdown>:ongoing: During this Combat, the :initiative: of all your [:unit_ground: units](../keywords/ground_unit.md) is increased by 1.<br><br>— OR —<br><br>:activation: Move one of your units 1 space.</p>
 ___
-<p style="text-align: center;" markdown>*🚧*</p>
+<p style="text-align: center;" markdown>*Visiting a local wise man, you explain the intent of your journey. He reaches into a sack and withdraws a strange necklace which he hands to you.*</p>
 
 
 ## Comes With
