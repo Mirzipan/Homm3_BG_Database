@@ -13,7 +13,7 @@ ___
 - [Ⅲ](../difficulties.md) [:building_materials: Mine](../fields/mine.md)
 - [+1 :valuables: Windmill](../fields/windmill.md)
 - [Ⅱ](../difficulties.md) [Hill Fort](../fields/hill_fort.md)
-- [Trading Post](../trading.md)
+- [Trading Post](../fields/trading_post.md)
 - [Blocked Field](../keywords/blocked_field.md)
 - [Magic Spring](../fields/magic_spring.md)
 

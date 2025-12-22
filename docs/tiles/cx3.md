@@ -1,7 +1,7 @@
-# C2
+# #C3
 
-___
-[Center Tile](../keywords/center_tile.md)
+
+[Subterranean Tile](../keywords/subterranean_tile.md)
 ___
 Subterranean
 ___
@@ -9,18 +9,18 @@ ___
 
 ## Fields
 
-- [Ⅵ](../difficulties.md) [Tree of Knowledge](../fields/tree_of_knowledge.md)
 - [Shrine of Magic Gesture](../fields/shrine_of_magic_gesture.md)
-- [Mystical Garden](../fields/mystical_garden.md)
-- [Ⅶ](../difficulties.md) [Grail](../fields/grail.md)
+- [Ⅵ](../difficulties.md) [:valuables: Mine](../fields/mine.md)
 - [:morale_positive: Temple](../fields/temple.md)
+- [Ⅶ](../difficulties.md) [Random Town](../towns/index.md)
 - [Ⅵ](../difficulties.md) [2 :treasure: / 2 :resource_die: → 1 Pandora's Box](../fields/pandoras_box.md)
 - [Blocked Field](../keywords/blocked_field.md)
+- [Magic Spring](../fields/magic_spring.md)
 
 
 ## Comes With
 
-- [Core Game](../content/core_game.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
 ## See Also

@@ -14,7 +14,7 @@ ___
 - [Witch Hut](../fields/witch_hut.md)
 - [Ⅲ](../difficulties.md) [:building_materials: Mine](../fields/mine.md)
 - [Blocked Field](../keywords/blocked_field.md)
-- [Trading Post](../trading.md)
+- [Trading Post](../fields/trading_post.md)
 - [Ⅱ](../difficulties.md) [Market of Time](../fields/market_of_time.md)
 
 

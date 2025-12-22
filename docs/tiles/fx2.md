@@ -9,7 +9,7 @@ ___
 
 ## Fields
 
-- [Trading Post](../trading.md)
+- [Trading Post](../fields/trading_post.md)
 - [Ⅱ](../difficulties.md) [:artifact:](../fields/artifact_symbol.md)
 - [:resource_die:](../fields/resource_symbol.md)
 - [Empty Field](../keywords/empty_field.md)

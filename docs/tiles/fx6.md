@@ -9,7 +9,7 @@ ___
 
 ## Fields
 
-- [Trading Post](../trading.md)
+- [Trading Post](../fields/trading_post.md)
 - [Blocked Field](../keywords/blocked_field.md)
 - [Ⅱ](../difficulties.md) [:treasure:](../fields/treasure_symbol.md)
 - [+1 :valuables: Windmill](../fields/windmill.md)

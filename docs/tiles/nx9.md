@@ -1,6 +1,6 @@
-# W2
+# #N9
 
-___
+
 [Sea Tile](../keywords/sea_tile.md)
 ___
 Water
@@ -10,17 +10,17 @@ ___
 ## Fields
 
 - [:artifact: Shipwreck Survivor](../fields/shipwreck_survivor.md)
-- [Mystical Garden](../fields/mystical_garden.md)
-- [Shrine of Magic Incantation](../fields/shrine_of_magic_incantation.md)
-- [Empty Field](../keywords/empty_field.md)
+- [:resource_die: Sea Barrel](../fields/sea_barrel.md)
 - [Ⅴ](../difficulties.md) [:valuables: Mine](../fields/mine.md)
+- [Empty Field](../keywords/empty_field.md)
+- [Mystical Garden](../fields/mystical_garden.md)
 - [Ⅳ](../difficulties.md) [Sea Chest](../fields/sea_chest.md)
 - [:morale_positive: Buoy](../fields/buoy.md)
 
 
 ## Comes With
 
-- [Cove Expansion](../content/cove_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
 ## See Also
