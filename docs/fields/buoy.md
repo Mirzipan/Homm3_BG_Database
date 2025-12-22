@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Buoy Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Buoy Map Location](../assets/locations-buoy.webp){ width="475" align=right }
 
 </figure>
 
@@ -16,6 +16,7 @@ ___
 ## Notes
 
 - Only appears on [Sea tiles](../keywords/sea_tile.md).
+- The effect is the same as [Temple](temple.md).
 
 
 ## See Also

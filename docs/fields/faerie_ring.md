@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Faerie Ring Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Faerie Ring Map Location](../assets/locations-faerie_ring.webp){ width="475" align=right }
 
 </figure>
 

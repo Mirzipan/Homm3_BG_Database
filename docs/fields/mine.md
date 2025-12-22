@@ -2,7 +2,8 @@
 
 <figure markdown="span">
 
-![Mine Map Location](../assets/locations-mine_valuables.webp){ width="340" align=right }
+![Gold And Building Materials Mine Map Location](../assets/locations-mine_gold_building_materials.webp){ width="340" align=right }
+![Valuables Mine Map Location](../assets/locations-mine_valuables.webp){ width="340" align=right }
 
 </figure>
 

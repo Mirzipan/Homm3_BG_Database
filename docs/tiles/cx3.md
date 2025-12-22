@@ -1,0 +1,28 @@
+# #C3
+
+___
+[Subterranean Tile](../keywords/subterranean_tile.md)
+___
+Subterranean
+___
+
+
+## Fields
+
+- [Shrine of Magic Gesture](../fields/shrine_of_magic_gesture.md)
+- [Ⅵ](../difficulties.md) [:valuables: Mine](../fields/mine.md)
+- [:morale_positive: Temple](../fields/temple.md)
+- [Ⅶ](../difficulties.md) [Random Town](../towns/index.md)
+- [Ⅵ](../difficulties.md) [2 :treasure: / 2 :resource_die: → 1 Pandora's Box](../fields/pandoras_box.md)
+- [Blocked Field](../keywords/blocked_field.md)
+- [Magic Spring](../fields/magic_spring.md)
+
+
+## Comes With
+
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
+
+
+## See Also
+
+- [List of Tiles](index.md)

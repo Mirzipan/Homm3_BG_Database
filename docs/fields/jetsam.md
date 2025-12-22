@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Jetsam Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Jetsam Map Location](../assets/locations-jetsam.webp){ width="475" align=right }
 
 </figure>
 

@@ -10,9 +10,8 @@
 
 ## Inside The Box
 
-- *Upcoming Expansion*
 - [Cove Faction](../towns/cove.md)
-- [Water Tiles](../tiles/index.md)
+- [Sea Tiles](../keywords/sea_tile.md)
 
 
 ## See Also

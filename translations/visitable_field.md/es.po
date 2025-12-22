@@ -492,9 +492,9 @@ msgstr "[Templo](../fields/temple.md)"
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md
 #, fuzzy
-#| msgid "[Treasure](../fields/treasure.md)"
+#| msgid "[Treasure](../fields/treasure_symbol.md)"
 msgid "[Treasure Symbol](../fields/treasure_symbol.md)"
-msgstr "[Tesoro](../fields/treasure.md)"
+msgstr "[Tesoro](../fields/treasure_symbol.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/visitable_field.md docs/tiles/f18.md docs/tiles/n1.md

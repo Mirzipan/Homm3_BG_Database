@@ -10,11 +10,11 @@ ___
 ## Fields
 
 - [Empty Field](../keywords/empty_field.md)
-- [Windmill](../fields/windmill.md)
+- [+1 :valuables: Windmill](../fields/windmill.md)
 - [Ⅲ](../difficulties.md) [Tower Settlement](../towns/tower.md)
 - [Blocked Field](../keywords/blocked_field.md)
-- [Ⅱ](../difficulties.md) [Treasure](../fields/treasure.md)
-- [Stables](../fields/stables.md)
+- [Ⅱ](../difficulties.md) [:treasure:](../fields/treasure_symbol.md)
+- [:movement: Stables](../fields/stables.md)
 - [Witch Hut](../fields/witch_hut.md)
 
 

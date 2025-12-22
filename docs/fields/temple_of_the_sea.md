@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Temple of the Sea Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Temple of the Sea Map Location](../assets/locations-temple_of_the_sea.webp){ width="475" align=right }
 
 </figure>
 

@@ -1,6 +1,11 @@
-# Far Tile
+---
+search:
+  exclude: true
+---
+# Far Tile Ⅱ-Ⅲ
 
 Contains fields with Ⅱ-Ⅲ [difficulty](../difficulties.md).
+One of the more interesting [fields](../fields/index.md) that far tiles contains are definitely the [settlements](../fields/settlement.md).
 
 
 ## List of Far Tiles
@@ -26,6 +31,12 @@ Contains fields with Ⅱ-Ⅲ [difficulty](../difficulties.md).
 - [F19](../tiles/f19.md) - [Stronghold Settlement](../towns/stronghold.md)
 - [F20](../tiles/f20.md)
 - [F21](../tiles/f21.md)
+- [F22](../tiles/f22.md) - [Conflux Settlement](../towns/conflux.md)
+- [F23](../tiles/f23.md)
+- [F24](../tiles/f24.md)
+- [F25](../tiles/f25.md) - [Cove Settlement](../towns/cove.md)
+- [F26](../tiles/f26.md)
+- [F27](../tiles/f27.md)
 - [#F1](../tiles/fx1.md) - [Tower Settlement](../towns/tower.md)
 - [#F2](../tiles/fx2.md)
 - [#F3](../tiles/fx3.md)
@@ -36,6 +47,9 @@ Contains fields with Ⅱ-Ⅲ [difficulty](../difficulties.md).
 - [#F8](../tiles/fx8.md)
 - [#F9](../tiles/fx9.md)
 - [#F10](../tiles/fx10.md)
+- [#F11](../tiles/fx11.md)
+- [#F12](../tiles/fx12.md)
+- [#F13](../tiles/fx13.md)
 
 
 ## Notes
@@ -46,6 +60,6 @@ Contains fields with Ⅱ-Ⅲ [difficulty](../difficulties.md).
 - [Starting Tile](starting_tile.md)
 - [Near Tile](near_tile.md)
 - [Center Tile](center_tile.md)
-- [Underground Tile](underground_tile.md)
-- [Water Tile](water_tile.md)
+- [Subterranean Tile](subterranean_tile.md)
+- [Sea Tile](sea_tile.md)
 - [List of Towns](../towns/index.md)

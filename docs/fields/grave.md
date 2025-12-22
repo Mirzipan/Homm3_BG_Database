@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Grave Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Grave Map Location](../assets/locations-grave.webp){ width="475" align=right }
 
 </figure>
 

@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Sea Chest Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Sea Chest Map Location](../assets/locations-sea_chest.webp){ width="475" align=right }
 
 </figure>
 

@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![One-Way Monolith Location](../assets/player-deck-back.webp){ width="475" align=right }
+![One-Way Monolith Location](../assets/locations-one_way_monolith.webp){ width="475" align=right }
 
 </figure>
 

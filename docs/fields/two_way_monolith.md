@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Two-Way Monolith Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Two-Way Monolith Location](../assets/locations-two_way_monolith.webp){ width="475" align=right }
 
 </figure>
 

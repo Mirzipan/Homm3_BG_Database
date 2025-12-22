@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2025-12-21 16:59+0000\n"
+"POT-Creation-Date: 2025-12-22 21:01+0000\n"
 "PO-Revision-Date: 2024-10-17 23:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -29,7 +29,7 @@ msgid "Attack Die"
 msgstr "Kość Ataku"
 
 #. type: Plain text
-#: docs/dice.md docs/keywords/attack_die.md
+#: docs/dice.md
 #, no-wrap
 msgid ""
 "| Sides |\n"
@@ -50,8 +50,8 @@ msgstr ""
 "| +1 |\n"
 "| +1 |\n"
 
-#. type: Title #
-#: docs/dice.md docs/keywords/resource_die.md
+#. type: Title ##
+#: docs/dice.md
 #, no-wrap
 msgid "Resource Die"
 msgstr "Kość Zasobów"
@@ -78,8 +78,8 @@ msgstr ""
 "| 1 :valuables: |\n"
 "| 2 :valuables: |\n"
 
-#. type: Title #
-#: docs/dice.md docs/keywords/treasure_die.md
+#. type: Title ##
+#: docs/dice.md
 #, no-wrap
 msgid "Treasure Die"
 msgstr "Kość Skarbów"

@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Sea Barrel Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Sea Barrel Map Location](../assets/locations-sea_barrel.webp){ width="475" align=right }
 
 </figure>
 
@@ -16,6 +16,7 @@ ___
 ## Notes
 
 - Only appears on [Sea tiles](../keywords/sea_tile.md).
+- The effect is the same as [:resource_die:](resource_symbol.md).
 
 
 ## See Also

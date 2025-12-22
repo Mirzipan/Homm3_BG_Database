@@ -31,7 +31,6 @@
         ![Rampart Settlement](../assets/locations-rampart_settlement.webp){ width="475" align=right }
     </figure>
 
-
 === "Fortress"
 
     <figure markdown="span">
@@ -42,6 +41,24 @@
 
     <figure markdown="span">
         ![Inferno Settlement](../assets/locations-inferno_settlement.webp){ width="475" align=right }
+    </figure>
+
+=== "Stronghold"
+
+    <figure markdown="span">
+        ![Stronghold Settlement](../assets/locations-stronghold_settlement.webp){ width="475" align=right }
+    </figure>
+
+=== "Conflux"
+
+    <figure markdown="span">
+        ![Conflux Settlement](../assets/locations-conflux_settlement.webp){ width="475" align=right }
+    </figure>
+
+=== "Cove"
+
+    <figure markdown="span">
+        ![Cove Settlement](../assets/locations-cove_settlement.webp){ width="475" align=right }
     </figure>
 
 ___

@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Pandora's Box Map Location](../assets/locations-pandoras_box.webp){ width="475" align=right }
+![Pandora's Box Map Location](../assets/locations-pandoras_boxes.webp){ width="475" align=right }
 
 </figure>
 

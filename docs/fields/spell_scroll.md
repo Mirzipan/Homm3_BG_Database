@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Spell Scroll Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Spell Scroll Map Location](../assets/locations-spell_scroll.webp){ width="475" align=right }
 
 </figure>
 
