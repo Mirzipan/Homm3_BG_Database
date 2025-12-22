@@ -36,5 +36,5 @@ Contains fields with Ⅳ-Ⅴ [difficulty](../difficulties.md).
 - [Starting Tile](starting_tile.md)
 - [Far Tile](far_tile.md)
 - [Center Tile](center_tile.md)
-- [Underground Tile](underground_tile.md)
-- [Water Tile](water_tile.md)
+- [Subterranean Tile](subterranean_tile.md)
+- [Sea Tile](sea_tile.md)
