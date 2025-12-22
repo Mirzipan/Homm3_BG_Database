@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-22 21:01+0000\n"
+"POT-Creation-Date: 2025-12-22 21:13+0000\n"
 "PO-Revision-Date: 2024-10-21 16:09+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -647,6 +647,12 @@ msgstr "[Lista de Losetas](index.md)"
 msgid "[Empty Field](../keywords/empty_field.md)"
 msgstr "[Zona Vacía](../keywords/empty_field.md)"
 
+#. type: Plain text
+#: docs/tiles/f25.md docs/tiles/f26.md docs/tiles/f27.md docs/tiles/n22.md
+#: docs/tiles/s9.md
+msgid "Highlands"
+msgstr "Acantilado"
+
 #. type: Bullet: '- '
 #: docs/tiles/f27.md docs/tiles/fx2.md docs/tiles/nx11.md docs/tiles/s1.md
 #: docs/tiles/s2.md docs/tiles/s3.md docs/tiles/s4.md docs/tiles/s5.md
@@ -684,11 +690,6 @@ msgstr "[Ⅰ](../difficulties.md) [Tesoro](../fields/treasure_symbol.md)"
 #, no-wrap
 msgid "S9"
 msgstr "Ser"
-
-#. type: Plain text
-#: docs/tiles/s9.md
-msgid "Highlands"
-msgstr "Acantilado"
 
 #. type: Bullet: '- '
 #: docs/tiles/s9.md

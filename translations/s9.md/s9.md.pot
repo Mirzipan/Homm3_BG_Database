@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-22 21:01+0000\n"
+"POT-Creation-Date: 2025-12-22 21:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -647,6 +647,12 @@ msgstr ""
 msgid "[Empty Field](../keywords/empty_field.md)"
 msgstr ""
 
+#. type: Plain text
+#: docs/tiles/f25.md docs/tiles/f26.md docs/tiles/f27.md docs/tiles/n22.md
+#: docs/tiles/s9.md
+msgid "Highlands"
+msgstr ""
+
 #. type: Bullet: '- '
 #: docs/tiles/f27.md docs/tiles/fx2.md docs/tiles/nx11.md docs/tiles/s1.md
 #: docs/tiles/s2.md docs/tiles/s3.md docs/tiles/s4.md docs/tiles/s5.md
@@ -680,11 +686,6 @@ msgstr ""
 #: docs/tiles/s9.md
 #, no-wrap
 msgid "S9"
-msgstr ""
-
-#. type: Plain text
-#: docs/tiles/s9.md
-msgid "Highlands"
 msgstr ""
 
 #. type: Bullet: '- '
