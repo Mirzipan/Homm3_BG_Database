@@ -10,7 +10,7 @@ ___
 ## Fields
 
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
-- [Temple](../fields/temple.md)
+- [:morale_positive:](../keywords/positive_morale.md) [Temple](../fields/temple.md)
 - [Tavern](../fields/tavern.md)
 - [Redwood Observatory](../fields/redwood_observatory.md)
 - [Ⅱ](../difficulties.md) [Mystical Garden](../fields/mystical_garden.md)

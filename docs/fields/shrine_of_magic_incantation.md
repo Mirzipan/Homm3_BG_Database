@@ -9,7 +9,7 @@
 === "Sea"
 
     <figure markdown="span">
-        ![Shrine of Magic Incantation Map Sea Location](../assets/locations-shrine_of_magic_incantation_2.webp){ width="475" align=right }
+        ![Shrine of Magic Incantation Map Sea Location](../assets/locations-shrine_of_magic_incantation_water.webp){ width="475" align=right }
     </figure>
 
 ___

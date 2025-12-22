@@ -1,16 +1,10 @@
 # Pandora's Box
 
-=== "Land"
+<figure markdown="span">
 
-    <figure markdown="span">
-        ![Pandora's Box Map Land Location](../assets/locations-pandoras_box.webp){ width="475" align=right }
-    </figure>
+![Pandora's Box Map Location](../assets/locations-pandoras_boxes.webp){ width="475" align=right }
 
-=== "Sea"
-
-    <figure markdown="span">
-        ![Pandora's Box Map Sea Location](../assets/locations-pandoras_box_2.webp){ width="475" align=right }
-    </figure>
+</figure>
 
 ___
 <p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
