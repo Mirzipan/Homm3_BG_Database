@@ -14,7 +14,7 @@ ___
 - [Ⅵ](../difficulties.md) [Warrior's Tomb](../fields/warriors_tomb.md)
 - [Ⅶ](../difficulties.md) [Tower Settlement](../towns/tower.md)
 - [Sanctuary](../fields/sanctuary.md)
-- [Water Wheel](../fields/water_wheel.md)
+- +3 :gold: [Water Wheel](../fields/water_wheel.md)
 - [Blocked Field](../keywords/blocked_field.md)
 
 

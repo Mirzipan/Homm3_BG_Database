@@ -14,7 +14,7 @@ ___
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
 - [:treasure:](../fields/treasure_symbol.md)
 - [Ⅱ](../difficulties.md) [Magic Spring](../fields/magic_spring.md)
-- [Water Wheel](../fields/water_wheel.md)
+- +3 :gold: [Water Wheel](../fields/water_wheel.md)
 - [Mystical Garden](../fields/mystical_garden.md)
 
 

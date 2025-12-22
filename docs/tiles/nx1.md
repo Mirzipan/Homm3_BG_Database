@@ -15,7 +15,7 @@ ___
 - [Stables](../fields/stables.md)
 - [Blocked Field](../keywords/blocked_field.md)
 - [:morale_positive:](../keywords/positive_morale.md) [Temple](../fields/temple.md)
-- [Windmill](../fields/windmill.md)
+- +1 :valuables: [Windmill](../fields/windmill.md)
 
 
 ## Comes With

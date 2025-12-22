@@ -11,7 +11,7 @@ ___
 
 - [Stables](../fields/stables.md)
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
-- [Windmill](../fields/windmill.md)
+- +1 :valuables: [Windmill](../fields/windmill.md)
 - [Ⅱ](../difficulties.md) [Hill Fort](../fields/hill_fort.md)
 - [Trading Post](../trading.md)
 - [Blocked Field](../keywords/blocked_field.md)

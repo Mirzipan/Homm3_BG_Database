@@ -9,7 +9,7 @@ ___
 
 ## Fields
 
-- [Water Wheel](../fields/water_wheel.md)
+- +3 :gold: [Water Wheel](../fields/water_wheel.md)
 - [Shrine of Magic Incantation](../fields/shrine_of_magic_incantation.md)
 - [Witch Hut](../fields/witch_hut.md)
 - [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)

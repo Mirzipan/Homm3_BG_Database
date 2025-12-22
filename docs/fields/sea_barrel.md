@@ -16,6 +16,7 @@ ___
 ## Notes
 
 - Only appears on [Sea tiles](../keywords/sea_tile.md).
+- The effect is the same as [:resource_die:](resource_symbol.md).
 
 
 ## See Also
