@@ -14,7 +14,7 @@ ___
 - [Ⅲ](../difficulties.md) [Tower Settlement](../towns/tower.md)
 - [Blocked Field](../keywords/blocked_field.md)
 - [Ⅱ](../difficulties.md) [:treasure:](../fields/treasure_symbol.md)
-- [Stables](../fields/stables.md)
+- [:movement: Stables](../fields/stables.md)
 - [Witch Hut](../fields/witch_hut.md)
 
 

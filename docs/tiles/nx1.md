@@ -12,7 +12,7 @@ ___
 - [Tree of Knowledge](../fields/tree_of_knowledge.md)
 - [Magic Spring](../fields/magic_spring.md)
 - [Ⅴ](../difficulties.md) :gold: [Mine](../fields/mine.md)
-- [Stables](../fields/stables.md)
+- [:movement: Stables](../fields/stables.md)
 - [Blocked Field](../keywords/blocked_field.md)
 - [:morale_positive:](../keywords/positive_morale.md) [Temple](../fields/temple.md)
 - +1 :valuables: [Windmill](../fields/windmill.md)
