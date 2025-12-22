@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-18 02:35+0000\n"
+"POT-Creation-Date: 2025-12-22 21:01+0000\n"
 "PO-Revision-Date: 2025-12-18 02:35+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -36,26 +36,32 @@ msgstr ""
 #: docs/astrologers_proclaim/forty_thieves.md
 #: docs/astrologers_proclaim/friendly_beaver.md
 #: docs/astrologers_proclaim/mcgiver.md
-#: docs/astrologers_proclaim/unexpected_reinforcements.md docs/fields/town.md
+#: docs/astrologers_proclaim/unexpected_reinforcements.md docs/fields/buoy.md
+#: docs/fields/derelict_ship.md docs/fields/elemental_conflux.md
+#: docs/fields/flotsam.md docs/fields/jetsam.md docs/fields/mermaid.md
+#: docs/fields/sea_barrel.md docs/fields/sea_chest.md docs/fields/town.md
 #: docs/fields/windmill.md docs/heroes/adelaide.md docs/heroes/alamar.md
 #: docs/heroes/deemer.md docs/heroes/jeddite.md docs/heroes/pasis.md
 #: docs/heroes/sandro.md docs/heroes/sephinroth.md docs/heroes/solmyr.md
 #: docs/heroes/tazar.md docs/heroes/xyron.md
-#: docs/keywords/alternative_action.md docs/keywords/attack_value.md
-#: docs/keywords/blocked_field.md docs/keywords/center_tile.md
-#: docs/keywords/damage.md docs/keywords/defense_value.md
-#: docs/keywords/dwelling.md docs/keywords/empty_field.md
-#: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
-#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
-#: docs/keywords/health_points.md docs/keywords/initiative_value.md
-#: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
-#: docs/keywords/near_tile.md docs/keywords/obstacle.md
+#: docs/keywords/alternative_action.md docs/keywords/attack_die.md
+#: docs/keywords/attack_value.md docs/keywords/blocked_field.md
+#: docs/keywords/center_tile.md docs/keywords/damage.md
+#: docs/keywords/defense_value.md docs/keywords/dwelling.md
+#: docs/keywords/empty_field.md docs/keywords/far_tile.md
+#: docs/keywords/flaggable_field.md docs/keywords/flying_unit.md
+#: docs/keywords/ground_unit.md docs/keywords/health_points.md
+#: docs/keywords/initiative_value.md docs/keywords/major_artifact.md
+#: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
+#: docs/keywords/negative_morale.md docs/keywords/obstacle.md
 #: docs/keywords/paralysis.md docs/keywords/permanent_effect.md
-#: docs/keywords/ranged_unit.md docs/keywords/recruit.md
-#: docs/keywords/reinforce.md docs/keywords/relic_artifact.md
-#: docs/keywords/revisitable_field.md docs/keywords/search.md
+#: docs/keywords/positive_morale.md docs/keywords/ranged_unit.md
+#: docs/keywords/recruit.md docs/keywords/reinforce.md
+#: docs/keywords/relic_artifact.md docs/keywords/remove.md
+#: docs/keywords/resource_die.md docs/keywords/revisitable_field.md
+#: docs/keywords/sea_tile.md docs/keywords/search.md
 #: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
-#: docs/keywords/visitable_field.md docs/keywords/sea_tile.md
+#: docs/keywords/treasure_die.md docs/keywords/visitable_field.md
 #: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
 #: docs/spells/blind.md docs/spells/chain_lightning.md docs/spells/cure.md
 #: docs/spells/dimension_door.md docs/spells/dispel.md
@@ -65,8 +71,8 @@ msgstr ""
 #: docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/remove_obstacle.md docs/spells/resurrection.md
 #: docs/spells/slow.md docs/spells/town_portal.md docs/statistics/knowledge.md
-#: docs/units/air_elementals.md docs/units/archangels.md
-#: docs/units/azure_dragons.md docs/units/basilisks.md
+#: docs/tiles/nx3.md docs/tiles/u7.md docs/units/air_elementals.md
+#: docs/units/archangels.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/black_dragons.md docs/units/cerberi.md docs/units/champions.md
 #: docs/units/crusaders.md docs/units/crystal_dragons.md
 #: docs/units/dread_knights.md docs/units/dwarves.md
@@ -95,5 +101,10 @@ msgstr ""
 
 #. type: Plain text
 #: docs/keywords/dwelling.md
-msgid "A building that can be built in your [town](../towns/index.md) that allows you to recruit [units](../units/index.md) of the corresponding tier (:bronze:, :silver:, or :golden:)."
+msgid "A building that can be built in your [town](../towns/index.md) that allows you to [recruit](recruit.md) [units](../units/index.md) of the corresponding tier (:bronze:, :silver:, or :golden:)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/keywords/dwelling.md
+msgid "Dwellings have to be built in the following order: :bronze: :silver: :golden:."
 msgstr ""
