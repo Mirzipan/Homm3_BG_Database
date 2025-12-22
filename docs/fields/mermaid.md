@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Mermaid Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Mermaid Map Location](../assets/locations-mermaid.webp){ width="475" align=right }
 
 </figure>
 

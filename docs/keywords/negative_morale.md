@@ -1,4 +1,4 @@
-# Negative Morale
+# :morale_negative: Negative Morale
 
 
 ## Notes

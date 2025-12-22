@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Derelict Ship Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Derelict Ship Map Location](../assets/locations-derelict_ship.webp){ width="475" align=right }
 
 </figure>
 

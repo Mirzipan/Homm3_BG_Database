@@ -1,10 +1,16 @@
 # Shrine of Magic Incantation
 
-<figure markdown="span">
+=== "Land"
 
-![Shrine of Magic Incantation Map Location](../assets/locations-shrine_of_magic_incantation.webp){ width="475" align=right }
+    <figure markdown="span">
+        ![Shrine of Magic Incantation Map Land Location](../assets/locations-shrine_of_magic_incantation.webp){ width="475" align=right }
+    </figure>
 
-</figure>
+=== "Sea"
+
+    <figure markdown="span">
+        ![Shrine of Magic Incantation Map Sea Location](../assets/locations-shrine_of_magic_incantation_2.webp){ width="475" align=right }
+    </figure>
 
 ___
 <p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>

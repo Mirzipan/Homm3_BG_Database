@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Subterranean Gate Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Subterranean Gate Location](../assets/locations-subterranean_gate.webp){ width="475" align=right }
 
 </figure>
 

@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Cyclops Stockpile Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Cyclops Stockpile Map Location](../assets/locations-cyclops_stockpile.webp){ width="475" align=right }
 
 </figure>
 

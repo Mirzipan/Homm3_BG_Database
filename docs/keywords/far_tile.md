@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # Far Tile
 
 Contains fields with Ⅱ-Ⅲ [difficulty](../difficulties.md).

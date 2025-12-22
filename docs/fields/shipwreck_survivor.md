@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Shipwreck Survivor Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Shipwreck Survivor Map Location](../assets/locations-shipwreck_survivor.webp){ width="475" align=right }
 
 </figure>
 

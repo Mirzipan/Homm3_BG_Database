@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Elemental Conflux Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Elemental Conflux Map Location](../assets/locations-elemental_conflux.webp){ width="475" align=right }
 
 </figure>
 

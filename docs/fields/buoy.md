@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Buoy Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Buoy Map Location](../assets/locations-buoy.webp){ width="475" align=right }
 
 </figure>
 

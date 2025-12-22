@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # Near Tile
 
 Contains fields with Ⅳ-Ⅴ [difficulty](../difficulties.md).

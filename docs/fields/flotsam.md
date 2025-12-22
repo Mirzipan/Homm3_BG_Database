@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Flotsam Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Flotsam Map Location](../assets/locations-flotsam.webp){ width="475" align=right }
 
 </figure>
 

@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Sea Barrel Map Location](../assets/player-deck-back.webp){ width="475" align=right }
+![Sea Barrel Map Location](../assets/locations-sea_barrel.webp){ width="475" align=right }
 
 </figure>
 
