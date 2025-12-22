@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
 ___
 <p style="text-align: center;" markdown>:pay: 6 :gold: to [**Search(4)**](../keywords/search.md) the [Ability](../abilities/index.md) Discard Pile</p>
 ___

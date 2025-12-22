@@ -541,7 +541,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/abilities/pathfinding.md docs/artifacts/angel_wings.md
-msgid "See [Blocked Field](../keywords/blocked_field.md)"
+msgid "See [Blocked Field](../fields/blocked_field.md)"
 msgstr ""
 
 #. type: Bullet: '- '

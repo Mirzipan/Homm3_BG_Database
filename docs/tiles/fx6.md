@@ -10,7 +10,7 @@ ___
 ## Fields
 
 - [Trading Post](../fields/trading_post.md)
-- [Blocked Field](../keywords/blocked_field.md)
+- [Blocked Field](../fields/blocked_field.md)
 - [Ⅱ](../difficulties.md) [:treasure:](../fields/treasure_symbol.md)
 - [+1 :valuables: Windmill](../fields/windmill.md)
 - [Ⅲ](../difficulties.md) [:building_materials: Mine](../fields/mine.md)

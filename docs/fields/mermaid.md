@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
 ___
 <p style="text-align: center;" markdown>The [Hero](../heroes/index.md) who entered this field gains 1 additional MP this turn. You also gain a [Positive Morale](../keywords/positive_morale.md) token.</p>
 ___

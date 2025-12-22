@@ -12,9 +12,9 @@ ___
 - [Trading Post](../fields/trading_post.md)
 - [Ⅱ](../difficulties.md) [:artifact:](../fields/artifact_symbol.md)
 - [:resource_die:](../fields/resource_symbol.md)
-- [Empty Field](../keywords/empty_field.md)
+- [Empty Field](../fields/empty_field.md)
 - [:experience: Learning Stone](../fields/learning_stone.md)
-- [Blocked Field](../keywords/blocked_field.md)
+- [Blocked Field](../fields/blocked_field.md)
 - [Ⅲ](../difficulties.md) [:gold: Mine](../fields/mine.md)
 
 

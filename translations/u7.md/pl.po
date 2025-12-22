@@ -739,5 +739,5 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/tiles/u7.md
-msgid "This tile contains neither an [Empty field](../keywords/empty_field.md) nor a [Blocked field](../keywords/blocked_field.md)."
+msgid "This tile contains neither an [Empty field](../fields/empty_field.md) nor a [Blocked field](../fields/blocked_field.md)."
 msgstr ""

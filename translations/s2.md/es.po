@@ -666,8 +666,8 @@ msgstr "Subterráneo"
 #: docs/tiles/s9.md docs/tiles/sx1.md docs/tiles/u1.md docs/tiles/u2.md
 #: docs/tiles/u3.md docs/tiles/u4.md docs/tiles/u5.md docs/tiles/u6.md
 #: docs/tiles/w1.md docs/tiles/w4.md docs/tiles/w7.md
-msgid "[Blocked Field](../keywords/blocked_field.md)"
-msgstr "[Zona Bloqueada](../keywords/blocked_field.md)"
+msgid "[Blocked Field](../fields/blocked_field.md)"
+msgstr "[Zona Bloqueada](../fields/blocked_field.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md
@@ -718,8 +718,8 @@ msgstr "[Lista de Losetas](index.md)"
 #: docs/tiles/u4.md docs/tiles/u5.md docs/tiles/u6.md docs/tiles/w1.md
 #: docs/tiles/w2.md docs/tiles/w3.md docs/tiles/w4.md docs/tiles/w5.md
 #: docs/tiles/w6.md
-msgid "[Empty Field](../keywords/empty_field.md)"
-msgstr "[Zona Vacía](../keywords/empty_field.md)"
+msgid "[Empty Field](../fields/empty_field.md)"
+msgstr "[Zona Vacía](../fields/empty_field.md)"
 
 #. type: Bullet: '- '
 #: docs/tiles/f27.md docs/tiles/fx2.md docs/tiles/nx11.md docs/tiles/s1.md

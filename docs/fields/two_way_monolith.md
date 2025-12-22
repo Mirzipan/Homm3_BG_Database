@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Revisitable Field](../keywords/revisitable_field.md)</p>
+<p style="text-align: center;" markdown>[Revisitable Field](index.md#revisitable-field)</p>
 ___
 <p style="text-align: center;" markdown>When you enter this location, move your Hero to the corresponding Exit Monolith location. You can **use** the Exit Monolith to move back to the Entrance Monolith.</p>
 ___

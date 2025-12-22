@@ -12,7 +12,7 @@ ___
 - [:artifact: Shipwreck Survivor](../fields/shipwreck_survivor.md)
 - [:resource_die: Sea Barrel](../fields/sea_barrel.md)
 - [Ⅴ](../difficulties.md) [:valuables: Mine](../fields/mine.md)
-- [Empty Field](../keywords/empty_field.md)
+- [Empty Field](../fields/empty_field.md)
 - [Mystical Garden](../fields/mystical_garden.md)
 - [Ⅳ](../difficulties.md) [Sea Chest](../fields/sea_chest.md)
 - [:morale_positive: Buoy](../fields/buoy.md)

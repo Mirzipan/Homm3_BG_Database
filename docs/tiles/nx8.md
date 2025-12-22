@@ -9,7 +9,7 @@ ___
 
 ## Fields
 
-- [Empty Field](../keywords/empty_field.md)
+- [Empty Field](../fields/empty_field.md)
 - [Ⅴ](../difficulties.md) [:gold: Mine](../fields/mine.md)
 - [:experience: Learning Stone](../fields/learning_stone.md)
 - [:resource_die: Sea Barrel](../fields/sea_barrel.md)

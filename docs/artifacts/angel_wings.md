@@ -12,7 +12,7 @@ ___
 ## Notes
 
 - After playing Angel Wings, the hero may move through borders and blocked fields. They may, however, not end their movement on a blocked field.
-- See [Blocked Field](../keywords/blocked_field.md)
+- See [Blocked Field](../fields/blocked_field.md)
 
 
 ## Comes With

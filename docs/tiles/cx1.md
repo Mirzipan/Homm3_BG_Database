@@ -15,7 +15,7 @@ ___
 - [Ⅶ](../difficulties.md) [Tower Settlement](../towns/tower.md)
 - [Sanctuary](../fields/sanctuary.md)
 - [+3 :gold: Water Wheel](../fields/water_wheel.md)
-- [Blocked Field](../keywords/blocked_field.md)
+- [Blocked Field](../fields/blocked_field.md)
 
 
 ## Comes With

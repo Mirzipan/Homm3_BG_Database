@@ -1650,9 +1650,9 @@ msgstr "[Zona Bloqueada](blocked_field.md)"
 #. type: Bullet: '- '
 #: docs/keywords/index.md
 #, fuzzy
-#| msgid "[Empty Field](../keywords/empty_field.md)"
+#| msgid "[Empty Field](../fields/empty_field.md)"
 msgid "[Empty Field](empty_field.md)"
-msgstr "[Zona Vacía](../keywords/empty_field.md)"
+msgstr "[Zona Vacía](../fields/empty_field.md)"
 
 #. type: Bullet: '- '
 #: docs/keywords/index.md docs/keywords/revisitable_field.md

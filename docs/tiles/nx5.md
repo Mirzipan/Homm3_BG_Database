@@ -9,8 +9,8 @@ ___
 
 ## Fields
 
-- [Empty Field](../keywords/empty_field.md)
-- [Blocked Field](../keywords/blocked_field.md)
+- [Empty Field](../fields/empty_field.md)
+- [Blocked Field](../fields/blocked_field.md)
 - [:experience: Learning Stone](../fields/learning_stone.md)
 - [Redwood Observatory](../fields/redwood_observatory.md)
 - [Ⅴ](../difficulties.md) [:building_materials: Mine](../fields/mine.md)

@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
 ___
 <p style="text-align: center;" markdown>Roll 2 [Treasure Dice](../keywords/treasure_die.md) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Resource Dice](../keywords/resource_die.md) and choose 1 result to gain.</p>
 ___
