@@ -10,7 +10,7 @@ ___
 ## Fields
 
 - [Fountain of Youth](../fields/fountain_of_youth.md)
-- [Ⅴ](../difficulties.md) :valuables: [Mine](../fields/mine.md)
+- [Ⅴ](../difficulties.md) [:valuables: Mine](../fields/mine.md)
 - [Blocked Field](../keywords/blocked_field.md)
 - [Obelisk](../fields/obelisk.md)
 - [Trading Post](../trading.md)

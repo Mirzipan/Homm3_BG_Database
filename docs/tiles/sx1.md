@@ -9,7 +9,7 @@ ___
 
 ## Fields
 
-- [Ⅰ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
+- [Ⅰ](../difficulties.md) [:building_materials: Mine](../fields/mine.md)
 - [Blocked Field](../keywords/blocked_field.md)
 - [Empty Field](../keywords/empty_field.md)
 - [Tower Town](../towns/tower.md)

@@ -15,7 +15,7 @@ ___
 - [Empty Field](../keywords/empty_field.md)
 - [:experience: Learning Stone](../fields/learning_stone.md)
 - [Blocked Field](../keywords/blocked_field.md)
-- [Ⅲ](../difficulties.md) :gold: [Mine](../fields/mine.md)
+- [Ⅲ](../difficulties.md) [:gold: Mine](../fields/mine.md)
 
 
 ## Comes With

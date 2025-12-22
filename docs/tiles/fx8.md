@@ -14,7 +14,7 @@ ___
 - [Blocked Field](../keywords/blocked_field.md)
 - [Ⅱ](../difficulties.md) [:resource_die:](../fields/resource_symbol.md)
 - [University](../fields/university.md)
-- [Ⅲ](../difficulties.md) :building_materials: [Mine](../fields/mine.md)
+- [Ⅲ](../difficulties.md) [:building_materials: Mine](../fields/mine.md)
 - [:morale_positive:](../keywords/positive_morale.md) [Temple](../fields/temple.md)
 
 
