@@ -49,9 +49,9 @@ search:
 | [F22](f22.md) | Grass | [Conflux Settlement](../towns/conflux.md) | [Conflux Expansion](../content/conflux_expansion.md) |
 | [F23](f23.md) | Grass | [:valuables: Mine](../fields/mine.md) | [Conflux Expansion](../content/conflux_expansion.md) |
 | [F24](f24.md) | Grass | [:gold: Mine](../fields/mine.md) | [Conflux Expansion](../content/conflux_expansion.md) |
-| [F25](f25.md) | Grass | [Cove Settlement](../towns/cove.md) | [Cove Expansion](../content/cove_expansion.md) |
-| [F26](f26.md) | Grass | [:gold: Mine](../fields/mine.md) | [Cove Expansion](../content/cove_expansion.md) |
-| [F27](f27.md) | Grass | [:valuables: Mine](../fields/mine.md) | [Cove Expansion](../content/cove_expansion.md) |
+| [F25](f25.md) | Highlands | [Cove Settlement](../towns/cove.md) | [Cove Expansion](../content/cove_expansion.md) |
+| [F26](f26.md) | Highlands | [:gold: Mine](../fields/mine.md) | [Cove Expansion](../content/cove_expansion.md) |
+| [F27](f27.md) | Highlands | [:valuables: Mine](../fields/mine.md) | [Cove Expansion](../content/cove_expansion.md) |
 | [#F1](fx1.md) | Snow | [Tower Settlement](../towns/tower.md) | [Tower Expansion](../content/tower_expansion.md) |
 | [#F2](fx2.md) | Snow | [:gold: Mine](../fields/mine.md) | [Tower Expansion](../content/tower_expansion.md) |
 | [#F3](fx3.md) | Snow | [:valuables: Mine](../fields/mine.md) | [Tower Expansion](../content/tower_expansion.md) |
@@ -64,7 +64,7 @@ search:
 | [#F10](fx10.md) | Dirt | [:building_materials: Mine](../fields/mine.md) | [Tower Expansion](../content/tower_expansion.md) |
 | [#F11](fx11.md) | Rough | [:building_materials: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [#F12](fx12.md) | Grass | [:building_materials: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
-| [#F13](fx13.md) | Grass | [:building_materials: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
+| [#F13](fx13.md) | Highlands | [:building_materials: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 
 
 # Near Tiles Ⅳ-Ⅴ
@@ -92,11 +92,11 @@ search:
 | [N19](n19.md) | Elemental Air | [:valuables: Mine](../fields/mine.md)</br>[Obelisk](../fields/obelisk.md)</br>[Pandora's Box](../fields/pandoras_box.md) | [Conflux Expansion](../content/conflux_expansion.md) |
 | [N20](n20.md) | Elemental Earth | [:valuables: Mine](../fields/mine.md) | [Conflux Expansion](../content/conflux_expansion.md) |
 | [N21](n21.md) | Elemental Earth | [Obelisk](../fields/obelisk.md)</br>[:gold: Mine](../fields/mine.md)</br>[Pandora's Box](../fields/pandoras_box.md) | [Conflux Expansion](../content/conflux_expansion.md) |
-| [N22](n22.md) | Grass | [:valuables: Mine](../fields/mine.md) | [Cove Expansion](../content/cove_expansion.md) |
+| [N22](n22.md) | Highlands | [:valuables: Mine](../fields/mine.md) | [Cove Expansion](../content/cove_expansion.md) |
 | [#N1](nx1.md) | Snow | [:gold: Mine](../fields/mine.md) | [Tower Expansion](../content/tower_expansion.md) |
 | [#N2](nx2.md) | Snow | [:valuables: Mine](../fields/mine.md)</br>[Obelisk](../fields/obelisk.md) | [Tower Expansion](../content/tower_expansion.md) |
 | [#N3](nx3.md) | Grass | [:gold: Mine](../fields/mine.md)</br>[Pandora's Box](../fields/pandoras_box.md) | [Tower Expansion](../content/tower_expansion.md) |
-| [#N4](nx4.md) | ## Fields | [:building_materials: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
+| [#N4](nx4.md) | Subterranean | [:building_materials: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [#N5](nx5.md) | Subterranean | [:building_materials: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [#N6](nx6.md) | Subterranean | [:valuables: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [#N7](nx7.md) | Subterranean | [:gold: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
@@ -133,6 +133,7 @@ search:
 | [U5](u5.md) | Subterranean | [:valuables: Mine](../fields/mine.md) | [Stronghold Expansion](../content/stronghold_expansion.md) |
 | [U6](u6.md) | Subterranean | [:valuables: Mine](../fields/mine.md) | [Stronghold Expansion](../content/stronghold_expansion.md) |
 | [U7](u7.md) | Subterranean | [Pandora's Box](../fields/pandoras_box.md) | [Stronghold Expansion](../content/stronghold_expansion.md) |
+| [#N4](nx4.md) | Subterranean | [:building_materials: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [#N5](nx5.md) | Subterranean | [:building_materials: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [#N6](nx6.md) | Subterranean | [:valuables: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [#N7](nx7.md) | Subterranean | [:gold: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
