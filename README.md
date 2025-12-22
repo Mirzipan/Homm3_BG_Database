@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Heroes of Might & Magic III: The Board Game<br>Cards Database</h1>
+  <h1>Heroes of Might & Magic III: The Board Game Wiki</h1>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white">
     <a href="https://discord.gg/Y4uM9pPWF6"><img src="https://dcbadge.limes.pink/api/server/Y4uM9pPWF6"></a>
   </p>
 
-  <h1><a href="https://homm3bg.wiki/">👉 GO TO THE WEBSITE 👈</a></h1>
+  <h1><a href="https://en.homm3bg.wiki/">👉 GO TO THE WEBSITE 👈</a></h1>
 </div>
 
 ## ⚔️ What Is This?
@@ -22,3 +22,4 @@ Here are some projects within the homm3bg community that are definitely worth a 
 - [Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book)
 - [Factory Rule Book](https://github.com/piotrbruzda/Homm3BG-FactoryRulebook)
 - [Scenario Map Editor](https://github.com/zedero/HoMM3Boardgame)
+- [Hero Creator](https://github.com/K-Adam/Homm3_hero_creator)

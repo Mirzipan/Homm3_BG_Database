@@ -40,7 +40,6 @@ theme:
     - navigation.instant.progress
     - navigation.top
     - search.suggest
-    - search.highlight
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
