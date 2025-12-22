@@ -1,6 +1,11 @@
-# Center Tile
+---
+search:
+  exclude: true
+---
+# Center Tile Ⅵ-Ⅶ
 
 Contains fields with Ⅵ-Ⅶ [difficulty](../difficulties.md).
+These tiles contain the highest value [fields](../fields/index.md), but they are also the most difficult to beat.
 
 
 ## List of Center Tiles
@@ -11,6 +16,10 @@ Contains fields with Ⅵ-Ⅶ [difficulty](../difficulties.md).
 - [C4](../tiles/c4.md) - [Grail](../fields/grail.md)
 - [C5](../tiles/c5.md) - [Random Town](../towns/index.md)
 - [#C1](../tiles/cx1.md) - [Tower Settlement](../towns/tower.md)
+- [#C2](../tiles/cx2.md) - [Cyclops Stockpile](../fields/cyclops_stockpile.md)
+- [#C3](../tiles/cx3.md) - [Random Town](../towns/index.md)
+- [#C4](../tiles/cx4.md) - [Random Town](../towns/index.md)
+- [#C5](../tiles/cx5.md) - [Temple of the Sea](../fields/temple_of_the_sea.md)
 
 
 ## Notes

@@ -1,6 +1,6 @@
-# Starting Tile
+# Starting Tile Ⅰ
 
-Contains fields with Ⅰ [difficulty](../difficulties.md) and a faction town.
+Contains fields with Ⅰ [difficulty](../difficulties.md) and a faction [town](../towns/index.md).
 
 
 ## List of Starting Tiles
