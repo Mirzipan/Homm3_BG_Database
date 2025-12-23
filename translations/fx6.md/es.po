@@ -685,8 +685,8 @@ msgstr "Suciedad"
 #: docs/tiles/fx10.md docs/tiles/fx11.md docs/tiles/fx12.md docs/tiles/fx13.md
 #: docs/tiles/fx2.md docs/tiles/fx3.md docs/tiles/fx4.md docs/tiles/fx5.md
 #: docs/tiles/fx6.md docs/tiles/fx7.md docs/tiles/fx8.md docs/tiles/fx9.md
-msgid "[Far Tile](../keywords/far_tile.md)"
-msgstr "[Loseta Lejana](../keywords/far_tile.md)"
+msgid "[Far Tile](../tiles/index.md#far-tiles)"
+msgstr "[Loseta Lejana](../tiles/index.md#far-tiles)"
 
 #. type: Bullet: '- '
 #: docs/tiles/f1.md docs/tiles/f10.md docs/tiles/f14.md docs/tiles/f16.md

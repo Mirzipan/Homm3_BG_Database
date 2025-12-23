@@ -615,7 +615,7 @@ msgstr "![Escudo de Aire](../assets/player-deck-back.webp){ width=\"340\" align=
 #: docs/artifacts/royal_armor_of_nix.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>:instant: Select 2 [Spell](../spells/index.md) cards from your discard pile and put them back in your hand.<br><br>— OR —<br><br>:instant: Remove 1 [:spellpower:](../spells/index.md) from hand, then **Search(2)** [:spellpower:](../spells/index.md).</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :empower:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/sea_tile.md), [**Search(2)**](../keywords/search.md) [:spellpower:](../spells/index.md)**.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :empower:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), [**Search(2)**](../keywords/search.md) [:spellpower:](../spells/index.md)**.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>:instant: Selecciona 2 cartas de [Hehizol](../spells/index.md) de tu pila de descarte y devuélvelas a tu mano.<br><br>— O —<br><br>:instant: Retira 1 [:spellpower:](../spells/index.md) de tu mano, luego **Buscar(2)** [:spellpower:](../spells/index.md).</p>\n"
 
 #. type: Plain text

@@ -337,5 +337,5 @@ msgstr ""
 #: docs/content/stronghold_expansion.md
 #, fuzzy
 #| msgid "[Water Tile](water_tile.md)"
-msgid "[Subterranean Tiles](../keywords/subterranean_tile.md)"
+msgid "[Subterranean Tiles](../tiles/index.md#subterranean-tiles)"
 msgstr "[Tuile maritime](water_tile.md)"

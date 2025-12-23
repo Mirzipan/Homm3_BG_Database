@@ -623,7 +623,7 @@ msgstr "[Lista Kafelków](index.md)"
 #: docs/tiles/w3.md docs/tiles/w4.md docs/tiles/w5.md docs/tiles/w6.md
 #: docs/tiles/w7.md
 #, fuzzy
-msgid "[Sea Tile](../keywords/sea_tile.md)"
+msgid "[Sea Tile](../tiles/index.md#sea-tiles)"
 msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text

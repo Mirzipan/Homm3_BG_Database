@@ -608,7 +608,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Pole Jednorazowe](../keywords
 #: docs/fields/jetsam.md docs/fields/mermaid.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md
 #, fuzzy
-msgid "Only appears on [Sea tiles](../keywords/sea_tile.md)."
+msgid "Only appears on [Sea tiles](../tiles/index.md#sea-tiles)."
 msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Bullet: '- '

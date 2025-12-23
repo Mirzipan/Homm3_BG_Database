@@ -337,5 +337,5 @@ msgstr ""
 #: docs/content/cove_expansion.md
 #, fuzzy
 #| msgid "[Near Tile](near_tile.md)"
-msgid "[Sea Tiles](../keywords/sea_tile.md)"
+msgid "[Sea Tiles](../tiles/index.md#sea-tiles)"
 msgstr "[Tuile proche](near_tile.md)"

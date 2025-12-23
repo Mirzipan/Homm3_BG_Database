@@ -589,8 +589,8 @@ msgstr "[Lista de Losetas](../tiles/index.md)"
 #: docs/fields/jetsam.md docs/fields/mermaid.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md
 #, fuzzy
-msgid "Only appears on [Sea tiles](../keywords/sea_tile.md)."
-msgstr "[Loseta Lejana](../keywords/far_tile.md)"
+msgid "Only appears on [Sea tiles](../tiles/index.md#sea-tiles)."
+msgstr "[Loseta Lejana](../tiles/index.md#far-tiles)"
 
 #. type: Bullet: '- '
 #: docs/fields/buoy.md docs/fields/derelict_ship.md docs/fields/jetsam.md

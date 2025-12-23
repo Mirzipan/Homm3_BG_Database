@@ -337,5 +337,5 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/content/cove_expansion.md
 #, fuzzy
-msgid "[Sea Tiles](../keywords/sea_tile.md)"
+msgid "[Sea Tiles](../tiles/index.md#sea-tiles)"
 msgstr "[Lista Jednostek](units/index.md)"

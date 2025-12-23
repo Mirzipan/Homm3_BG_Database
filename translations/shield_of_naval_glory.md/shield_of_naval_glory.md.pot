@@ -614,7 +614,7 @@ msgstr ""
 #. type: Plain text
 #: docs/artifacts/shield_of_naval_glory.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :defense:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/sea_tile.md), they gain +1 :movement:, and draw 1 card.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :defense:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), they gain +1 :movement:, and draw 1 card.</p>\n"
 msgstr ""
 
 #. type: Plain text

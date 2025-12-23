@@ -15,7 +15,7 @@ ___
 
 ## Notes
 
-- Towns are always located in the center of a [Starting Tile](../keywords/starting_tile.md)
+- Towns are always located in the center of a [Starting Tile](../tiles/index.md#starting-tiles)
 
 
 ## See Also

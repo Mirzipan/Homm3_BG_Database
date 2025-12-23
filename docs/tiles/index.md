@@ -5,7 +5,9 @@ search:
 # Tiles
 
 
-# Starting Tiles Ⅰ
+# Starting Tiles
+
+These tiles contain [fields](../fields/index.md) with Ⅰ [difficulty](../difficulties.md) and a faction [town](../towns/index.md).
 
 | Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
 | : ---: | :---:  | :---: | :--- |
@@ -21,7 +23,10 @@ search:
 | [#S1](sx1.md) | Snow | [:building_materials: Mine](../fields/mine.md)</br>[Tower Town](../towns/tower.md) | [Tower Expansion](../content/tower_expansion.md) |
 
 
-# Far Tiles Ⅱ-Ⅲ
+# Far Tiles
+
+These tiles contain [fields](../fields/index.md) with Ⅱ-Ⅲ [difficulty](../difficulties.md).
+A [field](../fields/index.md) almost unique to the far tiles is the [Settlement](../fields/settlement.md).
 
 | Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
 | : ---: | :---:  | :---: | :--- |
@@ -67,7 +72,10 @@ search:
 | [#F13](fx13.md) | Highlands | [:building_materials: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 
 
-# Near Tiles Ⅳ-Ⅴ
+# Near Tiles
+
+These tiles contain [fields](../fields/index.md) with Ⅳ-Ⅴ [difficulty](../difficulties.md).
+A [field](../fields/index.md) unique to the near tiles is the [Obelisk](../fields/obelisk.md).
 
 | Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
 | : ---: | :---:  | :---: | :--- |
@@ -106,7 +114,10 @@ search:
 | [#N11](nx11.md) | Water | [Pandora's Box](../fields/pandoras_box.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 
 
-# Center Tiles Ⅵ-Ⅶ
+# Center Tiles
+
+These tiles contain [fields](../fields/index.md) with Ⅵ-Ⅶ [difficulty](../difficulties.md).
+Some [fields](../fields/index.md) are exclusive to the center tiles, but they are also the most difficult to beat.
 
 | Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
 | : ---: | :---:  | :---: | :--- |
@@ -123,6 +134,8 @@ search:
 
 
 # Subterranean Tiles
+
+A subtype of tiles that represents the underground. Players can enter and exit the underground by stepping onto the [Subterranean Gate](../fields/subterranean_gate.md).
 
 | Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
 | : ---: | :---:  | :---: | :--- |
@@ -142,6 +155,8 @@ search:
 
 
 # Sea Tiles
+
+A subtype of tiles that represents the water. Players can enter and exit the water by boarding or unboarding a ship.
 
 | Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
 | : ---: | :---:  | :---: | :--- |

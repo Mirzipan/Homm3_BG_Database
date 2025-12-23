@@ -684,7 +684,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/tiles/n8.md docs/tiles/n9.md docs/tiles/nx1.md docs/tiles/nx2.md
 #: docs/tiles/nx3.md
 #, fuzzy
-msgid "[Near Tile](../keywords/near_tile.md)"
+msgid "[Near Tile](../tiles/index.md#near-tiles)"
 msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Bullet: '- '

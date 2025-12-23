@@ -620,7 +620,7 @@ msgstr ""
 #: docs/tiles/nx8.md docs/tiles/nx9.md docs/tiles/w1.md docs/tiles/w2.md
 #: docs/tiles/w3.md docs/tiles/w4.md docs/tiles/w5.md docs/tiles/w6.md
 #: docs/tiles/w7.md
-msgid "[Sea Tile](../keywords/sea_tile.md)"
+msgid "[Sea Tile](../tiles/index.md#sea-tiles)"
 msgstr ""
 
 #. type: Plain text

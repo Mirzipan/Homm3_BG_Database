@@ -736,7 +736,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/tiles/s5.md docs/tiles/s6.md docs/tiles/s7.md docs/tiles/s8.md
 #: docs/tiles/s9.md docs/tiles/sx1.md
 #, fuzzy
-msgid "[Starting Tile](../keywords/starting_tile.md)"
+msgid "[Starting Tile](../tiles/index.md#starting-tiles)"
 msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Bullet: '- '

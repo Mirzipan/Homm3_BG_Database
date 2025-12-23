@@ -1,7 +1,7 @@
 # #F8
 
 ___
-[Far Tile](../keywords/far_tile.md)
+[Far Tile](../tiles/index.md#far-tiles)
 ___
 Grass
 ___

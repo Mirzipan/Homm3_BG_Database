@@ -1,7 +1,7 @@
 # #N4
 
 ___
-[Subterranean Tile](../keywords/subterranean_tile.md)
+[Subterranean Tile](../tiles/index.md#subterranean-tiles)
 ___
 Subterranean
 ___

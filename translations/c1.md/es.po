@@ -662,8 +662,8 @@ msgstr "C1"
 #. type: Plain text
 #: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md
 #: docs/tiles/c5.md docs/tiles/cx1.md
-msgid "[Center Tile](../keywords/center_tile.md)"
-msgstr "[Loseta Central](../keywords/center_tile.md)"
+msgid "[Center Tile](../tiles/index.md#center-tiles)"
+msgstr "[Loseta Central](../tiles/index.md#center-tiles)"
 
 #. type: Plain text
 #: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/cx2.md docs/tiles/cx3.md

@@ -674,7 +674,7 @@ msgstr ""
 #: docs/tiles/n4.md docs/tiles/n5.md docs/tiles/n6.md docs/tiles/n7.md
 #: docs/tiles/n8.md docs/tiles/n9.md docs/tiles/nx1.md docs/tiles/nx2.md
 #: docs/tiles/nx3.md
-msgid "[Near Tile](../keywords/near_tile.md)"
+msgid "[Near Tile](../tiles/index.md#near-tiles)"
 msgstr ""
 
 #. type: Bullet: '- '

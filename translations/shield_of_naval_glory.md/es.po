@@ -616,7 +616,7 @@ msgstr "![Escudo de Aire](../assets/player-deck-back.webp){ width=\"340\" align=
 #: docs/artifacts/shield_of_naval_glory.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>:instant: Gain :expert:.<br><br>— OR —<br><br>:instant: Draw 2 cards.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :defense:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../keywords/sea_tile.md), they gain +1 :movement:, and draw 1 card.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :defense:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), they gain +1 :movement:, and draw 1 card.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>:instant: Gana :expert:.<br><br>— O —<br><br>:instant: Roba 2 cartas.</p>\n"
 
 #. type: Plain text

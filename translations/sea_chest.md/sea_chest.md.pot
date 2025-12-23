@@ -588,7 +588,7 @@ msgstr ""
 #: docs/fields/buoy.md docs/fields/derelict_ship.md docs/fields/flotsam.md
 #: docs/fields/jetsam.md docs/fields/mermaid.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md
-msgid "Only appears on [Sea tiles](../keywords/sea_tile.md)."
+msgid "Only appears on [Sea tiles](../tiles/index.md#sea-tiles)."
 msgstr ""
 
 #. type: Bullet: '- '

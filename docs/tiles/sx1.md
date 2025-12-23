@@ -1,7 +1,7 @@
 # #S1
 
 ___
-[Starting Tile](../keywords/starting_tile.md)
+[Starting Tile](../tiles/index.md#starting-tiles)
 ___
 Snow
 ___

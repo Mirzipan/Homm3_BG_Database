@@ -11,7 +11,7 @@
 ## Inside The Box
 
 - [Cove Faction](../towns/cove.md)
-- [Sea Tiles](../keywords/sea_tile.md)
+- [Sea Tiles](../tiles/index.md#sea-tiles)
 
 
 ## See Also

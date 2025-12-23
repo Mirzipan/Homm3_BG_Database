@@ -15,7 +15,7 @@ ___
 
 ## Notes
 
-- Only appears on [Sea tiles](../keywords/sea_tile.md).
+- Only appears on [Sea tiles](../tiles/index.md#sea-tiles).
 - The effect is the same as [Temple](temple.md).
 
 
