@@ -4,6 +4,8 @@ search:
 ---
 # Tiles
 
+Each map tile is divided into 7 separate [fields](../fields/index.md) that your [heroes](../heroes/index.md) can visit.
+Roman numerals written on a [field](../fields/index.md) indicate that the field is guarded by [neutral enemies](../units/index.md) that must be fought to visit it.
 
 # Starting Tiles
 

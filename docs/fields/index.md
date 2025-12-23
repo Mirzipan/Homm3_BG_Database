@@ -5,22 +5,23 @@ search:
 # Fields
 
 Fields are single cells on a [tile](../tiles/index.md).
+When your [Hero](../heroes/index.md) moves to a field, they must immediately visit it, or first start a Combat against the enemies guarding it before visiting.
+Roman numerals written on a field indicate that the field is guarded by [Neutral enemies](../units/index.md) that must be fought to visit it.
 
 
 ## Visitable Field
 
-An effect is resolved when a [hero](../heroes/index.md) moves to the field. After the effect resolution, a black cube is placed on the field, indicating that it's spent now.
-There are some effects in the game that may remove black cubes from a visitable field, usually in the form of [event](../events/index.md) cards or part of a scenario.
+Once you visit this field, place a Black Cube on it. Treat it as an [Empty Field](empty_field.md) as long as it has a Black Cube.
 
 
 ## Revisitable Field
 
-Similar to the visitable field, but its effect can activate upon a repeated visit by a [hero](../heroes/index.md), thus no black cube is placed on the field after the effect is resolved.
+You can visit this field multiple times. Do not place any Cubes when you visit it. You may pay 1 MP to fisit this field again.
 
 
 ## Flaggable Field
 
-When visited by a [hero](../heroes/index.md), a faction cube of that [town](../towns/index.md) is placed on this field. In most cases, this meant that whichever player controlled the field previously has lost control of it and takes their faction cube back.
+These fields can be captured by players and provide passive benefits. When you visit one, place your Faction Cube on it. Enemy Heroes who visit your flagged fields will replace your Cube with theirs to steal the field’s effects. Allied [Heroes](../heroes/index.md) treat flagged fields as if they were empty.
 
 
 ## List of Fields
