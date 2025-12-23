@@ -546,8 +546,8 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/spellbinders_hat.md docs/artifacts/sword_of_judgement.md
 #: docs/artifacts/titans_cuirass.md docs/artifacts/titans_gladius.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Reliquia](../keywords/relic_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Relic Artifact](../artifacts/index.md#relic-artifacts)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Reliquia](../artifacts/index.md#relic-artifacts)</p>\n"
 
 #. type: Title #
 #: docs/artifacts/endless_sack_of_gold.md

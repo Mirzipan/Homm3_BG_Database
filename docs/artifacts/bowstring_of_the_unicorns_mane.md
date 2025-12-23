@@ -2,7 +2,7 @@
 
 ![Bowstring of the Unicorn's Mane](../assets/player-deck-back.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Play this card before a [unit](../units/index.md) activates. Activate one of your [:unit_ranged: units](../keywords/ranged_unit.md) that has not been activated this round.<br><br>— OR —<br><br>:instant: Use this after a [:unit_ranged: unit's](../keywords/ranged_unit.md) [Attack die](../dice.md#attack-die) roll. Ignore 1 [Attack die](../dice.md#attack-die).</p>
 ___

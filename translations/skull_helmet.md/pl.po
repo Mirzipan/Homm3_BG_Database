@@ -580,7 +580,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/speculum.md docs/artifacts/spirit_of_oppression.md
 #: docs/artifacts/torso_of_legion.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../artifacts/index.md#minor-artifacts)</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '

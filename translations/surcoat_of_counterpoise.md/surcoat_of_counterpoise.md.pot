@@ -519,7 +519,7 @@ msgstr ""
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../keywords/major_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../artifacts/index.md#major-artifacts)</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '

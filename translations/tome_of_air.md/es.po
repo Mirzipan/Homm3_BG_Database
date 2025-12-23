@@ -570,8 +570,8 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/tome_of_earth.md docs/artifacts/tome_of_fire.md
 #: docs/artifacts/tome_of_water.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Reliquia](../keywords/relic_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Relic Artifact](../artifacts/index.md#relic-artifacts)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Reliquia](../artifacts/index.md#relic-artifacts)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/orb_of_driving_rain.md docs/artifacts/orb_of_silt.md

@@ -1,13 +1,6 @@
 # List of Keywords
 
 
-## Cards
-
-- [Minor Artifact](minor_artifact.md)
-- [Major Artifact](major_artifact.md)
-- [Relic Artifact](relic_artifact.md)
-
-
 ## Effects
 
 - [:permanent: Permanent Effect](permanent_effect.md)

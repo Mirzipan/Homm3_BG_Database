@@ -2,7 +2,7 @@
 
 ![Crown of the Five Seas](../assets/player-deck-back.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Select 1 [Spell](../spells/index.md) card from your discard pile and put it back into your hand.<br><br>— OR —<br><br>:instant: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), you may look at the top 3 cards of your discard pile and take 1 of them into your hand.</p>
 ___

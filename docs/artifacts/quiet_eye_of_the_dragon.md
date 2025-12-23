@@ -2,7 +2,7 @@
 
 ![Quiet Eye of the Dragon](../assets/player-deck-back.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: +1 :defense:</p>
 ___

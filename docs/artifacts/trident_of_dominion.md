@@ -2,7 +2,7 @@
 
 ![Trident of Dominion](../assets/player-deck-back.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: +2 :attack:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), draw 2 cards.</p>
 ___

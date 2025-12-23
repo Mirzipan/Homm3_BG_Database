@@ -514,8 +514,8 @@ msgstr "[Expansión de Fortaleza](../content/fortress_expansion.md)"
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #: docs/artifacts/vial_of_lifeblood.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../keywords/major_artifact.md)</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Mayor](../keywords/major_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../artifacts/index.md#major-artifacts)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Mayor](../artifacts/index.md#major-artifacts)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md

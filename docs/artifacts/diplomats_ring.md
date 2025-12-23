@@ -2,7 +2,7 @@
 
 ![Diplomat's Ring](../assets/player-deck-back.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Reroll any [die](../dice.md) or any roll.<br><br>— OR —<br><br>:effect_map: For every [Dwelling](../keywords/dwelling.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can [Recruit](../keywords/recruit.md) one of these [units](../units/index.md).</p>
 ___

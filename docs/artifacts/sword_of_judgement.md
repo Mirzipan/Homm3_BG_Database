@@ -2,7 +2,7 @@
 
 ![Sword of Judgement](../assets/artifacts_relic-sword_of_judgement.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>
+<p style="text-align: center;" markdown>[Relic Artifact](index.md#relic-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Discard X cards from hand to gain +X :attack:.<br><br>— OR —<br><br>:instant: Discard X cards from hand to gain +X :defense:.</p>
 ___

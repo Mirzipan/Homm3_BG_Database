@@ -2,7 +2,7 @@
 
 ![Shield of Naval Glory](../assets/player-deck-back.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: +2 :defense:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), they gain +1 :movement:, and draw 1 card.</p>
 ___

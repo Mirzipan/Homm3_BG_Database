@@ -2,7 +2,7 @@
 
 ![Breastplate of Petrified Wood](../assets/artifacts_minor-breastplate_of_petrified_wood.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Draw 1 card.<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___

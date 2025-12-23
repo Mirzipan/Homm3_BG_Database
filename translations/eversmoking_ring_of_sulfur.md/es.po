@@ -581,8 +581,8 @@ msgstr "[Lista de Artefactos](index.md)"
 #: docs/artifacts/speculum.md docs/artifacts/spirit_of_oppression.md
 #: docs/artifacts/torso_of_legion.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../keywords/minor_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../artifacts/index.md#minor-artifacts)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../artifacts/index.md#minor-artifacts)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/celestial_necklace_of_bliss.md

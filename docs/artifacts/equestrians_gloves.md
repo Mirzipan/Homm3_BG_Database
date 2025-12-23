@@ -2,7 +2,7 @@
 
 ![Equestrian's Gloves](../assets/artifacts_minor-equestrians_gloves.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :initiative:.<br><br>— OR —<br><br>:instant: Your [Hero](../heroes/index.md) gains +1 :movement:.</p>
 ___

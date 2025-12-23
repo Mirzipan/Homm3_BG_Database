@@ -2,7 +2,7 @@
 
 ![Necklace of Swiftness](../assets/player-deck-back.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:ongoing: During this Combat, the :initiative: of all your [:unit_ground: units](../keywords/ground_unit.md) is increased by 1.<br><br>— OR —<br><br>:activation: Move one of your units 1 space.</p>
 ___

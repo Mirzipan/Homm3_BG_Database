@@ -651,7 +651,7 @@ msgstr "[Lista Artefaktów](index.md)"
 #: docs/artifacts/tome_of_earth.md docs/artifacts/tome_of_fire.md
 #: docs/artifacts/tome_of_water.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Relic Artifact](../artifacts/index.md#relic-artifacts)</p>\n"
 msgstr ""
 
 #. type: Title #

@@ -600,6 +600,6 @@ msgstr "![Escudo de Aire](../assets/player-deck-back.webp){ width=\"340\" align=
 #. type: Plain text
 #: docs/fields/shipwreck_survivor.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../keywords/major_artifact.md)</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>[Major Artifact](../artifacts/index.md#major-artifacts)</p>\n"
 msgid "<p style=\"text-align: center;\" markdown>[**Search(2)**](../keywords/search.md) [:artifact:](../artifacts/index.md).</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Mayor](../keywords/major_artifact.md)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Mayor](../artifacts/index.md#major-artifacts)</p>\n"
