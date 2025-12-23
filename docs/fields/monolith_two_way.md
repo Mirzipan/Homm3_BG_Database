@@ -1,8 +1,8 @@
-# Two-Way Monolith
+# Monolith (Two-Way)
 
 <figure markdown="span">
 
-![Two-Way Monolith Location](../assets/locations-two_way_monolith.webp){ width="475" align=right }
+![Two-Way Monolith Location](../assets/locations-monolith_two_way.webp){ width="475" align=right }
 
 </figure>
 
@@ -15,6 +15,6 @@ ___
 
 ## See Also
 
-- [One-Way Monolith](one_way_monolith.md)
+- [Monolith (One-Way)](monolith_one_way.md)
 - [List of Fields](index.md)
 - [List of Tiles](../tiles/index.md)
