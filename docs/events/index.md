@@ -5,7 +5,7 @@ search:
 # List of Events
 
 
-| Name | Effect | [Content](../content/index.md) |
+| Name | Effect | Content |
 | :--- | :---: | :--- |
 | [A Shady Auction](a_shady_auction.md) | Repeat 3 times: Reveal the top card from the [Artifact](../artifacts/index.md) deck. In secret, each player takes as much :gold: in their hand as they are willing to pay for it. Then reveal your bets at the same time. The one with the highest proposal discards the :gold: and claims the card. If there are no bets or there is a tie, discard the card. | [Fortress Expansion](../content/fortress_expansion.md) |
 | [Artifact Merchant](artifact_merchant.md) | Draw 5 [artifacts](../artifacts/index.md). You can buy either any number of them or the face-up card from the [Artifact](../artifacts/index.md) discard pile. After finishing, give the rest of the cards to the player on the left. The exchange goes on until the last card is bought or the cards return to the one who drew them. [Minor Artifacts](../artifacts/index.md#minor-artifacts) cards cost 3 :gold:, [Major](../artifacts/index.md#major-artifacts) 5 :gold:, [Relic](../artifacts/index.md#relic-artifacts) 7 :gold:. | [Fortress Expansion](../content/fortress_expansion.md) |

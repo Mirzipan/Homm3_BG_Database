@@ -11,7 +11,7 @@ Roman numerals written on a [field](../fields/index.md) indicate that the field 
 
 These tiles contain [fields](../fields/index.md) with Ⅰ [difficulty](../difficulties.md) and a faction [town](../towns/index.md).
 
-| Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
+| Identifier | Terrain | Noteworthy Fields | Content |
 | : ---: | :---:  | :---: | :--- |
 | [S1](s1.md) | Dirt | [:building_materials: Mine](../fields/mine.md)</br>[Necropolis Town](../towns/necropolis.md) | [Core Game](../content/core_game.md) |
 | [S2](s2.md) | Subterranean | [Dungeon Town](../towns/dungeon.md)</br>[:building_materials: Mine](../fields/mine.md) | [Core Game](../content/core_game.md) |
@@ -30,7 +30,7 @@ These tiles contain [fields](../fields/index.md) with Ⅰ [difficulty](../diffic
 These tiles contain [fields](../fields/index.md) with Ⅱ-Ⅲ [difficulty](../difficulties.md).
 A [field](../fields/index.md) almost unique to the far tiles is the [Settlement](../fields/settlement.md).
 
-| Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
+| Identifier | Terrain | Noteworthy Fields | Content |
 | : ---: | :---:  | :---: | :--- |
 | [F1](f1.md) | Dirt | [Necropolis Settlement](../towns/necropolis.md) | [Core Game](../content/core_game.md) |
 | [F2](f2.md) | Subterranean | [Dungeon Settlement](../towns/dungeon.md) | [Core Game](../content/core_game.md) |
@@ -79,7 +79,7 @@ A [field](../fields/index.md) almost unique to the far tiles is the [Settlement]
 These tiles contain [fields](../fields/index.md) with Ⅳ-Ⅴ [difficulty](../difficulties.md).
 A [field](../fields/index.md) unique to the near tiles is the [Obelisk](../fields/obelisk.md).
 
-| Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
+| Identifier | Terrain | Noteworthy Fields | Content |
 | : ---: | :---:  | :---: | :--- |
 | [N1](n1.md) | Dirt | [:valuables: Mine](../fields/mine.md) | [Core Game](../content/core_game.md) |
 | [N2](n2.md) | Subterranean | [:valuables: Mine](../fields/mine.md) | [Core Game](../content/core_game.md) |
@@ -121,7 +121,7 @@ A [field](../fields/index.md) unique to the near tiles is the [Obelisk](../field
 These tiles contain [fields](../fields/index.md) with Ⅵ-Ⅶ [difficulty](../difficulties.md).
 Some [fields](../fields/index.md) are exclusive to the center tiles, but they are also the most difficult to beat.
 
-| Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
+| Identifier | Terrain | Noteworthy Fields | Content |
 | : ---: | :---:  | :---: | :--- |
 | [C1](c1.md) | Subterranean | [Pandora's Box](../fields/pandoras_box.md)</br>[Dragon Utopia](../fields/dragon_utopia.md) | [Core Game](../content/core_game.md) |
 | [C2](c2.md) | Subterranean | [Grail](../fields/grail.md)</br>[Pandora's Box](../fields/pandoras_box.md) | [Core Game](../content/core_game.md) |
@@ -139,7 +139,7 @@ Some [fields](../fields/index.md) are exclusive to the center tiles, but they ar
 
 A subtype of tiles that represents the underground. Players can enter and exit the underground by stepping onto the [Subterranean Gate](../fields/subterranean_gate.md).
 
-| Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
+| Identifier | Terrain | Noteworthy Fields | Content |
 | : ---: | :---:  | :---: | :--- |
 | [U1](u1.md) | Subterranean | [:building_materials: Mine](../fields/mine.md) | [Stronghold Expansion](../content/stronghold_expansion.md) |
 | [U2](u2.md) | Subterranean | [:building_materials: Mine](../fields/mine.md) | [Stronghold Expansion](../content/stronghold_expansion.md) |
@@ -160,7 +160,7 @@ A subtype of tiles that represents the underground. Players can enter and exit t
 
 A subtype of tiles that represents the water. Players can enter and exit the water by boarding or unboarding a ship.
 
-| Identifier | Terrain | Noteworthy Fields | [Content](../content/index.md) |
+| Identifier | Terrain | Noteworthy Fields | Content |
 | : ---: | :---:  | :---: | :--- |
 | [W1](w1.md) | Water | [:gold: Mine](../fields/mine.md) | [Cove Expansion](../content/cove_expansion.md) |
 | [W2](w2.md) | Water | [:valuables: Mine](../fields/mine.md) | [Cove Expansion](../content/cove_expansion.md) |

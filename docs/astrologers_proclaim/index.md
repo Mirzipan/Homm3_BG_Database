@@ -4,9 +4,13 @@ search:
 ---
 # Astrologers Proclaim
 
+
+
+## List of Astrologers Proclaim
+
 All of the cards start with a prefix of 'Astrologers proclaim week of the'. In the interest of readability, this prefix has been removed from the names in the following table.
 
-| Name | Effect | [Content](../content/index.md) |
+| Name | Effect | Content |
 | :--- | :---: | :--- |
 | [Ammo Cart](ammo_cart.md) | Until the next Astrologers round, each [Ballista](../war_machines/ballista.md) deals +1 :damage:, each [First Aid Tent](../war_machines/first_aid_tent.md) heals +1 :health_points:‍, and each [Ammo Cart](../war_machines/ammo_cart.md) allows re-rolling 1 [Attack die](../dice.md#attack-die) for all ranged [units](../units/index.md). | [Rampart Expansion](../content/rampart_expansion.md) |
 | [Annoying Lizard](annoying_lizard.md) | Each player must shuffle all [Artifact](../artifacts/index.md) and [Spell](../spells/index.md) cards from their hand back into their deck and draw the same number of cards from the top of their deck of Might and Magic. | [Core Game](../content/core_game.md) |

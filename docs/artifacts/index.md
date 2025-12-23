@@ -25,7 +25,7 @@ Relic artifacts have a purple frame.
 
 ## List of Artifacts
 
-| Name | Quality | Effect | [Content](../content/index.md) |
+| Name | Quality | Effect | Content |
 | :--- | :---: | :---: | :--- |
 | [Ambassador's Sash](ambassadors_sash.md) | [Major](index.md#major-artifacts) | :effect_map: For every [Dwelling](../keywords/dwelling.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can [**Recruit**](../keywords/recruit.md) one of these units.<br><br>— OR —<br><br>:instant: Reroll a [die](../dice.md). | [Rampart Expansion](../content/rampart_expansion.md) |
 | [Angel Wings](angel_wings.md) | [Relic](index.md#relic-artifacts) | :effect_map: Chosen [Hero](../heroes/index.md) gain +1 :movement: and can move through any fields without resolving them. The last visited field must be resolved normally.<br><br>— OR —<br><br>:instant: Draw a card. | [Core Game](../content/core_game.md) |
