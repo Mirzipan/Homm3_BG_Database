@@ -1,8 +1,124 @@
----
-search:
-  exclude: true
----
-# List of Units
+# Units
+
+
+## Tiers
+
+Units are divided into 4 tiers, based on their level of power:
+
+- :bronze: - Bronze tier
+- :silver: - Silver tier
+- :golden: - Gold tier
+- :azure: - Azure tier - only [Neutral Units](index.md#neutral-units) exist in this tier
+
+
+## Types
+
+There are 3 types of units:
+
+- [:unit_ground: Ground Units](index.md#ground-units)
+- [:unit_ranged: Ranged Units](index.md#ranged-units)
+- [:unit_flying: Flying Units](index.md#flying-units)
+
+
+## Statistics
+
+All units have the following statistics shown on their cards.
+
+| Symbol | Name | Meaning |
+| :---: | :--- | :--- |
+| :attack: | Attack | How much damage this unit will deal to another unit. |
+| :defense: | Defense | Decreases the damage received from non-magical sources — damage received cannot be less than 0. |
+| :health_points: | Health Points | How much damage this unit can receive, before being removed from Combat. |
+| :initiative: | Initiative | How fast the unit is. Higher number means they'll get to activate sooner in Combat. |
+
+
+## Symbols
+
+The following symbols are commonly used with the association of units or their abilities.
+
+| Symbol | Meaning |
+| :---: | :--- |
+| :empower: | Spell Power |
+| :damage: | Damage |
+| :unit_passive: | Effect is always active. |
+| :activation: | Effect activates when this unit activates. |
+| :unit_other: | Effect can be activated instead of moving and attacking. |
+| :unit_attack: | Effect activates when this unit attacks another unit. |
+| :unit_retaliate: | Effect activates when this unit retaliates against an attacker. |
+| :effect_map: | Effect can be activated outside of Combat. |
+
+
+## Ground Units
+
+Also shown as :unit_ground:.
+
+Units that move on the ground and can only attack adjacent units.
+
+- [^1] Ground units may move up to 3 spaces in Combat on the small battlefield. On the [large battlefield](../content/battlefield_expansion.md), their movement range is equal to their :initiative: value instead.
+- Ground units may move first and then attack during their activation.
+
+
+## Ranged Units
+
+Also shown as :unit_ranged:.
+
+Units that move on the ground and can also attack units that are not adjacent to them.
+
+- [^1] Ranged units may move up to 1 space in Combat on the small battlefield. On the [large battlefield](../content/battlefield_expansion.md), their movement range is equal to their :initiative: value instead.
+- [^1] Ranged units may attack first, and then move. On the [large battlefield](../content/battlefield_expansion.md) they can either move or attack.
+- Should an enemy unit occupy any space that is adjacent to the ranged unit, the ranged unit can only attack the adjacent unit.
+- Should there be no enemy unit adjacent to the ranged unit, the ranged unit may attack an enemy unit anywhere on the battlefield.
+- [^1] Should the ranged attack originate in the back row of the battlefield and the attacked unit is in the opposite back row of the battlefield, a ranged penalty applies. On the [large battlefield](../content/battlefield_expansion.md), the ranged penalty applied when attacking a unit that is 8 or more hexes away.
+- There is no retaliation against a ranged attack. There is, however, retaliation if the ranged unit attacks a unit that is adjacent to it.
+
+
+## Flying Units
+
+Also shown as :unit_flying:.
+
+Flying units move through the air and can only attack adjacent units.
+
+- [^1] Flying units may move up to 3 spaces in Combat on the small battlefield. On the [large battlefield](../content/battlefield_expansion.md), their movement range is equal to their :initiative: value instead.
+- [^1] Flying units may attack first, and then move. On the [large battlefield](../content/battlefield_expansion.md), their movement always comes first.
+- Flying units may move first and then attack during their activation.
+- Flying units may move over obstacles, as long as their movement ends on an empty space.
+
+
+## Neutral Units
+
+Neutral units are variants of regular units, expect they are only used in Neutral Unit Combat.
+There are some [Ability](../abilities/index.md), [Astrologers Proclaim](../astrologers_proclaim/index.md), [Event](../events/index.md), and [Hero](../heroes/index.md) specialty cards that allow the player to [Recruit](../keywords/recruit.md) Neutral Units.
+
+
+
+## Summoned Units
+
+These units can only comes into Combat by someone casting a summoning [spell](../spells/index.md).
+None of these units can be [Recruited](../keyword/recruit.md) normally.
+
+There are currently 4 summoning spells:
+
+- [Summon Air Elemental](../spells/summon_air_elemental.md)
+- [Summon Earth Elemental](../spells/summon_earth_elemental.md)
+- [Summon Fire Elemental](../spells/summon_fire_elemental.md)
+- [Summon Water Elemental](../spells/summon_water_elemental.md)
+
+
+## Creature Bank Units
+
+Special units that are only used when challenging the guards of a [Creature Bank](../fields/creature_bank.md).
+None of these units can be [Recruited](../keyword/recruit.md) normally.
+
+
+## Other Units
+
+Although these are not strictly speaking Units, they can be part of Combat and have either Unit-like statistics or effects.
+
+- [Arrow Tower](arrow_tower.md)
+- [War Machines](../war_machines/index.md)
+
+
+## List of Units
 
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
@@ -219,15 +335,9 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Titans](titans.md) | [Neutral](../towns/neutral.md) | - | :azure: | [:unit_ranged:](../keywords/ranged_unit.md) | 6 | 2 | 10 | 10 | 39 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking [Black Dragons](black_dragons.md), this unit gains +2 :attack:. | [Tower Expansion](../content/tower_expansion.md) |
 
 
-## Other
-
-| Name | Type | :attack: | :defense: | :health_points: | :initiative: | Abilities |
-| :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| [Arrow Tower](arrow_tower.md) | [:unit_ranged:](../keywords/ranged_unit.md) | 4 | 2 | 3 | 9 | Place this card near the Combat board. Discard this card immediately when both the Gate card and all the Wall cards are destroyed.<br>:unit_passive: It can only be attack by [:unit_ranged:](../keywords/ranged_unit.md) attacks or card effects. |
-
-You can find war machines [here](../war_machines/index.md).
-
-
 ## See Also
 
 - [List of Towns](../towns/index.md)
+
+
+[^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text.
