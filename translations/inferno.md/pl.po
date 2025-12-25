@@ -739,7 +739,7 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/inferno.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:activation: Select a space. Now roll and [Attack die](../dice.md#attack-die) \\*. All [units](../units/index.md) on this and the adjacent spaces take 1 :damage: for every \"+1\" rolled.<br><br>:empower: 0 ➣ \\*once<br>:empower: 1 ➣ \\*twice<br>:empower: 2 ➣ \\*4 times<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:activation: Select a space. Now roll an [Attack die](../dice.md#attack-die) \\*. All [units](../units/index.md) on this and the adjacent spaces take 1 :damage: for every \"+1\" rolled.<br><br>:empower: 0 ➣ \\*once<br>:empower: 1 ➣ \\*twice<br>:empower: 2 ➣ \\*4 times<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
 msgstr ""
 
 #. type: Title ##
