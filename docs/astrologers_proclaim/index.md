@@ -4,6 +4,8 @@ search:
 ---
 # Astrologers Proclaim
 
+Astrologers Proclaim cards are drawn and resolved at the starts of even rounds, right after players get to flip their tokens (Build, Population, Spell Book, Movement) and reset their :expert: expert effect uses.
+These cards can have one-time effects or effects lasting during the whole round, sometimes even the following round (until a new Astrologers Proclaim) card is drawn and resolved.
 
 
 ## List of Astrologers Proclaim
