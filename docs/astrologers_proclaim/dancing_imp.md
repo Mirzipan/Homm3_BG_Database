@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Each player can Remove a [Statistic](../statistics/index.md) card from their discard pile or hand to gain 1 [Empowered Statistic](../statistics/index.md) card of the same type.</p>
+<p style="text-align: center;" markdown>Each player can [Remove](../keywords/remove.md) a [Statistic](../statistics/index.md) card from their discard pile or hand to gain 1 [Empowered Statistic](../statistics/index.md) card of the same type.</p>
 ___
 <p style="text-align: center;" markdown>*Welcome to the hell hole, it gets worse here every day.<br>Learn to live like a flame beast in the pit where we play.*</p>
 ___

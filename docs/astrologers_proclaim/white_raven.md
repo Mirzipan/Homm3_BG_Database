@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Each player immediately rolls 1 [Resource die](../dice.md#resource-die) and gains the rolled resources.</p>
+<p style="text-align: center;" markdown>Each player immediately rolls 1 [Resource die](../keywords/resource_die.md) and gains the rolled resources.</p>
 ___
 <p style="text-align: center;" markdown>*"Where do you go, fantastic dream bird?"<br>"Eeofol, Deyja, Place Between Planes... Still interested?"*</p>
 ___

@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement.</p>
+<p style="text-align: center;" markdown>Until the next Astrologer's round:<br><br>Each [Hero](../heroes/index.md) gains +1 Movement.</p>
 ___
 <p style="text-align: center;" markdown>*"Yo, Adrienne, I did it!"*</p>
 ___
