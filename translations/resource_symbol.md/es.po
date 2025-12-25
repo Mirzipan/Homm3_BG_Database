@@ -515,6 +515,6 @@ msgstr "![Ubicación de Erudito](../assets/locations-scholar.webp){ width=\"475\
 #. type: Plain text
 #: docs/fields/resource_symbol.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>Each player immediately rolls 1 [Treasure die](../dice.md#treasure-die) and gains the rolled bonus.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Roll a specified number of [Resource dice](../keywords/resource_die.md), then select one to resolve its effect.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Cada jugador tira inmediatamente 1 [dado de Tesoro](../dice.md#treasure-die) y gana la bonificación obtenida.</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>Each player immediately rolls 1 [Treasure die](../keywords/dice.md#treasure-die) and gains the rolled bonus.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll a specified number of [Resource dice](../keywords/dice.md#resource-die), then select one to resolve its effect.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Cada jugador tira inmediatamente 1 [dado de Tesoro](../keywords/dice.md#treasure-die) y gana la bonificación obtenida.</p>\n"

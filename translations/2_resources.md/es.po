@@ -413,8 +413,8 @@ msgstr "<p style=\"text-align: center;\" markdown>[Lugar Visitable](../keywords/
 #. type: Plain text
 #: docs/fields/resource_symbol.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Roll 2 [Resource Dice](../dice.md#resource-die) and choose the bonus from one of them.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Lanza 2 [Dados de Recurso](../dice.md#resource-die) y elige el resultado de uno de ellos.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll 2 [Resource Dice](../keywords/dice.md#resource-die) and choose the bonus from one of them.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Lanza 2 [Dados de Recurso](../keywords/dice.md#resource-die) y elige el resultado de uno de ellos.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/fields/resource_symbol.md docs/fields/artifact_symbol.md

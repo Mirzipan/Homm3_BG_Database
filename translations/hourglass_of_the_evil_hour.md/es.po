@@ -574,8 +574,8 @@ msgstr "![Reloj de Arena de la Hora Aciaga](../assets/artifacts_minor-hourglass_
 #. type: Plain text
 #: docs/artifacts/hourglass_of_the_evil_hour.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: If the enemy has :morale_positive:, they gain :morale_negative:.<br><br>— OR —<br><br>:instant: Roll the [Attack die](../dice.md#attack-die). On a \"0\" result, you gain :morale_positive:.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: si el enemigo tiene :morale_positive:, gana :morale_negative:.<br><br>— O —<br><br>:instant: Lanza el [dado de Ataque](../dice.md#attack-die). Con un resultado \"0\", ganas :morale_positive:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: If the enemy has :morale_positive:, they gain :morale_negative:.<br><br>— OR —<br><br>:instant: Roll the [Attack die](../keywords/dice.md#attack-die). On a \"0\" result, you gain :morale_positive:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: si el enemigo tiene :morale_positive:, gana :morale_negative:.<br><br>— O —<br><br>:instant: Lanza el [dado de Ataque](../keywords/dice.md#attack-die). Con un resultado \"0\", ganas :morale_positive:.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/hourglass_of_the_evil_hour.md

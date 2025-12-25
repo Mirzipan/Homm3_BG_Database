@@ -15,7 +15,7 @@
 | :health_points: | 4 |
 | :initiative: | 5 |
 | Cost | 8 :gold: |
-| Abilities | :unit_attack: Ignore the result on the [Attack die](../dice.md#attack-die). :unit_passive: Whenever this unit is attacked, set your opponent's [Attack die](../dice.md#attack-die) to "-1". |
+| Abilities | :unit_attack: Ignore the result on the [Attack die](../keywords/dice.md#attack-die). :unit_passive: Whenever this unit is attacked, set your opponent's [Attack die](../keywords/dice.md#attack-die) to "-1". |
 
 
 ## Notes

@@ -732,8 +732,8 @@ msgstr "<p style=\"text-align: center;\" markdown>[Proclama de los Astrólogos](
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers round, each [Ballista](../war_machines/ballista.md) deals +1 :damage:, each [First Aid Tent](../war_machines/first_aid_tent.md) heals +1 :health_points:‍, and each [Ammo Cart](../war_machines/ammo_cart.md) allows re-rolling 1 [Attack die](../dice.md#attack-die) for all ranged [units](../units/index.md).</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos, cada [Ballesta](../war_machines/ballista.md) realiza +1 :damage:, cada [Tienda de Primeros Auxilios](../war_machines/first_aid_tent.md) cura +1 :health_points:‍, y cada [Carro de Munición](../war_machines/ammo_cart.md) permite repetir 1 [Dado de Ataque](../dice.md#attack-die) para todas las [unidades](../units/index.md) a distancia.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers round, each [Ballista](../war_machines/ballista.md) deals +1 :damage:, each [First Aid Tent](../war_machines/first_aid_tent.md) heals +1 :health_points:‍, and each [Ammo Cart](../war_machines/ammo_cart.md) allows re-rolling 1 [Attack die](../keywords/dice.md#attack-die) for all ranged [units](../units/index.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos, cada [Ballesta](../war_machines/ballista.md) realiza +1 :damage:, cada [Tienda de Primeros Auxilios](../war_machines/first_aid_tent.md) cura +1 :health_points:‍, y cada [Carro de Munición](../war_machines/ammo_cart.md) permite repetir 1 [Dado de Ataque](../keywords/dice.md#attack-die) para todas las [unidades](../units/index.md) a distancia.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md

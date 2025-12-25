@@ -759,7 +759,7 @@ msgid ""
 "| :health_points: | 6 | 6 | 🚧 |\n"
 "| :initiative: | 9 | **11** | 🚧 |\n"
 "| Cost | 8 :gold: | 14 :gold: | 🚧 |\n"
-"| Abilities | - | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](../dice.md#attack-die), on a \"+1\", deal 1 :spell: :damage: to the target. | 🚧 |\n"
+"| Abilities | - | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](../keywords/dice.md#attack-die), on a \"+1\", deal 1 :spell: :damage: to the target. | 🚧 |\n"
 msgstr ""
 
 #. type: Bullet: '- '

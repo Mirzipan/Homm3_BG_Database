@@ -514,5 +514,5 @@ msgstr ""
 #. type: Plain text
 #: docs/fields/resource_symbol.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Roll a specified number of [Resource dice](../keywords/resource_die.md), then select one to resolve its effect.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll a specified number of [Resource dice](../keywords/dice.md#resource-die), then select one to resolve its effect.</p>\n"
 msgstr ""

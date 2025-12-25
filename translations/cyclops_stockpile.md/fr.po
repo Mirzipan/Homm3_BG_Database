@@ -523,5 +523,5 @@ msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 #. type: Plain text
 #: docs/fields/cyclops_stockpile.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>When preparing the Neutral Army guarding this location, instead of drawing 1 :azure: unit, find 2 :golen: [Cyclopes](../units/cyclopes.md) and add them to the Neutral Army (look for them first in the :golden: discard pile, and then in the :golden: Neutral Unit deck). If you win the Combat, roll and resolve 4 [:resource_die:](../keywords/resource_die.md). Any additional effects depend on the scenario.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>When preparing the Neutral Army guarding this location, instead of drawing 1 :azure: unit, find 2 :golen: [Cyclopes](../units/cyclopes.md) and add them to the Neutral Army (look for them first in the :golden: discard pile, and then in the :golden: Neutral Unit deck). If you win the Combat, roll and resolve 4 [:resource_die:](../keywords/dice.md#resource-die). Any additional effects depend on the scenario.</p>\n"
 msgstr ""

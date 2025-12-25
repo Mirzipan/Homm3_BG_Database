@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
 ___
-<p style="text-align: center;" markdown>Roll a specified number of [Treasure dice](../keywords/treasure_die.md), then select one to resolve its effect.</p>
+<p style="text-align: center;" markdown>Roll a specified number of [Treasure dice](../keywords/dice.md#treasure-die), then select one to resolve its effect.</p>
 ___
 
 

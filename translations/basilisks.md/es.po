@@ -761,7 +761,7 @@ msgid ""
 "| :health_points: | 4 | **5** | 4 |\n"
 "| :initiative: | 5 | **7** | 5 |\n"
 "| Cost | 6 :gold: | 9 :gold: | 12 :gold: |\n"
-"| Abilities | :unit_attack: On \"-1\" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: On \"-1\" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die). On a \"0\" result, :paralysis: the target. |\n"
+"| Abilities | :unit_attack: On \"-1\" outcomes on the [Attack die](../keywords/dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: On \"-1\" outcomes on the [Attack die](../keywords/dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: After the attack, roll 1 [Attack die](../keywords/dice.md#attack-die). On a \"0\" result, :paralysis: the target. |\n"
 msgstr ""
 "| Características | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
@@ -773,7 +773,7 @@ msgstr ""
 "| :health_points: | 4 | **5** | 4 |\n"
 "| :initiative: | 5 | **7** | 5 |\n"
 "| Coste | 6 :gold: | 9 :gold: | 12 :gold: |\n"
-"| Habilidades | :unit_attack: Con resultado \"-1\" en el [dado de Ataque](../dice.md#attack-die), la unidad atacada recibe una ficha de :paralysis:. | :unit_attack: Con resultado \"-1\" en el [dado de Ataque](../dice.md#attack-die), la unidad atacada recibe una ficha de :paralysis:. | :unit_attack: Después del ataque, tira 1 [dado de Ataque](../dice.md#attack-die). Con un resultado \"0\", :paralysis: al objetivo. |\n"
+"| Habilidades | :unit_attack: Con resultado \"-1\" en el [dado de Ataque](../keywords/dice.md#attack-die), la unidad atacada recibe una ficha de :paralysis:. | :unit_attack: Con resultado \"-1\" en el [dado de Ataque](../keywords/dice.md#attack-die), la unidad atacada recibe una ficha de :paralysis:. | :unit_attack: Después del ataque, tira 1 [dado de Ataque](../keywords/dice.md#attack-die). Con un resultado \"0\", :paralysis: al objetivo. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/basilisks.md

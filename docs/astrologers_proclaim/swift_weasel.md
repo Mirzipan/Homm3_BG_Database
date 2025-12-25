@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Until the next Astrologer's round:<br><br>Once per turn, each player can reroll a [Treasure die](../keywords/treasure_die.md) or a [Resource die](../keywords/resource_die.md).</p>
+<p style="text-align: center;" markdown>Until the next Astrologer's round:<br><br>Once per turn, each player can reroll a [Treasure die](../keywords/dice.md#treasure-die) or a [Resource die](../keywords/dice.md#resource-die).</p>
 ___
 <p style="text-align: center;" markdown>*You need cool rants for the victory dance.<br>Baboons are never better than weasels.<br><br>Your opponent reigns king in their mind.<br>They dream to be great as the weasely kind.<br><br>I am the Swift Weasel!*</p>
 ___

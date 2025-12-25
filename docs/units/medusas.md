@@ -29,7 +29,7 @@
 | :health_points: | 4 | 4 | 4 |
 | :initiative: | 5 | **6** | 6 |
 | Cost | 6 :gold: | 12 :gold: | 11 :gold: |
-| Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../dice.md#attack-die), on a "0" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. |
+| Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../keywords/dice.md#attack-die), on a "0" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. |
 
 
 ## Notes

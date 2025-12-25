@@ -573,7 +573,7 @@ msgstr "![Escudo de los Señores Enanos](../assets/artifacts_minor-shield_of_the
 #. type: Plain text
 #: docs/artifacts/shield_of_the_dwarven_lords.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Use this after the [Attack die](../dice.md#attack-die) roll. Ignore the [Attack die](../dice.md#attack-die) and any additional effects it triggered.<br><br>— OR —<br><br>:instant: +1 :defense:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Use this after the [Attack die](../keywords/dice.md#attack-die) roll. Ignore the [Attack die](../keywords/dice.md#attack-die) and any additional effects it triggered.<br><br>— OR —<br><br>:instant: +1 :defense:</p>\n"
 msgstr ""
 
 #. type: Plain text

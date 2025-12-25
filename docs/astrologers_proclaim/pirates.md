@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Until the next Astrologers' round:<br><br>Every time you win Combat other than Quick Combat, gain 1 [:resource_die:](../keywords/resource_die.md).</p>
+<p style="text-align: center;" markdown>Until the next Astrologers' round:<br><br>Every time you win Combat other than Quick Combat, gain 1 [:resource_die:](../keywords/dice.md#resource-die).</p>
 ___
 <p style="text-align: center;" markdown>*There is a rumor among Pirates that an amazing treasure is buried somewhere by the Pirate King.*</p>
 ___

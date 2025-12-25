@@ -514,5 +514,5 @@ msgstr ""
 #. type: Plain text
 #: docs/fields/treasure_symbol.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Roll a specified number of [Treasure dice](../keywords/treasure_die.md), then select one to resolve its effect.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll a specified number of [Treasure dice](../keywords/dice.md#treasure-die), then select one to resolve its effect.</p>\n"
 msgstr ""

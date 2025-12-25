@@ -634,8 +634,8 @@ msgstr "![Hacha del Centauro](../assets/artifacts_minor-centaurs_axe.webp){ widt
 #. type: Plain text
 #: docs/artifacts/centaurs_axe.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Triple the [Attack die's](../dice.md#attack-die) outcome.<br><br>— OR —<br><br>:instant: +1 :attack:</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: Triplica el resultado del [dado de Ataque](../dice.md#attack-die) outcome.<br><br>— O —<br><br>:instant: +1 :attack:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Triple the [Attack die's](../keywords/dice.md#attack-die) outcome.<br><br>— OR —<br><br>:instant: +1 :attack:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Triplica el resultado del [dado de Ataque](../keywords/dice.md#attack-die) outcome.<br><br>— O —<br><br>:instant: +1 :attack:</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/centaurs_axe.md

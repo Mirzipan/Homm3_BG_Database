@@ -530,7 +530,7 @@ msgstr ""
 #. type: Plain text
 #: docs/artifacts/spirit_of_oppression.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: During this Combat, neither player can use the :morale_positive: token or reroll [Attack dice](../dice.md#attack-die).<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: During this Combat, neither player can use the :morale_positive: token or reroll [Attack dice](../keywords/dice.md#attack-die).<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
 msgstr ""
 
 #. type: Plain text

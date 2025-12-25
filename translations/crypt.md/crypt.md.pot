@@ -670,7 +670,7 @@ msgstr ""
 #. type: Plain text
 #: docs/events/crypt.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 [:treasure:](../dice.md#treasure-die). If any of them shows :experience:, you gain nothing. Otherwise, resolve one result.<br><br>— OR —<br><br>Gain Positive Morale.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for half the cost.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 [:treasure:](../keywords/dice.md#treasure-die). If any of them shows :experience:, you gain nothing. Otherwise, resolve one result.<br><br>— OR —<br><br>Gain Positive Morale.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for half the cost.</p>\n"
 msgstr ""
 
 #. type: Plain text

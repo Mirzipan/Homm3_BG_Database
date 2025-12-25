@@ -455,5 +455,5 @@ msgstr "![Recursos Map Location](../assets/locations-resource_symbol.webp){ widt
 #. type: Plain text
 #: docs/fields/resource_symbol.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Roll a [Resource Die](../dice.md#resource-die) and gain the indicated Resources.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Roll a [Resource Die](../dice.md#resource-die) and gain the indicated Recursos.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll a [Resource Die](../keywords/dice.md#resource-die) and gain the indicated Resources.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Roll a [Resource Die](../keywords/dice.md#resource-die) and gain the indicated Recursos.</p>\n"

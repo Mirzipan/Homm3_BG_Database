@@ -679,5 +679,5 @@ msgstr ""
 #. type: Plain text
 #: docs/fields/sea_chest.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Roll 1 [Attack Die](../keywords/attack_die.md). Depending on the result, do the following:<br><br>**+1** - [**Search(1)**](../keywords/search.md) [:artifact:](../artifacts/index.md).<br><br>**0** - Gain 5 :gold:.<br><br>**-1** - Gain nothing.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll 1 [Attack Die](../keywords/dice.md#attack-die). Depending on the result, do the following:<br><br>**+1** - [**Search(1)**](../keywords/search.md) [:artifact:](../artifacts/index.md).<br><br>**0** - Gain 5 :gold:.<br><br>**-1** - Gain nothing.</p>\n"
 msgstr ""

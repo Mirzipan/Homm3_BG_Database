@@ -514,6 +514,6 @@ msgstr "[Lista Jednostek](units/index.md)"
 #. type: Plain text
 #: docs/fields/treasure_symbol.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>Each player immediately rolls 1 [Resource die](../dice.md#resource-die) and gains the rolled resources.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Roll a specified number of [Treasure dice](../keywords/treasure_die.md), then select one to resolve its effect.</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>Each player immediately rolls 1 [Resource die](../keywords/dice.md#resource-die) and gains the rolled resources.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll a specified number of [Treasure dice](../keywords/dice.md#treasure-die), then select one to resolve its effect.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>Każdy gracz natychmiast rzuca 1 kością Zasobów i rozpatruje jej wynik.</p>\n"

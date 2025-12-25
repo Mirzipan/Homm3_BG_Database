@@ -523,8 +523,8 @@ msgstr "![Cartas de la Profecía](../assets/artifacts_major-cards_of_prophecy.we
 #. type: Plain text
 #: docs/artifacts/cards_of_prophecy.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Reroll any [die](../dice.md).<br><br>— OR —<br><br>:instant: Set a :resource_die: or :treasure: on the side of your choice.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: Repite cualquier [dado](../dice.md).<br><br>— O —<br><br>:instant: Coloca un dado de :resource_die: o :treasure: por el lado de tu elección.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Reroll any [die](../keywords/dice.md).<br><br>— OR —<br><br>:instant: Set a :resource_die: or :treasure: on the side of your choice.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Repite cualquier [dado](../keywords/dice.md).<br><br>— O —<br><br>:instant: Coloca un dado de :resource_die: o :treasure: por el lado de tu elección.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/cards_of_prophecy.md

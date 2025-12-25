@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Triple the [Attack die's](../dice.md#attack-die) outcome.<br><br>— OR —<br><br>:instant: +1 :attack:</p>
+<p style="text-align: center;" markdown>:instant: Triple the [Attack die's](../keywords/dice.md#attack-die) outcome.<br><br>— OR —<br><br>:instant: +1 :attack:</p>
 ___
 <p style="text-align: center;" markdown>*You see a heavy axe embedded deeply in the ground. After several unsuccessful attempts by your army to remove it, you tightly grip the handle of the axe and effortlessly pull it free.*</p>
 

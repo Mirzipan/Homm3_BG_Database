@@ -524,6 +524,6 @@ msgstr "![Ubicación de Grial](../assets/locations-grail.webp){ width=\"475\" al
 #. type: Plain text
 #: docs/fields/pandoras_box.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>Roll 2 [Treasure Dice](../dice.md#treasure-die) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Resource Dice](../dice.md#resource-die) and choose 1 result to gain.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Roll 2 [Treasure Dice](../keywords/treasure_die.md) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Resource Dice](../keywords/resource_die.md) and choose 1 result to gain.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Roll 2 [Tesoro Dice](../dice.md#treasure-die) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Dados de Recurso](../dice.md#resource-die) and choose 1 result to gain.</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>Roll 2 [Treasure Dice](../keywords/dice.md#treasure-die) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Resource Dice](../keywords/dice.md#resource-die) and choose 1 result to gain.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll 2 [Treasure Dice](../keywords/dice.md#treasure-die) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Resource Dice](../keywords/dice.md#resource-die) and choose 1 result to gain.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Roll 2 [Tesoro Dice](../keywords/dice.md#treasure-die) and choose 1 result to gain.<br><br>— OR —<br><br>Roll 2 [Dados de Recurso](../keywords/dice.md#resource-die) and choose 1 result to gain.</p>\n"

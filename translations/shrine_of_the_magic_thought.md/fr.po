@@ -688,8 +688,8 @@ msgstr "![Temple de pensée](../assets/events-shrine_of_the_magic_thought.webp){
 #. type: Plain text
 #: docs/events/shrine_of_the_magic_thought.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>For every player in the game, draw two random [Spell](../spells/index.md) cards and place them face-up within all players' reach. Each player can either buy one of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables: or roll and resolve 1 [:resource_die:](../dice.md#resource-die). Place the remaining, not bought, cards in the [Spell](../spells/index.md) discard pile.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Piochez 2 [Sorts](../spells/index.md) par joueur dans la partie, puis placez les au centre de la table. Chaque joueur peut soit acheter une de ces cartes pour [:spellpower:](../spells/index.md) pour 6 :gold: ou 2 :valuables:, soit lancer 1 dé [:resource_die:](../dice.md#resource-die) et appliquer le résultat. Placez toutes les cartes non achetées dans la défausse de cartes [Sorts](../spells/index.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>For every player in the game, draw two random [Spell](../spells/index.md) cards and place them face-up within all players' reach. Each player can either buy one of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables: or roll and resolve 1 [:resource_die:](../keywords/dice.md#resource-die). Place the remaining, not bought, cards in the [Spell](../spells/index.md) discard pile.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Piochez 2 [Sorts](../spells/index.md) par joueur dans la partie, puis placez les au centre de la table. Chaque joueur peut soit acheter une de ces cartes pour [:spellpower:](../spells/index.md) pour 6 :gold: ou 2 :valuables:, soit lancer 1 dé [:resource_die:](../keywords/dice.md#resource-die) et appliquer le résultat. Placez toutes les cartes non achetées dans la défausse de cartes [Sorts](../spells/index.md).</p>\n"
 
 #. type: Plain text
 #: docs/events/shrine_of_the_magic_thought.md

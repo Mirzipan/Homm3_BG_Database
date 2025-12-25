@@ -599,7 +599,7 @@ msgstr "![Sandalias del Santo](../assets/player-deck-back.webp){ width=\"340\" a
 #. type: Plain text
 #: docs/artifacts/bowstring_of_the_unicorns_mane.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Play this card before a [unit](../units/index.md) activates. Activate one of your [:unit_ranged: units](../keywords/ranged_unit.md) that has not been activated this round.<br><br>— OR —<br><br>:instant: Use this after a [:unit_ranged: unit's](../keywords/ranged_unit.md) [Attack die](../dice.md#attack-die) roll. Ignore 1 [Attack die](../dice.md#attack-die).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Play this card before a [unit](../units/index.md) activates. Activate one of your [:unit_ranged: units](../keywords/ranged_unit.md) that has not been activated this round.<br><br>— OR —<br><br>:instant: Use this after a [:unit_ranged: unit's](../keywords/ranged_unit.md) [Attack die](../keywords/dice.md#attack-die) roll. Ignore 1 [Attack die](../keywords/dice.md#attack-die).</p>\n"
 msgstr ""
 
 #. type: Plain text

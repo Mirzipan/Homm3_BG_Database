@@ -682,7 +682,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/fields/sea_barrel.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>[Revisitable Field](../keywords/revisitable_field.md)</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Roll and resolve 1 [:resource_die:](../keywords/resource_die.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll and resolve 1 [:resource_die:](../keywords/dice.md#resource-die).</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Pole Wielorazowe](../keywords/revisitable_field.md)</p>\n"
 
 #. type: Bullet: '- '

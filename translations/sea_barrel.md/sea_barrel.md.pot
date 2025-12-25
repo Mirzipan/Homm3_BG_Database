@@ -679,7 +679,7 @@ msgstr ""
 #. type: Plain text
 #: docs/fields/sea_barrel.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Roll and resolve 1 [:resource_die:](../keywords/resource_die.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll and resolve 1 [:resource_die:](../keywords/dice.md#resource-die).</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '

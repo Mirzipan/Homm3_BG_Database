@@ -598,5 +598,5 @@ msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 #: docs/fields/shipwreck.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Roll and resolve 2 [:resource_die:](../keywords/resource_die.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll and resolve 2 [:resource_die:](../keywords/dice.md#resource-die).</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keywords/visitable_field.md)</p>\n"

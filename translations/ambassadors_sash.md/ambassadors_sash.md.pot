@@ -558,7 +558,7 @@ msgstr ""
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:effect_map: For every [Dwelling](../keywords/dwelling.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can [**Recruit**](../keywords/recruit.md) one of these units.<br><br>— OR —<br><br>:instant: Reroll a [die](../dice.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:effect_map: For every [Dwelling](../keywords/dwelling.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can [**Recruit**](../keywords/recruit.md) one of these units.<br><br>— OR —<br><br>:instant: Reroll a [die](../keywords/dice.md).</p>\n"
 msgstr ""
 
 #. type: Plain text

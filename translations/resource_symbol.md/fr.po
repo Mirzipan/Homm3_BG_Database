@@ -516,5 +516,5 @@ msgstr "![Marais maudit](../assets/events-cursed_swamp.webp){ width=\"475\" alig
 #: docs/fields/resource_symbol.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Roll a specified number of [Resource dice](../keywords/resource_die.md), then select one to resolve its effect.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll a specified number of [Resource dice](../keywords/dice.md#resource-die), then select one to resolve its effect.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keywords/visitable_field.md)</p>\n"
