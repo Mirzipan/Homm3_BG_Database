@@ -17,13 +17,13 @@
 | :--- | :---: | :---: |
 | Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| Type | :unit_ground: | :unit_ground: |
 | :attack: | 2 | **3** |
-| :defense: | 1 | 1 |
+| :defense: | 0 | 0 |
 | :health_points: | 4 | 4 |
-| :initiative: | 7 | 7 |
-| Cost | 5 :gold: | 7 :gold: |
-| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic](../spells/school_of_air_magic.md) :spellpower:. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic](../spells/school_of_air_magic.md) :spellpower:. |
+| :initiative: | 8 | 8 |
+| Cost | - | - |
+| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spellpower:](../spells/school_of_air_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spellpower:](../spells/school_of_air_magic.md). This unit deals elemental damage. |
 
 
 ## Notes

@@ -29,7 +29,7 @@
 | :health_points: | 3 | **5** | 🚧 |
 | :initiative: | 5 | **6** | 🚧 |
 | Cost | 3 :gold: | 5 :gold: | 🚧 |
-| Abilities | - | :effect_map: +1 :movement: if you start the round on a Sea tile. | 🚧 |
+| Abilities | - | :unit_passive: Once per Combat, when this unit removes a unit from Combat, gain 2 :gold:. | 🚧 |
 
 
 ## Comes With

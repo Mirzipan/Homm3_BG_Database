@@ -29,7 +29,7 @@
 | :health_points: | 4 | **5** | 🚧 |
 | :initiative: | 5 | **6** | 🚧 |
 | Cost | 4 :gold: | 7 :gold: | 🚧 |
-| Abilities | - | :activation: Add +1 :empower: to the first [Water Magic](../spells/school_of_water_magic.md) spell you cast during this Activation. | 🚧 |
+| Abilities | - | :activation: Add +1 :empower: to the first [Water Magic spell](../spells/school_of_water_magic.md) you cast during this Activation. | 🚧 |
 
 
 ## Comes With

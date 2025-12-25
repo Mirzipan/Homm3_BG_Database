@@ -29,7 +29,7 @@
 | :health_points: | 2 | **4** | 🚧 |
 | :initiative: | 7 | **9** | 🚧 |
 | Cost | 2 :gold: | 4 :gold: | 🚧 |
-| Abilities | - | :unit_attack: Ignore Enemy's Retaliation Attack. | 🚧 |
+| Abilities | - | :unit_attack: Ignores Retaliation Attacks. | 🚧 |
 
 
 ## Comes With

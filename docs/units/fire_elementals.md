@@ -3,27 +3,27 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Fire Elementals](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Few Fire Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Fire Elementals](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Pack of Fire Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack |
 | :--- | :---: | :---: |
 | Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |
-| Tier | 🚧 | 🚧 |
-| Type | 🚧 | 🚧 |
-| :attack: | 🚧 | 🚧 |
-| :defense: | 🚧 | 🚧 |
-| :health_points: | 🚧 | 🚧 |
-| :initiative: | 🚧 | 🚧 |
-| Cost | 🚧 | 🚧 |
-| Abilities | 🚧 | 🚧 |
+| Tier | :bronze: | :bronze: |
+| Type | :unit_ground: | :unit_ground: |
+| :attack: | 2 | **3** |
+| :defense: | 1 | 1 |
+| :health_points: | 4 | 4 |
+| :initiative: | 5 | 5 |
+| Cost | - | - |
+| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/school_of_fire_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/school_of_fire_magic.md). This unit deals elemental damage. |
 
 
 ## Notes

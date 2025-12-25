@@ -26,10 +26,10 @@
 | Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | 🚧 |
 | :attack: | 4 | **5** | 🚧 |
 | :defense: | 2 | 2 | 🚧 |
-| :health_points: | 6 | **6** | 🚧 |
+| :health_points: | 5 | 5 | 🚧 |
 | :initiative: | 4 | **6** | 🚧 |
 | Cost | 9 :gold: | 13 :gold: | 🚧 |
-| Abilities | - | :activation: Add +1 :empower: to the first [Earth Magic](../spells/school_of_earth_magic.md) spell you cast during this Activation. | 🚧 |
+| Abilities | - | :activation: Add +1 :empower: to the first [Earth Magic spell](../spells/school_of_earth_magic.md) you cast during this Activation. | 🚧 |
 
 
 ## Comes With

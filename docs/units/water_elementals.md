@@ -16,14 +16,14 @@
 | Statistics | Few | Pack |
 | :--- | :---: | :---: |
 | Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |
-| Tier | 🚧 | 🚧 |
-| Type | 🚧 | 🚧 |
-| :attack: | 🚧 | 🚧 |
-| :defense: | 🚧 | 🚧 |
-| :health_points: | 🚧 | 🚧 |
-| :initiative: | 🚧 | 🚧 |
-| Cost | 🚧 | 🚧 |
-| Abilities | 🚧 | 🚧 |
+| Tier | :bronze: | :bronze: |
+| Type | :unit_ground: | :unit_ground: |
+| :attack: | 2 | **3** |
+| :defense: | 0 | 0 |
+| :health_points: | 5 | 5 |
+| :initiative: | 6 | 6 |
+| Cost | - | - |
+| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Water Magic :spellpower:](../spells/school_of_water_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Water Magic :spellpower:](../spells/school_of_water_magic.md). This unit deals elemental damage. |
 
 
 ## Notes

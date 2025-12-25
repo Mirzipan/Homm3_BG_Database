@@ -26,10 +26,10 @@
 | Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | 🚧 |
 | :attack: | 6 | **7** | 🚧 |
 | :defense: | 2 | 2 | 🚧 |
-| :health_points: | 7 | **9** | 🚧 |
+| :health_points: | 7 | **8** | 🚧 |
 | :initiative: | 12 | **18** | 🚧 |
-| Cost | 21 :gold:<br>1 :valuables: | 27 :gold:<br>2 :valuables: | 🚧 |
-| Abilities | :unit_passive: Once per Combat. When this unit's :health_points: drops to 0, set it to 1 instead. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. :unit_passive: Immune to [Fire Magic](../spells/school_of_fire_magic.md) :spell:. | 🚧 |
+| Cost | 21 :gold:<br>1 :valuables: | 29 :gold:<br>2 :valuables: | 🚧 |
+| Abilities | :unit_passive: Once per Combat. When this unit's HP drops to 0, set it to 1 instead. :unit_passive: Immune to [Fire Magic spells](../spells/school_of_fire_magic.md). | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:. :unit_passive: Immune to [Fire Magic :spellpower:](../spells/school_of_fire_magic.md). | 🚧 |
 
 
 ## Comes With

@@ -27,7 +27,7 @@
 | :attack: | 1 | **2** | 🚧 |
 | :defense: | 0 | 0 | 🚧 |
 | :health_points: | 4 | 4 | 🚧 |
-| :initiative: | 6 | **8** | 🚧 |
+| :initiative: | 6 | **7** | 🚧 |
 | Cost | 1 :gold: | 2 :gold: | 🚧 |
 | Abilities | - | - | 🚧 |
 

@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | 🚧 |
+| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | 🚧 |
 | :attack: | 3 | **4** | 🚧 |
 | :defense: | 1 | 1 | 🚧 |
-| :health_points: | 5 | **6** | 🚧 |
+| :health_points: | 5 | 5 | 🚧 |
 | :initiative: | 5 | **8** | 🚧 |
-| Cost | 5 :gold: | 8 :gold: | 🚧 |
-| Abilities | - | :activation: Add +1 :empower: to the first [Fire Magic](../spells/school_of_fire_magic.md) spell you cast during this Activation. | 🚧 |
+| Cost | 6 :gold: | 8 :gold: | 🚧 |
+| Abilities | - | :activation: Add +1 :empower: to the first [Fire Magic spell](../spells/school_of_fire_magic.md) you cast during this Activation. | 🚧 |
 
 
 ## Comes With
