@@ -484,5 +484,5 @@ msgstr "![Olvido](../assets/spells-forgetfulness.webp){ width=\"340\" align=righ
 #. type: Plain text
 #: docs/spells/forgetfulness.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: During its next activation, a \\* :unit_ranged: [unit](../units/index.md) if your choice cannot :attack:.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: During its next activation, a \\* :unit_ranged: [unit](../units/index.md) of your choice cannot :attack:.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Durante su próxima activación, una :unit_ranged: [unidad](../units/index.md) \\* a su elección no puede :attack:.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
