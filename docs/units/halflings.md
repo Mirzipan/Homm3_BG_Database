@@ -15,7 +15,7 @@
 | :health_points: | 3 |
 | :initiative: | 6 |
 | Cost | 5 :gold: |
-| Abilities | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher one. Ignore combat penalties. |
+| Abilities | :unit_attack: Roll 2 [Attack dice](../keywords/dice.md#attack-die) and resolve the higher one. Ignore combat penalties. |
 
 
 ## Comes With

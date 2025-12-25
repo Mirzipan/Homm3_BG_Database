@@ -29,13 +29,13 @@
 | :--- | :---: | :---: | :---: | :---: |
 | Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) | - |
 | Tier | :golden: | :golden: | :golden: | - |
-| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | 🚧 | [:unit_ranged:](../keywords/ranged_unit.md) |
-| :attack: | 5 | 5 | 🚧 | 5 |
-| :defense: | 0 | **1** | 🚧 | 1 |
-| :health_points: | 6 | **7** | 🚧 | 5 |
-| :initiative: | 6 | **8** | 🚧 | 8 |
-| Cost | 13 :gold: | 17 :gold:<br>1 :valuables: | 🚧 | - |
-| Abilities | :unit_other: This unit can destroy the Gate or a Wall. | :unit_other: This unit can destroy the Gate, a Wall, or the [Arrow Tower](arrow_tower.md). | 🚧 | - |
+| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |
+| :attack: | 5 | 5 | 5 | 5 |
+| :defense: | 0 | **1** | 1 | 1 |
+| :health_points: | 6 | **7** | 6 | 5 |
+| :initiative: | 6 | **8** | 8 | 8 |
+| Cost | 13 :gold: | 17 :gold:<br>1 :valuables: | 19 :gold: | - |
+| Abilities | :unit_other: This unit can destroy the Gate or a Wall. | :unit_other: This unit can destroy the Gate, a Wall, or the [Arrow Tower](arrow_tower.md). | :unit_other: This unit can destroy a Wall, the Gate, or the [Arrow Tower](arrow_tower.md). | - |
 
 
 ## Heroes With A Specialty

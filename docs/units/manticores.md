@@ -41,7 +41,7 @@
 | :health_points: | 6 | 6 | 7 |  7 | 7 |
 | :initiative: | 7 | **11** | 8 | **11** | 8 |
 | Cost | 10 :gold: | 18 :gold:<br>1 :valuables: | 12 :gold: | 18 :gold:<br>1 :valuables: | 18 :gold: |
-| Abilities | - | :unit_attack: For this attack, ignore the :defense: value from the target unit's card. | :unit_attack: Place 1 faction cube on the target. When it activates, remove the cube to inflict 1 :damage:. | :unit_passive: After each attack, place 1 faction cube on the target. When it activates, remove the cube to inflict 1 :damage:. | :unit_passive: On a "0" or a "+1" outcomes on the enemy's [Attack die](../dice.md#attack-die), gain +1 :defense:. |
+| Abilities | - | :unit_attack: For this attack, ignore the :defense: value from the target unit's card. | :unit_attack: Place 1 faction cube on the target. When it activates, remove the cube to inflict 1 :damage:. | :unit_passive: After each attack, place 1 faction cube on the target. When it activates, remove the cube to inflict 1 :damage:. | :unit_passive: On a "0" or a "+1" outcomes on the enemy's [Attack die](../keywords/dice.md#attack-die), gain +1 :defense:. |
 
 
 ## Notes

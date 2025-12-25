@@ -35,7 +35,7 @@
 | :health_points: | 3 | 3 | 4 | 2 |
 | :initiative: | 3 | **4** | 3 | 3 |
 | Cost | 3 :gold: | 4 :gold: | 5 :gold: | - |
-| Abilities | :unit_passive: If the attacker resolves a "+1" on [Attack die](../dice.md#attack-die), gain +1 :defense:. | :unit_passive: If the attacker resolves a "0" or a +1" on [Attack die](../dice.md#attack-die), gain +1 :defense:. | :unit_passive: If the attacker resolves a "0" or a "+1" on an [Attack die](../dice.md#attack-die), gain +1 :defense: | :unit_passive: If the attacker resolves a "+1" on [Attack die](../dice.md#attack-die) against this unit, gain +1 :defense:. |
+| Abilities | :unit_passive: If the attacker resolves a "+1" on [Attack die](../keywords/dice.md#attack-die), gain +1 :defense:. | :unit_passive: If the attacker resolves a "0" or a +1" on [Attack die](../keywords/dice.md#attack-die), gain +1 :defense:. | :unit_passive: If the attacker resolves a "0" or a "+1" on an [Attack die](../keywords/dice.md#attack-die), gain +1 :defense: | :unit_passive: If the attacker resolves a "+1" on [Attack die](../keywords/dice.md#attack-die) against this unit, gain +1 :defense:. |
 
 
 ## Heroes With A Specialty

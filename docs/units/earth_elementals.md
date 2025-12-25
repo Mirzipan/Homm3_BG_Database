@@ -12,18 +12,24 @@
         ![Pack of Earth Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
     </figure>
 
+=== "Neutral"
 
-| Statistics | Few | Pack |
-| :--- | :---: | :---: |
-| Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: |
-| Type | :unit_ground: | :unit_ground: |
-| :attack: | 2 | **3** |
-| :defense: | 2 | 2 |
-| :health_points: | 2 | 2 |
-| :initiative: | 5 | 5 |
-| Cost | - | - |
-| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/school_of_earth_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/school_of_earth_magic.md). This unit deals elemental damage. |
+    <figure markdown="span">
+        ![Neutral Earth Elementals](../assets/units-blank-golden.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral |
+| :--- | :---: | :---: | :---: |
+| Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze: | :bronze: | :golden: |
+| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| :attack: | 2 | **3** | 3 |
+| :defense: | 2 | 2 | 2 |
+| :health_points: | 2 | 2 | 5 |
+| :initiative: | 5 | 5 | 4 |
+| Cost | - | - | 16 :gold: |
+| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/school_of_earth_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/school_of_earth_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/school_of_earth_magic.md). This unit deals elemental damage. |
 
 
 ## Notes
@@ -34,6 +40,7 @@
 ## Comes With
 
 - [Conflux Expansion](../content/conflux_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) (Neutral)
 
 
 ## See Also

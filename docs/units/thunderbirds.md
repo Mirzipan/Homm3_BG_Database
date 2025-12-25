@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | 🚧 |
-| :attack: | 4 | 4 | 🚧 |
-| :defense: | 1 | 1 | 🚧 |
-| :health_points: | 5 | **6** | 🚧 |
-| :initiative: | 9 | **11** | 🚧 |
-| Cost | 8 :gold: | 14 :gold: | 🚧 |
-| Abilities | - | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](../dice.md#attack-die), on a "0" or "+1", deal 1 :damage: to the target. | 🚧 |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
+| :attack: | 4 | 4 | 3 |
+| :defense: | 1 | 1 | 0 |
+| :health_points: | 5 | **6** | 6 |
+| :initiative: | 9 | **11** | 9 |
+| Cost | 8 :gold: | 14 :gold: | 13 :gold: |
+| Abilities | - | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](../keywords/dice.md#attack-die), on a "0" or "+1", deal 1 :damage: to the target. | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](../keywords/dice.md#attack-die), on a "0" or "+1", deal 1 :damage: to the target. |
 
 
 ## Heroes With A Specialty

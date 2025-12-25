@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | 🚧 |
-| :attack: | 2 | 2 | 🚧 |
-| :defense: | 1 | 1 | 🚧 |
-| :health_points: | 3 | **5** | 🚧 |
-| :initiative: | 5 | **6** | 🚧 |
-| Cost | 3 :gold: | 5 :gold: | 🚧 |
-| Abilities | - | :unit_passive: Once per Combat, when this unit removes a unit from Combat, gain 2 :gold:. | 🚧 |
+| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| :attack: | 2 | 2 | 2 |
+| :defense: | 1 | 1 | 1 |
+| :health_points: | 3 | **5** | 3 |
+| :initiative: | 5 | **6** | 5 |
+| Cost | 3 :gold: | 5 :gold: | 5 :gold: |
+| Abilities | - | :unit_passive: Once per Combat, when this unit removes a unit from Combat, gain 2 :gold:. | - |
 
 
 ## Comes With

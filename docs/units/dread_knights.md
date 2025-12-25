@@ -29,7 +29,7 @@
 | :health_points: | 7 | 7 | 7 |
 | :initiative: | 7 | **9** | 7 |
 | Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |
-| Abilities | :unit_attack: When retaliating after this attack, the enemy rolls 2 [Attack dice](../dice.md#attack-die) and resolves the lower result. | :unit_attack: If you resolve a "0" or a "+1" on the [Attack die](../dice.md#attack-die), increase this unit's total attack value by another "+1". | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. |
+| Abilities | :unit_attack: When retaliating after this attack, the enemy rolls 2 [Attack dice](../keywords/dice.md#attack-die) and resolves the lower result. | :unit_attack: If you resolve a "0" or a "+1" on the [Attack die](../keywords/dice.md#attack-die), increase this unit's total attack value by another "+1". | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. |
 
 
 ## Heroes With A Specialty
@@ -40,7 +40,7 @@
 
 ## Notes
 
-- [^1] **Few** - Should the Dread Knights attack neutral [Crusaders](crusaders.md), when the [Crusaders](crusaders.md) retaliate against a few Dread Knights, they're abilities cancel out and a single [Attack die](../dice.md#attack-die) is rolled as if it was a regular attack.
+- [^1] **Few** - Should the Dread Knights attack neutral [Crusaders](crusaders.md), when the [Crusaders](crusaders.md) retaliate against a few Dread Knights, they're abilities cancel out and a single [Attack die](../keywords/dice.md#attack-die) is rolled as if it was a regular attack.
 
 
 ## Comes With

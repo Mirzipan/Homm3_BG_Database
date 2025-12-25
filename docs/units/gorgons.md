@@ -29,7 +29,7 @@
 | :health_points: | 5 | 5 | 4 |
 | :initiative: | 5 | **6** | 5 |
 | Cost | 9 :gold: | 14 :gold: | 13 :gold: |
-| Abilities | - | :unit_attack: After the attack, roll 2 [Attack dice](../dice.md#attack-die); on a double "0", decrease the target unit's :health_points: to 0. | :unit_attack: After the attack, roll 2 [Attack dice](../dice.md#attack-die). On two "-1" results, reduce the attacked unit's :health_points: to 0. |
+| Abilities | - | :unit_attack: After the attack, roll 2 [Attack dice](../keywords/dice.md#attack-die); on a double "0", decrease the target unit's :health_points: to 0. | :unit_attack: After the attack, roll 2 [Attack dice](../keywords/dice.md#attack-die). On two "-1" results, reduce the attacked unit's :health_points: to 0. |
 
 
 ## Comes With
