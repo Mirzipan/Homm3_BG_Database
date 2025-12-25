@@ -1,21 +1,29 @@
 # Faerie Dragons
 
-<figure markdown="span">
-    ![Neutral Faerie Dragons](../assets/units-neutral-azure-faerie_dragons.webp){ width="340" align=right }
-</figure>
+=== "Neutral"
+
+    <figure markdown="span">
+        ![Neutral Faerie Dragons](../assets/units-neutral-azure-faerie_dragons.webp){ width="340" align=right }
+    </figure>
+
+=== "Dragon Utopia"
+
+    <figure markdown="span">
+        ![Dragon Utopia Faerie Dragons](../assets/units-blank-azure.webp){ width="340" align=right }
+    </figure>
 
 
-| Statistics | Neutral |
-| :--- | :---: |
-| Town | [Neutral](../towns/neutral.md) |
-| Tier | :azure: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) |
-| :attack: | 5 |
-| :defense: | 2 |
-| :health_points: | 8 |
-| :initiative: | 15 |
-| Cost | 35 :gold:<br>2 :valuables: |
-| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. |
+| Statistics | Neutral | Dragon Utopia |
+| :--- | :---: | :---: |
+| Town | [Neutral](../towns/neutral.md) | - |
+| Tier | :azure: | - |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
+| :attack: | 5 | 4 |
+| :defense: | 2 | 2 |
+| :health_points: | 8 | 6 |
+| :initiative: | 15 | 15 |
+| Cost | 35 :gold:<br>2 :valuables: | - |
+| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. | :unit_passive: As long as this unit is Stacked, the enemy cannot cast [spells](../spells/index.md). |
 
 
 ## Heroes With A Specialty
@@ -32,6 +40,7 @@
 ## Comes With
 
 - [Rampart Expansion](../content/rampart_expansion.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Dragon Utopia)
 
 
 ## See Also

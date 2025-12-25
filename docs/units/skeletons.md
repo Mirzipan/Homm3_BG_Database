@@ -18,18 +18,24 @@
         ![Neutral Skeletons](../assets/units-neutral-bronze-skeletons.webp){ width="340" align=right }
     </figure>
 
+=== "Crypt"
 
-| Statistics | Few | Pack | Neutral |
-| :--- | :---: | :---: | :---: |
-| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
-| :attack: | 2 | **3** | 2 |
-| :defense: | 1 | 1 | 0 |
-| :health_points: | 2 | 2 | 3 |
-| :initiative: | 4 | **5** | 4 |
-| Cost | 2 :gold: | 3 :gold: | 3 :gold: |
-| Abilities | - | - | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](../towns/necropolis.md#heroes), immediately Reinforce 1 of your :bronze: units. |
+    <figure markdown="span">
+        ![Crypt Skeletons](../assets/units-blank-bronze.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral | Crypt |
+| :--- | :---: | :---: | :---: | :---: |
+| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | - |
+| Tier | :bronze: | :bronze: | :bronze: | - |
+| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| :attack: | 2 | **3** | 2 | 1 |
+| :defense: | 1 | 1 | 0 | 0 |
+| :health_points: | 2 | 2 | 3 | 2 |
+| :initiative: | 4 | **5** | 4 | 4 |
+| Cost | 2 :gold: | 3 :gold: | 3 :gold: | - |
+| Abilities | - | - | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](../towns/necropolis.md#heroes), immediately Reinforce 1 of your :bronze: units. | :unit_passive: Once per Combat. When this unit's :health: drops to 0, set it to 1 instead. |
 
 
 ## Heroes With A Specialty
@@ -47,6 +53,7 @@
 ## Comes With
 
 - [Core Game](../content/core_game.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Crypt)
 
 
 ## See Also

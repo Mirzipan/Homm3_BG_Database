@@ -18,18 +18,24 @@
         ![Neutral Gold Dragons](../assets/units-neutral-azure-gold_dragons.webp){ width="340" align=right }
     </figure>
 
+=== "Dragon Utopia"
 
-| Statistics | Few | Pack | Neutral |
-| :--- | :---: | :---: | :---: |
-| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |
-| Tier | :golden: | :golden: | :golden: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | :azure: |
-| :attack: | 5 | **6** | 6 |
-| :defense: | 3 | 3 | 3 |
-| :health_points: | 9 | **10** | 9 |
-| :initiative: | 10 | **16** | 10 |
-| Cost | 22 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 42 :gold: |
-| Abilities | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |
+    <figure markdown="span">
+        ![Dragon Utopia Black Dragons](../assets/units-blank-golden.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral | Dragon Utopia |
+| :--- | :---: | :---: | :---: | :---: |
+| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) | - |
+| Tier | :golden: | :golden: | :golden: | - |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | :azure: | [:unit_flying:](../keywords/flying_unit.md) |
+| :attack: | 5 | **6** | 6 | 5 |
+| :defense: | 3 | 3 | 3 | 2 |
+| :health_points: | 9 | **10** | 9 | 6 |
+| :initiative: | 10 | **16** | 10 | 10 |
+| Cost | 22 :gold:<br>1 :valuables: | 30 :gold:<br>2 :valuables: | 42 :gold: | - |
+| Abilities | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 2 :attack:, | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. | :unit_attack: Attack 2 spaces in a line. The first attack resolves normally, and the second has 3 :attack:. |
 
 
 ## Heroes With A Specialty
@@ -49,6 +55,7 @@
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Dragon Utopia)
 
 
 ## See Also
