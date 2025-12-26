@@ -13,8 +13,14 @@ ___
 ___
 
 
+## Notes
+
+- Only appears on [Sea tiles](../keywords/sea_tile.md).
+
+
 ## See Also
 
+- [Shipwreck (Creature Bank)](shipwreck_creature_bank.md)
 - [Buoy](buoy.md)
 - [Derelict Ship](derelict_ship.md)
 - [Flotsam](flotsam.md)

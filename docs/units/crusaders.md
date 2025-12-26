@@ -43,10 +43,6 @@
 - [^1] **Neutral** - Should the Crusaders retaliate against a few [Dread Knights](dread_knights.md), they're abilities cancel out and a single [Attack die](../keywords/dice.md#attack-die) is rolled as if it was a regular attack.
 
 
-## Notes
-
-
-
 ## Comes With
 
 - [Core Game](../content/core_game.md)
