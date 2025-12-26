@@ -51,5 +51,6 @@
 
 ## See Also
 
+- [Imp Cache (Creature Bank)](imp_cache_creature_bank.md)
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)

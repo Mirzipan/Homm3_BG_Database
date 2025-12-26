@@ -58,5 +58,7 @@
 
 ## See Also
 
+- [Crypt (Creature Bank)](../fields/crypt_creature_bank.md)
+- [Shipwreck (Creature Bank)](../fields/shipwreck_creature_bank.md)
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)

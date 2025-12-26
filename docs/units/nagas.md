@@ -46,5 +46,6 @@
 
 ## See Also
 
+- [Naga Bank (Creature Bank)](naga_bank_creature_bank.md)
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)

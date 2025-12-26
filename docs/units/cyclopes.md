@@ -51,5 +51,6 @@
 
 ## See Also
 
+- [Cyclops Stockpile (Creature Bank)](cyclops_stockpile_creature_bank.md)
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)
