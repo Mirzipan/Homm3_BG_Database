@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. type: Title ##
-#: docs/dice.md docs/legend.md
+#: docs/keywords/dice.md docs/legend.md
 #, no-wrap
 msgid "Dice"
 msgstr "Dados"
@@ -205,12 +205,17 @@ msgstr ""
 
 #. type: Plain text
 #: docs/legend.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "| Icon | Description |\n"
+#| "| :---: | :--- |\n"
+#| "| :treasure: | [Treasure die](dice.md#treasure-die) |\n"
+#| "| :resource_die: | [Resource die](dice.md#resource-die) |\n"
 msgid ""
 "| Icon | Description |\n"
 "| :---: | :--- |\n"
-"| :treasure: | [Treasure die](dice.md#treasure-die) |\n"
-"| :resource_die: | [Resource die](dice.md#resource-die) |\n"
+"| :treasure: | [Treasure die](keywords/dice.md#treasure-die) |\n"
+"| :resource_die: | [Resource die](keywords/dice.md#resource-die) |\n"
 msgstr ""
 "| Icono | Descripción |\n"
 "| :---: | :--- |\n"

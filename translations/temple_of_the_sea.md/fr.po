@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-25 19:17+0000\n"
+"POT-Creation-Date: 2025-12-26 23:14+0000\n"
 "PO-Revision-Date: 2025-12-21 16:59+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,6 +15,81 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Title ##
+#: docs/abilities/air_magic.md docs/abilities/archery.md
+#: docs/abilities/armorer.md docs/abilities/artillery.md
+#: docs/abilities/diplomacy.md docs/abilities/earth_magic.md
+#: docs/abilities/fire_magic.md docs/abilities/first_aid.md
+#: docs/abilities/intelligence.md docs/abilities/logistics.md
+#: docs/abilities/luck.md docs/abilities/necromancy.md
+#: docs/abilities/offense.md docs/abilities/pathfinding.md
+#: docs/abilities/resistance.md docs/abilities/sorcery.md
+#: docs/abilities/water_magic.md docs/artifacts/angel_wings.md
+#: docs/artifacts/arms_of_legion.md docs/artifacts/centaurs_axe.md
+#: docs/artifacts/head_of_legion.md docs/artifacts/index.md
+#: docs/artifacts/inexhaustible_cart_of_ore.md docs/artifacts/legs_of_legion.md
+#: docs/artifacts/loins_of_legion.md docs/artifacts/spellbinders_hat.md
+#: docs/artifacts/torso_of_legion.md docs/astrologers_proclaim/ammo_cart.md
+#: docs/astrologers_proclaim/charlie_and_his_circus.md
+#: docs/astrologers_proclaim/elementals.md
+#: docs/astrologers_proclaim/explorers.md
+#: docs/astrologers_proclaim/forty_thieves.md
+#: docs/astrologers_proclaim/friendly_beaver.md
+#: docs/astrologers_proclaim/mcgiver.md
+#: docs/astrologers_proclaim/unexpected_reinforcements.md
+#: docs/fields/blocked_field.md docs/fields/buoy.md
+#: docs/fields/creature_bank.md docs/fields/derelict_ship.md
+#: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
+#: docs/fields/empty_field.md docs/fields/flotsam.md docs/fields/jetsam.md
+#: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
+#: docs/fields/sea_chest.md docs/fields/shipwreck.md
+#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
+#: docs/fields/temple_of_the_sea.md docs/fields/town.md docs/fields/windmill.md
+#: docs/heroes/adelaide.md docs/heroes/alamar.md docs/heroes/deemer.md
+#: docs/heroes/jeddite.md docs/heroes/pasis.md docs/heroes/sandro.md
+#: docs/heroes/sephinroth.md docs/heroes/solmyr.md docs/heroes/tazar.md
+#: docs/heroes/xyron.md docs/keywords/alternative_action.md
+#: docs/keywords/attack_value.md docs/keywords/damage.md
+#: docs/keywords/defense_value.md docs/keywords/dice.md
+#: docs/keywords/dwelling.md docs/keywords/flying_unit.md
+#: docs/keywords/ground_unit.md docs/keywords/health_points.md
+#: docs/keywords/initiative_value.md docs/keywords/negative_morale.md
+#: docs/keywords/obstacle.md docs/keywords/paralysis.md
+#: docs/keywords/permanent_effect.md docs/keywords/positive_morale.md
+#: docs/keywords/ranged_unit.md docs/keywords/recruit.md
+#: docs/keywords/reinforce.md docs/keywords/remove.md docs/keywords/search.md
+#: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
+#: docs/spells/blind.md docs/spells/chain_lightning.md docs/spells/cure.md
+#: docs/spells/dimension_door.md docs/spells/dispel.md
+#: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
+#: docs/spells/fortune.md docs/spells/frost_ring.md docs/spells/haste.md
+#: docs/spells/implosion.md docs/spells/inferno.md docs/spells/magic_arrow.md
+#: docs/spells/misfortune.md docs/spells/prayer.md
+#: docs/spells/remove_obstacle.md docs/spells/resurrection.md
+#: docs/spells/slow.md docs/spells/town_portal.md docs/statistics/knowledge.md
+#: docs/tiles/nx3.md docs/tiles/u7.md docs/units/air_elementals.md
+#: docs/units/archangels.md docs/units/azure_dragons.md docs/units/basilisks.md
+#: docs/units/black_dragons.md docs/units/cerberi.md docs/units/champions.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md
+#: docs/units/dread_knights.md docs/units/dwarves.md
+#: docs/units/earth_elementals.md docs/units/elves.md docs/units/enchanters.md
+#: docs/units/faerie_dragons.md docs/units/familiars.md
+#: docs/units/fire_elementals.md docs/units/gargoyles.md docs/units/genies.md
+#: docs/units/ghost_dragons.md docs/units/gold_dragons.md
+#: docs/units/gremlins.md docs/units/harpies.md docs/units/hydras.md
+#: docs/units/liches.md docs/units/magi.md docs/units/magogs.md
+#: docs/units/manticores.md docs/units/marksmen.md docs/units/medusas.md
+#: docs/units/mummies.md docs/units/nomads.md docs/units/peasants.md
+#: docs/units/pegasi.md docs/units/pit_lords.md docs/units/rogues.md
+#: docs/units/skeletons.md docs/units/titans.md docs/units/trolls.md
+#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
+#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zombies.md
+#: docs/war_machines/first_aid_tent.md
+#, no-wrap
+msgid "Notes"
+msgstr "Notes"
 
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
@@ -139,37 +214,47 @@ msgstr ""
 #: docs/content/battlefield_expansion.md docs/content/conflux_expansion.md
 #: docs/content/core_game.md docs/content/cove_expansion.md
 #: docs/content/crystal_stretch_goals.md docs/content/fortress_expansion.md
-#: docs/content/inferno_expansion.md docs/content/rampart_expansion.md
-#: docs/content/regular_stretch_goals.md docs/content/stronghold_expansion.md
-#: docs/content/tower_expansion.md docs/difficulties.md
-#: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
-#: docs/events/crypt.md docs/events/cursed_swamp.md
-#: docs/events/den_of_thieves.md docs/events/garden_of_revelation.md
-#: docs/events/index.md docs/events/library_of_enlightenment.md
-#: docs/events/mage_laboratory.md docs/events/magical_forest.md
-#: docs/events/market_of_time.md docs/events/marketplace.md
-#: docs/events/mercenary_camp.md docs/events/messenger_with_supplies.md
-#: docs/events/mischievous_leprechaun.md docs/events/prison.md
-#: docs/events/school_of_magic_and_school_of_war.md
+#: docs/content/inferno_expansion.md docs/content/naval_battles_expansion.md
+#: docs/content/rampart_expansion.md docs/content/regular_stretch_goals.md
+#: docs/content/stronghold_expansion.md docs/content/tower_expansion.md
+#: docs/difficulties.md docs/events/a_shady_auction.md
+#: docs/events/artifact_merchant.md docs/events/crypt.md
+#: docs/events/cursed_swamp.md docs/events/den_of_thieves.md
+#: docs/events/garden_of_revelation.md docs/events/index.md
+#: docs/events/library_of_enlightenment.md docs/events/mage_laboratory.md
+#: docs/events/magical_forest.md docs/events/market_of_time.md
+#: docs/events/marketplace.md docs/events/mercenary_camp.md
+#: docs/events/messenger_with_supplies.md docs/events/mischievous_leprechaun.md
+#: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/fields/artifact_symbol.md docs/fields/black_market.md
 #: docs/fields/blocked_field.md docs/fields/buoy.md
-#: docs/fields/cyclops_stockpile.md docs/fields/derelict_ship.md
-#: docs/fields/dragon_utopia.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/faerie_ring.md docs/fields/flotsam.md
+#: docs/fields/creature_bank.md docs/fields/crypt_creature_bank.md
+#: docs/fields/cyclops_stockpile.md
+#: docs/fields/cyclops_stockpile_creature_bank.md docs/fields/derelict_ship.md
+#: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md docs/fields/dragon_utopia.md
+#: docs/fields/dragon_utopia_creature_bank.md
+#: docs/fields/dwarven_treasury_creature_bank.md
+#: docs/fields/elemental_conflux.md docs/fields/empty_field.md
+#: docs/fields/faerie_ring.md docs/fields/flotsam.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
-#: docs/fields/hill_fort.md docs/fields/index.md docs/fields/jetsam.md
-#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
-#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/hill_fort.md
+#: docs/fields/imp_cache_creature_bank.md docs/fields/index.md
+#: docs/fields/jetsam.md docs/fields/learning_stone.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/medusa_stores_creature_bank.md
 #: docs/fields/mermaid.md docs/fields/mine.md docs/fields/monolith_one_way.md
 #: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
-#: docs/fields/obelisk.md docs/fields/pandoras_box.md docs/fields/prison.md
-#: docs/fields/random_town.md docs/fields/redwood_observatory.md
-#: docs/fields/resource_symbol.md docs/fields/sanctuary.md
-#: docs/fields/scholar.md docs/fields/sea_barrel.md docs/fields/sea_chest.md
-#: docs/fields/settlement.md docs/fields/shipwreck.md
-#: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/naga_bank_creature_bank.md docs/fields/obelisk.md
+#: docs/fields/pandoras_box.md docs/fields/prison.md
+#: docs/fields/pyramid_creature_bank.md docs/fields/random_town.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
+#: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
+#: docs/fields/sea_chest.md docs/fields/settlement.md docs/fields/shipwreck.md
+#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
+#: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
 #: docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
@@ -352,21 +437,31 @@ msgstr "Voir aussi"
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/fields/artifact_symbol.md docs/fields/black_market.md
 #: docs/fields/blocked_field.md docs/fields/buoy.md
-#: docs/fields/cyclops_stockpile.md docs/fields/derelict_ship.md
-#: docs/fields/dragon_utopia.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/faerie_ring.md docs/fields/flotsam.md
+#: docs/fields/creature_bank.md docs/fields/crypt_creature_bank.md
+#: docs/fields/cyclops_stockpile.md
+#: docs/fields/cyclops_stockpile_creature_bank.md docs/fields/derelict_ship.md
+#: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md docs/fields/dragon_utopia.md
+#: docs/fields/dragon_utopia_creature_bank.md
+#: docs/fields/dwarven_treasury_creature_bank.md
+#: docs/fields/elemental_conflux.md docs/fields/empty_field.md
+#: docs/fields/faerie_ring.md docs/fields/flotsam.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
-#: docs/fields/hill_fort.md docs/fields/jetsam.md docs/fields/learning_stone.md
-#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
-#: docs/fields/market_of_time.md docs/fields/mermaid.md docs/fields/mine.md
-#: docs/fields/monolith_one_way.md docs/fields/monolith_two_way.md
-#: docs/fields/mystical_garden.md docs/fields/obelisk.md
-#: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/hill_fort.md
+#: docs/fields/imp_cache_creature_bank.md docs/fields/jetsam.md
+#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
+#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/medusa_stores_creature_bank.md docs/fields/mermaid.md
+#: docs/fields/mine.md docs/fields/monolith_one_way.md
+#: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
+#: docs/fields/naga_bank_creature_bank.md docs/fields/obelisk.md
+#: docs/fields/pandoras_box.md docs/fields/prison.md
+#: docs/fields/pyramid_creature_bank.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md docs/fields/shipwreck.md
-#: docs/fields/shipwreck_survivor.md docs/fields/spell_scroll.md
-#: docs/fields/stables.md docs/fields/star_axis.md
+#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
+#: docs/fields/spell_scroll.md docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
 #: docs/fields/temple_of_the_sea.md docs/fields/town.md
 #: docs/fields/trading_post.md docs/fields/treasure_symbol.md
@@ -434,21 +529,31 @@ msgstr "<figure markdown=\"span\">\n"
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/fields/artifact_symbol.md docs/fields/black_market.md
 #: docs/fields/blocked_field.md docs/fields/buoy.md
-#: docs/fields/cyclops_stockpile.md docs/fields/derelict_ship.md
-#: docs/fields/dragon_utopia.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/faerie_ring.md docs/fields/flotsam.md
+#: docs/fields/creature_bank.md docs/fields/crypt_creature_bank.md
+#: docs/fields/cyclops_stockpile.md
+#: docs/fields/cyclops_stockpile_creature_bank.md docs/fields/derelict_ship.md
+#: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md docs/fields/dragon_utopia.md
+#: docs/fields/dragon_utopia_creature_bank.md
+#: docs/fields/dwarven_treasury_creature_bank.md
+#: docs/fields/elemental_conflux.md docs/fields/empty_field.md
+#: docs/fields/faerie_ring.md docs/fields/flotsam.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
-#: docs/fields/hill_fort.md docs/fields/jetsam.md docs/fields/learning_stone.md
-#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
-#: docs/fields/market_of_time.md docs/fields/mermaid.md docs/fields/mine.md
-#: docs/fields/monolith_one_way.md docs/fields/monolith_two_way.md
-#: docs/fields/mystical_garden.md docs/fields/obelisk.md
-#: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/hill_fort.md
+#: docs/fields/imp_cache_creature_bank.md docs/fields/jetsam.md
+#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
+#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/medusa_stores_creature_bank.md docs/fields/mermaid.md
+#: docs/fields/mine.md docs/fields/monolith_one_way.md
+#: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
+#: docs/fields/naga_bank_creature_bank.md docs/fields/obelisk.md
+#: docs/fields/pandoras_box.md docs/fields/prison.md
+#: docs/fields/pyramid_creature_bank.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md docs/fields/shipwreck.md
-#: docs/fields/shipwreck_survivor.md docs/fields/spell_scroll.md
-#: docs/fields/stables.md docs/fields/star_axis.md
+#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
+#: docs/fields/spell_scroll.md docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
 #: docs/fields/temple_of_the_sea.md docs/fields/town.md
 #: docs/fields/trading_post.md docs/fields/treasure_symbol.md
@@ -459,20 +564,26 @@ msgstr "<figure markdown=\"span\">\n"
 msgid "</figure>\n"
 msgstr "</figure>\n"
 
+#. type: Title #
+#: docs/content/crystal_stretch_goals.md docs/fields/temple_of_the_sea.md
+#, no-wrap
+msgid "Temple of the Sea"
+msgstr ""
+
 #. type: Plain text
 #: docs/fields/artifact_symbol.md docs/fields/buoy.md
-#: docs/fields/cyclops_stockpile.md docs/fields/derelict_ship.md
-#: docs/fields/elemental_conflux.md docs/fields/faerie_ring.md
-#: docs/fields/flotsam.md docs/fields/fountain_of_youth.md docs/fields/grail.md
-#: docs/fields/grave.md docs/fields/hill_fort.md docs/fields/jetsam.md
-#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
-#: docs/fields/magic_spring.md docs/fields/market_of_time.md
-#: docs/fields/mermaid.md docs/fields/mystical_garden.md
-#: docs/fields/pandoras_box.md docs/fields/prison.md
-#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
-#: docs/fields/scholar.md docs/fields/sea_barrel.md docs/fields/sea_chest.md
-#: docs/fields/shipwreck.md docs/fields/shipwreck_survivor.md
-#: docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/creature_bank.md docs/fields/cyclops_stockpile.md
+#: docs/fields/derelict_ship.md docs/fields/elemental_conflux.md
+#: docs/fields/faerie_ring.md docs/fields/flotsam.md
+#: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
+#: docs/fields/hill_fort.md docs/fields/jetsam.md docs/fields/learning_stone.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/mermaid.md
+#: docs/fields/mystical_garden.md docs/fields/pandoras_box.md
+#: docs/fields/prison.md docs/fields/redwood_observatory.md
+#: docs/fields/resource_symbol.md docs/fields/scholar.md
+#: docs/fields/sea_barrel.md docs/fields/sea_chest.md docs/fields/shipwreck.md
+#: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
 #: docs/fields/temple.md docs/fields/temple_of_the_sea.md
 #: docs/fields/treasure_symbol.md docs/fields/tree_of_knowledge.md
@@ -485,20 +596,31 @@ msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keyword
 #. type: Bullet: '- '
 #: docs/fields/artifact_symbol.md docs/fields/black_market.md
 #: docs/fields/blocked_field.md docs/fields/buoy.md
-#: docs/fields/cyclops_stockpile.md docs/fields/derelict_ship.md
-#: docs/fields/dragon_utopia.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/faerie_ring.md docs/fields/flotsam.md
+#: docs/fields/creature_bank.md docs/fields/crypt_creature_bank.md
+#: docs/fields/cyclops_stockpile.md
+#: docs/fields/cyclops_stockpile_creature_bank.md docs/fields/derelict_ship.md
+#: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md docs/fields/dragon_utopia.md
+#: docs/fields/dragon_utopia_creature_bank.md
+#: docs/fields/dwarven_treasury_creature_bank.md
+#: docs/fields/elemental_conflux.md docs/fields/empty_field.md
+#: docs/fields/faerie_ring.md docs/fields/flotsam.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
-#: docs/fields/hill_fort.md docs/fields/jetsam.md docs/fields/learning_stone.md
-#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
-#: docs/fields/market_of_time.md docs/fields/mermaid.md docs/fields/mine.md
-#: docs/fields/monolith_one_way.md docs/fields/monolith_two_way.md
-#: docs/fields/mystical_garden.md docs/fields/obelisk.md
-#: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/hill_fort.md
+#: docs/fields/imp_cache_creature_bank.md docs/fields/jetsam.md
+#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
+#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/medusa_stores_creature_bank.md docs/fields/mermaid.md
+#: docs/fields/mine.md docs/fields/monolith_one_way.md
+#: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
+#: docs/fields/naga_bank_creature_bank.md docs/fields/obelisk.md
+#: docs/fields/pandoras_box.md docs/fields/prison.md
+#: docs/fields/pyramid_creature_bank.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md docs/fields/settlement.md docs/fields/shipwreck.md
-#: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
+#: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
 #: docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
@@ -513,21 +635,31 @@ msgstr "[Liste des sites](index.md)"
 #. type: Bullet: '- '
 #: docs/fields/artifact_symbol.md docs/fields/black_market.md
 #: docs/fields/blocked_field.md docs/fields/buoy.md
-#: docs/fields/cyclops_stockpile.md docs/fields/derelict_ship.md
-#: docs/fields/dragon_utopia.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/faerie_ring.md docs/fields/flotsam.md
+#: docs/fields/creature_bank.md docs/fields/crypt_creature_bank.md
+#: docs/fields/cyclops_stockpile.md
+#: docs/fields/cyclops_stockpile_creature_bank.md docs/fields/derelict_ship.md
+#: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md docs/fields/dragon_utopia.md
+#: docs/fields/dragon_utopia_creature_bank.md
+#: docs/fields/dwarven_treasury_creature_bank.md
+#: docs/fields/elemental_conflux.md docs/fields/empty_field.md
+#: docs/fields/faerie_ring.md docs/fields/flotsam.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
-#: docs/fields/hill_fort.md docs/fields/index.md docs/fields/jetsam.md
-#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
-#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/hill_fort.md
+#: docs/fields/imp_cache_creature_bank.md docs/fields/index.md
+#: docs/fields/jetsam.md docs/fields/learning_stone.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/medusa_stores_creature_bank.md
 #: docs/fields/mermaid.md docs/fields/mine.md docs/fields/monolith_one_way.md
 #: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
-#: docs/fields/obelisk.md docs/fields/pandoras_box.md docs/fields/prison.md
-#: docs/fields/random_town.md docs/fields/redwood_observatory.md
-#: docs/fields/resource_symbol.md docs/fields/sanctuary.md
-#: docs/fields/scholar.md docs/fields/sea_barrel.md docs/fields/sea_chest.md
-#: docs/fields/settlement.md docs/fields/shipwreck.md
-#: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/naga_bank_creature_bank.md docs/fields/obelisk.md
+#: docs/fields/pandoras_box.md docs/fields/prison.md
+#: docs/fields/pyramid_creature_bank.md docs/fields/random_town.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
+#: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
+#: docs/fields/sea_chest.md docs/fields/settlement.md docs/fields/shipwreck.md
+#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
+#: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
 #: docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
@@ -540,10 +672,18 @@ msgid "[List of Tiles](../tiles/index.md)"
 msgstr "[Liste des tuiles](../tiles/index.md)"
 
 #. type: Bullet: '- '
-#: docs/fields/buoy.md docs/fields/flotsam.md docs/fields/jetsam.md
-#: docs/fields/mermaid.md docs/fields/sea_barrel.md docs/fields/sea_chest.md
-#: docs/fields/shipwreck.md docs/fields/shipwreck_survivor.md
-#: docs/fields/temple_of_the_sea.md
+#: docs/fields/buoy.md docs/fields/derelict_ship.md docs/fields/flotsam.md
+#: docs/fields/jetsam.md docs/fields/mermaid.md docs/fields/sea_barrel.md
+#: docs/fields/sea_chest.md docs/fields/shipwreck.md
+#: docs/fields/shipwreck_survivor.md docs/fields/temple_of_the_sea.md
+msgid "Only appears on [Sea tiles](../tiles/index.md#sea-tiles)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/fields/buoy.md docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/flotsam.md docs/fields/jetsam.md docs/fields/mermaid.md
+#: docs/fields/sea_barrel.md docs/fields/sea_chest.md docs/fields/shipwreck.md
+#: docs/fields/shipwreck_survivor.md docs/fields/temple_of_the_sea.md
 msgid "[Derelict Ship](derelict_ship.md)"
 msgstr ""
 
@@ -591,8 +731,8 @@ msgstr "[Tuile proche](near_tile.md)"
 #. type: Bullet: '- '
 #: docs/fields/buoy.md docs/fields/derelict_ship.md docs/fields/flotsam.md
 #: docs/fields/jetsam.md docs/fields/mermaid.md docs/fields/sea_barrel.md
-#: docs/fields/sea_chest.md docs/fields/shipwreck_survivor.md
-#: docs/fields/temple_of_the_sea.md
+#: docs/fields/sea_chest.md docs/fields/shipwreck_creature_bank.md
+#: docs/fields/shipwreck_survivor.md docs/fields/temple_of_the_sea.md
 msgid "[Shipwreck](shipwreck.md)"
 msgstr ""
 
@@ -610,12 +750,6 @@ msgstr ""
 #: docs/fields/shipwreck.md docs/fields/shipwreck_survivor.md
 #: docs/fields/temple_of_the_sea.md
 msgid "[Buoy](buoy.md)"
-msgstr ""
-
-#. type: Title #
-#: docs/fields/temple_of_the_sea.md
-#, no-wrap
-msgid "Temple of the Sea"
 msgstr ""
 
 #. type: Plain text
