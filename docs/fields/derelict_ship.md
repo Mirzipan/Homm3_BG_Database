@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
 ___
 <p style="text-align: center;" markdown>You may [**Search(2)**](../keywords/search.md) the [Artifact](../artifacts/index.md) deck. If you do so, you also gain 2 :gold:.</p>
 ___
@@ -15,7 +15,7 @@ ___
 
 ## Notes
 
-- Only appears on [Sea tiles](../keywords/sea_tile.md).
+- Only appears on [Sea tiles](../tiles/index.md#sea-tiles).
 
 
 ## See Also

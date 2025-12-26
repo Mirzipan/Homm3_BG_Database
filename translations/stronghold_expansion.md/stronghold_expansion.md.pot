@@ -335,5 +335,5 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/content/stronghold_expansion.md
-msgid "[Subterranean Tiles](../keywords/subterranean_tile.md)"
+msgid "[Subterranean Tiles](../tiles/index.md#subterranean-tiles)"
 msgstr ""

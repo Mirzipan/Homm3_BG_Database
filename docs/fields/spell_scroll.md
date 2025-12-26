@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
 ___
 <p style="text-align: center;" markdown>When you enter this location, take 1 Spell Scroll card, place it near your [Hero](../heroes/index.md) card, and follow the instructions on the card.</p>
 ___

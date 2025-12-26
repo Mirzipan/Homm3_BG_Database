@@ -337,5 +337,5 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/content/stronghold_expansion.md
 #, fuzzy
-msgid "[Subterranean Tiles](../keywords/subterranean_tile.md)"
+msgid "[Subterranean Tiles](../tiles/index.md#subterranean-tiles)"
 msgstr "[Lista Jednostek](units/index.md)"

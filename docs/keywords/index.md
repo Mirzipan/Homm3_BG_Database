@@ -1,13 +1,6 @@
 # List of Keywords
 
 
-## Cards
-
-- [Minor Artifact](minor_artifact.md)
-- [Major Artifact](major_artifact.md)
-- [Relic Artifact](relic_artifact.md)
-
-
 ## Effects
 
 - [:permanent: Permanent Effect](permanent_effect.md)
@@ -36,25 +29,3 @@
 - [:paralysis: Paralysis](paralysis.md)
 - [:unit_other: Alternative Action](alternative_action.md)
 - [Obstacle](obstacle.md)
-
-
-## Map
-
-### Tiles
-
-- [Starting Tile](starting_tile.md)
-- [Far Tile](far_tile.md)
-- [Near Tile](near_tile.md)
-- [Center Tile](center_tile.md)
-- [Subterranean Tile](subterranean_tile.md)
-- [Sea Tile](sea_tile.md)
-
-
-### Fields
-
-- [Blocked Field](blocked_field.md)
-- [Empty Field](empty_field.md)
-- [Visitable Field](visitable_field.md)
-- [Revisitable Field](revisitable_field.md)
-- [Flaggable Field](flaggable_field.md)
-

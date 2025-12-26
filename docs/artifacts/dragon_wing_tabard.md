@@ -2,7 +2,7 @@
 
 ![Dragon Wing Tabard](../assets/artifacts_minor-dragon_wing_tabard.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Discard 1 random card from the enemy's hand.<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___

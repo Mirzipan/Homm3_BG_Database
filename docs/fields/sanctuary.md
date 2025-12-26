@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Revisitable Field](../keywords/revisitable_field.md)</p>
+<p style="text-align: center;" markdown>[Revisitable Field](index.md#revisitable-field)</p>
 ___
 <p style="text-align: center;" markdown>Heroes on this Field cannot be attacked by other [Heroes](../heroes/index.md). Friendly Heroes can move through enemy [Heroes](../heroes/index.md) on this Field but cannot stop here.</p>
 ___

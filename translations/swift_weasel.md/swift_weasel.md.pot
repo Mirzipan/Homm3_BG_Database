@@ -650,7 +650,7 @@ msgstr ""
 #. type: Plain text
 #: docs/astrologers_proclaim/swift_weasel.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologer's round:<br><br>Once per turn, each player can reroll a [Treasure die](../dice.md#treasure-die) or a [Resource die](../dice.md#resource-die).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologer's round:<br><br>Once per turn, each player can reroll a [Treasure die](../keywords/dice.md#treasure-die) or a [Resource die](../keywords/dice.md#resource-die).</p>\n"
 msgstr ""
 
 #. type: Plain text

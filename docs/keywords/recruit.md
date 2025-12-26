@@ -1,3 +1,3 @@
-# Recruit
+# :recruit: Recruit
 
 ## Notes

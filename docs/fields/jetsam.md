@@ -7,15 +7,15 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
 ___
-<p style="text-align: center;" markdown>Roll 1 [Attack Die](../keywords/attack_die.md). Depending on the result, do the following:<br><br>**+1** - Roll and resolve 2 [:resource_die:](../keywords/resource_die.md).<br><br>**0** - Roll and resolve 1 [:resource_die:](../keywords/resource_die.md).<br><br>**-1** - Gain nothing.</p>
+<p style="text-align: center;" markdown>Roll 1 [Attack Die](../keywords/dice.md#attack-die). Depending on the result, do the following:<br><br>**+1** - Roll and resolve 2 [:resource_die:](../keywords/dice.md#resource-die).<br><br>**0** - Roll and resolve 1 [:resource_die:](../keywords/dice.md#resource-die).<br><br>**-1** - Gain nothing.</p>
 ___
 
 
 ## Notes
 
-- Only appears on [Sea tiles](../keywords/sea_tile.md).
+- Only appears on [Sea tiles](../tiles/index.md#sea-tiles).
 
 
 ## See Also

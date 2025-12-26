@@ -579,7 +579,7 @@ msgstr ""
 #. type: Plain text
 #: docs/events/artifact_merchant.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Draw 5 [artifacts](../artifacts/index.md). You can buy either any number of them or the face-up card from the [Artifact](../artifacts/index.md) discard pile. After finishing, give the rest of the cards to the player on the left. The exchange goes on until the last card is bought or the cards return to the one who drew them. [Minor Artifacts](../keywords/minor_artifact.md) cards cost 3 :gold:, [Major](../keywords/major_artifact.md) 5 :gold:, [Relic](../keywords/relic_artifact.md) 7 :gold:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Draw 5 [artifacts](../artifacts/index.md). You can buy either any number of them or the face-up card from the [Artifact](../artifacts/index.md) discard pile. After finishing, give the rest of the cards to the player on the left. The exchange goes on until the last card is bought or the cards return to the one who drew them. [Minor Artifacts](../artifacts/index.md#minor-artifacts) cards cost 3 :gold:, [Major](../artifacts/index.md#major-artifacts) 5 :gold:, [Relic](../artifacts/index.md#relic-artifacts) 7 :gold:.</p>\n"
 msgstr ""
 
 #. type: Plain text

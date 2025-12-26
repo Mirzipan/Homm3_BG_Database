@@ -648,7 +648,7 @@ msgstr ""
 #. type: Plain text
 #: docs/astrologers_proclaim/white_raven.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Each player immediately rolls 1 [Resource die](../dice.md#resource-die) and gains the rolled resources.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Each player immediately rolls 1 [Resource die](../keywords/dice.md#resource-die) and gains the rolled resources.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>Każdy gracz natychmiast rzuca 1 kością Zasobów i rozpatruje jej wynik.</p>\n"
 
 #. type: Plain text

@@ -11,8 +11,8 @@
 ## Inside The Box
 
 - [Conflux Faction](../towns/conflux.md)
-- [One-Way Monoliths](../fields/one_way_monolith.md)
-- [Two-Way Monoliths](../fields/two_way_monolith.md)
+- [One-Way Monoliths](../fields/monolith_one_way.md)
+- [Two-Way Monoliths](../fields/monolith_two_way.md)
 
 
 ## See Also

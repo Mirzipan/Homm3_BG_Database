@@ -1,7 +1,7 @@
 # #N3
 
 ___
-[Near Tile](../keywords/near_tile.md)
+[Near Tile](../tiles/index.md#near-tiles)
 ___
 Grass
 ___
@@ -11,7 +11,7 @@ ___
 
 - [Ⅴ](../difficulties.md) [:gold: Mine](../fields/mine.md)
 - [Trading Post](../fields/trading_post.md)
-- [Blocked Field](../keywords/blocked_field.md)
+- [Blocked Field](../fields/blocked_field.md)
 - [+1 :valuables: Windmill](../fields/windmill.md)
 - [Fountain of Youth](../fields/fountain_of_youth.md)
 - [Sanctuary](../fields/sanctuary.md)

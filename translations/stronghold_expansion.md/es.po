@@ -368,5 +368,5 @@ msgstr "[Facción Bastión](../towns/stronghold.md)"
 #: docs/content/stronghold_expansion.md
 #, fuzzy
 #| msgid "[Water Tile](water_tile.md)"
-msgid "[Subterranean Tiles](../keywords/subterranean_tile.md)"
+msgid "[Subterranean Tiles](../tiles/index.md#subterranean-tiles)"
 msgstr "[Loseta de Agua](water_tile.md)"

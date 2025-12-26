@@ -2,7 +2,7 @@
 
 ![Arms of Legion](../assets/artifacts_major-arms_of_legion.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Reduce the Recruitment or Reinforcement cost of a [unit](../units/index.md) by 5 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :building_materials:.</p>
 ___

@@ -1001,7 +1001,7 @@ msgstr ""
 "| :health_points: | 8 | **9** | 6 |\n"
 "| :initiative: | 9 | **14** | 9 |\n"
 "| Coste | 19 :gold:<br>1 :valuables: | 32 :gold:<br>2 :valuables: | 28 :gold: |\n"
-"| Habilidades | :activation: Descarta la ficha :morale_positive: del enemigo. | :activation: Descarta la ficha :morale_positive: del enemigo.<br>:unit_attack: Suma +1 al resultado de tu [dado de Ataque](../dice.md#attack_die). | :unit_attack: Después del ataque, tira 1 [dado de Ataque](../dice.md#attack_die); si el resultado es \"0\", el objetivo debe alejarse inmediatamente 1 casilla. |\n"
+"| Habilidades | :activation: Descarta la ficha :morale_positive: del enemigo. | :activation: Descarta la ficha :morale_positive: del enemigo.<br>:unit_attack: Suma +1 al resultado de tu [dado de Ataque](../keywords/dice.md#attack_die). | :unit_attack: Después del ataque, tira 1 [dado de Ataque](../keywords/dice.md#attack_die); si el resultado es \"0\", el objetivo debe alejarse inmediatamente 1 casilla. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/ghost_dragons.md

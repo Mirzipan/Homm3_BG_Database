@@ -336,11 +336,11 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/content/conflux_expansion.md
-msgid "[One-Way Monoliths](../fields/one_way_monolith.md)"
+msgid "[One-Way Monoliths](../fields/monolith_one_way.md)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/content/conflux_expansion.md
 #, fuzzy
-msgid "[Two-Way Monoliths](../fields/two_way_monolith.md)"
+msgid "[Two-Way Monoliths](../fields/monolith_two_way.md)"
 msgstr "[Lista Jednostek](units/index.md)"

@@ -1027,7 +1027,7 @@ msgstr ""
 "| :health_points: | 7 | 7 | 7 |\n"
 "| :initiative: | 7 | **9** | 7 |\n"
 "| Coste | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
-"| Habilidades | :unit_attack: Al contraatacar después de este ataque, el enemigo tira 2 [dados de Ataque](../dice.md#attack-die) y resuelve el resultado más bajo. | :unit_attack: Si obtienes un «0» o un «+1» en el [dado de Ataque](../dice.md#attack-die), aumenta el valor de ataque total de esta unidad en otro \"+1\". | :unit_passive: Cuando esta unidad sea objetivo de un Contraataque, gana +1 :defense:. |\n"
+"| Habilidades | :unit_attack: Al contraatacar después de este ataque, el enemigo tira 2 [dados de Ataque](../keywords/dice.md#attack-die) y resuelve el resultado más bajo. | :unit_attack: Si obtienes un «0» o un «+1» en el [dado de Ataque](../keywords/dice.md#attack-die), aumenta el valor de ataque total de esta unidad en otro \"+1\". | :unit_passive: Cuando esta unidad sea objetivo de un Contraataque, gana +1 :defense:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/dread_knights.md

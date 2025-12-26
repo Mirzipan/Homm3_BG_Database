@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Flaggable Field](../keywords/flaggable_field.md)</p>
+<p style="text-align: center;" markdown>[Flaggable Field](index.md#flaggable-field)</p>
 ___
 <p style="text-align: center;" markdown>Effects depend on the Scenario.</p>
 ___

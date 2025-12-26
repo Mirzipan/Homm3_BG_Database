@@ -2,7 +2,7 @@
 
 ![Crest of Valor](../assets/artifacts_minor-crest_of_valor.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Gain a :morale_positive: token.<br><br>— OR —<br><br>:effect_map: Ignore :morale_negative: effect from a field.</p>
 ___

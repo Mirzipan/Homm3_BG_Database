@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. type: Title ##
-#: docs/dice.md docs/legend.md
+#: docs/keywords/dice.md docs/legend.md
 #, no-wrap
 msgid "Dice"
 msgstr "Kości"
@@ -166,8 +166,8 @@ msgstr ""
 msgid ""
 "| Icon | Description |\n"
 "| :---: | :--- |\n"
-"| :treasure: | [Treasure die](dice.md#treasure-die) |\n"
-"| :resource_die: | [Resource die](dice.md#resource-die) |\n"
+"| :treasure: | [Treasure die](keywords/dice.md#treasure-die) |\n"
+"| :resource_die: | [Resource die](keywords/dice.md#resource-die) |\n"
 msgstr ""
 
 #. type: Title ##

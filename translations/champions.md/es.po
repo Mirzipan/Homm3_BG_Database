@@ -978,7 +978,7 @@ msgstr ""
 "| :health_points: | 7 | 7 | 6 |\n"
 "| :initiative: | 7 | **9** | 8 |\n"
 "| Coste | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
-"| Habilidades | :effect_map: Si tu héroe está en una casilla con Establos, el refuerzo de esta unidad se reduce en 6 :gold:. | :unit_attack: Si el movimiento de esta unidad finaliza en una casilla distinta a la inicial, puedes repetir un [dado de Ataque](../dice.md#attack-die). | :unit_attack: Lanza 2 [dados de Ataque](../dice.md#attack-die) y aplica ambos resultados.<br>:unit_passive: Esta unidad Repite todos los \"-1\" de la tirada. |\n"
+"| Habilidades | :effect_map: Si tu héroe está en una casilla con Establos, el refuerzo de esta unidad se reduce en 6 :gold:. | :unit_attack: Si el movimiento de esta unidad finaliza en una casilla distinta a la inicial, puedes repetir un [dado de Ataque](../keywords/dice.md#attack-die). | :unit_attack: Lanza 2 [dados de Ataque](../keywords/dice.md#attack-die) y aplica ambos resultados.<br>:unit_passive: Esta unidad Repite todos los \"-1\" de la tirada. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/champions.md

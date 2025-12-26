@@ -5,6 +5,26 @@ search:
 # Fields
 
 Fields are single cells on a [tile](../tiles/index.md).
+When your [Hero](../heroes/index.md) moves to a field, they must immediately visit it, or first start a Combat against the enemies guarding it before visiting.
+Roman numerals written on a field indicate that the field is guarded by [Neutral enemies](../units/index.md) that must be fought to visit it.
+
+
+## Visitable Field
+
+Once you visit this field, place a Black Cube on it. Treat it as an [Empty Field](empty_field.md) as long as it has a Black Cube.
+
+
+## Revisitable Field
+
+You can visit this field multiple times. Do not place any Cubes when you visit it. You may pay 1 MP to fisit this field again.
+
+
+## Flaggable Field
+
+These fields can be captured by players and provide passive benefits. When you visit one, place your Faction Cube on it. Enemy Heroes who visit your flagged fields will replace your Cube with theirs to steal the field’s effects. Allied [Heroes](../heroes/index.md) treat flagged fields as if they were empty.
+
+
+## List of Fields
 
 | Name | Type | Effect |
 | :--- | :---: | :--- |

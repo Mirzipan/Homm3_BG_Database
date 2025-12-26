@@ -5,7 +5,7 @@ search:
 # List of Heroes
 
 
-| Name | [Town](../towns/index.md) | Class | [Ability](../abilities/index.md) | Specialty | [Content](../content/index.md) |
+| Name | Town | Class | Ability | Specialty | Content |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Adelaide](adelaide.md) | [Castle](../towns/castle.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Frost Ring](adelaide.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
 | [Catherine](catherine.md) | [Castle](../towns/castle.md) | :might: Knight | [Leadership](../abilities/leadership.md) | [Crusaders](catherine.md#specialty) | [Core Game](../content/core_game.md) |

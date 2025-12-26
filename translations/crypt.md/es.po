@@ -671,8 +671,8 @@ msgstr "![Cripta](../assets/events-crypt.webp){ width=\"475\" align=right }"
 #. type: Plain text
 #: docs/events/crypt.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 [:treasure:](../dice.md#treasure-die). If any of them shows :experience:, you gain nothing. Otherwise, resolve one result.<br><br>— OR —<br><br>Gain Positive Morale.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for half the cost.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>**Cada jugador elige una opción:** <br>Gana Moral Negativa. Luego lanza 2 [:treasure:](../dice.md#treasure-die). Si alguno de ellos muestra :experience:, no ganas nada. En caso contrario, resuelve un resultado<br><br>— O —<br><br>Gana Moral Positiva.<br><br>— O —<br><br>Solo para [:necro:](../towns/necropolis.md). **Refuerza** una de tus :bronze: o :silver: por la mitad del coste.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 [:treasure:](../keywords/dice.md#treasure-die). If any of them shows :experience:, you gain nothing. Otherwise, resolve one result.<br><br>— OR —<br><br>Gain Positive Morale.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for half the cost.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>**Cada jugador elige una opción:** <br>Gana Moral Negativa. Luego lanza 2 [:treasure:](../keywords/dice.md#treasure-die). Si alguno de ellos muestra :experience:, no ganas nada. En caso contrario, resuelve un resultado<br><br>— O —<br><br>Gana Moral Positiva.<br><br>— O —<br><br>Solo para [:necro:](../towns/necropolis.md). **Refuerza** una de tus :bronze: o :silver: por la mitad del coste.</p>\n"
 
 #. type: Plain text
 #: docs/events/crypt.md

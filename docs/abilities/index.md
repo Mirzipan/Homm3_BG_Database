@@ -4,7 +4,7 @@ search:
 ---
 # List of Abilities
 
-| Name | Effect | :expert: Effect | [Content](../content/index.md) |
+| Name | Effect | :expert: Effect | Content |
 | :--- | :---: | :---: | :--- |
 | [Air Magic](air_magic.md) | :permanent: +1 :empower: for spells from [School of Air Magic](../spells/school_of_air_magic.md). | While casting :spellpower: from the [School of Air](../spells/school_of_air_magic.md), you can discard this card, then gain +3 :empower:. | [Tower Expansion (2)](../content/tower_expansion.md) |
 | [Archery](archery.md) | :ongoing: During this Combat round, your Ranged [units](../units/index.md) gain +1 :attack: if the target is a non-adjacent [unit](../units/index.md). |:ongoing: Until the end of the next Combat round, your Ranged [units](../units/index.md) gain +1 :initiative: and +1 :attack: if the target is a non-adjacent [unit](../units/index.md). | [Core Game (2)](../content/core_game.md) |
@@ -22,7 +22,7 @@ search:
 | [Leadership](leadership.md) | :instant: Gain a :morale_positive: token. | :instant: Draw 2 cards.<br>Then, gain a :morale_positive: token. | [Core Game (2)](../content/core_game.md) |
 | [Learning](learning.md) | :instant: Play when the Hero is about to level up. Advance their :experience: Level by an additional half level. | :instant: Play when the Hero is about to level up. Advance their :experience: Level by an additional level, then Remove this card. | [Fortress Expansion (2)](../content/fortress_expansion.md) |
 | [Logistics](logistics.md) | :ongoing: At the end of your turn, move your Hero's model to an adjacent empty field. | :instant: Your Hero gains +1 Movement. | [Core Game (2)](../content/core_game.md) |
-| [Luck](luck.md) | :ongoing: You can reroll a [Treasure die](../dice.md#treasure-die) and a [Resource die](../dice.md#resource-die) once during this turn. | :ongoing: You can reroll any [die](../dice.md) once during this turn. | [Core Game (2)](../content/core_game.md) |
+| [Luck](luck.md) | :ongoing: You can reroll a [Treasure die](../keywords/dice.md#treasure-die) and a [Resource die](../keywords/dice.md#resource-die) once during this turn. | :ongoing: You can reroll any [die](../keywords/dice.md) once during this turn. | [Core Game (2)](../content/core_game.md) |
 | [Mysticism](mysticism.md) | :instant: Play this card immediately after casting a spell. Instead of discarding the [Spell](../spells/index.md) card, take it back into your hand. | :instant: Play this card immediately after casting a spell. Instead of discarding the [Spell](../spells/index.md) card and all other cards player together with it, take them back to your hand. | [Core Game (2)](../content/core_game.md) |
 | [Necromancy](necromancy.md) | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | [Core Game (2)](../content/core_game.md) |
 | [Offense](offense.md) | :instant: +1 :attack:<br>Then draw 1 card. | :instant: +2 :attack:<br>Then draw 1 card. | [Core Game (2)](../content/core_game.md) |

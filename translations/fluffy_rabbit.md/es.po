@@ -649,8 +649,8 @@ msgstr "![Conejo Peludo](../assets/astrologers_proclaim-fluffy_rabbit.webp){ wid
 #. type: Plain text
 #: docs/astrologers_proclaim/fluffy_rabbit.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Each player immediately rolls 1 [Treasure die](../dice.md#treasure-die) and gains the rolled bonus.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Cada jugador tira inmediatamente 1 [dado de Tesoro](../dice.md#treasure-die) y gana la bonificación obtenida.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Each player immediately rolls 1 [Treasure die](../keywords/dice.md#treasure-die) and gains the rolled bonus.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Cada jugador tira inmediatamente 1 [dado de Tesoro](../keywords/dice.md#treasure-die) y gana la bonificación obtenida.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/fluffy_rabbit.md

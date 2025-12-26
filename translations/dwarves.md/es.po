@@ -985,7 +985,7 @@ msgstr ""
 "| :health_points: | 3 | 3 | 4 |\n"
 "| :initiative: | 3 | **5** | 3 |\n"
 "| Coste | 3 :gold: | 4 :gold: | 4 :gold: |\n"
-"| Habilidades | :unit_passive: Si esta unidad es objetivo de alguna carta de  [Hechizo](../spells/index.md) o [Especialidad](../heroes/index.md), lanza 1 [dado de Ataque](../dice.md#attack-die). Con un resultado \"+1\", ignora el efecto de la carta. | :unit_passive: Si esta unidad es objetivo de alguna carta de  [Hechizo](../spells/index.md) o [Especialidad](../heroes/index.md), lanza 1 [dado de Ataque](../dice.md#attack-die). Con un resultado \"+1\", ignora el efecto de la carta. | :unit_passive: Si esta unidad es objetivo de alguna carta de  [Hechizo](../spells/index.md) o [Especialidad](../heroes/index.md), lanza 1 [dado de Ataque](../dice.md#attack-die). Con un resultado \"+1\", ignora el efecto de la carta. |\n"
+"| Habilidades | :unit_passive: Si esta unidad es objetivo de alguna carta de  [Hechizo](../spells/index.md) o [Especialidad](../heroes/index.md), lanza 1 [dado de Ataque](../keywords/dice.md#attack-die). Con un resultado \"+1\", ignora el efecto de la carta. | :unit_passive: Si esta unidad es objetivo de alguna carta de  [Hechizo](../spells/index.md) o [Especialidad](../heroes/index.md), lanza 1 [dado de Ataque](../keywords/dice.md#attack-die). Con un resultado \"+1\", ignora el efecto de la carta. | :unit_passive: Si esta unidad es objetivo de alguna carta de  [Hechizo](../spells/index.md) o [Especialidad](../heroes/index.md), lanza 1 [dado de Ataque](../keywords/dice.md#attack-die). Con un resultado \"+1\", ignora el efecto de la carta. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/dwarves.md

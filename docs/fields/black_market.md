@@ -7,9 +7,9 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Revisitable Field](../keywords/revisitable_field.md)</p>
+<p style="text-align: center;" markdown>[Revisitable Field](index.md#revisitable-field)</p>
 ___
-<p style="text-align: center;" markdown>Look at the top 4 cards from the [Artifact](../artifacts/index.md) discard pile. You may buy one of them for:<br><br>5 :gold: if it is a [Minor Artifact](../keywords/minor_artifact.md)<br>7 :gold: if it is a [Major Artifact](../keywords/major_artifact.md)<br>10 :gold: if it is a [Relic Artifact](../keywords/relic_artifact.md)</p>
+<p style="text-align: center;" markdown>Look at the top 4 cards from the [Artifact](../artifacts/index.md) discard pile. You may buy one of them for:<br><br>5 :gold: if it is a [Minor Artifact](../artifacts/index.md#minor-artifacts)<br>7 :gold: if it is a [Major Artifact](../artifacts/index.md#major-artifacts)<br>10 :gold: if it is a [Relic Artifact](../artifacts/index.md#relic-artifacts)</p>
 ___
 
 

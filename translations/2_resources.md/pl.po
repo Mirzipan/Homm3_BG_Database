@@ -412,7 +412,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Pole Jednorazowe](../keywords
 #. type: Plain text
 #: docs/fields/resource_symbol.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Roll 2 [Resource Dice](../dice.md#resource-die) and choose the bonus from one of them.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll 2 [Resource Dice](../keywords/dice.md#resource-die) and choose the bonus from one of them.</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '
