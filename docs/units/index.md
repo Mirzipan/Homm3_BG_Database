@@ -94,7 +94,7 @@ There are some [Ability](../abilities/index.md), [Astrologers Proclaim](../astro
 ## Summoned Units
 
 These units can only comes into Combat by someone casting a summoning [spell](../spells/index.md).
-None of these units can be [Recruited](../keyword/recruit.md) normally.
+None of these units can be [Recruited](../keywords/recruit.md) normally.
 
 There are currently 4 summoning spells:
 
@@ -107,7 +107,7 @@ There are currently 4 summoning spells:
 ## Creature Bank Units
 
 Special units that are only used when challenging the guards of a [Creature Bank](../fields/creature_bank.md).
-None of these units can be [Recruited](../keyword/recruit.md) normally.
+None of these units can be [Recruited](../keywords/recruit.md) normally.
 
 
 ## Other Units
