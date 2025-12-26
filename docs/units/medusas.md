@@ -53,6 +53,6 @@
 
 ## See Also
 
-- [Medusa Stores (Creature Bank)](medusa_stores_creature_bank.md)
+- [Medusa Stores (Creature Bank)](../fields/medusa_stores_creature_bank.md)
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)

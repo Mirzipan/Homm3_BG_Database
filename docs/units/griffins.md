@@ -46,6 +46,6 @@
 
 ## See Also
 
-- [Griffin Conservatory (Creature Bank)](griffin_conservatory_creature_bank.md)
+- [Griffin Conservatory (Creature Bank)](../fields/griffin_conservatory_creature_bank.md)
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)

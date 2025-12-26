@@ -34,6 +34,6 @@
 
 ## See Also
 
-- [Pyramid (Creature Bank)](pyramid_creature_bank.md)
+- [Pyramid (Creature Bank)](../fields/pyramid_creature_bank.md)
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)

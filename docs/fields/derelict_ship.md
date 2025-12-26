@@ -20,7 +20,7 @@ ___
 
 ## See Also
 
-- [Derelict Ship (Creature Bank)](derelict_ship.md)
+- [Derelict Ship (Creature Bank)](derelict_ship_creature_bank.md)
 - [Buoy](buoy.md)
 - [Flotsam](flotsam.md)
 - [Jetsam](jetsam.md)

@@ -52,7 +52,7 @@
 
 ## See Also
 
-- [Derelict Ship (Creature Bank)](derelict_ship_creature_bank.md)
+- [Derelict Ship (Creature Bank)](../fields/derelict_ship_creature_bank.md)
 - [List of Units](index.md)
 - [List of Spells](../spells/index.md)
 - [List of Towns](../towns/index.md)
