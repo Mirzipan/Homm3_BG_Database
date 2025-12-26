@@ -7,15 +7,15 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
 ___
-<p style="text-align: center;" markdown>Roll and resolve 1 [:resource_die:](../keywords/resource_die.md).</p>
+<p style="text-align: center;" markdown>Roll and resolve 1 [:resource_die:](../keywords/dice.md#resource-die).</p>
 ___
 
 
 ## Notes
 
-- Only appears on [Sea tiles](../keywords/sea_tile.md).
+- Only appears on [Sea tiles](../tiles/index.md#sea-tiles).
 - The effect is the same as [:resource_die:](resource_symbol.md).
 
 

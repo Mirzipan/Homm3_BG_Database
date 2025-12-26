@@ -2,7 +2,7 @@
 
 ![Pendant of Negativity](../assets/player-deck-back.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Major Artifact](../keywords/major_artifact.md)</p>
+<p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Ignore the effect of a [spell](../spells/index.md) from the [School of Air Magic](../spells/school_of_air_magic.md)<br><br>— OR —<br><br>:ongoing: Ignore the effect of a [spell](../spells/index.md) from the [School of Air Magic](../spells/school_of_air_magic.md) cast on this [unit](../units/index.md).</p>
 ___

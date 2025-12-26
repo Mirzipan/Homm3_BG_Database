@@ -2,7 +2,7 @@
 
 ![Inexhaustible Cart of Ore](../assets/artifacts_minor-inexhaustible_cart_of_ore.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:permanent: At the beginning of each Resources round, gain 1 :building_materials:.<br><br>— OR —<br><br>:instant: Remove this card, then gain 3 :building_materials:.</p>
 ___

@@ -670,7 +670,7 @@ msgid ""
 "| :health_points: | 4 |\n"
 "| :initiative: | 5 |\n"
 "| Cost | 8 :gold: |\n"
-"| Abilities | :unit_attack: Ignore the result on the [Attack die](../dice.md#attack-die). :unit_passive: Whenever this unit is attacked, set your opponent's [Attack die](../dice.md#attack-die) to \"-1\". |\n"
+"| Abilities | :unit_attack: Ignore the result on the [Attack die](../keywords/dice.md#attack-die). :unit_passive: Whenever this unit is attacked, set your opponent's [Attack die](../keywords/dice.md#attack-die) to \"-1\". |\n"
 msgstr ""
 "| Statystyki | Neutralne |\n"
 "| :--- | :---: |\n"
@@ -682,7 +682,7 @@ msgstr ""
 "| :health_points: | 4 |\n"
 "| :initiative: | 5 |\n"
 "| Koszt | 8 :gold: |\n"
-"| Zdolności | :unit_attack: Zignoruj wynik z  [kości Ataku](../dice.md#attack-die). :unit_passive: Gdy Mumie są atakowane, obróć [kość Ataku](../dice.md#attack-die) przeciwnika na wynik „-1”. |\n"
+"| Zdolności | :unit_attack: Zignoruj wynik z  [kości Ataku](../keywords/dice.md#attack-die). :unit_passive: Gdy Mumie są atakowane, obróć [kość Ataku](../keywords/dice.md#attack-die) przeciwnika na wynik „-1”. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/mummies.md

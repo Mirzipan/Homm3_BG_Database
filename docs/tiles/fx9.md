@@ -1,7 +1,7 @@
 # #F9
 
 ___
-[Far Tile](../keywords/far_tile.md)
+[Far Tile](../tiles/index.md#far-tiles)
 ___
 Swamp
 ___
@@ -15,7 +15,7 @@ ___
 - [Redwood Observatory](../fields/redwood_observatory.md)
 - [Ⅱ](../difficulties.md) [Mystical Garden](../fields/mystical_garden.md)
 - [Ⅱ](../difficulties.md) [:artifact:](../fields/artifact_symbol.md)
-- [Blocked Field](../keywords/blocked_field.md)
+- [Blocked Field](../fields/blocked_field.md)
 
 
 ## Comes With

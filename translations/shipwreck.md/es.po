@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-22 21:01+0000\n"
+"POT-Creation-Date: 2025-12-25 19:17+0000\n"
 "PO-Revision-Date: 2025-12-21 16:59+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -97,9 +97,13 @@ msgstr ""
 #: docs/astrologers_proclaim/big_cleanup.md
 #: docs/astrologers_proclaim/blue_sky.md
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
+#: docs/astrologers_proclaim/crag_hack.md
 #: docs/astrologers_proclaim/crazy_wizard.md
 #: docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/dead_silence.md
+#: docs/astrologers_proclaim/destruction.md
+#: docs/astrologers_proclaim/disruption.md
+#: docs/astrologers_proclaim/elementals.md
 #: docs/astrologers_proclaim/explorers.md
 #: docs/astrologers_proclaim/fancy_pixie.md
 #: docs/astrologers_proclaim/fluffy_rabbit.md
@@ -111,93 +115,95 @@ msgstr ""
 #: docs/astrologers_proclaim/groovy_satyr.md docs/astrologers_proclaim/hero.md
 #: docs/astrologers_proclaim/index.md
 #: docs/astrologers_proclaim/isras_friends.md
+#: docs/astrologers_proclaim/judge_dread.md docs/astrologers_proclaim/mages.md
 #: docs/astrologers_proclaim/magic_tortoise.md
 #: docs/astrologers_proclaim/mcgiver.md
 #: docs/astrologers_proclaim/merry_leprechaun.md
+#: docs/astrologers_proclaim/multilingual_bron.md
+#: docs/astrologers_proclaim/offense.md docs/astrologers_proclaim/pirates.md
 #: docs/astrologers_proclaim/plane_between_planes.md
+#: docs/astrologers_proclaim/plastic_tray.md
 #: docs/astrologers_proclaim/profuse_growth.md
+#: docs/astrologers_proclaim/restart.md docs/astrologers_proclaim/rulebook.md
+#: docs/astrologers_proclaim/sanctuary.md
 #: docs/astrologers_proclaim/scorched_ground.md
-#: docs/astrologers_proclaim/society.md
+#: docs/astrologers_proclaim/society.md docs/astrologers_proclaim/spells.md
 #: docs/astrologers_proclaim/swift_weasel.md
 #: docs/astrologers_proclaim/terrible_plague.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
+#: docs/astrologers_proclaim/wandering_merchant.md
+#: docs/astrologers_proclaim/whirlpool.md
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
-#: docs/content/azure_stretch_goals.md docs/content/battlefield_expansion.md
-#: docs/content/conflux_expansion.md docs/content/core_game.md
-#: docs/content/cove_expansion.md docs/content/crystal_stretch_goals.md
-#: docs/content/fortress_expansion.md docs/content/inferno_expansion.md
-#: docs/content/rampart_expansion.md docs/content/regular_stretch_goals.md
-#: docs/content/stronghold_expansion.md docs/content/tower_expansion.md
-#: docs/difficulties.md docs/events/a_shady_auction.md
-#: docs/events/artifact_merchant.md docs/events/crypt.md
-#: docs/events/cursed_swamp.md docs/events/den_of_thieves.md
-#: docs/events/garden_of_revelation.md docs/events/index.md
-#: docs/events/library_of_enlightenment.md docs/events/mage_laboratory.md
-#: docs/events/magical_forest.md docs/events/market_of_time.md
-#: docs/events/marketplace.md docs/events/mercenary_camp.md
-#: docs/events/messenger_with_supplies.md docs/events/mischievous_leprechaun.md
-#: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
+#: docs/astrologers_proclaim/wind.md docs/content/azure_stretch_goals.md
+#: docs/content/battlefield_expansion.md docs/content/conflux_expansion.md
+#: docs/content/core_game.md docs/content/cove_expansion.md
+#: docs/content/crystal_stretch_goals.md docs/content/fortress_expansion.md
+#: docs/content/inferno_expansion.md docs/content/rampart_expansion.md
+#: docs/content/regular_stretch_goals.md docs/content/stronghold_expansion.md
+#: docs/content/tower_expansion.md docs/difficulties.md
+#: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
+#: docs/events/crypt.md docs/events/cursed_swamp.md
+#: docs/events/den_of_thieves.md docs/events/garden_of_revelation.md
+#: docs/events/index.md docs/events/library_of_enlightenment.md
+#: docs/events/mage_laboratory.md docs/events/magical_forest.md
+#: docs/events/market_of_time.md docs/events/marketplace.md
+#: docs/events/mercenary_camp.md docs/events/messenger_with_supplies.md
+#: docs/events/mischievous_leprechaun.md docs/events/prison.md
+#: docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/fields/artifact_symbol.md docs/fields/black_market.md
-#: docs/fields/buoy.md docs/fields/cyclops_stockpile.md
-#: docs/fields/derelict_ship.md docs/fields/dragon_utopia.md
-#: docs/fields/elemental_conflux.md docs/fields/faerie_ring.md
-#: docs/fields/flotsam.md docs/fields/fountain_of_youth.md docs/fields/grail.md
-#: docs/fields/grave.md docs/fields/hill_fort.md docs/fields/index.md
-#: docs/fields/jetsam.md docs/fields/learning_stone.md
-#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
-#: docs/fields/market_of_time.md docs/fields/mermaid.md docs/fields/mine.md
-#: docs/fields/mystical_garden.md docs/fields/obelisk.md
-#: docs/fields/one_way_monolith.md docs/fields/pandoras_box.md
-#: docs/fields/prison.md docs/fields/random_town.md
-#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
-#: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
-#: docs/fields/sea_chest.md docs/fields/settlement.md docs/fields/shipwreck.md
+#: docs/fields/blocked_field.md docs/fields/buoy.md
+#: docs/fields/cyclops_stockpile.md docs/fields/derelict_ship.md
+#: docs/fields/dragon_utopia.md docs/fields/elemental_conflux.md
+#: docs/fields/empty_field.md docs/fields/faerie_ring.md docs/fields/flotsam.md
+#: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
+#: docs/fields/hill_fort.md docs/fields/index.md docs/fields/jetsam.md
+#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
+#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/mermaid.md docs/fields/mine.md docs/fields/monolith_one_way.md
+#: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
+#: docs/fields/obelisk.md docs/fields/pandoras_box.md docs/fields/prison.md
+#: docs/fields/random_town.md docs/fields/redwood_observatory.md
+#: docs/fields/resource_symbol.md docs/fields/sanctuary.md
+#: docs/fields/scholar.md docs/fields/sea_barrel.md docs/fields/sea_chest.md
+#: docs/fields/settlement.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
 #: docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
 #: docs/fields/temple_of_the_sea.md docs/fields/town.md
 #: docs/fields/trading_post.md docs/fields/treasure_symbol.md
-#: docs/fields/tree_of_knowledge.md docs/fields/two_way_monolith.md
-#: docs/fields/university.md docs/fields/war_machine_factory.md
-#: docs/fields/warriors_tomb.md docs/fields/water_wheel.md
-#: docs/fields/windmill.md docs/fields/witch_hut.md docs/heroes/adelaide.md
-#: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/ash.md
-#: docs/heroes/astra.md docs/heroes/bron.md docs/heroes/casmetra.md
-#: docs/heroes/cassiopeia.md docs/heroes/catherine.md docs/heroes/ciele.md
-#: docs/heroes/clancy.md docs/heroes/crag_hack.md docs/heroes/cyra.md
-#: docs/heroes/deemer.md docs/heroes/dessa.md docs/heroes/dracon.md
-#: docs/heroes/erdamon.md docs/heroes/fiona.md docs/heroes/gelu.md
-#: docs/heroes/gem.md docs/heroes/gerwulf.md docs/heroes/gundula.md
-#: docs/heroes/index.md docs/heroes/ingham.md docs/heroes/iona.md
-#: docs/heroes/ivor.md docs/heroes/jeddite.md docs/heroes/jeremy.md
-#: docs/heroes/josephine.md docs/heroes/lord_haart_castle.md
-#: docs/heroes/lord_haart_necropolis.md docs/heroes/lorelei.md
-#: docs/heroes/luna.md docs/heroes/melodia.md docs/heroes/mephala.md
-#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
-#: docs/heroes/monere.md docs/heroes/mutare.md docs/heroes/octavia.md
-#: docs/heroes/pasis.md docs/heroes/rashka.md docs/heroes/rion.md
-#: docs/heroes/sandro.md docs/heroes/sephinroth.md docs/heroes/septienna.md
-#: docs/heroes/shiva.md docs/heroes/solmyr.md docs/heroes/tamika.md
-#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
-#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
-#: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
-#: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/valeska.md
-#: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
-#: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
-#: docs/keywords/attack_die.md docs/keywords/center_tile.md
-#: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
-#: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
-#: docs/keywords/near_tile.md docs/keywords/relic_artifact.md
-#: docs/keywords/resource_die.md docs/keywords/revisitable_field.md
-#: docs/keywords/sea_tile.md docs/keywords/starting_tile.md
-#: docs/keywords/subterranean_tile.md docs/keywords/treasure_die.md
-#: docs/keywords/visitable_field.md docs/spells/air_shield.md
-#: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
-#: docs/spells/blind.md docs/spells/bloodlust.md docs/spells/chain_lightning.md
+#: docs/fields/tree_of_knowledge.md docs/fields/university.md
+#: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
+#: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
+#: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
+#: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/bron.md
+#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
+#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
+#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
+#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
+#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gerwulf.md
+#: docs/heroes/gundula.md docs/heroes/index.md docs/heroes/ingham.md
+#: docs/heroes/iona.md docs/heroes/ivor.md docs/heroes/jeddite.md
+#: docs/heroes/jeremy.md docs/heroes/josephine.md
+#: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
+#: docs/heroes/lorelei.md docs/heroes/luna.md docs/heroes/melodia.md
+#: docs/heroes/mephala.md docs/heroes/merist.md docs/heroes/miriam.md
+#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/rashka.md
+#: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/sephinroth.md
+#: docs/heroes/septienna.md docs/heroes/shiva.md docs/heroes/solmyr.md
+#: docs/heroes/tamika.md docs/heroes/tarnum_castle.md
+#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
+#: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
+#: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
+#: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
+#: docs/heroes/zydar.md docs/spells/air_shield.md docs/spells/anti-magic.md
+#: docs/spells/berserk.md docs/spells/bless.md docs/spells/blind.md
+#: docs/spells/bloodlust.md docs/spells/chain_lightning.md
 #: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
 #: docs/spells/dimension_door.md docs/spells/dispel.md
 #: docs/spells/disrupting_ray.md docs/spells/earthquake.md
@@ -296,9 +302,13 @@ msgstr "Ver También"
 #: docs/astrologers_proclaim/big_cleanup.md
 #: docs/astrologers_proclaim/blue_sky.md
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
+#: docs/astrologers_proclaim/crag_hack.md
 #: docs/astrologers_proclaim/crazy_wizard.md
 #: docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/dead_silence.md
+#: docs/astrologers_proclaim/destruction.md
+#: docs/astrologers_proclaim/disruption.md
+#: docs/astrologers_proclaim/elementals.md
 #: docs/astrologers_proclaim/explorers.md
 #: docs/astrologers_proclaim/fancy_pixie.md
 #: docs/astrologers_proclaim/fluffy_rabbit.md
@@ -309,18 +319,27 @@ msgstr "Ver También"
 #: docs/astrologers_proclaim/grim_warlock.md
 #: docs/astrologers_proclaim/groovy_satyr.md docs/astrologers_proclaim/hero.md
 #: docs/astrologers_proclaim/isras_friends.md
+#: docs/astrologers_proclaim/judge_dread.md docs/astrologers_proclaim/mages.md
 #: docs/astrologers_proclaim/magic_tortoise.md
 #: docs/astrologers_proclaim/mcgiver.md
 #: docs/astrologers_proclaim/merry_leprechaun.md
+#: docs/astrologers_proclaim/multilingual_bron.md
+#: docs/astrologers_proclaim/offense.md docs/astrologers_proclaim/pirates.md
 #: docs/astrologers_proclaim/plane_between_planes.md
+#: docs/astrologers_proclaim/plastic_tray.md
 #: docs/astrologers_proclaim/profuse_growth.md
+#: docs/astrologers_proclaim/restart.md docs/astrologers_proclaim/rulebook.md
+#: docs/astrologers_proclaim/sanctuary.md
 #: docs/astrologers_proclaim/scorched_ground.md
-#: docs/astrologers_proclaim/society.md
+#: docs/astrologers_proclaim/society.md docs/astrologers_proclaim/spells.md
 #: docs/astrologers_proclaim/swift_weasel.md
 #: docs/astrologers_proclaim/terrible_plague.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
+#: docs/astrologers_proclaim/wandering_merchant.md
+#: docs/astrologers_proclaim/whirlpool.md
 #: docs/astrologers_proclaim/white_raven.md
-#: docs/astrologers_proclaim/wild_debauchery.md docs/events/a_shady_auction.md
+#: docs/astrologers_proclaim/wild_debauchery.md
+#: docs/astrologers_proclaim/wind.md docs/events/a_shady_auction.md
 #: docs/events/artifact_merchant.md docs/events/crypt.md
 #: docs/events/cursed_swamp.md docs/events/den_of_thieves.md
 #: docs/events/garden_of_revelation.md docs/events/library_of_enlightenment.md
@@ -332,15 +351,16 @@ msgstr "Ver También"
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/fields/artifact_symbol.md docs/fields/black_market.md
-#: docs/fields/buoy.md docs/fields/cyclops_stockpile.md
-#: docs/fields/derelict_ship.md docs/fields/dragon_utopia.md
-#: docs/fields/elemental_conflux.md docs/fields/faerie_ring.md
-#: docs/fields/flotsam.md docs/fields/fountain_of_youth.md docs/fields/grail.md
-#: docs/fields/grave.md docs/fields/hill_fort.md docs/fields/jetsam.md
-#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
-#: docs/fields/magic_spring.md docs/fields/market_of_time.md
-#: docs/fields/mermaid.md docs/fields/mine.md docs/fields/mystical_garden.md
-#: docs/fields/obelisk.md docs/fields/one_way_monolith.md
+#: docs/fields/blocked_field.md docs/fields/buoy.md
+#: docs/fields/cyclops_stockpile.md docs/fields/derelict_ship.md
+#: docs/fields/dragon_utopia.md docs/fields/elemental_conflux.md
+#: docs/fields/empty_field.md docs/fields/faerie_ring.md docs/fields/flotsam.md
+#: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
+#: docs/fields/hill_fort.md docs/fields/jetsam.md docs/fields/learning_stone.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/mermaid.md docs/fields/mine.md
+#: docs/fields/monolith_one_way.md docs/fields/monolith_two_way.md
+#: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
@@ -350,10 +370,9 @@ msgstr "Ver También"
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
 #: docs/fields/temple_of_the_sea.md docs/fields/town.md
 #: docs/fields/trading_post.md docs/fields/treasure_symbol.md
-#: docs/fields/tree_of_knowledge.md docs/fields/two_way_monolith.md
-#: docs/fields/university.md docs/fields/war_machine_factory.md
-#: docs/fields/warriors_tomb.md docs/fields/water_wheel.md
-#: docs/fields/windmill.md docs/fields/witch_hut.md
+#: docs/fields/tree_of_knowledge.md docs/fields/university.md
+#: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
+#: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
 msgstr "<figure markdown=\"span\">\n"
@@ -365,9 +384,13 @@ msgstr "<figure markdown=\"span\">\n"
 #: docs/astrologers_proclaim/big_cleanup.md
 #: docs/astrologers_proclaim/blue_sky.md
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
+#: docs/astrologers_proclaim/crag_hack.md
 #: docs/astrologers_proclaim/crazy_wizard.md
 #: docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/dead_silence.md
+#: docs/astrologers_proclaim/destruction.md
+#: docs/astrologers_proclaim/disruption.md
+#: docs/astrologers_proclaim/elementals.md
 #: docs/astrologers_proclaim/explorers.md
 #: docs/astrologers_proclaim/fancy_pixie.md
 #: docs/astrologers_proclaim/fluffy_rabbit.md
@@ -378,18 +401,27 @@ msgstr "<figure markdown=\"span\">\n"
 #: docs/astrologers_proclaim/grim_warlock.md
 #: docs/astrologers_proclaim/groovy_satyr.md docs/astrologers_proclaim/hero.md
 #: docs/astrologers_proclaim/isras_friends.md
+#: docs/astrologers_proclaim/judge_dread.md docs/astrologers_proclaim/mages.md
 #: docs/astrologers_proclaim/magic_tortoise.md
 #: docs/astrologers_proclaim/mcgiver.md
 #: docs/astrologers_proclaim/merry_leprechaun.md
+#: docs/astrologers_proclaim/multilingual_bron.md
+#: docs/astrologers_proclaim/offense.md docs/astrologers_proclaim/pirates.md
 #: docs/astrologers_proclaim/plane_between_planes.md
+#: docs/astrologers_proclaim/plastic_tray.md
 #: docs/astrologers_proclaim/profuse_growth.md
+#: docs/astrologers_proclaim/restart.md docs/astrologers_proclaim/rulebook.md
+#: docs/astrologers_proclaim/sanctuary.md
 #: docs/astrologers_proclaim/scorched_ground.md
-#: docs/astrologers_proclaim/society.md
+#: docs/astrologers_proclaim/society.md docs/astrologers_proclaim/spells.md
 #: docs/astrologers_proclaim/swift_weasel.md
 #: docs/astrologers_proclaim/terrible_plague.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
+#: docs/astrologers_proclaim/wandering_merchant.md
+#: docs/astrologers_proclaim/whirlpool.md
 #: docs/astrologers_proclaim/white_raven.md
-#: docs/astrologers_proclaim/wild_debauchery.md docs/events/a_shady_auction.md
+#: docs/astrologers_proclaim/wild_debauchery.md
+#: docs/astrologers_proclaim/wind.md docs/events/a_shady_auction.md
 #: docs/events/artifact_merchant.md docs/events/crypt.md
 #: docs/events/cursed_swamp.md docs/events/den_of_thieves.md
 #: docs/events/garden_of_revelation.md docs/events/library_of_enlightenment.md
@@ -401,15 +433,16 @@ msgstr "<figure markdown=\"span\">\n"
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/fields/artifact_symbol.md docs/fields/black_market.md
-#: docs/fields/buoy.md docs/fields/cyclops_stockpile.md
-#: docs/fields/derelict_ship.md docs/fields/dragon_utopia.md
-#: docs/fields/elemental_conflux.md docs/fields/faerie_ring.md
-#: docs/fields/flotsam.md docs/fields/fountain_of_youth.md docs/fields/grail.md
-#: docs/fields/grave.md docs/fields/hill_fort.md docs/fields/jetsam.md
-#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
-#: docs/fields/magic_spring.md docs/fields/market_of_time.md
-#: docs/fields/mermaid.md docs/fields/mine.md docs/fields/mystical_garden.md
-#: docs/fields/obelisk.md docs/fields/one_way_monolith.md
+#: docs/fields/blocked_field.md docs/fields/buoy.md
+#: docs/fields/cyclops_stockpile.md docs/fields/derelict_ship.md
+#: docs/fields/dragon_utopia.md docs/fields/elemental_conflux.md
+#: docs/fields/empty_field.md docs/fields/faerie_ring.md docs/fields/flotsam.md
+#: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
+#: docs/fields/hill_fort.md docs/fields/jetsam.md docs/fields/learning_stone.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/mermaid.md docs/fields/mine.md
+#: docs/fields/monolith_one_way.md docs/fields/monolith_two_way.md
+#: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
@@ -419,10 +452,9 @@ msgstr "<figure markdown=\"span\">\n"
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
 #: docs/fields/temple_of_the_sea.md docs/fields/town.md
 #: docs/fields/trading_post.md docs/fields/treasure_symbol.md
-#: docs/fields/tree_of_knowledge.md docs/fields/two_way_monolith.md
-#: docs/fields/university.md docs/fields/war_machine_factory.md
-#: docs/fields/warriors_tomb.md docs/fields/water_wheel.md
-#: docs/fields/windmill.md docs/fields/witch_hut.md
+#: docs/fields/tree_of_knowledge.md docs/fields/university.md
+#: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
+#: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 #, no-wrap
 msgid "</figure>\n"
 msgstr "</figure>\n"
@@ -446,21 +478,22 @@ msgstr "</figure>\n"
 #: docs/fields/treasure_symbol.md docs/fields/tree_of_knowledge.md
 #: docs/fields/university.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
+#, fuzzy, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](index.md#visitable-field)</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Lugar Visitable](../keywords/visitable_field.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/fields/artifact_symbol.md docs/fields/black_market.md
-#: docs/fields/buoy.md docs/fields/cyclops_stockpile.md
-#: docs/fields/derelict_ship.md docs/fields/dragon_utopia.md
-#: docs/fields/elemental_conflux.md docs/fields/faerie_ring.md
-#: docs/fields/flotsam.md docs/fields/fountain_of_youth.md docs/fields/grail.md
-#: docs/fields/grave.md docs/fields/hill_fort.md docs/fields/jetsam.md
-#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
-#: docs/fields/magic_spring.md docs/fields/market_of_time.md
-#: docs/fields/mermaid.md docs/fields/mine.md docs/fields/mystical_garden.md
-#: docs/fields/obelisk.md docs/fields/one_way_monolith.md
+#: docs/fields/blocked_field.md docs/fields/buoy.md
+#: docs/fields/cyclops_stockpile.md docs/fields/derelict_ship.md
+#: docs/fields/dragon_utopia.md docs/fields/elemental_conflux.md
+#: docs/fields/empty_field.md docs/fields/faerie_ring.md docs/fields/flotsam.md
+#: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
+#: docs/fields/hill_fort.md docs/fields/jetsam.md docs/fields/learning_stone.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/mermaid.md docs/fields/mine.md
+#: docs/fields/monolith_one_way.md docs/fields/monolith_two_way.md
+#: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
@@ -471,39 +504,38 @@ msgstr "<p style=\"text-align: center;\" markdown>[Lugar Visitable](../keywords/
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
 #: docs/fields/temple_of_the_sea.md docs/fields/town.md
 #: docs/fields/trading_post.md docs/fields/treasure_symbol.md
-#: docs/fields/tree_of_knowledge.md docs/fields/two_way_monolith.md
-#: docs/fields/university.md docs/fields/war_machine_factory.md
-#: docs/fields/warriors_tomb.md docs/fields/water_wheel.md
-#: docs/fields/windmill.md docs/fields/witch_hut.md
+#: docs/fields/tree_of_knowledge.md docs/fields/university.md
+#: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
+#: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 msgid "[List of Fields](index.md)"
 msgstr "[Lista de Lugares](index.md)"
 
 #. type: Bullet: '- '
 #: docs/fields/artifact_symbol.md docs/fields/black_market.md
-#: docs/fields/buoy.md docs/fields/cyclops_stockpile.md
-#: docs/fields/derelict_ship.md docs/fields/dragon_utopia.md
-#: docs/fields/elemental_conflux.md docs/fields/faerie_ring.md
-#: docs/fields/flotsam.md docs/fields/fountain_of_youth.md docs/fields/grail.md
-#: docs/fields/grave.md docs/fields/hill_fort.md docs/fields/index.md
-#: docs/fields/jetsam.md docs/fields/learning_stone.md
-#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
-#: docs/fields/market_of_time.md docs/fields/mermaid.md docs/fields/mine.md
-#: docs/fields/mystical_garden.md docs/fields/obelisk.md
-#: docs/fields/one_way_monolith.md docs/fields/pandoras_box.md
-#: docs/fields/prison.md docs/fields/random_town.md
-#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
-#: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
-#: docs/fields/sea_chest.md docs/fields/settlement.md docs/fields/shipwreck.md
+#: docs/fields/blocked_field.md docs/fields/buoy.md
+#: docs/fields/cyclops_stockpile.md docs/fields/derelict_ship.md
+#: docs/fields/dragon_utopia.md docs/fields/elemental_conflux.md
+#: docs/fields/empty_field.md docs/fields/faerie_ring.md docs/fields/flotsam.md
+#: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
+#: docs/fields/hill_fort.md docs/fields/index.md docs/fields/jetsam.md
+#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
+#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/mermaid.md docs/fields/mine.md docs/fields/monolith_one_way.md
+#: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
+#: docs/fields/obelisk.md docs/fields/pandoras_box.md docs/fields/prison.md
+#: docs/fields/random_town.md docs/fields/redwood_observatory.md
+#: docs/fields/resource_symbol.md docs/fields/sanctuary.md
+#: docs/fields/scholar.md docs/fields/sea_barrel.md docs/fields/sea_chest.md
+#: docs/fields/settlement.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
 #: docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
 #: docs/fields/temple_of_the_sea.md docs/fields/town.md
 #: docs/fields/trading_post.md docs/fields/treasure_symbol.md
-#: docs/fields/tree_of_knowledge.md docs/fields/two_way_monolith.md
-#: docs/fields/university.md docs/fields/war_machine_factory.md
-#: docs/fields/warriors_tomb.md docs/fields/water_wheel.md
-#: docs/fields/windmill.md docs/fields/witch_hut.md
+#: docs/fields/tree_of_knowledge.md docs/fields/university.md
+#: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
+#: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
 msgid "[List of Tiles](../tiles/index.md)"
 msgstr "[Lista de Losetas](../tiles/index.md)"
 
@@ -601,5 +633,5 @@ msgstr "![Ubicación de Erudito](../assets/locations-scholar.webp){ width=\"475\
 #: docs/fields/shipwreck.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>[Revisitable Field](../keywords/revisitable_field.md)</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Roll and resolve 2 [:resource_die:](../keywords/resource_die.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Roll and resolve 2 [:resource_die:](../keywords/dice.md#resource-die).</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Lugar Revisitable](../keywords/revisitable_field.md)</p>\n"

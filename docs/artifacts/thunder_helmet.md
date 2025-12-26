@@ -2,7 +2,7 @@
 
 ![Thunder Helmet](../assets/player-deck-back.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>
+<p style="text-align: center;" markdown>[Relic Artifact](index.md#relic-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Select 1 [Spell](../spells/index.md) card from your discard pile and put it back into your hand.<br><br>— OR —<br><br>:ongoing: For this Combat, whenever you play a [Spell](../spells/index.md) card, draw 1 card from your M&M deck. After the Combat, Remove this card.</p>
 ___

@@ -1,5 +1,6 @@
 # :paralysis: Paralysis
 
+
 ## Notes
 
 - A paralyzed unit skips its next activation. Instead of activating, the :paralysis: token is removed from it.

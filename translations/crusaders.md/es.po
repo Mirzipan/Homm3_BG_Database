@@ -835,7 +835,7 @@ msgid ""
 "| :health_points: | 4 | 4 | 4 |\n"
 "| :initiative: | 5 | **6** | 5 |\n"
 "| Cost | 6 :gold: | 10 :gold: | 11 :gold: |\n"
-"| Abilities | - | :unit_attack: You can reroll every \"0\" on this unit's [Attack die](../dice.md#attack-die). | :unit_passive: During any attack, roll 2 [Attack dice](../dice.md#attack-die) and resolve the higher outcome. |\n"
+"| Abilities | - | :unit_attack: You can reroll every \"0\" on this unit's [Attack die](../keywords/dice.md#attack-die). | :unit_passive: During any attack, roll 2 [Attack dice](../keywords/dice.md#attack-die) and resolve the higher outcome. |\n"
 msgstr ""
 "| Características | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
@@ -847,7 +847,7 @@ msgstr ""
 "| :health_points: | 4 | 4 | 4 |\n"
 "| :initiative: | 5 | **6** | 5 |\n"
 "| Coste | 6 :gold: | 10 :gold: | 11 :gold: |\n"
-"| Habilidades | - | :unit_attack: Puedes Puedes repetir cada \"0\" en el [Dado de ataque](../dice.md#attack-die) de esta unidad. | :unit_passive: Durante cualquier ataque, lanza 2 [dados de Ataque](../dice.md#attack-die) y resuelve el valor superior. |\n"
+"| Habilidades | - | :unit_attack: Puedes Puedes repetir cada \"0\" en el [Dado de ataque](../keywords/dice.md#attack-die) de esta unidad. | :unit_passive: Durante cualquier ataque, lanza 2 [dados de Ataque](../keywords/dice.md#attack-die) y resuelve el valor superior. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/crusaders.md
@@ -856,10 +856,10 @@ msgstr "[:might: Catherine](../heroes/catherine.md#specialty)"
 
 #. type: Bullet: '- '
 #: docs/units/crusaders.md
-msgid "**Pack and Neutral** - The [Attack die](../dice.md#attack-die) may be rerolled until the number on the die no longer equals \"0\"."
-msgstr "**Manada y Neutral** - El [dado de Ataque](../dice.md#attack-die) debe ser repetido hasta que el número del dado no sea igual a \"0\"."
+msgid "**Pack and Neutral** - The [Attack die](../keywords/dice.md#attack-die) may be rerolled until the number on the die no longer equals \"0\"."
+msgstr "**Manada y Neutral** - El [dado de Ataque](../keywords/dice.md#attack-die) debe ser repetido hasta que el número del dado no sea igual a \"0\"."
 
 #. type: Bullet: '- '
 #: docs/units/crusaders.md
-msgid "[^1] **Neutral** - Should the Crusaders retaliate against a few [Dread Knights](dread_knights.md), they're abilities cancel out and a single [Attack die](../dice.md#attack-die) is rolled as if it was a regular attack."
-msgstr "[^1] **Neutral** - Si los Cruzados toman represalias contra unos pocos [Caballeros del Terror](dread_knights.md), sus habilidades se anulan y se tira un único [Dado de ataque](../dice.md#attack-die) como si fuera un ataque normal."
+msgid "[^1] **Neutral** - Should the Crusaders retaliate against a few [Dread Knights](dread_knights.md), they're abilities cancel out and a single [Attack die](../keywords/dice.md#attack-die) is rolled as if it was a regular attack."
+msgstr "[^1] **Neutral** - Si los Cruzados toman represalias contra unos pocos [Caballeros del Terror](dread_knights.md), sus habilidades se anulan y se tira un único [Dado de ataque](../keywords/dice.md#attack-die) como si fuera un ataque normal."

@@ -701,13 +701,13 @@ msgstr ""
 #. type: Plain text
 #: docs/abilities/luck.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: You can reroll a [Treasure die](../dice.md#treasure-die) and a [Resource die](../dice.md#resource-die) once during this turn.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: You can reroll a [Treasure die](../keywords/dice.md#treasure-die) and a [Resource die](../keywords/dice.md#resource-die) once during this turn.</p>\n"
 msgstr ""
 
 #. type: Plain text
 #: docs/abilities/luck.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: You can reroll any [die](../dice.md) once during this turn.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: You can reroll any [die](../keywords/dice.md) once during this turn.</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -732,5 +732,5 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/abilities/luck.md
-msgid "[Dice](../dice.md)"
+msgid "[Dice](../keywords/dice.md)"
 msgstr ""

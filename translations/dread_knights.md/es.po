@@ -915,7 +915,7 @@ msgid ""
 "| :health_points: | 7 | 7 | 7 |\n"
 "| :initiative: | 7 | **9** | 7 |\n"
 "| Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
-"| Abilities | :unit_attack: When retaliating after this attack, the enemy rolls 2 [Attack dice](../dice.md#attack-die) and resolves the lower result. | :unit_attack: If you resolve a \"0\" or a \"+1\" on the [Attack die](../dice.md#attack-die), increase this unit's total attack value by another \"+1\". | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. |\n"
+"| Abilities | :unit_attack: When retaliating after this attack, the enemy rolls 2 [Attack dice](../keywords/dice.md#attack-die) and resolves the lower result. | :unit_attack: If you resolve a \"0\" or a \"+1\" on the [Attack die](../keywords/dice.md#attack-die), increase this unit's total attack value by another \"+1\". | :unit_passive: When this unit is targeted by a Retaliation Attack, it gains +1 :defense:. |\n"
 msgstr ""
 "| Características | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
@@ -927,7 +927,7 @@ msgstr ""
 "| :health_points: | 7 | 7 | 7 |\n"
 "| :initiative: | 7 | **9** | 7 |\n"
 "| Coste | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |\n"
-"| Habilidades | :unit_attack: Al contraatacar después de este ataque, el enemigo tira 2 [dados de Ataque](../dice.md#attack-die) y resuelve el resultado más bajo. | :unit_attack: Si obtienes un «0» o un «+1» en el [dado de Ataque](../dice.md#attack-die), aumenta el valor de ataque total de esta unidad en otro \"+1\". | :unit_passive: Cuando esta unidad sea objetivo de un Contraataque, gana +1 :defense:. |\n"
+"| Habilidades | :unit_attack: Al contraatacar después de este ataque, el enemigo tira 2 [dados de Ataque](../keywords/dice.md#attack-die) y resuelve el resultado más bajo. | :unit_attack: Si obtienes un «0» o un «+1» en el [dado de Ataque](../keywords/dice.md#attack-die), aumenta el valor de ataque total de esta unidad en otro \"+1\". | :unit_passive: Cuando esta unidad sea objetivo de un Contraataque, gana +1 :defense:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/dread_knights.md
@@ -941,5 +941,5 @@ msgstr "[:might: Tamika](../heroes/tamika.md#specialty)"
 
 #. type: Bullet: '- '
 #: docs/units/dread_knights.md
-msgid "[^1] **Few** - Should the Dread Knights attack neutral [Crusaders](crusaders.md), when the [Crusaders](crusaders.md) retaliate against a few Dread Knights, they're abilities cancel out and a single [Attack die](../dice.md#attack-die) is rolled as if it was a regular attack."
-msgstr "[^1] **Pocos** - Si los Caballeros del Terror atacan a [Cruzados] (crusaders.md) neutrales, cuando los [Cruzados](crusaders.md) contraatacan contra unos pocos Caballeros del Terror, sus habilidades se anulan y se lanza un único [Dado de ataque](../dice.md#attack-die) como si fuera un ataque normal."
+msgid "[^1] **Few** - Should the Dread Knights attack neutral [Crusaders](crusaders.md), when the [Crusaders](crusaders.md) retaliate against a few Dread Knights, they're abilities cancel out and a single [Attack die](../keywords/dice.md#attack-die) is rolled as if it was a regular attack."
+msgstr "[^1] **Pocos** - Si los Caballeros del Terror atacan a [Cruzados] (crusaders.md) neutrales, cuando los [Cruzados](crusaders.md) contraatacan contra unos pocos Caballeros del Terror, sus habilidades se anulan y se lanza un único [Dado de ataque](../keywords/dice.md#attack-die) como si fuera un ataque normal."

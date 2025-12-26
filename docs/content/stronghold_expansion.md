@@ -11,7 +11,7 @@
 ## Inside The Box
 
 - [Stronghold Faction](../towns/stronghold.md)
-- [Subterranean Tiles](../keywords/subterranean_tile.md)
+- [Subterranean Tiles](../tiles/index.md#subterranean-tiles)
 
 
 ## See Also

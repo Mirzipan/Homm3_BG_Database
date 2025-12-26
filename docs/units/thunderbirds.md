@@ -29,7 +29,7 @@
 | :health_points: | 6 | 6 | 🚧 |
 | :initiative: | 9 | **11** | 🚧 |
 | Cost | 8 :gold: | 14 :gold: | 🚧 |
-| Abilities | - | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](../dice.md#attack-die), on a "+1", deal 1 :spell: :damage: to the target. | 🚧 |
+| Abilities | - | :unit_passive: Right after this unit's attack and before any Retaliation, roll 1 [Attack die](../keywords/dice.md#attack-die), on a "+1", deal 1 :spell: :damage: to the target. | 🚧 |
 
 
 ## Heroes With A Specialty

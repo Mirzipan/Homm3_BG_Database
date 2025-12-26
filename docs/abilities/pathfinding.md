@@ -20,7 +20,7 @@ ___
 
 ## Notes
 
-- See [Blocked Field](../keywords/blocked_field.md)
+- See [Blocked Field](../fields/blocked_field.md)
 
 
 ## Comes With

@@ -787,7 +787,7 @@ msgid ""
 "| :health_points: | 4 | 4 | 4 |\n"
 "| :initiative: | 5 | **6** | 6 |\n"
 "| Cost | 6 :gold: | 12 :gold: | 11 :gold: |\n"
-"| Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../dice.md#attack-die), on a \"0\" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. |\n"
+"| Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../keywords/dice.md#attack-die), on a \"0\" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. |\n"
 msgstr ""
 "| Statistics | Few | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
@@ -799,7 +799,7 @@ msgstr ""
 "| :health_points: | 4 | 4 | 4 |\n"
 "| :initiative: | 5 | **6** | 6 |\n"
 "| Cost | 6 :gold: | 12 :gold: | 11 :gold: |\n"
-"| Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../dice.md#attack-die), on a \"0\" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. |\n"
+"| Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../keywords/dice.md#attack-die), on a \"0\" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. |\n"
 
 #. type: Bullet: '- '
 #: docs/units/medusas.md

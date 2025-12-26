@@ -1,7 +1,7 @@
 # #C1
 
 ___
-[Center Tile](../keywords/center_tile.md)
+[Center Tile](../tiles/index.md#center-tiles)
 ___
 Snow
 ___
@@ -15,7 +15,7 @@ ___
 - [Ⅶ](../difficulties.md) [Tower Settlement](../towns/tower.md)
 - [Sanctuary](../fields/sanctuary.md)
 - [+3 :gold: Water Wheel](../fields/water_wheel.md)
-- [Blocked Field](../keywords/blocked_field.md)
+- [Blocked Field](../fields/blocked_field.md)
 
 
 ## Comes With

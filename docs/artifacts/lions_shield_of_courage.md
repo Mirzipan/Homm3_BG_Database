@@ -2,7 +2,7 @@
 
 ![Lion's Shield of Courage](../assets/player-deck-back.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>
+<p style="text-align: center;" markdown>[Relic Artifact](index.md#relic-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Discard X cards from hand to gain +X :defense:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +4 :defense:.</p>
 ___

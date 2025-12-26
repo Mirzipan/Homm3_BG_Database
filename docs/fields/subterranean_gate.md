@@ -7,9 +7,9 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Revisitable Field](../keywords/revisitable_field.md)</p>
+<p style="text-align: center;" markdown>[Revisitable Field](index.md#revisitable-field)</p>
 ___
-<p style="text-align: center;" markdown>When you enter this location, move to the connected location on the adjacent [tile](../tiles/index.md). This location allows you to enter or exit [Subterranean tiles](../keywords/subterranean_tile.md).</p>
+<p style="text-align: center;" markdown>When you enter this location, move to the connected location on the adjacent [tile](../tiles/index.md). This location allows you to enter or exit [Subterranean tiles](../tiles/index.md#subterranean-tiles).</p>
 ___
 
 

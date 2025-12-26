@@ -2,7 +2,7 @@
 
 ![Tome of Earth](../assets/player-deck-back.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>
+<p style="text-align: center;" markdown>[Relic Artifact](index.md#relic-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Find the first [Earth Magic :spellpower:](../spells/school_of_earth_magic.md) in the [Spell](../spells/index.md) deck. Take the [:spellpower:](../spells/index.md) into your hand or discard it. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: When playing an [Earth Magic :spellpower:](../spells/school_of_earth_magic.md), resolve its effect without paying the :empower: cost.</p>
 ___

@@ -7,9 +7,9 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
 ___
-<p style="text-align: center;" markdown>Roll and resolve 2 [:resource_die:](../keywords/resource_die.md).</p>
+<p style="text-align: center;" markdown>Roll and resolve 2 [:resource_die:](../keywords/dice.md#resource-die).</p>
 ___
 
 

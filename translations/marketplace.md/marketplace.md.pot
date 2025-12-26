@@ -567,7 +567,7 @@ msgstr ""
 #. type: Plain text
 #: docs/events/marketplace.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Roll 1 [:resource_die:](../dice.md#resource-die) and resolve its effects.<br><br>— OR —<br><br>[Trade](../trading.md) resources using Trading Post rules.<br><br>— OR —<br><br>Propose an exchange of resources with other players - one type of resource for one type of resource. Each player can propose one deal.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Roll 1 [:resource_die:](../keywords/dice.md#resource-die) and resolve its effects.<br><br>— OR —<br><br>[Trade](../trading.md) resources using Trading Post rules.<br><br>— OR —<br><br>Propose an exchange of resources with other players - one type of resource for one type of resource. Each player can propose one deal.</p>\n"
 msgstr ""
 
 #. type: Plain text

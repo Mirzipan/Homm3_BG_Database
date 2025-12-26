@@ -1,7 +1,7 @@
 # #N2
 
 ___
-[Near Tile](../keywords/near_tile.md)
+[Near Tile](../tiles/index.md#near-tiles)
 ___
 Snow
 ___
@@ -11,7 +11,7 @@ ___
 
 - [Fountain of Youth](../fields/fountain_of_youth.md)
 - [Ⅴ](../difficulties.md) [:valuables: Mine](../fields/mine.md)
-- [Blocked Field](../keywords/blocked_field.md)
+- [Blocked Field](../fields/blocked_field.md)
 - [Obelisk](../fields/obelisk.md)
 - [Trading Post](../fields/trading_post.md)
 - [Ⅳ](../difficulties.md) [:treasure:](../fields/treasure_symbol.md)

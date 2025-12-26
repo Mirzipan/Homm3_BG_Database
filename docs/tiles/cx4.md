@@ -1,7 +1,7 @@
 # #C4
 
 ___
-[Sea Tile](../keywords/sea_tile.md)
+[Sea Tile](../tiles/index.md#sea-tiles)
 ___
 Water
 ___

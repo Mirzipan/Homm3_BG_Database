@@ -567,7 +567,7 @@ msgstr ""
 #. type: Plain text
 #: docs/events/mischievous_leprechaun.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Pool 2 [:treasure:](../dice.md#treasure-die) and 2 [:resource_die:](../dice.md#resource-die), roll them, and put them within all players' reach. Starting from the player who drew this event, each player rolls 1 [:treasure:](../dice.md#treasure-die) and 1 [:resource_die:](../dice.md#resource-die). If they can match any of the pool's rolls, they may take one matching die from the pool and resolve its effects.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Pool 2 [:treasure:](../keywords/dice.md#treasure-die) and 2 [:resource_die:](../keywords/dice.md#resource-die), roll them, and put them within all players' reach. Starting from the player who drew this event, each player rolls 1 [:treasure:](../keywords/dice.md#treasure-die) and 1 [:resource_die:](../keywords/dice.md#resource-die). If they can match any of the pool's rolls, they may take one matching die from the pool and resolve its effects.</p>\n"
 msgstr ""
 
 #. type: Plain text

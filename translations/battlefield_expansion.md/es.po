@@ -380,6 +380,6 @@ msgstr "<p style=\"text-align: center;\" markdown>[Lugar Visitable](../keywords/
 #. type: Bullet: '- '
 #: docs/content/battlefield_expansion.md
 #, fuzzy
-#| msgid "[Center Tile](../keywords/center_tile.md)"
+#| msgid "[Center Tile](../tiles/index.md#center-tiles)"
 msgid "[Negative Morale](../keywords/negative_morale.md) Cards"
-msgstr "[Loseta Central](../keywords/center_tile.md)"
+msgstr "[Loseta Central](../tiles/index.md#center-tiles)"

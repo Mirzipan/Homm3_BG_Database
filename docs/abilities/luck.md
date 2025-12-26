@@ -5,11 +5,11 @@
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: You can reroll a [Treasure die](../dice.md#treasure-die) and a [Resource die](../dice.md#resource-die) once during this turn.</p>
+<p style="text-align: center;" markdown>:ongoing: You can reroll a [Treasure die](../keywords/dice.md#treasure-die) and a [Resource die](../keywords/dice.md#resource-die) once during this turn.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:ongoing: You can reroll any [die](../dice.md) once during this turn.</p>
+<p style="text-align: center;" markdown>:ongoing: You can reroll any [die](../keywords/dice.md) once during this turn.</p>
 ___
 
 
@@ -33,4 +33,4 @@ ___
 ## See Also
 
 - [List of Abilities](index.md)
-- [Dice](../dice.md)
+- [Dice](../keywords/dice.md)

@@ -4,7 +4,7 @@ search:
 ---
 # List of Towns
 
-| Name | [Content](../content/index.md) |
+| Name | Content |
 | :--- | :--- |
 | [Castle](castle.md) | [Core Game](../content/core_game.md) |
 | [Necropolis](necropolis.md) | [Core Game](../content/core_game.md) |

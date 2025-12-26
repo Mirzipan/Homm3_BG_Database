@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Revisitable Field](../keywords/revisitable_field.md)</p>
+<p style="text-align: center;" markdown>[Revisitable Field](index.md#revisitable-field)</p>
 ___
 <p style="text-align: center;" markdown>Gain +1 :movement: for this turn.</p>
 ___

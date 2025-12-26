@@ -1,7 +1,7 @@
 # #C3
 
 ___
-[Subterranean Tile](../keywords/subterranean_tile.md)
+[Subterranean Tile](../tiles/index.md#subterranean-tiles)
 ___
 Subterranean
 ___
@@ -14,7 +14,7 @@ ___
 - [:morale_positive: Temple](../fields/temple.md)
 - [Ⅶ](../difficulties.md) [Random Town](../towns/index.md)
 - [Ⅵ](../difficulties.md) [2 :treasure: / 2 :resource_die: → 1 Pandora's Box](../fields/pandoras_box.md)
-- [Blocked Field](../keywords/blocked_field.md)
+- [Blocked Field](../fields/blocked_field.md)
 - [Magic Spring](../fields/magic_spring.md)
 
 

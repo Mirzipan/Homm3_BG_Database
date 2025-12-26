@@ -368,6 +368,6 @@ msgstr "[Facción Ensenada](../towns/cove.md)"
 #. type: Bullet: '- '
 #: docs/content/cove_expansion.md
 #, fuzzy
-#| msgid "[Far Tile](../keywords/far_tile.md)"
-msgid "[Sea Tiles](../keywords/sea_tile.md)"
-msgstr "[Loseta Lejana](../keywords/far_tile.md)"
+#| msgid "[Far Tile](../tiles/index.md#far-tiles)"
+msgid "[Sea Tiles](../tiles/index.md#sea-tiles)"
+msgstr "[Loseta Lejana](../tiles/index.md#far-tiles)"

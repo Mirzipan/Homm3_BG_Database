@@ -2,7 +2,7 @@
 
 ![Legs of Legion](../assets/artifacts_minor-legs_of_legion.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Minor Artifact](../keywords/minor_artifact.md)</p>
+<p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Reduce the Recruitment or Reinforcement cost of a [unit](../units/index.md) by 4 :gold: - to a minimum of 0.<br><br>— OR —<br><br>:instant: Gain 2 :gold:.</p>
 ___
