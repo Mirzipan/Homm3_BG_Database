@@ -19,7 +19,7 @@ ___
 
 ## Notes
 
-- The [Dragon Utopia](dragon_utopia.md) that may be listed in a scenario's description refers to a location on the [Center Map tile](.,/tiles/index.md#center-tiles) and is not the same as a [Creature Bank](creature_bank.md) Dragon Utopia. In other words, unless explicitly stated otherwise, a [Creature Bank](creature_bank.md) Dragon Utopia **does not qualify** to meet a scenario's Victory Conditions by virtue of being a [Dragon Utopia](dragon_utopia.md). It may, however, help you meet other types of Victory Conditions, like the ones involving every field on a tile, for instance.
+- The [Dragon Utopia](dragon_utopia.md) that may be listed in a scenario's description refers to a location on the [Center Map tile](../tiles/index.md#center-tiles) and is not the same as a [Creature Bank](creature_bank.md) Dragon Utopia. In other words, unless explicitly stated otherwise, a [Creature Bank](creature_bank.md) Dragon Utopia **does not qualify** to meet a scenario's Victory Conditions by virtue of being a [Dragon Utopia](dragon_utopia.md). It may, however, help you meet other types of Victory Conditions, like the ones involving every field on a tile, for instance.
 
 
 ## Comes With
