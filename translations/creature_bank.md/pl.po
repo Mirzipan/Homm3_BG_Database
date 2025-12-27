@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-26 23:14+0000\n"
+"POT-Creation-Date: 2025-12-27 00:30+0000\n"
 "PO-Revision-Date: 2025-12-26 19:18+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -705,7 +705,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/fields/creature_bank.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>Each player immediately gains 1 :morale_positive:</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Green - Player Deployment Zone<br>Red - Guards Deployment Zone</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>P - Player Deployment Zone<br>N - Guards Deployment Zone</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>Każdy gracz natychmiast otrzymuje 1 :morale_positive:</p>\n"
 
 #. type: Plain text

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-26 23:14+0000\n"
+"POT-Creation-Date: 2025-12-27 00:30+0000\n"
 "PO-Revision-Date: 2025-12-26 19:18+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -707,7 +707,7 @@ msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 #: docs/fields/creature_bank.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>[Event](index.md)</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Green - Player Deployment Zone<br>Red - Guards Deployment Zone</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>P - Player Deployment Zone<br>N - Guards Deployment Zone</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Evénement](index.md)</p>\n"
 
 #. type: Plain text
