@@ -18,18 +18,30 @@
         ![Neutral Wraiths](../assets/units-neutral-bronze-wraiths.webp){ width="340" align=right }
     </figure>
 
+=== "Crypt"
 
-| Statistics | Few | Pack | Neutral |
-| :--- | :---: | :---: | :---: |
-| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
-| :attack: | 3 | 3 | 2 |
-| :defense: | 0 | 0 | 0 |
-| :health_points: | 3 | **5** | 4 |
-| :initiative: | 5 | **7** | 7 |
-| Cost | 4 :gold: | 6 :gold: | 7 :gold: |
-| Abilities | :activation: Remove up to 1 :damage: from this unit. | :activation: Remove up to 1 :damage: from this unit, then discard 1 random card from the enemy's hand. | :activation: Remove up to 2 :damage: from this unit. |
+    <figure markdown="span">
+        ![Crypt Wraiths](../assets/units-blank-bronze.webp){ width="340" align=right }
+    </figure>
+
+=== "Shipwreck"
+
+    <figure markdown="span">
+        ![Shipwreck Wraiths](../assets/units-blank-bronze.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral | Crypt | Shipwreck |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | - | - |
+| Tier | :bronze: | :bronze: | :bronze: | - | - |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
+| :attack: | 3 | 3 | 2 | 2 | 2 |
+| :defense: | 0 | 0 | 0 | 0 | 0 |
+| :health_points: | 3 | **5** | 4 | 3 | 3 |
+| :initiative: | 5 | **7** | 7 | 5 | 5 |
+| Cost | 4 :gold: | 6 :gold: | 7 :gold: | - | - |
+| Abilities | :activation: Remove up to 1 :damage: from this unit. | :activation: Remove up to 1 :damage: from this unit, then discard 1 random card from the enemy's hand. | :activation: Remove up to 2 :damage: from this unit. | :unit_passive: Whenever this unit attacks, the enemy must discard 1 card from hand (if possible). | :unit_passive: Whenever this unit attacks, the enemy must discard 1 card from hand (if possible). |
 
 
 ## Notes
@@ -41,9 +53,12 @@
 ## Comes With
 
 - [Core Game](../content/core_game.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Crypt and Shipwreck)
 
 
 ## See Also
 
+- [Crypt (Creature Bank)](../fields/crypt_creature_bank.md)
+- [Shipwreck (Creature Bank)](../fields/shipwreck_creature_bank.md)
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)

@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | 🚧 |
-| :attack: | 2 | 2 | 🚧 |
-| :defense: | 0 | 0 | 🚧 |
-| :health_points: | 2 | **4** | 🚧 |
-| :initiative: | 7 | **9** | 🚧 |
-| Cost | 2 :gold: | 4 :gold: | 🚧 |
-| Abilities | - | :unit_attack: Ignore Enemy's Retaliation Attack. | 🚧 |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
+| :attack: | 2 | 2 | 2 |
+| :defense: | 0 | 0 | 0 |
+| :health_points: | 2 | **4** | 2 |
+| :initiative: | 7 | **9** | 7 |
+| Cost | 2 :gold: | 4 :gold: | 2 :gold: |
+| Abilities | - | :unit_attack: Ignores Retaliation Attacks. | :unit_attack: Ignore the Retaliation Attacks. |
 
 
 ## Comes With

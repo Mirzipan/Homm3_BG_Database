@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | 🚧 |
-| :attack: | 2 | 2 | 🚧 |
-| :defense: | 0 | 0 | 🚧 |
-| :health_points: | 3 | **4** | 🚧 |
-| :initiative: | 6 | **8** | 🚧 |
-| Cost | 2 :gold: | 3 :gold: | 🚧 |
-| Abilities | - | :unit_passive: Ignore any effect from spells from the [School of Water Magic](../spells/school_of_water_magic.md). | 🚧 |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
+| :attack: | 2 | **3** | 2 |
+| :defense: | 0 | 0 | 0 |
+| :health_points: | 3 | 3 | 3 |
+| :initiative: | 6 | **8** | 6 |
+| Cost | 2 :gold: | 3 :gold: | 3 :gold: |
+| Abilities | - | :unit_passive: Ignore all effects and :damage: from [:spellpower:](../spells/index.md). | :unit_passive: Ignore all effects and :damage: from [:spellpower:](../spells/index.md). |
 
 
 ## Comes With

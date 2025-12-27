@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | 🚧 |
-| :attack: | 3 | 3 | 🚧 |
-| :defense: | 1 | 1 | 🚧 |
-| :health_points: | 5 | **6** | 🚧 |
-| :initiative: | 9 | **11** | 🚧 |
-| Cost | 6 :gold: | 10 :gold: | 🚧 |
-| Abilities | - | :unit_attack: If the attack reduces the target to 0 :health_points:, the Ayssids can attack another unit adjacent to them. | 🚧 |
+| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
+| :attack: | 3 | 3 | 3 |
+| :defense: | 1 | 1 | 1 |
+| :health_points: | 5 | **6** | 5 |
+| :initiative: | 9 | **11** | 9 |
+| Cost | 6 :gold: | 10 :gold: | 9 :gold: |
+| Abilities | - | :unit_attack: If the target is reduced to 0 :health_points:, after resolving the :unit_retaliation: (if applicable), the Ayssids can attack another adjacent unit. | :unit_attack: If the target is reduced to 0 :health_points:, after resolving the :unit_retaliation: (if applicable), the Ayssids can attack another adjacent unit. |
 
 
 ## Comes With

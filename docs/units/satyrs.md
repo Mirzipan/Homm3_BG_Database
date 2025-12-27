@@ -14,8 +14,8 @@
 | :defense: | 0 |
 | :health_points: | 5 |
 | :initiative: | 7 |
-| Cost | 11 :gold: |
-| Abilities | :effect_map: Roll a [die](../keywords/dice.md#attack-die). On a "-1" outcome, gain a :morale_positive: token. |
+| Cost | 10 :gold: |
+| Abilities | :effect_map: Once per turn. Roll an [Attack die](../keywords/dice.md#attack-die). On a "+1", gain :morale_positive:. |
 
 
 ## Comes With
