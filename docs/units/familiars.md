@@ -18,18 +18,24 @@
         ![Neutral Familiars](../assets/units-neutral-bronze-familiars.webp){ width="340" align=right }
     </figure>
 
+=== "Imp Cache"
 
-| Statistics | Few | Pack | Neutral |
-| :--- | :---: | :---: | :---: |
-| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
-| :attack: | 2 | **3** | 3 |
-| :defense: | 1 | 1 | 1 |
-| :health_points: | 2 | 2 | 2 |
-| :initiative: | 5 | **7** | 7 |
-| Cost | 2 :gold: | 3 :gold: | 6 :gold: |
-| Abilities | - | :unit_passive: Whenever an enemy casts a [:spellpower:](../spells/index.md) from hand, they must discard 1 card from hand. | :unit_passive: Whenever an enemy cast a [:spellpower:](../spells/index.md) from hand, they must discard 1 card from hand. |
+    <figure markdown="span">
+        ![Imp Cache Familiars](../assets/units-blank-bronze.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral | Imp Cache |
+| :--- | :---: | :---: | :---: | :---: |
+| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) | - |
+| Tier | :bronze: | :bronze: | :bronze: | - |
+| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| :attack: | 2 | **3** | 3 | 1 |
+| :defense: | 1 | 1 | 1 | 0 |
+| :health_points: | 2 | 2 | 2 | 2 |
+| :initiative: | 5 | **7** | 7 | 5 |
+| Cost | 2 :gold: | 3 :gold: | 6 :gold: | - |
+| Abilities | - | :unit_passive: Whenever an enemy casts a [:spellpower:](../spells/index.md) from hand, they must discard 1 card from hand. | :unit_passive: Whenever an enemy cast a [:spellpower:](../spells/index.md) from hand, they must discard 1 card from hand. | :unit_passive: As long as this unit is Stacked, whenever the enemy casts a spell, reduce their :empower: by 1 (to a minimum of 0).
 
 
 ## Notes
@@ -40,9 +46,11 @@
 ## Comes With
 
 - [Inferno Expansion](../content/inferno_expansion.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Imp Cache)
 
 
 ## See Also
 
+- [Imp Cache (Creature Bank)](../fields/imp_cache_creature_bank.md)
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)

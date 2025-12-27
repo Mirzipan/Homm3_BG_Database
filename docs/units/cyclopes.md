@@ -18,18 +18,24 @@
         ![Neutral Cyclopes](../assets/units-blank-golden.webp){ width="340" align=right }
     </figure>
 
+=== "Cyclops Stockpile"
 
-| Statistics | Few | Pack | Neutral |
-| :--- | :---: | :---: | :---: |
-| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |
-| Tier | :golden: | :golden: | :golden: |
-| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | 🚧 |
-| :attack: | 4 | **5** | 🚧 |
-| :defense: | 1 | 1 | 🚧 |
-| :health_points: | 6 | **7** | 🚧 |
-| :initiative: | 6 | **8** | 🚧 |
-| Cost | 13 :gold: | 17 :gold:<br>1 :valuables: | 🚧 |
-| Abilities | :unit_other: This unit can destroy the Gate or a Wall. | :unit_other: This unit can destroy the Gate, a Wall, or the [Arrow Tower](arrow_tower.md). | 🚧 |
+    <figure markdown="span">
+        ![Cyclops Stockpile Cyclopes](../assets/units-blank-golden.webp){ width="340" align=right }
+    </figure>
+
+
+| Statistics | Few | Pack | Neutral | Cyclops Stockpile |
+| :--- | :---: | :---: | :---: | :---: |
+| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) | - |
+| Tier | :golden: | :golden: | :golden: | - |
+| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |
+| :attack: | 5 | 5 | 5 | 5 |
+| :defense: | 0 | **1** | 1 | 1 |
+| :health_points: | 6 | **7** | 6 | 5 |
+| :initiative: | 6 | **8** | 8 | 8 |
+| Cost | 13 :gold: | 17 :gold:<br>1 :valuables: | 19 :gold: | - |
+| Abilities | :unit_other: This unit can destroy the Gate or a Wall. | :unit_other: This unit can destroy the Gate, a Wall, or the [Arrow Tower](arrow_tower.md). | :unit_other: This unit can destroy a Wall, the Gate, or the [Arrow Tower](arrow_tower.md). | - |
 
 
 ## Heroes With A Specialty
@@ -40,9 +46,11 @@
 ## Comes With
 
 - [Stronghold Expansion](../content/stronghold_expansion.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Cyclops Stockpile)
 
 
 ## See Also
 
+- [Cyclops Stockpile (Creature Bank)](../fields/cyclops_stockpile_creature_bank.md)
 - [List of Units](index.md)
 - [List of Towns](../towns/index.md)

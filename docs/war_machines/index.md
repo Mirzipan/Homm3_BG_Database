@@ -4,6 +4,12 @@ search:
 ---
 # War Machines
 
+War machines can be typically purchased either at the [Blacksmith](../fields/war_machine_factory.md) or at the [Trading Post](../fields/trading_post.md).
+There may be some [Astrologers Proclaim](../astrologers_proclaim/index.md), [Event](../events/index.md), or [Hero Specialty](../heroes/index.md) cards that allow purchase of War Machines as well.
+
+
+# List of War Machines
+
 
 | Name | Ability | Cost at Blacksmith | Cost at Trade Post | [Content](../content/index.md) |
 | :--- | :--- | ---: | ---: | :--- |

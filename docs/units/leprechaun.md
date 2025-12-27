@@ -14,7 +14,7 @@
 | :defense: | 0 |
 | :health_points: | 3 |
 | :initiative: | 5 |
-| Cost | 3 :gold: |
+| Cost | 4 :gold: |
 | Abilities | :unit_attack: Roll 2 [Attack dice](../keywords/dice.md#attack-die) and resolve the higher one. |
 
 

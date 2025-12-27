@@ -13,6 +13,11 @@ ___
 ___
 
 
+## Notes
+
+- Only appears on [Sea tiles](../tiles/index.md#sea-tiles).
+
+
 ## See Also
 
 - [Buoy](buoy.md)

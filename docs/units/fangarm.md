@@ -14,7 +14,7 @@
 | :defense: | 1 |
 | :health_points: | 5 |
 | :initiative: | 8 |
-| Cost | 14 :gold: |
+| Cost | 11 :gold: |
 | Abilities | :unit_passive: Ignore all [:spellpower:](../spells/index.md) and [Specialty](../heroes/index.md) effects other than :damage:. |
 
 
