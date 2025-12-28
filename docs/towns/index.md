@@ -3,7 +3,7 @@
 ## Buildings
 
 Towns have a multitude of buildings that can be built there.
-Some of them have the same functionally across all factions, and provide faction-specific efects.
+Some of them have the same functionality across all factions, and provide faction-specific effects.
 
 Below is a brief overview of the various building types.
 
