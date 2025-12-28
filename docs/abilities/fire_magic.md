@@ -13,11 +13,6 @@ ___
 ___
 
 
-## Heroes With Starting Ability
-
-- [:magic: Luna](../heroes/luna.md)
-
-
 ## Notes
 
 - The expert effect may be played either from hand, or from the field. This does, however, not add the two effects, and the ability is put into the discard pile after being played.
@@ -27,6 +22,7 @@ ___
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
 ## See Also

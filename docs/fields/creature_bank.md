@@ -25,7 +25,7 @@ They can be either placed on the [Far (Ⅱ-Ⅲ) Map tiles](../tiles/index.md#far
 
 </figure>
 
-<p style="text-align: center;" markdown>P - Player Deployment Zone<br>N - Guards Deployment Zone</p>
+<p style="text-align: center;" markdown>P - Player Deployment Zone<br>N - Guards (Neutral Units) Deployment Zone</p>
 
 When starting Combat at a Creature Bank, the player can place up to 5 of their [units](../units/index.md) in the player deployment zone.
 Neutral guard [units](../units/index.md) corresponding to the Creature Bank being visited are then placed randomly in the guards deployment zone.

@@ -5,11 +5,11 @@
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: The cost of buying [spells](../spells/index.md) in this Town is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(3)** instead of **Search(2)**.</p>
+<p style="text-align: center;" markdown>:instant: The cost of buying [spells](../spells/index.md) in this [Town](../towns/index.md) is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(3)** instead of **Search(2)**.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:instant: The cost of buying [spells](../spells/index.md) in this Town is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(4)** instead of **Search(2)**.</p>
+<p style="text-align: center;" markdown>:instant: The cost of buying [spells](../spells/index.md) in this [Town](../towns/index.md) is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(4)** instead of **Search(2)**.</p>
 ___
 
 
@@ -29,6 +29,9 @@ ___
 ## Comes With
 
 - [Core Game](../content/core_game.md)
+- [Stronghold Expansion](../content/stronghold_expansion.md)
+- [Conflux Expansion](../content/conflux_expansion.md)
+- [Cove Expansion](../content/cove_expansion.md)
 
 
 ## See Also

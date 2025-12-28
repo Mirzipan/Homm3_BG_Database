@@ -24,6 +24,8 @@ ___
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)
+- [Stronghold Expansion](../content/stronghold_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
 ## See Also

@@ -31,6 +31,9 @@ ___
 ## Comes With
 
 - [Core Game](../content/core_game.md)
+- [Stronghold Expansion](../content/stronghold_expansion.md)
+- [Cove Expansion](../content/cove_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
 ## See Also

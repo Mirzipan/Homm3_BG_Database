@@ -22,6 +22,7 @@ ___
 ## Comes With
 
 - [Core Game](../content/core_game.md)
+- [Cove Expansion](../content/cove_expansion.md)
 
 
 ## See Also

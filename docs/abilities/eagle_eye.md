@@ -21,6 +21,7 @@ ___
 ## Comes With
 
 - [Fortress Expansion](../content/fortress_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
 ## See Also

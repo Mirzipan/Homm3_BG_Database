@@ -9,7 +9,7 @@ ___
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:effect_map: Your Hero can move over the yellow border and blocked fields, but cannot end movement on them.</p>
+<p style="text-align: center;" markdown>:effect_map: Your Hero can move over the yellow border and [blocked fields](../fields/blocked_field.md), but cannot end movement on them.</p>
 ___
 
 
@@ -26,6 +26,7 @@ ___
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
 ## See Also

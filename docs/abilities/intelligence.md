@@ -28,6 +28,7 @@ ___
 ## Comes With
 
 - [Core Game](../content/core_game.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
 ## See Also

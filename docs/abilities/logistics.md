@@ -30,6 +30,7 @@ ___
 ## Comes With
 
 - [Core Game](../content/core_game.md)
+- [Conflux Expansion](../content/conflux_expansion.md)
 
 
 ## See Also
