@@ -124,7 +124,7 @@ Although these are not strictly speaking Units, they can be part of Combat and h
 
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
-| Name | Town | # |Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities | Content |
+| Name | Town | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities | Content |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- | :--- |
 | [Halberdiers](halberdiers.md) | [Castle](../towns/castle.md) | Few | :bronze: | [:unit_ground:](index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - | [Core Game](../content/core_game.md) |
 | [Halberdiers](halberdiers.md) | [Castle](../towns/castle.md) | Pack | :bronze: | [:unit_ground:](index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: When the unit is targeted by any attack, you can discard a card and ignore the [Attack die's](../keywords/dice.md#attack-die) roll result. | [Core Game](../content/core_game.md) |
