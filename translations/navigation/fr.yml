@@ -1,7 +1,6 @@
 nav:
   - Accueil: "index.md"
   - "*.md"
-  - Dés: "dice.md"
   - Niveaux de Difficulté: "difficulties.md"
   - Liste des Symboles: "legend.md"
   - Conversion Ressources: "trading.md"

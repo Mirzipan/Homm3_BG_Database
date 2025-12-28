@@ -13,7 +13,6 @@ nav:
      - "units/*.md"
   - Kafelki:
      - "tiles/*.md"
-  - Kości: "dice.md"
   - Machiny Wojenne:
      - "war_machines/*.md"
   - Miasta:
