@@ -5,11 +5,11 @@
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: The cost of buying [spells](../spells/index.md) in this [Town](../towns/index.md) is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(3)** instead of **Search(2)**.</p>
+<p style="text-align: center;" markdown>:instant: The cost of buying [spells](../spells/index.md) in this [Town](../towns/index.md) is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Mage Guild, do [**Search(3)**](../keywords/search.md) instead of [**Search(2)**](../keywords/search.md).</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:instant: The cost of buying [spells](../spells/index.md) in this [Town](../towns/index.md) is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Magic Guild, do **Search(4)** instead of **Search(2)**.</p>
+<p style="text-align: center;" markdown>:instant: The cost of buying [spells](../spells/index.md) in this [Town](../towns/index.md) is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Mage Guild, do [**Search(4)**](../keywords/search.md) instead of [**Search(2)**](../keywords/search.md).</p>
 ___
 
 

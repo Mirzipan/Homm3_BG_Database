@@ -9,7 +9,7 @@ ___
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:effect_map: Remove up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile. Remove the Scholar.</p>
+<p style="text-align: center;" markdown>:effect_map: [Remove](../keywords/remove.md) up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile. [Remove](../keywords/remove.md) the Scholar.</p>
 ___
 
 

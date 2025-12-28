@@ -1,24 +1,12 @@
-# Necromancy
+# Necromancy (Empowered)
 
-![Necromancy](../assets/abilities-necromancy.webp){ width="340" align=right }
+![Empowered Necromancy](../assets/player-deck-back.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:effect_map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down).</p>
-___
-<p style="text-align: center;" markdown> :expert: </p>
-
 <p style="text-align: center;" markdown>:effect_map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down).</p>
 ___
-
-
-## Heroes With Starting Ability
-
-- [:might: Lord Haart (Necropolis)](../heroes/lord_haart_necropolis.md)
-- [:might: Moandor](../heroes/moandor.md)
-- [:magic: Septienna](../heroes/septienna.md)
-- [:magic: Vidomina](../heroes/vidomina.md)
 
 
 ## Notes
@@ -31,8 +19,7 @@ ___
 
 ## Comes With
 
-- [Core Game](../content/core_game.md)
-- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md)
 
 
 ## See Also

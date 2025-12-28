@@ -5,11 +5,11 @@
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: At the end of your turn, move your Hero's model to an adjacent empty field.</p>
+<p style="text-align: center;" markdown>:ongoing: At the end of your turn, move your [Hero's](../heroes/index.md) model to an adjacent [empty field](../fields/empty_field.md).</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:instant: Your Hero gains +1 Movement.</p>
+<p style="text-align: center;" markdown>:instant: Your [Hero](../heroes/index.md) gains +1 Movement.</p>
 ___
 
 

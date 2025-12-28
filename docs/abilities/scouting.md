@@ -5,11 +5,11 @@
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Play this card before taking a **Search** action, then do **Search(3)** instead.</p>
+<p style="text-align: center;" markdown>:instant: Play this card before taking a [**Search**](../keywords/search.md) action, then do [**Search(3)**](../keywords/search.md) instead.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:instant: Play this card before taking a **Search** action, then do **Search(5)** instead.</p>
+<p style="text-align: center;" markdown>:instant: Play this card before taking a [**Search**](../keywords/search.md) action, then do [**Search(5)**](../keywords/search.md) instead.</p>
 ___
 
 

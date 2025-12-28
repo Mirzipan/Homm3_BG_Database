@@ -9,7 +9,7 @@ ___
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:instant: Play this card immediately after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card and all other cards player together with it, take them back to your hand.</p>
+<p style="text-align: center;" markdown>:instant: Play this card immediately after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card and all other cards played together with it, take them back to your hand.</p>
 ___
 
 

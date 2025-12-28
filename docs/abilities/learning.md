@@ -9,7 +9,7 @@ ___
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:instant: Play when the [Hero](../heroes/index.md) is about to level up. Advance their Experience Level by an additional level, then Remove this card.</p>
+<p style="text-align: center;" markdown>:instant: Play when the [Hero](../heroes/index.md) is about to level up. Advance their Experience Level by an additional level, then [Remove](../keywords/remove.md) this card.</p>
 ___
 
 
