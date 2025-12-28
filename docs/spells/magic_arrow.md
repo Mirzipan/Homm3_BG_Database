@@ -22,6 +22,10 @@ ___
 - [Rampart Expansion](../content/rampart_expansion.md)
 - [Fortress Expansion](../content/fortress_expansion.md)
 - [Inferno Expansion](../content/inferno_expansion.md)
+- [Stronghold Expansion](../content/stronghold_expansion.md)
+- [Conflux Expansion](../content/conflux_expansion.md)
+- [Cove Expansion](../content/cove_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) (Alternate Heroes 2 art)
 
 
 ## See Also
