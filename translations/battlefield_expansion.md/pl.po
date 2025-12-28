@@ -342,11 +342,11 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/content/battlefield_expansion.md
 #, fuzzy
-msgid "[Positive Morale](../keywords/positive_morale.md) Cards"
+msgid "[Positive Morale](../keywords/morale.md#positive) Cards"
 msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Bullet: '- '
 #: docs/content/battlefield_expansion.md
 #, fuzzy
-msgid "[Negative Morale](../keywords/negative_morale.md) Cards"
+msgid "[Negative Morale](../keywords/morale.md#negative) Cards"
 msgstr "[Lista Jednostek](units/index.md)"

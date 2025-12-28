@@ -555,5 +555,5 @@ msgstr ""
 #. type: Plain text
 #: docs/fields/temple.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Gain [:morale_positive:](../keywords/positive_morale.md) token.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Gain [:morale_positive:](../keywords/morale.md#positive) token.</p>\n"
 msgstr ""

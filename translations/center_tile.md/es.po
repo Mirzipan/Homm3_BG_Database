@@ -54,9 +54,9 @@ msgstr ""
 #: docs/keywords/ground_unit.md docs/keywords/health_points.md
 #: docs/keywords/initiative_value.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
-#: docs/keywords/negative_morale.md docs/keywords/obstacle.md
+#: docs/keywords/morale.md#negative docs/keywords/obstacle.md
 #: docs/keywords/paralysis.md docs/keywords/permanent_effect.md
-#: docs/keywords/positive_morale.md docs/keywords/ranged_unit.md
+#: docs/keywords/morale.md#positive docs/keywords/ranged_unit.md
 #: docs/keywords/recruit.md docs/keywords/reinforce.md
 #: docs/keywords/relic_artifact.md docs/keywords/remove.md
 #: docs/keywords/resource_die.md docs/keywords/revisitable_field.md

@@ -555,5 +555,5 @@ msgstr "![Ubicación de Fuente de la Juventud](../assets/locations-fountain_of_y
 #: docs/fields/fountain_of_youth.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>Gain :morale_positive: token. Gain +1 :movement: for this turn.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Gain [:morale_positive:](../keywords/positive_morale.md) token. Gain +1 :movement: for this turn.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Gain [:morale_positive:](../keywords/morale.md#positive) token. Gain +1 :movement: for this turn.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>Gana una ficha de :morale_positive:. Gana +1 :movement: durante este turno.</p>\n"

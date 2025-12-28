@@ -554,5 +554,5 @@ msgstr ""
 #. type: Plain text
 #: docs/fields/warriors_tomb.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[**Search(2)**](../keywords/search.md) [Artifacts](../artifacts/index.md) twice, then gain [:morale_negative:](../keywords/negative_morale.md) token twice.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[**Search(2)**](../keywords/search.md) [Artifacts](../artifacts/index.md) twice, then gain [:morale_negative:](../keywords/morale.md#negative) token twice.</p>\n"
 msgstr ""

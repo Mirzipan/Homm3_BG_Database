@@ -554,5 +554,5 @@ msgstr ""
 #: docs/fields/fountain_of_youth.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Gain [:morale_positive:](../keywords/positive_morale.md) token. Gain +1 :movement: for this turn.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Gain [:morale_positive:](../keywords/morale.md#positive) token. Gain +1 :movement: for this turn.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Pole Jednorazowe](../keywords/visitable_field.md)</p>\n"

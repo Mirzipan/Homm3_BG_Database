@@ -844,7 +844,7 @@ msgstr ""
 #: docs/astrologers_proclaim/society.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Each player gains [:morale_negative:](../keywords/negative_morale.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Each player gains [:morale_negative:](../keywords/morale.md#negative).</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keywords/visitable_field.md)</p>\n"
 
 #. type: Plain text

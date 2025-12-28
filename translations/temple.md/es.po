@@ -555,5 +555,5 @@ msgstr ""
 #: docs/fields/temple.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../artifacts/index.md#minor-artifacts)</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Gain [:morale_positive:](../keywords/positive_morale.md) token.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Gain [:morale_positive:](../keywords/morale.md#positive) token.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../artifacts/index.md#minor-artifacts)</p>\n"

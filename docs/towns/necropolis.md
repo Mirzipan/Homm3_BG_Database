@@ -1,5 +1,8 @@
 # Necropolis
 
+Also shown as :necro:.
+
+
 ## Buildings
 
 === "Empty"

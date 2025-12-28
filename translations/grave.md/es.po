@@ -556,5 +556,5 @@ msgstr "![Ubicación de Grial](../assets/locations-grail.webp){ width=\"475\" al
 #: docs/fields/grave.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>:instant: Select 2 [Spell](../spells/index.md) cards from your discard pile and put them back in your hand.<br><br>— OR —<br><br>:instant: Remove 1 [:spellpower:](../spells/index.md) from hand, then **Search(2)** [:spellpower:](../spells/index.md).</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Gain gain [Negative Morale](../keywords/negative_morale.md) token, 3 :gold:, and [**Search(2)**](../keywords/search.md) [:artifact:](../artifacts/index.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Gain gain [Negative Morale](../keywords/morale.md#negative) token, 3 :gold:, and [**Search(2)**](../keywords/search.md) [:artifact:](../artifacts/index.md).</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>:instant: Selecciona 2 cartas de [Hehizol](../spells/index.md) de tu pila de descarte y devuélvelas a tu mano.<br><br>— O —<br><br>:instant: Retira 1 [:spellpower:](../spells/index.md) de tu mano, luego **Buscar(2)** [:spellpower:](../spells/index.md).</p>\n"

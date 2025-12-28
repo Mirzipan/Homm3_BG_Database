@@ -9,9 +9,9 @@ Below is a brief overview of the various building types.
 
 | Symbol | Type | Effect |
 | :---:| :--- | :---: |
-| :city_hall: | City&nbsp;Hall | Provides a faction-specific bonus at the beginning of each Resource round. |
+| :city_hall: | City&nbsp;Hall | Provides a faction-specific bonus at the beginning of each Resource Round. |
 | :citadel: | Citadel | Unlocks [**Reinforcing**](../keywords/reinforce.md) [units](../units/index.md). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |
-| :mage_guild: | Mage&nbsp;Guild | [**Search**](../keywords/search.md) the [:spellpower: deck](../spells/index.md) when built, and then each round once for a :gold: price. |
+| :mage_guild: | Mage&nbsp;Guild | [**Search**](../keywords/search.md) the [:spellpower: deck](../spells/index.md) when built, and then each Turn once for a :gold: price. |
 | :bronze: | Bronze&nbsp;Dwelling | Unlocks [**Recruiting**](../keywords/recruit.md) of [:bronze: units](../units/index.md). |
 | :silver: | Silver&nbsp;Dwelling | Unlocks [**Recruiting**](../keywords/recruit.md) of [:silver: units](../units/index.md).<br>Requires :bronze: Dwelling to be built before. |
 | :golden: | Gold&nbsp;Dwelling | Unlocks [**Recruiting**](../keywords/recruit.md) of [:golden: units](../units/index.md).<br>Requires :silver: Dwelling to be built before. |

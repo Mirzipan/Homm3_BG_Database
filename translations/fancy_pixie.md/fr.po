@@ -893,7 +893,7 @@ msgstr ""
 #: docs/astrologers_proclaim/fancy_pixie.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Each player immediately gains 1 [:morale_positive:](../keywords/positive_morale.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Each player immediately gains 1 [:morale_positive:](../keywords/morale.md#positive)</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keywords/visitable_field.md)</p>\n"
 
 #. type: Plain text

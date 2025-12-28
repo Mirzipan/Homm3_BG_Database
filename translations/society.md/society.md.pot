@@ -845,7 +845,7 @@ msgstr ""
 #. type: Plain text
 #: docs/astrologers_proclaim/society.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Each player gains [:morale_negative:](../keywords/negative_morale.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Each player gains [:morale_negative:](../keywords/morale.md#negative).</p>\n"
 msgstr ""
 
 #. type: Plain text

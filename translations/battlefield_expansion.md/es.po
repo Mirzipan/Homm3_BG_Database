@@ -374,12 +374,12 @@ msgstr "Modo de Juego Aventura"
 #: docs/content/battlefield_expansion.md
 #, fuzzy
 #| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
-msgid "[Positive Morale](../keywords/positive_morale.md) Cards"
+msgid "[Positive Morale](../keywords/morale.md#positive) Cards"
 msgstr "<p style=\"text-align: center;\" markdown>[Lugar Visitable](../keywords/visitable_field.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/content/battlefield_expansion.md
 #, fuzzy
 #| msgid "[Center Tile](../tiles/index.md#center-tiles)"
-msgid "[Negative Morale](../keywords/negative_morale.md) Cards"
+msgid "[Negative Morale](../keywords/morale.md#negative) Cards"
 msgstr "[Loseta Central](../tiles/index.md#center-tiles)"

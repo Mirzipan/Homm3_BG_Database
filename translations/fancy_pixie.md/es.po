@@ -894,7 +894,7 @@ msgstr "![Duendecillo Elegante](../assets/astrologers_proclaim-fancy_pixie.webp)
 #: docs/astrologers_proclaim/fancy_pixie.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>[Minor Artifact](../artifacts/index.md#minor-artifacts)</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Each player immediately gains 1 [:morale_positive:](../keywords/positive_morale.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Each player immediately gains 1 [:morale_positive:](../keywords/morale.md#positive)</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Menor](../artifacts/index.md#minor-artifacts)</p>\n"
 
 #. type: Plain text

@@ -340,10 +340,10 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/content/battlefield_expansion.md
-msgid "[Positive Morale](../keywords/positive_morale.md) Cards"
+msgid "[Positive Morale](../keywords/morale.md#positive) Cards"
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/content/battlefield_expansion.md
-msgid "[Negative Morale](../keywords/negative_morale.md) Cards"
+msgid "[Negative Morale](../keywords/morale.md#negative) Cards"
 msgstr ""

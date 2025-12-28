@@ -555,5 +555,5 @@ msgstr ""
 #. type: Plain text
 #: docs/fields/grave.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Gain gain [Negative Morale](../keywords/negative_morale.md) token, 3 :gold:, and [**Search(2)**](../keywords/search.md) [:artifact:](../artifacts/index.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Gain gain [Negative Morale](../keywords/morale.md#negative) token, 3 :gold:, and [**Search(2)**](../keywords/search.md) [:artifact:](../artifacts/index.md).</p>\n"
 msgstr ""
