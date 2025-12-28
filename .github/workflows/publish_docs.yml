@@ -36,8 +36,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
 
-      - run: pip install mkdocs-material \
-               mkdocs-exclude-search \
-               mkdocs-awesome-nav
+      - run: pip install .
+        working-directory: plugin
 
       - run: mkdocs gh-deploy --force
