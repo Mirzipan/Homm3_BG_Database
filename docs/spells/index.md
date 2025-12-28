@@ -5,7 +5,7 @@ Also shown as :spellpower:.
 Each spell has an effect that can be improved upon by [**Empowering**](../keywords/empower.md) (:empower:) it.
 This makes the effect of the spell stronger, at the expense of using extra cards to do so.
 In addition to their regular effects, any spell can also be discarded to provide +1 :empower:. 
-Spells are gained by [**Searching**](../keywords/search.md) the Spell deck, either the [Mage Guild](../towns/index.md#mage-guild), by visiting [fields](../fields/index.md) or by any other effect that lets the player do the [**Search**](../keywords/search.md).
+Spells are gained by [**Searching**](../keywords/search.md) the Spell deck, either the [Mage Guild](../towns/index.md#buildings), by visiting [fields](../fields/index.md) or by any other effect that lets the player do the [**Search**](../keywords/search.md).
 
 
 ## Levels
