@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:effect_map: This turn, your [Hero](../heroes/index.md) can move through [blocked fields](../fields/blocked_field.md) and fields with [Neutral Units](../units.md#neutral-units) and Enemy Heroes without resolving them, but if the [Hero](../heroes/index.md) ends their movement on one of these fields, Combat begins.</p>
+<p style="text-align: center;" markdown>:effect_map: This turn, your [Hero](../heroes/index.md) can move through [blocked fields](../fields/blocked_field.md) and fields with [Neutral Units](../units/index.md#neutral-units) and Enemy Heroes without resolving them, but if the [Hero](../heroes/index.md) ends their movement on one of these fields, Combat begins.</p>
 ___
 
 

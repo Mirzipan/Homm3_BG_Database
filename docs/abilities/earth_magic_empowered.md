@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Earth Magic](../spells/school_of_earth_magic.md).<br><br>— OR —<br><br>While casting :spellpower: from the [School of Earth](../spells/school_of_earth_magic.md), you can discard this card, then gain +3 :empower:.</p>
+<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Earth Magic](../spells/school_of_earth_magic.md).<br><br>— OR —<br><br>:instant: When casting :spellpower: from the [School of Earth](../spells/school_of_earth_magic.md), you can discard this card, then gain +3 :empower:.</p>
 ___
 
 

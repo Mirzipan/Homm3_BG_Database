@@ -9,7 +9,7 @@ ___
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>While casting :spellpower: from the [School of Water](../spells/school_of_water_magic.md), you can discard this card, then gain +3 :empower:.</p>
+<p style="text-align: center;" markdown>When casting :spellpower: from the [School of Water](../spells/school_of_water_magic.md), you can discard this card, then gain +3 :empower:.</p>
 ___
 
 
