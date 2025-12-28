@@ -33,5 +33,6 @@ ___
 
 ## See Also
 
+- [Luck (Empowered)](luck_empowered.md)
 - [List of Abilities](index.md)
 - [Dice](../keywords/dice.md)

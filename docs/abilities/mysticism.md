@@ -27,5 +27,6 @@ ___
 
 ## See Also
 
+- [Mysticism (Empowered)](mysticism_empowered.md)
 - [List of Abilities](index.md)
 - [List of Spells](../spells/index.md)

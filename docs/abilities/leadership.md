@@ -28,4 +28,5 @@ ___
 
 ## See Also
 
+- [Leadership (Empowered)](leadership_empowered.md)
 - [List of Abilities](index.md)

@@ -21,5 +21,6 @@ ___
 
 ## See Also
 
+- [Intelligence](intelligence.md)
 - [List of Abilities](index.md)
 - [List of Spells](../spells/index.md)

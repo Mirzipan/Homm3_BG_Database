@@ -24,6 +24,7 @@ ___
 
 ## See Also
 
+- [Diplomacy](diplomacy.md)
 - [List of Abilities](index.md)
 
 

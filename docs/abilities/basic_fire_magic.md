@@ -31,5 +31,6 @@ ___
 
 ## See Also
 
+- [Basic Fire Magic (Empowered)](basic_fire_magic_empowered.md)
 - [List of Abilities](index.md)
 - [School of Fire Magic](../spells/school_of_fire_magic.md)

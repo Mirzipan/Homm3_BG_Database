@@ -37,5 +37,6 @@ ___
 
 ## See Also
 
+- [Necromancy (Empowered)](necromancy_empowered.md)
 - [List of Abilities](index.md)
 - [Necropolis Town](../towns/necropolis.md)

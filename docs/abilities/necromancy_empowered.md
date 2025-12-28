@@ -24,5 +24,6 @@ ___
 
 ## See Also
 
+- [Necromancy](necromancy.md)
 - [List of Abilities](index.md)
 - [Necropolis Town](../towns/necropolis.md)

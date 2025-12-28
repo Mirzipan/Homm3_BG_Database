@@ -16,5 +16,6 @@ ___
 
 ## See Also
 
+- [Scholar](scholar.md)
 - [List of Abilities](index.md)
 - [List of Statistics](../statistics/index.md)

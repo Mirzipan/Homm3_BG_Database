@@ -22,5 +22,6 @@ ___
 
 ## See Also
 
+- [Luck](luck.md)
 - [List of Abilities](index.md)
 - [Dice](../keywords/dice.md)

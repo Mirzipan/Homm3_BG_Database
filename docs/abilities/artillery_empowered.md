@@ -24,4 +24,5 @@ ___
 
 ## See Also
 
+- [Artillery](artillery.md)
 - [List of Abilities](index.md)

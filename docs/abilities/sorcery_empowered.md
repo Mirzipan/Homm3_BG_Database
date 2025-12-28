@@ -22,4 +22,5 @@ ___
 
 ## See Also
 
+- [Sorcery](sorcery.md)
 - [List of Abilities](index.md)

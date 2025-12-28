@@ -33,4 +33,5 @@ ___
 
 ## See Also
 
+- [First Aid (Empowered)](first_aid_empowered.md)
 - [List of Abilities](index.md)

@@ -21,5 +21,6 @@ ___
 
 ## See Also
 
+- [Basic Air Magic](basic_air_magic.md)
 - [List of Abilities](index.md)
 - [School of Air Magic](../spells/school_of_air_magic.md)

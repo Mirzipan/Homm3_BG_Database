@@ -27,5 +27,6 @@ ___
 
 ## See Also
 
+- [Air Magic (Empowered)](air_magic_empowered.md)
 - [List of Abilities](index.md)
 - [School of Air Magic](../spells/school_of_air_magic.md)

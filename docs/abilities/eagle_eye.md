@@ -26,5 +26,6 @@ ___
 
 ## See Also
 
+- [Eagle Eye (Empowered)](eagle_eye_empowered.md)
 - [List of Abilities](index.md)
 - [List of Spells](../spells/index.md)

@@ -27,5 +27,6 @@ ___
 
 ## See Also
 
+- [Scholar (Empowered)](scholar_empowered.md)
 - [List of Abilities](index.md)
 - [List of Statistics](../statistics/index.md)

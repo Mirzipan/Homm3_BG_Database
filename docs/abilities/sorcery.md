@@ -36,4 +36,5 @@ ___
 
 ## See Also
 
+- [Sorcery (Empowered)](sorcery_empowered.md)
 - [List of Abilities](index.md)

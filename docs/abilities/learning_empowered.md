@@ -16,4 +16,5 @@ ___
 
 ## See Also
 
+- [Learning](learning.md)
 - [List of Abilities](index.md)

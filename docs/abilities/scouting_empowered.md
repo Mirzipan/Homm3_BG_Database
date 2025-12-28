@@ -16,4 +16,5 @@ ___
 
 ## See Also
 
+- [Scouting](scouting.md)
 - [List of Abilities](index.md)

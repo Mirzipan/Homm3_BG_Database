@@ -35,4 +35,5 @@ ___
 
 ## See Also
 
+- [Logistics (Empowered)](logistics_empowered.md)
 - [List of Abilities](index.md)

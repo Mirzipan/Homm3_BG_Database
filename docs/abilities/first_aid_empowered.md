@@ -21,4 +21,5 @@ ___
 
 ## See Also
 
+- [First Aid](first_aid.md)
 - [List of Abilities](index.md)

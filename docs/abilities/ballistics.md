@@ -21,4 +21,5 @@ ___
 
 ## See Also
 
+- [Ballistics (Empowered)](ballistics_empowered.md)
 - [List of Abilities](index.md)

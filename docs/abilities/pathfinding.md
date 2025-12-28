@@ -31,4 +31,5 @@ ___
 
 ## See Also
 
+- [Pathfinding (Empowered)](pathfinding_empowered.md)
 - [List of Abilities](index.md)

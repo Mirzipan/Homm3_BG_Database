@@ -21,4 +21,5 @@ ___
 
 ## See Also
 
+- [Armorer](armorer.md)
 - [List of Abilities](index.md)

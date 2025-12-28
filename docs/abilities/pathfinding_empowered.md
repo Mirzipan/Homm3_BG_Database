@@ -21,4 +21,5 @@ ___
 
 ## See Also
 
+- [Pathfinding](pathfinding.md)
 - [List of Abilities](index.md)

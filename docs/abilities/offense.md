@@ -38,4 +38,5 @@ ___
 
 ## See Also
 
+- [Offense (Empowered)](offense_empowered.md)
 - [List of Abilities](index.md)

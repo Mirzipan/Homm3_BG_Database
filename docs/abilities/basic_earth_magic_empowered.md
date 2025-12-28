@@ -21,5 +21,6 @@ ___
 
 ## See Also
 
+- [Basic Earth Magic](basic_earth_magic.md)
 - [List of Abilities](index.md)
 - [School of Earth Magic](../spells/school_of_earth_magic.md)

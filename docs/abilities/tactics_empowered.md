@@ -16,4 +16,5 @@ ___
 
 ## See Also
 
+- [Tactics](tactics.md)
 - [List of Abilities](index.md)

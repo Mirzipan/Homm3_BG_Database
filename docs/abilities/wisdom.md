@@ -36,5 +36,6 @@ ___
 
 ## See Also
 
+- [Wisdom (Empowered)](wisdom_empowered.md)
 - [List of Abilities](index.md)
 - [List of Spells](../spells/index.md)

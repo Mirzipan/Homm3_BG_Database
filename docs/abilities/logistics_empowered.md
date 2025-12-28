@@ -22,4 +22,5 @@ ___
 
 ## See Also
 
+- [Logistics](logistics.md)
 - [List of Abilities](index.md)

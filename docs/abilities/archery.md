@@ -33,5 +33,6 @@ ___
 
 ## See Also
 
+- [Archery (Empowered)](archery_empowered.md)
 - [List of Abilities](index.md)
 - [List of Ranged Units](../units/index.md#ranged-units)

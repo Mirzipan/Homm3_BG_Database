@@ -35,4 +35,5 @@ ___
 
 ## See Also
 
+- [Artillery (Empowered)](artillery_empowered.md)
 - [List of Abilities](index.md)

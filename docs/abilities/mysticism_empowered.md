@@ -16,5 +16,6 @@ ___
 
 ## See Also
 
+- [Mysticism](mysticism.md)
 - [List of Abilities](index.md)
 - [List of Spells](../spells/index.md)

@@ -32,5 +32,6 @@ ___
 
 ## See Also
 
+- [Water Magic (Empowered)](water_magic_empowered.md)
 - [List of Abilities](index.md)
 - [School of Water Magic](../spells/school_of_water_magic.md)

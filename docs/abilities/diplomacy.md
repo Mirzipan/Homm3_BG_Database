@@ -34,6 +34,7 @@ ___
 
 ## See Also
 
+- [Diplomacy (Empowered)](diplomacy_empowered.md)
 - [List of Abilities](index.md)
 
 

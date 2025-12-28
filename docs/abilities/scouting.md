@@ -30,4 +30,5 @@ ___
 
 ## See Also
 
+- [Scouting (Empowered)](scouting_empowered.md)
 - [List of Abilities](index.md)

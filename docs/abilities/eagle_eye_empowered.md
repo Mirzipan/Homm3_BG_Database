@@ -16,5 +16,6 @@ ___
 
 ## See Also
 
+- [Eagle Eye](eagle_eye.md)
 - [List of Abilities](index.md)
 - [List of Spells](../spells/index.md)

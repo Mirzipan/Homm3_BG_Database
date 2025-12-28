@@ -22,5 +22,6 @@ ___
 
 ## See Also
 
+- [Water Magic](water_magic.md)
 - [List of Abilities](index.md)
 - [School of Water Magic](../spells/school_of_water_magic.md)

@@ -21,4 +21,5 @@ ___
 
 ## See Also
 
+- [Learning (Empowered)](learning_empowered.md)
 - [List of Abilities](index.md)

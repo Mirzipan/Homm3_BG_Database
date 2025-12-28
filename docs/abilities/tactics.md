@@ -27,4 +27,5 @@ ___
 
 ## See Also
 
+- [Tactics (Empowered)](tactics_empowered.md)
 - [List of Abilities](index.md)

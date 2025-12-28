@@ -21,4 +21,5 @@ ___
 
 ## See Also
 
+- [Offense](offense.md)
 - [List of Abilities](index.md)

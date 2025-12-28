@@ -26,5 +26,6 @@ ___
 
 ## See Also
 
+- [Basic Earth Magic (Empowered)](basic_earth_magic_empowered.md)
 - [List of Abilities](index.md)
 - [School of Earth Magic](../spells/school_of_earth_magic.md)

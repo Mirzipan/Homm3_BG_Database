@@ -16,4 +16,5 @@ ___
 
 ## See Also
 
+- [Estates](estates.md)
 - [List of Abilities](index.md)

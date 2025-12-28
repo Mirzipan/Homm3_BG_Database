@@ -33,4 +33,5 @@ ___
 
 ## See Also
 
+- [Armorer (Empowered)](armorer_empowered.md)
 - [List of Abilities](index.md)

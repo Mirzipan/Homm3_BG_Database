@@ -21,5 +21,6 @@ ___
 
 ## See Also
 
+- [Archery](archery.md)
 - [List of Abilities](index.md)
 - [List of Ranged Units](../units/index.md#ranged-units)
