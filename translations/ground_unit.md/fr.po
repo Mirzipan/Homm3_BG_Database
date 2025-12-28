@@ -45,7 +45,7 @@ msgstr ""
 #: docs/keywords/center_tile.md docs/keywords/damage.md
 #: docs/keywords/defense_value.md docs/keywords/empty_field.md
 #: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
-#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
+#: docs/units/index.md#flying-units docs/keywords/ground_unit.md
 #: docs/keywords/health_points.md docs/keywords/initiative_value.md
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/near_tile.md docs/keywords/obstacle.md
@@ -87,7 +87,7 @@ msgstr "Notes"
 #. type: Link reference
 #: docs/abilities/diplomacy.md
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
-#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
+#: docs/units/index.md#flying-units docs/keywords/ground_unit.md
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
@@ -96,7 +96,7 @@ msgid "[^1]: Exceptions for specific game modes. This explanation is not valid f
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
+#: docs/units/index.md#flying-units docs/keywords/ground_unit.md
 #: docs/towns/stronghold.md
 msgid ":silver: [Ogres](../units/ogres.md)"
 msgstr ""

@@ -623,12 +623,12 @@ msgid "[List of Towns](../towns/index.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/cove.md
+#: docs/units/index.md#flying-units docs/towns/cove.md
 msgid ":bronze: [Oceanids](../units/oceanids.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/cove.md
+#: docs/units/index.md#flying-units docs/towns/cove.md
 msgid ":silver: [Ayssids](../units/ayssids.md)"
 msgstr ""
 

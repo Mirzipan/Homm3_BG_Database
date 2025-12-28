@@ -1,8 +1,41 @@
----
-search:
-  exclude: true
----
-# List of Spells
+# Spells
+
+Also shown as :spellpower:.
+
+Each spell has an effect that can be improved upon by [**Empowering**](../keywords/empower.md) (:empower:) it.
+This makes the effect of the spell stronger, at the expense of using extra cards to do so.
+In addition to their regular effects, any spell can also be discarded to provide +1 :empower:. 
+Spells are gained by [**Searching**](../keywords/search.md) the Spell deck, either the [Mage Guild](../towns/index.md#mage-guild), by visiting [fields](../fields/index.md) or by any other effect that lets the player do the [**Search**](../keywords/search.md).
+
+
+## Levels
+
+### Basic Spells
+
+
+
+
+### Expert Spells
+
+
+## Schools
+
+### School of Air Magic
+
+| Name | School | Level | Effect | Content |
+| :--- | :---: | :---: | :---: | :--- |
+
+
+### School of Earth Magic
+
+
+### School of Fire Magic
+
+
+### School of Water Magic
+
+
+## List of Spells
 
 In addition to their regular effects, any spell can also be discarded to provide +1 :empower:. This option is omitted from the table below to avoid information duplication.
 
@@ -57,11 +90,3 @@ In addition to their regular effects, any spell can also be discarded to provide
 | [Prayer](prayer.md) | [Water](school_of_water_magic.md) | Expert | :instant: The selected [unit](../units/index.md) gains \* :attack:, :defense:, or :initiative::<br><br>:empower: 0 ➣ \*+1 <br>:empower: 2 ➣ \*+2 <br>:empower: 4 ➣ \*+3  | [Core Game](../content/core_game.md) |
 | [Summon Water Elemental](summon_water_elemental.md) | [Water](school_of_water_magic.md) | Expert | :activation: On a chosen empty space:<br><br>:empower: 0 ➣ No effect<br>:empower: 2 ➣ Summon a Few [Water Elementals](../units/water_elementals.md)<br>:empower: 4 ➣ Summon a Pack of [Water Elementals](../units/water_elementals.md) | [Conflux Expansion](../content/conflux_expansion.md) |
 | [Teleport](teleport.md) | [Water](school_of_water_magic.md) | Expert | :activation: During Combat, move one allied \* [unit](../units/index.md) to any empty space - ignore any obstacles or effects when moving.<br><br>:empower: 0 ➣ \*:bronze:<br>:empower: 1 ➣ \*:bronze: or :silver:<br>:empower: 2 ➣ \*:bronze: or :silver: or :golden: | [Core Game](../content/core_game.md) |
-
-
-## See Also
-
-- [School of Air Magic](school_of_air_magic.md)
-- [School of Earth Magic](school_of_earth_magic.md)
-- [School of Fire Magic](school_of_fire_magic.md)
-- [School of Water Magic](school_of_water_magic.md)

@@ -677,7 +677,7 @@ msgstr "![Colgante de Celeridad](../assets/player-deck-back.webp){ width=\"340\"
 #: docs/artifacts/necklace_of_swiftness.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>:ongoing: During this Combat, your :unit_ranged: [units](../units/index.md) ignore the combat penalty.<br><br>— OR —<br><br>:instant: A :unit_ranged: [unit](../units/index.md) of your choice gains +2 :attack:.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: During this Combat, the :initiative: of all your [:unit_ground: units](../keywords/ground_unit.md) is increased by 1.<br><br>— OR —<br><br>:activation: Move one of your units 1 space.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: During this Combat, the :initiative: of all your [:unit_ground: units](../units/index.md#ground-units) is increased by 1.<br><br>— OR —<br><br>:activation: Move one of your units 1 space.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Durante este Combate, tus [unidades](../units/index.md) :unit_ranged: ignoran la penalización de combate.<br><br>— O —<br><br>:instant: Una [unidad](../units/index.md) :unit_ranged: de tu elección gana +2 :attack:.</p>\n"
 
 #. type: Plain text

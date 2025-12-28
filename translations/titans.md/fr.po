@@ -52,7 +52,7 @@ msgstr ""
 #: docs/keywords/center_tile.md docs/keywords/damage.md
 #: docs/keywords/defense_value.md docs/keywords/dwelling.md
 #: docs/keywords/empty_field.md docs/keywords/far_tile.md
-#: docs/keywords/flaggable_field.md docs/keywords/flying_unit.md
+#: docs/keywords/flaggable_field.md docs/units/index.md#flying-units
 #: docs/keywords/ground_unit.md docs/keywords/health_points.md
 #: docs/keywords/initiative_value.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
@@ -899,7 +899,7 @@ msgid ""
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :golden: | :golden: | :azure: |\n"
-"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| Type | [:unit_ground:](../units/index.md#ground-units) | [:unit_ranged:](../units/index.md#ranged-units) | [:unit_ranged:](../units/index.md#ranged-units) |\n"
 "| :attack: | 6 | 6 | 6 |\n"
 "| :defense: | 3 | 3 | 2 |\n"
 "| :health_points: | 8 | 8 | 10 |\n"
@@ -910,7 +910,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/units/titans.md
-msgid "**Pack** - Only the Pack of Titans are a [:unit_ranged:](../keywords/ranged_unit.md). Few Titans are a [:unit_ground:](../keywords/ground_unit.md)."
+msgid "**Pack** - Only the Pack of Titans are a [:unit_ranged:](../units/index.md#ranged-units). Few Titans are a [:unit_ground:](../units/index.md#ground-units)."
 msgstr ""
 
 #. type: Bullet: '- '

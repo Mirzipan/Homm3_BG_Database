@@ -688,12 +688,12 @@ msgid "[List of Towns](../towns/index.md)"
 msgstr "[Lista de Ciudades](../towns/index.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/castle.md
+#: docs/units/index.md#flying-units docs/towns/castle.md
 msgid ":bronze: [Griffins](../units/griffins.md)"
 msgstr ":bronze: [Grifos](../units/griffins.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/castle.md
+#: docs/units/index.md#flying-units docs/towns/castle.md
 msgid ":golden: [Archangels](../units/archangels.md)"
 msgstr ":golden: [Arcángeles](../units/archangels.md)"
 

@@ -43,7 +43,7 @@ msgstr ""
 #: docs/heroes/xyron.md docs/keywords/blocked_field.md
 #: docs/keywords/center_tile.md docs/keywords/empty_field.md
 #: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
-#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
+#: docs/units/index.md#flying-units docs/keywords/ground_unit.md
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/near_tile.md docs/keywords/paralysis.md
 #: docs/keywords/permanent_effect.md docs/keywords/ranged_unit.md
@@ -741,7 +741,7 @@ msgid ""
 "| :--- | :---: |\n"
 "| Town | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :golden: |\n"
-"| Type | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| Type | [:unit_ground:](../units/index.md#ground-units) |\n"
 "| :attack: | 4 |\n"
 "| :defense: | 0 |\n"
 "| :health_points: | 7 |\n"

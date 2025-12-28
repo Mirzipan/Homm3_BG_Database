@@ -687,17 +687,17 @@ msgid "[List of Towns](../towns/index.md)"
 msgstr "[Lista de Ciudades](../towns/index.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/necropolis.md
+#: docs/units/index.md#flying-units docs/towns/necropolis.md
 msgid ":bronze: [Wraiths](../units/wraiths.md)"
 msgstr ":bronze: [Espectros](../units/wraiths.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/necropolis.md
+#: docs/units/index.md#flying-units docs/towns/necropolis.md
 msgid ":silver: [Vampires](../units/vampires.md)"
 msgstr ":silver: [Vampiros](../units/vampires.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/necropolis.md
+#: docs/units/index.md#flying-units docs/towns/necropolis.md
 msgid ":golden: [Ghost Dragons](../units/ghost_dragons.md)"
 msgstr ":golden: [Dragones Fantasma](../units/ghost_dragons.md)"
 

@@ -378,22 +378,22 @@ msgid "[List of Units](../units/index.md)"
 msgstr "[Liste des Unités](../units/index.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/neutral.md
+#: docs/units/index.md#flying-units docs/towns/neutral.md
 msgid ":silver: [Fangarm](../units/fangarm.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/neutral.md
+#: docs/units/index.md#flying-units docs/towns/neutral.md
 msgid ":azure: [Azure Dragons](../units/azure_dragons.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/neutral.md
+#: docs/units/index.md#flying-units docs/towns/neutral.md
 msgid ":azure: [Faerie Dragons](../units/faerie_dragons.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/neutral.md
+#: docs/units/index.md#flying-units docs/towns/neutral.md
 msgid ":azure: [Rust Dragons](../units/rust_dragons.md)"
 msgstr ""
 

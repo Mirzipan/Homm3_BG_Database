@@ -638,12 +638,12 @@ msgid "[List of Towns](../towns/index.md)"
 msgstr "[Liste des Villes](../towns/index.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/tower.md
+#: docs/units/index.md#flying-units docs/towns/tower.md
 msgid ":bronze: [Gargoyles](../units/gargoyles.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/tower.md
+#: docs/units/index.md#flying-units docs/towns/tower.md
 msgid ":silver: [Genies](../units/genies.md)"
 msgstr ""
 

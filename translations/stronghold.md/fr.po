@@ -621,13 +621,13 @@ msgid "[List of Towns](../towns/index.md)"
 msgstr "[Liste des Villes](../towns/index.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
+#: docs/units/index.md#flying-units docs/keywords/ground_unit.md
 #: docs/towns/stronghold.md
 msgid ":silver: [Ogres](../units/ogres.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/stronghold.md
+#: docs/units/index.md#flying-units docs/towns/stronghold.md
 msgid ":silver: [Thunderbirds](../units/thunderbirds.md)"
 msgstr ""
 

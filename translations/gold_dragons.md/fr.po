@@ -52,7 +52,7 @@ msgstr ""
 #: docs/keywords/center_tile.md docs/keywords/damage.md
 #: docs/keywords/defense_value.md docs/keywords/dwelling.md
 #: docs/keywords/empty_field.md docs/keywords/far_tile.md
-#: docs/keywords/flaggable_field.md docs/keywords/flying_unit.md
+#: docs/keywords/flaggable_field.md docs/units/index.md#flying-units
 #: docs/keywords/ground_unit.md docs/keywords/health_points.md
 #: docs/keywords/initiative_value.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
@@ -940,7 +940,7 @@ msgid ""
 "| :--- | :---: | :---: | :---: | :---: |\n"
 "| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) | - |\n"
 "| Tier | :golden: | :golden: | :golden: | - |\n"
-"| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | :azure: | [:unit_flying:](../keywords/flying_unit.md) |\n"
+"| Type | [:unit_flying:](../units/index.md#flying-units) | [:unit_flying:](../units/index.md#flying-units) | :azure: | [:unit_flying:](../units/index.md#flying-units) |\n"
 "| :attack: | 5 | **6** | 6 | 5 |\n"
 "| :defense: | 3 | 3 | 3 | 2 |\n"
 "| :health_points: | 9 | **10** | 9 | 6 |\n"

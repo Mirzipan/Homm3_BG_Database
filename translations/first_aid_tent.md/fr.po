@@ -46,7 +46,7 @@ msgstr ""
 #: docs/keywords/center_tile.md docs/keywords/damage.md
 #: docs/keywords/defense_value.md docs/keywords/empty_field.md
 #: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
-#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
+#: docs/units/index.md#flying-units docs/keywords/ground_unit.md
 #: docs/keywords/health_points.md docs/keywords/initiative_value.md
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/near_tile.md docs/keywords/obstacle.md

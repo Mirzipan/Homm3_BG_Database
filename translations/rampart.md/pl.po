@@ -630,12 +630,12 @@ msgid "[List of Towns](../towns/index.md)"
 msgstr "[Lista Miast](../towns/index.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/rampart.md
+#: docs/units/index.md#flying-units docs/towns/rampart.md
 msgid ":silver: [Pegasi](../units/pegasi.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/rampart.md
+#: docs/units/index.md#flying-units docs/towns/rampart.md
 msgid ":golden: [Gold Dragons](../units/gold_dragons.md)"
 msgstr ""
 

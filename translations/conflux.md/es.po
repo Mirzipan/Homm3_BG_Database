@@ -628,17 +628,17 @@ msgid "[List of Towns](../towns/index.md)"
 msgstr "[Lista de Ciudades](../towns/index.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/conflux.md
+#: docs/units/index.md#flying-units docs/towns/conflux.md
 msgid ":bronze: [Sprites](../units/sprites.md)"
 msgstr ":bronze: [Hadas](../units/sprites.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/conflux.md
+#: docs/units/index.md#flying-units docs/towns/conflux.md
 msgid ":silver: [Energy Elementals](../units/energy_elementals.md)"
 msgstr ":silver: [Elementales de Energía](../units/energy_elementals.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/conflux.md
+#: docs/units/index.md#flying-units docs/towns/conflux.md
 msgid ":golden: [Phoenixes](../units/phoenixes.md)"
 msgstr ":golden: [Fénixes](../units/phoenixes.md)"
 

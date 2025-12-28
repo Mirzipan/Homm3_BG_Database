@@ -45,7 +45,7 @@ msgstr ""
 #: docs/keywords/center_tile.md docs/keywords/damage.md
 #: docs/keywords/defense_value.md docs/keywords/empty_field.md
 #: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
-#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
+#: docs/units/index.md#flying-units docs/keywords/ground_unit.md
 #: docs/keywords/health_points.md docs/keywords/initiative_value.md
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/near_tile.md docs/keywords/obstacle.md
@@ -97,5 +97,5 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/obstacle.md
-msgid "[Flying units](flying_unit.md) may move through these spaces, but their movement is not allowed to end in such a space."
+msgid "[Flying units](index.md#flying-units) may move through these spaces, but their movement is not allowed to end in such a space."
 msgstr ""

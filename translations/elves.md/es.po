@@ -53,7 +53,7 @@ msgstr ""
 #: docs/keywords/center_tile.md docs/keywords/damage.md
 #: docs/keywords/defense_value.md docs/keywords/dwelling.md
 #: docs/keywords/empty_field.md docs/keywords/far_tile.md
-#: docs/keywords/flaggable_field.md docs/keywords/flying_unit.md
+#: docs/keywords/flaggable_field.md docs/units/index.md#flying-units
 #: docs/keywords/ground_unit.md docs/keywords/health_points.md
 #: docs/keywords/initiative_value.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
@@ -915,7 +915,7 @@ msgid ""
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze: | :bronze: | :bronze: |\n"
-"| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| Type | [:unit_ranged:](../units/index.md#ranged-units) | [:unit_ranged:](../units/index.md#ranged-units) | [:unit_ranged:](../units/index.md#ranged-units) |\n"
 "| :attack: | 2 | **3** | 2 |\n"
 "| :defense: | 1 | 1 | 1 |\n"
 "| :health_points: | 3 | 3 | 3 |\n"
@@ -927,7 +927,7 @@ msgstr ""
 "| :--- | :---: | :---: | :---: |\n"
 "| Ciudad | [Murallas](../towns/rampart.md) | [Murallas](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
 "| Nivel | :bronze: | :bronze: | :bronze: |\n"
-"| Tipo | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |\n"
+"| Tipo | [:unit_ranged:](../units/index.md#ranged-units) | [:unit_ranged:](../units/index.md#ranged-units) | [:unit_ranged:](../units/index.md#ranged-units) |\n"
 "| :attack: | 2 | **3** | 2 |\n"
 "| :defense: | 1 | 1 | 1 |\n"
 "| :health_points: | 3 | 3 | 3 |\n"

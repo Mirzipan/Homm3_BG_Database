@@ -640,12 +640,12 @@ msgid "[List of Towns](../towns/index.md)"
 msgstr "[Lista Miast](../towns/index.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/fortress.md
+#: docs/units/index.md#flying-units docs/towns/fortress.md
 msgid ":bronze: [Dragon Flies](../units/dragon_flies.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/fortress.md
+#: docs/units/index.md#flying-units docs/towns/fortress.md
 msgid ":golden: [Wyverns](../units/wyverns.md)"
 msgstr ""
 

@@ -29,7 +29,7 @@
 | :--- | :---: | :---: | :---: | :---: |
 | Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | - |
 | Tier | :bronze: | :bronze: | :bronze: | - |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
 | :attack: | 2 | 2 | 2 | 1 |
 | :defense: | 1 | 1 | 0 | 0 |
 | :health_points: | 3 | 3 | 4 | 2 |

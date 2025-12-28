@@ -52,7 +52,7 @@ msgstr ""
 #: docs/keywords/center_tile.md docs/keywords/damage.md
 #: docs/keywords/defense_value.md docs/keywords/dwelling.md
 #: docs/keywords/empty_field.md docs/keywords/far_tile.md
-#: docs/keywords/flaggable_field.md docs/keywords/flying_unit.md
+#: docs/keywords/flaggable_field.md docs/units/index.md#flying-units
 #: docs/keywords/ground_unit.md docs/keywords/health_points.md
 #: docs/keywords/initiative_value.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
@@ -963,7 +963,7 @@ msgstr ""
 #| "| :--- | :---: |\n"
 #| "| Town | [Neutral](../towns/neutral.md) |\n"
 #| "| Tier | :silver: |\n"
-#| "| Type | [:unit_ground:](../keywords/ground_unit.md) |\n"
+#| "| Type | [:unit_ground:](../units/index.md#ground-units) |\n"
 #| "| :attack: | 3 |\n"
 #| "| :defense: | 1 |\n"
 #| "| :health_points: | 4 |\n"
@@ -975,7 +975,7 @@ msgid ""
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :silver: | :silver: | :silver: |\n"
-"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| Type | [:unit_ground:](../units/index.md#ground-units) | [:unit_ground:](../units/index.md#ground-units) | [:unit_ground:](../units/index.md#ground-units) |\n"
 "| :attack: | 3 | **4** | 3 |\n"
 "| :defense: | 2 | 2 | 2 |\n"
 "| :health_points: | 4 | 4 | 4 |\n"
@@ -987,7 +987,7 @@ msgstr ""
 "| :--- | :---: |\n"
 "| Miasto | [Neutralne](../towns/neutral.md) |\n"
 "| Poziom | :silver: |\n"
-"| Typ | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| Typ | [:unit_ground:](../units/index.md#ground-units) |\n"
 "| :attack: | 3 |\n"
 "| :defense: | 1 |\n"
 "| :health_points: | 4 |\n"

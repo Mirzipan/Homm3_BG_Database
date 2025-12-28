@@ -687,17 +687,17 @@ msgid "[List of Towns](../towns/index.md)"
 msgstr "[Lista Miast](../towns/index.md)"
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/dungeon.md
+#: docs/units/index.md#flying-units docs/towns/dungeon.md
 msgid ":bronze: [Harpies](../units/harpies.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/dungeon.md
+#: docs/units/index.md#flying-units docs/towns/dungeon.md
 msgid ":golden: [Black Dragons](../units/black_dragons.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/keywords/flying_unit.md docs/towns/dungeon.md
+#: docs/units/index.md#flying-units docs/towns/dungeon.md
 msgid ":golden: [Manticores](../units/manticores.md)"
 msgstr ""
 
