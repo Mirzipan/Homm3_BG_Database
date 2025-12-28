@@ -31,8 +31,8 @@
     </figure>
 
 
-| Statistics | Few | Pack | Pack (Alternate) | Neutral |
-| :--- | :---: | :---: | :---: | :---: |
+| Statistics | Few | Pack | Few (Alternate) | Pack (Alternate) | Neutral |
+| :--- | :---: | :---: | :---: | :---: | :---: |
 | Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) |
 | Tier | :golden: | :golden: | :golden: | :golden: | :golden: |
 | Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |

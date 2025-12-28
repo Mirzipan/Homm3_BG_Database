@@ -54,7 +54,8 @@
 
 ## Comes With
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md) (Neutral)
 - [Naval Battles Expansion](../content/naval_battles_expansion.md) (Dragon Utopia)
 
 
