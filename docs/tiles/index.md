@@ -2,7 +2,11 @@
 
 Each map tile is divided into 7 separate [fields](../fields/index.md) that your [heroes](../heroes/index.md) can visit.
 
-<p style="text-align: center;" markdown>![Map Tiles Example](../assets/tiles-example-fields.webp){ width=540 align=right }</p>
+<figure markdown="span">
+
+![Map Tiles Example](../assets/tiles-example-fields.webp){ width=540 align=right }
+
+</figure>
 
 ## Difficulties
 
