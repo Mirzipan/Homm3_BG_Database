@@ -5,11 +5,11 @@
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Water Magic](../spells/school_of_water_magic.md).</p>
+<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Water Magic](../spells/index.md#school-of-water-magic).</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>When casting :spellpower: from the [School of Water](../spells/school_of_water_magic.md), you can discard this card, then gain +3 :empower:.</p>
+<p style="text-align: center;" markdown>When casting :spellpower: from the [School of Water](../spells/index.md#school-of-water-magic), you can discard this card, then gain +3 :empower:.</p>
 ___
 
 
@@ -34,4 +34,4 @@ ___
 
 - [Water Magic (Empowered)](water_magic_empowered.md)
 - [List of Abilities](index.md)
-- [School of Water Magic](../spells/school_of_water_magic.md)
+- [School of Water Magic](../spells/index.md#school-of-water-magic)

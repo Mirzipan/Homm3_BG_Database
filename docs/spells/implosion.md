@@ -3,7 +3,7 @@
 ![Implosion](../assets/spells-implosion.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Expert Earth Spell](school_of_earth_magic.md)</p>
+<p style="text-align: center;" markdown>[Expert Earth Spell](index.md#school-of-earth-magic)</p>
 ___
 <p style="text-align: center;" markdown>:activation: The selected [unit](../units/index.md) suffers:<br><br>:empower: 1 ➣ 2 :damage:<br>:empower: 3 ➣ 4 :damage:<br>:empower: 5 ➣ 6:damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
@@ -21,5 +21,5 @@ ___
 
 ## See Also
 
-- [School of Earth Magic](school_of_earth_magic.md)
+- [School of Earth Magic](index.md#school-of-earth-magic)
 - [List of Spells](index.md)

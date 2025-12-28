@@ -349,8 +349,8 @@ msgstr "Fourni avec"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -429,9 +429,9 @@ msgstr ""
 #: docs/spells/magic_arrow.md docs/spells/mirth.md docs/spells/misfortune.md
 #: docs/spells/prayer.md docs/spells/precision.md
 #: docs/spells/remove_obstacle.md docs/spells/resurrection.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
 #: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
@@ -444,35 +444,35 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/spells/anti-magic.md docs/spells/earthquake.md docs/spells/implosion.md
 #: docs/spells/index.md docs/spells/magic_arrow.md docs/spells/resurrection.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slow.md docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_earth_elemental.md docs/spells/town_portal.md
 #: docs/spells/view_earth.md
-msgid "[School of Earth Magic](school_of_earth_magic.md)"
-msgstr "[Ecole de magie de Terre](school_of_earth_magic.md)"
+msgid "[School of Earth Magic](index.md#school-of-earth-magic)"
+msgstr "[Ecole de magie de Terre](index.md#school-of-earth-magic)"
 
 #. type: Plain text
 #: docs/spells/implosion.md docs/spells/resurrection.md docs/spells/sorrow.md
 #: docs/spells/summon_earth_elemental.md docs/spells/town_portal.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Expert Earth Spell](school_of_earth_magic.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Expert Earth Spell](index.md#school-of-earth-magic)</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_air_magic.md docs/spells/summon_earth_elemental.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/summon_earth_elemental.md
 #: docs/spells/summon_fire_elemental.md docs/spells/summon_water_elemental.md
 msgid "[Summon Air Elemental](summon_air_elemental.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_fire_magic.md docs/spells/summon_air_elemental.md
+#: docs/spells/index.md#school-of-fire-magic docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_water_elemental.md
 msgid "[Summon Fire Elemental](summon_fire_elemental.md)"
 msgstr ""
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
+#: docs/spells/index.md#school-of-water-magic docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
 msgid "[Summon Water Elemental](summon_water_elemental.md)"
 msgstr ""

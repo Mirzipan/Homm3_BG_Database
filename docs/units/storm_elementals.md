@@ -29,7 +29,7 @@
 | :health_points: | 3 | **5** | 3 |
 | :initiative: | 7 | **8** | 7 |
 | Cost | 3 :gold: | 5 :gold: | 5 :gold: |
-| Abilities | - | :activation: Add +1 :empower: to the first [Air Magic spell](../spells/school_of_air_magic.md) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spellpower:](../spells/school_of_air_magic.md). This unit deals elemental damage. |
+| Abilities | - | :activation: Add +1 :empower: to the first [Air Magic spell](../spells/index.md#school-of-air-magic) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spellpower:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. |
 
 
 ## Comes With

@@ -456,8 +456,8 @@ msgstr "Pochodzi z"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -657,7 +657,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #. type: Plain text
 #: docs/artifacts/tome_of_air.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Find the first [Air Magic :spellpower:](../spells/school_of_air_magic.md) in the [Spell](../spells/index.md) deck. Take the [:spellpower:](../spells/index.md) into your hand or discard it. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: When playing an [Air Magic :spellpower:](../spells/school_of_air_magic.md), resolve its effect without paying the :empower: cost.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Find the first [Air Magic :spellpower:](../spells/index.md#school-of-air-magic) in the [Spell](../spells/index.md) deck. Take the [:spellpower:](../spells/index.md) into your hand or discard it. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: When playing an [Air Magic :spellpower:](../spells/index.md#school-of-air-magic), resolve its effect without paying the :empower: cost.</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -672,18 +672,18 @@ msgstr ""
 #: docs/artifacts/tome_of_water.md
 #, fuzzy
 msgid "[Tome of Earth](tome_of_earth.md)"
-msgstr "[Szkoła Ziemi](school_of_earth_magic.md)"
+msgstr "[Szkoła Ziemi](index.md#school-of-earth-magic)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/tome_of_air.md docs/artifacts/tome_of_earth.md
 #: docs/artifacts/tome_of_water.md
 #, fuzzy
 msgid "[Tome of Fire](tome_of_fire.md)"
-msgstr "[Szkoła Ognia](school_of_fire_magic.md)"
+msgstr "[Szkoła Ognia](index.md#school-of-fire-magic)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/tome_of_air.md docs/artifacts/tome_of_earth.md
 #: docs/artifacts/tome_of_fire.md
 #, fuzzy
 msgid "[Tome of Water](tome_of_water.md)"
-msgstr "[Szkoła Wody](school_of_water_magic.md)"
+msgstr "[Szkoła Wody](index.md#school-of-water-magic)"

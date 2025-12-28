@@ -5,11 +5,11 @@
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Air Magic](../spells/school_of_air_magic.md).</p>
+<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Air Magic](../spells/index.md#school-of-air-magic).</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>When casting :spellpower: from the [School of Air](../spells/school_of_air_magic.md), you can discard this card, then gain +3 :empower:.</p>
+<p style="text-align: center;" markdown>When casting :spellpower: from the [School of Air](../spells/index.md#school-of-air-magic), you can discard this card, then gain +3 :empower:.</p>
 ___
 
 
@@ -29,4 +29,4 @@ ___
 
 - [Air Magic (Empowered)](air_magic_empowered.md)
 - [List of Abilities](index.md)
-- [School of Air Magic](../spells/school_of_air_magic.md)
+- [School of Air Magic](../spells/index.md#school-of-air-magic)

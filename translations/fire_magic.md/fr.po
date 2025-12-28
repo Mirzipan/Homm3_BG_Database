@@ -486,8 +486,8 @@ msgstr ""
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -588,13 +588,13 @@ msgstr ""
 #. type: Plain text
 #: docs/abilities/fire_magic.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for spells from [School of Fire Magic](../spells/school_of_fire_magic.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for spells from [School of Fire Magic](../spells/index.md#school-of-fire-magic).</p>\n"
 msgstr ""
 
 #. type: Plain text
 #: docs/abilities/fire_magic.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>While casting :spellpower: from the [School of Fire](../spells/school_of_fire_magic.md), you can discard this card, then gain +3 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>While casting :spellpower: from the [School of Fire](../spells/index.md#school-of-fire-magic), you can discard this card, then gain +3 :empower:.</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -604,5 +604,5 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/abilities/fire_magic.md
-msgid "[School of Fire Magic](../spells/school_of_fire_magic.md)"
+msgid "[School of Fire Magic](../spells/index.md#school-of-fire-magic)"
 msgstr ""

@@ -458,8 +458,8 @@ msgstr "Viene Con"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -813,7 +813,7 @@ msgstr ""
 #| "| :health_points: | 6 | **6** | 🚧 |\n"
 #| "| :initiative: | 4 | **6** | 🚧 |\n"
 #| "| Cost | 9 :gold: | 13 :gold: | 🚧 |\n"
-#| "| Abilities | - | :activation: Add +1 :empower: to the first [Earth Magic](../spells/school_of_earth_magic.md) spell you cast during this Activation. | 🚧 |\n"
+#| "| Abilities | - | :activation: Add +1 :empower: to the first [Earth Magic](../spells/index.md#school-of-earth-magic) spell you cast during this Activation. | 🚧 |\n"
 msgid ""
 "| Statistics | Few | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
@@ -825,7 +825,7 @@ msgid ""
 "| :health_points: | 5 | 5 | 4 |\n"
 "| :initiative: | 4 | **6** | 4 |\n"
 "| Cost | 9 :gold: | 13 :gold: | 14 :gold: |\n"
-"| Abilities | - | :activation: Add +1 :empower: to the first [Earth Magic spell](../spells/school_of_earth_magic.md) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/school_of_earth_magic.md). This unit deals elemental damage. |\n"
+"| Abilities | - | :activation: Add +1 :empower: to the first [Earth Magic spell](../spells/index.md#school-of-earth-magic) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. |\n"
 msgstr ""
 "| Características | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
@@ -837,4 +837,4 @@ msgstr ""
 "| :health_points: | 6 | **6** | 🚧 |\n"
 "| :initiative: | 4 | **6** | 🚧 |\n"
 "| Cost | 9 :gold: | 13 :gold: | 🚧 |\n"
-"| Abilities | - | :activation: Add +1 :empower: to the first [Magia Terrestre](../spells/school_of_earth_magic.md) spell you cast during this Activation. | 🚧 |\n"
+"| Abilities | - | :activation: Add +1 :empower: to the first [Magia Terrestre](../spells/index.md#school-of-earth-magic) spell you cast during this Activation. | 🚧 |\n"

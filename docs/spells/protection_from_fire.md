@@ -3,9 +3,9 @@
 ![Protection from Fire](../assets/player-deck-back.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Basic Fire Spell](school_of_fire_magic.md)</p>
+<p style="text-align: center;" markdown>[Basic Fire Spell](index.md#school-of-fire-magic)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Play this card after \* from the [School of Fire Magic](school_of_fire_magic.md) is cast to ignore that [spell's](index.md) effect.<br><br>:empower: 0 ➣ \*a [Basic Spell](index.md#basic-spells)<br>:empower: 1 ➣ \*a [Basic](index.md#basic-spells) or an [Expert Spell](index.md#expert-spells)<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:instant: Play this card after \* from the [School of Fire Magic](index.md#school-of-fire-magic) is cast to ignore that [spell's](index.md) effect.<br><br>:empower: 0 ➣ \*a [Basic Spell](index.md#basic-spells)<br>:empower: 1 ➣ \*a [Basic](index.md#basic-spells) or an [Expert Spell](index.md#expert-spells)<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 
@@ -16,5 +16,5 @@ ___
 
 ## See Also
 
-- [School of Fire Magic](school_of_fire_magic.md)
+- [School of Fire Magic](index.md#school-of-fire-magic)
 - [List of Spells](index.md)

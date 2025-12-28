@@ -459,8 +459,8 @@ msgstr "Viene Con"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -814,7 +814,7 @@ msgstr ""
 #| "| :health_points: | 5 | **6** | 🚧 |\n"
 #| "| :initiative: | 5 | **8** | 🚧 |\n"
 #| "| Cost | 5 :gold: | 8 :gold: | 🚧 |\n"
-#| "| Abilities | - | :activation: Add +1 :empower: to the first [Fire Magic](../spells/school_of_fire_magic.md) spell you cast during this Activation. | 🚧 |\n"
+#| "| Abilities | - | :activation: Add +1 :empower: to the first [Fire Magic](../spells/index.md#school-of-fire-magic) spell you cast during this Activation. | 🚧 |\n"
 msgid ""
 "| Statistics | Few | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
@@ -826,7 +826,7 @@ msgid ""
 "| :health_points: | 5 | 5 | 4 |\n"
 "| :initiative: | 5 | **8** | 5 |\n"
 "| Cost | 6 :gold: | 8 :gold: | 11 :gold: |\n"
-"| Abilities | - | :activation: Add +1 :empower: to the first [Fire Magic spell](../spells/school_of_fire_magic.md) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/school_of_fire_magic.md). This unit deals elemental damage. |\n"
+"| Abilities | - | :activation: Add +1 :empower: to the first [Fire Magic spell](../spells/index.md#school-of-fire-magic) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. |\n"
 msgstr ""
 "| Características | Pocos | Manada | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
@@ -838,4 +838,4 @@ msgstr ""
 "| :health_points: | 5 | **6** | 🚧 |\n"
 "| :initiative: | 5 | **8** | 🚧 |\n"
 "| Coste | 5 :gold: | 8 :gold: | 🚧 |\n"
-"| Habilidades | - | :activation: Añade +1 :empower: al primer hechizo de [Magia Ígnea](../spells/school_of_fire_magic.md) que lances durante esta Activación. | 🚧 |\n"
+"| Habilidades | - | :activation: Añade +1 :empower: al primer hechizo de [Magia Ígnea](../spells/index.md#school-of-fire-magic) que lances durante esta Activación. | 🚧 |\n"

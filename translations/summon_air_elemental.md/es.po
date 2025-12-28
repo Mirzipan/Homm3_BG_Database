@@ -349,8 +349,8 @@ msgstr "Viene Con"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -421,11 +421,11 @@ msgstr "[Expansión de Conflujo](../content/conflux_expansion.md)"
 #: docs/spells/disrupting_ray.md docs/spells/fly.md docs/spells/fortune.md
 #: docs/spells/haste.md docs/spells/index.md docs/spells/lightning_bolt.md
 #: docs/spells/magic_arrow.md docs/spells/precision.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/summon_air_elemental.md
 #: docs/spells/view_air.md
-msgid "[School of Air Magic](school_of_air_magic.md)"
-msgstr "[Escuela de Magia Aérea](school_of_air_magic.md)"
+msgid "[School of Air Magic](index.md#school-of-air-magic)"
+msgstr "[Escuela de Magia Aérea](index.md#school-of-air-magic)"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
@@ -441,9 +441,9 @@ msgstr "[Escuela de Magia Aérea](school_of_air_magic.md)"
 #: docs/spells/magic_arrow.md docs/spells/mirth.md docs/spells/misfortune.md
 #: docs/spells/prayer.md docs/spells/precision.md
 #: docs/spells/remove_obstacle.md docs/spells/resurrection.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
 #: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
@@ -458,23 +458,23 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/dimension_door.md docs/spells/fly.md
 #: docs/spells/summon_air_elemental.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Expert Air Spell](school_of_air_magic.md)</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Hechizo de Aire Experto](school_of_air_magic.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Expert Air Spell](index.md#school-of-air-magic)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo de Aire Experto](index.md#school-of-air-magic)</p>\n"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_earth_magic.md docs/spells/summon_air_elemental.md
+#: docs/spells/index.md#school-of-earth-magic docs/spells/summon_air_elemental.md
 #: docs/spells/summon_fire_elemental.md docs/spells/summon_water_elemental.md
 msgid "[Summon Earth Elemental](summon_earth_elemental.md)"
 msgstr "[Summon Earth Elemental] (Summon_earth_elemental.md)"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_fire_magic.md docs/spells/summon_air_elemental.md
+#: docs/spells/index.md#school-of-fire-magic docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_water_elemental.md
 msgid "[Summon Fire Elemental](summon_fire_elemental.md)"
 msgstr "[Summon Fire Elemental] (Summon_fire_elemental.md)"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
+#: docs/spells/index.md#school-of-water-magic docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
 msgid "[Summon Water Elemental](summon_water_elemental.md)"
 msgstr "[Invocar Elemental de Agua](summon_water_elemental.md)"

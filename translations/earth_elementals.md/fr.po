@@ -538,8 +538,8 @@ msgstr "Fourni avec"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -908,7 +908,7 @@ msgid ""
 "| :health_points: | 2 | 2 | 5 |\n"
 "| :initiative: | 5 | 5 | 4 |\n"
 "| Cost | - | - | 16 :gold: |\n"
-"| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/school_of_earth_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/school_of_earth_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/school_of_earth_magic.md). This unit deals elemental damage. |\n"
+"| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. |\n"
 msgstr ""
 
 #. type: Bullet: '- '

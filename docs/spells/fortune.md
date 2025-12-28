@@ -3,7 +3,7 @@
 ![Fortune](../assets/spells-fortune.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Basic Air Spell](school_of_air_magic.md)</p>
+<p style="text-align: center;" markdown>[Basic Air Spell](index.md#school-of-air-magic)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Reroll one [Treasure](../keywords/dice.md#treasure-die), [Resource](../keywords/dice.md#resource-die), or [Attack die](../keywords/dice.md#attack-die) \*. Resolve the result of your choice<br><br>:empower: 0 ➣ \*once<br>:empower: 1 ➣ \*twice<br>:empower: 2 ➣ \*3 times<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
@@ -21,5 +21,5 @@ ___
 
 ## See Also
 
-- [School of Air Magic](school_of_air_magic.md)
+- [School of Air Magic](index.md#school-of-air-magic)
 - [List of Spells](index.md)

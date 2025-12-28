@@ -3,7 +3,7 @@
 ![Inferno](../assets/spells-inferno.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Expert Fire Spell](school_of_fire_magic.md)</p>
+<p style="text-align: center;" markdown>[Expert Fire Spell](index.md#school-of-fire-magic)</p>
 ___
 <p style="text-align: center;" markdown>:activation: Select a space. Now roll an [Attack die](../keywords/dice.md#attack-die) \*. All [units](../units/index.md) on this and the adjacent spaces take 1 :damage: for every "+1" rolled.<br><br>:empower: 0 ➣ \*once<br>:empower: 1 ➣ \*twice<br>:empower: 2 ➣ \*4 times<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
@@ -21,5 +21,5 @@ ___
 
 ## See Also
 
-- [School of Fire Magic](school_of_fire_magic.md)
+- [School of Fire Magic](index.md#school-of-fire-magic)
 - [List of Spells](index.md)

@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Fire Magic](../spells/school_of_fire_magic.md).<br><br>— OR —<br><br>:instant: When casting :spellpower: from the [School of Fire](../spells/school_of_fire_magic.md), you can discard this card, then gain +3 :empower:.</p>
+<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Fire Magic](../spells/index.md#school-of-fire-magic).<br><br>— OR —<br><br>:instant: When casting :spellpower: from the [School of Fire](../spells/index.md#school-of-fire-magic), you can discard this card, then gain +3 :empower:.</p>
 ___
 
 
@@ -24,4 +24,4 @@ ___
 
 - [Fire Magic](fire_magic.md)
 - [List of Abilities](index.md)
-- [School of Fire Magic](../spells/school_of_fire_magic.md)
+- [School of Fire Magic](../spells/index.md#school-of-fire-magic)

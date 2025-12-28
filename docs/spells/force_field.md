@@ -3,7 +3,7 @@
 ![Force Field](../assets/player-deck-back.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Basic Earth Spell](school_of_earth_magic.md)</p>
+<p style="text-align: center;" markdown>[Basic Earth Spell](index.md#school-of-earth-magic)</p>
 ___
 <p style="text-align: center;" markdown>:ongoing: Place this card or a Force Field token on an empty space. It counts as an Obstacle until the end of:<br><br>:empower: 0 ➣ This Combat round<br>:empower: 1 ➣ The next Combat round<br>:empower: 2 ➣ This Combat<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
@@ -16,5 +16,5 @@ ___
 
 ## See Also
 
-- [School of Earth Magic](school_of_earth_magic.md)
+- [School of Earth Magic](index.md#school-of-earth-magic)
 - [List of Spells](index.md)

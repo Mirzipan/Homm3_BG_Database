@@ -29,7 +29,7 @@
 | :health_points: | 7 | 7 | 6 |
 | :initiative: | 9 | **13** | 13 |
 | Cost | 12 :gold: | 18 :gold:<br>1 :valuables: | 20 :gold: |
-| Abilities | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the [Fire School of Magic](../spells/school_of_fire_magic.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the[Fire School of Magic](../spells/school_of_fire_magic.md). |
+| Abilities | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the [Fire School of Magic](../spells/index.md#school-of-fire-magic). | :unit_passive: Ignores any :damage: from [Magic Arrows](../spells/magic_arrow.md) or [spells](../spells/index.md) from the[Fire School of Magic](../spells/index.md#school-of-fire-magic). |
 
 
 ## Heroes With A Specialty

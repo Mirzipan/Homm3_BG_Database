@@ -3,7 +3,7 @@
 ![Air Shield](../assets/player-deck-back.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Basic Air Spell](school_of_air_magic.md)</p>
+<p style="text-align: center;" markdown>[Basic Air Spell](index.md#school-of-air-magic)</p>
 ___
 <p style="text-align: center;" markdown>:ongoing: Until the end of the Combat, the selected [unit](../units/index.md) gains \* when it is attacked by a [:unit_ranged: unit](../units/index.md#ranged-units).<br><br>:empower: 0 ➣ +1 :defense:<br>:empower: 1 ➣ +2 :defense:<br>:empower: 2 ➣ +3 :defense:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
@@ -16,5 +16,5 @@ ___
 
 ## See Also
 
-- [School of Air Magic](school_of_air_magic.md)
+- [School of Air Magic](index.md#school-of-air-magic)
 - [List of Spells](index.md)

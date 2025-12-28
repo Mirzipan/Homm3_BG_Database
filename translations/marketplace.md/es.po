@@ -350,7 +350,7 @@ msgstr "Viene Con"
 #: docs/spells/bloodlust.md docs/spells/visions.md docs/spells/fireball.md
 #: docs/spells/earthquake.md docs/spells/resurrection.md
 #: docs/spells/frost_ring.md docs/spells/frenzy.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_fire_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-fire-magic
 #: docs/spells/teleport.md docs/spells/precision.md docs/spells/dispel.md
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/mirth.md
 #: docs/spells/view_earth.md docs/spells/summon_earth_elemental.md
@@ -358,13 +358,13 @@ msgstr "Viene Con"
 #: docs/spells/counterstrike.md docs/spells/stone_skin.md docs/spells/blind.md
 #: docs/spells/index.md docs/spells/anti-magic.md docs/spells/sacrifice.md
 #: docs/spells/summon_air_elemental.md docs/spells/town_portal.md
-#: docs/spells/school_of_water_magic.md docs/spells/lightning_bolt.md
+#: docs/spells/index.md#school-of-water-magic docs/spells/lightning_bolt.md
 #: docs/spells/implosion.md docs/spells/forgetfulness.md docs/spells/slow.md
 #: docs/spells/fire_wall.md docs/spells/disrupting_ray.md
 #: docs/spells/weakness.md docs/spells/chain_lightning.md
 #: docs/spells/air_shield.md docs/spells/haste.md docs/spells/view_air.md
 #: docs/spells/remove_obstacle.md docs/spells/fly.md
-#: docs/spells/summon_water_elemental.md docs/spells/school_of_earth_magic.md
+#: docs/spells/summon_water_elemental.md docs/spells/index.md#school-of-earth-magic
 #: docs/spells/inferno.md docs/spells/summon_fire_elemental.md
 #: docs/spells/fire_shield.md docs/spells/sorrow.md docs/spells/misfortune.md
 #: docs/spells/berserk.md docs/spells/magic_arrow.md docs/spells/fortune.md

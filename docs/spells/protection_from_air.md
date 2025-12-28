@@ -3,9 +3,9 @@
 ![Protection from Air](../assets/player-deck-back.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Basic Air Spell](school_of_air_magic.md)</p>
+<p style="text-align: center;" markdown>[Basic Air Spell](index.md#school-of-air-magic)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Play this card after \* from the [School of Air Magic](school_of_air_magic.md) is cast to ignore that [spell's](index.md) effect.<br><br>:empower: 0 ➣ \*a [Basic Spell](index.md#basic-spells)<br>:empower: 1 ➣ \*a [Basic](index.md#basic-spells) or an [Expert Spell](index.md#expert-spells)<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:instant: Play this card after \* from the [School of Air Magic](index.md#school-of-air-magic) is cast to ignore that [spell's](index.md) effect.<br><br>:empower: 0 ➣ \*a [Basic Spell](index.md#basic-spells)<br>:empower: 1 ➣ \*a [Basic](index.md#basic-spells) or an [Expert Spell](index.md#expert-spells)<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 
@@ -16,5 +16,5 @@ ___
 
 ## See Also
 
-- [School of Air Magic](school_of_air_magic.md)
+- [School of Air Magic](index.md#school-of-air-magic)
 - [List of Spells](index.md)

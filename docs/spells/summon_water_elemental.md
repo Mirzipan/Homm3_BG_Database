@@ -3,7 +3,7 @@
 ![Summon Water Elemental](../assets/player-deck-back.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Expert Water Spell](school_of_water_magic.md)</p>
+<p style="text-align: center;" markdown>[Expert Water Spell](index.md#school-of-water-magic)</p>
 ___
 <p style="text-align: center;" markdown>:activation: On a chosen empty space:<br><br>:empower: 0 ➣ No effect<br>:empower: 2 ➣ [**Summon**](../keywords/summon.md) a [Few Water Elementals](../units/water_elementals.md)<br>:empower: 4 ➣ [**Summon**](../keywords/summon.md) a [Pack of Water Elementals](../units/water_elementals.md)<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
@@ -19,5 +19,5 @@ ___
 - [Summon Air Elemental](summon_air_elemental.md)
 - [Summon Earth Elemental](summon_earth_elemental.md)
 - [Summon Fire Elemental](summon_fire_elemental.md)
-- [School of Water Magic](school_of_water_magic.md)
+- [School of Water Magic](index.md#school-of-water-magic)
 - [List of Spells](index.md)

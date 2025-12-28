@@ -49,7 +49,7 @@ msgstr ""
 #. type: Plain text
 #: docs/abilities/air_magic.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for spells from [School of Air Magic](../spells/school_of_air_magic.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for spells from [School of Air Magic](../spells/index.md#school-of-air-magic).</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -74,7 +74,7 @@ msgstr ""
 #. type: Plain text
 #: docs/abilities/air_magic.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>While casting :spellpower: from the [School of Air](../spells/school_of_air_magic.md), you can discard this card, then gain +3 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>While casting :spellpower: from the [School of Air](../spells/index.md#school-of-air-magic), you can discard this card, then gain +3 :empower:.</p>\n"
 msgstr ""
 
 #. type: Title ##
@@ -509,8 +509,8 @@ msgstr ""
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -582,5 +582,5 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/abilities/air_magic.md
-msgid "[School of Air Magic](../spells/school_of_air_magic.md)"
+msgid "[School of Air Magic](../spells/index.md#school-of-air-magic)"
 msgstr ""

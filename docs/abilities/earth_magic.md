@@ -5,11 +5,11 @@
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Earth Magic](../spells/school_of_earth_magic.md).</p>
+<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Earth Magic](../spells/index.md#school-of-earth-magic).</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>When casting :spellpower: from the [School of Earth](../spells/school_of_earth_magic.md), you can discard this card, then gain +3 :empower:.</p>
+<p style="text-align: center;" markdown>When casting :spellpower: from the [School of Earth](../spells/index.md#school-of-earth-magic), you can discard this card, then gain +3 :empower:.</p>
 ___
 
 
@@ -29,4 +29,4 @@ ___
 
 - [Earth Magic (Empowered)](earth_magic_empowered.md)
 - [List of Abilities](index.md)
-- [School of Earth Magic](../spells/school_of_earth_magic.md)
+- [School of Earth Magic](../spells/index.md#school-of-earth-magic)

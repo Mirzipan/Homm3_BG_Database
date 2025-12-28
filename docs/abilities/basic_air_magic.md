@@ -5,11 +5,11 @@
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Air Magic :spellpower:](../spells/school_of_air_magic.md) in it and take the :spellpower: into your hand.<br>Then, reshuffle the deck.</p>
+<p style="text-align: center;" markdown>:permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Air Magic :spellpower:](../spells/index.md#school-of-air-magic) in it and take the :spellpower: into your hand.<br>Then, reshuffle the deck.</p>
 ___
 <p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:instant: +3 :empower: for a [Air Magic :spellpower:](../spells/school_of_air_magic.md).</p>
+<p style="text-align: center;" markdown>:instant: +3 :empower: for a [Air Magic :spellpower:](../spells/index.md#school-of-air-magic).</p>
 ___
 
 
@@ -28,4 +28,4 @@ ___
 
 - [Basic Air Magic (Empowered)](basic_air_magic_empowered.md)
 - [List of Abilities](index.md)
-- [School of Air Magic](../spells/school_of_air_magic.md)
+- [School of Air Magic](../spells/index.md#school-of-air-magic)

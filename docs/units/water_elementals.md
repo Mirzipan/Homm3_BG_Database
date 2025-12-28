@@ -35,7 +35,7 @@
 | :health_points: | 5 | 5 | 4 | 5 |
 | :initiative: | 6 | 6 | 5 | 6 |
 | Cost | - | - | 10 :gold: | - |
-| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Water Magic :spellpower:](../spells/school_of_water_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Water Magic :spellpower:](../spells/school_of_water_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Water Magic :spellpower:](../spells/school_of_water_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md). |
+| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Water Magic :spellpower:](../spells/index.md#school-of-water-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Water Magic :spellpower:](../spells/index.md#school-of-water-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Water Magic :spellpower:](../spells/index.md#school-of-water-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md). |
 
 
 ## Notes

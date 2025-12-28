@@ -456,8 +456,8 @@ msgstr "Fourni avec"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -695,5 +695,5 @@ msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 #. type: Plain text
 #: docs/artifacts/orb_of_the_firmament.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: When casting a [:spellpower:](../spells/index.md) from the [School of Air Magic](../spells/school_of_air_magic.md), double the :empower: used for this [spell](../spells/index.md).<br><br>— OR —<br><br>:instant: When casting a [Air Magic :spellpower:](../spells/school_of_air_magic.md), Remove this card to gain +5 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: When casting a [:spellpower:](../spells/index.md) from the [School of Air Magic](../spells/index.md#school-of-air-magic), double the :empower: used for this [spell](../spells/index.md).<br><br>— OR —<br><br>:instant: When casting a [Air Magic :spellpower:](../spells/index.md#school-of-air-magic), Remove this card to gain +5 :empower:.</p>\n"
 msgstr ""
