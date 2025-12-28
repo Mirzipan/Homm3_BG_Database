@@ -37,6 +37,5 @@ jobs:
             mkdocs-material-
 
       - run: pip install .
-        working-directory: plugin
 
       - run: mkdocs gh-deploy --force

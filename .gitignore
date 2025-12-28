@@ -4,3 +4,6 @@
 **/*.es.md
 **/*.fr.md
 **/*.mo
+
+__pycache__
+*.egg-info
