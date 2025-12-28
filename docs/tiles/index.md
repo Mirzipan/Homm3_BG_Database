@@ -7,7 +7,7 @@ search:
 Each map tile is divided into 7 separate [fields](../fields/index.md) that your [heroes](../heroes/index.md) can visit.
 Roman numerals written on a [field](../fields/index.md) indicate that the field is guarded by [neutral enemies](../units/index.md) that must be fought to visit it.
 
-# Starting Tiles
+## Starting Tiles
 
 These tiles contain [fields](../fields/index.md) with Ⅰ [difficulty](../difficulties.md) and a faction [town](../towns/index.md).
 
@@ -25,7 +25,7 @@ These tiles contain [fields](../fields/index.md) with Ⅰ [difficulty](../diffic
 | [#S1](sx1.md) | Snow | [:building_materials: Mine](../fields/mine.md)</br>[Tower Town](../towns/tower.md) | [Tower Expansion](../content/tower_expansion.md) |
 
 
-# Far Tiles
+## Far Tiles
 
 These tiles contain [fields](../fields/index.md) with Ⅱ-Ⅲ [difficulty](../difficulties.md).
 A [field](../fields/index.md) almost unique to the far tiles is the [Settlement](../fields/settlement.md).
@@ -74,7 +74,7 @@ A [field](../fields/index.md) almost unique to the far tiles is the [Settlement]
 | [#F13](fx13.md) | Highlands | [:building_materials: Mine](../fields/mine.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 
 
-# Near Tiles
+## Near Tiles
 
 These tiles contain [fields](../fields/index.md) with Ⅳ-Ⅴ [difficulty](../difficulties.md).
 A [field](../fields/index.md) unique to the near tiles is the [Obelisk](../fields/obelisk.md).
@@ -116,7 +116,7 @@ A [field](../fields/index.md) unique to the near tiles is the [Obelisk](../field
 | [#N11](nx11.md) | Water | [Pandora's Box](../fields/pandoras_box.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 
 
-# Center Tiles
+## Center Tiles
 
 These tiles contain [fields](../fields/index.md) with Ⅵ-Ⅶ [difficulty](../difficulties.md).
 Some [fields](../fields/index.md) are exclusive to the center tiles, but they are also the most difficult to beat.
@@ -135,7 +135,7 @@ Some [fields](../fields/index.md) are exclusive to the center tiles, but they ar
 | [#C5](cx5.md) | Water | [Temple of the Sea](../fields/temple_of_the_sea.md)</br>[Pandora's Box](../fields/pandoras_box.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 
 
-# Subterranean Tiles
+## Subterranean Tiles
 
 A subtype of tiles that represents the underground. Players can enter and exit the underground by stepping onto the [Subterranean Gate](../fields/subterranean_gate.md).
 
@@ -156,7 +156,7 @@ A subtype of tiles that represents the underground. Players can enter and exit t
 | [#C3](cx3.md) | Subterranean | [:valuables: Mine](../fields/mine.md)</br>[Random Town](../towns/index.md)</br>[Pandora's Box](../fields/pandoras_box.md) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 
 
-# Sea Tiles
+## Sea Tiles
 
 A subtype of tiles that represents the water. Players can enter and exit the water by boarding or unboarding a ship.
 
