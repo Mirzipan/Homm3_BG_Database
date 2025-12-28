@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-26 23:14+0000\n"
+"POT-Creation-Date: 2025-12-28 01:58+0000\n"
 "PO-Revision-Date: 2025-12-21 16:59+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -605,7 +605,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #. type: Plain text
 #: docs/fields/cyclops_stockpile.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>When preparing the Neutral Army guarding this location, instead of drawing 1 :azure: unit, find 2 :golen: [Cyclopes](../units/cyclopes.md) and add them to the Neutral Army (look for them first in the :golden: discard pile, and then in the :golden: Neutral Unit deck). If you win the Combat, roll and resolve 4 [:resource_die:](../keywords/dice.md#resource-die). Any additional effects depend on the scenario.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>When preparing the Neutral Army guarding this location, instead of drawing 1 :azure: unit, find 2 :golden: [Cyclopes](../units/cyclopes.md) and add them to the Neutral Army (look for them first in the :golden: discard pile, and then in the :golden: Neutral Unit deck). If you win the Combat, roll and resolve 4 [:resource_die:](../keywords/dice.md#resource-die). Any additional effects depend on the scenario.</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '
