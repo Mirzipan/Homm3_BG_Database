@@ -34,13 +34,15 @@
 
 ## Heroes
 
-- :might: [Clancy](../heroes/clancy.md)
-- :might: [Gelu](../heroes/gelu.md)
-- :magic: [Gem](../heroes/gem.md)
-- :might: [Ivor](../heroes/ivor.md)
-- :magic: [Melodia](../heroes/melodia.md)
-- :might: [Mephala](../heroes/mephala.md)
-- :might: [Tarnum](../heroes/tarnum_rampart.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Clancy](../heroes/clancy.md) | :might: Ranger | [Pathfinding](../abilities/pathfinding.md) | [Unicorns](../heroes/clancy.md#specialty) |
+| [Gelu](../heroes/gelu.md) | :might: Ranger | [Archery](../abilities/archery.md) | [Sharpshooters](../heroes/gelu.md#specialty) |
+| [Gem](../heroes/gem.md) | :magic: Druid | [First Aid](../abilities/first_aid.md) | [First Aid](../heroes/gem.md#specialty) |
+| [Ivor](../heroes/ivor.md) | :might: Ranger | [Offense](../abilities/offense.md) | [Elves](../heroes/ivor.md#specialty) |
+| [Melodia](../heroes/melodia.md) | :magic: Druid | [Luck](../abilities/luck.md) | [Fortune](../heroes/melodia.md#specialty) |
+| [Mephala](../heroes/mephala.md) | :might: Ranger | [Leadership](../abilities/leadership.md) | [Armorer](../heroes/mephala.md#specialty) |
+| [Tarnum](../heroes/tarnum_rampart.md) | :might: Ranger | [Leadership](../abilities/leadership.md) | [Sharpshooters](../heroes/tarnum_rampart.md#specialty) |
 
 
 ## Units

@@ -34,13 +34,15 @@
 
 ## Heroes
 
-- :magic: [Adrienne](../heroes/adrienne.md)
-- :might: [Bron](../heroes/bron.md)
-- :might: [Gerwulf](../heroes/gerwulf.md)
-- :magic: [Merist](../heroes/merist.md)
-- :might: [Tarnum](../heroes/tarnum_fortress.md)
-- :might: [Tazar](../heroes/tazar.md)
-- :might: [Wystan](../heroes/wystan.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Adrienne](../heroes/adrienne.md) | :magic: Witch | [Wisdom](../abilities/wisdom.md) | [Fire Magic](../heroes/adrienne.md#specialty) |
+| [Bron](../heroes/bron.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](../heroes/bron.md#specialty) |
+| [Gerwulf](../heroes/gerwulf.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [Ballista](../heroes/gerwulf.md#specialty) |
+| [Merist](../heroes/merist.md) | :magic: Witch | [First Aid](../abilities/first_aid.md) | [Stone Skin](../heroes/merist.md#specialty) |
+| [Tarnum](../heroes/tarnum_fortress.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [Basilisks](../heroes/tarnum_fortress.md#specialty) |
+| [Tazar](../heroes/tazar.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [War Hero](../heroes/tazar.md#specialty) |
+| [Wystan](../heroes/wystan.md) | :might: Beastmaster | [Archery](../abilities/archery.md) | [Lizardmen](../heroes/wystan.md#specialty) |
 
 
 ## Units

@@ -37,12 +37,14 @@ Also shown as :necro:.
 
 ## Heroes
 
-- :might: [Lord Haart](../heroes/lord_haart_necropolis.md)
-- :might: [Moandor](../heroes/moandor.md)
-- :magic: [Sandro](../heroes/sandro.md)
-- :magic: [Septienna](../heroes/septienna.md)
-- :might: [Tamika](../heroes/tamika.md)
-- :magic: [Vidomina](../heroes/vidomina.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Lord Haart](../heroes/lord_haart_necropolis.md) | :might: Death Knight | [Necromancy](../abilities/necromancy.md) | [Dread Knights](../heroes/lord_haart_necropolis.md#specialty) |
+| [Moandor](../heroes/moandor.md) | :might: Death Knight | [Necromancy](../abilities/necromancy.md) | [Liches](../heroes/moandor.md#specialty) |
+| [Sandro](../heroes/sandro.md) | :magic: Necromancer | [Sorcery](../abilities/sorcery.md) | [Cloak of the Undead King](../heroes/sandro.md#specialty) |
+| [Septienna](../heroes/septienna.md) | :magic: Necromancer | [Necromancy](../abilities/necromancy.md) | [Death Ripple](../heroes/septienna.md#specialty) |
+| [Tamika](../heroes/tamika.md) | :might: Death Knight | [Offense](../abilities/offense.md) | [Dread Knights](../heroes/tamika.md#specialty) |
+| [Vidomina](../heroes/vidomina.md) | :magic: Necromancer | [Necromancy](../abilities/necromancy.md) | [Necromancy](../heroes/vidomina.md#specialty) |
 
 
 ## Units

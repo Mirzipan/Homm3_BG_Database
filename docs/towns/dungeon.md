@@ -34,13 +34,15 @@
 
 ## Heroes
 
-- :magic: [Alamar](../heroes/alamar.md)
-- :magic: [Deemer](../heroes/deemer.md)
-- :magic: [Jeddite](../heroes/jeddite.md)
-- :might: [Lorelei](../heroes/lorelei.md)
-- :might: [Mutare](../heroes/mutare.md)
-- :magic: [Sephinroth](../heroes/sephinroth.md)
-- :magic: [Tarnum](../heroes/tarnum_dungeon.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Alamar](../heroes/alamar.md) | :magic: Warlock | [Wisdom](../abilities/wisdom.md) | [Resurrection](../heroes/alamar.md#specialty) |
+| [Deemer](../heroes/deemer.md) | :magic: Warlock | [Scouting](../abilities/scouting.md) | [Meteor Shower](../heroes/deemer.md#specialty) |
+| [Jeddite](../heroes/jeddite.md) | :magic: Warlock | [Sorcery](../abilities/sorcery.md) | [Mysterious Warlock](../heroes/jeddite.md#specialty) |
+| [Lorelei](../heroes/lorelei.md) | :might: Overlord | [Scouting](../abilities/scouting.md) | [Harpies](../heroes/lorelei.md#specialty) |
+| [Mutare](../heroes/mutare.md) | :might: Overlord | [Tactics](../abilities/tactics.md) | [Dragons](../heroes/mutare.md#specialty) |
+| [Sephinroth](../heroes/sephinroth.md) | :magic: Warlock | [Intelligence](../abilities/intelligence.md) | [Valuables](../heroes/sephinroth.md#specialty) |
+| [Tarnum](../heroes/tarnum_dungeon.md) | :might: Overlord | [Estates](../abilities/estates.md) | [Dragons](../heroes/tarnum_dungeon.md#specialty) |
 
 
 ## Units

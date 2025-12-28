@@ -16,12 +16,14 @@
 
 ## Heroes
 
-- :might: [Crag Hack](../heroes/crag_hack.md)
-- :magic: [Dessa](../heroes/dessa.md)
-- :magic: [Gundula](../heroes/gundula.md)
-- :might: [Shiva](../heroes/shiva.md)
-- :might: [Tarnum](../heroes/tarnum_stronghold.md)
-- :might: [Yog](../heroes/yog.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Crag Hack](../heroes/crag_hack.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Offense](../heroes/crag_hack.md#specialty) |
+| [Dessa](../heroes/dessa.md) | :magic: Battle Mage | [Logistics](../abilities/logistics.md) | [Logistics](../heroes/dessa.md#specialty) |
+| [Gundula](../heroes/gundula.md) | :magic: Battle Mage | [Wisdom](../abilities/wisdom.md) | [Slow](../heroes/gundula.md#specialty) |
+| [Shiva](../heroes/shiva.md) | :might: Barbarian | [Scouting](../abilities/scouting.md) | [Thunderbirds](../heroes/shiva.md#specialty) |
+| [Tarnum](../heroes/tarnum_stronghold.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Offense](../heroes/tarnum_stronghold.md#specialty) |
+| [Yog](../heroes/yog.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Cyclopes](../heroes/yog.md#specialty) |
 
 
 ## Units

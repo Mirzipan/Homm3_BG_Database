@@ -34,12 +34,14 @@
 
 ## Heroes
 
-- :magic: [Ash](../heroes/ash.md)
-- :might: [Fiona](../heroes/fiona.md)
-- :might: [Octavia](../heroes/octavia.md)
-- :might: [Rashka](../heroes/rashka.md)
-- :magic: [Xyron](../heroes/xyron.md)
-- :magic: [Zydar](../heroes/zydar.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Ash](../heroes/ash.md) | :magic: Heretic | [Eagle Eye](../abilities/eagle_eye.md) | [Bloodlust](../heroes/ash.md#specialty) |
+| [Fiona](../heroes/fiona.md) | :might: Demoniac | [Scouting](../abilities/scouting.md) | [Cerberi](../heroes/fiona.md#specialty) |
+| [Octavia](../heroes/octavia.md) | :might: Demoniac | [Scholar](../abilities/scholar.md) | [Gold](../heroes/octavia.md#specialty) |
+| [Rashka](../heroes/rashka.md) | :might: Demoniac | [Scholar](../abilities/scholar.md) | [Efreet](../heroes/rashka.md#specialty) |
+| [Xyron](../heroes/xyron.md) | :magic: Heretic | [Wisdom](../abilities/wisdom.md) | [Inferno](../heroes/xyron.md#specialty) |
+| [Zydar](../heroes/zydar.md) | :magic: Heretic | [Sorcery](../abilities/sorcery.md) | [Sorcery](../heroes/zydar.md#specialty) |
 
 
 ## Units

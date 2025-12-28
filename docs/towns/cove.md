@@ -16,12 +16,14 @@
 
 ## Heroes
 
-- :magic: [Astra](../heroes/astra.md)
-- :magic: [Casmetra](../heroes/casmetra.md)
-- :might: [Cassiopeia](../heroes/cassiopeia.md)
-- :might: [Jeremy](../heroes/jeremy.md)
-- :might: [Miriam](../heroes/miriam.md)
-- :magic: [Zilare](../heroes/zilare.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Astra](../heroes/astra.md) | :magic: Navigator | [Luck](../abilities/luck.md) | [Cure](../heroes/astra.md#specialty) |
+| [Casmetra](../heroes/casmetra.md) | :magic: Navigator | [Wisdom](../abilities/wisdom.md) | [Sorceresses](../heroes/casmetra.md#specialty) |
+| [Cassiopeia](../heroes/cassiopeia.md) | :might: Captain | [Tactics](../abilities/tactics.md) | [Oceanids](../heroes/cassiopeia.md#specialty) |
+| [Jeremy](../heroes/jeremy.md) | :might: Captain | [Offense](../abilities/offense.md) | [Cannon](../heroes/jeremy.md#specialty) |
+| [Miriam](../heroes/miriam.md) | :might: Captain | [Logistics](../abilities/logistics.md) | [Scouting](../heroes/miriam.md#specialty) |
+| [Zilare](../heroes/zilare.md) | :magic: Navigator | [Interference](../abilities/interference.md) | [Forgetfulness](../heroes/zilare.md#specialty) |
 
 
 ## Units

@@ -16,12 +16,14 @@
 
 ## Heroes
 
-- :magic: [Ciele](../heroes/ciele.md) 
-- :might: [Erdamon](../heroes/erdamon.md) 
-- :magic: [Luna](../heroes/luna.md) 
-- :might: [Monere](../heroes/monere.md) 
-- :might: [Pasis](../heroes/pasis.md) 
-- :magic: [Tarnum](../heroes/tarnum_conflux.md) 
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Ciele](../heroes/ciele.md) | :magic: Elementalist | [Water Magic](../abilities/water_magic.md) | [Magic Arrow](../heroes/ciele.md#specialty) |
+| [Erdamon](../heroes/erdamon.md) | :might: Planeswalker | [Estates](../abilities/estates.md) | [Magma Elementals](../heroes/erdamon.md#specialty) |
+| [Luna](../heroes/luna.md) | :magic: Elementalist | [Basic Fire Magic](../abilities/basic_fire_magic.md) | [Fire Wall](../heroes/luna.md#specialty) |
+| [Monere](../heroes/monere.md) | :might: Planeswalker | [Logistics](../abilities/logistics.md) | [Magic Elementals](../heroes/monere.md#specialty) |
+| [Pasis](../heroes/pasis.md) | :might: Planeswalker | [Artillery](../abilities/artillery.md) | [Elementals](../heroes/pasis.md#specialty) |
+| [Tarnum](../heroes/tarnum_conflux.md) | :magic: Elementalist | [Wisdom](../abilities/wisdom.md) | [Enchanters](../heroes/tarnum_conflux.md#specialty) |
 
 
 ## Units

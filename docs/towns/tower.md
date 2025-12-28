@@ -34,10 +34,14 @@
 
 ## Heroes
 
-- :magic: [Dracon](../heroes/dracon.md)
-- :might: [Iona](../heroes/iona.md)
-- :might: [Josephine](../heroes/josephine.md)
-- :magic: [Solmyr](../heroes/solmyr.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Cyra](../heroes/cyra.md) | :magic: Wizard | [Diplomacy](../abilities/diplomacy.md) | [Haste](../heroes/cyra.md#specialty) |
+| [Dracon](../heroes/dracon.md) | :magic: Wizard | [Wisdom](../abilities/wisdom.md) | [Enchanters](../heroes/dracon.md#specialty) |
+| [Iona](../heroes/iona.md) | :might: Alchemist | [Intelligence](../abilities/intelligence.md) | [Genies](../heroes/iona.md#specialty) |
+| [Josephine](../heroes/josephine.md) | :might: Alchemist | [Sorcery](../abilities/sorcery.md) | [Golems](../heroes/josephine.md#specialty) |
+| [Solmyr](../heroes/solmyr.md) | :magic: Wizard | [Sorcery](../abilities/sorcery.md) | [Chain Lightning](../heroes/solmyr.md#specialty) |
+| [Torosar](../heroes/torosar.md) | :might: Wizard | [Mysticism](../abilities/mysticism.md) | [Ballista](../heroes/torosar.md#specialty) |
 
 
 ## Units

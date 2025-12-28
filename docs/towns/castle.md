@@ -34,13 +34,15 @@
 
 ## Heroes
 
-- :magic: [Adelaide](../heroes/adelaide.md)
-- :might: [Catherine](../heroes/catherine.md)
-- :magic: [Ingham](../heroes/ingham.md)
-- :might: [Lord Haart](../heroes/lord_haart_castle.md)
-- :might: [Tarnum](../heroes/tarnum_castle.md)
-- :magic: [Rion](../heroes/rion.md)
-- :might: [Valeska](../heroes/valeska.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Adelaide](../heroes/adelaide.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Frost Ring](../heroes/adelaide.md#specialty) |
+| [Catherine](../heroes/catherine.md) | :might: Knight | [Leadership](../abilities/leadership.md) | [Crusaders](../heroes/catherine.md#specialty) |
+| [Ingham](../heroes/ingham.md) | :magic: Cleric | [Mysticism](../abilities/mysticism.md) | [Zealots](../heroes/ingham.md#specialty) |
+| [Lord Haart](../heroes/lord_haart_castle.md) | :might: Knight | [Estates](../abilities/estates.md) | [Estates](../heroes/lord_haart_castle.md#specialty) |
+| [Tarnum](../heroes/tarnum_castle.md) | :might: Knight | [Artillery](../abilities/artillery.md) | [Ballista](../heroes/tarnum_castle.md#specialty) |
+| [Rion](../heroes/rion.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Battlefield Medic](../heroes/rion.md#specialty) |
+| [Valeska](../heroes/valeska.md) | :might: Knight | [Archery](../abilities/archery.md) | [Marksmen](../heroes/valeska.md#specialty) |
 
 
 ## Units
