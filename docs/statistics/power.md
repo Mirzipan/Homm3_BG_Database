@@ -13,7 +13,7 @@
     </figure>
 
 
-| Type |Effect | :expert: Effect |
+| Type | Effect | :expert: Effect |
 | :--- | :--- | :--- |
 | Regular | :instant: +1 :empower: | :instant: +2 :empower: |
 | Empowered | :instant: +2 :empower: | - |
