@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Astrologers Proclaim](index.md)</p>
 ___
-<p style="text-align: center;" markdown>Each player gains [:morale_negative:](../keywords/negative_morale.md).</p>
+<p style="text-align: center;" markdown>Each player gains [:morale_negative:](../keywords/morale.md#negative).</p>
 ___
 <p style="text-align: center;" markdown>*Some Kreegan has told me: "Hell is other people."*</p>
 ___

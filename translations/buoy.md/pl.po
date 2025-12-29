@@ -49,11 +49,11 @@ msgstr ""
 #: docs/heroes/xyron.md docs/keywords/alternative_action.md
 #: docs/keywords/attack_value.md docs/keywords/damage.md
 #: docs/keywords/defense_value.md docs/keywords/dice.md
-#: docs/keywords/dwelling.md docs/keywords/flying_unit.md
+#: docs/keywords/dwelling.md docs/units/index.md#flying-units
 #: docs/keywords/ground_unit.md docs/keywords/health_points.md
-#: docs/keywords/initiative_value.md docs/keywords/negative_morale.md
+#: docs/keywords/initiative_value.md docs/keywords/morale.md#negative
 #: docs/keywords/obstacle.md docs/keywords/paralysis.md
-#: docs/keywords/permanent_effect.md docs/keywords/positive_morale.md
+#: docs/keywords/permanent_effect.md docs/keywords/morale.md#positive
 #: docs/keywords/ranged_unit.md docs/keywords/recruit.md
 #: docs/keywords/reinforce.md docs/keywords/remove.md docs/keywords/search.md
 #: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
@@ -286,8 +286,8 @@ msgstr "Uwagi"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -626,7 +626,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/fields/buoy.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Gain a [Positive Morale](../keywords/positive_morale.md) token.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Gain a [Positive Morale](../keywords/morale.md#positive) token.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Pole Jednorazowe](../keywords/visitable_field.md)</p>\n"
 
 #. type: Bullet: '- '
@@ -714,4 +714,4 @@ msgstr ""
 #: docs/fields/shipwreck_survivor.md
 #, fuzzy
 msgid "[Temple of the Sea](temple_of_the_sea.md)"
-msgstr "[Szkoła Ziemi](school_of_earth_magic.md)"
+msgstr "[Szkoła Ziemi](index.md#school-of-earth-magic)"

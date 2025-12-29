@@ -12,7 +12,7 @@ ___
 
 | Units | Reward | Extra |
 | :--- | :--- | :--- |
-| 4x&nbsp;[Water&nbsp;Elementals](../units/water_elementals.md) | [:morale_positive:](../keywords/positive_morale.md) and 7 :gold:. | 2 :gold: for every Stacked unit and [**Search(X)**](../keywords/search.md) the [Spell](../spells/index.md) deck, where X is the number of Stacked units. |
+| 4x&nbsp;[Water&nbsp;Elementals](../units/water_elementals.md) | [:morale_positive:](../keywords/morale.md#positive) and 7 :gold:. | 2 :gold: for every Stacked unit and [**Search(X)**](../keywords/search.md) the [Spell](../spells/index.md) deck, where X is the number of Stacked units. |
 
 ___
 

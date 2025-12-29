@@ -19,6 +19,7 @@ ___
 ## Comes With
 
 - [Rampart Expansion](../content/rampart_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
 ## See Also

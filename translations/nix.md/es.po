@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-26 19:18+0000\n"
+"POT-Creation-Date: 2025-12-28 22:47+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,22 +17,44 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. type: Title ##
-#: docs/abilities/air_magic.md docs/abilities/archery.md
-#: docs/abilities/armorer.md docs/abilities/artillery.md
-#: docs/abilities/ballistics.md docs/abilities/diplomacy.md
-#: docs/abilities/eagle_eye.md docs/abilities/earth_magic.md
-#: docs/abilities/estates.md docs/abilities/fire_magic.md
-#: docs/abilities/first_aid.md docs/abilities/intelligence.md
-#: docs/abilities/interference.md docs/abilities/leadership.md
-#: docs/abilities/learning.md docs/abilities/logistics.md
-#: docs/abilities/luck.md docs/abilities/mysticism.md
-#: docs/abilities/necromancy.md docs/abilities/offense.md
-#: docs/abilities/pathfinding.md docs/abilities/resistance.md
-#: docs/abilities/scholar.md docs/abilities/scouting.md
-#: docs/abilities/sorcery.md docs/abilities/tactics.md
-#: docs/abilities/water_magic.md docs/abilities/wisdom.md
-#: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
-#: docs/artifacts/armor_of_wonder.md docs/artifacts/arms_of_legion.md
+#: docs/abilities/air_magic.md docs/abilities/air_magic_empowered.md
+#: docs/abilities/archery.md docs/abilities/archery_empowered.md
+#: docs/abilities/armorer.md docs/abilities/armorer_empowered.md
+#: docs/abilities/artillery.md docs/abilities/artillery_empowered.md
+#: docs/abilities/ballistics.md docs/abilities/ballistics_empowered.md
+#: docs/abilities/basic_air_magic.md
+#: docs/abilities/basic_air_magic_empowered.md
+#: docs/abilities/basic_earth_magic.md
+#: docs/abilities/basic_earth_magic_empowered.md
+#: docs/abilities/basic_fire_magic.md
+#: docs/abilities/basic_fire_magic_empowered.md
+#: docs/abilities/basic_water_magic.md
+#: docs/abilities/basic_water_magic_empowered.md docs/abilities/diplomacy.md
+#: docs/abilities/diplomacy_empowered.md docs/abilities/eagle_eye.md
+#: docs/abilities/eagle_eye_empowered.md docs/abilities/earth_magic.md
+#: docs/abilities/earth_magic_empowered.md docs/abilities/estates.md
+#: docs/abilities/estates_empowered.md docs/abilities/fire_magic.md
+#: docs/abilities/fire_magic_empowered.md docs/abilities/first_aid.md
+#: docs/abilities/first_aid_empowered.md docs/abilities/intelligence.md
+#: docs/abilities/intelligence_empowered.md docs/abilities/interference.md
+#: docs/abilities/interference_empowered.md docs/abilities/leadership.md
+#: docs/abilities/leadership_empowered.md docs/abilities/learning.md
+#: docs/abilities/learning_empowered.md docs/abilities/logistics.md
+#: docs/abilities/logistics_empowered.md docs/abilities/luck.md
+#: docs/abilities/luck_empowered.md docs/abilities/mysticism.md
+#: docs/abilities/mysticism_empowered.md docs/abilities/necromancy.md
+#: docs/abilities/necromancy_empowered.md docs/abilities/offense.md
+#: docs/abilities/offense_empowered.md docs/abilities/pathfinding.md
+#: docs/abilities/pathfinding_empowered.md docs/abilities/resistance.md
+#: docs/abilities/resistance_empowered.md docs/abilities/scholar.md
+#: docs/abilities/scholar_empowered.md docs/abilities/scouting.md
+#: docs/abilities/scouting_empowered.md docs/abilities/sorcery.md
+#: docs/abilities/sorcery_empowered.md docs/abilities/tactics.md
+#: docs/abilities/tactics_empowered.md docs/abilities/water_magic.md
+#: docs/abilities/water_magic_empowered.md docs/abilities/wisdom.md
+#: docs/abilities/wisdom_empowered.md docs/artifacts/ambassadors_sash.md
+#: docs/artifacts/angel_wings.md docs/artifacts/armor_of_wonder.md
+#: docs/artifacts/arms_of_legion.md
 #: docs/artifacts/blackshard_of_the_dead_knight.md
 #: docs/artifacts/boots_of_polarity.md docs/artifacts/boots_of_speed.md
 #: docs/artifacts/bowstring_of_the_unicorns_mane.md
@@ -97,9 +119,13 @@ msgstr ""
 #: docs/astrologers_proclaim/big_cleanup.md
 #: docs/astrologers_proclaim/blue_sky.md
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
+#: docs/astrologers_proclaim/crag_hack.md
 #: docs/astrologers_proclaim/crazy_wizard.md
 #: docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/dead_silence.md
+#: docs/astrologers_proclaim/destruction.md
+#: docs/astrologers_proclaim/disruption.md
+#: docs/astrologers_proclaim/elementals.md
 #: docs/astrologers_proclaim/explorers.md
 #: docs/astrologers_proclaim/fancy_pixie.md
 #: docs/astrologers_proclaim/fluffy_rabbit.md
@@ -110,18 +136,27 @@ msgstr ""
 #: docs/astrologers_proclaim/grim_warlock.md
 #: docs/astrologers_proclaim/groovy_satyr.md docs/astrologers_proclaim/hero.md
 #: docs/astrologers_proclaim/isras_friends.md
+#: docs/astrologers_proclaim/judge_dread.md docs/astrologers_proclaim/mages.md
 #: docs/astrologers_proclaim/magic_tortoise.md
 #: docs/astrologers_proclaim/mcgiver.md
 #: docs/astrologers_proclaim/merry_leprechaun.md
+#: docs/astrologers_proclaim/multilingual_bron.md
+#: docs/astrologers_proclaim/offense.md docs/astrologers_proclaim/pirates.md
 #: docs/astrologers_proclaim/plane_between_planes.md
+#: docs/astrologers_proclaim/plastic_tray.md
 #: docs/astrologers_proclaim/profuse_growth.md
+#: docs/astrologers_proclaim/restart.md docs/astrologers_proclaim/rulebook.md
+#: docs/astrologers_proclaim/sanctuary.md
 #: docs/astrologers_proclaim/scorched_ground.md
-#: docs/astrologers_proclaim/society.md
+#: docs/astrologers_proclaim/society.md docs/astrologers_proclaim/spells.md
 #: docs/astrologers_proclaim/swift_weasel.md
 #: docs/astrologers_proclaim/terrible_plague.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
+#: docs/astrologers_proclaim/wandering_merchant.md
+#: docs/astrologers_proclaim/whirlpool.md
 #: docs/astrologers_proclaim/white_raven.md
-#: docs/astrologers_proclaim/wild_debauchery.md docs/events/a_shady_auction.md
+#: docs/astrologers_proclaim/wild_debauchery.md
+#: docs/astrologers_proclaim/wind.md docs/events/a_shady_auction.md
 #: docs/events/artifact_merchant.md docs/events/crypt.md
 #: docs/events/cursed_swamp.md docs/events/den_of_thieves.md
 #: docs/events/garden_of_revelation.md docs/events/library_of_enlightenment.md
@@ -141,51 +176,54 @@ msgstr ""
 #: docs/fields/griffin_conservatory_creature_bank.md
 #: docs/fields/imp_cache_creature_bank.md
 #: docs/fields/medusa_stores_creature_bank.md
-#: docs/fields/naga_bank_creature_bank.md docs/fields/pyramid_creature_bank.md
-#: docs/fields/shipwreck_creature_bank.md docs/fields/subterranean_gate.md
-#: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
-#: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/bron.md
-#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
-#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
-#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
-#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
-#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gerwulf.md
-#: docs/heroes/gundula.md docs/heroes/ingham.md docs/heroes/iona.md
-#: docs/heroes/ivor.md docs/heroes/jeddite.md docs/heroes/jeremy.md
-#: docs/heroes/josephine.md docs/heroes/lord_haart_castle.md
-#: docs/heroes/lord_haart_necropolis.md docs/heroes/lorelei.md
-#: docs/heroes/luna.md docs/heroes/melodia.md docs/heroes/mephala.md
-#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
-#: docs/heroes/monere.md docs/heroes/mutare.md docs/heroes/octavia.md
-#: docs/heroes/pasis.md docs/heroes/rashka.md docs/heroes/rion.md
-#: docs/heroes/sandro.md docs/heroes/sephinroth.md docs/heroes/septienna.md
-#: docs/heroes/shiva.md docs/heroes/solmyr.md docs/heroes/tamika.md
-#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
-#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
-#: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
-#: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/valeska.md
-#: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
-#: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
-#: docs/keywords/sea_tile.md docs/keywords/subterranean_tile.md
-#: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
-#: docs/spells/bless.md docs/spells/blind.md docs/spells/bloodlust.md
-#: docs/spells/chain_lightning.md docs/spells/counterstrike.md
-#: docs/spells/cure.md docs/spells/curse.md docs/spells/dimension_door.md
-#: docs/spells/dispel.md docs/spells/disrupting_ray.md
-#: docs/spells/earthquake.md docs/spells/fire_shield.md
-#: docs/spells/fire_wall.md docs/spells/fireball.md docs/spells/fly.md
-#: docs/spells/forgetfulness.md docs/spells/fortune.md docs/spells/frenzy.md
-#: docs/spells/frost_ring.md docs/spells/haste.md docs/spells/implosion.md
-#: docs/spells/inferno.md docs/spells/lightning_bolt.md
-#: docs/spells/magic_arrow.md docs/spells/mirth.md docs/spells/misfortune.md
-#: docs/spells/prayer.md docs/spells/precision.md
-#: docs/spells/remove_obstacle.md docs/spells/resurrection.md
-#: docs/spells/sacrifice.md docs/spells/shield.md docs/spells/slayer.md
-#: docs/spells/slow.md docs/spells/sorrow.md docs/spells/stone_skin.md
-#: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
-#: docs/spells/summon_fire_elemental.md docs/spells/summon_water_elemental.md
-#: docs/spells/teleport.md docs/spells/town_portal.md docs/spells/view_air.md
-#: docs/spells/view_earth.md docs/spells/visions.md docs/spells/weakness.md
+#: docs/fields/naga_bank_creature_bank.md docs/fields/pandoras_box.md
+#: docs/fields/pyramid_creature_bank.md docs/fields/shipwreck_creature_bank.md
+#: docs/fields/subterranean_gate.md docs/heroes/adelaide.md
+#: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/ash.md
+#: docs/heroes/astra.md docs/heroes/bron.md docs/heroes/casmetra.md
+#: docs/heroes/cassiopeia.md docs/heroes/catherine.md docs/heroes/ciele.md
+#: docs/heroes/clancy.md docs/heroes/crag_hack.md docs/heroes/cyra.md
+#: docs/heroes/deemer.md docs/heroes/dessa.md docs/heroes/dracon.md
+#: docs/heroes/erdamon.md docs/heroes/fiona.md docs/heroes/gelu.md
+#: docs/heroes/gem.md docs/heroes/gerwulf.md docs/heroes/gundula.md
+#: docs/heroes/ingham.md docs/heroes/iona.md docs/heroes/ivor.md
+#: docs/heroes/jeddite.md docs/heroes/jeremy.md docs/heroes/josephine.md
+#: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
+#: docs/heroes/lorelei.md docs/heroes/luna.md docs/heroes/melodia.md
+#: docs/heroes/mephala.md docs/heroes/merist.md docs/heroes/miriam.md
+#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/rashka.md
+#: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/sephinroth.md
+#: docs/heroes/septienna.md docs/heroes/shiva.md docs/heroes/solmyr.md
+#: docs/heroes/tamika.md docs/heroes/tarnum_castle.md
+#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
+#: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
+#: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
+#: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
+#: docs/heroes/zydar.md docs/spells/air_shield.md docs/spells/anti-magic.md
+#: docs/spells/berserk.md docs/spells/bless.md docs/spells/blind.md
+#: docs/spells/bloodlust.md docs/spells/chain_lightning.md docs/spells/clone.md
+#: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
+#: docs/spells/dimension_door.md docs/spells/dispel.md
+#: docs/spells/disrupting_ray.md docs/spells/earthquake.md
+#: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
+#: docs/spells/fly.md docs/spells/force_field.md docs/spells/forgetfulness.md
+#: docs/spells/fortune.md docs/spells/frenzy.md docs/spells/frost_ring.md
+#: docs/spells/haste.md docs/spells/implosion.md docs/spells/inferno.md
+#: docs/spells/land_mine.md docs/spells/lightning_bolt.md
+#: docs/spells/magic_arrow.md docs/spells/magic_mirror.md docs/spells/mirth.md
+#: docs/spells/misfortune.md docs/spells/prayer.md docs/spells/precision.md
+#: docs/spells/protection_from_air.md docs/spells/protection_from_earth.md
+#: docs/spells/protection_from_fire.md docs/spells/protection_from_water.md
+#: docs/spells/quicksand.md docs/spells/remove_obstacle.md
+#: docs/spells/resurrection.md docs/spells/sacrifice.md docs/spells/shield.md
+#: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
+#: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
+#: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
+#: docs/spells/summon_water_elemental.md docs/spells/teleport.md
+#: docs/spells/town_portal.md docs/spells/view_air.md docs/spells/view_earth.md
+#: docs/spells/visions.md docs/spells/water_walk.md docs/spells/weakness.md
 #: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md
 #: docs/tiles/c5.md docs/tiles/cx1.md docs/tiles/cx2.md docs/tiles/cx3.md
 #: docs/tiles/cx4.md docs/tiles/cx5.md docs/tiles/f1.md docs/tiles/f10.md
@@ -250,28 +288,50 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/cannon.md
-#: docs/war_machines/first_aid_tent.md
+#: docs/war_machines/catapult.md docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
 msgstr "Viene Con"
 
 #. type: Title ##
-#: docs/abilities/air_magic.md docs/abilities/archery.md
-#: docs/abilities/armorer.md docs/abilities/artillery.md
-#: docs/abilities/ballistics.md docs/abilities/diplomacy.md
-#: docs/abilities/eagle_eye.md docs/abilities/earth_magic.md
-#: docs/abilities/estates.md docs/abilities/fire_magic.md
-#: docs/abilities/first_aid.md docs/abilities/intelligence.md
-#: docs/abilities/interference.md docs/abilities/leadership.md
-#: docs/abilities/learning.md docs/abilities/logistics.md
-#: docs/abilities/luck.md docs/abilities/mysticism.md
-#: docs/abilities/necromancy.md docs/abilities/offense.md
-#: docs/abilities/pathfinding.md docs/abilities/resistance.md
-#: docs/abilities/scholar.md docs/abilities/scouting.md
-#: docs/abilities/sorcery.md docs/abilities/tactics.md
-#: docs/abilities/water_magic.md docs/abilities/wisdom.md
-#: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
-#: docs/artifacts/armor_of_wonder.md docs/artifacts/arms_of_legion.md
+#: docs/abilities/air_magic.md docs/abilities/air_magic_empowered.md
+#: docs/abilities/archery.md docs/abilities/archery_empowered.md
+#: docs/abilities/armorer.md docs/abilities/armorer_empowered.md
+#: docs/abilities/artillery.md docs/abilities/artillery_empowered.md
+#: docs/abilities/ballistics.md docs/abilities/ballistics_empowered.md
+#: docs/abilities/basic_air_magic.md
+#: docs/abilities/basic_air_magic_empowered.md
+#: docs/abilities/basic_earth_magic.md
+#: docs/abilities/basic_earth_magic_empowered.md
+#: docs/abilities/basic_fire_magic.md
+#: docs/abilities/basic_fire_magic_empowered.md
+#: docs/abilities/basic_water_magic.md
+#: docs/abilities/basic_water_magic_empowered.md docs/abilities/diplomacy.md
+#: docs/abilities/diplomacy_empowered.md docs/abilities/eagle_eye.md
+#: docs/abilities/eagle_eye_empowered.md docs/abilities/earth_magic.md
+#: docs/abilities/earth_magic_empowered.md docs/abilities/estates.md
+#: docs/abilities/estates_empowered.md docs/abilities/fire_magic.md
+#: docs/abilities/fire_magic_empowered.md docs/abilities/first_aid.md
+#: docs/abilities/first_aid_empowered.md docs/abilities/intelligence.md
+#: docs/abilities/intelligence_empowered.md docs/abilities/interference.md
+#: docs/abilities/interference_empowered.md docs/abilities/leadership.md
+#: docs/abilities/leadership_empowered.md docs/abilities/learning.md
+#: docs/abilities/learning_empowered.md docs/abilities/logistics.md
+#: docs/abilities/logistics_empowered.md docs/abilities/luck.md
+#: docs/abilities/luck_empowered.md docs/abilities/mysticism.md
+#: docs/abilities/mysticism_empowered.md docs/abilities/necromancy.md
+#: docs/abilities/necromancy_empowered.md docs/abilities/offense.md
+#: docs/abilities/offense_empowered.md docs/abilities/pathfinding.md
+#: docs/abilities/pathfinding_empowered.md docs/abilities/resistance.md
+#: docs/abilities/resistance_empowered.md docs/abilities/scholar.md
+#: docs/abilities/scholar_empowered.md docs/abilities/scouting.md
+#: docs/abilities/scouting_empowered.md docs/abilities/sorcery.md
+#: docs/abilities/sorcery_empowered.md docs/abilities/tactics.md
+#: docs/abilities/tactics_empowered.md docs/abilities/water_magic.md
+#: docs/abilities/water_magic_empowered.md docs/abilities/wisdom.md
+#: docs/abilities/wisdom_empowered.md docs/artifacts/ambassadors_sash.md
+#: docs/artifacts/angel_wings.md docs/artifacts/armor_of_wonder.md
+#: docs/artifacts/arms_of_legion.md
 #: docs/artifacts/blackshard_of_the_dead_knight.md
 #: docs/artifacts/boots_of_polarity.md docs/artifacts/boots_of_speed.md
 #: docs/artifacts/bowstring_of_the_unicorns_mane.md
@@ -336,9 +396,13 @@ msgstr "Viene Con"
 #: docs/astrologers_proclaim/big_cleanup.md
 #: docs/astrologers_proclaim/blue_sky.md
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
+#: docs/astrologers_proclaim/crag_hack.md
 #: docs/astrologers_proclaim/crazy_wizard.md
 #: docs/astrologers_proclaim/dancing_imp.md
 #: docs/astrologers_proclaim/dead_silence.md
+#: docs/astrologers_proclaim/destruction.md
+#: docs/astrologers_proclaim/disruption.md
+#: docs/astrologers_proclaim/elementals.md
 #: docs/astrologers_proclaim/explorers.md
 #: docs/astrologers_proclaim/fancy_pixie.md
 #: docs/astrologers_proclaim/fluffy_rabbit.md
@@ -350,122 +414,126 @@ msgstr "Viene Con"
 #: docs/astrologers_proclaim/groovy_satyr.md docs/astrologers_proclaim/hero.md
 #: docs/astrologers_proclaim/index.md
 #: docs/astrologers_proclaim/isras_friends.md
+#: docs/astrologers_proclaim/judge_dread.md docs/astrologers_proclaim/mages.md
 #: docs/astrologers_proclaim/magic_tortoise.md
 #: docs/astrologers_proclaim/mcgiver.md
 #: docs/astrologers_proclaim/merry_leprechaun.md
+#: docs/astrologers_proclaim/multilingual_bron.md
+#: docs/astrologers_proclaim/offense.md docs/astrologers_proclaim/pirates.md
 #: docs/astrologers_proclaim/plane_between_planes.md
+#: docs/astrologers_proclaim/plastic_tray.md
 #: docs/astrologers_proclaim/profuse_growth.md
+#: docs/astrologers_proclaim/restart.md docs/astrologers_proclaim/rulebook.md
+#: docs/astrologers_proclaim/sanctuary.md
 #: docs/astrologers_proclaim/scorched_ground.md
-#: docs/astrologers_proclaim/society.md
+#: docs/astrologers_proclaim/society.md docs/astrologers_proclaim/spells.md
 #: docs/astrologers_proclaim/swift_weasel.md
 #: docs/astrologers_proclaim/terrible_plague.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
+#: docs/astrologers_proclaim/wandering_merchant.md
+#: docs/astrologers_proclaim/whirlpool.md
 #: docs/astrologers_proclaim/white_raven.md
 #: docs/astrologers_proclaim/wild_debauchery.md
-#: docs/content/azure_stretch_goals.md docs/content/battlefield_expansion.md
-#: docs/content/conflux_expansion.md docs/content/core_game.md
-#: docs/content/cove_expansion.md docs/content/crystal_stretch_goals.md
-#: docs/content/fortress_expansion.md docs/content/inferno_expansion.md
-#: docs/content/naval_battles_expansion.md docs/content/rampart_expansion.md
-#: docs/content/regular_stretch_goals.md docs/content/stronghold_expansion.md
-#: docs/content/tower_expansion.md docs/difficulties.md
-#: docs/events/a_shady_auction.md docs/events/artifact_merchant.md
-#: docs/events/crypt.md docs/events/cursed_swamp.md
-#: docs/events/den_of_thieves.md docs/events/garden_of_revelation.md
-#: docs/events/index.md docs/events/library_of_enlightenment.md
-#: docs/events/mage_laboratory.md docs/events/magical_forest.md
-#: docs/events/market_of_time.md docs/events/marketplace.md
-#: docs/events/mercenary_camp.md docs/events/messenger_with_supplies.md
-#: docs/events/mischievous_leprechaun.md docs/events/prison.md
-#: docs/events/school_of_magic_and_school_of_war.md
+#: docs/astrologers_proclaim/wind.md docs/content/azure_stretch_goals.md
+#: docs/content/battlefield_expansion.md docs/content/conflux_expansion.md
+#: docs/content/core_game.md docs/content/cove_expansion.md
+#: docs/content/crystal_stretch_goals.md docs/content/fortress_expansion.md
+#: docs/content/inferno_expansion.md docs/content/naval_battles_expansion.md
+#: docs/content/rampart_expansion.md docs/content/regular_stretch_goals.md
+#: docs/content/stronghold_expansion.md docs/content/tower_expansion.md
+#: docs/difficulties.md docs/events/a_shady_auction.md
+#: docs/events/artifact_merchant.md docs/events/crypt.md
+#: docs/events/cursed_swamp.md docs/events/den_of_thieves.md
+#: docs/events/garden_of_revelation.md docs/events/index.md
+#: docs/events/library_of_enlightenment.md docs/events/mage_laboratory.md
+#: docs/events/magical_forest.md docs/events/market_of_time.md
+#: docs/events/marketplace.md docs/events/mercenary_camp.md
+#: docs/events/messenger_with_supplies.md docs/events/mischievous_leprechaun.md
+#: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
 #: docs/fields/artifact_symbol.md docs/fields/black_market.md
-#: docs/fields/buoy.md docs/fields/creature_bank.md
-#: docs/fields/crypt_creature_bank.md docs/fields/cyclops_stockpile.md
+#: docs/fields/blocked_field.md docs/fields/buoy.md
+#: docs/fields/creature_bank.md docs/fields/crypt_creature_bank.md
+#: docs/fields/cyclops_stockpile.md
 #: docs/fields/cyclops_stockpile_creature_bank.md docs/fields/derelict_ship.md
 #: docs/fields/derelict_ship_creature_bank.md
 #: docs/fields/dragon_fly_hive_creature_bank.md docs/fields/dragon_utopia.md
 #: docs/fields/dragon_utopia_creature_bank.md
 #: docs/fields/dwarven_treasury_creature_bank.md
-#: docs/fields/elemental_conflux.md docs/fields/faerie_ring.md
-#: docs/fields/flotsam.md docs/fields/fountain_of_youth.md docs/fields/grail.md
-#: docs/fields/grave.md docs/fields/griffin_conservatory_creature_bank.md
-#: docs/fields/hill_fort.md docs/fields/imp_cache_creature_bank.md
-#: docs/fields/index.md docs/fields/jetsam.md docs/fields/learning_stone.md
-#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
-#: docs/fields/market_of_time.md docs/fields/medusa_stores_creature_bank.md
-#: docs/fields/mermaid.md docs/fields/mine.md docs/fields/mystical_garden.md
+#: docs/fields/elemental_conflux.md docs/fields/empty_field.md
+#: docs/fields/faerie_ring.md docs/fields/flotsam.md
+#: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/hill_fort.md
+#: docs/fields/imp_cache_creature_bank.md docs/fields/index.md
+#: docs/fields/jetsam.md docs/fields/land_field.md
+#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
+#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/medusa_stores_creature_bank.md docs/fields/mermaid.md
+#: docs/fields/mine.md docs/fields/monolith_one_way.md
+#: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
 #: docs/fields/naga_bank_creature_bank.md docs/fields/obelisk.md
-#: docs/fields/one_way_monolith.md docs/fields/pandoras_box.md
-#: docs/fields/prison.md docs/fields/pyramid_creature_bank.md
-#: docs/fields/random_town.md docs/fields/redwood_observatory.md
-#: docs/fields/resource_symbol.md docs/fields/sanctuary.md
-#: docs/fields/scholar.md docs/fields/sea_barrel.md docs/fields/sea_chest.md
-#: docs/fields/settlement.md docs/fields/shipwreck.md
-#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
-#: docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/pandoras_box.md docs/fields/prison.md
+#: docs/fields/pyramid_creature_bank.md docs/fields/random_town.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
+#: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
+#: docs/fields/sea_chest.md docs/fields/sea_field.md docs/fields/settlement.md
+#: docs/fields/shipwreck.md docs/fields/shipwreck_creature_bank.md
+#: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
 #: docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
 #: docs/fields/temple_of_the_sea.md docs/fields/town.md
 #: docs/fields/trading_post.md docs/fields/treasure_symbol.md
-#: docs/fields/tree_of_knowledge.md docs/fields/two_way_monolith.md
-#: docs/fields/university.md docs/fields/war_machine_factory.md
-#: docs/fields/warriors_tomb.md docs/fields/water_wheel.md
-#: docs/fields/windmill.md docs/fields/witch_hut.md docs/heroes/adelaide.md
-#: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/ash.md
-#: docs/heroes/astra.md docs/heroes/bron.md docs/heroes/casmetra.md
-#: docs/heroes/cassiopeia.md docs/heroes/catherine.md docs/heroes/ciele.md
-#: docs/heroes/clancy.md docs/heroes/crag_hack.md docs/heroes/cyra.md
-#: docs/heroes/deemer.md docs/heroes/dessa.md docs/heroes/dracon.md
-#: docs/heroes/erdamon.md docs/heroes/fiona.md docs/heroes/gelu.md
-#: docs/heroes/gem.md docs/heroes/gerwulf.md docs/heroes/gundula.md
-#: docs/heroes/index.md docs/heroes/ingham.md docs/heroes/iona.md
-#: docs/heroes/ivor.md docs/heroes/jeddite.md docs/heroes/jeremy.md
-#: docs/heroes/josephine.md docs/heroes/lord_haart_castle.md
-#: docs/heroes/lord_haart_necropolis.md docs/heroes/lorelei.md
-#: docs/heroes/luna.md docs/heroes/melodia.md docs/heroes/mephala.md
-#: docs/heroes/merist.md docs/heroes/miriam.md docs/heroes/moandor.md
-#: docs/heroes/monere.md docs/heroes/mutare.md docs/heroes/octavia.md
-#: docs/heroes/pasis.md docs/heroes/rashka.md docs/heroes/rion.md
-#: docs/heroes/sandro.md docs/heroes/sephinroth.md docs/heroes/septienna.md
-#: docs/heroes/shiva.md docs/heroes/solmyr.md docs/heroes/tamika.md
-#: docs/heroes/tarnum_castle.md docs/heroes/tarnum_conflux.md
-#: docs/heroes/tarnum_dungeon.md docs/heroes/tarnum_fortress.md
-#: docs/heroes/tarnum_rampart.md docs/heroes/tarnum_stronghold.md
-#: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/valeska.md
-#: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
-#: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
-#: docs/keywords/attack_die.md docs/keywords/center_tile.md
-#: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
-#: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
-#: docs/keywords/near_tile.md docs/keywords/relic_artifact.md
-#: docs/keywords/resource_die.md docs/keywords/revisitable_field.md
-#: docs/keywords/sea_tile.md docs/keywords/starting_tile.md
-#: docs/keywords/subterranean_tile.md docs/keywords/treasure_die.md
-#: docs/keywords/visitable_field.md docs/spells/air_shield.md
-#: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
-#: docs/spells/blind.md docs/spells/bloodlust.md docs/spells/chain_lightning.md
+#: docs/fields/tree_of_knowledge.md docs/fields/university.md
+#: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
+#: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
+#: docs/heroes/adelaide.md docs/heroes/adrienne.md docs/heroes/alamar.md
+#: docs/heroes/ash.md docs/heroes/astra.md docs/heroes/bron.md
+#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/catherine.md
+#: docs/heroes/ciele.md docs/heroes/clancy.md docs/heroes/crag_hack.md
+#: docs/heroes/cyra.md docs/heroes/deemer.md docs/heroes/dessa.md
+#: docs/heroes/dracon.md docs/heroes/erdamon.md docs/heroes/fiona.md
+#: docs/heroes/gelu.md docs/heroes/gem.md docs/heroes/gerwulf.md
+#: docs/heroes/gundula.md docs/heroes/index.md docs/heroes/ingham.md
+#: docs/heroes/iona.md docs/heroes/ivor.md docs/heroes/jeddite.md
+#: docs/heroes/jeremy.md docs/heroes/josephine.md
+#: docs/heroes/lord_haart_castle.md docs/heroes/lord_haart_necropolis.md
+#: docs/heroes/lorelei.md docs/heroes/luna.md docs/heroes/melodia.md
+#: docs/heroes/mephala.md docs/heroes/merist.md docs/heroes/miriam.md
+#: docs/heroes/moandor.md docs/heroes/monere.md docs/heroes/mutare.md
+#: docs/heroes/octavia.md docs/heroes/pasis.md docs/heroes/rashka.md
+#: docs/heroes/rion.md docs/heroes/sandro.md docs/heroes/sephinroth.md
+#: docs/heroes/septienna.md docs/heroes/shiva.md docs/heroes/solmyr.md
+#: docs/heroes/tamika.md docs/heroes/tarnum_castle.md
+#: docs/heroes/tarnum_conflux.md docs/heroes/tarnum_dungeon.md
+#: docs/heroes/tarnum_fortress.md docs/heroes/tarnum_rampart.md
+#: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
+#: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
+#: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
+#: docs/heroes/zydar.md docs/spells/air_shield.md docs/spells/anti-magic.md
+#: docs/spells/berserk.md docs/spells/bless.md docs/spells/blind.md
+#: docs/spells/bloodlust.md docs/spells/chain_lightning.md docs/spells/clone.md
 #: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
 #: docs/spells/dimension_door.md docs/spells/dispel.md
 #: docs/spells/disrupting_ray.md docs/spells/earthquake.md
 #: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
-#: docs/spells/fly.md docs/spells/forgetfulness.md docs/spells/fortune.md
-#: docs/spells/frenzy.md docs/spells/frost_ring.md docs/spells/haste.md
-#: docs/spells/implosion.md docs/spells/index.md docs/spells/inferno.md
-#: docs/spells/lightning_bolt.md docs/spells/magic_arrow.md
-#: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
-#: docs/spells/precision.md docs/spells/remove_obstacle.md
-#: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
-#: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
-#: docs/spells/sorrow.md docs/spells/stone_skin.md
-#: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
-#: docs/spells/summon_fire_elemental.md docs/spells/summon_water_elemental.md
-#: docs/spells/teleport.md docs/spells/town_portal.md docs/spells/view_air.md
-#: docs/spells/view_earth.md docs/spells/visions.md docs/spells/weakness.md
+#: docs/spells/fly.md docs/spells/force_field.md docs/spells/forgetfulness.md
+#: docs/spells/fortune.md docs/spells/frenzy.md docs/spells/frost_ring.md
+#: docs/spells/haste.md docs/spells/implosion.md docs/spells/inferno.md
+#: docs/spells/land_mine.md docs/spells/lightning_bolt.md
+#: docs/spells/magic_arrow.md docs/spells/magic_mirror.md docs/spells/mirth.md
+#: docs/spells/misfortune.md docs/spells/prayer.md docs/spells/precision.md
+#: docs/spells/protection_from_air.md docs/spells/protection_from_earth.md
+#: docs/spells/protection_from_fire.md docs/spells/protection_from_water.md
+#: docs/spells/quicksand.md docs/spells/remove_obstacle.md
+#: docs/spells/resurrection.md docs/spells/sacrifice.md docs/spells/shield.md
+#: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
+#: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
+#: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
+#: docs/spells/summon_water_elemental.md docs/spells/teleport.md
+#: docs/spells/town_portal.md docs/spells/view_air.md docs/spells/view_earth.md
+#: docs/spells/visions.md docs/spells/water_walk.md docs/spells/weakness.md
 #: docs/statistics/attack.md docs/statistics/defense.md
 #: docs/statistics/knowledge.md docs/statistics/power.md docs/tiles/c1.md
 #: docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md docs/tiles/c5.md
@@ -533,19 +601,23 @@ msgstr "Viene Con"
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/cannon.md
-#: docs/war_machines/first_aid_tent.md
+#: docs/war_machines/catapult.md docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
 msgstr "Ver También"
 
 #. type: Bullet: '- '
-#: docs/abilities/interference.md docs/artifacts/crown_of_the_five_seas.md
+#: docs/abilities/interference.md docs/abilities/offense.md
+#: docs/abilities/tactics.md docs/abilities/wisdom.md
+#: docs/artifacts/crown_of_the_five_seas.md
 #: docs/artifacts/plate_of_the_dying_light.md
 #: docs/artifacts/royal_armor_of_nix.md docs/artifacts/shamans_puppet.md
 #: docs/artifacts/shield_of_naval_glory.md
-#: docs/artifacts/trident_of_dominion.md docs/heroes/casmetra.md
-#: docs/heroes/cassiopeia.md docs/heroes/jeremy.md docs/heroes/zilare.md
-#: docs/keywords/sea_tile.md docs/tiles/f25.md docs/tiles/f26.md
+#: docs/artifacts/trident_of_dominion.md docs/astrologers_proclaim/pirates.md
+#: docs/astrologers_proclaim/whirlpool.md docs/astrologers_proclaim/wind.md
+#: docs/heroes/casmetra.md docs/heroes/cassiopeia.md docs/heroes/jeremy.md
+#: docs/heroes/zilare.md docs/spells/clone.md docs/spells/magic_arrow.md
+#: docs/spells/water_walk.md docs/tiles/f25.md docs/tiles/f26.md
 #: docs/tiles/f27.md docs/tiles/n22.md docs/tiles/s9.md docs/tiles/w1.md
 #: docs/tiles/w2.md docs/tiles/w3.md docs/tiles/w4.md docs/tiles/w5.md
 #: docs/tiles/w6.md docs/tiles/w7.md docs/towns/cove.md docs/units/ayssids.md
@@ -581,7 +653,6 @@ msgstr "[Expansión de Ensenada](../content/cove_expansion.md)"
 #: docs/heroes/tazar.md docs/heroes/torosar.md docs/heroes/valeska.md
 #: docs/heroes/vidomina.md docs/heroes/wystan.md docs/heroes/xyron.md
 #: docs/heroes/yog.md docs/heroes/zilare.md docs/heroes/zydar.md
-#: docs/keywords/far_tile.md docs/keywords/starting_tile.md
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
 #: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
 #: docs/towns/necropolis.md docs/towns/neutral.md docs/towns/rampart.md
@@ -800,7 +871,7 @@ msgstr ""
 #| "| :--- | :---: | :---: | :---: |\n"
 #| "| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |\n"
 #| "| Tier | :golden: | :golden: | :golden: |\n"
-#| "| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | 🚧 |\n"
+#| "| Type | [:unit_ground:](../units/index.md#ground-units) | [:unit_ground:](../units/index.md#ground-units) | 🚧 |\n"
 #| "| :attack: | 5 | **6** | 🚧 |\n"
 #| "| :defense: | 2 | 2 | 🚧 |\n"
 #| "| :health_points: | 7 | **8** | 🚧 |\n"
@@ -812,7 +883,7 @@ msgid ""
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :golden: | :golden: | :golden: |\n"
-"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |\n"
+"| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |\n"
 "| :attack: | 5 | **6** | 5 |\n"
 "| :defense: | 2 | 2 | 1 |\n"
 "| :health_points: | 7 | **8** | 7 |\n"
@@ -824,7 +895,7 @@ msgstr ""
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :golden: | :golden: | :golden: |\n"
-"| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | 🚧 |\n"
+"| Type | [:unit_ground:](../units/index.md#ground-units) | [:unit_ground:](../units/index.md#ground-units) | 🚧 |\n"
 "| :attack: | 5 | **6** | 🚧 |\n"
 "| :defense: | 2 | 2 | 🚧 |\n"
 "| :health_points: | 7 | **8** | 🚧 |\n"

@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: When casting a [:spellpower:](../spells/index.md) from the [School of Air Magic](../spells/school_of_air_magic.md), double the :empower: used for this [spell](../spells/index.md).<br><br>— OR —<br><br>:instant: When casting a [Air Magic :spellpower:](../spells/school_of_air_magic.md), Remove this card to gain +5 :empower:.</p>
+<p style="text-align: center;" markdown>:ongoing: When casting a [:spellpower:](../spells/index.md) from the [School of Air Magic](../spells/index.md#school-of-air-magic), double the :empower: used for this [spell](../spells/index.md).<br><br>— OR —<br><br>:instant: When casting a [Air Magic :spellpower:](../spells/index.md#school-of-air-magic), Remove this card to gain +5 :empower:.</p>
 ___
 <p style="text-align: center;" markdown>*You come across a conjurer who begs to accompany you and your army awhile for safety. You agree, and he offers as payment a strange orb of the elements.*</p>
 

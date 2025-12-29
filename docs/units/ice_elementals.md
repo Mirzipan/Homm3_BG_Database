@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
 | :attack: | 2 | **3** | 2 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 4 | **5** | 3 |
 | :initiative: | 5 | **6** | 5 |
 | Cost | 4 :gold: | 7 :gold: | 7 :gold: |
-| Abilities | - | :activation: Add +1 :empower: to the first [Water Magic spell](../spells/school_of_water_magic.md) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Water Magic :spellpower:](../spells/school_of_water_magic.md). This unit deals elemental damage. |
+| Abilities | - | :activation: Add +1 :empower: to the first [Water Magic spell](../spells/index.md#school-of-water-magic) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Water Magic :spellpower:](../spells/index.md#school-of-water-magic). This unit deals elemental damage. |
 
 
 ## Comes With

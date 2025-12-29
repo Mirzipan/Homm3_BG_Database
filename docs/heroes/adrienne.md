@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/school_of_fire_magic.md) are cast with +1 :empower:. |
+| Ⅰ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/index.md#school-of-fire-magic) are cast with +1 :empower:. |
 | Ⅳ | :instant: **Search (3)** your deck, then shuffle your cards from the discard pile into the deck. |
-| Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/school_of_fire_magic.md) are cast with +2 :empower:. |
+| Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/index.md#school-of-fire-magic) are cast with +2 :empower:. |
 
 
 ## Appearances As Player Hero

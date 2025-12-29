@@ -42,7 +42,7 @@ search:
 | [Tarnum](tarnum_rampart.md) | [Rampart](../towns/tower.md) | :might: Ranger | [Leadership](../abilities/leadership.md) | [Sharpshooters](tarnum_rampart.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Adrienne](adrienne.md) | [Fortress](../towns/fortress.md) | :magic: Witch | [Wisdom](../abilities/wisdom.md) | [Fire Magic](adrienne.md#specialty) | [Fortress Expansion](../content/fortress_expansion.md) |
 | [Bron](bron.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](bron.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |
-| [Gerwulf](gerwulf.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Armorer](mephala.md#specialty) | [Ballista](gerwulf.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
+| [Gerwulf](gerwulf.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [Ballista](gerwulf.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Merist](merist.md) | [Fortress](../towns/fortress.md) | :magic: Witch | [First Aid](../abilities/first_aid.md) | [Stone Skin](merist.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Tarnum](tarnum_fortress.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [Basilisks](tarnum_fortress.md#specialty) | [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Tazar](tazar.md) | [Fortress](../towns/fortress.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [War Hero](tazar.md#specialty) | [Tower Expansion](../content/tower_expansion.md) |

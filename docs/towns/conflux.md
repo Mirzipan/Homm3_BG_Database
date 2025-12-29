@@ -16,23 +16,36 @@
 
 ## Heroes
 
-- :magic: [Ciele](../heroes/ciele.md) 
-- :might: [Erdamon](../heroes/erdamon.md) 
-- :magic: [Luna](../heroes/luna.md) 
-- :might: [Monere](../heroes/monere.md) 
-- :might: [Pasis](../heroes/pasis.md) 
-- :magic: [Tarnum](../heroes/tarnum_conflux.md) 
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Ciele](../heroes/ciele.md) | :magic: Elementalist | [Water Magic](../abilities/water_magic.md) | [Magic Arrow](../heroes/ciele.md#specialty) |
+| [Erdamon](../heroes/erdamon.md) | :might: Planeswalker | [Estates](../abilities/estates.md) | [Magma Elementals](../heroes/erdamon.md#specialty) |
+| [Luna](../heroes/luna.md) | :magic: Elementalist | [Basic Fire Magic](../abilities/basic_fire_magic.md) | [Fire Wall](../heroes/luna.md#specialty) |
+| [Monere](../heroes/monere.md) | :might: Planeswalker | [Logistics](../abilities/logistics.md) | [Magic Elementals](../heroes/monere.md#specialty) |
+| [Pasis](../heroes/pasis.md) | :might: Planeswalker | [Artillery](../abilities/artillery.md) | [Elementals](../heroes/pasis.md#specialty) |
+| [Tarnum](../heroes/tarnum_conflux.md) | :magic: Elementalist | [Wisdom](../abilities/wisdom.md) | [Enchanters](../heroes/tarnum_conflux.md#specialty) |
 
 
 ## Units
 
-- :bronze: [Sprites](../units/sprites.md)
-- :bronze: [Storm Elementals](../units/storm_elementals.md)
-- :bronze: [Ice Elementals](../units/ice_elementals.md)
-- :silver: [Energy Elementals](../units/energy_elementals.md)
-- :silver: [Magma Elementals](../units/magma_elementals.md)
-- :golden: [Magic Elementals](../units/magic_elementals.md)
-- :golden: [Phoenixes](../units/phoenixes.md)
+For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
+
+| Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
+| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| [Sprites](../units/sprites.md) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 2 | 7 | 2 :gold: | - |
+| [Sprites](../units/sprites.md) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | **4** | **9** | 4 :gold: | :unit_attack: |
+| [Storm Elementals](../units/storm_elementals.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 0 | 3 | 7 | 3 :gold: | - |
+| [Storm Elementals](../units/storm_elementals.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | **5** | **8** | 5 :gold: | :activation: |
+| [Ice Elementals](../units/ice_elementals.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 4 | 5 | 4 :gold: | - |
+| [Ice Elementals](../units/ice_elementals.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | **3** | 1 | **5** | **6** | 7 :gold: | :activation: |
+| [Energy Elementals](../units/energy_elementals.md) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 3 | 1 | 5 | 5 | 6 :gold: | - |
+| [Energy Elementals](../units/energy_elementals.md) | Pack | :silver: | [:unit_flying:](../units/index.md#flying-units) | **4** | 1 | 5 | **8** | 8 :gold: | :activation: |
+| [Magma Elementals](../units/magma_elementals.md) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 2 | 5 | 4 | 9 :gold: | - |
+| [Magma Elementals](../units/magma_elementals.md) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | **5** | 2 | 5 | **6** | 13 :gold: | :activation: |
+| [Magic Elementals](../units/magic_elementals.md) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 4 | 2 | 7 | 7 | 13 :gold: | :unit_attack: |
+| [Magic Elementals](../units/magic_elementals.md) | Pack | :golden: | [:unit_ground:](../units/index.md#ground-units) | **5** | 2 | 7 | **9** | 19 :gold:<br>1 :valuables: | :unit_attack: :unit_passive: |
+| [Phoenixes](../units/phoenixes.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 6 | 2 | 7 | 12 | 21 :gold:<br>1 :valuables: | :unit_passive: :unit_passive: |
+| [Phoenixes](../units/phoenixes.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **7** | 2 | **8** | **18** | 29 :gold:<br>2 :valuables: | :unit_attack: :unit_passive: |
 
 
 ## Comes With

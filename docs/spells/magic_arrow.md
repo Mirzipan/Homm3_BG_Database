@@ -22,14 +22,18 @@ ___
 - [Rampart Expansion](../content/rampart_expansion.md)
 - [Fortress Expansion](../content/fortress_expansion.md)
 - [Inferno Expansion](../content/inferno_expansion.md)
+- [Stronghold Expansion](../content/stronghold_expansion.md)
+- [Conflux Expansion](../content/conflux_expansion.md)
+- [Cove Expansion](../content/cove_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md) (Alternate Heroes 2 art)
 
 
 ## See Also
 
-- [School of Air Magic](school_of_air_magic.md)
-- [School of Earth Magic](school_of_earth_magic.md)
-- [School of Fire Magic](school_of_fire_magic.md)
-- [School of Water Magic](school_of_water_magic.md)
+- [School of Air Magic](index.md#school-of-air-magic)
+- [School of Earth Magic](index.md#school-of-earth-magic)
+- [School of Fire Magic](index.md#school-of-fire-magic)
+- [School of Water Magic](index.md#school-of-water-magic)
 - [List of Spells](index.md)
 
 

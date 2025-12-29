@@ -34,23 +34,36 @@
 
 ## Heroes
 
-- :magic: [Ash](../heroes/ash.md)
-- :might: [Fiona](../heroes/fiona.md)
-- :might: [Octavia](../heroes/octavia.md)
-- :might: [Rashka](../heroes/rashka.md)
-- :magic: [Xyron](../heroes/xyron.md)
-- :magic: [Zydar](../heroes/zydar.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Ash](../heroes/ash.md) | :magic: Heretic | [Eagle Eye](../abilities/eagle_eye.md) | [Bloodlust](../heroes/ash.md#specialty) |
+| [Fiona](../heroes/fiona.md) | :might: Demoniac | [Scouting](../abilities/scouting.md) | [Cerberi](../heroes/fiona.md#specialty) |
+| [Octavia](../heroes/octavia.md) | :might: Demoniac | [Scholar](../abilities/scholar.md) | [Gold](../heroes/octavia.md#specialty) |
+| [Rashka](../heroes/rashka.md) | :might: Demoniac | [Scholar](../abilities/scholar.md) | [Efreet](../heroes/rashka.md#specialty) |
+| [Xyron](../heroes/xyron.md) | :magic: Heretic | [Wisdom](../abilities/wisdom.md) | [Inferno](../heroes/xyron.md#specialty) |
+| [Zydar](../heroes/zydar.md) | :magic: Heretic | [Sorcery](../abilities/sorcery.md) | [Sorcery](../heroes/zydar.md#specialty) |
 
 
 ## Units
 
-- :bronze: [Familiars](../units/familiars.md)
-- :bronze: [Magogs](../units/magogs.md)
-- :bronze: [Cerberi](../units/cerberi.md)
-- :silver: [Demons](../units/demons.md)
-- :silver: [Pit Lords](../units/pit_lords.md)
-- :golden: [Efreet](../units/efreet.md)
-- :golden: [Arch Devils](../units/arch_devils.md)
+For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
+
+| Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
+| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| [Familiars](../units/familiars.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 2 | 5 | 2 :gold: | - |
+| [Familiars](../units/familiars.md) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **3** | 1 | 2 | **7** | 3 :gold: | :unit_passive: |
+| [Magogs](../units/magogs.md) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 2 | 4 | 3 :gold: | - |
+| [Magogs](../units/magogs.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | **3** | **6** | 5 :gold: | :unit_attack: |
+| [Cerberi](../units/cerberi.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 3 | 0 | 4 | 7 | 4 :gold: | - |
+| [Cerberi](../units/cerberi.md) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 3 | **1** | **5** | **8** | 7 :gold: | :unit_attack: |
+| [Demons](../units/demons.md) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 3 | 2 | 4 | 5 | 6 :gold: | - |
+| [Demons](../units/demons.md) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | 3 | 2 | **5** | **6** | 8 :gold: | - |
+| [Pit Lords](../units/pit_lords.md) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 1 | 6 | 6 | 8 :gold: | - |
+| [Pit Lords](../units/pit_lords.md) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | **5** | 1 | 6 | **7** | 15 :gold: | :unit_other: |
+| [Efreet](../units/efreet.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 5 | 1 | 7 | 9 | 12 :gold: | :unit_passive: |
+| [Efreet](../units/efreet.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **6** | 1 | 7 | **13** | 18 :gold:<br>1 :valuables: | :unit_passive: |
+| [Arch Devils](../units/arch_devils.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 6 | 3 | 8 | 11 | 22 :gold:<br>1 :valuables: | :unit_attack: |
+| [Arch Devils](../units/arch_devils.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **7** | 3 | **9** | **15** | 30 :gold:<br>2 :valuables: | :unit_attack: :unit_passive: |
 
 
 ## Comes With

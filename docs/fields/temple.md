@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
 ___
-<p style="text-align: center;" markdown>Gain [:morale_positive:](../keywords/positive_morale.md) token.</p>
+<p style="text-align: center;" markdown>Gain [:morale_positive:](../keywords/morale.md#positive) token.</p>
 ___
 
 

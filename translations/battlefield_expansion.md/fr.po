@@ -209,8 +209,8 @@ msgstr ""
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -342,10 +342,10 @@ msgstr ""
 #: docs/content/battlefield_expansion.md
 #, fuzzy
 #| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
-msgid "[Positive Morale](../keywords/positive_morale.md) Cards"
+msgid "[Positive Morale](../keywords/morale.md#positive) Cards"
 msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keywords/visitable_field.md)</p>\n"
 
 #. type: Bullet: '- '
 #: docs/content/battlefield_expansion.md
-msgid "[Negative Morale](../keywords/negative_morale.md) Cards"
+msgid "[Negative Morale](../keywords/morale.md#negative) Cards"
 msgstr ""

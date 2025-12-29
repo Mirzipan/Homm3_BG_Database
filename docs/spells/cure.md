@@ -3,7 +3,7 @@
 ![Cure](../assets/spells-cure.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Basic Water Spell](school_of_water_magic.md)</p>
+<p style="text-align: center;" markdown>[Basic Water Spell](index.md#school-of-water-magic)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), and remove from this [unit](../units/index.md) up to:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 1 ➣ 2 :damage:<br>:empower: 2 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
@@ -23,7 +23,7 @@ ___
 
 ## See Also
 
-- [School of Water Magic](school_of_water_magic.md)
+- [School of Water Magic](index.md#school-of-water-magic)
 - [List of Spells](index.md)
 
 

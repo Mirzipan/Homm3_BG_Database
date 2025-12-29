@@ -164,8 +164,8 @@ msgstr ""
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -223,11 +223,11 @@ msgstr "Ver También"
 #: docs/spells/disrupting_ray.md docs/spells/fly.md docs/spells/fortune.md
 #: docs/spells/haste.md docs/spells/index.md docs/spells/lightning_bolt.md
 #: docs/spells/magic_arrow.md docs/spells/precision.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/summon_air_elemental.md
 #: docs/spells/view_air.md
-msgid "[School of Air Magic](school_of_air_magic.md)"
-msgstr "[Escuela de Magia Aérea](school_of_air_magic.md)"
+msgid "[School of Air Magic](index.md#school-of-air-magic)"
+msgstr "[Escuela de Magia Aérea](index.md#school-of-air-magic)"
 
 #. type: Bullet: '- '
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
@@ -243,9 +243,9 @@ msgstr "[Escuela de Magia Aérea](school_of_air_magic.md)"
 #: docs/spells/magic_arrow.md docs/spells/mirth.md docs/spells/misfortune.md
 #: docs/spells/prayer.md docs/spells/precision.md
 #: docs/spells/remove_obstacle.md docs/spells/resurrection.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
 #: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
@@ -258,110 +258,110 @@ msgstr "[Lista de Hechizos](index.md)"
 #. type: Bullet: '- '
 #: docs/spells/anti-magic.md docs/spells/earthquake.md docs/spells/implosion.md
 #: docs/spells/index.md docs/spells/magic_arrow.md docs/spells/resurrection.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slow.md docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_earth_elemental.md docs/spells/town_portal.md
 #: docs/spells/view_earth.md
-msgid "[School of Earth Magic](school_of_earth_magic.md)"
-msgstr "[Escuela de Magia Terrestre](school_of_earth_magic.md)"
+msgid "[School of Earth Magic](index.md#school-of-earth-magic)"
+msgstr "[Escuela de Magia Terrestre](index.md#school-of-earth-magic)"
 
 #. type: Bullet: '- '
 #: docs/spells/berserk.md docs/spells/blind.md docs/spells/bloodlust.md
 #: docs/spells/curse.md docs/spells/fire_shield.md docs/spells/fire_wall.md
 #: docs/spells/fireball.md docs/spells/frenzy.md docs/spells/index.md
 #: docs/spells/inferno.md docs/spells/magic_arrow.md docs/spells/misfortune.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #: docs/spells/visions.md
-msgid "[School of Fire Magic](school_of_fire_magic.md)"
-msgstr "[Escuela de Magia Ígnea](school_of_fire_magic.md)"
+msgid "[School of Fire Magic](index.md#school-of-fire-magic)"
+msgstr "[Escuela de Magia Ígnea](index.md#school-of-fire-magic)"
 
 #. type: Plain text
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 msgid "One of the four schools of magic."
 msgstr "Una de las cuatro escuelas de magia."
 
 #. type: Title ##
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #, no-wrap
 msgid "Basic"
 msgstr "Básico"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 msgid "[Magic Arrow](magic_arrow.md)"
 msgstr "[Magic Arrow] (Magic_arrow.md)"
 
 #. type: Title ##
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #, no-wrap
 msgid "Expert"
 msgstr "Experto"
 
 #. type: Title #
-#: docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-water-magic
 #, no-wrap
 msgid "School of Water Magic"
 msgstr "Escuela de Magia Acuática"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-water-magic
 msgid "[Bless](bless.md)"
 msgstr "[Bendición](bless.md)"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-water-magic
 msgid "[Cure](cure.md)"
 msgstr "[Curación](cure.md)"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-water-magic
 msgid "[Dispel](dispel.md)"
 msgstr "[Disipar](dispel.md)"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-water-magic
 msgid "[Forgetfulness](forgetfulness.md)"
 msgstr "[Olvido](forgetfulness.md)"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-water-magic
 msgid "[Remove Obstacle](remove_obstacle.md)"
 msgstr "[Eliminar Obstáculo](remove_obstacle.md)"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-water-magic
 msgid "[Weakness](weakness.md)"
 msgstr "[Debilidad](weakness.md)"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-water-magic
 msgid "[Frost Ring](frost_ring.md)"
 msgstr "[Anillo Helado](frost_ring.md)"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-water-magic
 msgid "[Mirth](mirth.md)"
 msgstr "[Alegría](mirth.md)"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-water-magic
 msgid "[Prayer](prayer.md)"
 msgstr "[Plegaria](prayer.md)"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md docs/spells/summon_air_elemental.md
+#: docs/spells/index.md#school-of-water-magic docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
 msgid "[Summon Water Elemental](summon_water_elemental.md)"
 msgstr "[Invocar Elemental de Agua](summon_water_elemental.md)"
 
 #. type: Bullet: '- '
-#: docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-water-magic
 msgid "[Teleport](teleport.md)"
 msgstr "[Teletransporte](teleport.md)"
