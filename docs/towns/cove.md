@@ -16,23 +16,36 @@
 
 ## Heroes
 
-- :magic: [Astra](../heroes/astra.md)
-- :magic: [Casmetra](../heroes/casmetra.md)
-- :might: [Cassiopeia](../heroes/cassiopeia.md)
-- :might: [Jeremy](../heroes/jeremy.md)
-- :might: [Miriam](../heroes/miriam.md)
-- :magic: [Zilare](../heroes/zilare.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Astra](../heroes/astra.md) | :magic: Navigator | [Luck](../abilities/luck.md) | [Cure](../heroes/astra.md#specialty) |
+| [Casmetra](../heroes/casmetra.md) | :magic: Navigator | [Wisdom](../abilities/wisdom.md) | [Sorceresses](../heroes/casmetra.md#specialty) |
+| [Cassiopeia](../heroes/cassiopeia.md) | :might: Captain | [Tactics](../abilities/tactics.md) | [Oceanids](../heroes/cassiopeia.md#specialty) |
+| [Jeremy](../heroes/jeremy.md) | :might: Captain | [Offense](../abilities/offense.md) | [Cannon](../heroes/jeremy.md#specialty) |
+| [Miriam](../heroes/miriam.md) | :might: Captain | [Logistics](../abilities/logistics.md) | [Scouting](../heroes/miriam.md#specialty) |
+| [Zilare](../heroes/zilare.md) | :magic: Navigator | [Interference](../abilities/interference.md) | [Forgetfulness](../heroes/zilare.md#specialty) |
 
 
 ## Units
 
-- :bronze: [Oceanids](../units/oceanids.md)
-- :bronze: [Seamen](../units/seamen.md)
-- :bronze: [Sea Dogs](../units/sea_dogs.md)
-- :silver: [Ayssids](../units/ayssids.md)
-- :silver: [Sorceresses](../units/sorceresses.md)
-- :golden: [Nix](../units/nix.md)
-- :golden: [Haspids](../units/haspids.md)
+For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
+
+| Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
+| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| [Oceanids](../units/oceanids.md) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | 2 :gold: | - |
+| [Oceanids](../units/oceanids.md) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | **3** | 0 | 3 | **8** | 3 :gold: | :unit_passive: |
+| [Seamen](../units/seamen.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 3 | 5 | 3 :gold: | - |
+| [Seamen](../units/seamen.md) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | **5** | **6** | 5 :gold: | :unit_passive: |
+| [Sea Dogs](../units/sea_dogs.md) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 4 | 6 | 4 :gold: | :unit_passive: |
+| [Sea Dogs](../units/sea_dogs.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | **3** | 0 | **5** | **8** | 6 :gold: | :unit_attack: :unit_passive: |
+| [Ayssids](../units/ayssids.md) | Few | :silver: | [:unit_flying:](../units/index.md#flying-units) | 3 | 1 | 5 | 9 | 6 :gold: | - |
+| [Ayssids](../units/ayssids.md) | Pack | :silver: | [:unit_flying:](../units/index.md#flying-units) | 3 | 1 | **6** | **11** | 10 :gold: | :unit_attack: |
+| [Sorceresses](../units/sorceresses.md) | Few | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 1 | 5 | 6 | 8 :gold: | :unit_other: |
+| [Sorceresses](../units/sorceresses.md) | Pack | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | **4** | 1 | **6** | **7** | 13 :gold: | :unit_attack: |
+| [Nix](../units/nix.md) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 5 | 2 | 7 | 6 | 12 :gold: | - |
+| [Nix](../units/nix.md) | Pack | :golden: | [:unit_ground:](../units/index.md#ground-units) | **6** | 2 | **8** | **7** | 20 :gold:<br>1 :valuables: | :unit_passive: |
+| [Haspids](../units/haspids.md) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 5 | 3 | 8 | 9 | 18 :gold:<br>1 :valuables: | :unit_attack: |
+| [Haspids](../units/haspids.md) | Pack | :golden: | [:unit_ground:](../units/index.md#ground-units) | **7** | 3 | 8 | **12** | 30 :gold:<br>2 :valuables: | :unit_attack: |
 
 
 ## Comes With

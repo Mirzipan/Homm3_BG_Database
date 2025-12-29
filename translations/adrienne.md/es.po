@@ -349,8 +349,8 @@ msgstr "Viene Con"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -639,15 +639,15 @@ msgstr ""
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/school_of_fire_magic.md) are cast with +1 :empower:. |\n"
+"| Ⅰ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/index.md#school-of-fire-magic) are cast with +1 :empower:. |\n"
 "| Ⅳ | :instant: **Search (3)** your deck, then shuffle your cards from the discard pile into the deck. |\n"
-"| Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/school_of_fire_magic.md) are cast with +2 :empower:. |\n"
+"| Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/index.md#school-of-fire-magic) are cast with +2 :empower:. |\n"
 msgstr ""
 "| Nivel | Descripción |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia Ígnea](../spells/school_of_fire_magic.md) son lanzados con +1 :empower:. |\n"
+"| Ⅰ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia Ígnea](../spells/index.md#school-of-fire-magic) son lanzados con +1 :empower:. |\n"
 "| Ⅳ | :instant: **Busca (3)** en tu mazo, después baraja tus cartas de tu pila de descartes junto con el mazo. |\n"
-"| Ⅵ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia Ígnea](../spells/school_of_fire_magic.md) son lanzados con +2 :empower:. |\n"
+"| Ⅵ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia Ígnea](../spells/index.md#school-of-fire-magic) son lanzados con +2 :empower:. |\n"
 
 #. type: Title ##
 #: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/catherine.md

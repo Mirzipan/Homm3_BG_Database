@@ -1,16 +1,26 @@
 # Archery
 
-![Archery](../assets/abilities-archery.webp){ width="340" align=right }
+=== "Regular"
+
+    <figure markdown="span">
+        ![Archery](../assets/abilities-archery.webp){ width="340" align=right }
+    </figure>
+
+=== "Empowered"
+
+    <figure markdown="span">
+        ![Empowered Archery](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: During this Combat round, your [Ranged units](../keywords/ranged_unit.md) gain +1 :attack: if the target is a non-adjacent [unit](../units/index.md).</p>
-___
-<p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:ongoing: Until the end of the next Combat round, your [Ranged units](../keywords/ranged_unit.md) gain +1 :initiative: and +1 :attack: if the target is a non-adjacent [unit](../units/index.md).</p>
-___
+| Type | Effect | :expert: Effect |
+| :--- | :---: | :---: |
+| Regular | :ongoing: During this Combat round, your [Ranged units](../units/index.md#ranged-units) gain +1 :attack: if the target is a non-adjacent [unit](../units/index.md). | :ongoing: Until the end of the next Combat round, your [Ranged units](../units/index.md#ranged-units) gain +1 :initiative: and +1 :attack: if the target is a non-adjacent [unit](../units/index.md). |
+| Empowered | :ongoing: Until the end of the next Combat round, all of your [Ranged units](../units/index.md#ranged-units) gain +1 :initiative: and +1 :attack: if the target is a non-adjacent [unit](../units/index.md). | - |
 
 
 ## Heroes With Starting Ability
@@ -28,9 +38,11 @@ ___
 ## Comes With
 
 - [Core Game](../content/core_game.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also
 
 - [List of Abilities](index.md)
-- [List of Ranged Units](../keywords/ranged_unit.md)
+- [List of Ranged Units](../units/index.md#ranged-units)

@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
 | :attack: | 2 | 2 | 2 |
 | :defense: | 0 | 0 | 0 |
 | :health_points: | 3 | **5** | 3 |
 | :initiative: | 7 | **8** | 7 |
 | Cost | 3 :gold: | 5 :gold: | 5 :gold: |
-| Abilities | - | :activation: Add +1 :empower: to the first [Air Magic spell](../spells/school_of_air_magic.md) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spellpower:](../spells/school_of_air_magic.md). This unit deals elemental damage. |
+| Abilities | - | :activation: Add +1 :empower: to the first [Air Magic spell](../spells/index.md#school-of-air-magic) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spellpower:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. |
 
 
 ## Comes With

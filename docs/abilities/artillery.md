@@ -1,16 +1,26 @@
 # Artillery
 
-![Artillery](../assets/abilities-artillery.webp){ width="340" align=right }
+=== "Regular"
+
+    <figure markdown="span">
+        ![Artillery](../assets/abilities-artillery.webp){ width="340" align=right }
+    </figure>
+
+=== "Empowered"
+
+    <figure markdown="span">
+        ![Empowered Artillery](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Deal 1 :damage: to an enemy [unit](../units/index.md) with the lowest :initiative:.</p>
-___
-<p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:instant: When using the [Ballista](../war_machines/ballista.md) card, resolve its effect against the same target 3 times.</p>
-___
+| Type | Effect | :expert: Effect |
+| :--- | :---: | :---: |
+| Regular | :instant: Deal 1 :damage: to an enemy [unit](../units/index.md) with the lowest :initiative:. | :instant: When using the [Ballista](../war_machines/ballista.md) card, resolve its effect against the same target 3 times. |
+| Empowered | :instant: When using the [Ballista](../war_machines/ballista.md) card, resolve its effect against the same target 3 times. | - |
 
 
 ## Heroes With Starting Ability
@@ -30,6 +40,8 @@ ___
 ## Comes With
 
 - [Rampart Expansion](../content/rampart_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also

@@ -3,7 +3,7 @@
 ![Town Portal](../assets/spells-town_portal.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Expert Earth Spell](school_of_earth_magic.md)</p>
+<p style="text-align: center;" markdown>[Expert Earth Spell](index.md#school-of-earth-magic)</p>
 ___
 <p style="text-align: center;" markdown>:effect_map: Move your [Hero](../heroes/index.md) to a selected [Town](../towns/index.md) or Settlement in your control, and:<br><br>:empower: 0 ➣ No additional effect<br>:empower: 2 ➣ +1 :movement:<br>:empower: 4 ➣ +2 :movement:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
@@ -21,7 +21,7 @@ ___
 
 ## See Also
 
-- [School of Earth Magic](school_of_earth_magic.md)
+- [School of Earth Magic](index.md#school-of-earth-magic)
 - [List of Spells](index.md)
 
 

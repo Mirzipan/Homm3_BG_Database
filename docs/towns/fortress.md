@@ -34,24 +34,37 @@
 
 ## Heroes
 
-- :magic: [Adrienne](../heroes/adrienne.md)
-- :might: [Bron](../heroes/bron.md)
-- :might: [Gerwulf](../heroes/gerwulf.md)
-- :magic: [Merist](../heroes/merist.md)
-- :might: [Tarnum](../heroes/tarnum_fortress.md)
-- :might: [Tazar](../heroes/tazar.md)
-- :might: [Wystan](../heroes/wystan.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Adrienne](../heroes/adrienne.md) | :magic: Witch | [Wisdom](../abilities/wisdom.md) | [Fire Magic](../heroes/adrienne.md#specialty) |
+| [Bron](../heroes/bron.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](../heroes/bron.md#specialty) |
+| [Gerwulf](../heroes/gerwulf.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [Ballista](../heroes/gerwulf.md#specialty) |
+| [Merist](../heroes/merist.md) | :magic: Witch | [First Aid](../abilities/first_aid.md) | [Stone Skin](../heroes/merist.md#specialty) |
+| [Tarnum](../heroes/tarnum_fortress.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [Basilisks](../heroes/tarnum_fortress.md#specialty) |
+| [Tazar](../heroes/tazar.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [War Hero](../heroes/tazar.md#specialty) |
+| [Wystan](../heroes/wystan.md) | :might: Beastmaster | [Archery](../abilities/archery.md) | [Lizardmen](../heroes/wystan.md#specialty) |
 
 
 ## Units
 
-- :bronze: [Gnolls](../units/gnolls.md)
-- :bronze: [Lizardmen](../units/lizardmen.md)
-- :bronze: [Dragon Flies](../units/dragon_flies.md)
-- :silver: [Basilisks](../units/basilisks.md)
-- :silver: [Gorgons](../units/gorgons.md)
-- :golden: [Wyverns](../units/wyverns.md)
-- :golden: [Hydras](../units/hydras.md)
+For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
+
+| Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
+| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| [Gnolls](../units/gnolls.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 3 | 4 | 2 :gold: | - |
+| [Gnolls](../units/gnolls.md) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | **4** | **5** | 3 :gold: | - |
+| [Lizardmen](../units/lizardmen.md) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 3 | 4 | 3 :gold: | - |
+| [Lizardmen](../units/lizardmen.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | **3** | 0 | 3 | **5** | 5 :gold: | - |
+| [Dragon Flies](../units/dragon_flies.md) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 3 | 0 | 3 | 8 | 4 :gold: | :unit_attack: :ongoing: |
+| [Dragon Flies](../units/dragon_flies.md) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 3 | **1** | 3 | **12** | 7 :gold: | :unit_attack: :ongoing: |
+| [Basilisks](../units/basilisks.md) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 1 | 4 | 5 | 6 :gold: | :unit_attack: |
+| [Basilisks](../units/basilisks.md) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 1 | **5** | **7** | 9 :gold: | :unit_attack: |
+| [Gorgons](../units/gorgons.md) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 2 | 5 | 5 | 9 :gold: | - |
+| [Gorgons](../units/gorgons.md) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | **5** | 2 | 5 | **6** | 14 :gold: | :unit_attack: |
+| [Wyverns](../units/wyverns.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 5 | 1 | 8 | 7 | 12 :gold: | :unit_attack: |
+| [Wyverns](../units/wyverns.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **6** | 1 | 8 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: |
+| [Hydras](../units/hydras.md) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 6 | 3 | 8 | 5 | 20 :gold:<br>1 :valuables: | :unit_attack: |
+| [Hydras](../units/hydras.md) | Pack | :golden: | [:unit_ground:](../units/index.md#ground-units) | **7** | 3 | **10** | **7** | 28 :gold:<br>2 :valuables: | :unit_attack: |
 
 
 ## Comes With

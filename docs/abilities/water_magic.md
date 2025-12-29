@@ -1,16 +1,26 @@
 # Water Magic
 
-![Water Magic](../assets/abilities-water_magic.webp){ width="340" align=right }
+=== "Regular"
+
+    <figure markdown="span">
+        ![Water Magic](../assets/abilities-water_magic.webp){ width="340" align=right }
+    </figure>
+
+=== "Empowered"
+
+    <figure markdown="span">
+        ![Empowered Water Magic](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Water Magic](../spells/school_of_water_magic.md).</p>
-___
-<p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>While casting :spellpower: from the [School of Water](../spells/school_of_water_magic.md), you can discard this card, then gain +3 :empower:.</p>
-___
+| Type | Effect | :expert: Effect |
+| :--- | :---: | :---: |
+| Regular | :permanent: +1 :empower: for spells from [School of Water Magic](../spells/index.md#school-of-water-magic). | When casting :spellpower: from the [School of Water](../spells/index.md#school-of-water-magic), you can discard this card, then gain +3 :empower:. |
+| Empowered | :permanent: +1 :empower: for spells from [School of Water Magic](../spells/index.md#school-of-water-magic).<br><br>— OR —<br><br>:instant: When casting :spellpower: from the [School of Water](../spells/index.md#school-of-water-magic), you can discard this card, then gain +3 :empower:. | - |
 
 
 ## Heroes With Starting Ability
@@ -27,9 +37,11 @@ ___
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also
 
 - [List of Abilities](index.md)
-- [School of Water Magic](../spells/school_of_water_magic.md)
+- [School of Water Magic](../spells/index.md#school-of-water-magic)

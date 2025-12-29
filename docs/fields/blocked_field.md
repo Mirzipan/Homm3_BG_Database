@@ -22,7 +22,9 @@ ___
 
 ## See Also
 
-- [Empty Filed](empty_field.md)
+- [Empty Field](empty_field.md)
+- [Land Field](land_field.md)
+- [Sea Field](sea_field.md)
 - [List of Fields](index.md)
 - [List of Tiles](../tiles/index.md)
 

@@ -29,7 +29,7 @@
 | :--- | :---: | :---: | :---: | :---: |
 | Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) | - |
 | Tier | :golden: | :golden: | :golden: | - |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
 | :attack: | 5 | **6** | 5 | 4 |
 | :defense: | 2 | 2 | 1 | 1 |
 | :health_points: | 7 | 7 | 6 | 5 |

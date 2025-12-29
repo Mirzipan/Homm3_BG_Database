@@ -1,5 +1,0 @@
-# :defense: Defense Value
-
-
-## Notes
-

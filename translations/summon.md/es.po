@@ -1,0 +1,110 @@
+# Spanish translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-12-28 22:47+0000\n"
+"PO-Revision-Date: 2025-12-28 22:47+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: Title ##
+#: docs/abilities/air_magic.md docs/abilities/air_magic_empowered.md
+#: docs/abilities/archery.md docs/abilities/archery_empowered.md
+#: docs/abilities/armorer.md docs/abilities/armorer_empowered.md
+#: docs/abilities/artillery.md docs/abilities/artillery_empowered.md
+#: docs/abilities/basic_air_magic.md
+#: docs/abilities/basic_air_magic_empowered.md
+#: docs/abilities/basic_earth_magic.md
+#: docs/abilities/basic_earth_magic_empowered.md
+#: docs/abilities/basic_fire_magic.md
+#: docs/abilities/basic_fire_magic_empowered.md
+#: docs/abilities/basic_water_magic.md
+#: docs/abilities/basic_water_magic_empowered.md docs/abilities/diplomacy.md
+#: docs/abilities/diplomacy_empowered.md docs/abilities/earth_magic.md
+#: docs/abilities/earth_magic_empowered.md docs/abilities/fire_magic.md
+#: docs/abilities/fire_magic_empowered.md docs/abilities/first_aid.md
+#: docs/abilities/first_aid_empowered.md docs/abilities/intelligence.md
+#: docs/abilities/intelligence_empowered.md docs/abilities/logistics.md
+#: docs/abilities/logistics_empowered.md docs/abilities/luck.md
+#: docs/abilities/luck_empowered.md docs/abilities/necromancy.md
+#: docs/abilities/necromancy_empowered.md docs/abilities/offense.md
+#: docs/abilities/offense_empowered.md docs/abilities/pathfinding.md
+#: docs/abilities/pathfinding_empowered.md docs/abilities/resistance.md
+#: docs/abilities/resistance_empowered.md docs/abilities/sorcery.md
+#: docs/abilities/sorcery_empowered.md docs/abilities/water_magic.md
+#: docs/abilities/water_magic_empowered.md docs/artifacts/angel_wings.md
+#: docs/artifacts/arms_of_legion.md docs/artifacts/centaurs_axe.md
+#: docs/artifacts/head_of_legion.md docs/artifacts/index.md
+#: docs/artifacts/inexhaustible_cart_of_ore.md docs/artifacts/legs_of_legion.md
+#: docs/artifacts/loins_of_legion.md docs/artifacts/spellbinders_hat.md
+#: docs/artifacts/torso_of_legion.md docs/astrologers_proclaim/ammo_cart.md
+#: docs/astrologers_proclaim/charlie_and_his_circus.md
+#: docs/astrologers_proclaim/elementals.md
+#: docs/astrologers_proclaim/explorers.md
+#: docs/astrologers_proclaim/forty_thieves.md
+#: docs/astrologers_proclaim/friendly_beaver.md
+#: docs/astrologers_proclaim/mcgiver.md
+#: docs/astrologers_proclaim/unexpected_reinforcements.md
+#: docs/fields/blocked_field.md docs/fields/buoy.md
+#: docs/fields/creature_bank.md docs/fields/derelict_ship.md
+#: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
+#: docs/fields/empty_field.md docs/fields/flotsam.md docs/fields/jetsam.md
+#: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
+#: docs/fields/sea_chest.md docs/fields/shipwreck.md
+#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
+#: docs/fields/temple_of_the_sea.md docs/fields/town.md docs/fields/windmill.md
+#: docs/heroes/adelaide.md docs/heroes/alamar.md docs/heroes/deemer.md
+#: docs/heroes/jeddite.md docs/heroes/pasis.md docs/heroes/sandro.md
+#: docs/heroes/sephinroth.md docs/heroes/solmyr.md docs/heroes/tazar.md
+#: docs/heroes/xyron.md docs/keywords/alternative_action.md
+#: docs/keywords/dice.md docs/keywords/dwelling.md docs/keywords/empower.md
+#: docs/keywords/morale.md docs/keywords/paralysis.md
+#: docs/keywords/permanent_effect.md docs/keywords/recruit.md
+#: docs/keywords/reinforce.md docs/keywords/remove.md docs/keywords/search.md
+#: docs/keywords/summon.md docs/spells/anti-magic.md docs/spells/berserk.md
+#: docs/spells/bless.md docs/spells/blind.md docs/spells/chain_lightning.md
+#: docs/spells/cure.md docs/spells/dimension_door.md docs/spells/dispel.md
+#: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
+#: docs/spells/fortune.md docs/spells/frost_ring.md docs/spells/haste.md
+#: docs/spells/implosion.md docs/spells/inferno.md docs/spells/magic_arrow.md
+#: docs/spells/misfortune.md docs/spells/prayer.md
+#: docs/spells/remove_obstacle.md docs/spells/resurrection.md
+#: docs/spells/slow.md docs/spells/town_portal.md docs/statistics/knowledge.md
+#: docs/tiles/nx3.md docs/tiles/u7.md docs/units/air_elementals.md
+#: docs/units/archangels.md docs/units/azure_dragons.md docs/units/basilisks.md
+#: docs/units/black_dragons.md docs/units/cerberi.md docs/units/champions.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md
+#: docs/units/dread_knights.md docs/units/dwarves.md
+#: docs/units/earth_elementals.md docs/units/elves.md docs/units/enchanters.md
+#: docs/units/faerie_dragons.md docs/units/familiars.md
+#: docs/units/fire_elementals.md docs/units/gargoyles.md docs/units/genies.md
+#: docs/units/ghost_dragons.md docs/units/gold_dragons.md
+#: docs/units/gremlins.md docs/units/harpies.md docs/units/hydras.md
+#: docs/units/liches.md docs/units/magi.md docs/units/magogs.md
+#: docs/units/manticores.md docs/units/marksmen.md docs/units/medusas.md
+#: docs/units/mummies.md docs/units/nomads.md docs/units/peasants.md
+#: docs/units/pegasi.md docs/units/pit_lords.md docs/units/rogues.md
+#: docs/units/skeletons.md docs/units/titans.md docs/units/trolls.md
+#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
+#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zombies.md
+#: docs/war_machines/first_aid_tent.md
+#, no-wrap
+msgid "Notes"
+msgstr "Notas"
+
+#. type: Title #
+#: docs/keywords/summon.md
+#, fuzzy, no-wrap
+#| msgid "Summoned Units"
+msgid "Summon"
+msgstr "Unidades convocadas"

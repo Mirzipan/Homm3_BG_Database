@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :silver: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
 | :attack: | 2 | **3** | 3 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 4 | 4 | 3 |
 | :initiative: | 5 | 5 | 6 |
 | Cost | - | - | 13 :gold: |
-| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/school_of_fire_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/school_of_fire_magic.md). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/school_of_fire_magic.md). This unit deals elemental damage. |
+| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. |
 
 
 ## Notes
