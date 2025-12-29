@@ -1,0 +1,52 @@
+nav:
+  - "*.md"
+  - Abilities:
+     - "abilities/*.md"
+  - Artifacts:
+     - "artifacts/*.md"
+  - Astrologers Proclaim:
+     - "astrologers_proclaim/*.md"
+  - Content:
+     - "content/*.md"
+  - Events:
+     - "events/*.md"
+  - Fields:
+     - "fields/*.md"
+  - Heroes:
+     - "heroes/*.md"
+  - Keywords:
+     - "keywords/*.md"
+     - Alternative Action: "alternative_action.md"
+     - Attack: "attack_value.md"
+     - Damage: "damage.md"
+     - Defense: "defense_value.md"
+     - Dice: "dice.md"
+     - Dwelling: "dwelling.md"
+     - Flying Unit: "flying_unit.md"
+     - Ground Unit: "ground_unit.md"
+     - Health Ponits: "health_points.md"
+     - Initiative: "initiative_value.md"
+     - Negative Morale: "negative_morale.md"
+     - Obstacle: "obstacle.md"
+     - Paralysis: "paralysis.md"
+     - Permanent Effect: "permanent_effect.md"
+     - Positive Morale: "positive_morale.md"
+     - Ranged Unit: "ranged_unit.md"
+     - Recruit: "recruit.md"
+     - Reinforce: "reinforce.md"
+     - Remove: "remove.md"
+     - Search: "search.md"
+  - Scenarios:
+     - "scenarios/*.md"
+  - Spels:
+     - "spells/*.md"
+  - Statistics:
+     - "statistics/*.md"
+  - Tiles:
+     - "tiles/*.md"
+  - Towns:
+     - "towns/*.md"
+  - Units:
+     - "units/*.md"
+  - War Machines:
+     - "war_machines/*.md"
