@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 permissions:
   contents: write
 
@@ -38,4 +41,8 @@ jobs:
 
       - run: pip install .
 
+      - run: mkdocs build
+        if: github.event_name == 'pull_request'
+
       - run: mkdocs gh-deploy --force
+        if: github.event_name != 'pull_request'
