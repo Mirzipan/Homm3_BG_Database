@@ -6,7 +6,7 @@ from markdown import Markdown
 from pymdownx import emoji
 
 
-# copied from material.extensions.emoji.to_svg
+# copied from material.extensions.emoji.to_svg but stripping some extra whitespace
 def to_svg(
     index: str,
     shortname: str,
