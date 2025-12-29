@@ -32,7 +32,7 @@ nav:
      - Summon: "keywords/summon.md"
   - Scenarios:
      - "scenarios/*.md"
-  - Spels:
+  - Spells:
      - "spells/*.md"
   - Statistics:
      - "statistics/*.md"
