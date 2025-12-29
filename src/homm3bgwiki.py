@@ -30,17 +30,17 @@ def to_svg(
     return emoji.to_svg(index, shortname, alias, uc, alt, title, category, options, md)
 
 
-@functools.lru_cache(maxsize=None)
+@functools.cache
 def _load(file: str):
     with open(file, encoding="utf-8") as f:
         s = f.read()
         return re.sub(r"\s+", " ", s).strip()
 
 
-def glyph_svg(*a, **kv):
-    name = a[1].strip(":")
+def glyph_svg(*args, **kw):
+    name = args[1].strip(":")
     result = Element("span", {"class": "glyph"})
-    result.append(to_svg(*a, **kv))
+    result.append(to_svg(*args, **kw))
     text = Element("span", {"class": "glyph-text"})
     text.text = f"&lt;{name}&gt;"
     result.append(text)
