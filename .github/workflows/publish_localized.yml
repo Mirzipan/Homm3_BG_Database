@@ -56,7 +56,7 @@ jobs:
         run: |
           mkdir -p ${{ matrix.language }}/.github/workflows
           cp .github/workflows/publish_docs.yml ${{ matrix.language }}/.github/workflows
-          cp -r overrides docs mkdocs.yml ${{ matrix.language }}
+          cp -r overrides docs mkdocs.yml src pyproject.toml ${{ matrix.language }}
 
       - name: Push ${{ matrix.language }} site
         uses: peaceiris/actions-gh-pages@v4
