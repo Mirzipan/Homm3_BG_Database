@@ -25,7 +25,6 @@ nav:
      - "statistics/*.md"
   - Słowa kluczowe:
      - "keywords/*.md"
-     - Combat: "keywords/combat.md"
      - Efekt Długotrwały: "keywords/permanent_effect.md"
      - Empower: "keywords/empower.md"
      - Inna Akcja: "keywords/alternative_action.md"
@@ -35,8 +34,9 @@ nav:
      - Przeszkoda: "keywords/obstacle.md"
      - Przeszukaj: "keywords/search.md"
      - Siedlisko: "keywords/dwelling.md"
-     - Summon: "keywords/summon.md"
+     - Przyzywanie: "keywords/summon.md"
      - Usuń: "keywords/remove.md"
+     - Walka: "keywords/combat.md"
      - Wzmocnij: "keywords/reinforce.md"
      - Zrekrutuj: "keywords/recruit.md"
   - Tabela trudności: "difficulties.md"
