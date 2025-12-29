@@ -1,5 +1,0 @@
-# :initiative: Initiative Value
-
-
-## Notes
-

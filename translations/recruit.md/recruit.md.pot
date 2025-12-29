@@ -49,11 +49,11 @@ msgstr ""
 #: docs/heroes/xyron.md docs/keywords/alternative_action.md
 #: docs/keywords/attack_value.md docs/keywords/damage.md
 #: docs/keywords/defense_value.md docs/keywords/dice.md
-#: docs/keywords/dwelling.md docs/keywords/flying_unit.md
+#: docs/keywords/dwelling.md docs/units/index.md#flying-units
 #: docs/keywords/ground_unit.md docs/keywords/health_points.md
-#: docs/keywords/initiative_value.md docs/keywords/negative_morale.md
+#: docs/keywords/initiative_value.md docs/keywords/morale.md#negative
 #: docs/keywords/obstacle.md docs/keywords/paralysis.md
-#: docs/keywords/permanent_effect.md docs/keywords/positive_morale.md
+#: docs/keywords/permanent_effect.md docs/keywords/morale.md#positive
 #: docs/keywords/ranged_unit.md docs/keywords/recruit.md
 #: docs/keywords/reinforce.md docs/keywords/remove.md docs/keywords/search.md
 #: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md

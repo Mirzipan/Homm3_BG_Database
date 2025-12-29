@@ -418,9 +418,9 @@ msgstr "Pochodzi z"
 #: docs/spells/magic_arrow.md docs/spells/mirth.md docs/spells/misfortune.md
 #: docs/spells/prayer.md docs/spells/precision.md
 #: docs/spells/remove_obstacle.md docs/spells/resurrection.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
 #: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
@@ -715,7 +715,7 @@ msgstr ""
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :ongoing: For this Combat, place this card or a Fire Wall token in an empty space on the Combat board. Deal 1 :damage: to any [unit](../units/index.md) starting its turn here or stopping here and to any [:unit_ground:](../keywords/ground_unit.md) or [:unit_ranged: unit](../keywords/ranged_unit.md) passing through. |\n"
+"| Ⅰ | :ongoing: For this Combat, place this card or a Fire Wall token in an empty space on the Combat board. Deal 1 :damage: to any [unit](../units/index.md) starting its turn here or stopping here and to any [:unit_ground:](../units/index.md#ground-units) or [:unit_ranged: unit](../units/index.md#ranged-units) passing through. |\n"
 "| Ⅳ | :instant: Take one card from your discard pile into your hand.<br><br>— OR —<br><br>:instant: +2 :empower: |\n"
-"| Ⅵ | :ongoing: For this Combat, place this card or a Fire Wall token in an empty space on the Combat board. Deal 3 :damage: to any [unit](../units/index.md) starting its turn here or stopping here and to any [:unit_ground:](../keywords/ground_unit.md) or [:unit_ranged: unit](../keywords/ranged_unit.md) passing through. |\n"
+"| Ⅵ | :ongoing: For this Combat, place this card or a Fire Wall token in an empty space on the Combat board. Deal 3 :damage: to any [unit](../units/index.md) starting its turn here or stopping here and to any [:unit_ground:](../units/index.md#ground-units) or [:unit_ranged: unit](../units/index.md#ranged-units) passing through. |\n"
 msgstr ""

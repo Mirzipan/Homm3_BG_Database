@@ -29,7 +29,7 @@
 | :--- | :---: | :---: | :---: | :---: |
 | Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) | - |
 | Tier | :golden: | :golden: | :golden: | - |
-| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | :azure: | [:unit_flying:](../keywords/flying_unit.md) |
+| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | :azure: | [:unit_flying:](index.md#flying-units) |
 | :attack: | 5 | **6** | 6 | 5 |
 | :defense: | 3 | 3 | 3 | 2 |
 | :health_points: | 9 | **10** | 9 | 6 |
@@ -54,7 +54,8 @@
 
 ## Comes With
 
-- [Tower Expansion](../content/tower_expansion.md)
+- [Rampart Expansion](../content/rampart_expansion.md)
+- [Tower Expansion](../content/tower_expansion.md) (Neutral)
 - [Naval Battles Expansion](../content/naval_battles_expansion.md) (Dragon Utopia)
 
 

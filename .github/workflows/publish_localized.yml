@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 
 env:
   SITE_URL: homm3bg.wiki
@@ -10,16 +13,20 @@ env:
 jobs:
   localize:
     runs-on: ubuntu-latest
+    name: ${{ matrix.display }}
     strategy:
       fail-fast: false
       matrix:
         include:
           - language: pl
             secret_name: SSH_DEPLOY_KEY_PL
+            display: "🇵🇱 Polski"
           - language: es
             secret_name: SSH_DEPLOY_KEY_ES
+            display: "🇪🇸 Español"
           - language: fr
             secret_name: SSH_DEPLOY_KEY_FR
+            display: "🇫🇷 Français"
 
     steps:
       - uses: actions/checkout@v5
@@ -59,6 +66,7 @@ jobs:
           cp -r overrides docs mkdocs.yml src pyproject.toml ${{ matrix.language }}
 
       - name: Push ${{ matrix.language }} site
+        if: github.event_name != 'pull_request'
         uses: peaceiris/actions-gh-pages@v4
         with:
           deploy_key: ${{ secrets[matrix.secret_name] }}
@@ -68,3 +76,15 @@ jobs:
           force_orphan: true
           publish_dir: ${{ matrix.language }}
           exclude_assets: ''
+
+      - uses: actions/setup-python@v6
+        if: github.event_name == 'pull_request'
+        with:
+          python-version: 3.x
+
+      - name: Check if ${{ matrix.language }} site builds
+        if: github.event_name == 'pull_request'
+        run: |
+          cd ${{ matrix.language }}
+          pip install .
+          mkdocs build

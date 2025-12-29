@@ -456,53 +456,55 @@ msgstr "Viene Con"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
-#: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
-#: docs/spells/sorrow.md docs/spells/stone_skin.md
-#: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
-#: docs/spells/summon_fire_elemental.md docs/spells/summon_water_elemental.md
-#: docs/spells/teleport.md docs/spells/town_portal.md docs/spells/view_air.md
-#: docs/spells/view_earth.md docs/spells/visions.md docs/spells/weakness.md
-#: docs/statistics/attack.md docs/statistics/defense.md
-#: docs/statistics/knowledge.md docs/statistics/power.md docs/tiles/c1.md
-#: docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md docs/tiles/c5.md
-#: docs/tiles/cx1.md docs/tiles/cx2.md docs/tiles/cx3.md docs/tiles/cx4.md
-#: docs/tiles/cx5.md docs/tiles/f1.md docs/tiles/f10.md docs/tiles/f11.md
-#: docs/tiles/f12.md docs/tiles/f13.md docs/tiles/f14.md docs/tiles/f15.md
-#: docs/tiles/f16.md docs/tiles/f17.md docs/tiles/f18.md docs/tiles/f19.md
-#: docs/tiles/f2.md docs/tiles/f20.md docs/tiles/f21.md docs/tiles/f22.md
-#: docs/tiles/f23.md docs/tiles/f24.md docs/tiles/f25.md docs/tiles/f26.md
-#: docs/tiles/f27.md docs/tiles/f3.md docs/tiles/f4.md docs/tiles/f5.md
-#: docs/tiles/f6.md docs/tiles/f7.md docs/tiles/f8.md docs/tiles/f9.md
-#: docs/tiles/fx1.md docs/tiles/fx10.md docs/tiles/fx11.md docs/tiles/fx12.md
-#: docs/tiles/fx13.md docs/tiles/fx2.md docs/tiles/fx3.md docs/tiles/fx4.md
-#: docs/tiles/fx5.md docs/tiles/fx6.md docs/tiles/fx7.md docs/tiles/fx8.md
-#: docs/tiles/fx9.md docs/tiles/index.md docs/tiles/n1.md docs/tiles/n10.md
-#: docs/tiles/n11.md docs/tiles/n12.md docs/tiles/n13.md docs/tiles/n14.md
-#: docs/tiles/n15.md docs/tiles/n16.md docs/tiles/n17.md docs/tiles/n18.md
-#: docs/tiles/n19.md docs/tiles/n2.md docs/tiles/n20.md docs/tiles/n21.md
-#: docs/tiles/n22.md docs/tiles/n3.md docs/tiles/n4.md docs/tiles/n5.md
-#: docs/tiles/n6.md docs/tiles/n7.md docs/tiles/n8.md docs/tiles/n9.md
-#: docs/tiles/nx1.md docs/tiles/nx10.md docs/tiles/nx11.md docs/tiles/nx2.md
-#: docs/tiles/nx3.md docs/tiles/nx4.md docs/tiles/nx5.md docs/tiles/nx6.md
-#: docs/tiles/nx7.md docs/tiles/nx8.md docs/tiles/nx9.md docs/tiles/s1.md
-#: docs/tiles/s2.md docs/tiles/s3.md docs/tiles/s4.md docs/tiles/s5.md
-#: docs/tiles/s6.md docs/tiles/s7.md docs/tiles/s8.md docs/tiles/s9.md
-#: docs/tiles/sx1.md docs/tiles/u1.md docs/tiles/u2.md docs/tiles/u3.md
-#: docs/tiles/u4.md docs/tiles/u5.md docs/tiles/u6.md docs/tiles/u7.md
-#: docs/tiles/w1.md docs/tiles/w2.md docs/tiles/w3.md docs/tiles/w4.md
-#: docs/tiles/w5.md docs/tiles/w6.md docs/tiles/w7.md docs/towns/castle.md
-#: docs/towns/conflux.md docs/towns/cove.md docs/towns/dungeon.md
-#: docs/towns/fortress.md docs/towns/index.md docs/towns/inferno.md
-#: docs/towns/necropolis.md docs/towns/neutral.md docs/towns/rampart.md
-#: docs/towns/stronghold.md docs/towns/tower.md docs/units/air_elementals.md
-#: docs/units/arch_devils.md docs/units/archangels.md docs/units/arrow_tower.md
-#: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
-#: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
-#: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
-#: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
+#: docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
+#: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
+#: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
+#: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
+#: docs/spells/summon_water_elemental.md docs/spells/teleport.md
+#: docs/spells/town_portal.md docs/spells/view_air.md docs/spells/view_earth.md
+#: docs/spells/visions.md docs/spells/weakness.md docs/statistics/attack.md
+#: docs/statistics/defense.md docs/statistics/knowledge.md
+#: docs/statistics/power.md docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md
+#: docs/tiles/c4.md docs/tiles/c5.md docs/tiles/cx1.md docs/tiles/cx2.md
+#: docs/tiles/cx3.md docs/tiles/cx4.md docs/tiles/cx5.md docs/tiles/f1.md
+#: docs/tiles/f10.md docs/tiles/f11.md docs/tiles/f12.md docs/tiles/f13.md
+#: docs/tiles/f14.md docs/tiles/f15.md docs/tiles/f16.md docs/tiles/f17.md
+#: docs/tiles/f18.md docs/tiles/f19.md docs/tiles/f2.md docs/tiles/f20.md
+#: docs/tiles/f21.md docs/tiles/f22.md docs/tiles/f23.md docs/tiles/f24.md
+#: docs/tiles/f25.md docs/tiles/f26.md docs/tiles/f27.md docs/tiles/f3.md
+#: docs/tiles/f4.md docs/tiles/f5.md docs/tiles/f6.md docs/tiles/f7.md
+#: docs/tiles/f8.md docs/tiles/f9.md docs/tiles/fx1.md docs/tiles/fx10.md
+#: docs/tiles/fx11.md docs/tiles/fx12.md docs/tiles/fx13.md docs/tiles/fx2.md
+#: docs/tiles/fx3.md docs/tiles/fx4.md docs/tiles/fx5.md docs/tiles/fx6.md
+#: docs/tiles/fx7.md docs/tiles/fx8.md docs/tiles/fx9.md docs/tiles/index.md
+#: docs/tiles/n1.md docs/tiles/n10.md docs/tiles/n11.md docs/tiles/n12.md
+#: docs/tiles/n13.md docs/tiles/n14.md docs/tiles/n15.md docs/tiles/n16.md
+#: docs/tiles/n17.md docs/tiles/n18.md docs/tiles/n19.md docs/tiles/n2.md
+#: docs/tiles/n20.md docs/tiles/n21.md docs/tiles/n22.md docs/tiles/n3.md
+#: docs/tiles/n4.md docs/tiles/n5.md docs/tiles/n6.md docs/tiles/n7.md
+#: docs/tiles/n8.md docs/tiles/n9.md docs/tiles/nx1.md docs/tiles/nx10.md
+#: docs/tiles/nx11.md docs/tiles/nx2.md docs/tiles/nx3.md docs/tiles/nx4.md
+#: docs/tiles/nx5.md docs/tiles/nx6.md docs/tiles/nx7.md docs/tiles/nx8.md
+#: docs/tiles/nx9.md docs/tiles/s1.md docs/tiles/s2.md docs/tiles/s3.md
+#: docs/tiles/s4.md docs/tiles/s5.md docs/tiles/s6.md docs/tiles/s7.md
+#: docs/tiles/s8.md docs/tiles/s9.md docs/tiles/sx1.md docs/tiles/u1.md
+#: docs/tiles/u2.md docs/tiles/u3.md docs/tiles/u4.md docs/tiles/u5.md
+#: docs/tiles/u6.md docs/tiles/u7.md docs/tiles/w1.md docs/tiles/w2.md
+#: docs/tiles/w3.md docs/tiles/w4.md docs/tiles/w5.md docs/tiles/w6.md
+#: docs/tiles/w7.md docs/towns/castle.md docs/towns/conflux.md
+#: docs/towns/cove.md docs/towns/dungeon.md docs/towns/fortress.md
+#: docs/towns/index.md docs/towns/inferno.md docs/towns/necropolis.md
+#: docs/towns/neutral.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md docs/units/air_elementals.md docs/units/arch_devils.md
+#: docs/units/archangels.md docs/units/arrow_tower.md docs/units/ayssids.md
+#: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
+#: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
+#: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
+#: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
 #: docs/units/enchanters.md docs/units/energy_elementals.md
@@ -822,7 +824,6 @@ msgstr "[Lista de Cartas de los Astrólogos](index.md)"
 #. type: Title #
 #: docs/astrologers_proclaim/spells.md
 #, fuzzy, no-wrap
-#| msgid "List of Spells"
 msgid "Spells"
 msgstr "Lista de Hechizos"
 

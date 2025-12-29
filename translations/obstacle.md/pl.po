@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-09-30 19:07+0000\n"
+"POT-Creation-Date: 2025-12-28 22:47+0000\n"
 "PO-Revision-Date: 2025-09-30 19:07+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -16,86 +16,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#. type: Title ##
-#: docs/abilities/air_magic.md docs/abilities/archery.md
-#: docs/abilities/armorer.md docs/abilities/artillery.md
-#: docs/abilities/diplomacy.md docs/abilities/earth_magic.md
-#: docs/abilities/fire_magic.md docs/abilities/first_aid.md
-#: docs/abilities/intelligence.md docs/abilities/logistics.md
-#: docs/abilities/luck.md docs/abilities/necromancy.md
-#: docs/abilities/offense.md docs/abilities/pathfinding.md
-#: docs/abilities/resistance.md docs/abilities/sorcery.md
-#: docs/abilities/water_magic.md docs/artifacts/angel_wings.md
-#: docs/artifacts/arms_of_legion.md docs/artifacts/centaurs_axe.md
-#: docs/artifacts/head_of_legion.md docs/artifacts/inexhaustible_cart_of_ore.md
-#: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
-#: docs/artifacts/spellbinders_hat.md docs/artifacts/torso_of_legion.md
-#: docs/astrologers_proclaim/ammo_cart.md
-#: docs/astrologers_proclaim/charlie_and_his_circus.md
-#: docs/astrologers_proclaim/explorers.md
-#: docs/astrologers_proclaim/forty_thieves.md
-#: docs/astrologers_proclaim/friendly_beaver.md
-#: docs/astrologers_proclaim/mcgiver.md
-#: docs/astrologers_proclaim/unexpected_reinforcements.md docs/fields/town.md
-#: docs/fields/windmill.md docs/heroes/adelaide.md docs/heroes/alamar.md
-#: docs/heroes/deemer.md docs/heroes/jeddite.md docs/heroes/sandro.md
-#: docs/heroes/sephinroth.md docs/heroes/solmyr.md docs/heroes/tazar.md
-#: docs/heroes/xyron.md docs/keywords/alternative_action.md
-#: docs/keywords/attack_value.md docs/keywords/blocked_field.md
-#: docs/keywords/center_tile.md docs/keywords/damage.md
-#: docs/keywords/defense_value.md docs/keywords/empty_field.md
-#: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
-#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
-#: docs/keywords/health_points.md docs/keywords/initiative_value.md
-#: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
-#: docs/keywords/near_tile.md docs/keywords/obstacle.md
-#: docs/keywords/paralysis.md docs/keywords/permanent_effect.md
-#: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
-#: docs/keywords/revisitable_field.md docs/keywords/starting_tile.md
-#: docs/keywords/subterranean_tile.md docs/keywords/visitable_field.md
-#: docs/keywords/sea_tile.md docs/spells/anti-magic.md docs/spells/berserk.md
-#: docs/spells/bless.md docs/spells/blind.md docs/spells/chain_lightning.md
-#: docs/spells/cure.md docs/spells/dimension_door.md docs/spells/dispel.md
-#: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
-#: docs/spells/fortune.md docs/spells/frost_ring.md docs/spells/haste.md
-#: docs/spells/implosion.md docs/spells/inferno.md docs/spells/magic_arrow.md
-#: docs/spells/misfortune.md docs/spells/prayer.md
-#: docs/spells/remove_obstacle.md docs/spells/resurrection.md
-#: docs/spells/slow.md docs/spells/town_portal.md docs/statistics/knowledge.md
-#: docs/units/air_elementals.md docs/units/archangels.md
-#: docs/units/azure_dragons.md docs/units/basilisks.md
-#: docs/units/black_dragons.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md
-#: docs/units/dread_knights.md docs/units/dwarves.md
-#: docs/units/earth_elementals.md docs/units/elves.md docs/units/enchanters.md
-#: docs/units/faerie_dragons.md docs/units/familiars.md
-#: docs/units/fire_elementals.md docs/units/gargoyles.md docs/units/genies.md
-#: docs/units/ghost_dragons.md docs/units/gold_dragons.md
-#: docs/units/gremlins.md docs/units/harpies.md docs/units/hydras.md
-#: docs/units/liches.md docs/units/magi.md docs/units/magogs.md
-#: docs/units/manticores.md docs/units/marksmen.md docs/units/medusas.md
-#: docs/units/mummies.md docs/units/nomads.md docs/units/peasants.md
-#: docs/units/pegasi.md docs/units/pit_lords.md docs/units/rogues.md
-#: docs/units/skeletons.md docs/units/titans.md docs/units/trolls.md
-#: docs/units/unicorns.md docs/units/vampires.md docs/units/water_elementals.md
-#: docs/units/wraiths.md docs/units/wyverns.md docs/units/zombies.md
-#: docs/war_machines/first_aid_tent.md
-#, no-wrap
-msgid "Notes"
-msgstr "Uwagi"
-
 #. type: Title #
-#: docs/keywords/obstacle.md
+#: docs/keywords/combat.md docs/keywords/obstacle.md
 #, no-wrap
 msgid "Obstacle"
 msgstr "Przeszkoda"
 
-#. type: Bullet: '- '
-#: docs/keywords/obstacle.md
-msgid "Any space that is occupied by a [unit](../units/index.md), an obstacle marker, a Wall or a Gate may not be stepped on."
-msgstr ""
-
-#. type: Bullet: '- '
-#: docs/keywords/obstacle.md
-msgid "[Flying units](flying_unit.md) may move through these spaces, but their movement is not allowed to end in such a space."
+#. type: Plain text
+#: docs/keywords/combat.md docs/keywords/obstacle.md
+msgid "Any space that is occupied by a [unit](../units/index.md), an obstacle marker, a Wall or a Gate may not be stepped on.  [Flying units](../units/index.md#flying-units) may move through these spaces, but their movement is not allowed to end in such a space."
 msgstr ""

@@ -456,8 +456,8 @@ msgstr "Fourni avec"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -688,7 +688,7 @@ msgstr ""
 #: docs/tiles/cx5.md docs/tiles/w7.md
 #, fuzzy
 msgid "[Ⅶ](../difficulties.md) [Temple of the Sea](../fields/temple_of_the_sea.md)"
-msgstr "[Ecole de magie de Terre](school_of_earth_magic.md)"
+msgstr "[Ecole de magie de Terre](index.md#school-of-earth-magic)"
 
 #. type: Bullet: '- '
 #: docs/tiles/nx11.md docs/tiles/nx8.md docs/tiles/w3.md docs/tiles/w7.md

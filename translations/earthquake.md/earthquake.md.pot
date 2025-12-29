@@ -349,8 +349,8 @@ msgstr ""
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -438,9 +438,9 @@ msgstr ""
 #: docs/spells/magic_arrow.md docs/spells/mirth.md docs/spells/misfortune.md
 #: docs/spells/prayer.md docs/spells/precision.md
 #: docs/spells/remove_obstacle.md docs/spells/resurrection.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
 #: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
@@ -454,18 +454,18 @@ msgstr ""
 #: docs/spells/anti-magic.md docs/spells/earthquake.md docs/spells/shield.md
 #: docs/spells/slow.md docs/spells/stone_skin.md docs/spells/view_earth.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Basic Earth Spell](school_of_earth_magic.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Basic Earth Spell](index.md#school-of-earth-magic)</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/spells/anti-magic.md docs/spells/earthquake.md docs/spells/implosion.md
 #: docs/spells/index.md docs/spells/magic_arrow.md docs/spells/resurrection.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slow.md docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_earth_elemental.md docs/spells/town_portal.md
 #: docs/spells/view_earth.md
-msgid "[School of Earth Magic](school_of_earth_magic.md)"
+msgid "[School of Earth Magic](index.md#school-of-earth-magic)"
 msgstr ""
 
 #. type: Title #

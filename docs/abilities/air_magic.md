@@ -1,16 +1,26 @@
 # Air Magic
 
-![Air Magic](../assets/abilities-air_magic.webp){ width="340" align=right }
+=== "Regular"
+
+    <figure markdown="span">
+        ![Air Magic](../assets/abilities-air_magic.webp){ width="340" align=right }
+    </figure>
+
+=== "Empowered"
+
+    <figure markdown="span">
+        ![Empowered Air Magic](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Air Magic](../spells/school_of_air_magic.md).</p>
-___
-<p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>While casting :spellpower: from the [School of Air](../spells/school_of_air_magic.md), you can discard this card, then gain +3 :empower:.</p>
-___
+| Type | Effect | :expert: Effect |
+| :--- | :---: | :---: |
+| Regular | :permanent: +1 :empower: for spells from [School of Air Magic](../spells/index.md#school-of-air-magic). | When casting :spellpower: from the [School of Air](../spells/index.md#school-of-air-magic), you can discard this card, then gain +3 :empower:. |
+| Empowered | :permanent: +1 :empower: for spells from [School of Air Magic](../spells/index.md#school-of-air-magic).<br><br>— OR —<br><br>:instant: When casting :spellpower: from the [School of Air](../spells/index.md#school-of-air-magic), you can discard this card, then gain +3 :empower:. | - |
 
 
 ## Notes
@@ -22,9 +32,11 @@ ___
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also
 
 - [List of Abilities](index.md)
-- [School of Air Magic](../spells/school_of_air_magic.md)
+- [School of Air Magic](../spells/index.md#school-of-air-magic)

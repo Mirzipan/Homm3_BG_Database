@@ -3,9 +3,9 @@
 ![Sacrifice](../assets/player-deck-back.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Expert Fire Spell](school_of_fire_magic.md)</p>
+<p style="text-align: center;" markdown>[Expert Fire Spell](index.md#school-of-fire-magic)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Redirect the :damage: dealt to the selected \* [unit](../units/index.md) to any other of your [units](../units/index.md).<br><br>:empower: 0 ➣ \*:bronze:<br>:empower: 2 ➣ \*:bronze: or :silver:<br>:empower: 4 ➣ \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:activation: Choose 1 of your \* [units](../units/index.md). You can transfer up to as much :damage: from this [unit](../units/index.md) to another one in your army, as much is needed for the other [unit](../units/index.md) to perish.<br><br>:empower: 0 ➣ \*:bronze:<br>:empower: 2 ➣ \*:bronze: or :silver:<br>:empower: 4 ➣ \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 
@@ -16,5 +16,5 @@ ___
 
 ## See Also
 
-- [School of Fire Magic](school_of_fire_magic.md)
+- [School of Fire Magic](index.md#school-of-fire-magic)
 - [List of Spells](index.md)

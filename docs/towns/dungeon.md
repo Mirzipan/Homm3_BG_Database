@@ -34,24 +34,39 @@
 
 ## Heroes
 
-- :magic: [Alamar](../heroes/alamar.md)
-- :magic: [Deemer](../heroes/deemer.md)
-- :magic: [Jeddite](../heroes/jeddite.md)
-- :might: [Lorelei](../heroes/lorelei.md)
-- :might: [Mutare](../heroes/mutare.md)
-- :magic: [Sephinroth](../heroes/sephinroth.md)
-- :magic: [Tarnum](../heroes/tarnum_dungeon.md)
+| Name | Class | Ability | Specialty |
+| : --- | :--- | :--- | :--- |
+| [Alamar](../heroes/alamar.md) | :magic: Warlock | [Wisdom](../abilities/wisdom.md) | [Resurrection](../heroes/alamar.md#specialty) |
+| [Deemer](../heroes/deemer.md) | :magic: Warlock | [Scouting](../abilities/scouting.md) | [Meteor Shower](../heroes/deemer.md#specialty) |
+| [Jeddite](../heroes/jeddite.md) | :magic: Warlock | [Sorcery](../abilities/sorcery.md) | [Mysterious Warlock](../heroes/jeddite.md#specialty) |
+| [Lorelei](../heroes/lorelei.md) | :might: Overlord | [Scouting](../abilities/scouting.md) | [Harpies](../heroes/lorelei.md#specialty) |
+| [Mutare](../heroes/mutare.md) | :might: Overlord | [Tactics](../abilities/tactics.md) | [Dragons](../heroes/mutare.md#specialty) |
+| [Sephinroth](../heroes/sephinroth.md) | :magic: Warlock | [Intelligence](../abilities/intelligence.md) | [Valuables](../heroes/sephinroth.md#specialty) |
+| [Tarnum](../heroes/tarnum_dungeon.md) | :might: Overlord | [Estates](../abilities/estates.md) | [Dragons](../heroes/tarnum_dungeon.md#specialty) |
 
 
 ## Units
 
-- :bronze: [Troglodytes](../units/troglodytes.md)
-- :bronze: [Harpies](../units/harpies.md)
-- :bronze: [Evil Eyes](../units/evil_eyes.md)
-- :silver: [Medusas](../units/medusas.md)
-- :silver: [Minotaurs](../units/minotaurs.md)
-- :golden: [Manticores](../units/manticores.md)
-- :golden: [Black Dragons](../units/black_dragons.md)
+For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
+
+| Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
+| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| [Troglodytes](../units/troglodytes.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - |
+| [Troglodytes](../units/troglodytes.md) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: |
+| [Harpies](../units/harpies.md) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | 3 :gold: | :unit_attack: |
+| [Harpies](../units/harpies.md) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | **3** | 0 | 3 | **9** | 5 :gold: | :unit_attack: |
+| [Evil Eyes](../units/evil_eyes.md) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 0 | 3 | 5 | 4 :gold: | - |
+| [Evil Eyes](../units/evil_eyes.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | **1** | 3 | **7** | 6 :gold: | :unit_passive: |
+| [Medusas](../units/medusas.md) | Few | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 1 | 4 | 5 | 6 :gold: | :unit_passive: |
+| [Medusas](../units/medusas.md) | Pack | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | **4** | 1 | 4 | **6** | 12 :gold: | :unit_passive: :unit_retaliate: |
+| [Minotaurs](../units/minotaurs.md) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 2 | 4 | 6 | 8 :gold: | :unit_attack: |
+| [Minotaurs](../units/minotaurs.md) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | **5** | 2 | 4 | **8** | 14 :gold: | :unit_attack: |
+| [Manticores](../units/manticores.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 5 | 1 | 6 | 7 | 10 :gold: | - |
+| [Manticores](../units/manticores.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | 5 | 1 | 6 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: |
+| [Manticores](../units/manticores.md) | Few (Alternate) | :golden: | [:unit_flying:](../units/index.md#flying-units) | 4 | 1 | 7 | 8 | 12 :gold: | :unit_attack: |
+| [Manticores](../units/manticores.md) | Pack (Alternate) | :golden: | [:unit_flying:](../units/index.md#flying-units) | 4 | **2** | 7 | **11** | 18 :gold:<br>1 :valuables: | :unit_passive: |
+| [Black Dragons](../units/black_dragons.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 6 | 3 | 8 | 11 | 19 :gold:<br>1 :valuables: | :unit_passive: |
+| [Black Dragons](../units/black_dragons.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **8** | 3 | 8 | **15** | 33 :gold:<br>2 :valuables: | :unit_passive: |
 
 
 ## Comes With
