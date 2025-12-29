@@ -37,10 +37,10 @@ def _load(file: str):
         return re.sub(r"\s+", " ", s).strip()
 
 
-def glyph_svg(*args, **kw):
+def glyph_svg(*args, **kwargs):
     name = args[1].strip(":")
     result = Element("span", {"class": "glyph"})
-    result.append(to_svg(*args, **kw))
+    result.append(to_svg(*args, **kwargs))
     text = Element("span", {"class": "glyph-text"})
     text.text = f"&lt;{name}&gt;"
     result.append(text)
