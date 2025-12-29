@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "homm3bgwiki"
+version = "1"
+dependencies = [
+    "mkdocs-material",
+    "mkdocs-exclude-search",
+    "mkdocs-awesome-nav",
+]
