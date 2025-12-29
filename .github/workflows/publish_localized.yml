@@ -13,16 +13,20 @@ env:
 jobs:
   localize:
     runs-on: ubuntu-latest
+    name: ${{ matrix.display }}
     strategy:
       fail-fast: false
       matrix:
         include:
           - language: pl
             secret_name: SSH_DEPLOY_KEY_PL
+            display: "🇵🇱 Polski"
           - language: es
             secret_name: SSH_DEPLOY_KEY_ES
+            display: "🇪🇸 Español"
           - language: fr
             secret_name: SSH_DEPLOY_KEY_FR
+            display: "🇫🇷 Français"
 
     steps:
       - uses: actions/checkout@v5
