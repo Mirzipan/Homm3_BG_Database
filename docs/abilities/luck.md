@@ -1,16 +1,26 @@
 # Luck
 
-![Luck](../assets/abilities-luck.webp){ width="340" align=right }
+=== "Regular"
+
+    <figure markdown="span">
+        ![Luck](../assets/abilities-luck.webp){ width="340" align=right }
+    </figure>
+
+=== "Empowered"
+
+    <figure markdown="span">
+        ![Empowered Luck](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: You can reroll a [Treasure die](../keywords/dice.md#treasure-die) and a [Resource die](../keywords/dice.md#resource-die) once during this turn.</p>
-___
-<p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:ongoing: You can reroll any [die](../keywords/dice.md) once during this turn.</p>
-___
+| Type | Effect | :expert: Effect |
+| :--- | :---: | :---: |
+| Regular | :ongoing: You can reroll a [Treasure die](../keywords/dice.md#treasure-die) and a [Resource die](../keywords/dice.md#resource-die) once during this turn. | :ongoing: You can reroll any [die](../keywords/dice.md) once during this turn. |
+| Empowered | :ongoing: You can reroll any [die](../keywords/dice.md) once during this turn. | - |
 
 
 ## Heroes With Starting Ability
@@ -29,10 +39,10 @@ ___
 
 - [Core Game](../content/core_game.md)
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also
 
-- [Luck (Empowered)](luck_empowered.md)
 - [List of Abilities](index.md)
 - [Dice](../keywords/dice.md)

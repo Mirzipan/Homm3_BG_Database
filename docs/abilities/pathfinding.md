@@ -1,16 +1,26 @@
 # Pathfinding
 
-![Pathfinding](../assets/abilities-pathfinding.webp){ width="340" align=right }
+=== "Regular"
+
+    <figure markdown="span">
+        ![Pathfinding](../assets/abilities-pathfinding.webp){ width="340" align=right }
+    </figure>
+
+=== "Empowered"
+
+    <figure markdown="span">
+        ![Empowered Pathfinding](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:effect_map: This turn, your [Hero](../heroes/index.md) can move through fields with [Neutral Units](../units/index.md#neutral-units) and Enemy Heroes, but if they end their movement in one of these fields, Combat begins.</p>
-___
-<p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:effect_map: Your [Hero](../heroes/index.md) can move over the yellow border and [blocked fields](../fields/blocked_field.md), but cannot end movement on them.</p>
-___
+| Type | Effect | :expert: Effect |
+| :--- | :---: | :---: |
+| Regular | :effect_map: This turn, your [Hero](../heroes/index.md) can move through fields with [Neutral Units](../units/index.md#neutral-units) and Enemy Heroes, but if they end their movement in one of these fields, Combat begins. | :effect_map: Your [Hero](../heroes/index.md) can move over the yellow border and [blocked fields](../fields/blocked_field.md), but cannot end movement on them. |
+| Empowered | :effect_map: This turn, your [Hero](../heroes/index.md) can move through [blocked fields](../fields/blocked_field.md) and fields with [Neutral Units](../units/index.md#neutral-units) and Enemy Heroes without resolving them, but if the [Hero](../heroes/index.md) ends their movement on one of these fields, Combat begins. | - |
 
 
 ## Heroes With Starting Ability
@@ -27,9 +37,9 @@ ___
 
 - [Tower Expansion](../content/tower_expansion.md)
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also
 
-- [Pathfinding (Empowered)](pathfinding_empowered.md)
 - [List of Abilities](index.md)

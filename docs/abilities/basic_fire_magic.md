@@ -1,16 +1,26 @@
 # Basic Fire Magic
 
-![Basic Fire Magic](../assets/player-deck-back.webp){ width="340" align=right }
+=== "Regular"
+
+    <figure markdown="span">
+        ![Basic Fire Magic](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
+=== "Empowered"
+
+    <figure markdown="span">
+        ![Empowered Basic Fire Magic](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic) in it and take the :spellpower: into your hand.<br>Then, reshuffle the deck.</p>
-___
-<p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:instant: +3 :empower: for a [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic).</p>
-___
+| Type | Effect | :expert: Effect |
+| :--- | :---: | :---: |
+| Regular | :permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic) in it and take the :spellpower: into your hand.<br>Then, reshuffle the deck. | :instant: +3 :empower: for a [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). |
+| Empowered | :permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic) in it and take the :spellpower: into your hand. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: +3 :empower: for a [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). | - |
 
 
 ## Heroes With Starting Ability
@@ -27,10 +37,10 @@ ___
 ## Comes With
 
 - [Conflux Expansion](../content/conflux_expansion.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also
 
-- [Basic Fire Magic (Empowered)](basic_fire_magic_empowered.md)
 - [List of Abilities](index.md)
 - [School of Fire Magic](../spells/index.md#school-of-fire-magic)

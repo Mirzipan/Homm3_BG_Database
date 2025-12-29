@@ -1,16 +1,26 @@
 # Necromancy
 
-![Necromancy](../assets/abilities-necromancy.webp){ width="340" align=right }
+=== "Regular"
+
+    <figure markdown="span">
+        ![Necromancy](../assets/abilities-necromancy.webp){ width="340" align=right }
+    </figure>
+
+=== "Empowered"
+
+    <figure markdown="span">
+        ![Empowered Necromancy](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:effect_map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down).</p>
-___
-<p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:effect_map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down).</p>
-___
+| Type | Effect | :expert: Effect |
+| :--- | :---: | :---: |
+| Regular | :effect_map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | :effect_map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
+| Empowered | :effect_map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | - |
 
 
 ## Heroes With Starting Ability
@@ -33,10 +43,10 @@ ___
 
 - [Core Game](../content/core_game.md)
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also
 
-- [Necromancy (Empowered)](necromancy_empowered.md)
 - [List of Abilities](index.md)
 - [Necropolis Town](../towns/necropolis.md)

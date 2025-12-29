@@ -1,16 +1,26 @@
 # Diplomacy
 
-![Diplomacy](../assets/abilities-diplomacy.webp){ width="340" align=right }
+=== "Regular"
+
+    <figure markdown="span">
+        ![Diplomacy](../assets/abilities-diplomacy.webp){ width="340" align=right }
+    </figure>
+
+=== "Empowered"
+
+    <figure markdown="span">
+        ![Empowered Diplomacy](../assets/player-deck-back.webp){ width="340" align=right }
+    </figure>
+
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:effect_map: For every [Dwelling](../towns/index.md#buildings) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can [**Recruit**](../keywords/recruit.md) one of these [units](../units/index.md) if you :pay: its Recruitment cost.</p>
-___
-<p style="text-align: center;" markdown> :expert: </p>
 
-<p style="text-align: center;" markdown>:instant: Skip Combat with [Neutral Units](../units/index.md#neutral-units) on a field whose [Field Difficulty](../tiles/index.md#difficulties) is equal to your Hero's level. Visit the field. This [Hero](../heroes/index.md) gains no Experience.</p>
-___
+| Type | Effect | :expert: Effect |
+| :--- | :---: | :---: |
+| Regular | :effect_map: For every [Dwelling](../towns/index.md#buildings) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can [**Recruit**](../keywords/recruit.md) one of these [units](../units/index.md) if you :pay: its Recruitment cost. | :instant: Skip Combat with [Neutral Units](../units/index.md#neutral-units) on a field whose [Field Difficulty](../tiles/index.md#difficulties) is equal to your Hero's level. Visit the field. This [Hero](../heroes/index.md) gains no Experience. |
+| Empowered | :effect_map: For every [Dwelling](../towns/index.md#buildings) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can [**Recruit**](../keywords/recruit.md) one of these [units](../units/index.md) if you :pay: its Recruitment cost.<br><br>— OR —<br><br>:instant: Skip Combat with any [Neutral Units](../units/index.md) on the same level as your [Hero](../heroes/index.md). Claim the given [field](../fields/index.md) and resolve its effect. This [Hero](../heroes/index.md) gains no Experience. | - |
 
 
 ## Heroes With Starting Ability
@@ -30,12 +40,10 @@ ___
 
 - [Core Game](../content/core_game.md)
 - [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
+- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also
 
-- [Diplomacy (Empowered)](diplomacy_empowered.md)
 - [List of Abilities](index.md)
-
-
 [^1]: Exceptions for specific game modes. This explanation is not valid for all game modes. The specific variant for the game mode is mentioned in the text.
