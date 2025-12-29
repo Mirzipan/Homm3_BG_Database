@@ -13,6 +13,10 @@
     </figure>
 
 
+___
+<p style="text-align: center;" markdown>[Statistic](index.md)</p>
+___
+
 | Type | Effect | :expert: Effect |
 | :--- | :--- | :--- |
 | Regular | :instant: +1 :attack: | :instant: +2 :attack:  |
