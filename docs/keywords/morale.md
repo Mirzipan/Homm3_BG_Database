@@ -18,7 +18,7 @@ Here is a quick reference of what happens to the player's morale depending on wh
 
 Also shown as :morale_positive:.
 
-![Positive Morale Token](../assets/tokens-morale-positive.webp){ height=60 align=left }
+![Positive Morale Token](../assets/tokens-morale-positive.webp){ width=100 align=left }
 
 A Positive Morale Token may be spent to perform any of these actions at any time (including right before gaining a second Positive Morale Token):
 
@@ -31,7 +31,7 @@ A Positive Morale Token may be spent to perform any of these actions at any time
 
 Also shown as :morale_negative:.
 
-![Negative Morale Token](../assets/tokens-morale-negative.webp){ height=60 align=left }
+![Negative Morale Token](../assets/tokens-morale-negative.webp){ width=100 align=left }
 
 A Negative Morale Token cannot be spent to perform any action.
 Players can only get rid of it by gaining a [Positive Morale Token](morale.md#positive) or another Negative Morale Token.
