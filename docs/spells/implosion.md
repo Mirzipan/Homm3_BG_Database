@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Earth Spell](index.md#school-of-earth-magic)</p>
 ___
-<p style="text-align: center;" markdown>:activation: The selected [unit](../units/index.md) suffers:<br><br>:empower: 1 ➣ 2 :damage:<br>:empower: 3 ➣ 4 :damage:<br>:empower: 5 ➣ 6:damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:activation: The selected [unit](../units/index.md) suffers:<br><br>:power: 1 ➣ 2 :damage:<br>:power: 3 ➣ 4 :damage:<br>:power: 5 ➣ 6:damage:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

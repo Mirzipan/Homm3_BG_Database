@@ -813,7 +813,7 @@ msgstr ""
 #. type: Plain text
 #: docs/abilities/air_magic_empowered.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for spells from [School of Air Magic](../spells/index.md#school-of-air-magic).<br><br>— OR —<br><br>:instant: When casting :spellpower: from the [School of Air](../spells/index.md#school-of-air-magic), you can discard this card, then gain +3 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :power: for spells from [School of Air Magic](../spells/index.md#school-of-air-magic).<br><br>— OR —<br><br>:instant: When casting :spell: from the [School of Air](../spells/index.md#school-of-air-magic), you can discard this card, then gain +3 :power:.</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '

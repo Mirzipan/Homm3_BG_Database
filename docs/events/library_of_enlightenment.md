@@ -9,7 +9,7 @@
 ___
 <p style="text-align: center;" markdown>[Event](index.md)</p>
 ___
-<p style="text-align: center;" markdown>For every player in the game, draw the top two [Spell](../spells/index.md) cards and put them face-up within all players' reach. Each player can buy once of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables:.</p>
+<p style="text-align: center;" markdown>For every player in the game, draw the top two [Spell](../spells/index.md) cards and put them face-up within all players' reach. Each player can buy once of these [:spell:](../spells/index.md) for 6 :gold: or 2 :valuables:.</p>
 ___
 <p style="text-align: center;" markdown>*In the town you are currently visiting, there is a famous library said to possess a vast collection of arcane tomes. Are you willing to seek their knowledge?*</p>
 ___

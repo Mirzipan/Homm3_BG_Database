@@ -654,7 +654,7 @@ msgstr ""
 #. type: Plain text
 #: docs/artifacts/plate_of_the_dying_light.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: +1 :defense:. This effect can be used to reduce :damage: from [:spellpower:](../spells/index.md).<br><br>— OR —<br><br>:instant: +4 :defense:. This effect can be used to reduce :damage: from [:spellpower:](../spells/index.md). Then Remove this card.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: +1 :defense:. This effect can be used to reduce :damage: from [:spell:](../spells/index.md).<br><br>— OR —<br><br>:instant: +4 :defense:. This effect can be used to reduce :damage: from [:spell:](../spells/index.md). Then Remove this card.</p>\n"
 msgstr ""
 
 #. type: Plain text

@@ -692,7 +692,7 @@ msgstr ""
 #: docs/heroes/alamar.md docs/heroes/deemer.md docs/heroes/jeddite.md
 #: docs/heroes/sephinroth.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -743,9 +743,9 @@ msgstr ""
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 1 - \\*:bronze:<br>:empower: 2 - \\*:silver:<br>:empower: 4 - \\*:golden: |\n"
-"| Ⅳ | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \\*:bronze:<br>:empower: 1 - \\*:silver:<br>:empower: 3 - \\*:golden: |\n"
-"| Ⅵ | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \\*:bronze:<br>:empower: 0 - \\*:silver:<br>:empower: 2 - \\*:golden: |\n"
+"| Ⅰ | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 1 - \\*:bronze:<br>:power: 2 - \\*:silver:<br>:power: 4 - \\*:golden: |\n"
+"| Ⅳ | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 0 - \\*:bronze:<br>:power: 1 - \\*:silver:<br>:power: 3 - \\*:golden: |\n"
+"| Ⅵ | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 0 - \\*:bronze:<br>:power: 0 - \\*:silver:<br>:power: 2 - \\*:golden: |\n"
 msgstr ""
 
 #. type: Bullet: '- '

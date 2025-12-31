@@ -105,9 +105,9 @@ msgstr "Uwagi"
 #. type: Title #
 #: docs/keywords/empower.md
 #, fuzzy, no-wrap
-#| msgid ":empower: Disclaimer"
-msgid ":empower: Empower"
-msgstr ":empower: Zastrzeżenia"
+#| msgid ":power: Disclaimer"
+msgid ":power: Empower"
+msgstr ":power: Zastrzeżenia"
 
 #. type: Plain text
 #: docs/keywords/empower.md

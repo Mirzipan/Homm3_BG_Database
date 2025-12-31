@@ -877,9 +877,9 @@ msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Reliquia](../artifa
 #. type: Plain text
 #: docs/artifacts/angel_wings.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>:effect_map: Chosen [Hero](../heroes/index.md) gain +1 :movement: and can move through any fields without resolving them. The last visited field must be resolved normally.<br><br>— OR —<br><br>:instant: Draw a card.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:effect_map: Chosen [Hero](../heroes/index.md) gains +1 :movement: and can move through any fields without resolving them. The last visited field must be resolved normally.<br><br>— OR —<br><br>:instant: Draw a card.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:effect_map: El [Héroe](../heroes/index.md) elegido gana +1 :movement: y puede moverse a través de cualesquiera lugares sin resolverlos. El último lugar visitado debe ser resuelto con normalidad.<br><br>— O —<br><br>:instant: Roba una carta.</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>:map: Chosen [Hero](../heroes/index.md) gain +1 :movement: and can move through any fields without resolving them. The last visited field must be resolved normally.<br><br>— OR —<br><br>:instant: Draw a card.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:map: Chosen [Hero](../heroes/index.md) gains +1 :movement: and can move through any fields without resolving them. The last visited field must be resolved normally.<br><br>— OR —<br><br>:instant: Draw a card.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:map: El [Héroe](../heroes/index.md) elegido gana +1 :movement: y puede moverse a través de cualesquiera lugares sin resolverlos. El último lugar visitado debe ser resuelto con normalidad.<br><br>— O —<br><br>:instant: Roba una carta.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/angel_wings.md

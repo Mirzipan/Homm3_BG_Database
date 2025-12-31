@@ -922,7 +922,7 @@ msgid ""
 "| :health_points: | 4 |\n"
 "| :initiative: | 7 |\n"
 "| Cost | 10 :gold: |\n"
-"| Abilities | :effect_map: At the end of your turn, move your [Hero's](../heroes/index.md) model to an adjacent empty field. |\n"
+"| Abilities | :map: At the end of your turn, move your [Hero's](../heroes/index.md) model to an adjacent empty field. |\n"
 msgstr ""
 "| Características | Neutral |\n"
 "| :--- | :---: |\n"
@@ -943,5 +943,5 @@ msgstr "The effect can be used at the end of each of the player's turns, as long
 
 #. type: Bullet: '- '
 #: docs/units/nomads.md
-msgid "After using the :effect_map:, the Nomads are not put away, but stay in the player's unit deck."
-msgstr "Después de usar :effect_map:, los nómadas no se guardan, sino que permanezcan en el mazo de la unidad del jugador."
+msgid "After using the :map:, the Nomads are not put away, but stay in the player's unit deck."
+msgstr "Después de usar :map:, los nómadas no se guardan, sino que permanezcan en el mazo de la unidad del jugador."

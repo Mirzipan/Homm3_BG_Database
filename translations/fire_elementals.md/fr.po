@@ -991,7 +991,7 @@ msgid ""
 "| :health_points: | 4 | 4 | 3 |\n"
 "| :initiative: | 5 | 5 | 6 |\n"
 "| Cost | - | - | 13 :gold: |\n"
-"| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. |\n"
+"| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spell:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spell:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spell:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. |\n"
 msgstr ""
 
 #. type: Bullet: '- '

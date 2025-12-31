@@ -655,9 +655,9 @@ msgstr "![Sandalias del Santo](../assets/player-deck-back.webp){ width=\"340\" a
 #. type: Plain text
 #: docs/artifacts/plate_of_the_dying_light.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>:instant: Return 1 [:spellpower:](../spells/index.md) of your choice from your discard pile to your hand.<br><br>— OR —<br><br>:instant: Cast a [spell](../spells/index.md) from the top of the [:spellpower:](../spells/index.md) deck discard pile and Remove this card.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:instant: +1 :defense:. This effect can be used to reduce :damage: from [:spellpower:](../spells/index.md).<br><br>— OR —<br><br>:instant: +4 :defense:. This effect can be used to reduce :damage: from [:spellpower:](../spells/index.md). Then Remove this card.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: Devuelve 1 [:spellpower:](../spells/index.md) de tu elección de tu pila de descartes a tu mano.<br><br>— O —<br><br>:instant: Lanza un [hechizo](../spells/index.md) de la parte superior de la pila de descartes del mazo [:spellpower:](../spells/index.md) y Elimina esta carta.</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>:instant: Return 1 [:spell:](../spells/index.md) of your choice from your discard pile to your hand.<br><br>— OR —<br><br>:instant: Cast a [spell](../spells/index.md) from the top of the [:spell:](../spells/index.md) deck discard pile and Remove this card.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: +1 :defense:. This effect can be used to reduce :damage: from [:spell:](../spells/index.md).<br><br>— OR —<br><br>:instant: +4 :defense:. This effect can be used to reduce :damage: from [:spell:](../spells/index.md). Then Remove this card.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Devuelve 1 [:spell:](../spells/index.md) de tu elección de tu pila de descartes a tu mano.<br><br>— O —<br><br>:instant: Lanza un [hechizo](../spells/index.md) de la parte superior de la pila de descartes del mazo [:spell:](../spells/index.md) y Elimina esta carta.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/plate_of_the_dying_light.md

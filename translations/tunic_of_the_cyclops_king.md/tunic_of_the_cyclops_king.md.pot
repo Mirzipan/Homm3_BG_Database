@@ -727,7 +727,7 @@ msgstr ""
 #. type: Plain text
 #: docs/artifacts/tunic_of_the_cyclops_king.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Draw 1 card and gain +1 :empower:.<br><br>— OR —<br><br>:instant: +2 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Draw 1 card and gain +1 :power:.<br><br>— OR —<br><br>:instant: +2 :power:</p>\n"
 msgstr ""
 
 #. type: Plain text

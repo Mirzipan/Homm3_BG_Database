@@ -615,7 +615,7 @@ msgstr ""
 #: docs/heroes/alamar.md docs/heroes/deemer.md docs/heroes/jeddite.md
 #: docs/heroes/sephinroth.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 msgstr ""
 
 #. type: Title ##
@@ -694,7 +694,7 @@ msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
 "| Ⅰ | :instant: Draw up to 3 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |\n"
-"| Ⅳ | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \\*:bronze: Unit<br>:empower: 1 - \\*:silver: Unit<br>:empower: 2 - \\*:golden: Unit |\n"
+"| Ⅳ | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 0 - \\*:bronze: Unit<br>:power: 1 - \\*:silver: Unit<br>:power: 2 - \\*:golden: Unit |\n"
 "| Ⅵ | :instant: Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |\n"
 msgstr ""
 

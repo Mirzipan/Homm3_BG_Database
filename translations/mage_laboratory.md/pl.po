@@ -586,7 +586,7 @@ msgstr ""
 #. type: Plain text
 #: docs/events/mage_laboratory.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>For every player in the game, draw two [Spell](../spells/index.md) cards and place them face-up within all players' reach. Each player can buy one of these [:spellpower:](../spells/index.md) for 4 :gold: or 1 :valuables:. If a player buys a card, they immediately shuffle their deck and discard pile along with the newly bought card.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>For every player in the game, draw two [Spell](../spells/index.md) cards and place them face-up within all players' reach. Each player can buy one of these [:spell:](../spells/index.md) for 4 :gold: or 1 :valuables:. If a player buys a card, they immediately shuffle their deck and discard pile along with the newly bought card.</p>\n"
 msgstr ""
 
 #. type: Plain text

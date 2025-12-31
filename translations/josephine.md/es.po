@@ -556,7 +556,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/iona.md docs/heroes/josephine.md docs/heroes/torosar.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:power:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 msgstr ""
 
 #. type: Plain text

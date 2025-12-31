@@ -561,8 +561,8 @@ msgstr "<p style=\"text-align: center;\" markdown>[Murallas](../towns/rampart.md
 #: docs/heroes/clancy.md docs/heroes/gelu.md docs/heroes/ivor.md
 #: docs/heroes/mephala.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;3</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;3</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;3</br>[:power:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;3</br>[:power:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
 
 #. type: Title #
 #: docs/heroes/gelu.md
@@ -640,13 +640,13 @@ msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
 "| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Elves](../units/elves.md) and [Sharpshooters units](../units/sharpshooters.md). |\n"
-"| Ⅳ | :effect_map: If you have a [Pack of Elves Unit](../units/elves.md) card, discard it. Then, search the [Neutral Unit](../units/index.md) :silver: deck for the [Sharpshooters](../units/sharpshooters.md) card and add it to your [Unit](../units/index.md) deck. You can control only 1 [Sharpshooters](../units/sharpshooters.md) [unit](../units/index.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |\n"
+"| Ⅳ | :map: If you have a [Pack of Elves Unit](../units/elves.md) card, discard it. Then, search the [Neutral Unit](../units/index.md) :silver: deck for the [Sharpshooters](../units/sharpshooters.md) card and add it to your [Unit](../units/index.md) deck. You can control only 1 [Sharpshooters](../units/sharpshooters.md) [unit](../units/index.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |\n"
 "| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2.<br><br>This effect doubles for the [Elves](../units/elves.md) and [Sharpshooters units](../units/sharpshooters.md). |\n"
 msgstr ""
 "| Nivel | Descripción |\n"
 "| :---: | :---: |\n"
 "| Ⅰ | :instant: Tu [unidad](../units/index.md) seleccionada gana +1 :attack:<br><br>— O —<br><br>:instant: Tu [unidad](../units/index.md) seleccionada gana +1 :defense:<br><br>Este efecto es doble para las unidades [Elfos](../units/elves.md) y [Tiradores Certeros](../units/sharpshooters.md). |\n"
-"| Ⅳ | :effect_map: Si tienes una carta de Unidad [Manada de Elfos](../units/elves.md), descártala. Luego, buscar en el mazo de [Unidad Neutral](../units/index.md) :silver: la carta para [Tiradores Certeros](../units/sharpshooters.md) y añádela a tu mazo de [Unidades](../units/index.md). Sólo puedes controlar 1 [unidad](../units/index.md) de [Tiradores Certeros](../units/sharpshooters.md) al mismo tiempo.<br><br>— O —<br><br>:instant: Roba una carta. |\n"
+"| Ⅳ | :map: Si tienes una carta de Unidad [Manada de Elfos](../units/elves.md), descártala. Luego, buscar en el mazo de [Unidad Neutral](../units/index.md) :silver: la carta para [Tiradores Certeros](../units/sharpshooters.md) y añádela a tu mazo de [Unidades](../units/index.md). Sólo puedes controlar 1 [unidad](../units/index.md) de [Tiradores Certeros](../units/sharpshooters.md) al mismo tiempo.<br><br>— O —<br><br>:instant: Roba una carta. |\n"
 "| Ⅵ | :ongoing: Durante este Combate, la :initiative: de tu [unidad](../units/index.md) seleccionada se incrementa en 2.<br><br>Este efecto es doble para las unidades [Elfos](../units/elves.md) y [Tiradores Certeros](../units/sharpshooters.md). |\n"
 
 #. type: Bullet: '- '

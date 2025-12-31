@@ -763,9 +763,9 @@ msgstr "![Medallón del Coraje](../assets/player-deck-back.webp){ width=\"340\" 
 #. type: Plain text
 #: docs/artifacts/pendant_of_courage.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>:instant: Discard 1 random card from the enemy's hand.<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>:instant: Discard 1 random card from the enemy's hand.<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgid "<p style=\"text-align: center;\" markdown>:instant: Play this card immediately after you perform a [**Search**](../keywords/search.md) action and perform that action again.<br><br>— OR —<br><br>:instant: Gain 1 :expert:.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: Descarta 1 carta al azar de la mano del enemigo.<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Descarta 1 carta al azar de la mano del enemigo.<br><br>— O —<br><br>:instant: +1 :power:</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/pendant_of_courage.md

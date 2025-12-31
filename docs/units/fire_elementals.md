@@ -29,7 +29,7 @@
 | :health_points: | 4 | 4 | 3 |
 | :initiative: | 5 | 5 | 6 |
 | Cost | - | - | 13 :gold: |
-| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. |
+| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spell:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spell:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spell:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. |
 
 
 ## Notes

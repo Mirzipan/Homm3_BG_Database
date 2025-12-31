@@ -948,7 +948,7 @@ msgstr ""
 #| "| :health_points: | 8 |\n"
 #| "| :initiative: | 15 |\n"
 #| "| Cost | 35 :gold:<br>2 :valuables: |\n"
-#| "| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. |\n"
+#| "| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spell:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. |\n"
 msgid ""
 "| Statistics | Neutral | Dragon Utopia |\n"
 "| :--- | :---: | :---: |\n"
@@ -960,7 +960,7 @@ msgid ""
 "| :health_points: | 8 | 6 |\n"
 "| :initiative: | 15 | 15 |\n"
 "| Cost | 35 :gold:<br>2 :valuables: | - |\n"
-"| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. | :unit_passive: As long as this unit is Stacked, the enemy cannot cast [spells](../spells/index.md). |\n"
+"| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spell:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. | :unit_passive: As long as this unit is Stacked, the enemy cannot cast [spells](../spells/index.md). |\n"
 msgstr ""
 "| Características | Neutral |\n"
 "| :--- | :---: |\n"
@@ -972,7 +972,7 @@ msgstr ""
 "| :health_points: | 8 |\n"
 "| :initiative: | 15 |\n"
 "| Coste | 35 :gold:<br>2 :valuables: |\n"
-"| Habilidades | :activation: La unidad seleccionada sufre 2 :damage:. Esto es un [:spellpower:](../spells/index.md) que no cuenta para tu límite de [hechizo](../spells/index.md). |\n"
+"| Habilidades | :activation: La unidad seleccionada sufre 2 :damage:. Esto es un [:spell:](../spells/index.md) que no cuenta para tu límite de [hechizo](../spells/index.md). |\n"
 
 #. type: Bullet: '- '
 #: docs/units/faerie_dragons.md
@@ -981,5 +981,5 @@ msgstr "Los 2 :damage: se pueden infligir a cualquier unidad del tablero de Comb
 
 #. type: Bullet: '- '
 #: docs/units/faerie_dragons.md
-msgid "The ability counting as a [:spellpower:](../spells/index.md) is only relevant when the Fearie Dragons are in the player's unit deck (e.g. after being recruited by [Diplomacy](../abilities/diplomacy.md))."
-msgstr "La habilidad que cuenta como un [:spellpower:](../spells/index.md) sólo es relevante cuando los Dragones Feéricos están en el mazo de unidades del jugador (ej. después de ser reclutados por [Diplomacia](../abilities/diplomacy.md))."
+msgid "The ability counting as a [:spell:](../spells/index.md) is only relevant when the Fearie Dragons are in the player's unit deck (e.g. after being recruited by [Diplomacy](../abilities/diplomacy.md))."
+msgstr "La habilidad que cuenta como un [:spell:](../spells/index.md) sólo es relevante cuando los Dragones Feéricos están en el mazo de unidades del jugador (ej. después de ser reclutados por [Diplomacia](../abilities/diplomacy.md))."

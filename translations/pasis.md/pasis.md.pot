@@ -886,7 +886,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/erdamon.md docs/heroes/monere.md docs/heroes/pasis.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;3</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;3</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:power:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
 msgstr ""
 
 #. type: Title #

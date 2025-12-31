@@ -587,8 +587,8 @@ msgstr "![Pantano Maldito](../assets/events-cursed_swamp.webp){ width=\"475\" al
 #. type: Plain text
 #: docs/events/cursed_swamp.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 :treasure: and choose one result.<br><br>— OR —<br><br>Remove one or more [:spellpower:](../spells/index.md) from your hand; if you remove at least 2, **Search (3)** the Artifact deck.<br><br>— OR —<br><br>Discard your cheapest unit.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for free.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>**Cada jugador elige una opción:** <br>Gana Moral Negativa. Luego tira 2 :treasure: y elige un resultado.<br><br>— O —<br><br>Retira uno o más [:spellpower:](../spells/index.md) de tu mano; si retiras al menos 2, **Busca (3)** del mazo de Artefacto.<br><br>— O —<br><br>Descarta tu unidad más barata.<br><br>— O —<br><br>Solo para [:necro:](../towns/necropolis.md). **Refuerza** una de tus :bronze: o :silver: gratis.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 :treasure: and choose one result.<br><br>— OR —<br><br>Remove one or more [:spell:](../spells/index.md) from your hand; if you remove at least 2, **Search (3)** the Artifact deck.<br><br>— OR —<br><br>Discard your cheapest unit.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for free.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>**Cada jugador elige una opción:** <br>Gana Moral Negativa. Luego tira 2 :treasure: y elige un resultado.<br><br>— O —<br><br>Retira uno o más [:spell:](../spells/index.md) de tu mano; si retiras al menos 2, **Busca (3)** del mazo de Artefacto.<br><br>— O —<br><br>Descarta tu unidad más barata.<br><br>— O —<br><br>Solo para [:necro:](../towns/necropolis.md). **Refuerza** una de tus :bronze: o :silver: gratis.</p>\n"
 
 #. type: Plain text
 #: docs/events/cursed_swamp.md

@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Earth Spell](index.md#school-of-earth-magic)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: Until the end of the Combat, the selected [unit](../units/index.md) suffers:<br><br>:empower: 0 ➣ -1 :initiative:<br>:empower: 1 ➣ -2 :initiative:<br>:empower: 2 ➣ -3 :initiative:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:ongoing: Until the end of the Combat, the selected [unit](../units/index.md) suffers:<br><br>:power: 0 ➣ -1 :initiative:<br>:power: 1 ➣ -2 :initiative:<br>:power: 2 ➣ -3 :initiative:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

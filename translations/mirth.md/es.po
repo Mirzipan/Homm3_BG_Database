@@ -482,5 +482,5 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/mirth.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: You can reroll each of your [Attack dice](../keywords/dice.md#attack-die) once. During:<br><br>:empower: 0 ➣ This Activation<br>:empower: 2 ➣ This Combat round<br>:empower: 4 ➣ This Combat<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: You can reroll each of your [Attack dice](../keywords/dice.md#attack-die) once. During:<br><br>:power: 0 ➣ This Activation<br>:power: 2 ➣ This Combat round<br>:power: 4 ➣ This Combat<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr ""

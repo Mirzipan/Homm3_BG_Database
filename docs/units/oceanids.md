@@ -29,7 +29,7 @@
 | :health_points: | 3 | 3 | 3 |
 | :initiative: | 6 | **8** | 6 |
 | Cost | 2 :gold: | 3 :gold: | 3 :gold: |
-| Abilities | - | :unit_passive: Ignore all effects and :damage: from [:spellpower:](../spells/index.md). | :unit_passive: Ignore all effects and :damage: from [:spellpower:](../spells/index.md). |
+| Abilities | - | :unit_passive: Ignore all effects and :damage: from [:spell:](../spells/index.md). | :unit_passive: Ignore all effects and :damage: from [:spell:](../spells/index.md). |
 
 
 ## Comes With

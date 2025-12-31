@@ -596,8 +596,8 @@ msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Básico de Fuego](ind
 #. type: Plain text
 #: docs/spells/blind.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:activation: Place a :paralysis: token on the selected \\* [unit](../units/index.md):<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:activation: Coloca una ficha de :paralysis: sobre la [unidad](../units/index.md) \\* seleccionada:<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: o :silver:<br>:empower: 2 ➣ \\*:bronze: o :silver: o :golden:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:activation: Place a :paralysis: token on the selected \\* [unit](../units/index.md):<br><br>:power: 0 ➣ \\*:bronze:<br>:power: 1 ➣ \\*:bronze: or :silver:<br>:power: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:activation: Coloca una ficha de :paralysis: sobre la [unidad](../units/index.md) \\* seleccionada:<br><br>:power: 0 ➣ \\*:bronze:<br>:power: 1 ➣ \\*:bronze: o :silver:<br>:power: 2 ➣ \\*:bronze: o :silver: o :golden:<br><br>— O —<br><br>:instant: +1 :power:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/blind.md docs/units/basilisks.md docs/units/medusas.md

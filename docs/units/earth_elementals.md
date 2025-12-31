@@ -29,7 +29,7 @@
 | :health_points: | 2 | 2 | 5 |
 | :initiative: | 5 | 5 | 4 |
 | Cost | - | - | 16 :gold: |
-| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. |
+| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spell:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spell:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spell:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. |
 
 
 ## Notes

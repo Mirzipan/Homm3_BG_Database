@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Fortress](../towns/fortress.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;4</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;4</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Armorer](../abilities/armorer.md)</p>
 ___
@@ -37,7 +37,7 @@ ___
 | :---: | :---: |
 | Ⅰ | :instant: +2 :defense: |
 | Ⅳ | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :defense:. |
-| Ⅵ | :effect_map: From your hand, Remove 1 card or Discard 3 cards to draw an [Artifact](../artifacts/index.md) card from the top of the [Artifact](../artifacts/index.md) deck. |
+| Ⅵ | :map: From your hand, Remove 1 card or Discard 3 cards to draw an [Artifact](../artifacts/index.md) card from the top of the [Artifact](../artifacts/index.md) deck. |
 
 
 ## Notes

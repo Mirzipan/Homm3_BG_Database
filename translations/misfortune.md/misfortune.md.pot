@@ -629,7 +629,7 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/misfortune.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Play immediately when the selected \\* enemy [unit](../units/index.md) is attacking. Negate an [Attack die](../keywords/dice.md#attack-die) result or an additional :attack: from any card.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 1 ➣ \\*:bronze: or :silver:<br>:empower: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Play immediately when the selected \\* enemy [unit](../units/index.md) is attacking. Negate an [Attack die](../keywords/dice.md#attack-die) result or an additional :attack: from any card.<br><br>:power: 0 ➣ \\*:bronze:<br>:power: 1 ➣ \\*:bronze: or :silver:<br>:power: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '

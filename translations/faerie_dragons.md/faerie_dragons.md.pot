@@ -933,7 +933,7 @@ msgid ""
 "| :health_points: | 8 | 6 |\n"
 "| :initiative: | 15 | 15 |\n"
 "| Cost | 35 :gold:<br>2 :valuables: | - |\n"
-"| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. | :unit_passive: As long as this unit is Stacked, the enemy cannot cast [spells](../spells/index.md). |\n"
+"| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spell:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. | :unit_passive: As long as this unit is Stacked, the enemy cannot cast [spells](../spells/index.md). |\n"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -944,7 +944,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: docs/units/faerie_dragons.md
 msgid ""
-"The ability counting as a [:spellpower:](../spells/index.md) is only "
+"The ability counting as a [:spell:](../spells/index.md) is only "
 "relevant when the Fearie Dragons are in the player's unit deck (e.g. after "
 "being recruited by [Diplomacy](../abilities/diplomacy.md))."
 msgstr ""

@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Relic Artifact](index.md#relic-artifacts)</p>
 ___
-<p style="text-align: center;" markdown>:instant: +1 :defense:. This effect can be used to reduce :damage: from [:spellpower:](../spells/index.md).<br><br>— OR —<br><br>:instant: +4 :defense:. This effect can be used to reduce :damage: from [:spellpower:](../spells/index.md). Then Remove this card.</p>
+<p style="text-align: center;" markdown>:instant: +1 :defense:. This effect can be used to reduce :damage: from [:spell:](../spells/index.md).<br><br>— OR —<br><br>:instant: +4 :defense:. This effect can be used to reduce :damage: from [:spell:](../spells/index.md). Then Remove this card.</p>
 ___
 <p style="text-align: center;" markdown>*A brazen goblin with a luxurious armor on his chest questions your power. With a powerful kick in the ass, you prove him wrong.*</p>
 

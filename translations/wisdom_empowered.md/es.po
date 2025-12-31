@@ -746,7 +746,7 @@ msgstr "[Lista de Hechizos](../spells/index.md)"
 #: docs/abilities/wisdom.md docs/abilities/wisdom_empowered.md
 #, fuzzy, no-wrap
 msgid "<p style=\"text-align: center;\" markdown>:instant: The cost of buying [spells](../spells/index.md) in this [Town](../towns/index.md) is reduced by 2 :gold:. When buying [spells](../spells/index.md) from your Mage Guild, do [**Search(4)**](../keywords/search.md) instead of [**Search(2)**](../keywords/search.md).</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: Selecciona 2 cartas de [Hehizol](../spells/index.md) de tu pila de descarte y devuélvelas a tu mano.<br><br>— O —<br><br>:instant: Retira 1 [:spellpower:](../spells/index.md) de tu mano, luego **Buscar(2)** [:spellpower:](../spells/index.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Selecciona 2 cartas de [Hehizol](../spells/index.md) de tu pila de descarte y devuélvelas a tu mano.<br><br>— O —<br><br>:instant: Retira 1 [:spell:](../spells/index.md) de tu mano, luego **Buscar(2)** [:spell:](../spells/index.md).</p>\n"
 
 #. type: Title #
 #: docs/abilities/wisdom_empowered.md

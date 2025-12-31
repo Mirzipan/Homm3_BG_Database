@@ -679,7 +679,7 @@ msgstr "![Escamas del Basilisco Mayor](../assets/artifacts_minor-scales_of_the_g
 #: docs/artifacts/scales_of_the_greater_basilisk.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>:instant: Gain :expert:.<br><br>— OR —<br><br>:instant: Draw 2 cards.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:instant: +3 :spellpower:<br><br>— OR —<br><br>:instant: +1 :spellpower:, then draw a card.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: +3 :spell:<br><br>— OR —<br><br>:instant: +1 :spell:, then draw a card.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>:instant: Gana :expert:.<br><br>— O —<br><br>:instant: Roba 2 cartas.</p>\n"
 
 #. type: Plain text

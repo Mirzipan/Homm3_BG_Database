@@ -579,7 +579,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Fortaleza](../towns/fortress.
 #. type: Plain text
 #: docs/heroes/adrienne.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:power:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -639,15 +639,15 @@ msgstr ""
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/index.md#school-of-fire-magic) are cast with +1 :empower:. |\n"
+"| Ⅰ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/index.md#school-of-fire-magic) are cast with +1 :power:. |\n"
 "| Ⅳ | :instant: **Search (3)** your deck, then shuffle your cards from the discard pile into the deck. |\n"
-"| Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/index.md#school-of-fire-magic) are cast with +2 :empower:. |\n"
+"| Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/index.md#school-of-fire-magic) are cast with +2 :power:. |\n"
 msgstr ""
 "| Nivel | Descripción |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia Ígnea](../spells/index.md#school-of-fire-magic) son lanzados con +1 :empower:. |\n"
+"| Ⅰ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia Ígnea](../spells/index.md#school-of-fire-magic) son lanzados con +1 :power:. |\n"
 "| Ⅳ | :instant: **Busca (3)** en tu mazo, después baraja tus cartas de tu pila de descartes junto con el mazo. |\n"
-"| Ⅵ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia Ígnea](../spells/index.md#school-of-fire-magic) son lanzados con +2 :empower:. |\n"
+"| Ⅵ | :ongoing: Durante este Combate, todos tus hechizos de la [Escuela de Magia Ígnea](../spells/index.md#school-of-fire-magic) son lanzados con +2 :power:. |\n"
 
 #. type: Title ##
 #: docs/heroes/adrienne.md docs/heroes/alamar.md docs/heroes/catherine.md

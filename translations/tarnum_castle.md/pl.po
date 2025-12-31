@@ -798,7 +798,7 @@ msgstr ""
 #: docs/heroes/tarnum_castle.md docs/heroes/tarnum_dungeon.md
 #: docs/heroes/valeska.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:power:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -867,7 +867,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :effect_map: Pay 5 :gold: to gain a [Ballista](../war_machines/ballista.md).<br><br>— OR —<br><br>:instant: Activate your [Ballista](../war_machines/ballista.md) (if you have one). |\n"
+"| Ⅰ | :map: Pay 5 :gold: to gain a [Ballista](../war_machines/ballista.md).<br><br>— OR —<br><br>:instant: Activate your [Ballista](../war_machines/ballista.md) (if you have one). |\n"
 "| Ⅳ | :ongoing: You can play this card at the start of Combat. For this Combat, you gain an additional [Ballista](../war_machines/ballista.md), even if you already have one. Discard the [Ballista](../war_machines/ballista.md) after this Combat.<br><br>— OR —<br><br>:instant: Draw 1 card. |\n"
 "| Ⅵ | :instant: Choose 2 enemy [units](../units/index.md). Each of these [units](../units/index.md) suffers 2 :damage:. |\n"
 msgstr ""

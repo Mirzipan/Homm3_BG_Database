@@ -856,9 +856,9 @@ msgstr "[Lista Jednostek](units/index.md)"
 #. type: Plain text
 #: docs/abilities/earth_magic_empowered.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round, all [:spellpower:](../spells/index.md) from the [Air Magic](../spells/index.md#school-of-air-magic) and [Water Magic](../spells/index.md#school-of-water-magic) Schools are cast at a +1 :empower:.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for spells from [School of Earth Magic](../spells/index.md#school-of-earth-magic).<br><br>— OR —<br><br>:instant: When casting :spellpower: from the [School of Earth](../spells/index.md#school-of-earth-magic), you can discard this card, then gain +3 :empower:.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów. Wszystkie [:spellpower:](../spells/index.md) ze Szkół [Magii Powietrza](../spells/index.md#school-of-air-magic) i [Wody](../spells/index.md#school-of-water-magic) otrzymują +1 :empower:.</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round, all [:spell:](../spells/index.md) from the [Air Magic](../spells/index.md#school-of-air-magic) and [Water Magic](../spells/index.md#school-of-water-magic) Schools are cast at a +1 :power:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :power: for spells from [School of Earth Magic](../spells/index.md#school-of-earth-magic).<br><br>— OR —<br><br>:instant: When casting :spell: from the [School of Earth](../spells/index.md#school-of-earth-magic), you can discard this card, then gain +3 :power:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów. Wszystkie [:spell:](../spells/index.md) ze Szkół [Magii Powietrza](../spells/index.md#school-of-air-magic) i [Wody](../spells/index.md#school-of-water-magic) otrzymują +1 :power:.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/abilities/earth_magic_empowered.md

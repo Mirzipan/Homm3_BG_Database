@@ -762,9 +762,9 @@ msgstr "[Lista Jednostek](units/index.md)"
 #. type: Plain text
 #: docs/artifacts/orb_of_silt.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round, all [:spellpower:](../spells/index.md) from the [Air Magic](../spells/index.md#school-of-air-magic) and [Water Magic](../spells/index.md#school-of-water-magic) Schools are cast at a +1 :empower:.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: When casting a [:spellpower:](../spells/index.md) from the [School of Earth Magic](../spells/index.md#school-of-earth-magic), double the :empower: used for this [spell](../spells/index.md).<br><br>— OR —<br><br>:instant: When casting a [Earth Magic :spellpower:](../spells/index.md#school-of-earth-magic), Remove this card to gain +5 :empower:.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów. Wszystkie [:spellpower:](../spells/index.md) ze Szkół [Magii Powietrza](../spells/index.md#school-of-air-magic) i [Wody](../spells/index.md#school-of-water-magic) otrzymują +1 :empower:.</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round, all [:spell:](../spells/index.md) from the [Air Magic](../spells/index.md#school-of-air-magic) and [Water Magic](../spells/index.md#school-of-water-magic) Schools are cast at a +1 :power:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: When casting a [:spell:](../spells/index.md) from the [School of Earth Magic](../spells/index.md#school-of-earth-magic), double the :power: used for this [spell](../spells/index.md).<br><br>— OR —<br><br>:instant: When casting a [Earth Magic :spell:](../spells/index.md#school-of-earth-magic), Remove this card to gain +5 :power:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów. Wszystkie [:spell:](../spells/index.md) ze Szkół [Magii Powietrza](../spells/index.md#school-of-air-magic) i [Wody](../spells/index.md#school-of-water-magic) otrzymują +1 :power:.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/artifacts/orb_of_silt.md docs/artifacts/orb_of_tempestuous_fire.md

@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Air Spell](index.md#school-of-air-magic)</p>
 ___
-<p style="text-align: center;" markdown>:activation: The selected [unit](../units/index.md) suffers:<br><br>:empower: 0 ➣ 2 :damage:<br>:empower: 1 ➣ 3 :damage:<br>:empower: 2 ➣ 4 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:activation: The selected [unit](../units/index.md) suffers:<br><br>:power: 0 ➣ 2 :damage:<br>:power: 1 ➣ 3 :damage:<br>:power: 2 ➣ 4 :damage:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

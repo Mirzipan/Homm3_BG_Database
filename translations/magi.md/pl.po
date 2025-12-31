@@ -1000,7 +1000,7 @@ msgid ""
 "| :health_points: | 4 | 4 | 5 |\n"
 "| :initiative: | 5 | 6 | 6 |\n"
 "| Cost | 6 :gold: | 11 :gold: | 11 :gold: |\n"
-"| Abilities | :unit_attack: Ignore combat penalties. | :unit_attack: Ignore combat penalties. :activation: Add +1 :empower: to the first [spell](../spells/index.md) you cast this round. | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. |\n"
+"| Abilities | :unit_attack: Ignore combat penalties. | :unit_attack: Ignore combat penalties. :activation: Add +1 :power: to the first [spell](../spells/index.md) you cast this round. | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :power:. |\n"
 msgstr ""
 "| Statystyki | Neutralne |\n"
 "| :--- | :---: |\n"
@@ -1016,7 +1016,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/units/magi.md
-msgid "**Pack** - A [spell](../spells/index.md) will only receive the +1 :empower: by the Magi, if it's the player's first [spell](../spells/index.md) of the current Combat round and it was played either during the activation of Magi or later."
+msgid "**Pack** - A [spell](../spells/index.md) will only receive the +1 :power: by the Magi, if it's the player's first [spell](../spells/index.md) of the current Combat round and it was played either during the activation of Magi or later."
 msgstr ""
 
 #. type: Bullet: '- '

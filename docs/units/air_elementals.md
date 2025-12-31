@@ -29,7 +29,7 @@
 | :health_points: | 4 | 4 | 3 |
 | :initiative: | 8 | 8 | 7 |
 | Cost | - | - | 7 :gold: |
-| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spellpower:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spellpower:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spellpower:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. |
+| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spell:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spell:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spell:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. |
 
 
 ## Notes

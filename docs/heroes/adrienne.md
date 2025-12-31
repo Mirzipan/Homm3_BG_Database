@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Fortress](../towns/fortress.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:power:](../statistics/power.md)&nbsp;2</br>[:knowledge:](../statistics/knowledge.md)&nbsp;2</p>
 ___
 <p style="text-align: center;" markdown>[Wisdom](../abilities/wisdom.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/index.md#school-of-fire-magic) are cast with +1 :empower:. |
+| Ⅰ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/index.md#school-of-fire-magic) are cast with +1 :power:. |
 | Ⅳ | :instant: **Search (3)** your deck, then shuffle your cards from the discard pile into the deck. |
-| Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/index.md#school-of-fire-magic) are cast with +2 :empower:. |
+| Ⅵ | :ongoing: During this Combat, all your spells from the [School of Fire Magic](../spells/index.md#school-of-fire-magic) are cast with +2 :power:. |
 
 
 ## Appearances As Player Hero

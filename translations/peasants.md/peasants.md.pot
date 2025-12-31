@@ -905,7 +905,7 @@ msgid ""
 "| :health_points: | 2 |\n"
 "| :initiative: | 3 |\n"
 "| Cost | 3 :gold: |\n"
-"| Abilities | :effect_map: At the beginning of each Resource round, gain 3 :gold:. |\n"
+"| Abilities | :map: At the beginning of each Resource round, gain 3 :gold:. |\n"
 msgstr ""
 
 #. type: Bullet: '- '

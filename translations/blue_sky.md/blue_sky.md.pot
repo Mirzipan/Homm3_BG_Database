@@ -620,7 +620,7 @@ msgstr ""
 #. type: Plain text
 #: docs/astrologers_proclaim/blue_sky.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round, all [:spellpower:](../spells/index.md) from the [Air Magic](../spells/index.md#school-of-air-magic) and [Water Magic](../spells/index.md#school-of-water-magic) Schools are cast at a +1 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round, all [:spell:](../spells/index.md) from the [Air Magic](../spells/index.md#school-of-air-magic) and [Water Magic](../spells/index.md#school-of-water-magic) Schools are cast at a +1 :power:.</p>\n"
 msgstr ""
 
 #. type: Plain text

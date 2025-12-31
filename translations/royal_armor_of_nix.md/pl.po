@@ -663,7 +663,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #. type: Plain text
 #: docs/artifacts/royal_armor_of_nix.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :empower:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), [**Search(2)**](../keywords/search.md) [:spellpower:](../spells/index.md)**.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :power:<br><br>— OR —<br><br>:map: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), [**Search(2)**](../keywords/search.md) [:spell:](../spells/index.md)**.</p>\n"
 msgstr ""
 
 #. type: Plain text

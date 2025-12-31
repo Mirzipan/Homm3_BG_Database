@@ -616,7 +616,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/astra.md docs/heroes/casmetra.md docs/heroes/zilare.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 msgstr ""
 
 #. type: Title #
@@ -686,6 +686,6 @@ msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
 "| Ⅰ | :ongoing: During its next activation, a [:unit_ranged: unit](../units/index.md#ranged-units) of :bronze: or :silver: tier cannot attack.<br><br>— OR —<br><br>:instant: Draw 1 card. |\n"
-"| Ⅳ | :ongoing: During its next activation, a [:unit_ranged: unit](../units/index.md#ranged-units) of :bronze:, :silver:, or :golden: tier cannot attack.<br><br>— OR —<br><br>:instant: +2 :empower: |\n"
-"| Ⅵ | :ongoing: During its next activation, a :bronze:, :silver:, or :golden: [unit](../units/index.md#ranged-units) cannot attack.<br><br>— OR —<br><br>:instant: +2 :empower: |\n"
+"| Ⅳ | :ongoing: During its next activation, a [:unit_ranged: unit](../units/index.md#ranged-units) of :bronze:, :silver:, or :golden: tier cannot attack.<br><br>— OR —<br><br>:instant: +2 :power: |\n"
+"| Ⅵ | :ongoing: During its next activation, a :bronze:, :silver:, or :golden: [unit](../units/index.md#ranged-units) cannot attack.<br><br>— OR —<br><br>:instant: +2 :power: |\n"
 msgstr ""

@@ -19,8 +19,8 @@ ___
 
 | Type | Effect | :expert: Effect |
 | :--- | :---: | :---: |
-| Regular | :permanent: +1 :empower: for spells from [School of Earth Magic](../spells/index.md#school-of-earth-magic). | When casting :spellpower: from the [School of Earth](../spells/index.md#school-of-earth-magic), you can discard this card, then gain +3 :empower:. |
-| Empowered | :permanent: +1 :empower: for spells from [School of Earth Magic](../spells/index.md#school-of-earth-magic).<br><br>— OR —<br><br>:instant: When casting :spellpower: from the [School of Earth](../spells/index.md#school-of-earth-magic), you can discard this card, then gain +3 :empower:. | - |
+| Regular | :permanent: +1 :power: for spells from [School of Earth Magic](../spells/index.md#school-of-earth-magic). | When casting :spell: from the [School of Earth](../spells/index.md#school-of-earth-magic), you can discard this card, then gain +3 :power:. |
+| Empowered | :permanent: +1 :power: for spells from [School of Earth Magic](../spells/index.md#school-of-earth-magic).<br><br>— OR —<br><br>:instant: When casting :spell: from the [School of Earth](../spells/index.md#school-of-earth-magic), you can discard this card, then gain +3 :power:. | - |
 
 
 ## Notes

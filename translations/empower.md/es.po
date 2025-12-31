@@ -105,9 +105,9 @@ msgstr "Notas"
 #. type: Title #
 #: docs/keywords/empower.md
 #, fuzzy, no-wrap
-#| msgid ":empower: Disclaimer"
-msgid ":empower: Empower"
-msgstr ":empower: Descargo de Responsabilidad"
+#| msgid ":power: Disclaimer"
+msgid ":power: Empower"
+msgstr ":power: Descargo de Responsabilidad"
 
 #. type: Plain text
 #: docs/keywords/empower.md

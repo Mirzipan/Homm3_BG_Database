@@ -909,8 +909,8 @@ msgstr ""
 msgid ""
 "| Type | Effect | :expert: Effect |\n"
 "| :--- | :---: | :---: |\n"
-"| Regular | :permanent: +1 :empower: for spells from [School of Water Magic](../spells/index.md#school-of-water-magic). | When casting :spellpower: from the [School of Water](../spells/index.md#school-of-water-magic), you can discard this card, then gain +3 :empower:. |\n"
-"| Empowered | :permanent: +1 :empower: for spells from [School of Water Magic](../spells/index.md#school-of-water-magic).<br><br>— OR —<br><br>:instant: When casting :spellpower: from the [School of Water](../spells/index.md#school-of-water-magic), you can discard this card, then gain +3 :empower:. | - |\n"
+"| Regular | :permanent: +1 :power: for spells from [School of Water Magic](../spells/index.md#school-of-water-magic). | When casting :spell: from the [School of Water](../spells/index.md#school-of-water-magic), you can discard this card, then gain +3 :power:. |\n"
+"| Empowered | :permanent: +1 :power: for spells from [School of Water Magic](../spells/index.md#school-of-water-magic).<br><br>— OR —<br><br>:instant: When casting :spell: from the [School of Water](../spells/index.md#school-of-water-magic), you can discard this card, then gain +3 :power:. | - |\n"
 msgstr ""
 
 #. type: Bullet: '- '

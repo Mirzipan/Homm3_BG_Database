@@ -665,7 +665,7 @@ msgstr ""
 #. type: Plain text
 #: docs/astrologers_proclaim/grim_warlock.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card played in each player's turn gets +1 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card played in each player's turn gets +1 :power:.</p>\n"
 msgstr ""
 
 #. type: Plain text

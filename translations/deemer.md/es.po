@@ -621,8 +621,8 @@ msgstr "<p style=\"text-align: center;\" markdown>[Mazmorra](../towns/dungeon.md
 #: docs/heroes/alamar.md docs/heroes/deemer.md docs/heroes/jeddite.md
 #: docs/heroes/sephinroth.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 
 #. type: Title #
 #: docs/heroes/deemer.md
@@ -700,15 +700,15 @@ msgstr ""
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Select a [unit](../units/index.md) and 1 [unit](../units/index.md) adjacent to it. Deal \\* to both selected [units](../units/index.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |\n"
-"| Ⅳ | :instant: +1 :empower:<br><br>— OR —<br><br>:instant: Shuffle your discard pile back into your deck, then draw 1 card. |\n"
-"| Ⅵ | :instant: Select a [unit](../units/index.md) and 2 [units](../units/index.md) adjacent to it. Deal \\* to all selected [units](../units/index.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |\n"
+"| Ⅰ | :instant: Select a [unit](../units/index.md) and 1 [unit](../units/index.md) adjacent to it. Deal \\* to both selected [units](../units/index.md).<br><br> :power: 0 - 1 :damage:<br>:power: 2 - 2 :damage:<br>:power: 4 - 3 :damage: |\n"
+"| Ⅳ | :instant: +1 :power:<br><br>— OR —<br><br>:instant: Shuffle your discard pile back into your deck, then draw 1 card. |\n"
+"| Ⅵ | :instant: Select a [unit](../units/index.md) and 2 [units](../units/index.md) adjacent to it. Deal \\* to all selected [units](../units/index.md).<br><br> :power: 0 - 1 :damage:<br>:power: 2 - 2 :damage:<br>:power: 4 - 3 :damage: |\n"
 msgstr ""
 "| Nivel | Descripción |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Selecciona una [unidad](../units/index.md) y 1 [unidad](../units/index.md) adyacente a ella. Reparte \\* a ambas [unidades](../units/index.md) seleccionadas.<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |\n"
-"| Ⅳ | :instant: +1 :empower:<br><br>— O —<br><br>:instant: Baraja tu pila de descartes de nuevo en tu mazo, luego roba 1 carta. |\n"
-"| Ⅵ | :instant: Selecciona una [unidad](../units/index.md) y 2 [unidad](../units/index.md) adyacente a ella. Reparte \\* a ambas [unidades](../units/index.md) seleccionadas.<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |\n"
+"| Ⅰ | :instant: Selecciona una [unidad](../units/index.md) y 1 [unidad](../units/index.md) adyacente a ella. Reparte \\* a ambas [unidades](../units/index.md) seleccionadas.<br><br> :power: 0 - 1 :damage:<br>:power: 2 - 2 :damage:<br>:power: 4 - 3 :damage: |\n"
+"| Ⅳ | :instant: +1 :power:<br><br>— O —<br><br>:instant: Baraja tu pila de descartes de nuevo en tu mazo, luego roba 1 carta. |\n"
+"| Ⅵ | :instant: Selecciona una [unidad](../units/index.md) y 2 [unidad](../units/index.md) adyacente a ella. Reparte \\* a ambas [unidades](../units/index.md) seleccionadas.<br><br> :power: 0 - 1 :damage:<br>:power: 2 - 2 :damage:<br>:power: 4 - 3 :damage: |\n"
 
 #. type: Bullet: '- '
 #: docs/heroes/deemer.md

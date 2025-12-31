@@ -597,8 +597,8 @@ msgstr "![Escudo de Fuego](../assets/spells-fire_shield.webp){ width=\"340\" ali
 #. type: Plain text
 #: docs/spells/fire_shield.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: When the targeted [unit](../units/index.md) is attacked by an adjacent [unit](../units/index.md) during this Combat round, the attacking [unit](../units/index.md) takes:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Cuando la [unidad] objetivo(../units/index.md) es atacada por una [unidad] adyacente(../units/index.md) durante esta ronda de Combate, la [unidad] atacante(../units/index.md) toma:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: When the targeted [unit](../units/index.md) is attacked by an adjacent [unit](../units/index.md) during this Combat round, the attacking [unit](../units/index.md) takes:<br><br>:power: 0 ➣ 1 :damage:<br>:power: 2 ➣ 2 :damage:<br>:power: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Cuando la [unidad] objetivo(../units/index.md) es atacada por una [unidad] adyacente(../units/index.md) durante esta ronda de Combate, la [unidad] atacante(../units/index.md) toma:<br><br>:power: 0 ➣ 1 :damage:<br>:power: 2 ➣ 2 :damage:<br>:power: 4 ➣ 3 :damage:<br><br>— O —<br><br>:instant: +1 :power:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/fire_shield.md

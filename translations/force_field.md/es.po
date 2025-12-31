@@ -719,6 +719,6 @@ msgstr "![Escudo de Aire](../assets/player-deck-back.webp){ width=\"340\" align=
 #. type: Plain text
 #: docs/spells/force_field.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>:ongoing: Until the end of the Combat, the selected [unit](../units/index.md) gains:<br><br>:empower: 0 ➣ +1 :initiative:<br>:empower: 1 ➣ +2 :initiative:<br>:empower: 2 ➣ +3 :initiative:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: Place this card or a Force Field token on an empty space. It counts as an Obstacle until the end of:<br><br>:empower: 0 ➣ This Combat round<br>:empower: 1 ➣ The next Combat round<br>:empower: 2 ➣ This Combat<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Hasta el final del Combate, la [unidad](../units/index.md) seleccionada gana:<br><br>:empower: 0 ➣ +1 :initiative:<br>:empower: 1 ➣ +2 :initiative:<br>:empower: 2 ➣ +3 :initiative:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>:ongoing: Until the end of the Combat, the selected [unit](../units/index.md) gains:<br><br>:power: 0 ➣ +1 :initiative:<br>:power: 1 ➣ +2 :initiative:<br>:power: 2 ➣ +3 :initiative:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: Place this card or a Force Field token on an empty space. It counts as an Obstacle until the end of:<br><br>:power: 0 ➣ This Combat round<br>:power: 1 ➣ The next Combat round<br>:power: 2 ➣ This Combat<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Hasta el final del Combate, la [unidad](../units/index.md) seleccionada gana:<br><br>:power: 0 ➣ +1 :initiative:<br>:power: 1 ➣ +2 :initiative:<br>:power: 2 ➣ +3 :initiative:<br><br>— O —<br><br>:instant: +1 :power:</p>\n"

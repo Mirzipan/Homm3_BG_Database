@@ -799,7 +799,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/gem.md docs/heroes/melodia.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:power:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 msgstr ""
 
 #. type: Title ##
@@ -872,7 +872,7 @@ msgid ""
 "| :---: | :---: |\n"
 "| Ⅰ | :instant: Gain :morale_positive: and 1 :gold:. |\n"
 "| Ⅳ | :instant: Roll 2 [:resource_die:](../keywords/dice.md) and resolve one of them.</br>Gain 1 :gold:. |\n"
-"| Ⅵ | :effect_map: During this turn, the number of dice you roll and resolve at locations is increased by 1. Gain 1 :gold:. |\n"
+"| Ⅵ | :map: During this turn, the number of dice you roll and resolve at locations is increased by 1. Gain 1 :gold:. |\n"
 msgstr ""
 
 #. type: Bullet: '- '

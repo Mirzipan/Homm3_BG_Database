@@ -848,7 +848,7 @@ msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 #. type: Plain text
 #: docs/abilities/basic_water_magic_empowered.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Water Magic :spellpower:](../spells/index.md#school-of-water-magic) in it and take the :spellpower: into your hand. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: +3 :empower: for a [Water Magic :spellpower:](../spells/index.md#school-of-water-magic).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Water Magic :spell:](../spells/index.md#school-of-water-magic) in it and take the :spell: into your hand. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: +3 :power: for a [Water Magic :spell:](../spells/index.md#school-of-water-magic).</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '

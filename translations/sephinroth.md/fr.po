@@ -881,7 +881,7 @@ msgstr ""
 #: docs/heroes/alamar.md docs/heroes/deemer.md docs/heroes/jeddite.md
 #: docs/heroes/sephinroth.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -958,7 +958,7 @@ msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :effect_map: Pay 2 :gold: to gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card. |\n"
-"| Ⅳ | :effect_map: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: +2 :empower:. |\n"
-"| Ⅵ | :effect_map: Gain 2 :valuables:.<br><br>— OR —<br><br>Draw 2 cards. |\n"
+"| Ⅰ | :map: Pay 2 :gold: to gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card. |\n"
+"| Ⅳ | :map: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: +2 :power:. |\n"
+"| Ⅵ | :map: Gain 2 :valuables:.<br><br>— OR —<br><br>Draw 2 cards. |\n"
 msgstr ""

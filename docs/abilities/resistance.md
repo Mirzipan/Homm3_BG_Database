@@ -19,7 +19,7 @@ ___
 
 | Type | Effect | :expert: Effect |
 | :--- | :---: | :---: |
-| Regular | :instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). If the spell was cast with 1 :empower: or less, ignore the [Spell](../spells/index.md) card's effect. | :instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). Ignore the [Spell](../spells/index.md) card's effect. |
+| Regular | :instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). If the spell was cast with 1 :power: or less, ignore the [Spell](../spells/index.md) card's effect. | :instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). Ignore the [Spell](../spells/index.md) card's effect. |
 | Empowered | :instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). Ignore the [Spell](../spells/index.md) card's effect. | - |
 
 

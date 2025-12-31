@@ -654,8 +654,8 @@ msgstr "<p style=\"text-align: center;\" markdown>[Conflujo](../towns/conflux.md
 #: docs/heroes/ciele.md docs/heroes/cyra.md docs/heroes/dracon.md
 #: docs/heroes/luna.md docs/heroes/solmyr.md docs/heroes/tarnum_conflux.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
 
 #. type: Plain text
 #: docs/heroes/dracon.md docs/heroes/tarnum_conflux.md
@@ -761,9 +761,9 @@ msgstr ""
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: **Search(1)** [:spellpower:](../spells/index.md). You can Remove this card instead of taking it into your hand. |\n"
-"| Ⅳ | :effect_map: :pay: 10 :gold:, then find the [Enchanters](../units/enchanters.md) card in the [:golden: Neutral Unit](../units/index.md) deck and add it to your [Unit](../units/index.md) deck. You can control only 1 [Enchanters unit](../units/enchanters.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |\n"
-"| Ⅵ | :instant: **Search(1)** [:spellpower:](../spells/index.md) twice. If their type allows it, and you have enough :empower: available, you can immediately cast one or both of these [spells](../spells/index.md), even if you already cast a spell this round. Place each spell you use this way on the top of the [Spell](../spells/index.md) deck or on its discard pile in any order. |\n"
+"| Ⅰ | :instant: **Search(1)** [:spell:](../spells/index.md). You can Remove this card instead of taking it into your hand. |\n"
+"| Ⅳ | :map: :pay: 10 :gold:, then find the [Enchanters](../units/enchanters.md) card in the [:golden: Neutral Unit](../units/index.md) deck and add it to your [Unit](../units/index.md) deck. You can control only 1 [Enchanters unit](../units/enchanters.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |\n"
+"| Ⅵ | :instant: **Search(1)** [:spell:](../spells/index.md) twice. If their type allows it, and you have enough :power: available, you can immediately cast one or both of these [spells](../spells/index.md), even if you already cast a spell this round. Place each spell you use this way on the top of the [Spell](../spells/index.md) deck or on its discard pile in any order. |\n"
 msgstr ""
 
 #. type: Bullet: '- '

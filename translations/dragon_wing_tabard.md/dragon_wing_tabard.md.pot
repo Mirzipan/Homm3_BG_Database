@@ -778,7 +778,7 @@ msgstr ""
 #. type: Plain text
 #: docs/artifacts/dragon_wing_tabard.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Discard 1 random card from the enemy's hand.<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Discard 1 random card from the enemy's hand.<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr ""
 
 #. type: Plain text

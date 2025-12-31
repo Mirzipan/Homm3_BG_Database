@@ -497,7 +497,7 @@ msgstr ""
 #: docs/heroes/adelaide.md docs/heroes/ingham.md docs/heroes/rion.md
 #: docs/heroes/sandro.md docs/heroes/septienna.md docs/heroes/vidomina.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>\n"
 msgstr ""
 
 #. type: Title ##
@@ -641,7 +641,7 @@ msgstr ""
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |\n"
+"| Ⅰ | :map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |\n"
 "| Ⅳ | :instant: Put this card on the [\"Pack\" of Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. Keep the card, until the card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack: 3 :defense: 1 :health_points: 2 :initiative: 6 |\n"
-"| Ⅵ | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |\n"
+"| Ⅵ | :map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |\n"
 msgstr ""

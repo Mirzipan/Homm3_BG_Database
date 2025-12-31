@@ -769,5 +769,5 @@ msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 #. type: Plain text
 #: docs/artifacts/orb_of_the_firmament.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: When casting a [:spellpower:](../spells/index.md) from the [School of Air Magic](../spells/index.md#school-of-air-magic), double the :empower: used for this [spell](../spells/index.md).<br><br>— OR —<br><br>:instant: When casting a [Air Magic :spellpower:](../spells/index.md#school-of-air-magic), Remove this card to gain +5 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: When casting a [:spell:](../spells/index.md) from the [School of Air Magic](../spells/index.md#school-of-air-magic), double the :power: used for this [spell](../spells/index.md).<br><br>— OR —<br><br>:instant: When casting a [Air Magic :spell:](../spells/index.md#school-of-air-magic), Remove this card to gain +5 :power:.</p>\n"
 msgstr ""

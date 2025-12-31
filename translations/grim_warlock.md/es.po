@@ -666,8 +666,8 @@ msgstr "![Brujo Sombrío](../assets/astrologers_proclaim-grim_warlock.webp){ wid
 #. type: Plain text
 #: docs/astrologers_proclaim/grim_warlock.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card played in each player's turn gets +1 :empower:.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos:<br><br>La primera carta de [Hechizo](../spells/index.md) jugada en el turno de cada jugador obtiene +1 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round:<br><br>The first [Spell](../spells/index.md) card played in each player's turn gets +1 :power:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos:<br><br>La primera carta de [Hechizo](../spells/index.md) jugada en el turno de cada jugador obtiene +1 :power:.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/grim_warlock.md

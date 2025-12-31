@@ -495,5 +495,5 @@ msgstr "![Frenesí](../assets/spells-frenzy.webp){ width=\"340\" align=right }"
 #. type: Plain text
 #: docs/spells/frenzy.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: This [unit](../units/index.md) ignores the :defense: of the attacked \\* [unit](../units/index.md).<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: Esta [unidad](../units/index.md) ignora la :defense: de la [unidad](../units/index.md) atacada.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: o :silver: o :golden:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: This [unit](../units/index.md) ignores the :defense: of the attacked \\* [unit](../units/index.md).<br><br>:power: 0 ➣ \\*:bronze:<br>:power: 2 ➣ \\*:bronze: or :silver:<br>:power: 4 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Esta [unidad](../units/index.md) ignora la :defense: de la [unidad](../units/index.md) atacada.<br><br>:power: 0 ➣ \\*:bronze:<br>:power: 2 ➣ \\*:bronze: or :silver:<br>:power: 4 ➣ \\*:bronze: o :silver: o :golden:<br><br>— O —<br><br>:instant: +1 :power:</p>\n"

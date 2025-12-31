@@ -805,8 +805,8 @@ msgstr "<p style=\"text-align: center;\" markdown>[:magic: Maga de Batalla](inde
 #. type: Plain text
 #: docs/heroes/dessa.md docs/heroes/gundula.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:power:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:power:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
 
 #. type: Plain text
 #: docs/heroes/dessa.md docs/heroes/miriam.md docs/heroes/monere.md
@@ -878,6 +878,6 @@ msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
 "| Ⅰ | :instant: Extend your Combat against a Neutral Army for another round (without spending any :movement:). |\n"
-"| Ⅳ | :effect_map: Your Main Hero gains 1 :movement:.<br><br>— OR —<br><br>:ongoing: For this Combat, the :initiative: of all your [units](../units/index.md) is increased by 1. |\n"
-"| Ⅵ | :effect_map: Your Main Hero gains 1 :movement: and can move through [blocked fields](../fields/blocked_field.md) during this turn.<br><br>— OR —<br><br>:instant: Draw 2 cards. |\n"
+"| Ⅳ | :map: Your Main Hero gains 1 :movement:.<br><br>— OR —<br><br>:ongoing: For this Combat, the :initiative: of all your [units](../units/index.md) is increased by 1. |\n"
+"| Ⅵ | :map: Your Main Hero gains 1 :movement: and can move through [blocked fields](../fields/blocked_field.md) during this turn.<br><br>— OR —<br><br>:instant: Draw 2 cards. |\n"
 msgstr ""

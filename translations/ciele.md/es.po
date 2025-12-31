@@ -806,8 +806,8 @@ msgstr "<p style=\"text-align: center;\" markdown>[Conflujo](../towns/conflux.md
 #: docs/heroes/ciele.md docs/heroes/cyra.md docs/heroes/dracon.md
 #: docs/heroes/luna.md docs/heroes/solmyr.md docs/heroes/tarnum_conflux.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ciele.md
@@ -872,18 +872,18 @@ msgstr ""
 #| msgid ""
 #| "| Level | Description |\n"
 #| "| :---: | :---: |\n"
-#| "| Ⅰ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and put it into your hand.<br><br>— OR —<br><br>:instant: +1 :empower: |\n"
-#| "| Ⅳ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and cast it.<br><br>— OR —<br><br>:instant: +1 :empower: |\n"
-#| "| Ⅵ | 🚧 Selected unit suffers 2 :damage:.<br><br>— OR —<br><br>:instant: +2 :empower: |\n"
+#| "| Ⅰ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and put it into your hand.<br><br>— OR —<br><br>:instant: +1 :power: |\n"
+#| "| Ⅳ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and cast it.<br><br>— OR —<br><br>:instant: +1 :power: |\n"
+#| "| Ⅵ | 🚧 Selected unit suffers 2 :damage:.<br><br>— OR —<br><br>:instant: +2 :power: |\n"
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and put it into your hand.<br><br>— OR —<br><br>:instant: +1 :empower: |\n"
-"| Ⅳ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and cast it. This spell does not count toward your Spell limit per Combat round.<br><br>— OR —<br><br>:instant: +1 :empower: |\n"
-"| Ⅵ | :instant: The selected [unit](../units/index.md) suffers 2 :damage:.<br><br>— OR —<br><br>:instant: +2 :empower: |\n"
+"| Ⅰ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and put it into your hand.<br><br>— OR —<br><br>:instant: +1 :power: |\n"
+"| Ⅳ | :instant: Take a [Magic Arrow](../spells/magic_arrow.md) spell from your discard pile and cast it. This spell does not count toward your Spell limit per Combat round.<br><br>— OR —<br><br>:instant: +1 :power: |\n"
+"| Ⅵ | :instant: The selected [unit](../units/index.md) suffers 2 :damage:.<br><br>— OR —<br><br>:instant: +2 :power: |\n"
 msgstr ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Coge un hechizo [Flecha Mágica](../spells/magic_arrow.md) de tu pila de descartes y ponlo en tu mano.<br><br>— O —<br><br>:instant: +1 :empower: |\n"
-"| Ⅳ | :instant: Coge un hechizo [Flecha Mágica](../spells/magic_arrow.md) de tu pila de descartes y lánzalo.<br><br>— O —<br><br>:instant: +1 :empower: |\n"
-"| Ⅵ | 🚧 La unidad seleccionada sufre 2 :damage:.<br><br>— O —<br><br>:instant: +2 :empower: |\n"
+"| Ⅰ | :instant: Coge un hechizo [Flecha Mágica](../spells/magic_arrow.md) de tu pila de descartes y ponlo en tu mano.<br><br>— O —<br><br>:instant: +1 :power: |\n"
+"| Ⅳ | :instant: Coge un hechizo [Flecha Mágica](../spells/magic_arrow.md) de tu pila de descartes y lánzalo.<br><br>— O —<br><br>:instant: +1 :power: |\n"
+"| Ⅵ | 🚧 La unidad seleccionada sufre 2 :damage:.<br><br>— O —<br><br>:instant: +2 :power: |\n"

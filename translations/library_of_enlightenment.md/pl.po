@@ -794,7 +794,7 @@ msgstr ""
 #. type: Plain text
 #: docs/events/library_of_enlightenment.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>For every player in the game, draw the top two [Spell](../spells/index.md) cards and put them face-up within all players' reach. Each player can buy once of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>For every player in the game, draw the top two [Spell](../spells/index.md) cards and put them face-up within all players' reach. Each player can buy once of these [:spell:](../spells/index.md) for 6 :gold: or 2 :valuables:.</p>\n"
 msgstr ""
 
 #. type: Plain text

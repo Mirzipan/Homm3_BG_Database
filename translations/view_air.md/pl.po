@@ -492,5 +492,5 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/view_air.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:effect_map: Gain:<br><br>:empower: 0 ➣ 3 :gold:<br>:empower: 1 ➣ 2 :building_materials:<br>:empower: 2 ➣ 1 :valuables:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:map: Gain:<br><br>:power: 0 ➣ 3 :gold:<br>:power: 1 ➣ 2 :building_materials:<br>:power: 2 ➣ 1 :valuables:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr ""

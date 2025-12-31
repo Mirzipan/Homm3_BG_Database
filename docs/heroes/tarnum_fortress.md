@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Fortress](../towns/fortress.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;4</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;4</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Armorer](../abilities/armorer.md)</p>
 ___

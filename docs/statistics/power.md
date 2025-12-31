@@ -19,8 +19,8 @@ ___
 
 | Type | Effect | :expert: Effect |
 | :--- | :--- | :--- |
-| Regular | :instant: +1 :empower: | :instant: +2 :empower: |
-| Empowered | :instant: +2 :empower: | - |
+| Regular | :instant: +1 :power: | :instant: +2 :power: |
+| Empowered | :instant: +2 :power: | - |
 
 
 ## See Also

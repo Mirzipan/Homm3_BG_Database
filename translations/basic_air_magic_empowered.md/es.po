@@ -848,9 +848,9 @@ msgstr "![Escudo de Aire](../assets/player-deck-back.webp){ width=\"340\" align=
 #. type: Plain text
 #: docs/abilities/basic_air_magic_empowered.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round, all [:spellpower:](../spells/index.md) from the [Air Magic](../spells/index.md#school-of-air-magic) and [Water Magic](../spells/index.md#school-of-water-magic) Schools are cast at a +1 :empower:.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Air Magic :spellpower:](../spells/index.md#school-of-air-magic) in it and take the :spellpower: into your hand. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: +3 :empower: for a [Air Magic :spellpower:](../spells/index.md#school-of-air-magic).</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos, todos los [:spellpower:](../spells/index.md) de las Escuelas [Magia Aérea](../spells/index.md#school-of-air-magic) y [Magia Acuática](../spells/index.md#school-of-water-magic) son lanzados con +1 :empower:.</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round, all [:spell:](../spells/index.md) from the [Air Magic](../spells/index.md#school-of-air-magic) and [Water Magic](../spells/index.md#school-of-water-magic) Schools are cast at a +1 :power:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Air Magic :spell:](../spells/index.md#school-of-air-magic) in it and take the :spell: into your hand. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: +3 :power: for a [Air Magic :spell:](../spells/index.md#school-of-air-magic).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Hasta la siguiente ronda de Astrólogos, todos los [:spell:](../spells/index.md) de las Escuelas [Magia Aérea](../spells/index.md#school-of-air-magic) y [Magia Acuática](../spells/index.md#school-of-water-magic) son lanzados con +1 :power:.</p>\n"
 
 #. type: Bullet: '- '
 #: docs/abilities/basic_air_magic_empowered.md

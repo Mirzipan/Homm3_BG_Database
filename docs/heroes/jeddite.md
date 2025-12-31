@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Dungeon](../towns/dungeon.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;3</br>[:knowledge:](../statistics/knowledge.md)&nbsp;2</p>
 ___
 <p style="text-align: center;" markdown>[Sorcery](../abilities/sorcery.md)</p>
 ___
@@ -36,7 +36,7 @@ ___
 | Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Draw up to 3 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
-| Ⅳ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \*:bronze: Unit<br>:empower: 1 - \*:silver: Unit<br>:empower: 2 - \*:golden: Unit |
+| Ⅳ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 0 - \*:bronze: Unit<br>:power: 1 - \*:silver: Unit<br>:power: 2 - \*:golden: Unit |
 | Ⅵ | :instant: Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |
 
 

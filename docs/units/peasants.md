@@ -15,7 +15,7 @@
 | :health_points: | 2 |
 | :initiative: | 3 |
 | Cost | 3 :gold: |
-| Abilities | :effect_map: At the beginning of each Resource round, gain 3 :gold:. |
+| Abilities | :map: At the beginning of each Resource round, gain 3 :gold:. |
 
 
 ## Notes

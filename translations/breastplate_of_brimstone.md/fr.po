@@ -662,7 +662,7 @@ msgstr ""
 #: docs/artifacts/breastplate_of_brimstone.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>:pay: 5 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 8 :gold: at Trade Post</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:instant: **Search(2)** [:spellpower:](../spells/index.md).<br><br>— OR —<br><br>:instant: +1 :empower:, then discard up to 3 cards from your hand to gain +1 :empower: per card discarded.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: **Search(2)** [:spell:](../spells/index.md).<br><br>— OR —<br><br>:instant: +1 :power:, then discard up to 3 cards from your hand to gain +1 :power: per card discarded.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>:pay: 5 :gold: à la Manufacture d'Armes<br><br>— OU —<br><br>:pay: 8 :gold: au Comptoir</p>\n"
 
 #. type: Plain text

@@ -622,8 +622,8 @@ msgstr "<p style=\"text-align: center;\" markdown>[Infierno](../towns/inferno.md
 #. type: Plain text
 #: docs/heroes/ash.md docs/heroes/xyron.md docs/heroes/zydar.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:power:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:power:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
 
 #. type: Plain text
 #: docs/heroes/jeddite.md docs/heroes/josephine.md docs/heroes/sandro.md
@@ -695,7 +695,7 @@ msgstr ""
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
-"| Ⅰ | :instant: Play this card after casting a [:spellpower:](../spells/index.md), then draw 1 card.<br><br>— OR —<br><br>:instant: +1 :empower: |\n"
-"| Ⅳ | :instant: The next [:spellpower:](../spells/index.md) you cast does not count toward the limit.<br><br>— OR —<br><br>:instant: +2 :empower: |\n"
-"| Ⅵ | :ongoing: Until the end of the Combat round, after casting a [:spellpower:](../spells/index.md), draw 1 card.<br><br>:instant: +2 :empower: |\n"
+"| Ⅰ | :instant: Play this card after casting a [:spell:](../spells/index.md), then draw 1 card.<br><br>— OR —<br><br>:instant: +1 :power: |\n"
+"| Ⅳ | :instant: The next [:spell:](../spells/index.md) you cast does not count toward the limit.<br><br>— OR —<br><br>:instant: +2 :power: |\n"
+"| Ⅵ | :ongoing: Until the end of the Combat round, after casting a [:spell:](../spells/index.md), draw 1 card.<br><br>:instant: +2 :power: |\n"
 msgstr ""

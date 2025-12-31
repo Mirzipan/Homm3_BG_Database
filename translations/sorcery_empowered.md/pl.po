@@ -811,7 +811,7 @@ msgstr "[Rozszerzenie Przystań](../content/cove_expansion.md)"
 #. type: Plain text
 #: docs/abilities/sorcery.md docs/abilities/sorcery_empowered.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :empower:<br>Then draw 1 card.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :power:<br>Then draw 1 card.</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '

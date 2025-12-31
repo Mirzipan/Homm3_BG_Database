@@ -596,7 +596,7 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/fireball.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:activation: Select 2 adjacent places. Deal \\* :damage: to [units](../units/index.md) in these spaces.<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:activation: Select 2 adjacent places. Deal \\* :damage: to [units](../units/index.md) in these spaces.<br><br>:power: 0 ➣ 1 :damage:<br>:power: 2 ➣ 2 :damage:<br>:power: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '

@@ -618,8 +618,8 @@ msgstr ""
 #. type: Plain text
 #: docs/astrologers_proclaim/blue_sky.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round, all [:spellpower:](../spells/index.md) from the [Air Magic](../spells/index.md#school-of-air-magic) and [Water Magic](../spells/index.md#school-of-water-magic) Schools are cast at a +1 :empower:.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów. Wszystkie [:spellpower:](../spells/index.md) ze Szkół [Magii Powietrza](../spells/index.md#school-of-air-magic) i [Wody](../spells/index.md#school-of-water-magic) otrzymują +1 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round, all [:spell:](../spells/index.md) from the [Air Magic](../spells/index.md#school-of-air-magic) and [Water Magic](../spells/index.md#school-of-water-magic) Schools are cast at a +1 :power:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów. Wszystkie [:spell:](../spells/index.md) ze Szkół [Magii Powietrza](../spells/index.md#school-of-air-magic) i [Wody](../spells/index.md#school-of-water-magic) otrzymują +1 :power:.</p>\n"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/blue_sky.md

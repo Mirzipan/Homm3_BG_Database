@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Draw 1 card.<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:instant: Draw 1 card.<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 <p style="text-align: center;" markdown>*A gang of Rogues is sifting through the possessions of some dead warriors. Scaring off the scavengers, you notice the Rogues had overlooked a strange breastplate.*</p>
 

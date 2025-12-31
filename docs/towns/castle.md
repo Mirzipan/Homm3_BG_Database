@@ -24,7 +24,7 @@
 | :--- | ---: | :---: |
 | City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: +1:movement: |
 | Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |
-| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 6 :gold: to **Search(2)** [:spellpower:](../spells/index.md). |
+| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 6 :gold: to **Search(2)** [:spell:](../spells/index.md). |
 | Towers | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |
 | Holy Grounds | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |
 | Glory of Erathia | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
@@ -61,7 +61,7 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Crusaders](../units/crusaders.md) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | **4** | 2 | 4 | **6** | 10 :gold: | :unit_attack: |
 | [Zealots](../units/zealots.md) | Few | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 1 | 5 | 5 | 8 :gold: | - |
 | [Zealots](../units/zealots.md) | Pack | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | **4** | 1 | 5 | **7** | 12 :gold: | :unit_passive: |
-| [Champions](../units/champions.md) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 5 | 2 | 7 | 7 | 12 :gold: | :effect_map: |
+| [Champions](../units/champions.md) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 5 | 2 | 7 | 7 | 12 :gold: | :map: |
 | [Champions](../units/champions.md) | Pack | :golden: | [:unit_ground:](../units/index.md#ground-units) | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: |
 | [Archangels](../units/archangels.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 6 | 3 | 8 | 12 | 20 :gold:<br>1 :valuables: | :unit_passive: |
 | [Archangels](../units/archangels.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **7** | 3 | **10** | **18** | 30 :gold:<br>2 :valuables: | :unit_passive: |

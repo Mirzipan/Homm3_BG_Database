@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Necropolis](../towns/necropolis.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:knowledge:](../statistics/knowledge.md)&nbsp;2</p>
 ___
 <p style="text-align: center;" markdown>[Necromancy](../abilities/necromancy.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
+| Ⅰ | :map: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
 | Ⅳ | :instant: Put this card on the ["Pack" of Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. Keep the card, until the card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack: 3 :defense: 1 :health_points: 2 :initiative: 6 |
-| Ⅵ | :effect_map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
+| Ⅵ | :map: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
 
 
 ## Appearances As Enemy Hero

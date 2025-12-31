@@ -23,7 +23,7 @@ Quick reference for what the different glyphs mean.
 | :unit_ranged: | Ranged unit |
 | :attack: | Attack |
 | :defense: | Defense |
-| :empower: | Power |
+| :power: | Power |
 | :skill: | Intelligence |
 | :health_points: | Health |
 | :damage: | Damage |
@@ -39,7 +39,7 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :effect_map: | Map effect. Can be activated when it's your turn and you are not in a fight |
+| :map: | Map effect. Can be activated when it's your turn and you are not in a fight |
 | :unit_attack: | Attack. Triggers when unit is attacking (in case of multiple attacks it triggers for the first one only) |
 | :unit_retaliate: | Retaliation. Triggers when unit is retaliating |
 | :activation: | Activation. Triggers when unit activates |
@@ -54,7 +54,7 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :spellpower: | [Spell](spells/index.md) |
+| :spell: | [Spell](spells/index.md) |
 | :artifact: | [Artifact](artifacts/index.md) |
 
 ## Resources

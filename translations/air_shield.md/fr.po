@@ -679,7 +679,7 @@ msgstr ""
 #: docs/spells/air_shield.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>:pay: 7 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 10 :gold: at Trade Post</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: Until the end of the Combat, the selected [unit](../units/index.md) gains \\* when it is attacked by a [:unit_ranged: unit](../units/index.md#ranged-units).<br><br>:empower: 0 ➣ +1 :defense:<br>:empower: 1 ➣ +2 :defense:<br>:empower: 2 ➣ +3 :defense:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: Until the end of the Combat, the selected [unit](../units/index.md) gains \\* when it is attacked by a [:unit_ranged: unit](../units/index.md#ranged-units).<br><br>:power: 0 ➣ +1 :defense:<br>:power: 1 ➣ +2 :defense:<br>:power: 2 ➣ +3 :defense:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>:pay: 7 :gold: à la Manufacture d'Armes<br><br>— OU —<br><br>:pay: 10 :gold: au Comptoir</p>\n"
 
 #. type: Bullet: '- '

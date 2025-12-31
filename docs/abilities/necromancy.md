@@ -19,8 +19,8 @@ ___
 
 | Type | Effect | :expert: Effect |
 | :--- | :---: | :---: |
-| Regular | :effect_map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | :effect_map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
-| Empowered | :effect_map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | - |
+| Regular | :map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | :map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
+| Empowered | :map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | - |
 
 
 ## Heroes With Starting Ability

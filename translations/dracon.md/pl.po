@@ -552,7 +552,7 @@ msgstr "[Lista Bohaterów](index.md)"
 #: docs/heroes/ciele.md docs/heroes/cyra.md docs/heroes/dracon.md
 #: docs/heroes/luna.md docs/heroes/solmyr.md docs/heroes/tarnum_conflux.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -629,7 +629,7 @@ msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
 "| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Magi](../units/magi.md) and [Enchanters units](../units/enchanters.md). |\n"
-"| Ⅳ | :effect_map: If you have a [Pack of Magi Unit](../units/magi.md) card, discard it. Then, search the [Neutral Unit](../units/index.md) :golden: deck for the [Enchanters](../units/enchanters.md) card and add it to your Unit deck. You can control only 1 [Enchanters unit](../units/enchanters.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |\n"
+"| Ⅳ | :map: If you have a [Pack of Magi Unit](../units/magi.md) card, discard it. Then, search the [Neutral Unit](../units/index.md) :golden: deck for the [Enchanters](../units/enchanters.md) card and add it to your Unit deck. You can control only 1 [Enchanters unit](../units/enchanters.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |\n"
 "| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2.<br><br>This effect doubles for the [Magi](../units/magi.md) and [Enchanters units](../units/enchanters.md). |\n"
 msgstr ""
 

@@ -791,8 +791,8 @@ msgstr "<p style=\"text-align: center;\" markdown>[Mazmorra](../towns/dungeon.md
 #: docs/heroes/tarnum_castle.md docs/heroes/tarnum_dungeon.md
 #: docs/heroes/valeska.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:power:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:power:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>\n"
 
 #. type: Plain text
 #: docs/heroes/deemer.md docs/heroes/fiona.md docs/heroes/lorelei.md

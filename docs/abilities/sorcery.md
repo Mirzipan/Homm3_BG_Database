@@ -19,8 +19,8 @@ ___
 
 | Type | Effect | :expert: Effect |
 | :--- | :---: | :---: |
-| Regular | :instant: +1 :empower:<br>Then draw 1 card. | :instant: +2 :empower:<br>Then draw 1 card. |
-| Empowered | :instant: +2 :empower:<br>Then draw 1 card. | - |
+| Regular | :instant: +1 :power:<br>Then draw 1 card. | :instant: +2 :power:<br>Then draw 1 card. |
+| Empowered | :instant: +2 :power:<br>Then draw 1 card. | - |
 
 
 ## Heroes With Starting Ability
