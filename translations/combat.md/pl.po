@@ -24,9 +24,9 @@ msgstr "Walka"
 
 #. type: Title ###
 #: docs/keywords/combat.md docs/keywords/index.md docs/units/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Statistics"
-msgstr "Lista Statystyk"
+msgstr "Statystyki"
 
 #. type: Plain text
 #: docs/keywords/combat.md

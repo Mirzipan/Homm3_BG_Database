@@ -406,26 +406,28 @@ msgstr "Pochodzi z"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
-#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
-#: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
-#: docs/spells/sorrow.md docs/spells/stone_skin.md
-#: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
-#: docs/spells/summon_fire_elemental.md docs/spells/summon_water_elemental.md
-#: docs/spells/teleport.md docs/spells/town_portal.md docs/spells/view_air.md
-#: docs/spells/view_earth.md docs/spells/visions.md docs/spells/weakness.md
-#: docs/statistics/attack.md docs/statistics/defense.md
-#: docs/statistics/knowledge.md docs/statistics/power.md docs/towns/castle.md
-#: docs/towns/conflux.md docs/towns/cove.md docs/towns/dungeon.md
-#: docs/towns/fortress.md docs/towns/index.md docs/towns/inferno.md
-#: docs/towns/necropolis.md docs/towns/neutral.md docs/towns/rampart.md
-#: docs/towns/stronghold.md docs/towns/tower.md docs/units/air_elementals.md
-#: docs/units/arch_devils.md docs/units/archangels.md docs/units/arrow_tower.md
-#: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
-#: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
-#: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
-#: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
+#: docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
+#: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
+#: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
+#: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
+#: docs/spells/summon_water_elemental.md docs/spells/teleport.md
+#: docs/spells/town_portal.md docs/spells/view_air.md docs/spells/view_earth.md
+#: docs/spells/visions.md docs/spells/weakness.md docs/statistics/attack.md
+#: docs/statistics/defense.md docs/statistics/knowledge.md
+#: docs/statistics/power.md docs/towns/castle.md docs/towns/conflux.md
+#: docs/towns/cove.md docs/towns/dungeon.md docs/towns/fortress.md
+#: docs/towns/index.md docs/towns/inferno.md docs/towns/necropolis.md
+#: docs/towns/neutral.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md docs/units/air_elementals.md docs/units/arch_devils.md
+#: docs/units/archangels.md docs/units/arrow_tower.md docs/units/ayssids.md
+#: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
+#: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
+#: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
+#: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
 #: docs/units/enchanters.md docs/units/energy_elementals.md
@@ -646,9 +648,8 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md docs/astrologers_proclaim/mcgiver.md
-#, fuzzy
 msgid "[List of War Machines](../war_machines/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Machin Wojennych](../war_machines/index.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/mcgiver.md

@@ -41,7 +41,7 @@ jobs:
 
       - run: pip install .
 
-      - run: mkdocs build
+      - run: mkdocs build --strict
         if: github.event_name == 'pull_request'
 
       - run: mkdocs gh-deploy --force
