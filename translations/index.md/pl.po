@@ -495,10 +495,9 @@ msgstr ""
 
 #. type: Title #
 #: docs/artifacts/index.md
-#, fuzzy, no-wrap
-#| msgid "List of Artifacts"
+#, no-wrap
 msgid "Artifacts"
-msgstr "Lista Artefaktów"
+msgstr "Artefakty"
 
 #. type: Plain text
 #: docs/artifacts/index.md
@@ -507,10 +506,9 @@ msgstr ""
 
 #. type: Title ##
 #: docs/artifacts/index.md
-#, fuzzy, no-wrap
-#| msgid "List of Artifacts"
+#, no-wrap
 msgid "Minor Artifacts"
-msgstr "Lista Artefaktów"
+msgstr "Słabe Artefakty"
 
 #. type: Plain text
 #: docs/artifacts/index.md
@@ -519,10 +517,9 @@ msgstr ""
 
 #. type: Title ##
 #: docs/artifacts/index.md
-#, fuzzy, no-wrap
-#| msgid "List of Artifacts"
+#, no-wrap
 msgid "Major Artifacts"
-msgstr "Lista Artefaktów"
+msgstr "Mocne Artefakty"
 
 #. type: Plain text
 #: docs/artifacts/index.md
@@ -531,10 +528,9 @@ msgstr ""
 
 #. type: Title ##
 #: docs/artifacts/index.md
-#, fuzzy, no-wrap
-#| msgid "List of Artifacts"
+#, no-wrap
 msgid "Relic Artifacts"
-msgstr "Lista Artefaktów"
+msgstr "Relikty"
 
 #. type: Plain text
 #: docs/artifacts/index.md
@@ -942,10 +938,9 @@ msgstr ""
 
 #. type: Title ##
 #: docs/astrologers_proclaim/index.md
-#, fuzzy, no-wrap
-#| msgid "Astrologers Proclaim"
+#, no-wrap
 msgid "List of Astrologers Proclaim"
-msgstr "Astrologowie Ogłaszają"
+msgstr "Lista kart Astrologowie Ogłaszają"
 
 #. type: Plain text
 #: docs/astrologers_proclaim/index.md
@@ -1019,9 +1014,9 @@ msgstr "[Lista Bohaterów](../heroes/index.md)"
 
 #. type: Title #
 #: docs/astrologers_proclaim/spells.md docs/spells/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Spells"
-msgstr "Lista Zaklęć"
+msgstr "Zaklęcia"
 
 #. type: Title #
 #: docs/content/index.md
@@ -1242,10 +1237,9 @@ msgstr ""
 
 #. type: Title ##
 #: docs/fields/index.md
-#, fuzzy, no-wrap
-#| msgid "List of Spells"
+#, no-wrap
 msgid "List of Fields"
-msgstr "Lista Zaklęć"
+msgstr "Lista Pól"
 
 #. type: Plain text
 #: docs/fields/index.md
@@ -1543,9 +1537,9 @@ msgstr "Podziękowania dla społeczności za wszelką pomoc, wskazówki i pomys�
 
 #. type: Title ###
 #: docs/keywords/combat.md docs/keywords/index.md docs/units/index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Statistics"
-msgstr "Lista Statystyk"
+msgstr "Statystyki"
 
 #. type: Plain text
 #: docs/keywords/combat.md docs/units/index.md
@@ -1561,10 +1555,9 @@ msgstr ""
 
 #. type: Title #
 #: docs/keywords/index.md
-#, fuzzy, no-wrap
-#| msgid "List of Keywords"
+#, no-wrap
 msgid "Keywords"
-msgstr "Lista słów kluczowych"
+msgstr "Słowa kluczowe"
 
 #. type: Title #
 #: docs/keywords/index.md docs/legend.md docs/towns/castle.md
@@ -1700,10 +1693,9 @@ msgstr ""
 
 #. type: Title ###
 #: docs/spells/index.md
-#, fuzzy, no-wrap
-#| msgid "List of Spells"
+#, no-wrap
 msgid "Basic Spells"
-msgstr "Lista Zaklęć"
+msgstr "Zaklęcia Podstawowe"
 
 #. type: Plain text
 #: docs/spells/index.md
@@ -1724,10 +1716,9 @@ msgstr ""
 
 #. type: Title ##
 #: docs/spells/index.md
-#, fuzzy, no-wrap
-#| msgid "Scholar"
+#, no-wrap
 msgid "Schools"
-msgstr "Nauka Czarów"
+msgstr "Szkoły Magii"
 
 #. type: Plain text
 #: docs/spells/index.md
@@ -1736,10 +1727,9 @@ msgstr ""
 
 #. type: Title ###
 #: docs/spells/index.md
-#, fuzzy, no-wrap
-#| msgid "Air Magic"
+#, no-wrap
 msgid "School of Air Magic"
-msgstr "Magia Powietrza"
+msgstr "Szkoła Magii Powietrza"
 
 #. type: Plain text
 #: docs/spells/index.md
@@ -2428,10 +2418,9 @@ msgstr ""
 
 #. type: Title ###
 #: docs/units/index.md
-#, fuzzy, no-wrap
-#| msgid "List of Flying Units"
+#, no-wrap
 msgid "Flying Units"
-msgstr "Lista Jednostek Latających"
+msgstr "Jednostki Latające"
 
 #. type: Plain text
 #: docs/units/index.md
@@ -2516,10 +2505,9 @@ msgstr ""
 
 #. type: Title ###
 #: docs/units/index.md
-#, fuzzy, no-wrap
-#| msgid "Units"
+#, no-wrap
 msgid "Other Units"
-msgstr "Jednostki"
+msgstr "Pozostałe Jednostki"
 
 #. type: Plain text
 #: docs/units/index.md
@@ -2821,10 +2809,9 @@ msgstr ""
 
 #. type: Title #
 #: docs/war_machines/index.md
-#, fuzzy, no-wrap
-#| msgid "[List of War Machines](index.md)"
+#, no-wrap
 msgid "List of War Machines"
-msgstr "[Lista Machin Wojennych](units/index.md)"
+msgstr "Lista Machin Wojennych"
 
 #. type: Plain text
 #: docs/war_machines/index.md

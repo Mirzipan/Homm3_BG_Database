@@ -1079,9 +1079,8 @@ msgstr "[Lista kart Astrologowie Ogłaszają](index.md)"
 
 #. type: Bullet: '- '
 #: docs/astrologers_proclaim/ammo_cart.md docs/astrologers_proclaim/mcgiver.md
-#, fuzzy
 msgid "[List of War Machines](../war_machines/index.md)"
-msgstr "[Lista Jednostek](units/index.md)"
+msgstr "[Lista Machin Wojennych](../war_machines/index.md)"
 
 #. type: Title #
 #: docs/war_machines/ammo_cart.md
@@ -1120,16 +1119,5 @@ msgstr ""
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/cannon.md docs/war_machines/catapult.md
 #: docs/war_machines/first_aid_tent.md
-#, fuzzy
 msgid "[List of War Machines](index.md)"
-msgstr ""
-"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
-"[Lista Machin Wojennych](index.md)\n"
-"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
-"[Lista Machin Wojennych](units/index.md)\n"
-"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
-"[Lista Machin Wojennych](units/index.md)\n"
-"#-#-#-#-#  pl.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"[Lista Machin Wojennych](units/index.md)\n"
-"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
-"[Lista Machin Wojennych](units/index.md)"
+msgstr "[Lista Machin Wojennych](index.md)"
