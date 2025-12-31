@@ -1120,5 +1120,16 @@ msgstr ""
 #: docs/war_machines/ammo_cart.md docs/war_machines/ballista.md
 #: docs/war_machines/cannon.md docs/war_machines/catapult.md
 #: docs/war_machines/first_aid_tent.md
+#, fuzzy
 msgid "[List of War Machines](index.md)"
-msgstr "[Lista Machin Wojennych](units/index.md)"
+msgstr ""
+"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
+"[Lista Machin Wojennych](index.md)\n"
+"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
+"[Lista Machin Wojennych](units/index.md)\n"
+"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
+"[Lista Machin Wojennych](units/index.md)\n"
+"#-#-#-#-#  pl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"[Lista Machin Wojennych](units/index.md)\n"
+"#-#-#-#-#  pl.po (Homm 3BG-database)  #-#-#-#-#\n"
+"[Lista Machin Wojennych](units/index.md)"
