@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Land Field](../assets/locations-land_field.webp){ width="475" align=right }
+<!-- ![Land Field](../assets/locations-land_field.webp){ width="475" align=right } -->
 
 </figure>
 

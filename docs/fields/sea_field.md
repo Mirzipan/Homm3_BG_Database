@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Sea Field](../assets/locations-sea_field.webp){ width="475" align=right }
+<!-- ![Sea Field](../assets/locations-sea_field.webp){ width="475" align=right } -->
 
 </figure>
 
