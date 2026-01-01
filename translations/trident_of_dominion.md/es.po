@@ -665,7 +665,7 @@ msgstr "![Cañón](../assets/player-deck-back.webp){ width=\"340\" align=right }
 #: docs/artifacts/trident_of_dominion.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :attack:<br><br>— OR —<br><br>:instant: +2 :defense:</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :attack:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), draw 2 cards.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :attack:<br><br>— OR —<br><br>:map: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), draw 2 cards.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>:instant: +2 :attack:<br><br>— O —<br><br>:instant: +2 :defense:</p>\n"
 
 #. type: Plain text

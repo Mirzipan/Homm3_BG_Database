@@ -719,5 +719,5 @@ msgstr "[Lista Jednostek](units/index.md)"
 #. type: Plain text
 #: docs/spells/land_mine.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: Shuffle and place randomly up to \\* Land Mine tokens on chose empty spaces. After that, you can look at what is on the other side of the tokens.<br><br>:empower: 0 ➣ 2<br>:empower: 1 ➣ 4<br>:empower: 2 ➣ 6<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: Shuffle and place randomly up to \\* Land Mine tokens on chose empty spaces. After that, you can look at what is on the other side of the tokens.<br><br>:power: 0 ➣ 2<br>:power: 1 ➣ 4<br>:power: 2 ➣ 6<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr ""

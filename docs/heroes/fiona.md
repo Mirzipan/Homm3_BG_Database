@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Inferno](../towns/inferno.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Scouting](../abilities/scouting.md)</p>
 ___

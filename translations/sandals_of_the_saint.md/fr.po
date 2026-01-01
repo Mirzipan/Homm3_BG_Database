@@ -795,7 +795,7 @@ msgstr ""
 #: docs/artifacts/sandals_of_the_saint.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>:pay: 5 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 8 :gold: at Trade Post</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:instant: Discard X cards from hand to gain +X :empower:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +4 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Discard X cards from hand to gain +X :power:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +4 :power:.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>:pay: 5 :gold: à la Manufacture d'Armes<br><br>— OU —<br><br>:pay: 8 :gold: au Comptoir</p>\n"
 
 #. type: Plain text

@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Rampart](../towns/rampart.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;2</p>
 ___
 <p style="text-align: center;" markdown>[First Aid](../abilities/first_aid.md)</p>
 ___

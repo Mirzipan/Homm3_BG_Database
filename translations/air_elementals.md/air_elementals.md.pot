@@ -945,7 +945,7 @@ msgid ""
 "| :health_points: | 4 | 4 | 3 |\n"
 "| :initiative: | 8 | 8 | 7 |\n"
 "| Cost | - | - | 7 :gold: |\n"
-"| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spellpower:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spellpower:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spellpower:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. |\n"
+"| Abilities | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spell:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spell:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Air Magic :spell:](../spells/index.md#school-of-air-magic). This unit deals elemental damage. |\n"
 msgstr ""
 
 #. type: Bullet: '- '

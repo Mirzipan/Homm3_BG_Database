@@ -795,8 +795,8 @@ msgstr "![Bibliothèque d'Illumination](../assets/events-library_of_enlightenmen
 #. type: Plain text
 #: docs/events/library_of_enlightenment.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>For every player in the game, draw the top two [Spell](../spells/index.md) cards and put them face-up within all players' reach. Each player can buy once of these [:spellpower:](../spells/index.md) for 6 :gold: or 2 :valuables:.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>Piochez 2 [Sorts](../spells/index.md) par joueur, puis placez-les face visible au centre de la table. Chaque joueur peut acheter une de ses cartes [:spellpower:](../spells/index.md) pour 6 :gold: ou 2 :valuables:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>For every player in the game, draw the top two [Spell](../spells/index.md) cards and put them face-up within all players' reach. Each player can buy once of these [:spell:](../spells/index.md) for 6 :gold: or 2 :valuables:.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>Piochez 2 [Sorts](../spells/index.md) par joueur, puis placez-les face visible au centre de la table. Chaque joueur peut acheter une de ses cartes [:spell:](../spells/index.md) pour 6 :gold: ou 2 :valuables:.</p>\n"
 
 #. type: Plain text
 #: docs/events/library_of_enlightenment.md

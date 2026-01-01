@@ -29,7 +29,7 @@
 | :health_points: | 5 | 5 | 4 |
 | :initiative: | 4 | **6** | 4 |
 | Cost | 9 :gold: | 13 :gold: | 14 :gold: |
-| Abilities | - | :activation: Add +1 :empower: to the first [Earth Magic spell](../spells/index.md#school-of-earth-magic) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spellpower:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. |
+| Abilities | - | :activation: Add +1 :power: to the first [Earth Magic spell](../spells/index.md#school-of-earth-magic) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spell:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. |
 
 
 ## Comes With

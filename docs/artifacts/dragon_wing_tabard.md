@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Discard 1 random card from the enemy's hand.<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:instant: Discard 1 random card from the enemy's hand.<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 <p style="text-align: center;" markdown>*Ridding the countryside of the hideous Dragon who made a sport of eating noblemen's Knights, you are honored with the Dragon Wing Tabard.*</p>
 

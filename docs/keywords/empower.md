@@ -1,4 +1,4 @@
-# :empower: Empower
+# :power: Empower
 
 This mechanic is specifically tied to [spells](../spells/index.md).
 The power power a [spell](../spells/index.md) has, the stronger its effect can be.

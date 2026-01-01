@@ -757,5 +757,5 @@ msgstr ""
 #. type: Plain text
 #: docs/artifacts/tome_of_water.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Find the first [Water Magic :spellpower:](../spells/index.md#school-of-water-magic) in the [Spell](../spells/index.md) deck. Take the [:spellpower:](../spells/index.md) into your hand or discard it. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: When playing a [Water Magic :spellpower:](../spells/index.md#school-of-water-magic), resolve its effect without paying the :empower: cost.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Find the first [Water Magic :spell:](../spells/index.md#school-of-water-magic) in the [Spell](../spells/index.md) deck. Take the [:spell:](../spells/index.md) into your hand or discard it. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: When playing a [Water Magic :spell:](../spells/index.md#school-of-water-magic), resolve its effect without paying the :power: cost.</p>\n"
 msgstr ""

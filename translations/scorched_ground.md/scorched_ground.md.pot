@@ -620,7 +620,7 @@ msgstr ""
 #. type: Plain text
 #: docs/astrologers_proclaim/scorched_ground.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers round, all [:spellpower:](../spells/index.md) from the [Earth Magic](../spells/index.md#school-of-earth-magic) and [Fire Magic](../spells/index.md#school-of-fire-magic) Schools are cast at a +1 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers round, all [:spell:](../spells/index.md) from the [Earth Magic](../spells/index.md#school-of-earth-magic) and [Fire Magic](../spells/index.md#school-of-fire-magic) Schools are cast at a +1 :power:.</p>\n"
 msgstr ""
 
 #. type: Plain text

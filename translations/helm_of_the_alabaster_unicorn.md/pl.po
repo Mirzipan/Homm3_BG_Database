@@ -676,7 +676,7 @@ msgstr ""
 #. type: Plain text
 #: docs/artifacts/helm_of_the_alabaster_unicorn.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Return 1 [:spellpower:](../spells/index.md) of your choice from your discard pile to your hand.<br><br>— OR —<br><br>:instant: Cast a [spell](../spells/index.md) from the top of the [:spellpower:](../spells/index.md) deck discard pile and Remove this card.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Return 1 [:spell:](../spells/index.md) of your choice from your discard pile to your hand.<br><br>— OR —<br><br>:instant: Cast a [spell](../spells/index.md) from the top of the [:spell:](../spells/index.md) deck discard pile and Remove this card.</p>\n"
 msgstr ""
 
 #. type: Plain text

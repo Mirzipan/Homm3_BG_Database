@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Fire Spell](index.md#school-of-fire-magic)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: Shuffle and place randomly up to \* Land Mine tokens on chose empty spaces. After that, you can look at what is on the other side of the tokens.<br><br>:empower: 0 ➣ 2<br>:empower: 1 ➣ 4<br>:empower: 2 ➣ 6<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:ongoing: Shuffle and place randomly up to \* Land Mine tokens on chose empty spaces. After that, you can look at what is on the other side of the tokens.<br><br>:power: 0 ➣ 2<br>:power: 1 ➣ 4<br>:power: 2 ➣ 6<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

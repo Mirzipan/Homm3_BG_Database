@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Tower](../towns/tower.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:knowledge:](../statistics/knowledge.md)&nbsp;3</p>
 ___
 <p style="text-align: center;" markdown>[Sorcery](../abilities/sorcery.md)</p>
 ___
@@ -50,7 +50,7 @@ ___
 
 ## Notes
 
-- **Ⅰ** - Only 2 units are dealt :damage: to and this cannot be changed by :empower:.
+- **Ⅰ** - Only 2 units are dealt :damage: to and this cannot be changed by :power:.
 - **Ⅰ and Ⅵ** - The primary target must be dealt the amount of damage that is printed on the leftmost side. The :damage: numbers printed second and third may be applied to the secondary and tertiary target in any order. The order does not need to strictly follow the order of distances from the primary target.
 - **Ⅰ** - The 0 on the third damage position allows the player to deal 1 :damage: to two units that have a friendly unit between them, as the friendly unit may be assigned the 0.
 

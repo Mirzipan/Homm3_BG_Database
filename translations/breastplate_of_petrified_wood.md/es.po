@@ -726,8 +726,8 @@ msgstr "![Peto de Madera Petrificada](../assets/artifacts_minor-breastplate_of_p
 #. type: Plain text
 #: docs/artifacts/breastplate_of_petrified_wood.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Draw 1 card.<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: Roba 1 carta.<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Draw 1 card.<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Roba 1 carta.<br><br>— O —<br><br>:instant: +1 :power:</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/breastplate_of_petrified_wood.md

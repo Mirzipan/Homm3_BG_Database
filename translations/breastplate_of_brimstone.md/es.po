@@ -662,9 +662,9 @@ msgstr "![Peto de Azufre](../assets/artifacts_major-breastplate_of_brimstone.web
 #. type: Plain text
 #: docs/artifacts/breastplate_of_brimstone.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>:instant: **Search(../2)** [:spellpower:](../spells/index.md).<br><br>— OR —<br><br>:instant: +1 :empower:, then discard up to 3 cards from your hand to gain +1 :empower: per card discarded.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:instant: **Search(2)** [:spellpower:](../spells/index.md).<br><br>— OR —<br><br>:instant: +1 :empower:, then discard up to 3 cards from your hand to gain +1 :empower: per card discarded.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: **Busca(../2)** [:spellpower:](../spells/index.md).<br><br>— O —<br><br>:instant: +1 :empower:, luego descarta hasta 3 cartas de tu mano para ganar +1 :empower: por cada carta descartada.</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>:instant: **Search(../2)** [:spell:](../spells/index.md).<br><br>— OR —<br><br>:instant: +1 :power:, then discard up to 3 cards from your hand to gain +1 :power: per card discarded.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: **Search(2)** [:spell:](../spells/index.md).<br><br>— OR —<br><br>:instant: +1 :power:, then discard up to 3 cards from your hand to gain +1 :power: per card discarded.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: **Busca(../2)** [:spell:](../spells/index.md).<br><br>— O —<br><br>:instant: +1 :power:, luego descarta hasta 3 cartas de tu mano para ganar +1 :power: por cada carta descartada.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/breastplate_of_brimstone.md

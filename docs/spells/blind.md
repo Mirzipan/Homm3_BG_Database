@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Fire Spell](index.md#school-of-fire-magic)</p>
 ___
-<p style="text-align: center;" markdown>:activation: Place a :paralysis: token on the selected \* [unit](../units/index.md):<br><br>:empower: 0 ➣ \*:bronze:<br>:empower: 1 ➣ \*:bronze: or :silver:<br>:empower: 2 ➣ \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:activation: Place a :paralysis: token on the selected \* [unit](../units/index.md):<br><br>:power: 0 ➣ \*:bronze:<br>:power: 1 ➣ \*:bronze: or :silver:<br>:power: 2 ➣ \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

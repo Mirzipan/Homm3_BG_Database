@@ -711,5 +711,5 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/summon_fire_elemental.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:activation: On a chosen empty space:<br><br>:empower: 0 ➣ No effect<br>:empower: 2 ➣ [**Summon**](../keywords/summon.md) a [Few Fire Elementals](../units/fire_elementals.md)<br>:empower: 4 ➣ [**Summon**](../keywords/summon.md) a [Pack of Fire Elementals](../units/fire_elementals.md)<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:activation: On a chosen empty space:<br><br>:power: 0 ➣ No effect<br>:power: 2 ➣ [**Summon**](../keywords/summon.md) a [Few Fire Elementals](../units/fire_elementals.md)<br>:power: 4 ➣ [**Summon**](../keywords/summon.md) a [Pack of Fire Elementals](../units/fire_elementals.md)<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr ""

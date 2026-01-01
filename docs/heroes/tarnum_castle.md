@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Castle](../towns/castle.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Artillery](../abilities/artillery.md)</p>
 ___
@@ -35,7 +35,7 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :effect_map: Pay 5 :gold: to gain a [Ballista](../war_machines/ballista.md).<br><br>— OR —<br><br>:instant: Activate your [Ballista](../war_machines/ballista.md) (if you have one). |
+| Ⅰ | :map: Pay 5 :gold: to gain a [Ballista](../war_machines/ballista.md).<br><br>— OR —<br><br>:instant: Activate your [Ballista](../war_machines/ballista.md) (if you have one). |
 | Ⅳ | :ongoing: You can play this card at the start of Combat. For this Combat, you gain an additional [Ballista](../war_machines/ballista.md), even if you already have one. Discard the [Ballista](../war_machines/ballista.md) after this Combat.<br><br>— OR —<br><br>:instant: Draw 1 card. |
 | Ⅵ | :instant: Choose 2 enemy [units](../units/index.md). Each of these [units](../units/index.md) suffers 2 :damage:. |
 

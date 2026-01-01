@@ -785,8 +785,8 @@ msgstr ""
 msgid ""
 "| Type | Effect | :expert: Effect |\n"
 "| :--- | :---: | :---: |\n"
-"| Regular | :instant: Choose 1 card from your discard pile and add it to your hand. | :effect_map: [Remove](../keywords/remove.md) up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile. [Remove](../keywords/remove.md) the Scholar. |\n"
-"| Empowered | :instant: Choose 1 card from your discard pile and add it to your hand.<br><br>— OR —<br><br>:effect_map: [Remove](../keywords/remove.md) up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile.<br>[Remove](../keywords/remove.md) the Scholar. | - |\n"
+"| Regular | :instant: Choose 1 card from your discard pile and add it to your hand. | :map: [Remove](../keywords/remove.md) up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile. [Remove](../keywords/remove.md) the Scholar. |\n"
+"| Empowered | :instant: Choose 1 card from your discard pile and add it to your hand.<br><br>— OR —<br><br>:map: [Remove](../keywords/remove.md) up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile.<br>[Remove](../keywords/remove.md) the Scholar. | - |\n"
 msgstr ""
 
 #. type: Bullet: '- '

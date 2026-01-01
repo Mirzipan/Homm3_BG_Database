@@ -664,7 +664,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/artifacts/trident_of_dominion.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :attack:<br><br>— OR —<br><br>:effect_map: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), draw 2 cards.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :attack:<br><br>— OR —<br><br>:map: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), draw 2 cards.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów.<br><br>Każdy Bohater zyskuje 1 PR.</p>\n"
 
 #. type: Plain text

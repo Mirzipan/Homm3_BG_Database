@@ -740,9 +740,9 @@ msgstr "![Yelmo Cráneo](../assets/player-deck-back.webp){ width=\"340\" align=r
 #. type: Plain text
 #: docs/artifacts/thunder_helmet.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>:instant: Select 2 [Spell](../spells/index.md) cards from your discard pile and put them back in your hand.<br><br>— OR —<br><br>:instant: Remove 1 [:spellpower:](../spells/index.md) from hand, then **Search(2)** [:spellpower:](../spells/index.md).</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>:instant: Select 2 [Spell](../spells/index.md) cards from your discard pile and put them back in your hand.<br><br>— OR —<br><br>:instant: Remove 1 [:spell:](../spells/index.md) from hand, then **Search(2)** [:spell:](../spells/index.md).</p>\n"
 msgid "<p style=\"text-align: center;\" markdown>:instant: Select 1 [Spell](../spells/index.md) card from your discard pile and put it back into your hand.<br><br>— OR —<br><br>:ongoing: For this Combat, whenever you play a [Spell](../spells/index.md) card, draw 1 card from your M&M deck. After the Combat, Remove this card.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: Selecciona 2 cartas de [Hehizol](../spells/index.md) de tu pila de descarte y devuélvelas a tu mano.<br><br>— O —<br><br>:instant: Retira 1 [:spellpower:](../spells/index.md) de tu mano, luego **Buscar(2)** [:spellpower:](../spells/index.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Selecciona 2 cartas de [Hehizol](../spells/index.md) de tu pila de descarte y devuélvelas a tu mano.<br><br>— O —<br><br>:instant: Retira 1 [:spell:](../spells/index.md) de tu mano, luego **Buscar(2)** [:spell:](../spells/index.md).</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/thunder_helmet.md

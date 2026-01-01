@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Air Spell](index.md#school-of-air-magic)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: During this turn, your [Hero](../heroes/index.md) can move through the blocked fields (but cannot end their movement there) and:<br><br>:empower: 0 ➣ No additional effect<br>:empower: 2 ➣ +1 :movement:<br>:empower: 4 ➣ +2 :movement:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:ongoing: During this turn, your [Hero](../heroes/index.md) can move through the blocked fields (but cannot end their movement there) and:<br><br>:power: 0 ➣ No additional effect<br>:power: 2 ➣ +1 :movement:<br>:power: 4 ➣ +2 :movement:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

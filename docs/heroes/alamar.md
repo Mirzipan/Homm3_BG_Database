@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Dungeon](../towns/dungeon.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;3</br>[:knowledge:](../statistics/knowledge.md)&nbsp;2</p>
 ___
 <p style="text-align: center;" markdown>[Wisdom](../abilities/wisdom.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 1 - \*:bronze:<br>:empower: 2 - \*:silver:<br>:empower: 4 - \*:golden: |
-| Ⅳ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \*:bronze:<br>:empower: 1 - \*:silver:<br>:empower: 3 - \*:golden: |
-| Ⅵ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :empower: 0 - \*:bronze:<br>:empower: 0 - \*:silver:<br>:empower: 2 - \*:golden: |
+| Ⅰ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 1 - \*:bronze:<br>:power: 2 - \*:silver:<br>:power: 4 - \*:golden: |
+| Ⅳ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 0 - \*:bronze:<br>:power: 1 - \*:silver:<br>:power: 3 - \*:golden: |
+| Ⅵ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 0 - \*:bronze:<br>:power: 0 - \*:silver:<br>:power: 2 - \*:golden: |
 
 
 ## Appearances As Player Hero

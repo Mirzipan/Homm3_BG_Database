@@ -860,7 +860,7 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/inferno.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:activation: Select a space. Now roll an [Attack die](../keywords/dice.md#attack-die) \\*. All [units](../units/index.md) on this and the adjacent spaces take 1 :damage: for every \"+1\" rolled.<br><br>:empower: 0 ➣ \\*once<br>:empower: 1 ➣ \\*twice<br>:empower: 2 ➣ \\*4 times<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:activation: Select a space. Now roll an [Attack die](../keywords/dice.md#attack-die) \\*. All [units](../units/index.md) on this and the adjacent spaces take 1 :damage: for every \"+1\" rolled.<br><br>:power: 0 ➣ \\*once<br>:power: 1 ➣ \\*twice<br>:power: 2 ➣ \\*4 times<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr ""
 
 #. type: Title ##
@@ -938,12 +938,12 @@ msgid ""
 "| :--- | ---: | :---: |\n"
 "| City Hall | 13 :gold:<br>5 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 6 :gold:<br><br>— OR —<br><br>:instant: 3 :building_materials: |\n"
 "| Citadel | 9 :gold:<br>4 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |\n"
-"| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](../spells/index.md). |\n"
+"| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spell:](../spells/index.md). |\n"
 "| Crucible of Sins | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |\n"
 "| Gates of Abyss | 9 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |\n"
 "| Hellfire Palace | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |\n"
 "| Castle Gate | 7 :gold:<br>5 :building_materials:<br>0 :valuables: | During your turn, choose one:<br><br>**1.** :pay: 3 :gold: to discard 1 random card from your opponent's hand.<br><br>**2.** If your [Hero](#heroes) is in a Town or Settlement, move them to another Town or Settlement under your control. |\n"
-"| Brimstone Stormclouds | 6 :gold:<br>3 :building_materials:<br>2 :valuables: | When built and at the beginning of each [Astrologer's round](../astrologers_proclaim/index.md), place your faction cube here (to a maximum of 3). During any Combat, you can remove them to gain +1:empower: per 1 cube. Only one cube can be used per 1 [:spellpower:](../spells/index.md). |\n"
+"| Brimstone Stormclouds | 6 :gold:<br>3 :building_materials:<br>2 :valuables: | When built and at the beginning of each [Astrologer's round](../astrologers_proclaim/index.md), place your faction cube here (to a maximum of 3). During any Combat, you can remove them to gain +1:power: per 1 cube. Only one cube can be used per 1 [:spell:](../spells/index.md). |\n"
 msgstr ""
 
 #. type: Plain text

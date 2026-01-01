@@ -596,8 +596,8 @@ msgstr "![Curar](../assets/spells-cure.webp){ width=\"340\" align=right }"
 #. type: Plain text
 #: docs/spells/cure.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), and remove from this [unit](../units/index.md) up to:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 1 ➣ 2 :damage:<br>:empower: 2 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: Retira cualquier efecto o :paralysis: de la [unidad](../units/index.md) seleccionada, y retira de esta [unidad](../units/index.md) hasta:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 1 ➣ 2 :damage:<br>:empower: 2 ➣ 3 :damage:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), and remove from this [unit](../units/index.md) up to:<br><br>:power: 0 ➣ 1 :damage:<br>:power: 1 ➣ 2 :damage:<br>:power: 2 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Retira cualquier efecto o :paralysis: de la [unidad](../units/index.md) seleccionada, y retira de esta [unidad](../units/index.md) hasta:<br><br>:power: 0 ➣ 1 :damage:<br>:power: 1 ➣ 2 :damage:<br>:power: 2 ➣ 3 :damage:<br><br>— O —<br><br>:instant: +1 :power:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/cure.md

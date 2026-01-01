@@ -23,7 +23,7 @@
 | :health_points: | 8 | 6 |
 | :initiative: | 15 | 15 |
 | Cost | 35 :gold:<br>2 :valuables: | - |
-| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spellpower:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. | :unit_passive: As long as this unit is Stacked, the enemy cannot cast [spells](../spells/index.md). |
+| Abilities | :activation: The selected unit suffers 2 :damage:. This is a [:spell:](../spells/index.md) that does not count towards your [spell](../spells/index.md) limit. | :unit_passive: As long as this unit is Stacked, the enemy cannot cast [spells](../spells/index.md). |
 
 
 ## Heroes With A Specialty
@@ -34,7 +34,7 @@
 ## Notes
 
 - The 2 :damage: can be dealt to any unit on the Combat board.
-- The ability counting as a [:spellpower:](../spells/index.md) is only relevant when the Fearie Dragons are in the player's unit deck (e.g. after being recruited by [Diplomacy](../abilities/diplomacy.md)).
+- The ability counting as a [:spell:](../spells/index.md) is only relevant when the Fearie Dragons are in the player's unit deck (e.g. after being recruited by [Diplomacy](../abilities/diplomacy.md)).
 
 
 ## Comes With

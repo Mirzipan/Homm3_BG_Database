@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Water Spell](index.md#school-of-water-magic)</p>
 ___
-<p style="text-align: center;" markdown>:activation: On a chosen empty space:<br><br>:empower: 0 ➣ No effect<br>:empower: 2 ➣ [**Summon**](../keywords/summon.md) a [Few Water Elementals](../units/water_elementals.md)<br>:empower: 4 ➣ [**Summon**](../keywords/summon.md) a [Pack of Water Elementals](../units/water_elementals.md)<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:activation: On a chosen empty space:<br><br>:power: 0 ➣ No effect<br>:power: 2 ➣ [**Summon**](../keywords/summon.md) a [Few Water Elementals](../units/water_elementals.md)<br>:power: 4 ➣ [**Summon**](../keywords/summon.md) a [Pack of Water Elementals](../units/water_elementals.md)<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

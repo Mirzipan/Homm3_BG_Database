@@ -811,7 +811,7 @@ msgstr "[Extension Crique](../content/cove_expansion.md)"
 #. type: Plain text
 #: docs/abilities/necromancy.md docs/abilities/necromancy_empowered.md
 #, fuzzy, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:effect_map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:map: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down).</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keywords/visitable_field.md)</p>\n"
 
 #. type: Bullet: '- '

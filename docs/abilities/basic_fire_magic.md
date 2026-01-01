@@ -19,8 +19,8 @@ ___
 
 | Type | Effect | :expert: Effect |
 | :--- | :---: | :---: |
-| Regular | :permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic) in it and take the :spellpower: into your hand.<br>Then, reshuffle the deck. | :instant: +3 :empower: for a [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). |
-| Empowered | :permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic) in it and take the :spellpower: into your hand. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: +3 :empower: for a [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). | - |
+| Regular | :permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Fire Magic :spell:](../spells/index.md#school-of-fire-magic) in it and take the :spell: into your hand.<br>Then, reshuffle the deck. | :instant: +3 :power: for a [Fire Magic :spell:](../spells/index.md#school-of-fire-magic). |
+| Empowered | :permanent: Instead of [**Searching**](../keywords/search.md) the [Spell](../spells/index.md) deck, find the first [Fire Magic :spell:](../spells/index.md#school-of-fire-magic) in it and take the :spell: into your hand. Then, reshuffle the deck.<br><br>— OR —<br><br>:instant: +3 :power: for a [Fire Magic :spell:](../spells/index.md#school-of-fire-magic). | - |
 
 
 ## Heroes With Starting Ability

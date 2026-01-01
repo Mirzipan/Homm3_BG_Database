@@ -13,7 +13,7 @@ Every now and then I want to see what some cards do, either while theorycrafting
 * Fixing incorrect information (all of the cards were put in by hand, there is a chance that some may contains typos or other inaccuracies)
 
 
-## :empower: Disclaimer
+## :power: Disclaimer
 
 This project is a fan project, and is in no way official or affiliated with [Archon Studio](https://archon-studio.com).
 

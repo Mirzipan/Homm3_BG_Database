@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Dungeon](../towns/dungeon.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;3</br>[:knowledge:](../statistics/knowledge.md)&nbsp;2</p>
 ___
 <p style="text-align: center;" markdown>[Scouting](../abilities/scouting.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Select a [unit](../units/index.md) and 1 [unit](../units/index.md) adjacent to it. Deal \* to both selected [units](../units/index.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |
-| Ⅳ | :instant: +1 :empower:<br><br>— OR —<br><br>:instant: Shuffle your discard pile back into your deck, then draw 1 card. |
-| Ⅵ | :instant: Select a [unit](../units/index.md) and 2 [units](../units/index.md) adjacent to it. Deal \* to all selected [units](../units/index.md).<br><br> :empower: 0 - 1 :damage:<br>:empower: 2 - 2 :damage:<br>:empower: 4 - 3 :damage: |
+| Ⅰ | :instant: Select a [unit](../units/index.md) and 1 [unit](../units/index.md) adjacent to it. Deal \* to both selected [units](../units/index.md).<br><br> :power: 0 - 1 :damage:<br>:power: 2 - 2 :damage:<br>:power: 4 - 3 :damage: |
+| Ⅳ | :instant: +1 :power:<br><br>— OR —<br><br>:instant: Shuffle your discard pile back into your deck, then draw 1 card. |
+| Ⅵ | :instant: Select a [unit](../units/index.md) and 2 [units](../units/index.md) adjacent to it. Deal \* to all selected [units](../units/index.md).<br><br> :power: 0 - 1 :damage:<br>:power: 2 - 2 :damage:<br>:power: 4 - 3 :damage: |
 
 
 ## Notes

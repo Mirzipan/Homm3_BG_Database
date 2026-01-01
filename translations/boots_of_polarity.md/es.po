@@ -667,8 +667,8 @@ msgstr "![Botas de Polaridad](../assets/artifacts_relic-boots_of_polarity.webp){
 #. type: Plain text
 #: docs/artifacts/boots_of_polarity.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Play this card after an enemy casts a [spell](../spells/index.md). Roll 2 [Attack dice](../keywords/dice.md#attack-die) and choose one. On a \"+1 \", ignore the [:spellpower:](../spells/index.md) effect.<br><br>— OR —<br><br>:activation: Remove 1 :ongoing: effect.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: Juega esta carta después de que un enemigo lance un [hechizo](../spells/index.md). Tira 2 [dados de Ataque](../keywords/dice.md#attack-die) y elige uno. Si es un \"+1 \", ignora el efecto del [:spellpower:](../spells/index.md).<br><br>— O —<br><br>:activation: Retira 1 efecto :ongoing:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Play this card after an enemy casts a [spell](../spells/index.md). Roll 2 [Attack dice](../keywords/dice.md#attack-die) and choose one. On a \"+1 \", ignore the [:spell:](../spells/index.md) effect.<br><br>— OR —<br><br>:activation: Remove 1 :ongoing: effect.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Juega esta carta después de que un enemigo lance un [hechizo](../spells/index.md). Tira 2 [dados de Ataque](../keywords/dice.md#attack-die) y elige uno. Si es un \"+1 \", ignora el efecto del [:spell:](../spells/index.md).<br><br>— O —<br><br>:activation: Retira 1 efecto :ongoing:.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/boots_of_polarity.md

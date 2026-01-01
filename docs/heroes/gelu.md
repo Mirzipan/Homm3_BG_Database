@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Rampart](../towns/rampart.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;3</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;3</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Archery](../abilities/archery.md)</p>
 ___
@@ -36,7 +36,7 @@ ___
 | Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Elves](../units/elves.md) and [Sharpshooters units](../units/sharpshooters.md). |
-| Ⅳ | :effect_map: If you have a [Pack of Elves Unit](../units/elves.md) card, discard it. Then, search the [Neutral Unit](../units/index.md) :silver: deck for the [Sharpshooters](../units/sharpshooters.md) card and add it to your [Unit](../units/index.md) deck. You can control only 1 [Sharpshooters](../units/sharpshooters.md) [unit](../units/index.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |
+| Ⅳ | :map: If you have a [Pack of Elves Unit](../units/elves.md) card, discard it. Then, search the [Neutral Unit](../units/index.md) :silver: deck for the [Sharpshooters](../units/sharpshooters.md) card and add it to your [Unit](../units/index.md) deck. You can control only 1 [Sharpshooters](../units/sharpshooters.md) [unit](../units/index.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |
 | Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2.<br><br>This effect doubles for the [Elves](../units/elves.md) and [Sharpshooters units](../units/sharpshooters.md). |
 
 

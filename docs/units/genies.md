@@ -29,7 +29,7 @@
 | :health_points: | 6 | 6 | 4 |
 | :initiative: | 7 | **8** | 9 |
 | Cost | 8 :gold: | 12 :gold: | 11 :gold: |
-| Abilities | :unit_other: Discard 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: Discard up to 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: When attacking [Efreet](efreet.md), this unit gains +1 :attack:. |
+| Abilities | :unit_other: Discard 3 cards from your deck and take a [:spell:](../spells/index.md) discarded this way to your hand. | :unit_attack: Discard up to 3 cards from your deck and take a [:spell:](../spells/index.md) discarded this way to your hand. | :unit_attack: When attacking [Efreet](efreet.md), this unit gains +1 :attack:. |
 
 
 ## Heroes With A Specialty

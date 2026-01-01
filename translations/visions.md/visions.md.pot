@@ -476,5 +476,5 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/visions.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Draw \\* from any Neutral [Unit](../units/index.md) deck. You can discard any of them and return the remaining cards in any order.<br><br>:empower: 0 ➣ \\*1 card<br>:empower: 1 ➣ \\*2 cards<br>:empower: 2 ➣ \\*3 cards<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Draw \\* from any Neutral [Unit](../units/index.md) deck. You can discard any of them and return the remaining cards in any order.<br><br>:power: 0 ➣ \\*1 card<br>:power: 1 ➣ \\*2 cards<br>:power: 2 ➣ \\*3 cards<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr ""

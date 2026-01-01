@@ -482,5 +482,5 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/sorrow.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: When a \\* [unit](../units/index.md) is about to activate, skip this [unit's](../units/index.md) activation.<br><br>:empower: 0 ➣ \\*:bronze:<br>:empower: 2 ➣ \\*:bronze: or :silver:<br>:empower: 4 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: When a \\* [unit](../units/index.md) is about to activate, skip this [unit's](../units/index.md) activation.<br><br>:power: 0 ➣ \\*:bronze:<br>:power: 2 ➣ \\*:bronze: or :silver:<br>:power: 4 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr ""

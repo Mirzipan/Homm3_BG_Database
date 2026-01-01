@@ -19,8 +19,8 @@ ___
 
 | Type | Effect | :expert: Effect |
 | :--- | :---: | :---: |
-| Regular | :effect_map: This turn, your [Hero](../heroes/index.md) can move through fields with [Neutral Units](../units/index.md#neutral-units) and Enemy Heroes, but if they end their movement in one of these fields, Combat begins. | :effect_map: Your [Hero](../heroes/index.md) can move over the yellow border and [blocked fields](../fields/blocked_field.md), but cannot end movement on them. |
-| Empowered | :effect_map: This turn, your [Hero](../heroes/index.md) can move through [blocked fields](../fields/blocked_field.md) and fields with [Neutral Units](../units/index.md#neutral-units) and Enemy Heroes without resolving them, but if the [Hero](../heroes/index.md) ends their movement on one of these fields, Combat begins. | - |
+| Regular | :map: This turn, your [Hero](../heroes/index.md) can move through fields with [Neutral Units](../units/index.md#neutral-units) and Enemy Heroes, but if they end their movement in one of these fields, Combat begins. | :map: Your [Hero](../heroes/index.md) can move over the yellow border and [blocked fields](../fields/blocked_field.md), but cannot end movement on them. |
+| Empowered | :map: This turn, your [Hero](../heroes/index.md) can move through [blocked fields](../fields/blocked_field.md) and fields with [Neutral Units](../units/index.md#neutral-units) and Enemy Heroes without resolving them, but if the [Hero](../heroes/index.md) ends their movement on one of these fields, Combat begins. | - |
 
 
 ## Heroes With Starting Ability

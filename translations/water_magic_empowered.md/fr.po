@@ -857,7 +857,7 @@ msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 #: docs/abilities/water_magic_empowered.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>:pay: 5 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 8 :gold: at Trade Post</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :empower: for spells from [School of Water Magic](../spells/index.md#school-of-water-magic).<br><br>— OR —<br><br>:instant: When casting :spellpower: from the [School of Water](../spells/index.md#school-of-water-magic), you can discard this card, then gain +3 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:permanent: +1 :power: for spells from [School of Water Magic](../spells/index.md#school-of-water-magic).<br><br>— OR —<br><br>:instant: When casting :spell: from the [School of Water](../spells/index.md#school-of-water-magic), you can discard this card, then gain +3 :power:.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>:pay: 5 :gold: à la Manufacture d'Armes<br><br>— OU —<br><br>:pay: 8 :gold: au Comptoir</p>\n"
 
 #. type: Bullet: '- '

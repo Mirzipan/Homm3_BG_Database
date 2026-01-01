@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Dungeon](../towns/dungeon.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;3</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;3</br>[:knowledge:](../statistics/knowledge.md)&nbsp;2</p>
 ___
 <p style="text-align: center;" markdown>[Intelligence](../abilities/intelligence.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :effect_map: Pay 2 :gold: to gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card. |
-| Ⅳ | :effect_map: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: +2 :empower:. |
-| Ⅵ | :effect_map: Gain 2 :valuables:.<br><br>— OR —<br><br>Draw 2 cards. |
+| Ⅰ | :map: Pay 2 :gold: to gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card. |
+| Ⅳ | :map: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: +2 :power:. |
+| Ⅵ | :map: Gain 2 :valuables:.<br><br>— OR —<br><br>Draw 2 cards. |
 
 
 ## Notes

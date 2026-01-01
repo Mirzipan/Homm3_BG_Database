@@ -29,7 +29,7 @@
 | :health_points: | 5 | 5 | 4 |
 | :initiative: | 5 | **8** | 5 |
 | Cost | 6 :gold: | 8 :gold: | 11 :gold: |
-| Abilities | - | :activation: Add +1 :empower: to the first [Fire Magic spell](../spells/index.md#school-of-fire-magic) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spellpower:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. |
+| Abilities | - | :activation: Add +1 :power: to the first [Fire Magic spell](../spells/index.md#school-of-fire-magic) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Fire Magic :spell:](../spells/index.md#school-of-fire-magic). This unit deals elemental damage. |
 
 
 ## Comes With

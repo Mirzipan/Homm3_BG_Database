@@ -19,7 +19,7 @@ ___
 
 | Type | Effect | :expert: Effect |
 | :--- | :---: | :---: |
-| Regular | :instant: +1 :defense:. This effect can be used to reduce :damage: from [:spellpower:](../spells/index.md). | :instant: +2 :defense:. This effect can be used to reduce :damage: from [:spellpower:](../spells/index.md). |
+| Regular | :instant: +1 :defense:. This effect can be used to reduce :damage: from [:spell:](../spells/index.md). | :instant: +2 :defense:. This effect can be used to reduce :damage: from [:spell:](../spells/index.md). |
 | Empowered | :instant: +2 :defense:. This bonus can be applied to :damage: from [spells](../spells/index.md). | - |
 
 

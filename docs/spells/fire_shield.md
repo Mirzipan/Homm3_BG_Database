@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Fire Spell](index.md#school-of-fire-magic)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: When the targeted [unit](../units/index.md) is attacked by an adjacent [unit](../units/index.md) during this Combat round, the attacking [unit](../units/index.md) takes:<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
+<p style="text-align: center;" markdown>:ongoing: When the targeted [unit](../units/index.md) is attacked by an adjacent [unit](../units/index.md) during this Combat round, the attacking [unit](../units/index.md) takes:<br><br>:power: 0 ➣ 1 :damage:<br>:power: 2 ➣ 2 :damage:<br>:power: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

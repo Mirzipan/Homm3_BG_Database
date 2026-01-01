@@ -676,7 +676,7 @@ msgstr "![Hombreras de Contrapeso](../assets/artifacts_major-surcoat_of_counterp
 #. type: Plain text
 #: docs/artifacts/surcoat_of_counterpoise.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Play this card immediately after an enemy casts a [:spellpower:](../spells/index.md). If it was cast with 1:empower: or less, ignore the [:spellpower:](../spells/index.md) effect.<br><br>— OR —<br><br>:instant: Remove this card, then **Search(1)**:artifact:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Play this card immediately after an enemy casts a [:spell:](../spells/index.md). If it was cast with 1:power: or less, ignore the [:spell:](../spells/index.md) effect.<br><br>— OR —<br><br>:instant: Remove this card, then **Search(1)**:artifact:.</p>\n"
 msgstr ""
 
 #. type: Plain text

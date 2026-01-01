@@ -796,7 +796,7 @@ msgstr ""
 #. type: Plain text
 #: docs/artifacts/sandals_of_the_saint.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Discard X cards from hand to gain +X :empower:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +4 :empower:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Discard X cards from hand to gain +X :power:.<br><br>— OR —<br><br>:instant: Remove this card, then gain +4 :power:.</p>\n"
 msgstr ""
 
 #. type: Plain text

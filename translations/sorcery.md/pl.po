@@ -921,8 +921,8 @@ msgstr "[Lista Jednostek](units/index.md)"
 msgid ""
 "| Type | Effect | :expert: Effect |\n"
 "| :--- | :---: | :---: |\n"
-"| Regular | :instant: +1 :empower:<br>Then draw 1 card. | :instant: +2 :empower:<br>Then draw 1 card. |\n"
-"| Empowered | :instant: +2 :empower:<br>Then draw 1 card. | - |\n"
+"| Regular | :instant: +1 :power:<br>Then draw 1 card. | :instant: +2 :power:<br>Then draw 1 card. |\n"
+"| Empowered | :instant: +2 :power:<br>Then draw 1 card. | - |\n"
 msgstr ""
 
 #. type: Bullet: '- '

@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Fortress](../towns/fortress.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;4</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;4</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Armorer](../abilities/armorer.md)</p>
 ___
@@ -35,7 +35,7 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :effect_map: Pay 5 :gold: to gain a [Ballista](../war_machines/ballista.md).<br><br>— OR —<br><br>:instant: Activate your [Ballista](../war_machines/ballista.md) (if you have one). |
+| Ⅰ | :map: Pay 5 :gold: to gain a [Ballista](../war_machines/ballista.md).<br><br>— OR —<br><br>:instant: Activate your [Ballista](../war_machines/ballista.md) (if you have one). |
 | Ⅳ | :activation: The selected [unit](../units/index.md) suffers 1 :damage:.</br>:instant: Discard your [Ballista](../war_machines/ballista.md) to inflict 2 :damage: on the selected [unit](../units/index.md). |
 | Ⅵ | :ongoing: You can play this card at the start of Combat. For this Combat, you can choose targets for your [Ballista](../war_machines/ballista.md) (if you have one). </br>:instant: Discard your [Ballista](../war_machines/ballista.md) to inflict 3 :damage: on the selected [unit](../units/index.md). |
 
