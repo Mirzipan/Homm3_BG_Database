@@ -832,7 +832,7 @@ msgid ""
 "| :---: | :---: |\n"
 "| Ⅰ | :instant: Gain :morale_positive: and 1 :gold:. |\n"
 "| Ⅳ | :instant: Roll 2 [:resource_die:](../keywords/dice.md) and resolve one of them.</br>Gain 1 :gold:. |\n"
-"| Ⅵ | :map: During this turn, the number of dice you roll and resolve at locations is increased by 1. Gain 1 :gold:. |\n"
+"| Ⅵ | :map_effect: During this turn, the number of dice you roll and resolve at locations is increased by 1. Gain 1 :gold:. |\n"
 msgstr ""
 
 #. type: Bullet: '- '

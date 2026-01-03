@@ -603,9 +603,9 @@ msgstr "<p style=\"text-align: center;\" markdown>[Artefacto Mayor](../artifacts
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>:map: For every [Dwelling](../towns/index.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can **Recruit** one of these units.<br><br>— OR —<br><br>:instant: Reroll a [die](../keywords/dice.md).</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:map: For every [Dwelling](../keywords/dwelling.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can [**Recruit**](../keywords/recruit.md) one of these units.<br><br>— OR —<br><br>:instant: Reroll a [die](../keywords/dice.md).</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:map: Por cada [Vivienda](../towns/index.md) que tengas, descubre 1 carta de la correspondiente [Unidad Neutral](../units/index.md). Puedes **Reclutar** una de estas unidades.<br><br>— O —<br><br>:instant: Repite la tirada de un [dado](../keywords/dice.md).</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>:map_effect: For every [Dwelling](../towns/index.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can **Recruit** one of these units.<br><br>— OR —<br><br>:instant: Reroll a [die](../keywords/dice.md).</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:map_effect: For every [Dwelling](../keywords/dwelling.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can [**Recruit**](../keywords/recruit.md) one of these units.<br><br>— OR —<br><br>:instant: Reroll a [die](../keywords/dice.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:map_effect: Por cada [Vivienda](../towns/index.md) que tengas, descubre 1 carta de la correspondiente [Unidad Neutral](../units/index.md). Puedes **Reclutar** una de estas unidades.<br><br>— O —<br><br>:instant: Repite la tirada de un [dado](../keywords/dice.md).</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/ambassadors_sash.md

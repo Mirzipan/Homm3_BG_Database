@@ -735,9 +735,9 @@ msgstr "![Cañón](../assets/player-deck-back.webp){ width=\"340\" align=right }
 #. type: Plain text
 #: docs/artifacts/diplomats_ring.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>:map: For every Dwelling you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can **Recruit** one of these [units](../units/index.md) if you :pay: its Recruitment cost.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:instant: Reroll any [die](../keywords/dice.md) or any roll.<br><br>— OR —<br><br>:map: For every [Dwelling](../keywords/dwelling.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can [Recruit](../keywords/recruit.md) one of these [units](../units/index.md).</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:map: Por cada Vivienda que tengas, roba 1 carta de la [Unidad Neutral](../units/index.md) correspondiente. Puedes **Reclutar** una de estas [unidades](../units/index.md) si :pay: su coste de Reclutamiento..</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>:map_effect: For every Dwelling you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can **Recruit** one of these [units](../units/index.md) if you :pay: its Recruitment cost.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Reroll any [die](../keywords/dice.md) or any roll.<br><br>— OR —<br><br>:map_effect: For every [Dwelling](../keywords/dwelling.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can [Recruit](../keywords/recruit.md) one of these [units](../units/index.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:map_effect: Por cada Vivienda que tengas, roba 1 carta de la [Unidad Neutral](../units/index.md) correspondiente. Puedes **Reclutar** una de estas [unidades](../units/index.md) si :pay: su coste de Reclutamiento..</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/diplomats_ring.md

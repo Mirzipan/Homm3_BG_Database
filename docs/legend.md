@@ -39,7 +39,7 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :map: | Map effect. Can be activated when it's your turn and you are not in a fight |
+| :map_effect: | Map effect. Can be activated when it's your turn and you are not in a fight |
 | :unit_attack: | Attack. Triggers when unit is attacking (in case of multiple attacks it triggers for the first one only) |
 | :unit_retaliate: | Retaliation. Triggers when unit is retaliating |
 | :activation: | Activation. Triggers when unit activates |

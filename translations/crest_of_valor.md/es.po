@@ -679,8 +679,8 @@ msgstr "![Blasón del Valor](../assets/artifacts_minor-crest_of_valor.webp){ wid
 #. type: Plain text
 #: docs/artifacts/crest_of_valor.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Gain a :morale_positive: token.<br><br>— OR —<br><br>:map: Ignore :morale_negative: effect from a field.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:instant: Gana una ficha de :morale_positive:.<br><br>— O —<br><br>:map: Ignora el efecto de :morale_negative: de una casilla.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Gain a :morale_positive: token.<br><br>— OR —<br><br>:map_effect: Ignore :morale_negative: effect from a field.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Gana una ficha de :morale_positive:.<br><br>— O —<br><br>:map_effect: Ignora el efecto de :morale_negative: de una casilla.</p>\n"
 
 #. type: Plain text
 #: docs/artifacts/crest_of_valor.md

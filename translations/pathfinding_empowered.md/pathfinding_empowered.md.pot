@@ -829,7 +829,7 @@ msgstr ""
 #. type: Plain text
 #: docs/abilities/pathfinding_empowered.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:map: This turn, your [Hero](../heroes/index.md) can move through [blocked fields](../fields/blocked_field.md) and fields with [Neutral Units](../units/index.md#neutral-units) and Enemy Heroes without resolving them, but if the [Hero](../heroes/index.md) ends their movement on one of these fields, Combat begins.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:map_effect: This turn, your [Hero](../heroes/index.md) can move through [blocked fields](../fields/blocked_field.md) and fields with [Neutral Units](../units/index.md#neutral-units) and Enemy Heroes without resolving them, but if the [Hero](../heroes/index.md) ends their movement on one of these fields, Combat begins.</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '

@@ -905,7 +905,7 @@ msgid ""
 "| :health_points: | 3 |\n"
 "| :initiative: | 6 |\n"
 "| Cost | 5 :gold: |\n"
-"| Abilities | :map: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. |\n"
+"| Abilities | :map_effect: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. |\n"
 msgstr ""
 
 #. type: Bullet: '- '

@@ -910,7 +910,7 @@ msgid ""
 "| :health_points: | 4 |\n"
 "| :initiative: | 7 |\n"
 "| Cost | 10 :gold: |\n"
-"| Abilities | :map: At the end of your turn, move your [Hero's](../heroes/index.md) model to an adjacent empty field. |\n"
+"| Abilities | :map_effect: At the end of your turn, move your [Hero's](../heroes/index.md) model to an adjacent empty field. |\n"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -920,5 +920,5 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/units/nomads.md
-msgid "After using the :map:, the Nomads are not put away, but stay in the player's unit deck."
+msgid "After using the :map_effect:, the Nomads are not put away, but stay in the player's unit deck."
 msgstr ""

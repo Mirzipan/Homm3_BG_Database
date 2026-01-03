@@ -15,7 +15,7 @@
 | :health_points: | 5 |
 | :initiative: | 7 |
 | Cost | 10 :gold: |
-| Abilities | :map: Once per turn. Roll an [Attack die](../keywords/dice.md#attack-die). On a "+1", gain :morale_positive:. |
+| Abilities | :map_effect: Once per turn. Roll an [Attack die](../keywords/dice.md#attack-die). On a "+1", gain :morale_positive:. |
 
 
 ## Comes With

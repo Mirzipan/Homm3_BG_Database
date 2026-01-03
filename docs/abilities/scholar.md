@@ -19,8 +19,8 @@ ___
 
 | Type | Effect | :expert: Effect |
 | :--- | :---: | :---: |
-| Regular | :instant: Choose 1 card from your discard pile and add it to your hand. | :map: [Remove](../keywords/remove.md) up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile. [Remove](../keywords/remove.md) the Scholar. |
-| Empowered | :instant: Choose 1 card from your discard pile and add it to your hand.<br><br>— OR —<br><br>:map: [Remove](../keywords/remove.md) up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile.<br>[Remove](../keywords/remove.md) the Scholar. | - |
+| Regular | :instant: Choose 1 card from your discard pile and add it to your hand. | :map_effect: [Remove](../keywords/remove.md) up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile. [Remove](../keywords/remove.md) the Scholar. |
+| Empowered | :instant: Choose 1 card from your discard pile and add it to your hand.<br><br>— OR —<br><br>:map_effect: [Remove](../keywords/remove.md) up to 2 [Statistic](../statistics/index.md) cards from your hand or discard pile. Take up to 2 different [Empowered Statistic](../statistics/index.md) cards and put them on top of your discard pile.<br>[Remove](../keywords/remove.md) the Scholar. | - |
 
 
 ## Heroes With Starting Ability

@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :map: Pay 2 :gold: to gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card. |
-| Ⅳ | :map: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: +2 :power:. |
-| Ⅵ | :map: Gain 2 :valuables:.<br><br>— OR —<br><br>Draw 2 cards. |
+| Ⅰ | :map_effect: Pay 2 :gold: to gain 1 :valuables:.<br><br>— OR —<br><br>:instant: Draw 1 card. |
+| Ⅳ | :map_effect: Gain 1 :valuables:.<br><br>— OR —<br><br>:instant: +2 :power:. |
+| Ⅵ | :map_effect: Gain 2 :valuables:.<br><br>— OR —<br><br>Draw 2 cards. |
 
 
 ## Notes
