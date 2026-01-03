@@ -1,6 +1,5 @@
 nav:
   - "index.md"
-  - "legend.md"
   - Artefakty:
      - "artifacts/*.md"
   - Astrologowie ogłaszają:
@@ -12,12 +11,14 @@ nav:
      - "units/*.md"
   - Kafelki:
      - "tiles/*.md"
+  - Legenda: "legend.md"
   - Machiny Wojenne:
      - "war_machines/*.md"
   - Miasta:
      - "towns/*.md"
   - Pola:
      - "fields/*.md"
+  - Poziom Trudności: "difficulties.md"
   - Scenariusze:
      - "scenarios/*.md"
   - Statystyki:
