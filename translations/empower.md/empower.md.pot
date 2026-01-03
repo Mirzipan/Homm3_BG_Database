@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-28 22:47+0000\n"
+"POT-Creation-Date: 2026-01-03 18:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,31 +17,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Title ##
-#: docs/abilities/air_magic.md docs/abilities/air_magic_empowered.md
-#: docs/abilities/archery.md docs/abilities/archery_empowered.md
-#: docs/abilities/armorer.md docs/abilities/armorer_empowered.md
-#: docs/abilities/artillery.md docs/abilities/artillery_empowered.md
-#: docs/abilities/basic_air_magic.md
-#: docs/abilities/basic_air_magic_empowered.md
-#: docs/abilities/basic_earth_magic.md
-#: docs/abilities/basic_earth_magic_empowered.md
-#: docs/abilities/basic_fire_magic.md
-#: docs/abilities/basic_fire_magic_empowered.md
-#: docs/abilities/basic_water_magic.md
-#: docs/abilities/basic_water_magic_empowered.md docs/abilities/diplomacy.md
-#: docs/abilities/diplomacy_empowered.md docs/abilities/earth_magic.md
-#: docs/abilities/earth_magic_empowered.md docs/abilities/fire_magic.md
-#: docs/abilities/fire_magic_empowered.md docs/abilities/first_aid.md
-#: docs/abilities/first_aid_empowered.md docs/abilities/intelligence.md
-#: docs/abilities/intelligence_empowered.md docs/abilities/logistics.md
-#: docs/abilities/logistics_empowered.md docs/abilities/luck.md
-#: docs/abilities/luck_empowered.md docs/abilities/necromancy.md
-#: docs/abilities/necromancy_empowered.md docs/abilities/offense.md
-#: docs/abilities/offense_empowered.md docs/abilities/pathfinding.md
-#: docs/abilities/pathfinding_empowered.md docs/abilities/resistance.md
-#: docs/abilities/resistance_empowered.md docs/abilities/sorcery.md
-#: docs/abilities/sorcery_empowered.md docs/abilities/water_magic.md
-#: docs/abilities/water_magic_empowered.md docs/artifacts/angel_wings.md
+#: docs/abilities/air_magic.md docs/abilities/archery.md
+#: docs/abilities/armorer.md docs/abilities/artillery.md
+#: docs/abilities/basic_air_magic.md docs/abilities/basic_earth_magic.md
+#: docs/abilities/basic_fire_magic.md docs/abilities/basic_water_magic.md
+#: docs/abilities/diplomacy.md docs/abilities/earth_magic.md
+#: docs/abilities/fire_magic.md docs/abilities/first_aid.md
+#: docs/abilities/intelligence.md docs/abilities/logistics.md
+#: docs/abilities/luck.md docs/abilities/necromancy.md
+#: docs/abilities/offense.md docs/abilities/pathfinding.md
+#: docs/abilities/resistance.md docs/abilities/sorcery.md
+#: docs/abilities/water_magic.md docs/artifacts/angel_wings.md
 #: docs/artifacts/arms_of_legion.md docs/artifacts/centaurs_axe.md
 #: docs/artifacts/head_of_legion.md docs/artifacts/index.md
 #: docs/artifacts/inexhaustible_cart_of_ore.md docs/artifacts/legs_of_legion.md
@@ -112,7 +98,7 @@ msgstr ""
 #: docs/keywords/empower.md
 msgid ""
 "This mechanic is specifically tied to [spells](../spells/index.md).  The "
-"power power a [spell](../spells/index.md) has, the stronger its effect can "
+"more power a [spell](../spells/index.md) has, the stronger its effect can "
 "be.  Depending on the effect, the empowered [spell](../spells/index.md) can "
 "deal more damage, provide stronger protection, affect higher [tiers of Units]"
 "(../units/index.md#tiers), etc.  Each [spell](../spells/index.md) already "
