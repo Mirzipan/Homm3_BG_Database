@@ -15,7 +15,7 @@
 | :health_points: | 3 |
 | :initiative: | 6 |
 | Cost | 5 :gold: |
-| Abilities | :map: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. |
+| Abilities | :map_effect: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. |
 
 
 ## Notes

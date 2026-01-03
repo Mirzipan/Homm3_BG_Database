@@ -35,8 +35,8 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :map: Pay 5 :gold: to gain a [Ballista](../war_machines/ballista.md).<br><br>— OR —<br><br>:instant: Activate your [Ballista](../war_machines/ballista.md) (if you have one). |
-| Ⅳ | :map: Until the end of the round, gain an additional [Ballista](../war_machines/ballista.md) during Combat.</br></br>When played, this card counts as a [Ballista](../war_machines/ballista.md). |
+| Ⅰ | :map_effect: Pay 5 :gold: to gain a [Ballista](../war_machines/ballista.md).<br><br>— OR —<br><br>:instant: Activate your [Ballista](../war_machines/ballista.md) (if you have one). |
+| Ⅳ | :map_effect: Until the end of the round, gain an additional [Ballista](../war_machines/ballista.md) during Combat.</br></br>When played, this card counts as a [Ballista](../war_machines/ballista.md). |
 | Ⅵ | :instant: For this Combat, gain an additional [Ballista](../war_machines/ballista.md). You can activate all your [Ballistas](../war_machines/ballista.md) now.</br></br>When played, this card counts as a [Ballista](../war_machines/ballista.md). |
 
 
