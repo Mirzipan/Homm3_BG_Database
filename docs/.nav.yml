@@ -8,6 +8,7 @@ nav:
      - "astrologers_proclaim/*.md"
   - Content:
      - "content/*.md"
+  - Difficulties: "difficulties.md"
   - Events:
      - "events/*.md"
   - Fields:
@@ -30,6 +31,7 @@ nav:
      - Remove: "keywords/remove.md"
      - Search: "keywords/search.md"
      - Summon: "keywords/summon.md"
+  - Legend: "legend.md"
   - Scenarios:
      - "scenarios/*.md"
   - Spells:
@@ -40,6 +42,7 @@ nav:
      - "tiles/*.md"
   - Towns:
      - "towns/*.md"
+  - Trading: "trading.md"
   - Units:
      - "units/*.md"
   - War Machines:
