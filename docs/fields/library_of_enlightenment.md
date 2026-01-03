@@ -7,7 +7,7 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
+<p style="text-align: center;" markdown>[Revisitable Field](index.md#revisitable-field)</p>
 ___
 <p style="text-align: center;" markdown>You can :pay: 3 :gold: to [Remove](../keywords/remove.md) 1 [Statistic](../statistics/index.md) card from your hand or discard pile and replace it with any other [Statistic](../statistics/index.md) card. You can do it twice per visit.</p>
 ___
