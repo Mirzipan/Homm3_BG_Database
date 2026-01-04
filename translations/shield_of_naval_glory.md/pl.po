@@ -665,7 +665,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/artifacts/shield_of_naval_glory.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :defense:<br><br>— OR —<br><br>:map: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), they gain +1 :movement:, and draw 1 card.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: +2 :defense:<br><br>— OR —<br><br>:map_effect: If this [Hero](../heroes/index.md) is on a [Sea tile](../tiles/index.md#sea-tiles), they gain +1 :movement:, and draw 1 card.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów.<br><br>Każdy Bohater zyskuje 1 PR.</p>\n"
 
 #. type: Plain text

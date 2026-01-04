@@ -602,7 +602,7 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/town_portal.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:map: Move your [Hero](../heroes/index.md) to a selected [Town](../towns/index.md) or Settlement in your control, and:<br><br>:power: 0 ➣ No additional effect<br>:power: 2 ➣ +1 :movement:<br>:power: 4 ➣ +2 :movement:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:map_effect: Move your [Hero](../heroes/index.md) to a selected [Town](../towns/index.md) or Settlement in your control, and:<br><br>:power: 0 ➣ No additional effect<br>:power: 2 ➣ +1 :movement:<br>:power: 4 ➣ +2 :movement:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '
