@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[War Machine](index.md)</p>
 ___
-<p style="text-align: center;" markdown>:permanent: At the beginning of each Combat round, you can spend 1 :expert: to deal 2 :damage: to 1 enemy unit.</p>
+<p style="text-align: center;" markdown>:permanent: Once during each Combat round, deal 2 :damage: to a selected enemy unit.</p>
 ___
 <p style="text-align: center;" markdown>:pay: 10 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 14 :gold: at Trade Post</p>
 
