@@ -980,7 +980,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/heroes/sandro.md
-msgid "**Ⅵ** - can be playedon \"Few\", \"Pack\", or even \"Horde\" of [Skeletons](../units/skeletons.md)."
+msgid "**Ⅵ** - can be played on \"Few\", \"Pack\", or even \"Horde\" of [Skeletons](../units/skeletons.md)."
 msgstr ""
 
 #. type: Bullet: '- '
