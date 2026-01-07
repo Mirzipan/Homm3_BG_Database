@@ -1009,8 +1009,8 @@ msgstr "**Ⅳ** - the abilities of the [Manada de Zombies](../units/zombies.md) 
 
 #. type: Bullet: '- '
 #: docs/heroes/sandro.md
-msgid "**Ⅵ** - can be playedon \"Few\", \"Pack\", or even \"Horde\" of [Skeletons](../units/skeletons.md)."
-msgstr "**Ⅵ** - can be playedon \"Pocos\", \"Pack\", or even \"Horde\" of [Esqueletos](../units/skeletons.md)."
+msgid "**Ⅵ** - can be played on \"Few\", \"Pack\", or even \"Horde\" of [Skeletons](../units/skeletons.md)."
+msgstr "**Ⅵ** - can be played on \"Pocos\", \"Pack\", or even \"Horde\" of [Esqueletos](../units/skeletons.md)."
 
 #. type: Bullet: '- '
 #: docs/heroes/sandro.md

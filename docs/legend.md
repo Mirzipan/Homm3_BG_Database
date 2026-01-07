@@ -41,7 +41,7 @@ Quick reference for what the different glyphs mean.
 | :---: | :--- |
 | :map_effect: | Map effect. Can be activated when it's your turn and you are not in a fight |
 | :unit_attack: | Attack. Triggers when unit is attacking (in case of multiple attacks it triggers for the first one only) |
-| :unit_retaliate: | Retaliation. Triggers when unit is retaliating |
+| :unit_retaliation: | Retaliation. Triggers when unit is retaliating |
 | :activation: | Activation. Triggers when unit activates |
 | :unit_passive: | Passive. Triggers when condition is met |
 | :unit_other: | Can be used as alternative to attacking |

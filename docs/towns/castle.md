@@ -55,8 +55,8 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Halberdiers](../units/halberdiers.md) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: |
 | [Marksmen](../units/marksmen.md) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 2 | 4 | 3 :gold: | - |
 | [Marksmen](../units/marksmen.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 2 | **6** | 5 :gold: | :unit_attack: |
-| [Griffins](../units/griffins.md) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 4 | 6 | 4 :gold: | :unit_retaliate: |
-| [Griffins](../units/griffins.md) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | **3** | 0 | 4 | **9** | 6 :gold: | :unit_retaliate: |
+| [Griffins](../units/griffins.md) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 4 | 6 | 4 :gold: | :unit_retaliation: |
+| [Griffins](../units/griffins.md) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | **3** | 0 | 4 | **9** | 6 :gold: | :unit_retaliation: |
 | [Crusaders](../units/crusaders.md) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 3 | 2 | 4 | 5 | 6 :gold: | - |
 | [Crusaders](../units/crusaders.md) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | **4** | 2 | 4 | **6** | 10 :gold: | :unit_attack: |
 | [Zealots](../units/zealots.md) | Few | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 1 | 5 | 5 | 8 :gold: | - |
