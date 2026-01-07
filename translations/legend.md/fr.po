@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2025-12-26 19:18+0000\n"
+"POT-Creation-Date: 2026-01-07 06:02+0000\n"
 "PO-Revision-Date: 2025-12-02 22:11+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -27,8 +27,8 @@ msgstr "Dés"
 #: docs/keywords/index.md docs/legend.md docs/towns/castle.md
 #: docs/towns/conflux.md docs/towns/cove.md docs/towns/dungeon.md
 #: docs/towns/fortress.md docs/towns/inferno.md docs/towns/necropolis.md
-#: docs/towns/neutral.md docs/towns/rampart.md docs/towns/stronghold.md
-#: docs/towns/tower.md docs/units/index.md
+#: docs/towns/rampart.md docs/towns/stronghold.md docs/towns/tower.md
+#: docs/units/index.md
 #, no-wrap
 msgid "Units"
 msgstr "Unités"
@@ -131,13 +131,26 @@ msgstr "Effets et Capacités spéciales"
 
 #. type: Plain text
 #: docs/legend.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "| Icon | Description |\n"
+#| "| :---: | :--- |\n"
+#| "| :map_effect: | Map effect. Can be activated when it's your turn and you are not in a fight |\n"
+#| "| :unit_attack: | Attack. Triggers when unit is attacking (in case of multiple attacks it triggers for the first one only) |\n"
+#| "| :unit_retaliate: | Retaliation. Triggers when unit is retaliating |\n"
+#| "| :activation: | Activation. Triggers when unit activates |\n"
+#| "| :unit_passive: | Passive. Triggers when condition is met |\n"
+#| "| :unit_other: | Can be used as alternative to attacking |\n"
+#| "| :paralysis: | Paralysis |\n"
+#| "| :ongoing: | Ongoing effect |\n"
+#| "| :instant: | Instant effect |\n"
+#| "| :permanent: | Permanent effect |\n"
 msgid ""
 "| Icon | Description |\n"
 "| :---: | :--- |\n"
 "| :map_effect: | Map effect. Can be activated when it's your turn and you are not in a fight |\n"
 "| :unit_attack: | Attack. Triggers when unit is attacking (in case of multiple attacks it triggers for the first one only) |\n"
-"| :unit_retaliate: | Retaliation. Triggers when unit is retaliating |\n"
+"| :unit_retaliation: | Retaliation. Triggers when unit is retaliating |\n"
 "| :activation: | Activation. Triggers when unit activates |\n"
 "| :unit_passive: | Passive. Triggers when condition is met |\n"
 "| :unit_other: | Can be used as alternative to attacking |\n"
