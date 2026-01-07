@@ -35,7 +35,7 @@
 | :health_points: | 4 | 4 | 4 | 4 |
 | :initiative: | 6 | **9** | 8 | 8 |
 | Cost | 4 :gold: | 6 :gold: | 7 :gold: | - |
-| Abilities | :unit_retaliate: This unit can perform an unlimited number of Retaliation Attacks. | :unit_retaliate: This unit can perform an unlimited number of Retaliation Attacks. | :unit_retaliate: This unit can perform and unlimited number of Retaliation Attacks. | :unit_passive: This unit can perform an unlimited number of Retaliation Attacks. |
+| Abilities | :unit_retaliation: This unit can perform an unlimited number of Retaliation Attacks. | :unit_retaliation: This unit can perform an unlimited number of Retaliation Attacks. | :unit_retaliation: This unit can perform and unlimited number of Retaliation Attacks. | :unit_passive: This unit can perform an unlimited number of Retaliation Attacks. |
 
 
 ## Comes With

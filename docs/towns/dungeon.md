@@ -58,7 +58,7 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Evil Eyes](../units/evil_eyes.md) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 0 | 3 | 5 | 4 :gold: | - |
 | [Evil Eyes](../units/evil_eyes.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | **1** | 3 | **7** | 6 :gold: | :unit_passive: |
 | [Medusas](../units/medusas.md) | Few | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 1 | 4 | 5 | 6 :gold: | :unit_passive: |
-| [Medusas](../units/medusas.md) | Pack | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | **4** | 1 | 4 | **6** | 12 :gold: | :unit_passive: :unit_retaliate: |
+| [Medusas](../units/medusas.md) | Pack | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | **4** | 1 | 4 | **6** | 12 :gold: | :unit_passive: :unit_retaliation: |
 | [Minotaurs](../units/minotaurs.md) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 2 | 4 | 6 | 8 :gold: | :unit_attack: |
 | [Minotaurs](../units/minotaurs.md) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | **5** | 2 | 4 | **8** | 14 :gold: | :unit_attack: |
 | [Manticores](../units/manticores.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 5 | 1 | 6 | 7 | 10 :gold: | - |

@@ -29,7 +29,7 @@
 | :health_points: | 5 | **6** | 5 |
 | :initiative: | 9 | **11** | 9 |
 | Cost | 6 :gold: | 10 :gold: | 9 :gold: |
-| Abilities | - | :unit_attack: If the target is reduced to 0 :health_points:, after resolving the :unit_retaliate: (if applicable), the Ayssids can attack another adjacent unit. | :unit_attack: If the target is reduced to 0 :health_points:, after resolving the :unit_retaliate: (if applicable), the Ayssids can attack another adjacent unit. |
+| Abilities | - | :unit_attack: If the target is reduced to 0 :health_points:, after resolving the :unit_retaliation: (if applicable), the Ayssids can attack another adjacent unit. | :unit_attack: If the target is reduced to 0 :health_points:, after resolving the :unit_retaliation: (if applicable), the Ayssids can attack another adjacent unit. |
 
 
 ## Comes With
