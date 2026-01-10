@@ -840,7 +840,7 @@ msgstr ""
 #. type: Title #
 #: docs/units/cyclopes.md
 #, no-wrap
-msgid "Cyclops"
+msgid "Cyclopes"
 msgstr ""
 
 #. type: Plain text

@@ -623,7 +623,7 @@ msgstr "Zobacz też"
 #: docs/units/ogres.md docs/units/orcs.md docs/units/thunderbirds.md
 #: docs/units/wolf_raiders.md
 msgid "[Stronghold Expansion](../content/stronghold_expansion.md)"
-msgstr ""
+msgstr "[Rozszerzenie Twierdza](../content/stronghold_expansion.md)"
 
 #. type: Bullet: '- '
 #: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
