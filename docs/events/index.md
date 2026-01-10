@@ -31,4 +31,4 @@ search:
 
 ## See Also
 
-- [List of Astrologers Proclaim Card](../astrologers_proclaim/index.md)
+- [List of Astrologers Proclaim Cards](../astrologers_proclaim/index.md)
