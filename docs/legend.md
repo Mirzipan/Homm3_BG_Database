@@ -9,6 +9,23 @@ Quick reference for what the different glyphs mean.
 | :---: | :--- |
 | :might: | Hero of Might |
 | :magic: | Hero of Magic |
+| :attack: | Attack |
+| :defense: | Defense |
+| :power: | Power |
+| :knowledge: | Knowledge |
+
+## Buildings
+
+| Icon | Description |
+| :---:| :--- |
+| :city_hall: | City&nbsp;Hall |
+| :citadel: | Citadel |
+| :mage_guild: | Mage&nbsp;Guild |
+| :bronze: | Bronze&nbsp;Dwelling |
+| :silver: | Silver&nbsp;Dwelling |
+| :golden: | Gold&nbsp;Dwelling |
+| :special_tent: | Special&nbsp;Building |
+| :special_gears: | Special&nbsp;Building |
 
 ## Units
 
@@ -23,10 +40,7 @@ Quick reference for what the different glyphs mean.
 | :unit_ranged: | Ranged unit |
 | :attack: | Attack |
 | :defense: | Defense |
-| :power: | Power |
-| :skill: | Intelligence |
-| :health_points: | Health |
-| :damage: | Damage |
+| :health_points: | Health points |
 | :initiative: | Initiative |
 
 ## Factions
@@ -44,11 +58,13 @@ Quick reference for what the different glyphs mean.
 | :unit_retaliation: | Retaliation. Triggers when unit is retaliating |
 | :activation: | Activation. Triggers when unit activates |
 | :unit_passive: | Passive. Triggers when condition is met |
-| :unit_other: | Can be used as alternative to attacking |
+| :unit_other: | Can be used as alternative to movement and attacking |
 | :paralysis: | Paralysis |
 | :ongoing: | Ongoing effect |
 | :instant: | Instant effect |
 | :permanent: | Permanent effect |
+| :power: | Power |
+| :damage: | Damage |
 
 ## Card Types
 
@@ -76,8 +92,12 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
+| :experience: | Half an experience level |
+| :hand: | Player's hand |
 | :expert: | Expert effect |
 | :pay: | Pay |
+| :recruit: | Recruit |
+| :reinforce: | Reinforce |
 | :morale_positive: | Positive morale |
 | :morale_negative: | Negative morale |
 | :movement: | Movement point |
