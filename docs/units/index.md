@@ -1,7 +1,3 @@
----
-search:
-  exclude: true
----
 # Units
 
 ## General
