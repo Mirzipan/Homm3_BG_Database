@@ -18,7 +18,7 @@ Every now and then I want to see what some cards do, either while theorycrafting
 This project is a fan project, and is in no way official or affiliated with [Archon Studio](https://archon-studio.com).
 
 
-## :skill: Other Community Projects
+## :knowledge: Other Community Projects
 
 Here are some projects within the homm3bg community that are definitely worth a visit.
 
