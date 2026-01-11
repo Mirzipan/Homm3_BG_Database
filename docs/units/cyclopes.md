@@ -1,4 +1,4 @@
-# Cyclops
+# Cyclopes
 
 === "Few"
 
