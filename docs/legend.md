@@ -99,7 +99,7 @@ Quick reference for what the different glyphs mean.
 | :recruit: | Recruit |
 | :reinforce: | Reinforce |
 | :positive_morale: | Positive morale |
-| :morale_negative: | Negative morale |
+| :negative_morale: | Negative morale |
 | :movement: | Movement point |
 
 ## AI Hero Card Types

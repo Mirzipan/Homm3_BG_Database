@@ -7,11 +7,11 @@ Here is a quick reference of what happens to the player's morale depending on wh
 | Current Morale | Effect | Outcome |
 | :---: | :---: | :---: |
 | Neutral Morale | Gain :positive_morale:. | :positive_morale: |
-| Neutral Morale | Gain :morale_negative:. | :morale_negative: |
+| Neutral Morale | Gain :negative_morale:. | :negative_morale: |
 | :positive_morale: | Gain :positive_morale:. | :positive_morale:<br>You may spend existing token right before gaining a new one. |
-| :positive_morale: | Gain :morale_negative:. | Neutral Morale |
-| :morale_negative: | Gain :positive_morale:. | Neutral Morale |
-| :morale_negative: | Gain :morale_negative:. | Neutral Morale<br>Discard your hand of cards the next time you end your Turn. |
+| :positive_morale: | Gain :negative_morale:. | Neutral Morale |
+| :negative_morale: | Gain :positive_morale:. | Neutral Morale |
+| :negative_morale: | Gain :negative_morale:. | Neutral Morale<br>Discard your hand of cards the next time you end your Turn. |
 
 
 ## Positive
@@ -29,7 +29,7 @@ A Positive Morale Token may be spent to perform any of these actions at any time
 
 ## Negative
 
-Also shown as :morale_negative:.
+Also shown as :negative_morale:.
 
 ![Negative Morale Token](../assets/tokens-morale-negative.webp){ width=100 align=left }
 
