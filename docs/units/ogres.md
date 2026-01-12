@@ -29,7 +29,7 @@
 | :health_points: | 4 | **6** | 4 |
 | :initiative: | 4 | **5** | 4 |
 | Cost | 6 :gold: | 8 :gold: | 10 :gold: |
-| Abilities | :unit_other: Place a +1 :attack: token on a chosen [:ground_unit:](index.md#ground-units) or [:unit_flying:](index.md#flying-units) unit for 2 Combat rounds. | :unit_other: Place a +2 :attack: token on a chosen [:ground_unit:](index.md#ground-units) or [:unit_flying:](index.md#flying-units) unit for 2 Combat rounds. | :unit_other: Place a +2 :attack: token on a chosen [:ground_unit:](index.md#ground-units) or [:unit_flying:](index.md#flying-units) unit for 2 Combat rounds. |
+| Abilities | :unit_other: Place a +1 :attack: token on a chosen [:ground_unit:](index.md#ground-units) or [:flying_unit:](index.md#flying-units) unit for 2 Combat rounds. | :unit_other: Place a +2 :attack: token on a chosen [:ground_unit:](index.md#ground-units) or [:flying_unit:](index.md#flying-units) unit for 2 Combat rounds. | :unit_other: Place a +2 :attack: token on a chosen [:ground_unit:](index.md#ground-units) or [:flying_unit:](index.md#flying-units) unit for 2 Combat rounds. |
 
 
 ## Comes With

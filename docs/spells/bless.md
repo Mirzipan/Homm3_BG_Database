@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Water Spell](index.md#school-of-water-magic)</p>
 ___
-<p style="text-align: center;" markdown>:instant: The selected :ground_unit: or :unit_flying: unit:<br><br>:power: 0 ➣ Ignores the [Attack die](../keywords/dice.md#attack-die) roll.<br>:power: 1 ➣ Ignores the [Attack die](../keywords/dice.md#attack-die) roll and gains +1 :attack:<br>:power: 2 ➣ Ignores the [Attack die](../keywords/dice.md#attack-die) roll and gains +2 :attack:<br><br>— OR —<br><br>:instant: +1 :power:</p>
+<p style="text-align: center;" markdown>:instant: The selected :ground_unit: or :flying_unit: unit:<br><br>:power: 0 ➣ Ignores the [Attack die](../keywords/dice.md#attack-die) roll.<br>:power: 1 ➣ Ignores the [Attack die](../keywords/dice.md#attack-die) roll and gains +1 :attack:<br>:power: 2 ➣ Ignores the [Attack die](../keywords/dice.md#attack-die) roll and gains +2 :attack:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

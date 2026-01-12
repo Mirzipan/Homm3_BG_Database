@@ -57,14 +57,14 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Dwarves](../units/dwarves.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 3 | **5** | 4 :gold: | :unit_passive: |
 | [Elves](../units/elves.md#few) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 1 | 3 | 6 | 4 :gold: | - |
 | [Elves](../units/elves.md#pack) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | **3** | 1 | 3 | **7** | 7 :gold: | :unit_attack: |
-| [Pegasi](../units/pegasi.md#few) | Few | :silver: | [:unit_flying:](../units/index.md#flying-units) | 3 | 0 | 5 | 8 | 6 :gold: | - |
-| [Pegasi](../units/pegasi.md#pack) | Pack | :silver: | [:unit_flying:](../units/index.md#flying-units) | **4** | 0 | **6** | **12** | 10 :gold: | :unit_passive: |
+| [Pegasi](../units/pegasi.md#few) | Few | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 5 | 8 | 6 :gold: | - |
+| [Pegasi](../units/pegasi.md#pack) | Pack | :silver: | [:flying_unit:](../units/index.md#flying-units) | **4** | 0 | **6** | **12** | 10 :gold: | :unit_passive: |
 | [Dendroids](../units/dendroids.md#few) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 5 | 3 | 8 :gold: | - |
 | [Dendroids](../units/dendroids.md#pack) | Pack | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | **6** | **4** | 15 :gold: | :unit_passive: |
 | [Unicorns](../units/unicorns.md#few) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 5 | 1 | 8 | 7 | 11 :gold: | :unit_passive: |
 | [Unicorns](../units/unicorns.md#pack) | Pack | :golden: | [:ground_unit:](../units/index.md#ground-units) | **6** | 1 | 8 | **9** | 18 :gold:<br>1 :valuables: | :unit_passive: |
-| [Gold Dragons](../units/gold_dragons.md#few) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 5 | 3 | 9 | 10 | 22 :gold:<br>1 :valuables: | :unit_attack: |
-| [Gold Dragons](../units/gold_dragons.md#pack) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **6** | 3 | **10** | **16** | 30 :gold:<br>2 :valuables: | :unit_attack: |
+| [Gold Dragons](../units/gold_dragons.md#few) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 5 | 3 | 9 | 10 | 22 :gold:<br>1 :valuables: | :unit_attack: |
+| [Gold Dragons](../units/gold_dragons.md#pack) | Pack | :golden: | [:flying_unit:](../units/index.md#flying-units) | **6** | 3 | **10** | **16** | 30 :gold:<br>2 :valuables: | :unit_attack: |
 
 
 ## Comes With

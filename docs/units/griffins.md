@@ -29,7 +29,7 @@
 | :--- | :---: | :---: | :---: | :---: |
 | Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) | - |
 | Tier | :bronze: | :bronze: | :bronze: | - |
-| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |
+| Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 2 | **3** | 3 | 3 |
 | :defense: | 0 | 0 | 0 | 0 |
 | :health_points: | 4 | 4 | 4 | 4 |

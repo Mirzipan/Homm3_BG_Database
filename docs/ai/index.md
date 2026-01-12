@@ -22,14 +22,14 @@ The targeting priorities below assume that conditions are checked from the top a
 | :silver:&nbsp;:ground_unit: | - :silver:<br>- :bronze:<br>- :golden:<br>- :azure: |
 | :golden:&nbsp;:ground_unit: | - :golden:<br>- :silver:<br>- :bronze:<br>- :azure: |
 | :azure:&nbsp;:ground_unit: | - :azure:<br>- :golden:<br>- :silver:<br>- :bronze: |
-| :bronze:&nbsp;:unit_flying: | - :bronze:<br>- :silver:<br>- :golden:<br>- :azure: |
-| :silver:&nbsp;:unit_flying: | - :silver:<br>- :bronze:<br>- :golden:<br>- :azure: |
-| :golden:&nbsp;:unit_flying: | - :golden:<br>- :silver:<br>- :bronze:<br>- :azure: |
-| :azure:&nbsp;:unit_flying: | - :azure:<br>- :golden:<br>- :silver:<br>- :bronze: |
-| :bronze:&nbsp;:unit_ranged: | - :bronze:&nbsp;:unit_ranged:<br>- :silver:&nbsp;:unit_ranged:<br>- :golden:&nbsp;:unit_ranged:<br>- :azure:&nbsp;:unit_ranged:<br>- :bronze:&nbsp;:ground_unit:&nbsp;:unit_flying:<br>- :silver:&nbsp;:ground_unit:&nbsp;:unit_flying:<br>- :golden:&nbsp;:ground_unit:&nbsp;:unit_flying:<br>- :azure:&nbsp;:ground_unit:&nbsp;:unit_flying: |
-| :silver:&nbsp;:unit_ranged: | - :silver:&nbsp;:unit_ranged:<br>- :bronze:&nbsp;:unit_ranged:<br>- :golden:&nbsp;:unit_ranged:<br>- :azure:&nbsp;:unit_ranged:<br>- :silver:&nbsp;:ground_unit:&nbsp;:unit_flying:<br>- :bronze:&nbsp;:ground_unit:&nbsp;:unit_flying:<br>- :golden:&nbsp;:ground_unit:&nbsp;:unit_flying:<br>- :azure:&nbsp;:ground_unit:&nbsp;:unit_flying: |
-| :golden:&nbsp;:unit_ranged: | - :golden:&nbsp;:unit_ranged:<br>- :silver:&nbsp;:unit_ranged:<br>- :bronze:&nbsp;:unit_ranged:<br>- :azure:&nbsp;:unit_ranged:<br>- :golden:&nbsp;:ground_unit:&nbsp;:unit_flying:<br>- :silver:&nbsp;:ground_unit:&nbsp;:unit_flying:<br>- :bronze:&nbsp;:ground_unit:&nbsp;:unit_flying:<br>- :azure:&nbsp;:ground_unit:&nbsp;:unit_flying: |
-| :azure:&nbsp;:unit_ranged: | - :azure:&nbsp;:unit_ranged:<br>- :golden:&nbsp;:unit_ranged:<br>- :silver:&nbsp;:unit_ranged:<br>- :bronze:&nbsp;:unit_ranged:<br>- :azure:&nbsp;:ground_unit:&nbsp;:unit_flying:<br>- :golden:&nbsp;:ground_unit:&nbsp;:unit_flying:<br>- :silver:&nbsp;:ground_unit:&nbsp;:unit_flying:<br>- :bronze:&nbsp;:ground_unit:&nbsp;:unit_flying: |
+| :bronze:&nbsp;:flying_unit: | - :bronze:<br>- :silver:<br>- :golden:<br>- :azure: |
+| :silver:&nbsp;:flying_unit: | - :silver:<br>- :bronze:<br>- :golden:<br>- :azure: |
+| :golden:&nbsp;:flying_unit: | - :golden:<br>- :silver:<br>- :bronze:<br>- :azure: |
+| :azure:&nbsp;:flying_unit: | - :azure:<br>- :golden:<br>- :silver:<br>- :bronze: |
+| :bronze:&nbsp;:unit_ranged: | - :bronze:&nbsp;:unit_ranged:<br>- :silver:&nbsp;:unit_ranged:<br>- :golden:&nbsp;:unit_ranged:<br>- :azure:&nbsp;:unit_ranged:<br>- :bronze:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :silver:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :golden:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :azure:&nbsp;:ground_unit:&nbsp;:flying_unit: |
+| :silver:&nbsp;:unit_ranged: | - :silver:&nbsp;:unit_ranged:<br>- :bronze:&nbsp;:unit_ranged:<br>- :golden:&nbsp;:unit_ranged:<br>- :azure:&nbsp;:unit_ranged:<br>- :silver:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :bronze:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :golden:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :azure:&nbsp;:ground_unit:&nbsp;:flying_unit: |
+| :golden:&nbsp;:unit_ranged: | - :golden:&nbsp;:unit_ranged:<br>- :silver:&nbsp;:unit_ranged:<br>- :bronze:&nbsp;:unit_ranged:<br>- :azure:&nbsp;:unit_ranged:<br>- :golden:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :silver:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :bronze:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :azure:&nbsp;:ground_unit:&nbsp;:flying_unit: |
+| :azure:&nbsp;:unit_ranged: | - :azure:&nbsp;:unit_ranged:<br>- :golden:&nbsp;:unit_ranged:<br>- :silver:&nbsp;:unit_ranged:<br>- :bronze:&nbsp;:unit_ranged:<br>- :azure:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :golden:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :silver:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :bronze:&nbsp;:ground_unit:&nbsp;:flying_unit: |
 
 In case there's more than one valid target, attack the closest one. If there is a tie between equally valid targets, the player chooses which [Unit](../units/index.md) to attack.
 
