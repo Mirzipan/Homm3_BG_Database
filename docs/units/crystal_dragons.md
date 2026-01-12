@@ -17,7 +17,7 @@
 | :--- | :---: | :---: |
 | Town | [Neutral](../towns/neutral.md) | - |
 | Tier | :azure: | - |
-| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 7 | 6 |
 | :defense: | 3 | 2 |
 | :health_points: | 9 | 6 |

@@ -51,20 +51,20 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| [Gnolls](../units/gnolls.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 3 | 4 | 2 :gold: | - |
-| [Gnolls](../units/gnolls.md) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | **4** | **5** | 3 :gold: | - |
+| [Gnolls](../units/gnolls.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 4 | 2 :gold: | - |
+| [Gnolls](../units/gnolls.md) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | **4** | **5** | 3 :gold: | - |
 | [Lizardmen](../units/lizardmen.md) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 3 | 4 | 3 :gold: | - |
 | [Lizardmen](../units/lizardmen.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | **3** | 0 | 3 | **5** | 5 :gold: | - |
 | [Dragon Flies](../units/dragon_flies.md) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 3 | 0 | 3 | 8 | 4 :gold: | :unit_attack: :ongoing: |
 | [Dragon Flies](../units/dragon_flies.md) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 3 | **1** | 3 | **12** | 7 :gold: | :unit_attack: :ongoing: |
-| [Basilisks](../units/basilisks.md) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 1 | 4 | 5 | 6 :gold: | :unit_attack: |
-| [Basilisks](../units/basilisks.md) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 1 | **5** | **7** | 9 :gold: | :unit_attack: |
-| [Gorgons](../units/gorgons.md) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 2 | 5 | 5 | 9 :gold: | - |
-| [Gorgons](../units/gorgons.md) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | **5** | 2 | 5 | **6** | 14 :gold: | :unit_attack: |
+| [Basilisks](../units/basilisks.md) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | 4 | 5 | 6 :gold: | :unit_attack: |
+| [Basilisks](../units/basilisks.md) | Pack | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | **5** | **7** | 9 :gold: | :unit_attack: |
+| [Gorgons](../units/gorgons.md) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 5 | 5 | 9 :gold: | - |
+| [Gorgons](../units/gorgons.md) | Pack | :silver: | [:ground_unit:](../units/index.md#ground-units) | **5** | 2 | 5 | **6** | 14 :gold: | :unit_attack: |
 | [Wyverns](../units/wyverns.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 5 | 1 | 8 | 7 | 12 :gold: | :unit_attack: |
 | [Wyverns](../units/wyverns.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **6** | 1 | 8 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: |
-| [Hydras](../units/hydras.md) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 6 | 3 | 8 | 5 | 20 :gold:<br>1 :valuables: | :unit_attack: |
-| [Hydras](../units/hydras.md) | Pack | :golden: | [:unit_ground:](../units/index.md#ground-units) | **7** | 3 | **10** | **7** | 28 :gold:<br>2 :valuables: | :unit_attack: |
+| [Hydras](../units/hydras.md) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 6 | 3 | 8 | 5 | 20 :gold:<br>1 :valuables: | :unit_attack: |
+| [Hydras](../units/hydras.md) | Pack | :golden: | [:ground_unit:](../units/index.md#ground-units) | **7** | 3 | **10** | **7** | 28 :gold:<br>2 :valuables: | :unit_attack: |
 
 
 ## Comes With

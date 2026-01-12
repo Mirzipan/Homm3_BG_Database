@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |
 | Tier | :golden: | :golden: | :azure: |
-| Type | [:unit_ground:](index.md#ground-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
+| Type | [:ground_unit:](index.md#ground-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
 | :attack: | 6 | 6 | 6 |
 | :defense: | 3 | 3 | 2 |
 | :health_points: | 8 | 8 | 10 |
@@ -34,7 +34,7 @@
 
 ## Notes
 
-- **Pack** - Only the Pack of Titans are a [:unit_ranged:](index.md#ranged-units). Few Titans are a [:unit_ground:](index.md#ground-units).
+- **Pack** - Only the Pack of Titans are a [:unit_ranged:](index.md#ranged-units). Few Titans are a [:ground_unit:](index.md#ground-units).
 - **Few and Pack** - Friendly :ongoing: effects are also ignored.
 - **Few and Pack** - Titans ignore the :ongoing: effects of [Buckler of the Gnoll King](../artifacts/buckler_of_the_gnoll_king.md) and [Greater Gnoll's Flail](../artifacts/greater_gnolls_flail.md), but the :instant: effects still apply.
 - **Few and Pack** - Should the first effect of the [Orb of Inhibition](../artifacts/orb_of_inhibition.md) be played, the Titans will also not be receiving any damage from [spells](../spells/index.md), as the :ongoing: effect of the [Orb of Inhibition](../artifacts/orb_of_inhibition.md) works on [spells](../spells/index.md) in general and doesn't specifically target Titans.
