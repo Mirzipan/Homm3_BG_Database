@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: During this Combat, your :unit_ranged: [units](../units/index.md) ignore the combat penalty.<br><br>— OR —<br><br>:instant: A :unit_ranged: [unit](../units/index.md) of your choice gains +2 :attack:.</p>
+<p style="text-align: center;" markdown>:ongoing: During this Combat, your :ranged_unit: [units](../units/index.md) ignore the combat penalty.<br><br>— OR —<br><br>:instant: A :ranged_unit: [unit](../units/index.md) of your choice gains +2 :attack:.</p>
 ___
 <p style="text-align: center;" markdown>*A chance meeting with a famous Archer finds you in a game of knucklebones pitting his bow against your horse. You win.*</p>
 

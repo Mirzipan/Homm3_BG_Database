@@ -61,8 +61,8 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Wraiths](../units/wraiths.md) | Pack | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | **5** | **7** | 6 :gold: | :activation: |
 | [Vampires](../units/vampires.md) | Few | :silver: | [:flying_unit:](../units/index.md#flying-units) | 4 | 1 | 4 | 6 | 8 :gold: | :unit_attack: |
 | [Vampires](../units/vampires.md) | Pack | :silver: | [:flying_unit:](../units/index.md#flying-units) | **5** | 1 | 4 | **9** | 12 :gold: | :unit_attack: |
-| [Liches](../units/liches.md) | Few | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 1 | 5 | 6 | 8 :gold: | - |
-| [Liches](../units/liches.md) | Pack | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | **4** | 1 | 5 | **7** | 14 :gold: | :unit_attack: |
+| [Liches](../units/liches.md) | Few | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 1 | 5 | 6 | 8 :gold: | - |
+| [Liches](../units/liches.md) | Pack | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | **4** | 1 | 5 | **7** | 14 :gold: | :unit_attack: |
 | [Dread Knights](../units/dread_knights.md) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 5 | 2 | 7 | 7 | 12 :gold: | :unit_attack: |
 | [Dread Knights](../units/dread_knights.md) | Pack | :golden: | [:ground_unit:](../units/index.md#ground-units) | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: |
 | [Ghost Dragons](../units/ghost_dragons.md) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 6 | 3 | 8 | 9 | 19 :gold:<br>1 :valuables: | :activation: |

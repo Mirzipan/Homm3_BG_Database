@@ -55,10 +55,10 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Troglodytes](../units/troglodytes.md) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: |
 | [Harpies](../units/harpies.md) | Few | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | 3 :gold: | :unit_attack: |
 | [Harpies](../units/harpies.md) | Pack | :bronze: | [:flying_unit:](../units/index.md#flying-units) | **3** | 0 | 3 | **9** | 5 :gold: | :unit_attack: |
-| [Evil Eyes](../units/evil_eyes.md) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 0 | 3 | 5 | 4 :gold: | - |
-| [Evil Eyes](../units/evil_eyes.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | **1** | 3 | **7** | 6 :gold: | :unit_passive: |
-| [Medusas](../units/medusas.md) | Few | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 1 | 4 | 5 | 6 :gold: | :unit_passive: |
-| [Medusas](../units/medusas.md) | Pack | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | **4** | 1 | 4 | **6** | 12 :gold: | :unit_passive: :unit_retaliation: |
+| [Evil Eyes](../units/evil_eyes.md) | Few | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 0 | 3 | 5 | 4 :gold: | - |
+| [Evil Eyes](../units/evil_eyes.md) | Pack | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | **1** | 3 | **7** | 6 :gold: | :unit_passive: |
+| [Medusas](../units/medusas.md) | Few | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 1 | 4 | 5 | 6 :gold: | :unit_passive: |
+| [Medusas](../units/medusas.md) | Pack | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | **4** | 1 | 4 | **6** | 12 :gold: | :unit_passive: :unit_retaliation: |
 | [Minotaurs](../units/minotaurs.md) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 4 | 6 | 8 :gold: | :unit_attack: |
 | [Minotaurs](../units/minotaurs.md) | Pack | :silver: | [:ground_unit:](../units/index.md#ground-units) | **5** | 2 | 4 | **8** | 14 :gold: | :unit_attack: |
 | [Manticores](../units/manticores.md) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 5 | 1 | 6 | 7 | 10 :gold: | - |

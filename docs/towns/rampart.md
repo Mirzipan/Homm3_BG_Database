@@ -55,8 +55,8 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Centaurs](../units/centaurs.md) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 0 | 3 | **8** | 3 :gold: | - |
 | [Dwarves](../units/dwarves.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: |
 | [Dwarves](../units/dwarves.md) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 3 | **5** | 4 :gold: | :unit_passive: |
-| [Elves](../units/elves.md) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 1 | 3 | 6 | 4 :gold: | - |
-| [Elves](../units/elves.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | **3** | 1 | 3 | **7** | 7 :gold: | :unit_attack: |
+| [Elves](../units/elves.md) | Few | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 1 | 3 | 6 | 4 :gold: | - |
+| [Elves](../units/elves.md) | Pack | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | **3** | 1 | 3 | **7** | 7 :gold: | :unit_attack: |
 | [Pegasi](../units/pegasi.md) | Few | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 5 | 8 | 6 :gold: | - |
 | [Pegasi](../units/pegasi.md) | Pack | :silver: | [:flying_unit:](../units/index.md#flying-units) | **4** | 0 | **6** | **12** | 10 :gold: | :unit_passive: |
 | [Dendroids](../units/dendroids.md) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 5 | 3 | 8 :gold: | - |

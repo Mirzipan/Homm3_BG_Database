@@ -53,8 +53,8 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Gnolls](../units/gnolls.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 4 | 2 :gold: | - |
 | [Gnolls](../units/gnolls.md) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | **4** | **5** | 3 :gold: | - |
-| [Lizardmen](../units/lizardmen.md) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 3 | 4 | 3 :gold: | - |
-| [Lizardmen](../units/lizardmen.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | **3** | 0 | 3 | **5** | 5 :gold: | - |
+| [Lizardmen](../units/lizardmen.md) | Few | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 3 | 4 | 3 :gold: | - |
+| [Lizardmen](../units/lizardmen.md) | Pack | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | **3** | 0 | 3 | **5** | 5 :gold: | - |
 | [Dragon Flies](../units/dragon_flies.md) | Few | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 3 | 8 | 4 :gold: | :unit_attack: :ongoing: |
 | [Dragon Flies](../units/dragon_flies.md) | Pack | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 3 | **1** | 3 | **12** | 7 :gold: | :unit_attack: :ongoing: |
 | [Basilisks](../units/basilisks.md) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | 4 | 5 | 6 :gold: | :unit_attack: |

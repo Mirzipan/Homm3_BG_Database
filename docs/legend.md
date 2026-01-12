@@ -37,7 +37,7 @@ Quick reference for what the different glyphs mean.
 | :azure: | Azure tier |
 | :ground_unit: | Ground unit |
 | :flying_unit: | Flying unit |
-| :unit_ranged: | Ranged unit |
+| :ranged_unit: | Ranged unit |
 | :attack: | Attack |
 | :defense: | Defense |
 | :health_points: | Health points |
