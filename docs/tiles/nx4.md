@@ -13,7 +13,7 @@ ___
 - [Ⅳ](../difficulties.md) [2 :treasure: → 1](../fields/treasure_symbol.md)
 - [Blocked Field](../fields/blocked_field.md)
 - [Empty Field](../fields/empty_field.md)
-- [:morale_positive: Temple](../fields/temple.md)
+- [:positive_morale: Temple](../fields/temple.md)
 - [Tree of Knowledge](../fields/tree_of_knowledge.md)
 - [Ⅴ](../difficulties.md) [:building_materials: Mine](../fields/mine.md)
 

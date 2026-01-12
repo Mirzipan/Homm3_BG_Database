@@ -15,7 +15,7 @@ ___
 - [Ⅱ](../difficulties.md) [:resource_die:](../fields/resource_symbol.md)
 - [University](../fields/university.md)
 - [Ⅲ](../difficulties.md) [:building_materials: Mine](../fields/mine.md)
-- [:morale_positive: Temple](../fields/temple.md)
+- [:positive_morale: Temple](../fields/temple.md)
 
 
 ## Comes With

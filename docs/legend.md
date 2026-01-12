@@ -98,7 +98,7 @@ Quick reference for what the different glyphs mean.
 | :pay: | Pay |
 | :recruit: | Recruit |
 | :reinforce: | Reinforce |
-| :morale_positive: | Positive morale |
+| :positive_morale: | Positive morale |
 | :morale_negative: | Negative morale |
 | :movement: | Movement point |
 
