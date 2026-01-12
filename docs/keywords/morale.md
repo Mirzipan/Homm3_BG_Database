@@ -40,4 +40,4 @@ Gaining a second Negative Morale Token will result in the player having to disca
 
 ## Notes
 
-- The [Necropolis :necro:](../towns/necropolis.md) ignores any changes in Morale. They can neither gain nor lose Morale.
+- The [Necropolis :necropolis:](../towns/necropolis.md) ignores any changes in Morale. They can neither gain nor lose Morale.

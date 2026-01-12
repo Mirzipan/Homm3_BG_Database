@@ -1,6 +1,6 @@
 # Necropolis
 
-Also shown as :necro:.
+Also shown as :necropolis:.
 
 
 ## Buildings
@@ -71,7 +71,7 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 
 ## Abilities
 
-- :necro: [Necromancy](../abilities/necromancy.md)
+- :necropolis: [Necromancy](../abilities/necromancy.md)
 
 
 ## Comes With

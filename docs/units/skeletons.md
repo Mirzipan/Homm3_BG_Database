@@ -35,7 +35,7 @@
 | :health_points: | 2 | 2 | 3 | 2 |
 | :initiative: | 4 | **5** | 4 | 4 |
 | Cost | 2 :gold: | 3 :gold: | 3 :gold: | - |
-| Abilities | - | - | :unit_passive: After defeating Skeletons, if you control a [:necro: Hero](../towns/necropolis.md#heroes), immediately Reinforce 1 of your :bronze: units. | :unit_passive: Once per Combat. When this unit's :health_points: drops to 0, set it to 1 instead. |
+| Abilities | - | - | :unit_passive: After defeating Skeletons, if you control a [:necropolis: Hero](../towns/necropolis.md#heroes), immediately Reinforce 1 of your :bronze: units. | :unit_passive: Once per Combat. When this unit's :health_points: drops to 0, set it to 1 instead. |
 
 
 ## Heroes With A Specialty
