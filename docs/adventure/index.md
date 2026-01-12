@@ -57,7 +57,7 @@ To get rid of the :paralysis: token, choose the [unit](../units/index.md) for Co
 
 | Name | Battle Reward | Basic Reward |
 | :--- | :--- | :---: |
-| Crypt | 4 ➣ Roll and resolve 1 [:treasure:](../keywords/dice.md#treasure-die).<br>5 ➣ Roll 2 [:treasure:](../keywords/dice.md#treasure-die) and resolve 1 of them.<br>7 ➣ Roll 3 [:treasure:](../keywords/dice.md#treasure-die) and resolve 1 of them. | :experience: [:morale_negative:](../keywords/morale.md#negative) |
+| Crypt | 4 ➣ Roll and resolve 1 [:treasure:](../keywords/dice.md#treasure-die).<br>5 ➣ Roll 2 [:treasure:](../keywords/dice.md#treasure-die) and resolve 1 of them.<br>7 ➣ Roll 3 [:treasure:](../keywords/dice.md#treasure-die) and resolve 1 of them. | :experience: [:negative_morale:](../keywords/morale.md#negative) |
 | Cyclops Stockpile | 6 ➣ Gain 3 :building_materials:.<br>8 ➣ Gain 5 :building_materials: and 1 :valuables:.<br>10 ➣ Gain 8 :building_materials:, 2 :valuables:, and 1 :experience:. | :experience: |
 | Dragon Utopia | 6 ➣ Roll and resolve 1 [:resource_die:](../keywords/dice.md#resource-die). Gain 1 [:artifact:](../artifacts/index.md).<br>10 ➣ Roll and resolve 2 [:resource_die:](../keywords/dice.md#resource-die). Gain 1 [:artifact:](../artifacts/index.md).<br>12 ➣ Roll and resolve 2 [:resource_die:](../keywords/dice.md#resource-die). Gain 2 [:artifact:](../artifacts/index.md) and 1 :experience:. | :experience: |
 | Dwarven Treasury | 6 ➣ Gain 5 :gold: or 1 :valuables:.<br>8 ➣ Gain 5 :gold: and 1 :valuables:.<br>11 ➣ Gain 10 :gold:, 3 :valuables:, and 1 :experience:. | :experience: |

@@ -94,7 +94,7 @@ These fields can be captured by players and provide passive benefits. When you v
 | [Tree of Knowledge](tree_of_knowledge.md) | [Visitable Field](index.md#visitable-field) | You may :pay: 3 :valuables: or 10 :gold: to gain 2 :experience:. |
 | [University](university.md) | [Visitable Field](index.md#visitable-field) | :pay: 6 :gold: to [**Search(4)**](../keywords/search.md) the [Ability](../abilities/index.md) Discard Pile |
 | [War Machine Factory](war_machine_factory.md) | [Revisitable Field](index.md#revisitable-field) | Buy a [War Machine](../war_machines/index.md) |
-| [Warrior's Tomb](warriors_tomb.md) | [Visitable Field](index.md#visitable-field) | [**Search(2)**](../keywords/search.md) [Artifacts](../artifacts/index.md) twice, then gain [:morale_negative:](../keywords/morale.md#negative) token twice. |
+| [Warrior's Tomb](warriors_tomb.md) | [Visitable Field](index.md#visitable-field) | [**Search(2)**](../keywords/search.md) [Artifacts](../artifacts/index.md) twice, then gain [:negative_morale:](../keywords/morale.md#negative) token twice. |
 | [Water Wheel](water_wheel.md) | [Visitable Field](index.md#visitable-field) | Gain 3 :gold:. |
 | [Windmill](windmill.md) | [Visitable Field](index.md#visitable-field) | Gain 1 :valuables:. |
 | [Witch Hut](witch_hut.md) | [Visitable Field](index.md#visitable-field) | Choose one:<br><br>Remove an [Ability](../abilities/index.md) card from your hand<br><br>— OR —<br><br>look at the top card of the [Ability](../abilities/index.md) Deck and put that card into your hand or into the [Ability](../abilities/index.md) Deck Discard Pile. |
