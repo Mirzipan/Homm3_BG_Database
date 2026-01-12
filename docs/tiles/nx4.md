@@ -10,7 +10,7 @@ ___
 ## Fields
 
 - [+3 :gold: Water Wheel](../fields/water_wheel.md)
-- [Ⅳ](../difficulties.md) [2 :treasure: → 1](../fields/treasure_symbol.md)
+- [Ⅳ](../difficulties.md) [2 :treasure_die: → 1](../fields/treasure_symbol.md)
 - [Blocked Field](../fields/blocked_field.md)
 - [Empty Field](../fields/empty_field.md)
 - [:positive_morale: Temple](../fields/temple.md)

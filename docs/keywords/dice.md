@@ -30,7 +30,7 @@ A Resource die (also shown as :resource_die:) is used to determine how much of w
 
 ## Treasure Die
 
-The Treasure Die (also shown as :treasure:) is commonly used to reward the Player.
+The Treasure Die (also shown as :treasure_die:) is commonly used to reward the Player.
 
 | Side | Count | Effect |
 | :---: |  :---: | :--- |
