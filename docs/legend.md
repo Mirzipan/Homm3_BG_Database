@@ -78,7 +78,7 @@ Quick reference for what the different glyphs mean.
 | :---: | :--- |
 | :expert: | Expert effect |
 | :pay: | Pay |
-| :morale_positive: | Positive morale |
+| :positive_morale: | Positive morale |
 | :morale_negative: | Negative morale |
 | :movement: | Movement point |
 
