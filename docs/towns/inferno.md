@@ -52,8 +52,8 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Familiars](../units/familiars.md#few) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 2 | 5 | 2 :gold: | - |
 | [Familiars](../units/familiars.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 2 | **7** | 3 :gold: | :unit_passive: |
-| [Magogs](../units/magogs.md#few) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 2 | 4 | 3 :gold: | - |
-| [Magogs](../units/magogs.md#pack) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | **3** | **6** | 5 :gold: | :unit_attack: |
+| [Magogs](../units/magogs.md#few) | Few | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 2 | 4 | 3 :gold: | - |
+| [Magogs](../units/magogs.md#pack) | Pack | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | **3** | **6** | 5 :gold: | :unit_attack: |
 | [Cerberi](../units/cerberi.md#few) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 3 | 0 | 4 | 7 | 4 :gold: | - |
 | [Cerberi](../units/cerberi.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 3 | **1** | **5** | **8** | 7 :gold: | :unit_attack: |
 | [Demons](../units/demons.md#few) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 5 | 6 :gold: | - |

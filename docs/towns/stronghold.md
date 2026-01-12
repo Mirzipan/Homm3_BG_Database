@@ -36,14 +36,14 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Goblins](../units/goblins.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **2** | 0 | 4 | **7** | 2 :gold: | - |
 | [Wolf Raiders](../units/wolf_raiders.md#few) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 3 | 7 | 3 :gold: | - |
 | [Wolf Raiders](../units/wolf_raiders.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | **4** | **8** | 5 :gold: | :unit_attack: |
-| [Orcs](../units/orcs.md#few) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 1 | 4 | 4 | 4 :gold: | - |
-| [Orcs](../units/orcs.md#pack) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | **3** | 1 | **5** | **5** | 7 :gold: | - |
+| [Orcs](../units/orcs.md#few) | Few | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 1 | 4 | 4 | 4 :gold: | - |
+| [Orcs](../units/orcs.md#pack) | Pack | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | **3** | 1 | **5** | **5** | 7 :gold: | - |
 | [Ogres](../units/ogres.md#few) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 4 | 6 :gold: | :unit_other: |
 | [Ogres](../units/ogres.md#pack) | Pack | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | **6** | **5** | 8 :gold: | :unit_other: |
 | [Thunderbirds](../units/thunderbirds.md#few) | Few | :silver: | [:flying_unit:](../units/index.md#flying-units) | 4 | 1 | 5 | 9 | 8 :gold: | - |
 | [Thunderbirds](../units/thunderbirds.md#pack) | Pack | :silver: | [:flying_unit:](../units/index.md#flying-units) | 4 | 1 | **6** | **11** | 14 :gold: | :unit_passive: |
-| [Cyclops](../units/cyclopes.md#few) | Few | :golden: | [:unit_ranged:](../units/index.md#ranged-units) | 5 | 0 | 6 | 6 | 13 :gold: | :unit_other: |
-| [Cyclops](../units/cyclopes.md#pack) | Pack | :golden: | [:unit_ranged:](../units/index.md#ranged-units) | 5 | **1** | **7** | **8** | 17 :gold:<br>1 :valuables: | :unit_other: |
+| [Cyclops](../units/cyclopes.md#few) | Few | :golden: | [:ranged_unit:](../units/index.md#ranged-units) | 5 | 0 | 6 | 6 | 13 :gold: | :unit_other: |
+| [Cyclops](../units/cyclopes.md#pack) | Pack | :golden: | [:ranged_unit:](../units/index.md#ranged-units) | 5 | **1** | **7** | **8** | 17 :gold:<br>1 :valuables: | :unit_other: |
 | [Behemoths](../units/behemoths.md#few) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 6 | 2 | 9 | 6 | 19 :gold:<br>1 :valuables: | :unit_attack: |
 | [Behemoths](../units/behemoths.md#pack) | Pack | :golden: | [:ground_unit:](../units/index.md#ground-units) | **7** | 2 | **10** | **9** | 29 :gold:<br>2 :valuables: | :unit_attack: |
 

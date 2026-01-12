@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
+| Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 2 | **3** | 2 |
 | :defense: | 0 | 0 | 0 |
 | :health_points: | 4 | **5** | 4 |

@@ -9,7 +9,7 @@
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
 | Tier | :golden: |
-| Type | [:unit_ranged:](index.md#ranged-units) |
+| Type | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 4 |
 | :defense: | 1 |
 | :health_points: | 5 |
