@@ -85,7 +85,7 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :treasure: | [Treasure die](keywords/dice.md#treasure-die) |
+| :treasure_die: | [Treasure die](keywords/dice.md#treasure-die) |
 | :resource_die: | [Resource die](keywords/dice.md#resource-die) |
 
 ## Miscellaneous
