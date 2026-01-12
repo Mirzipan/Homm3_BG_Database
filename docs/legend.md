@@ -47,7 +47,7 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :necro: | Necropolis |
+| :necropolis: | Necropolis |
 
 ## Effects And Abilities
 
