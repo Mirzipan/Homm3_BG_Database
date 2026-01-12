@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-28 22:47+0000\n"
+"POT-Creation-Date: 2026-01-12 07:52+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,44 +17,24 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. type: Title ##
-#: docs/abilities/air_magic.md docs/abilities/air_magic_empowered.md
-#: docs/abilities/archery.md docs/abilities/archery_empowered.md
-#: docs/abilities/armorer.md docs/abilities/armorer_empowered.md
-#: docs/abilities/artillery.md docs/abilities/artillery_empowered.md
-#: docs/abilities/ballistics.md docs/abilities/ballistics_empowered.md
-#: docs/abilities/basic_air_magic.md
-#: docs/abilities/basic_air_magic_empowered.md
-#: docs/abilities/basic_earth_magic.md
-#: docs/abilities/basic_earth_magic_empowered.md
-#: docs/abilities/basic_fire_magic.md
-#: docs/abilities/basic_fire_magic_empowered.md
-#: docs/abilities/basic_water_magic.md
-#: docs/abilities/basic_water_magic_empowered.md docs/abilities/diplomacy.md
-#: docs/abilities/diplomacy_empowered.md docs/abilities/eagle_eye.md
-#: docs/abilities/eagle_eye_empowered.md docs/abilities/earth_magic.md
-#: docs/abilities/earth_magic_empowered.md docs/abilities/estates.md
-#: docs/abilities/estates_empowered.md docs/abilities/fire_magic.md
-#: docs/abilities/fire_magic_empowered.md docs/abilities/first_aid.md
-#: docs/abilities/first_aid_empowered.md docs/abilities/intelligence.md
-#: docs/abilities/intelligence_empowered.md docs/abilities/interference.md
-#: docs/abilities/interference_empowered.md docs/abilities/leadership.md
-#: docs/abilities/leadership_empowered.md docs/abilities/learning.md
-#: docs/abilities/learning_empowered.md docs/abilities/logistics.md
-#: docs/abilities/logistics_empowered.md docs/abilities/luck.md
-#: docs/abilities/luck_empowered.md docs/abilities/mysticism.md
-#: docs/abilities/mysticism_empowered.md docs/abilities/necromancy.md
-#: docs/abilities/necromancy_empowered.md docs/abilities/offense.md
-#: docs/abilities/offense_empowered.md docs/abilities/pathfinding.md
-#: docs/abilities/pathfinding_empowered.md docs/abilities/resistance.md
-#: docs/abilities/resistance_empowered.md docs/abilities/scholar.md
-#: docs/abilities/scholar_empowered.md docs/abilities/scouting.md
-#: docs/abilities/scouting_empowered.md docs/abilities/sorcery.md
-#: docs/abilities/sorcery_empowered.md docs/abilities/tactics.md
-#: docs/abilities/tactics_empowered.md docs/abilities/water_magic.md
-#: docs/abilities/water_magic_empowered.md docs/abilities/wisdom.md
-#: docs/abilities/wisdom_empowered.md docs/artifacts/ambassadors_sash.md
-#: docs/artifacts/angel_wings.md docs/artifacts/armor_of_wonder.md
-#: docs/artifacts/arms_of_legion.md
+#: docs/abilities/air_magic.md docs/abilities/archery.md
+#: docs/abilities/armorer.md docs/abilities/artillery.md
+#: docs/abilities/ballistics.md docs/abilities/basic_air_magic.md
+#: docs/abilities/basic_earth_magic.md docs/abilities/basic_fire_magic.md
+#: docs/abilities/basic_water_magic.md docs/abilities/diplomacy.md
+#: docs/abilities/eagle_eye.md docs/abilities/earth_magic.md
+#: docs/abilities/estates.md docs/abilities/fire_magic.md
+#: docs/abilities/first_aid.md docs/abilities/intelligence.md
+#: docs/abilities/interference.md docs/abilities/leadership.md
+#: docs/abilities/learning.md docs/abilities/logistics.md
+#: docs/abilities/luck.md docs/abilities/mysticism.md
+#: docs/abilities/necromancy.md docs/abilities/offense.md
+#: docs/abilities/pathfinding.md docs/abilities/resistance.md
+#: docs/abilities/scholar.md docs/abilities/scouting.md
+#: docs/abilities/sorcery.md docs/abilities/tactics.md
+#: docs/abilities/water_magic.md docs/abilities/wisdom.md
+#: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
+#: docs/artifacts/armor_of_wonder.md docs/artifacts/arms_of_legion.md
 #: docs/artifacts/blackshard_of_the_dead_knight.md
 #: docs/artifacts/boots_of_polarity.md docs/artifacts/boots_of_speed.md
 #: docs/artifacts/bowstring_of_the_unicorns_mane.md
@@ -294,44 +274,24 @@ msgid "Comes With"
 msgstr "Viene Con"
 
 #. type: Title ##
-#: docs/abilities/air_magic.md docs/abilities/air_magic_empowered.md
-#: docs/abilities/archery.md docs/abilities/archery_empowered.md
-#: docs/abilities/armorer.md docs/abilities/armorer_empowered.md
-#: docs/abilities/artillery.md docs/abilities/artillery_empowered.md
-#: docs/abilities/ballistics.md docs/abilities/ballistics_empowered.md
-#: docs/abilities/basic_air_magic.md
-#: docs/abilities/basic_air_magic_empowered.md
-#: docs/abilities/basic_earth_magic.md
-#: docs/abilities/basic_earth_magic_empowered.md
-#: docs/abilities/basic_fire_magic.md
-#: docs/abilities/basic_fire_magic_empowered.md
-#: docs/abilities/basic_water_magic.md
-#: docs/abilities/basic_water_magic_empowered.md docs/abilities/diplomacy.md
-#: docs/abilities/diplomacy_empowered.md docs/abilities/eagle_eye.md
-#: docs/abilities/eagle_eye_empowered.md docs/abilities/earth_magic.md
-#: docs/abilities/earth_magic_empowered.md docs/abilities/estates.md
-#: docs/abilities/estates_empowered.md docs/abilities/fire_magic.md
-#: docs/abilities/fire_magic_empowered.md docs/abilities/first_aid.md
-#: docs/abilities/first_aid_empowered.md docs/abilities/intelligence.md
-#: docs/abilities/intelligence_empowered.md docs/abilities/interference.md
-#: docs/abilities/interference_empowered.md docs/abilities/leadership.md
-#: docs/abilities/leadership_empowered.md docs/abilities/learning.md
-#: docs/abilities/learning_empowered.md docs/abilities/logistics.md
-#: docs/abilities/logistics_empowered.md docs/abilities/luck.md
-#: docs/abilities/luck_empowered.md docs/abilities/mysticism.md
-#: docs/abilities/mysticism_empowered.md docs/abilities/necromancy.md
-#: docs/abilities/necromancy_empowered.md docs/abilities/offense.md
-#: docs/abilities/offense_empowered.md docs/abilities/pathfinding.md
-#: docs/abilities/pathfinding_empowered.md docs/abilities/resistance.md
-#: docs/abilities/resistance_empowered.md docs/abilities/scholar.md
-#: docs/abilities/scholar_empowered.md docs/abilities/scouting.md
-#: docs/abilities/scouting_empowered.md docs/abilities/sorcery.md
-#: docs/abilities/sorcery_empowered.md docs/abilities/tactics.md
-#: docs/abilities/tactics_empowered.md docs/abilities/water_magic.md
-#: docs/abilities/water_magic_empowered.md docs/abilities/wisdom.md
-#: docs/abilities/wisdom_empowered.md docs/artifacts/ambassadors_sash.md
-#: docs/artifacts/angel_wings.md docs/artifacts/armor_of_wonder.md
-#: docs/artifacts/arms_of_legion.md
+#: docs/abilities/air_magic.md docs/abilities/archery.md
+#: docs/abilities/armorer.md docs/abilities/artillery.md
+#: docs/abilities/ballistics.md docs/abilities/basic_air_magic.md
+#: docs/abilities/basic_earth_magic.md docs/abilities/basic_fire_magic.md
+#: docs/abilities/basic_water_magic.md docs/abilities/diplomacy.md
+#: docs/abilities/eagle_eye.md docs/abilities/earth_magic.md
+#: docs/abilities/estates.md docs/abilities/fire_magic.md
+#: docs/abilities/first_aid.md docs/abilities/intelligence.md
+#: docs/abilities/interference.md docs/abilities/leadership.md
+#: docs/abilities/learning.md docs/abilities/logistics.md
+#: docs/abilities/luck.md docs/abilities/mysticism.md
+#: docs/abilities/necromancy.md docs/abilities/offense.md
+#: docs/abilities/pathfinding.md docs/abilities/resistance.md
+#: docs/abilities/scholar.md docs/abilities/scouting.md
+#: docs/abilities/sorcery.md docs/abilities/tactics.md
+#: docs/abilities/water_magic.md docs/abilities/wisdom.md
+#: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
+#: docs/artifacts/armor_of_wonder.md docs/artifacts/arms_of_legion.md
 #: docs/artifacts/blackshard_of_the_dead_knight.md
 #: docs/artifacts/boots_of_polarity.md docs/artifacts/boots_of_speed.md
 #: docs/artifacts/bowstring_of_the_unicorns_mane.md
@@ -779,7 +739,7 @@ msgid "Heroes"
 msgstr "Héroes"
 
 #. type: Title ##
-#: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
 #: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/index.md
 #: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/rampart.md
 #: docs/towns/stronghold.md docs/towns/tower.md
@@ -854,7 +814,7 @@ msgstr "Necrópolis"
 
 #. type: Plain text
 #: docs/towns/necropolis.md
-msgid "Also shown as :necro:."
+msgid "Also shown as :necropolis:."
 msgstr ""
 
 #. type: Plain text
@@ -915,7 +875,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "| Name | Class | Ability | Specialty |\n"
-"| : --- | :--- | :--- | :--- |\n"
+"| :--- | :--- | :--- | :--- |\n"
 "| [Lord Haart](../heroes/lord_haart_necropolis.md) | :might: Death Knight | [Necromancy](../abilities/necromancy.md) | [Dread Knights](../heroes/lord_haart_necropolis.md#specialty) |\n"
 "| [Moandor](../heroes/moandor.md) | :might: Death Knight | [Necromancy](../abilities/necromancy.md) | [Liches](../heroes/moandor.md#specialty) |\n"
 "| [Sandro](../heroes/sandro.md) | :magic: Necromancer | [Sorcery](../abilities/sorcery.md) | [Cloak of the Undead King](../heroes/sandro.md#specialty) |\n"
@@ -929,24 +889,26 @@ msgstr ""
 #, no-wrap
 msgid ""
 "| Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |\n"
-"| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |\n"
-"| [Skeletons](../units/skeletons.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - |\n"
-"| [Skeletons](../units/skeletons.md) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | - |\n"
-"| [Zombies](../units/zombies.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: |\n"
-"| [Zombies](../units/zombies.md) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 3 | **4** | 4 :gold: | :unit_passive: |\n"
-"| [Wraiths](../units/wraiths.md) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 3 | 0 | 3 | 5 | 4 :gold: | :activation: |\n"
-"| [Wraiths](../units/wraiths.md) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 3 | 0 | **5** | **7** | 6 :gold: | :activation: |\n"
-"| [Vampires](../units/vampires.md) | Few | :silver: | [:unit_flying:](../units/index.md#flying-units) | 4 | 1 | 4 | 6 | 8 :gold: | :unit_attack: |\n"
-"| [Vampires](../units/vampires.md) | Pack | :silver: | [:unit_flying:](../units/index.md#flying-units) | **5** | 1 | 4 | **9** | 12 :gold: | :unit_attack: |\n"
-"| [Liches](../units/liches.md) | Few | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 1 | 5 | 6 | 8 :gold: | - |\n"
-"| [Liches](../units/liches.md) | Pack | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | **4** | 1 | 5 | **7** | 14 :gold: | :unit_attack: |\n"
-"| [Dread Knights](../units/dread_knights.md) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 5 | 2 | 7 | 7 | 12 :gold: | :unit_attack: |\n"
-"| [Dread Knights](../units/dread_knights.md) | Pack | :golden: | [:unit_ground:](../units/index.md#ground-units) | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: |\n"
-"| [Ghost Dragons](../units/ghost_dragons.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 6 | 3 | 8 | 9 | 19 :gold:<br>1 :valuables: | :activation: |\n"
-"| [Ghost Dragons](../units/ghost_dragons.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **7** | 3 | **9** | **14** | 32 :gold:<br>2 :valuables: | :activation: :unit_attack: |\n"
+"| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |\n"
+"| [Skeletons](../units/skeletons.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - |\n"
+"| [Skeletons](../units/skeletons.md) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | - |\n"
+"| [Zombies](../units/zombies.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: |\n"
+"| [Zombies](../units/zombies.md) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | **4** | 4 :gold: | :unit_passive: |\n"
+"| [Wraiths](../units/wraiths.md) | Few | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 3 | 5 | 4 :gold: | :activation: |\n"
+"| [Wraiths](../units/wraiths.md) | Pack | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | **5** | **7** | 6 :gold: | :activation: |\n"
+"| [Vampires](../units/vampires.md) | Few | :silver: | [:flying_unit:](../units/index.md#flying-units) | 4 | 1 | 4 | 6 | 8 :gold: | :unit_attack: |\n"
+"| [Vampires](../units/vampires.md) | Pack | :silver: | [:flying_unit:](../units/index.md#flying-units) | **5** | 1 | 4 | **9** | 12 :gold: | :unit_attack: |\n"
+"| [Liches](../units/liches.md) | Few | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 1 | 5 | 6 | 8 :gold: | - |\n"
+"| [Liches](../units/liches.md) | Pack | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | **4** | 1 | 5 | **7** | 14 :gold: | :unit_attack: |\n"
+"| [Dread Knights](../units/dread_knights.md) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 5 | 2 | 7 | 7 | 12 :gold: | :unit_attack: |\n"
+"| [Dread Knights](../units/dread_knights.md) | Pack | :golden: | [:ground_unit:](../units/index.md#ground-units) | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: |\n"
+"| [Ghost Dragons](../units/ghost_dragons.md) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 6 | 3 | 8 | 9 | 19 :gold:<br>1 :valuables: | :activation: |\n"
+"| [Ghost Dragons](../units/ghost_dragons.md) | Pack | :golden: | [:flying_unit:](../units/index.md#flying-units) | **7** | 3 | **9** | **14** | 32 :gold:<br>2 :valuables: | :activation: :unit_attack: |\n"
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/towns/necropolis.md
-msgid ":necro: [Necromancy](../abilities/necromancy.md)"
+#, fuzzy
+#| msgid ":necro: [Necromancy](../abilities/necromancy.md)"
+msgid ":necropolis: [Necromancy](../abilities/necromancy.md)"
 msgstr ":necro: [Nigromancia](../abilities/necromancy.md)"

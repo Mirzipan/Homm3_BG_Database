@@ -35,7 +35,7 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Gain :morale_positive: and 1 :gold:. |
+| Ⅰ | :instant: Gain :positive_morale: and 1 :gold:. |
 | Ⅳ | :instant: Roll 2 [:resource_die:](../keywords/dice.md) and resolve one of them.</br>Gain 1 :gold:. |
 | Ⅵ | :map_effect: During this turn, the number of dice you roll and resolve at locations is increased by 1. Gain 1 :gold:. |
 

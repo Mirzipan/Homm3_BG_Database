@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-01-07 06:02+0000\n"
+"POT-Creation-Date: 2026-01-12 07:52+0000\n"
 "PO-Revision-Date: 2025-02-20 08:59+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
@@ -733,20 +733,20 @@ msgstr "Unidades"
 msgid "Heroes"
 msgstr "Héroes"
 
-#. type: Title #
-#: docs/towns/castle.md
-#, no-wrap
-msgid "Castle"
-msgstr "Castillo"
-
 #. type: Title ##
-#: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
 #: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/index.md
 #: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/rampart.md
 #: docs/towns/stronghold.md docs/towns/tower.md
 #, no-wrap
 msgid "Buildings"
 msgstr "Edificios"
+
+#. type: Title #
+#: docs/towns/castle.md
+#, no-wrap
+msgid "Castle"
+msgstr "Castillo"
 
 #. type: Plain text
 #: docs/towns/castle.md docs/towns/dungeon.md docs/towns/fortress.md
@@ -837,7 +837,18 @@ msgstr ""
 
 #. type: Plain text
 #: docs/towns/castle.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "| Name | Building Cost | Effect |\n"
+#| "| :--- | ---: | :---: |\n"
+#| "| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: +1:movement: |\n"
+#| "| Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |\n"
+#| "| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 6 :gold: to **Search(2)** [:spell:](../spells/index.md). |\n"
+#| "| Towers | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |\n"
+#| "| Holy Grounds | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |\n"
+#| "| Glory of Erathia | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |\n"
+#| "| Brotherhood of the Sword | 8 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, gain a :morale_positive:. |\n"
+#| "| Blacksmith | 4 :gold:<br>3 :building_materials:<br>0 :valuables: | During your turn, choose one:<br><br>**1.** Remove an [:artifact:](../artifacts/index.md) card from your hand to gain 4 :gold:.<br><br>**2.** :pay: 6 :gold: to **Search(2)** [:artifact:](../artifacts/index.md). |\n"
 msgid ""
 "| Name | Building Cost | Effect |\n"
 "| :--- | ---: | :---: |\n"
@@ -847,7 +858,7 @@ msgid ""
 "| Towers | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |\n"
 "| Holy Grounds | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |\n"
 "| Glory of Erathia | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |\n"
-"| Brotherhood of the Sword | 8 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, gain a :morale_positive:. |\n"
+"| Brotherhood of the Sword | 8 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, gain a :positive_morale:. |\n"
 "| Blacksmith | 4 :gold:<br>3 :building_materials:<br>0 :valuables: | During your turn, choose one:<br><br>**1.** Remove an [:artifact:](../artifacts/index.md) card from your hand to gain 4 :gold:.<br><br>**2.** :pay: 6 :gold: to **Search(2)** [:artifact:](../artifacts/index.md). |\n"
 msgstr ""
 "| Nombre | Coste de Construcción | Efecto |\n"
@@ -866,7 +877,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "| Name | Class | Ability | Specialty |\n"
-"| : --- | :--- | :--- | :--- |\n"
+"| :--- | :--- | :--- | :--- |\n"
 "| [Adelaide](../heroes/adelaide.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Frost Ring](../heroes/adelaide.md#specialty) |\n"
 "| [Catherine](../heroes/catherine.md) | :might: Knight | [Leadership](../abilities/leadership.md) | [Crusaders](../heroes/catherine.md#specialty) |\n"
 "| [Ingham](../heroes/ingham.md) | :magic: Cleric | [Mysticism](../abilities/mysticism.md) | [Zealots](../heroes/ingham.md#specialty) |\n"
@@ -889,19 +900,19 @@ msgstr "Para la versión \"Pocos\" y \"Manada\" de la misma unidad, los cambios 
 #, no-wrap
 msgid ""
 "| Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |\n"
-"| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |\n"
-"| [Halberdiers](../units/halberdiers.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - |\n"
-"| [Halberdiers](../units/halberdiers.md) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: |\n"
-"| [Marksmen](../units/marksmen.md) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 2 | 4 | 3 :gold: | - |\n"
-"| [Marksmen](../units/marksmen.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 2 | **6** | 5 :gold: | :unit_attack: |\n"
-"| [Griffins](../units/griffins.md) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 4 | 6 | 4 :gold: | :unit_retaliation: |\n"
-"| [Griffins](../units/griffins.md) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | **3** | 0 | 4 | **9** | 6 :gold: | :unit_retaliation: |\n"
-"| [Crusaders](../units/crusaders.md) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 3 | 2 | 4 | 5 | 6 :gold: | - |\n"
-"| [Crusaders](../units/crusaders.md) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | **4** | 2 | 4 | **6** | 10 :gold: | :unit_attack: |\n"
-"| [Zealots](../units/zealots.md) | Few | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 1 | 5 | 5 | 8 :gold: | - |\n"
-"| [Zealots](../units/zealots.md) | Pack | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | **4** | 1 | 5 | **7** | 12 :gold: | :unit_passive: |\n"
-"| [Champions](../units/champions.md) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 5 | 2 | 7 | 7 | 12 :gold: | :map_effect: |\n"
-"| [Champions](../units/champions.md) | Pack | :golden: | [:unit_ground:](../units/index.md#ground-units) | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: |\n"
-"| [Archangels](../units/archangels.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 6 | 3 | 8 | 12 | 20 :gold:<br>1 :valuables: | :unit_passive: |\n"
-"| [Archangels](../units/archangels.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **7** | 3 | **10** | **18** | 30 :gold:<br>2 :valuables: | :unit_passive: |\n"
+"| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |\n"
+"| [Halberdiers](../units/halberdiers.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - |\n"
+"| [Halberdiers](../units/halberdiers.md) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: |\n"
+"| [Marksmen](../units/marksmen.md) | Few | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 2 | 4 | 3 :gold: | - |\n"
+"| [Marksmen](../units/marksmen.md) | Pack | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 2 | **6** | 5 :gold: | :unit_attack: |\n"
+"| [Griffins](../units/griffins.md) | Few | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 4 | 6 | 4 :gold: | :unit_retaliation: |\n"
+"| [Griffins](../units/griffins.md) | Pack | :bronze: | [:flying_unit:](../units/index.md#flying-units) | **3** | 0 | 4 | **9** | 6 :gold: | :unit_retaliation: |\n"
+"| [Crusaders](../units/crusaders.md) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 5 | 6 :gold: | - |\n"
+"| [Crusaders](../units/crusaders.md) | Pack | :silver: | [:ground_unit:](../units/index.md#ground-units) | **4** | 2 | 4 | **6** | 10 :gold: | :unit_attack: |\n"
+"| [Zealots](../units/zealots.md) | Few | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 1 | 5 | 5 | 8 :gold: | - |\n"
+"| [Zealots](../units/zealots.md) | Pack | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | **4** | 1 | 5 | **7** | 12 :gold: | :unit_passive: |\n"
+"| [Champions](../units/champions.md) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 5 | 2 | 7 | 7 | 12 :gold: | :map_effect: |\n"
+"| [Champions](../units/champions.md) | Pack | :golden: | [:ground_unit:](../units/index.md#ground-units) | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: |\n"
+"| [Archangels](../units/archangels.md) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 6 | 3 | 8 | 12 | 20 :gold:<br>1 :valuables: | :unit_passive: |\n"
+"| [Archangels](../units/archangels.md) | Pack | :golden: | [:flying_unit:](../units/index.md#flying-units) | **7** | 3 | **10** | **18** | 30 :gold:<br>2 :valuables: | :unit_passive: |\n"
 msgstr ""

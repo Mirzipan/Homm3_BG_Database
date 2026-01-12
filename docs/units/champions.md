@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |
 | Tier | :golden: | :golden: | :golden: |
-| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 5 | **6** | 4 |
 | :defense: | 2 | 2 | 2 |
 | :health_points: | 7 | 7 | 6 |

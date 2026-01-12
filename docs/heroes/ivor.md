@@ -36,7 +36,7 @@ ___
 | Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Set all dice of the next attack roll to "0". |
-| Ⅳ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for a [:unit_ranged: unit](../units/index.md#ranged-units). |
+| Ⅳ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for a [:ranged_unit: unit](../units/index.md#ranged-units). |
 | Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 2.<br><br>— OR —<br><br>:instant: Instead of rolling, set all dice of your roll to the values of your choice. |
 
 

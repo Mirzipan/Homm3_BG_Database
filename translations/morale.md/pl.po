@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-30 23:24+0100\n"
+"POT-Creation-Date: 2026-01-12 07:52+0000\n"
 "PO-Revision-Date: 2025-12-28 22:47+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -110,12 +110,12 @@ msgstr ""
 msgid ""
 "| Current Morale | Effect | Outcome |\n"
 "| :---: | :---: | :---: |\n"
-"| Neutral Morale | Gain :morale_positive:. | :morale_positive: |\n"
-"| Neutral Morale | Gain :morale_negative:. | :morale_negative: |\n"
-"| :morale_positive: | Gain :morale_positive:. | :morale_positive:<br>You may spend existing token right before gaining a new one. |\n"
-"| :morale_positive: | Gain :morale_negative:. | Neutral Morale |\n"
-"| :morale_negative: | Gain :morale_positive:. | Neutral Morale |\n"
-"| :morale_negative: | Gain :morale_negative:. | Neutral Morale<br>Discard your hand of cards the next time you end your Turn. |\n"
+"| Neutral Morale | Gain :positive_morale:. | :positive_morale: |\n"
+"| Neutral Morale | Gain :negative_morale:. | :negative_morale: |\n"
+"| :positive_morale: | Gain :positive_morale:. | :positive_morale:<br>You may spend existing token right before gaining a new one. |\n"
+"| :positive_morale: | Gain :negative_morale:. | Neutral Morale |\n"
+"| :negative_morale: | Gain :positive_morale:. | Neutral Morale |\n"
+"| :negative_morale: | Gain :negative_morale:. | Neutral Morale<br>Discard your hand of cards the next time you end your Turn. |\n"
 msgstr ""
 
 #. type: Title ##
@@ -126,7 +126,7 @@ msgstr ""
 
 #. type: Plain text
 #: docs/keywords/morale.md
-msgid "Also shown as :morale_positive:."
+msgid "Also shown as :positive_morale:."
 msgstr ""
 
 #. type: Plain text
@@ -164,7 +164,7 @@ msgstr "Tryb Kooperacyjy"
 
 #. type: Plain text
 #: docs/keywords/morale.md
-msgid "Also shown as :morale_negative:."
+msgid "Also shown as :negative_morale:."
 msgstr ""
 
 #. type: Plain text
@@ -180,5 +180,5 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/morale.md
-msgid "The [Necropolis :necro:](../towns/necropolis.md) ignores any changes in Morale. They can neither gain nor lose Morale."
+msgid "The [Necropolis :necropolis:](../towns/necropolis.md) ignores any changes in Morale. They can neither gain nor lose Morale."
 msgstr ""

@@ -35,7 +35,7 @@
 ## Heroes
 
 | Name | Class | Ability | Specialty |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Cyra](../heroes/cyra.md) | :magic: Wizard | [Diplomacy](../abilities/diplomacy.md) | [Haste](../heroes/cyra.md#specialty) |
 | [Dracon](../heroes/dracon.md) | :magic: Wizard | [Wisdom](../abilities/wisdom.md) | [Enchanters](../heroes/dracon.md#specialty) |
 | [Iona](../heroes/iona.md) | :might: Alchemist | [Intelligence](../abilities/intelligence.md) | [Genies](../heroes/iona.md#specialty) |
@@ -49,21 +49,21 @@
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| [Gremlins](../units/gremlins.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 0 | 2 | 4 | 0 :gold: | - |
-| [Gremlins](../units/gremlins.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 2 | **5** | 2 :gold: | - |
-| [Gargoyles](../units/gargoyles.md) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 1 | 3 | 6 | 3 :gold: | :unit_passive: :ongoing: |
-| [Gargoyles](../units/gargoyles.md) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | **3** | 1 | 3 | **9** | 4 :gold: | :unit_passive: :ongoing: |
-| [Iron Golems](../units/iron_golems.md) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 3 | 1 | 3 | 4 | 4 :gold: | :unit_passive: |
-| [Iron Golems](../units/iron_golems.md) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 3 | **2** | 3 | **5** | 7 :gold: | :unit_passive: |
-| [Magi](../units/magi.md) | Few | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 0 | 4 | 5 | 6 :gold: | :unit_attack: |
-| [Magi](../units/magi.md) | Pack | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | **4** | **1** | 4 | 6 | 11 :gold: | :unit_attack: :activation: |
-| [Genies](../units/genies.md) | Few | :silver: | [:unit_flying:](../units/index.md#flying-units) | 3 | 1 | 6 | 7 | 8 :gold: | :unit_other: |
-| [Genies](../units/genies.md) | Pack | :silver: | [:unit_flying:](../units/index.md#flying-units) | **4** | 1 | 6 | **8** | 12 :gold: | :unit_attack: |
-| [Nagas](../units/nagas.md) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 5 | 2 | 7 | 6 | 13 :gold: | :unit_attack: |
-| [Nagas](../units/nagas.md) | Pack | :golden: | [:unit_ground:](../units/index.md#ground-units) | **6** | 2 | 7 | **8** | 18 :gold:<br>1 :valuables: | :unit_attack: |
-| [Titans](../units/titans.md) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 6 | 3 | 8 | 7 | 18 :gold:<br>1 :valuables: | :unit_passive: :ongoing: |
-| [Titans](../units/titans.md) | Pack | :golden: | [:unit_ranged:](../units/index.md#ranged-units) | 6 | 3 | 8 | **11** | 32 :gold:<br>2 :valuables: | :unit_passive: :ongoing: |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| [Gremlins](../units/gremlins.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 2 | 4 | 0 :gold: | - |
+| [Gremlins](../units/gremlins.md) | Pack | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 2 | **5** | 2 :gold: | - |
+| [Gargoyles](../units/gargoyles.md) | Few | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 1 | 3 | 6 | 3 :gold: | :unit_passive: :ongoing: |
+| [Gargoyles](../units/gargoyles.md) | Pack | :bronze: | [:flying_unit:](../units/index.md#flying-units) | **3** | 1 | 3 | **9** | 4 :gold: | :unit_passive: :ongoing: |
+| [Iron Golems](../units/iron_golems.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 3 | 1 | 3 | 4 | 4 :gold: | :unit_passive: |
+| [Iron Golems](../units/iron_golems.md) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 3 | **2** | 3 | **5** | 7 :gold: | :unit_passive: |
+| [Magi](../units/magi.md) | Few | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 0 | 4 | 5 | 6 :gold: | :unit_attack: |
+| [Magi](../units/magi.md) | Pack | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | **4** | **1** | 4 | 6 | 11 :gold: | :unit_attack: :activation: |
+| [Genies](../units/genies.md) | Few | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | 6 | 7 | 8 :gold: | :unit_other: |
+| [Genies](../units/genies.md) | Pack | :silver: | [:flying_unit:](../units/index.md#flying-units) | **4** | 1 | 6 | **8** | 12 :gold: | :unit_attack: |
+| [Nagas](../units/nagas.md) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 5 | 2 | 7 | 6 | 13 :gold: | :unit_attack: |
+| [Nagas](../units/nagas.md) | Pack | :golden: | [:ground_unit:](../units/index.md#ground-units) | **6** | 2 | 7 | **8** | 18 :gold:<br>1 :valuables: | :unit_attack: |
+| [Titans](../units/titans.md) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 6 | 3 | 8 | 7 | 18 :gold:<br>1 :valuables: | :unit_passive: :ongoing: |
+| [Titans](../units/titans.md) | Pack | :golden: | [:ranged_unit:](../units/index.md#ranged-units) | 6 | 3 | 8 | **11** | 32 :gold:<br>2 :valuables: | :unit_passive: :ongoing: |
 
 
 ## Comes With

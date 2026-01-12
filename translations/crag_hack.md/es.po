@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-01-12 07:52+0000\n"
 "PO-Revision-Date: 2025-02-20 13:54+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
@@ -951,7 +951,7 @@ msgstr "![Héroe](../assets/astrologers_proclaim-hero.webp){ width=\"475\" align
 #. type: Plain text
 #: docs/astrologers_proclaim/crag_hack.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>For the first Combat this round, all [:unit_ground: units](../units/index.md) gain +1 :attack:. The faction controlling [Crag Hack](../heroes/crag_hack.md) can [Reinforce](../keywords/reinforce.md) [Goblins](../units/goblins.md) for free once.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>For the first Combat this round, all [:ground_unit: units](../units/index.md) gain +1 :attack:. The faction controlling [Crag Hack](../heroes/crag_hack.md) can [Reinforce](../keywords/reinforce.md) [Goblins](../units/goblins.md) for free once.</p>\n"
 msgstr ""
 
 #. type: Plain text

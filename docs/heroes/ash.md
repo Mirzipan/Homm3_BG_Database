@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Your selected [:unit_ground:](../units/index.md#ground-units) or [:unit_flying: unit](../units/index.md#flying-units) gains +2 :attack:. Place a Black cube on that [unit](../units/index.md). |
-| Ⅳ | :ongoing: For this Combat, your selected [:unit_ground:](../units/index.md#ground-units) or [:unit_flying: unit's](../units/index.md#flying-units) :attack: is increased by 2 and its :initiative: is increased by 1. Place a Black cube on that [unit](../units/index.md). |
-| Ⅵ | :instant: Your selected [:unit_ground:](../units/index.md#ground-units) or [:unit_flying: unit](../units/index.md#flying-units) gains +3 :attack: and ignores Retaliation Attacks. Place a Black cube on that [unit](../units/index.md). |
+| Ⅰ | :instant: Your selected [:ground_unit:](../units/index.md#ground-units) or [:flying_unit: unit](../units/index.md#flying-units) gains +2 :attack:. Place a Black cube on that [unit](../units/index.md). |
+| Ⅳ | :ongoing: For this Combat, your selected [:ground_unit:](../units/index.md#ground-units) or [:flying_unit: unit's](../units/index.md#flying-units) :attack: is increased by 2 and its :initiative: is increased by 1. Place a Black cube on that [unit](../units/index.md). |
+| Ⅵ | :instant: Your selected [:ground_unit:](../units/index.md#ground-units) or [:flying_unit: unit](../units/index.md#flying-units) gains +3 :attack: and ignores Retaliation Attacks. Place a Black cube on that [unit](../units/index.md). |
 
 
 ## Comes With

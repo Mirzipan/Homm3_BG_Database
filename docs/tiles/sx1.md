@@ -15,7 +15,7 @@ ___
 - [Tower Town](../towns/tower.md)
 - [Empty Field](../fields/empty_field.md)
 - [:resource_die:](../fields/resource_symbol.md)
-- [Ⅰ](../difficulties.md) [:treasure:](../fields/treasure_symbol.md)
+- [Ⅰ](../difficulties.md) [:treasure_die:](../fields/treasure_symbol.md)
 
 
 ## Comes With

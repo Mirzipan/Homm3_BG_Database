@@ -14,7 +14,7 @@ ___
 - [Ⅴ](../difficulties.md) [:gold: Mine](../fields/mine.md)
 - [:movement: Stables](../fields/stables.md)
 - [Blocked Field](../fields/blocked_field.md)
-- [:morale_positive: Temple](../fields/temple.md)
+- [:positive_morale: Temple](../fields/temple.md)
 - [+1 :valuables: Windmill](../fields/windmill.md)
 
 

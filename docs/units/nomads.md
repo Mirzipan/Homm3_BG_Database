@@ -9,7 +9,7 @@
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
 | Tier | :silver: |
-| Type | [:unit_ground:](index.md#ground-units) |
+| Type | [:ground_unit:](index.md#ground-units) |
 | :attack: | 3 |
 | :defense: | 1 |
 | :health_points: | 4 |

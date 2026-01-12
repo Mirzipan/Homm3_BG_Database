@@ -23,7 +23,7 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :silver: |
-| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 2 | **3** | 3 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 4 | 4 | 3 |
