@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2025-12-25 19:17+0000\n"
+"POT-Creation-Date: 2026-01-12 07:52+0000\n"
 "PO-Revision-Date: 2025-12-02 22:13+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -20,6 +20,8 @@ msgstr ""
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
 #: docs/abilities/armorer.md docs/abilities/artillery.md
+#: docs/abilities/basic_air_magic.md docs/abilities/basic_earth_magic.md
+#: docs/abilities/basic_fire_magic.md docs/abilities/basic_water_magic.md
 #: docs/abilities/diplomacy.md docs/abilities/earth_magic.md
 #: docs/abilities/fire_magic.md docs/abilities/first_aid.md
 #: docs/abilities/intelligence.md docs/abilities/logistics.md
@@ -40,26 +42,25 @@ msgstr ""
 #: docs/astrologers_proclaim/mcgiver.md
 #: docs/astrologers_proclaim/unexpected_reinforcements.md
 #: docs/fields/blocked_field.md docs/fields/buoy.md
-#: docs/fields/derelict_ship.md docs/fields/elemental_conflux.md
+#: docs/fields/creature_bank.md docs/fields/derelict_ship.md
+#: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
 #: docs/fields/empty_field.md docs/fields/flotsam.md docs/fields/jetsam.md
 #: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
-#: docs/fields/sea_chest.md docs/fields/town.md docs/fields/windmill.md
+#: docs/fields/sea_chest.md docs/fields/shipwreck.md
+#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
+#: docs/fields/temple_of_the_sea.md docs/fields/town.md docs/fields/windmill.md
 #: docs/heroes/adelaide.md docs/heroes/alamar.md docs/heroes/deemer.md
 #: docs/heroes/jeddite.md docs/heroes/pasis.md docs/heroes/sandro.md
 #: docs/heroes/sephinroth.md docs/heroes/solmyr.md docs/heroes/tazar.md
 #: docs/heroes/xyron.md docs/keywords/alternative_action.md
-#: docs/keywords/attack_value.md docs/keywords/damage.md
-#: docs/keywords/defense_value.md docs/keywords/dice.md
-#: docs/keywords/dwelling.md docs/units/index.md#flying-units
-#: docs/keywords/ground_unit.md docs/keywords/health_points.md
-#: docs/keywords/initiative_value.md docs/keywords/morale.md#negative
-#: docs/keywords/obstacle.md docs/keywords/paralysis.md
-#: docs/keywords/permanent_effect.md docs/keywords/morale.md#positive
-#: docs/keywords/ranged_unit.md docs/keywords/recruit.md
+#: docs/keywords/dice.md docs/keywords/dwelling.md docs/keywords/empower.md
+#: docs/keywords/morale.md docs/keywords/paralysis.md
+#: docs/keywords/permanent_effect.md docs/keywords/recruit.md
 #: docs/keywords/reinforce.md docs/keywords/remove.md docs/keywords/search.md
-#: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
-#: docs/spells/blind.md docs/spells/chain_lightning.md docs/spells/cure.md
-#: docs/spells/dimension_door.md docs/spells/dispel.md
+#: docs/keywords/summon.md docs/spells/anti-magic.md docs/spells/berserk.md
+#: docs/spells/bless.md docs/spells/blind.md docs/spells/chain_lightning.md
+#: docs/spells/cure.md docs/spells/dimension_door.md docs/spells/dispel.md
 #: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
 #: docs/spells/fortune.md docs/spells/frost_ring.md docs/spells/haste.md
 #: docs/spells/implosion.md docs/spells/inferno.md docs/spells/magic_arrow.md
@@ -162,7 +163,7 @@ msgstr "Dé de Trésor"
 
 #. type: Plain text
 #: docs/keywords/dice.md
-msgid "The Treasure Die (also shown as :treasure:) is commonly used to reward the Player."
+msgid "The Treasure Die (also shown as :treasure_die:) is commonly used to reward the Player."
 msgstr ""
 
 #. type: Plain text

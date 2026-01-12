@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-26 23:14+0000\n"
+"POT-Creation-Date: 2026-01-12 07:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +19,8 @@ msgstr ""
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
 #: docs/abilities/armorer.md docs/abilities/artillery.md
+#: docs/abilities/basic_air_magic.md docs/abilities/basic_earth_magic.md
+#: docs/abilities/basic_fire_magic.md docs/abilities/basic_water_magic.md
 #: docs/abilities/diplomacy.md docs/abilities/earth_magic.md
 #: docs/abilities/fire_magic.md docs/abilities/first_aid.md
 #: docs/abilities/intelligence.md docs/abilities/logistics.md
@@ -51,18 +53,13 @@ msgstr ""
 #: docs/heroes/jeddite.md docs/heroes/pasis.md docs/heroes/sandro.md
 #: docs/heroes/sephinroth.md docs/heroes/solmyr.md docs/heroes/tazar.md
 #: docs/heroes/xyron.md docs/keywords/alternative_action.md
-#: docs/keywords/attack_value.md docs/keywords/damage.md
-#: docs/keywords/defense_value.md docs/keywords/dice.md
-#: docs/keywords/dwelling.md docs/units/index.md#flying-units
-#: docs/keywords/ground_unit.md docs/keywords/health_points.md
-#: docs/keywords/initiative_value.md docs/keywords/morale.md#negative
-#: docs/keywords/obstacle.md docs/keywords/paralysis.md
-#: docs/keywords/permanent_effect.md docs/keywords/morale.md#positive
-#: docs/keywords/ranged_unit.md docs/keywords/recruit.md
+#: docs/keywords/dice.md docs/keywords/dwelling.md docs/keywords/empower.md
+#: docs/keywords/morale.md docs/keywords/paralysis.md
+#: docs/keywords/permanent_effect.md docs/keywords/recruit.md
 #: docs/keywords/reinforce.md docs/keywords/remove.md docs/keywords/search.md
-#: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
-#: docs/spells/blind.md docs/spells/chain_lightning.md docs/spells/cure.md
-#: docs/spells/dimension_door.md docs/spells/dispel.md
+#: docs/keywords/summon.md docs/spells/anti-magic.md docs/spells/berserk.md
+#: docs/spells/bless.md docs/spells/blind.md docs/spells/chain_lightning.md
+#: docs/spells/cure.md docs/spells/dimension_door.md docs/spells/dispel.md
 #: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
 #: docs/spells/fortune.md docs/spells/frost_ring.md docs/spells/haste.md
 #: docs/spells/implosion.md docs/spells/inferno.md docs/spells/magic_arrow.md
@@ -94,7 +91,9 @@ msgstr ""
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
 #: docs/abilities/armorer.md docs/abilities/artillery.md
-#: docs/abilities/ballistics.md docs/abilities/diplomacy.md
+#: docs/abilities/ballistics.md docs/abilities/basic_air_magic.md
+#: docs/abilities/basic_earth_magic.md docs/abilities/basic_fire_magic.md
+#: docs/abilities/basic_water_magic.md docs/abilities/diplomacy.md
 #: docs/abilities/eagle_eye.md docs/abilities/earth_magic.md
 #: docs/abilities/estates.md docs/abilities/fire_magic.md
 #: docs/abilities/first_aid.md docs/abilities/intelligence.md
@@ -256,60 +255,64 @@ msgstr ""
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
 #: docs/heroes/zydar.md docs/spells/air_shield.md docs/spells/anti-magic.md
 #: docs/spells/berserk.md docs/spells/bless.md docs/spells/blind.md
-#: docs/spells/bloodlust.md docs/spells/chain_lightning.md
+#: docs/spells/bloodlust.md docs/spells/chain_lightning.md docs/spells/clone.md
 #: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
 #: docs/spells/dimension_door.md docs/spells/dispel.md
 #: docs/spells/disrupting_ray.md docs/spells/earthquake.md
 #: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
-#: docs/spells/fly.md docs/spells/forgetfulness.md docs/spells/fortune.md
-#: docs/spells/frenzy.md docs/spells/frost_ring.md docs/spells/haste.md
-#: docs/spells/implosion.md docs/spells/inferno.md
-#: docs/spells/lightning_bolt.md docs/spells/magic_arrow.md
-#: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
-#: docs/spells/precision.md docs/spells/remove_obstacle.md
+#: docs/spells/fly.md docs/spells/force_field.md docs/spells/forgetfulness.md
+#: docs/spells/fortune.md docs/spells/frenzy.md docs/spells/frost_ring.md
+#: docs/spells/haste.md docs/spells/implosion.md docs/spells/inferno.md
+#: docs/spells/land_mine.md docs/spells/lightning_bolt.md
+#: docs/spells/magic_arrow.md docs/spells/magic_mirror.md docs/spells/mirth.md
+#: docs/spells/misfortune.md docs/spells/prayer.md docs/spells/precision.md
+#: docs/spells/protection_from_air.md docs/spells/protection_from_earth.md
+#: docs/spells/protection_from_fire.md docs/spells/protection_from_water.md
+#: docs/spells/quicksand.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md docs/spells/shield.md
 #: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
 #: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
 #: docs/spells/summon_water_elemental.md docs/spells/teleport.md
 #: docs/spells/town_portal.md docs/spells/view_air.md docs/spells/view_earth.md
-#: docs/spells/visions.md docs/spells/weakness.md docs/tiles/c1.md
-#: docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md docs/tiles/c5.md
-#: docs/tiles/cx1.md docs/tiles/cx2.md docs/tiles/cx3.md docs/tiles/cx4.md
-#: docs/tiles/cx5.md docs/tiles/f1.md docs/tiles/f10.md docs/tiles/f11.md
-#: docs/tiles/f12.md docs/tiles/f13.md docs/tiles/f14.md docs/tiles/f15.md
-#: docs/tiles/f16.md docs/tiles/f17.md docs/tiles/f18.md docs/tiles/f19.md
-#: docs/tiles/f2.md docs/tiles/f20.md docs/tiles/f21.md docs/tiles/f22.md
-#: docs/tiles/f23.md docs/tiles/f24.md docs/tiles/f25.md docs/tiles/f26.md
-#: docs/tiles/f27.md docs/tiles/f3.md docs/tiles/f4.md docs/tiles/f5.md
-#: docs/tiles/f6.md docs/tiles/f7.md docs/tiles/f8.md docs/tiles/f9.md
-#: docs/tiles/fx1.md docs/tiles/fx10.md docs/tiles/fx11.md docs/tiles/fx12.md
-#: docs/tiles/fx13.md docs/tiles/fx2.md docs/tiles/fx3.md docs/tiles/fx4.md
-#: docs/tiles/fx5.md docs/tiles/fx6.md docs/tiles/fx7.md docs/tiles/fx8.md
-#: docs/tiles/fx9.md docs/tiles/n1.md docs/tiles/n10.md docs/tiles/n11.md
-#: docs/tiles/n12.md docs/tiles/n13.md docs/tiles/n14.md docs/tiles/n15.md
-#: docs/tiles/n16.md docs/tiles/n17.md docs/tiles/n18.md docs/tiles/n19.md
-#: docs/tiles/n2.md docs/tiles/n20.md docs/tiles/n21.md docs/tiles/n22.md
-#: docs/tiles/n3.md docs/tiles/n4.md docs/tiles/n5.md docs/tiles/n6.md
-#: docs/tiles/n7.md docs/tiles/n8.md docs/tiles/n9.md docs/tiles/nx1.md
-#: docs/tiles/nx10.md docs/tiles/nx11.md docs/tiles/nx2.md docs/tiles/nx3.md
-#: docs/tiles/nx4.md docs/tiles/nx5.md docs/tiles/nx6.md docs/tiles/nx7.md
-#: docs/tiles/nx8.md docs/tiles/nx9.md docs/tiles/s1.md docs/tiles/s2.md
-#: docs/tiles/s3.md docs/tiles/s4.md docs/tiles/s5.md docs/tiles/s6.md
-#: docs/tiles/s7.md docs/tiles/s8.md docs/tiles/s9.md docs/tiles/sx1.md
-#: docs/tiles/u1.md docs/tiles/u2.md docs/tiles/u3.md docs/tiles/u4.md
-#: docs/tiles/u5.md docs/tiles/u6.md docs/tiles/u7.md docs/tiles/w1.md
-#: docs/tiles/w2.md docs/tiles/w3.md docs/tiles/w4.md docs/tiles/w5.md
-#: docs/tiles/w6.md docs/tiles/w7.md docs/towns/castle.md docs/towns/conflux.md
-#: docs/towns/cove.md docs/towns/dungeon.md docs/towns/fortress.md
-#: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/rampart.md
-#: docs/towns/stronghold.md docs/towns/tower.md docs/units/air_elementals.md
-#: docs/units/arch_devils.md docs/units/archangels.md docs/units/arrow_tower.md
-#: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
-#: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
-#: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
-#: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
+#: docs/spells/visions.md docs/spells/water_walk.md docs/spells/weakness.md
+#: docs/tiles/c1.md docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md
+#: docs/tiles/c5.md docs/tiles/cx1.md docs/tiles/cx2.md docs/tiles/cx3.md
+#: docs/tiles/cx4.md docs/tiles/cx5.md docs/tiles/f1.md docs/tiles/f10.md
+#: docs/tiles/f11.md docs/tiles/f12.md docs/tiles/f13.md docs/tiles/f14.md
+#: docs/tiles/f15.md docs/tiles/f16.md docs/tiles/f17.md docs/tiles/f18.md
+#: docs/tiles/f19.md docs/tiles/f2.md docs/tiles/f20.md docs/tiles/f21.md
+#: docs/tiles/f22.md docs/tiles/f23.md docs/tiles/f24.md docs/tiles/f25.md
+#: docs/tiles/f26.md docs/tiles/f27.md docs/tiles/f3.md docs/tiles/f4.md
+#: docs/tiles/f5.md docs/tiles/f6.md docs/tiles/f7.md docs/tiles/f8.md
+#: docs/tiles/f9.md docs/tiles/fx1.md docs/tiles/fx10.md docs/tiles/fx11.md
+#: docs/tiles/fx12.md docs/tiles/fx13.md docs/tiles/fx2.md docs/tiles/fx3.md
+#: docs/tiles/fx4.md docs/tiles/fx5.md docs/tiles/fx6.md docs/tiles/fx7.md
+#: docs/tiles/fx8.md docs/tiles/fx9.md docs/tiles/n1.md docs/tiles/n10.md
+#: docs/tiles/n11.md docs/tiles/n12.md docs/tiles/n13.md docs/tiles/n14.md
+#: docs/tiles/n15.md docs/tiles/n16.md docs/tiles/n17.md docs/tiles/n18.md
+#: docs/tiles/n19.md docs/tiles/n2.md docs/tiles/n20.md docs/tiles/n21.md
+#: docs/tiles/n22.md docs/tiles/n3.md docs/tiles/n4.md docs/tiles/n5.md
+#: docs/tiles/n6.md docs/tiles/n7.md docs/tiles/n8.md docs/tiles/n9.md
+#: docs/tiles/nx1.md docs/tiles/nx10.md docs/tiles/nx11.md docs/tiles/nx2.md
+#: docs/tiles/nx3.md docs/tiles/nx4.md docs/tiles/nx5.md docs/tiles/nx6.md
+#: docs/tiles/nx7.md docs/tiles/nx8.md docs/tiles/nx9.md docs/tiles/s1.md
+#: docs/tiles/s2.md docs/tiles/s3.md docs/tiles/s4.md docs/tiles/s5.md
+#: docs/tiles/s6.md docs/tiles/s7.md docs/tiles/s8.md docs/tiles/s9.md
+#: docs/tiles/sx1.md docs/tiles/u1.md docs/tiles/u2.md docs/tiles/u3.md
+#: docs/tiles/u4.md docs/tiles/u5.md docs/tiles/u6.md docs/tiles/u7.md
+#: docs/tiles/w1.md docs/tiles/w2.md docs/tiles/w3.md docs/tiles/w4.md
+#: docs/tiles/w5.md docs/tiles/w6.md docs/tiles/w7.md docs/towns/castle.md
+#: docs/towns/conflux.md docs/towns/cove.md docs/towns/dungeon.md
+#: docs/towns/fortress.md docs/towns/inferno.md docs/towns/necropolis.md
+#: docs/towns/rampart.md docs/towns/stronghold.md docs/towns/tower.md
+#: docs/units/air_elementals.md docs/units/arch_devils.md
+#: docs/units/archangels.md docs/units/arrow_tower.md docs/units/ayssids.md
+#: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
+#: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
+#: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
+#: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
 #: docs/units/enchanters.md docs/units/energy_elementals.md
@@ -337,7 +340,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/cannon.md
-#: docs/war_machines/first_aid_tent.md
+#: docs/war_machines/catapult.md docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "Comes With"
 msgstr ""
@@ -345,7 +348,9 @@ msgstr ""
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
 #: docs/abilities/armorer.md docs/abilities/artillery.md
-#: docs/abilities/ballistics.md docs/abilities/diplomacy.md
+#: docs/abilities/ballistics.md docs/abilities/basic_air_magic.md
+#: docs/abilities/basic_earth_magic.md docs/abilities/basic_fire_magic.md
+#: docs/abilities/basic_water_magic.md docs/abilities/diplomacy.md
 #: docs/abilities/eagle_eye.md docs/abilities/earth_magic.md
 #: docs/abilities/estates.md docs/abilities/fire_magic.md
 #: docs/abilities/first_aid.md docs/abilities/intelligence.md
@@ -493,19 +498,20 @@ msgstr ""
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
 #: docs/fields/griffin_conservatory_creature_bank.md docs/fields/hill_fort.md
 #: docs/fields/imp_cache_creature_bank.md docs/fields/index.md
-#: docs/fields/jetsam.md docs/fields/learning_stone.md
-#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
-#: docs/fields/market_of_time.md docs/fields/medusa_stores_creature_bank.md
-#: docs/fields/mermaid.md docs/fields/mine.md docs/fields/monolith_one_way.md
+#: docs/fields/jetsam.md docs/fields/land_field.md
+#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
+#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/medusa_stores_creature_bank.md docs/fields/mermaid.md
+#: docs/fields/mine.md docs/fields/monolith_one_way.md
 #: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
 #: docs/fields/naga_bank_creature_bank.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md
 #: docs/fields/pyramid_creature_bank.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
-#: docs/fields/sea_chest.md docs/fields/settlement.md docs/fields/shipwreck.md
-#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
-#: docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/sea_chest.md docs/fields/sea_field.md docs/fields/settlement.md
+#: docs/fields/shipwreck.md docs/fields/shipwreck_creature_bank.md
+#: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
 #: docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
@@ -539,26 +545,27 @@ msgstr ""
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
 #: docs/heroes/zydar.md docs/spells/air_shield.md docs/spells/anti-magic.md
 #: docs/spells/berserk.md docs/spells/bless.md docs/spells/blind.md
-#: docs/spells/bloodlust.md docs/spells/chain_lightning.md
+#: docs/spells/bloodlust.md docs/spells/chain_lightning.md docs/spells/clone.md
 #: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
 #: docs/spells/dimension_door.md docs/spells/dispel.md
 #: docs/spells/disrupting_ray.md docs/spells/earthquake.md
 #: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
-#: docs/spells/fly.md docs/spells/forgetfulness.md docs/spells/fortune.md
-#: docs/spells/frenzy.md docs/spells/frost_ring.md docs/spells/haste.md
-#: docs/spells/implosion.md docs/spells/index.md docs/spells/inferno.md
-#: docs/spells/lightning_bolt.md docs/spells/magic_arrow.md
-#: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
-#: docs/spells/precision.md docs/spells/remove_obstacle.md
-#: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
-#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
-#: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
-#: docs/spells/sorrow.md docs/spells/stone_skin.md
-#: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
-#: docs/spells/summon_fire_elemental.md docs/spells/summon_water_elemental.md
-#: docs/spells/teleport.md docs/spells/town_portal.md docs/spells/view_air.md
-#: docs/spells/view_earth.md docs/spells/visions.md docs/spells/weakness.md
+#: docs/spells/fly.md docs/spells/force_field.md docs/spells/forgetfulness.md
+#: docs/spells/fortune.md docs/spells/frenzy.md docs/spells/frost_ring.md
+#: docs/spells/haste.md docs/spells/implosion.md docs/spells/inferno.md
+#: docs/spells/land_mine.md docs/spells/lightning_bolt.md
+#: docs/spells/magic_arrow.md docs/spells/magic_mirror.md docs/spells/mirth.md
+#: docs/spells/misfortune.md docs/spells/prayer.md docs/spells/precision.md
+#: docs/spells/protection_from_air.md docs/spells/protection_from_earth.md
+#: docs/spells/protection_from_fire.md docs/spells/protection_from_water.md
+#: docs/spells/quicksand.md docs/spells/remove_obstacle.md
+#: docs/spells/resurrection.md docs/spells/sacrifice.md docs/spells/shield.md
+#: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
+#: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
+#: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
+#: docs/spells/summon_water_elemental.md docs/spells/teleport.md
+#: docs/spells/town_portal.md docs/spells/view_air.md docs/spells/view_earth.md
+#: docs/spells/visions.md docs/spells/water_walk.md docs/spells/weakness.md
 #: docs/statistics/attack.md docs/statistics/defense.md
 #: docs/statistics/knowledge.md docs/statistics/power.md docs/tiles/c1.md
 #: docs/tiles/c2.md docs/tiles/c3.md docs/tiles/c4.md docs/tiles/c5.md
@@ -626,7 +633,7 @@ msgstr ""
 #: docs/units/wolf_raiders.md docs/units/wraiths.md docs/units/wyverns.md
 #: docs/units/zealots.md docs/units/zombies.md docs/war_machines/ammo_cart.md
 #: docs/war_machines/ballista.md docs/war_machines/cannon.md
-#: docs/war_machines/first_aid_tent.md
+#: docs/war_machines/catapult.md docs/war_machines/first_aid_tent.md
 #, no-wrap
 msgid "See Also"
 msgstr ""
@@ -700,17 +707,17 @@ msgstr ""
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
 #: docs/fields/griffin_conservatory_creature_bank.md docs/fields/hill_fort.md
 #: docs/fields/imp_cache_creature_bank.md docs/fields/jetsam.md
-#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
-#: docs/fields/magic_spring.md docs/fields/market_of_time.md
-#: docs/fields/medusa_stores_creature_bank.md docs/fields/mermaid.md
-#: docs/fields/mine.md docs/fields/monolith_one_way.md
+#: docs/fields/land_field.md docs/fields/learning_stone.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/medusa_stores_creature_bank.md
+#: docs/fields/mermaid.md docs/fields/mine.md docs/fields/monolith_one_way.md
 #: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
 #: docs/fields/naga_bank_creature_bank.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md
 #: docs/fields/pyramid_creature_bank.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
-#: docs/fields/sea_chest.md docs/fields/shipwreck.md
+#: docs/fields/sea_chest.md docs/fields/sea_field.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
 #: docs/fields/spell_scroll.md docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
@@ -719,6 +726,7 @@ msgstr ""
 #: docs/fields/tree_of_knowledge.md docs/fields/university.md
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
+#: docs/spells/index.md docs/tiles/index.md
 #, no-wrap
 msgid "<figure markdown=\"span\">\n"
 msgstr ""
@@ -792,17 +800,17 @@ msgstr ""
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
 #: docs/fields/griffin_conservatory_creature_bank.md docs/fields/hill_fort.md
 #: docs/fields/imp_cache_creature_bank.md docs/fields/jetsam.md
-#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
-#: docs/fields/magic_spring.md docs/fields/market_of_time.md
-#: docs/fields/medusa_stores_creature_bank.md docs/fields/mermaid.md
-#: docs/fields/mine.md docs/fields/monolith_one_way.md
+#: docs/fields/land_field.md docs/fields/learning_stone.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/medusa_stores_creature_bank.md
+#: docs/fields/mermaid.md docs/fields/mine.md docs/fields/monolith_one_way.md
 #: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
 #: docs/fields/naga_bank_creature_bank.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md
 #: docs/fields/pyramid_creature_bank.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
-#: docs/fields/sea_chest.md docs/fields/shipwreck.md
+#: docs/fields/sea_chest.md docs/fields/sea_field.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
 #: docs/fields/spell_scroll.md docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
@@ -811,6 +819,7 @@ msgstr ""
 #: docs/fields/tree_of_knowledge.md docs/fields/university.md
 #: docs/fields/war_machine_factory.md docs/fields/warriors_tomb.md
 #: docs/fields/water_wheel.md docs/fields/windmill.md docs/fields/witch_hut.md
+#: docs/spells/index.md docs/tiles/index.md
 #, no-wrap
 msgid "</figure>\n"
 msgstr ""
@@ -829,13 +838,13 @@ msgstr ""
 #: docs/fields/faerie_ring.md docs/fields/flotsam.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
 #: docs/fields/hill_fort.md docs/fields/jetsam.md docs/fields/learning_stone.md
-#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
-#: docs/fields/market_of_time.md docs/fields/mermaid.md
-#: docs/fields/mystical_garden.md docs/fields/pandoras_box.md
-#: docs/fields/prison.md docs/fields/redwood_observatory.md
-#: docs/fields/resource_symbol.md docs/fields/scholar.md
-#: docs/fields/sea_barrel.md docs/fields/sea_chest.md docs/fields/shipwreck.md
-#: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/mermaid.md docs/fields/mystical_garden.md
+#: docs/fields/pandoras_box.md docs/fields/prison.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
+#: docs/fields/scholar.md docs/fields/sea_barrel.md docs/fields/sea_chest.md
+#: docs/fields/shipwreck.md docs/fields/shipwreck_survivor.md
+#: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
 #: docs/fields/temple.md docs/fields/temple_of_the_sea.md
 #: docs/fields/treasure_symbol.md docs/fields/tree_of_knowledge.md
@@ -860,19 +869,19 @@ msgstr ""
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
 #: docs/fields/griffin_conservatory_creature_bank.md docs/fields/hill_fort.md
 #: docs/fields/imp_cache_creature_bank.md docs/fields/jetsam.md
-#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
-#: docs/fields/magic_spring.md docs/fields/market_of_time.md
-#: docs/fields/medusa_stores_creature_bank.md docs/fields/mermaid.md
-#: docs/fields/mine.md docs/fields/monolith_one_way.md
+#: docs/fields/land_field.md docs/fields/learning_stone.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
+#: docs/fields/market_of_time.md docs/fields/medusa_stores_creature_bank.md
+#: docs/fields/mermaid.md docs/fields/mine.md docs/fields/monolith_one_way.md
 #: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
 #: docs/fields/naga_bank_creature_bank.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md
 #: docs/fields/pyramid_creature_bank.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
-#: docs/fields/sea_chest.md docs/fields/settlement.md docs/fields/shipwreck.md
-#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
-#: docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/sea_chest.md docs/fields/sea_field.md docs/fields/settlement.md
+#: docs/fields/shipwreck.md docs/fields/shipwreck_creature_bank.md
+#: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
 #: docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
@@ -899,19 +908,20 @@ msgstr ""
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
 #: docs/fields/griffin_conservatory_creature_bank.md docs/fields/hill_fort.md
 #: docs/fields/imp_cache_creature_bank.md docs/fields/index.md
-#: docs/fields/jetsam.md docs/fields/learning_stone.md
-#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
-#: docs/fields/market_of_time.md docs/fields/medusa_stores_creature_bank.md
-#: docs/fields/mermaid.md docs/fields/mine.md docs/fields/monolith_one_way.md
+#: docs/fields/jetsam.md docs/fields/land_field.md
+#: docs/fields/learning_stone.md docs/fields/library_of_enlightenment.md
+#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/medusa_stores_creature_bank.md docs/fields/mermaid.md
+#: docs/fields/mine.md docs/fields/monolith_one_way.md
 #: docs/fields/monolith_two_way.md docs/fields/mystical_garden.md
 #: docs/fields/naga_bank_creature_bank.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md
 #: docs/fields/pyramid_creature_bank.md docs/fields/random_town.md
 #: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/sea_barrel.md
-#: docs/fields/sea_chest.md docs/fields/settlement.md docs/fields/shipwreck.md
-#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
-#: docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/sea_chest.md docs/fields/sea_field.md docs/fields/settlement.md
+#: docs/fields/shipwreck.md docs/fields/shipwreck_creature_bank.md
+#: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
 #: docs/fields/stables.md docs/fields/star_axis.md
 #: docs/fields/subterranean_gate.md docs/fields/tavern.md docs/fields/temple.md
@@ -979,13 +989,13 @@ msgid ""
 "| Look at the top 3 cards from the [Artifact](../artifacts/index.md) deck, discard up to 2 of them and place the rest back on top of the deck in any order.<br>Gain 3 :gold:. |\n"
 "| Look at the top 3 cards from the [Astrologers Proclaim](../astrologers_proclaim/index.md) deck, discard up to 2 of them and place the rest back on top of the deck in any order.<br>[**Search(2)**](../keywords/index.md) the [Artifact](../artifacts/index.md) deck. |\n"
 "| Draw 3 cards from the [:silver: Neutral Unit](../units/index.md) deck. You can [Recruit](../keywords/recruit.md) one of these [units](../units/index.md) if you pay half of its :recruit: rounded up. |\n"
-"| [**Search(5)**](../keywords/index.md) the [Ability](../abilities/index.md) deck.<br><br>— OR —<br><br>Roll 2 [:treasure:](../keywords/dice.md#treasure-die). If you roll at least 1 :artifact: Symbol, [**Search(8)**](../keywords/index.md) the [Ability](../abilities/index.md) deck. |\n"
-"| [**Search(5)**](../keywords/index.md) the [Spell](../spells/index.md) deck.<br><br>— OR —<br><br>Roll 2 [:treasure:](../keywords/dice.md#treasure-die). If you roll at least 1 :artifact: Symbol, [**Search(8)**](../keywords/index.md) the [Spell](../spells/index.md) deck. |\n"
-"| [**Search(5)**](../keywords/index.md) the [Artifact](../artifacts/index.md) deck.<br><br>— OR —<br><br>Roll 2 [:treasure:](../keywords/dice.md#treasure-die). If you roll at least 1 :artifact: Symbol, [**Search(8)**](../keywords/index.md) the [Artifact](../artifacts/index.md) deck. |\n"
+"| [**Search(5)**](../keywords/index.md) the [Ability](../abilities/index.md) deck.<br><br>— OR —<br><br>Roll 2 [:treasure_die:](../keywords/dice.md#treasure-die). If you roll at least 1 :artifact: Symbol, [**Search(8)**](../keywords/index.md) the [Ability](../abilities/index.md) deck. |\n"
+"| [**Search(5)**](../keywords/index.md) the [Spell](../spells/index.md) deck.<br><br>— OR —<br><br>Roll 2 [:treasure_die:](../keywords/dice.md#treasure-die). If you roll at least 1 :artifact: Symbol, [**Search(8)**](../keywords/index.md) the [Spell](../spells/index.md) deck. |\n"
+"| [**Search(5)**](../keywords/index.md) the [Artifact](../artifacts/index.md) deck.<br><br>— OR —<br><br>Roll 2 [:treasure_die:](../keywords/dice.md#treasure-die). If you roll at least 1 :artifact: Symbol, [**Search(8)**](../keywords/index.md) the [Artifact](../artifacts/index.md) deck. |\n"
 "| :permanent: +1 :power:. As long as this card is in play, at the end of your turn, [Remove](../keywords/remove.md) this card or gain [Negative Morale](../keywords/morale.md#negative)<br>Remember, the effect of this card lasts only when the card is in play. |\n"
 "| First, pay 3 :gold:, 2 :building_materials:, or 1 :valuables: up to six times, in any combination.<br>Second, for each payment made, roll and resolve 1 [:resource_die:](../keywords/dice.md#resource-die). |\n"
 "| :permanent: You can have up to 3 :permanent: cards played at a time, including this one.<br>Remember, the effect of this card lasts only when the card is in play. |\n"
-"| :permanent: Your :hand: is increased by 1.<br>Remember, the effect of this card lasts only when the card is in play. |\n"
+"| :permanent: Your :hand_limit: is increased by 1.<br>Remember, the effect of this card lasts only when the card is in play. |\n"
 "| :permanent: Roll 1 [:resource_die:](../keywords/dice.md#resource-die) and, based on the result, increase the income of the corresponding resource by 1 tier.<br>Remember, the effect of this card lasts only when the card is in play. |\n"
 "| If you do not have a :silver:, discard this card and draw another. Otherwise, choose one:<br><br>Flip one of your :silver: [units](../units/index.md) to the \"Few\" side.<br><br>— OR —<br><br>Discard one of your :silver: [units](../units/index.md).<br>Then, draw 3 cards from the :bronze: [Neutral Unit](../units/index.md) deck, and 3 cards from the :silver: [Neutral Unit](../units/index.md) deck. From these cards, [Recruit](../keywords/recruit.md) 1 :bronze: and 1 :silver: for free. |\n"
 "| Roll and resolve 2 [:resource_die:](../keywords/dice.md#resource-die).<br><br>— OR —<br><br>Gain 9 :gold:. |\n"
