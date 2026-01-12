@@ -42,7 +42,7 @@ Below is a list of all effects of pandora cards.
 | :permanent: +1 :power:. As long as this card is in play, at the end of your turn, [Remove](../keywords/remove.md) this card or gain [Negative Morale](../keywords/morale.md#negative)<br>Remember, the effect of this card lasts only when the card is in play. |
 | First, pay 3 :gold:, 2 :building_materials:, or 1 :valuables: up to six times, in any combination.<br>Second, for each payment made, roll and resolve 1 [:resource_die:](../keywords/dice.md#resource-die). |
 | :permanent: You can have up to 3 :permanent: cards played at a time, including this one.<br>Remember, the effect of this card lasts only when the card is in play. |
-| :permanent: Your :hand: is increased by 1.<br>Remember, the effect of this card lasts only when the card is in play. |
+| :permanent: Your :hand_limit: is increased by 1.<br>Remember, the effect of this card lasts only when the card is in play. |
 | :permanent: Roll 1 [:resource_die:](../keywords/dice.md#resource-die) and, based on the result, increase the income of the corresponding resource by 1 tier.<br>Remember, the effect of this card lasts only when the card is in play. |
 | If you do not have a :silver:, discard this card and draw another. Otherwise, choose one:<br><br>Flip one of your :silver: [units](../units/index.md) to the "Few" side.<br><br>— OR —<br><br>Discard one of your :silver: [units](../units/index.md).<br>Then, draw 3 cards from the :bronze: [Neutral Unit](../units/index.md) deck, and 3 cards from the :silver: [Neutral Unit](../units/index.md) deck. From these cards, [Recruit](../keywords/recruit.md) 1 :bronze: and 1 :silver: for free. |
 | Roll and resolve 2 [:resource_die:](../keywords/dice.md#resource-die).<br><br>— OR —<br><br>Gain 9 :gold:. |
