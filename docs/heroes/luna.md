@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :ongoing: For this Combat, place this card or a Fire Wall token in an empty space on the Combat board. Deal 1 :damage: to any [unit](../units/index.md) starting its turn here or stopping here and to any [:unit_ground:](../units/index.md#ground-units) or [:unit_ranged: unit](../units/index.md#ranged-units) passing through. |
+| Ⅰ | :ongoing: For this Combat, place this card or a Fire Wall token in an empty space on the Combat board. Deal 1 :damage: to any [unit](../units/index.md) starting its turn here or stopping here and to any [:ground_unit:](../units/index.md#ground-units) or [:unit_ranged: unit](../units/index.md#ranged-units) passing through. |
 | Ⅳ | :instant: Take one card from your discard pile into your hand.<br><br>— OR —<br><br>:instant: +2 :power: |
-| Ⅵ | :ongoing: For this Combat, place this card or a Fire Wall token in an empty space on the Combat board. Deal 3 :damage: to any [unit](../units/index.md) starting its turn here or stopping here and to any [:unit_ground:](../units/index.md#ground-units) or [:unit_ranged: unit](../units/index.md#ranged-units) passing through. |
+| Ⅵ | :ongoing: For this Combat, place this card or a Fire Wall token in an empty space on the Combat board. Deal 3 :damage: to any [unit](../units/index.md) starting its turn here or stopping here and to any [:ground_unit:](../units/index.md#ground-units) or [:unit_ranged: unit](../units/index.md#ranged-units) passing through. |
 
 
 ## Comes With
