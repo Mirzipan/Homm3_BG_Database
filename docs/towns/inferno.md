@@ -60,10 +60,10 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Demons](../units/demons.md) | Pack | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | **5** | **6** | 8 :gold: | - |
 | [Pit Lords](../units/pit_lords.md) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | 6 | 6 | 8 :gold: | - |
 | [Pit Lords](../units/pit_lords.md) | Pack | :silver: | [:ground_unit:](../units/index.md#ground-units) | **5** | 1 | 6 | **7** | 15 :gold: | :unit_other: |
-| [Efreet](../units/efreet.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 5 | 1 | 7 | 9 | 12 :gold: | :unit_passive: |
-| [Efreet](../units/efreet.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **6** | 1 | 7 | **13** | 18 :gold:<br>1 :valuables: | :unit_passive: |
-| [Arch Devils](../units/arch_devils.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 6 | 3 | 8 | 11 | 22 :gold:<br>1 :valuables: | :unit_attack: |
-| [Arch Devils](../units/arch_devils.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **7** | 3 | **9** | **15** | 30 :gold:<br>2 :valuables: | :unit_attack: :unit_passive: |
+| [Efreet](../units/efreet.md) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 5 | 1 | 7 | 9 | 12 :gold: | :unit_passive: |
+| [Efreet](../units/efreet.md) | Pack | :golden: | [:flying_unit:](../units/index.md#flying-units) | **6** | 1 | 7 | **13** | 18 :gold:<br>1 :valuables: | :unit_passive: |
+| [Arch Devils](../units/arch_devils.md) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 6 | 3 | 8 | 11 | 22 :gold:<br>1 :valuables: | :unit_attack: |
+| [Arch Devils](../units/arch_devils.md) | Pack | :golden: | [:flying_unit:](../units/index.md#flying-units) | **7** | 3 | **9** | **15** | 30 :gold:<br>2 :valuables: | :unit_attack: :unit_passive: |
 
 
 ## Comes With

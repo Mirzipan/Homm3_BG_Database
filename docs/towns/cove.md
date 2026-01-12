@@ -32,14 +32,14 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| [Oceanids](../units/oceanids.md) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | 2 :gold: | - |
-| [Oceanids](../units/oceanids.md) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | **3** | 0 | 3 | **8** | 3 :gold: | :unit_passive: |
+| [Oceanids](../units/oceanids.md) | Few | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | 2 :gold: | - |
+| [Oceanids](../units/oceanids.md) | Pack | :bronze: | [:flying_unit:](../units/index.md#flying-units) | **3** | 0 | 3 | **8** | 3 :gold: | :unit_passive: |
 | [Seamen](../units/seamen.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 5 | 3 :gold: | - |
 | [Seamen](../units/seamen.md) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | **5** | **6** | 5 :gold: | :unit_passive: |
 | [Sea Dogs](../units/sea_dogs.md) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 4 | 6 | 4 :gold: | :unit_passive: |
 | [Sea Dogs](../units/sea_dogs.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | **3** | 0 | **5** | **8** | 6 :gold: | :unit_attack: :unit_passive: |
-| [Ayssids](../units/ayssids.md) | Few | :silver: | [:unit_flying:](../units/index.md#flying-units) | 3 | 1 | 5 | 9 | 6 :gold: | - |
-| [Ayssids](../units/ayssids.md) | Pack | :silver: | [:unit_flying:](../units/index.md#flying-units) | 3 | 1 | **6** | **11** | 10 :gold: | :unit_attack: |
+| [Ayssids](../units/ayssids.md) | Few | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | 5 | 9 | 6 :gold: | - |
+| [Ayssids](../units/ayssids.md) | Pack | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | **6** | **11** | 10 :gold: | :unit_attack: |
 | [Sorceresses](../units/sorceresses.md) | Few | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 1 | 5 | 6 | 8 :gold: | :unit_other: |
 | [Sorceresses](../units/sorceresses.md) | Pack | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | **4** | 1 | **6** | **7** | 13 :gold: | :unit_attack: |
 | [Nix](../units/nix.md) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 5 | 2 | 7 | 6 | 12 :gold: | - |

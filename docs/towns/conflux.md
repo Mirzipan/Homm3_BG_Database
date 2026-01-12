@@ -32,20 +32,20 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| [Sprites](../units/sprites.md) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 2 | 7 | 2 :gold: | - |
-| [Sprites](../units/sprites.md) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | **4** | **9** | 4 :gold: | :unit_attack: |
+| [Sprites](../units/sprites.md) | Few | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 2 | 7 | 2 :gold: | - |
+| [Sprites](../units/sprites.md) | Pack | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | **4** | **9** | 4 :gold: | :unit_attack: |
 | [Storm Elementals](../units/storm_elementals.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 3 | 7 | 3 :gold: | - |
 | [Storm Elementals](../units/storm_elementals.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | **5** | **8** | 5 :gold: | :activation: |
 | [Ice Elementals](../units/ice_elementals.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 4 | 5 | 4 :gold: | - |
 | [Ice Elementals](../units/ice_elementals.md) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | **3** | 1 | **5** | **6** | 7 :gold: | :activation: |
 | [Energy Elementals](../units/energy_elementals.md) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 1 | 5 | 5 | 6 :gold: | - |
-| [Energy Elementals](../units/energy_elementals.md) | Pack | :silver: | [:unit_flying:](../units/index.md#flying-units) | **4** | 1 | 5 | **8** | 8 :gold: | :activation: |
+| [Energy Elementals](../units/energy_elementals.md) | Pack | :silver: | [:flying_unit:](../units/index.md#flying-units) | **4** | 1 | 5 | **8** | 8 :gold: | :activation: |
 | [Magma Elementals](../units/magma_elementals.md) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 5 | 4 | 9 :gold: | - |
 | [Magma Elementals](../units/magma_elementals.md) | Pack | :silver: | [:ground_unit:](../units/index.md#ground-units) | **5** | 2 | 5 | **6** | 13 :gold: | :activation: |
 | [Magic Elementals](../units/magic_elementals.md) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 7 | 7 | 13 :gold: | :unit_attack: |
 | [Magic Elementals](../units/magic_elementals.md) | Pack | :golden: | [:ground_unit:](../units/index.md#ground-units) | **5** | 2 | 7 | **9** | 19 :gold:<br>1 :valuables: | :unit_attack: :unit_passive: |
-| [Phoenixes](../units/phoenixes.md) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 6 | 2 | 7 | 12 | 21 :gold:<br>1 :valuables: | :unit_passive: :unit_passive: |
-| [Phoenixes](../units/phoenixes.md) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **7** | 2 | **8** | **18** | 29 :gold:<br>2 :valuables: | :unit_attack: :unit_passive: |
+| [Phoenixes](../units/phoenixes.md) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 6 | 2 | 7 | 12 | 21 :gold:<br>1 :valuables: | :unit_passive: :unit_passive: |
+| [Phoenixes](../units/phoenixes.md) | Pack | :golden: | [:flying_unit:](../units/index.md#flying-units) | **7** | 2 | **8** | **18** | 29 :gold:<br>2 :valuables: | :unit_attack: :unit_passive: |
 
 
 ## Comes With

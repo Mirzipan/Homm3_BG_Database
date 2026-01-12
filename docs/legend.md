@@ -36,7 +36,7 @@ Quick reference for what the different glyphs mean.
 | :golden: | Gold tier |
 | :azure: | Azure tier |
 | :ground_unit: | Ground unit |
-| :unit_flying: | Flying unit |
+| :flying_unit: | Flying unit |
 | :unit_ranged: | Ranged unit |
 | :attack: | Attack |
 | :defense: | Defense |
