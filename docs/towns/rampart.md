@@ -35,7 +35,7 @@
 ## Heroes
 
 | Name | Class | Ability | Specialty |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Clancy](../heroes/clancy.md) | :might: Ranger | [Pathfinding](../abilities/pathfinding.md) | [Unicorns](../heroes/clancy.md#specialty) |
 | [Gelu](../heroes/gelu.md) | :might: Ranger | [Archery](../abilities/archery.md) | [Sharpshooters](../heroes/gelu.md#specialty) |
 | [Gem](../heroes/gem.md) | :magic: Druid | [First Aid](../abilities/first_aid.md) | [First Aid](../heroes/gem.md#specialty) |
@@ -50,7 +50,7 @@
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Centaurs](../units/centaurs.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 3 | 6 | 2 :gold: | - |
 | [Centaurs](../units/centaurs.md) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 0 | 3 | **8** | 3 :gold: | - |
 | [Dwarves](../units/dwarves.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: |

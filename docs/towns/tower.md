@@ -35,7 +35,7 @@
 ## Heroes
 
 | Name | Class | Ability | Specialty |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Cyra](../heroes/cyra.md) | :magic: Wizard | [Diplomacy](../abilities/diplomacy.md) | [Haste](../heroes/cyra.md#specialty) |
 | [Dracon](../heroes/dracon.md) | :magic: Wizard | [Wisdom](../abilities/wisdom.md) | [Enchanters](../heroes/dracon.md#specialty) |
 | [Iona](../heroes/iona.md) | :might: Alchemist | [Intelligence](../abilities/intelligence.md) | [Genies](../heroes/iona.md#specialty) |
@@ -49,7 +49,7 @@
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Gremlins](../units/gremlins.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 2 | 4 | 0 :gold: | - |
 | [Gremlins](../units/gremlins.md) | Pack | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 2 | **5** | 2 :gold: | - |
 | [Gargoyles](../units/gargoyles.md) | Few | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 1 | 3 | 6 | 3 :gold: | :unit_passive: :ongoing: |

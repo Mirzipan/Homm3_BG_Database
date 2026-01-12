@@ -35,7 +35,7 @@
 ## Heroes
 
 | Name | Class | Ability | Specialty |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Adrienne](../heroes/adrienne.md) | :magic: Witch | [Wisdom](../abilities/wisdom.md) | [Fire Magic](../heroes/adrienne.md#specialty) |
 | [Bron](../heroes/bron.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](../heroes/bron.md#specialty) |
 | [Gerwulf](../heroes/gerwulf.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [Ballista](../heroes/gerwulf.md#specialty) |
@@ -50,7 +50,7 @@
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Gnolls](../units/gnolls.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 4 | 2 :gold: | - |
 | [Gnolls](../units/gnolls.md) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | **4** | **5** | 3 :gold: | - |
 | [Lizardmen](../units/lizardmen.md) | Few | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 3 | 4 | 3 :gold: | - |

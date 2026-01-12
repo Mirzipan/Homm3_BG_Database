@@ -17,7 +17,7 @@
 ## Heroes
 
 | Name | Class | Ability | Specialty |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Astra](../heroes/astra.md) | :magic: Navigator | [Luck](../abilities/luck.md) | [Cure](../heroes/astra.md#specialty) |
 | [Casmetra](../heroes/casmetra.md) | :magic: Navigator | [Wisdom](../abilities/wisdom.md) | [Sorceresses](../heroes/casmetra.md#specialty) |
 | [Cassiopeia](../heroes/cassiopeia.md) | :might: Captain | [Tactics](../abilities/tactics.md) | [Oceanids](../heroes/cassiopeia.md#specialty) |
@@ -31,7 +31,7 @@
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Oceanids](../units/oceanids.md) | Few | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | 2 :gold: | - |
 | [Oceanids](../units/oceanids.md) | Pack | :bronze: | [:flying_unit:](../units/index.md#flying-units) | **3** | 0 | 3 | **8** | 3 :gold: | :unit_passive: |
 | [Seamen](../units/seamen.md) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 5 | 3 :gold: | - |
