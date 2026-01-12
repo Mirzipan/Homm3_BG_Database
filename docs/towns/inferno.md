@@ -35,7 +35,7 @@
 ## Heroes
 
 | Name | Class | Ability | Specialty |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Ash](../heroes/ash.md) | :magic: Heretic | [Eagle Eye](../abilities/eagle_eye.md) | [Bloodlust](../heroes/ash.md#specialty) |
 | [Fiona](../heroes/fiona.md) | :might: Demoniac | [Scouting](../abilities/scouting.md) | [Cerberi](../heroes/fiona.md#specialty) |
 | [Octavia](../heroes/octavia.md) | :might: Demoniac | [Scholar](../abilities/scholar.md) | [Gold](../heroes/octavia.md#specialty) |
@@ -49,7 +49,7 @@
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Familiars](../units/familiars.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 2 | 5 | 2 :gold: | - |
 | [Familiars](../units/familiars.md#pack) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **3** | 1 | 2 | **7** | 3 :gold: | :unit_passive: |
 | [Magogs](../units/magogs.md#few) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 2 | 4 | 3 :gold: | - |

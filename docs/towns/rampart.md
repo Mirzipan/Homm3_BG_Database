@@ -26,7 +26,7 @@
 | Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spell:](../spells/index.md). |
 | Housing Estate | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |
-| Spring upon Arches | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). | 
+| Spring upon Arches | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |
 | Cliff behind the Glade | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
 | Mystic Pond | 7 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, roll 1 [Resource die](../keywords/dice.md#resource-die) and gain the rolled resources. |
 | Saplings | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | At the beginning of each [Astrologer's round](../astrologers_proclaim/index.md), instantly **Reinforce** 1 of your :bronze: or :silver: [units](#units) for half of the  :gold: cost. |
@@ -35,7 +35,7 @@
 ## Heroes
 
 | Name | Class | Ability | Specialty |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Clancy](../heroes/clancy.md) | :might: Ranger | [Pathfinding](../abilities/pathfinding.md) | [Unicorns](../heroes/clancy.md#specialty) |
 | [Gelu](../heroes/gelu.md) | :might: Ranger | [Archery](../abilities/archery.md) | [Sharpshooters](../heroes/gelu.md#specialty) |
 | [Gem](../heroes/gem.md) | :magic: Druid | [First Aid](../abilities/first_aid.md) | [First Aid](../heroes/gem.md#specialty) |
@@ -50,7 +50,7 @@
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Centaurs](../units/centaurs.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 0 | 3 | 6 | 2 :gold: | - |
 | [Centaurs](../units/centaurs.md#pack) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **3** | 0 | 3 | **8** | 3 :gold: | - |
 | [Dwarves](../units/dwarves.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: |

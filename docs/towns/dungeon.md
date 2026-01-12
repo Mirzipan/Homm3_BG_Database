@@ -35,7 +35,7 @@
 ## Heroes
 
 | Name | Class | Ability | Specialty |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Alamar](../heroes/alamar.md) | :magic: Warlock | [Wisdom](../abilities/wisdom.md) | [Resurrection](../heroes/alamar.md#specialty) |
 | [Deemer](../heroes/deemer.md) | :magic: Warlock | [Scouting](../abilities/scouting.md) | [Meteor Shower](../heroes/deemer.md#specialty) |
 | [Jeddite](../heroes/jeddite.md) | :magic: Warlock | [Sorcery](../abilities/sorcery.md) | [Mysterious Warlock](../heroes/jeddite.md#specialty) |
@@ -50,7 +50,7 @@
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Troglodytes](../units/troglodytes.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - |
 | [Troglodytes](../units/troglodytes.md#pack) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: |
 | [Harpies](../units/harpies.md#few) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | 3 :gold: | :unit_attack: |

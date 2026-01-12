@@ -17,7 +17,7 @@
 ## Heroes
 
 | Name | Class | Ability | Specialty |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Crag Hack](../heroes/crag_hack.md) | :might: Barbarian | [Offense](../abilities/offense.md) | [Offense](../heroes/crag_hack.md#specialty) |
 | [Dessa](../heroes/dessa.md) | :magic: Battle Mage | [Logistics](../abilities/logistics.md) | [Logistics](../heroes/dessa.md#specialty) |
 | [Gundula](../heroes/gundula.md) | :magic: Battle Mage | [Wisdom](../abilities/wisdom.md) | [Slow](../heroes/gundula.md#specialty) |
@@ -31,7 +31,7 @@
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Goblins](../units/goblins.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 1 | 0 | 4 | 6 | 1 :gold: | - |
 | [Goblins](../units/goblins.md#pack) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **2** | 0 | 4 | **7** | 2 :gold: | - |
 | [Wolf Raiders](../units/wolf_raiders.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 0 | 3 | 7 | 3 :gold: | - |

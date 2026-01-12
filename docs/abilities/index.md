@@ -8,7 +8,7 @@ search:
 ## Regular Abilities
 
 | Name | Effect | :expert: Effect | Content |
-| : --- | :---: | :---: | :--- |
+| :--- | :---: | :---: | :--- |
 | [Air Magic](../abilities/air_magic.md#regular) | :permanent: +1 :power: for spells from [School of Air Magic](../spells/index.md#school-of-air-magic). | When casting :spell: from the [School of Air](../spells/index.md#school-of-air-magic), you can discard this card, then gain +3 :power:. | [Tower Expansion](../content/tower_expansion.md)<br>[Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Archery](../abilities/archery.md#regular) | :ongoing: During this Combat round, your [Ranged units](../units/index.md#ranged-units) gain +1 :attack: if the target is a non-adjacent [unit](../units/index.md). | :ongoing: Until the end of the next Combat round, your [Ranged units](../units/index.md#ranged-units) gain +1 :initiative: and +1 :attack: if the target is a non-adjacent [unit](../units/index.md). | [Core Game](../content/core_game.md)<br>[Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |
 | [Armorer](../abilities/armorer.md#regular) | :instant: +1 :defense:<br>Then draw 1 card. | :instant: +2 :defense:<br>Then draw 1 card. | [Core Game](../content/core_game.md)<br>[Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |

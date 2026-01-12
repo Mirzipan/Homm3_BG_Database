@@ -35,7 +35,7 @@
 ## Heroes
 
 | Name | Class | Ability | Specialty |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Adelaide](../heroes/adelaide.md) | :magic: Cleric | [Wisdom](../abilities/wisdom.md) | [Frost Ring](../heroes/adelaide.md#specialty) |
 | [Catherine](../heroes/catherine.md) | :might: Knight | [Leadership](../abilities/leadership.md) | [Crusaders](../heroes/catherine.md#specialty) |
 | [Ingham](../heroes/ingham.md) | :magic: Cleric | [Mysticism](../abilities/mysticism.md) | [Zealots](../heroes/ingham.md#specialty) |
@@ -50,7 +50,7 @@
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Halberdiers](../units/halberdiers.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - |
 | [Halberdiers](../units/halberdiers.md#pack) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: |
 | [Marksmen](../units/marksmen.md#few) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 2 | 4 | 3 :gold: | - |
