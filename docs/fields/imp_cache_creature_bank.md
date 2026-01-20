@@ -12,7 +12,7 @@ ___
 
 | Units | Reward | Extra |
 | :--- | :--- | :--- |
-| 4x&nbsp;[Familiars](../units/familiars.md) | 3 :gold:. | 1 :gold: for every Stacked unit. |
+| 4x&nbsp;[Familiars](../units/familiars.md#imp-cache) | 3 :gold:. | 1 :gold: for every Stacked unit. |
 
 ___
 

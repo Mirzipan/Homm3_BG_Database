@@ -12,7 +12,7 @@ ___
 
 | Units | Reward | Extra |
 | :--- | :--- | :--- |
-| 4x&nbsp;[Medusas](../units/medusas.md) | 6 :gold: and 1 :valuables:. | 3 :gold: or 1 :valuables: for every Stacked unit. |
+| 4x&nbsp;[Medusas](../units/medusas.md#medusa-stores) | 6 :gold: and 1 :valuables:. | 3 :gold: or 1 :valuables: for every Stacked unit. |
 
 ___
 

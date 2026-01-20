@@ -12,7 +12,7 @@ ___
 
 | Units | Reward | Extra |
 | :--- | :--- | :--- |
-| 4x&nbsp;[Griffins](../units/griffins.md) | 1x&nbsp;[Griffins](../units/griffins.md) unit. | If the Creature Bank was guarded by at least 2 Stacked units, gain Stacked [Griffins](../units/griffins.md) instead. |
+| 4x&nbsp;[Griffins](../units/griffins.md#griffin-conservatory) | 1x&nbsp;[Griffins](../units/griffins.md) unit. | If the Creature Bank was guarded by at least 2 Stacked units, gain Stacked [Griffins](../units/griffins.md) instead. |
 
 ___
 
