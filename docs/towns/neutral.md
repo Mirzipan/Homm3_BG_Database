@@ -114,25 +114,25 @@ Every unit of every town has a neutral variant.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| [Black Dragons](../units/black_dragons.md#[dragon-utopia]../fields/dragon_utopia_creature_bank.md) | [Dragon Utopia](../fields/dragon_utopia_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 5 | 2 | 5 | 9 | - | :unit_passive: |
-| [Crystal Dragons](../units/crystal_dragons.md#[dragon-utopia]../fields/dragon_utopia_creature_bank.md) | [Dragon Utopia](../fields/dragon_utopia_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 6 | 2 | 6 | 16 | - | :unit_passive: |
-| [Cyclops](../units/cyclopes.md#[cyclops-stockpile]../fields/cyclops_stockpile_creature_bank.md) | [Cyclops Stockpile](../fields/cyclops_stockpile_creature_bank.md) | - | [:unit_ranged:](../units/index.md#ranged-units) | 5 | 1 | 5 | 8 | - | - |
-| [Diamond Golems](../units/diamond_golems.md#[pyramid]../fields/pyramid_creature_bank.md) | [Pyramid](../fields/pyramid_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 3 | 1 | 5 | 5 | - | :unit_passive: |
-| [Dragon Flies](../units/dragon_flies.md#[dragon-fly-hive]../fields/dragon_fly_hive_creature_bank.md) | [Dragon Fly Hive](../fields/dragon_fly_hive_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 3 | 0 | 2 | 8 | - | :unit_attack: |
-| [Dwarves](../units/dwarves.md#[dwarven-treasury]../fields/dwarven_treasury_creature_bank.md) | [Dwarven Treasury](../fields/dwarven_treasury_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 3 | 3 | - | :unit_passive: |
-| [Faerie Dragons](../units/faerie_dragons.md#[dragon-utopia]../fields/dragon_utopia_creature_bank.md) | [Dragon Utopia](../fields/dragon_utopia_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 4 | 2 | 6 | 15 | - | :unit_passive: |
-| [Familiars](../units/familiars.md#[imp-cache]../fields/imp_cache_creature_bank.md) | [Imp Cache](../fields/imp_cache_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 1 | 0 | 2 | 5 | - | - |
-| [Gold Dragons](../units/gold_dragons.md#[dragon-utopia]../fields/dragon_utopia_creature_bank.md) | [Dragon Utopia](../fields/dragon_utopia_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 5 | 2 | 6 | 10 | - | :unit_attack: |
-| [Gold Golems](../units/gold_golems.md#[pyramid]../fields/pyramid_creature_bank.md) | [Pyramid](../fields/pyramid_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 3 | 1 | 4 | 4 | - | :unit_passive: |
-| [Griffins](../units/griffins.md#[griffin-conservatory]../fields/griffin_conservatory_creature_bank.md) | [Griffin Conservatory](../fields/griffin_conservatory_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 3 | 0 | 4 | 8 | - | :unit_passive: |
-| [Medusas](../units/medusas.md#[medusa-stores]../fields/medusa_stores_creature_bank.md) | [Medusa Stores](../fields/medusa_stores_creature_bank.md) | - | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 0 | 3 | 6 | - | :unit_attack: |
-| [Nagas](../units/nagas.md#[naga-bank]../fields/naga_bank_creature_bank.md) | [Naga Bank](../fields/naga_bank_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 4 | 1 | 5 | 6 | - | :unit_attack: |
-| [Skeletons](../units/skeletons.md#[crypt]../fields/crypt_creature_bank.md) | [Crypt](../fields/crypt_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 1 | 0 | 2 | 4 | - | :unit_passive: |
-| [Vampires](../units/vampires.md#[crypt]../fields/crypt_creature_bank.md) | [Crypt](../fields/crypt_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | - | :unit_attack: |
-| [Water Elementals](../units/water_elementals.md#[derelict-ship]../fields/derelict_ship_creature_bank.md) | [Derelict Ship](../fields/derelict_ship_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 3 | 0 | 5 | 6 | - | :unit_passive: |
-| [Wraiths](../units/wraiths.md#[crypt]../fields/crypt_creature_bank.md) | [Crypt](../fields/crypt_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 3 | 5 | - | :unit_passive: |
-| [Wraiths](../units/wraiths.md#[shipwreck]../fields/shipwreck_creature_bank.md) | [Shipwreck](../fields/shipwreck_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 3 | 5 | - | :unit_passive: |
-| [Zombies](../units/zombies.md#[crypt]../fields/crypt_creature_bank.md) | [Crypt](../fields/crypt_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 1 | 0 | 2 | 3 | - | :unit_passive: |
+| [Black Dragons](../units/black_dragons.md#dragon-utopia) | [Dragon Utopia](../fields/dragon_utopia_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 5 | 2 | 5 | 9 | - | :unit_passive: |
+| [Crystal Dragons](../units/crystal_dragons.md#dragon-utopia) | [Dragon Utopia](../fields/dragon_utopia_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 6 | 2 | 6 | 16 | - | :unit_passive: |
+| [Cyclops](../units/cyclopes.md#cyclops-stockpile) | [Cyclops Stockpile](../fields/cyclops_stockpile_creature_bank.md) | - | [:unit_ranged:](../units/index.md#ranged-units) | 5 | 1 | 5 | 8 | - | - |
+| [Diamond Golems](../units/diamond_golems.md#pyramid) | [Pyramid](../fields/pyramid_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 3 | 1 | 5 | 5 | - | :unit_passive: |
+| [Dragon Flies](../units/dragon_flies.md#dragon-fly-hive) | [Dragon Fly Hive](../fields/dragon_fly_hive_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 3 | 0 | 2 | 8 | - | :unit_attack: |
+| [Dwarves](../units/dwarves.md#dwarven-treasury) | [Dwarven Treasury](../fields/dwarven_treasury_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 3 | 3 | - | :unit_passive: |
+| [Faerie Dragons](../units/faerie_dragons.md#dragon-utopia) | [Dragon Utopia](../fields/dragon_utopia_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 4 | 2 | 6 | 15 | - | :unit_passive: |
+| [Familiars](../units/familiars.md#imp-cache) | [Imp Cache](../fields/imp_cache_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 1 | 0 | 2 | 5 | - | - |
+| [Gold Dragons](../units/gold_dragons.md#dragon-utopia) | [Dragon Utopia](../fields/dragon_utopia_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 5 | 2 | 6 | 10 | - | :unit_attack: |
+| [Gold Golems](../units/gold_golems.md#pyramid) | [Pyramid](../fields/pyramid_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 3 | 1 | 4 | 4 | - | :unit_passive: |
+| [Griffins](../units/griffins.md#griffin-conservatory) | [Griffin Conservatory](../fields/griffin_conservatory_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 3 | 0 | 4 | 8 | - | :unit_passive: |
+| [Medusas](../units/medusas.md#medusa-stores) | [Medusa Stores](../fields/medusa_stores_creature_bank.md) | - | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 0 | 3 | 6 | - | :unit_attack: |
+| [Nagas](../units/nagas.md#naga-bank) | [Naga Bank](../fields/naga_bank_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 4 | 1 | 5 | 6 | - | :unit_attack: |
+| [Skeletons](../units/skeletons.md#crypt) | [Crypt](../fields/crypt_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 1 | 0 | 2 | 4 | - | :unit_passive: |
+| [Vampires](../units/vampires.md#crypt) | [Crypt](../fields/crypt_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | - | :unit_attack: |
+| [Water Elementals](../units/water_elementals.md#derelict-ship) | [Derelict Ship](../fields/derelict_ship_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 3 | 0 | 5 | 6 | - | :unit_passive: |
+| [Wraiths](../units/wraiths.md#crypt) | [Crypt](../fields/crypt_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 3 | 5 | - | :unit_passive: |
+| [Wraiths](../units/wraiths.md#shipwreck) | [Shipwreck](../fields/shipwreck_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 3 | 5 | - | :unit_passive: |
+| [Zombies](../units/zombies.md#crypt) | [Crypt](../fields/crypt_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 1 | 0 | 2 | 3 | - | :unit_passive: |
 
 
 ## Summoned Units
