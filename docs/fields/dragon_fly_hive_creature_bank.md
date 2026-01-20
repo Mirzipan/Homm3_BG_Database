@@ -12,7 +12,7 @@ ___
 
 | Units | Reward | Extra |
 | :--- | :--- | :--- |
-| 4x&nbsp;[Dragon&nbsp;Flies](../units/dragon_flies.md#dragon-fly-hive) | 1x&nbsp;[Dragon&nbsp;Flies](../units/dragon_flies.md) unit. | If the Creature Bank was guarded by at least 2 Stacked units, gain Stacked [Dragon&nbsp;Flies](../units/dragon_flies.md) instead. |
+| 4x&nbsp;[Dragon&nbsp;Flies](../units/dragon_flies.md#dragon-fly-hive) | 1x&nbsp;[Dragon&nbsp;Flies](../units/dragon_flies.md#dragon-fly-hive) unit. | If the Creature Bank was guarded by at least 2 Stacked units, gain Stacked [Dragon&nbsp;Flies](../units/dragon_flies.md#dragon-fly-hive) instead. |
 
 ___
 
