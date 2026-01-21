@@ -12,7 +12,7 @@ ___
 
 | Units | Reward | Extra |
 | :--- | :--- | :--- |
-| 1x&nbsp;[Skeletons](../units/skeletons.md)<br>1x&nbsp;[Zombies](../units/zombies.md)<br>1x&nbsp;[Wraiths](../units/wraiths.md)<br>1x&nbsp;[Vampires](../units/vampires.md) | 6 :gold:. | 2 :gold: for every Stacked unit. |
+| 1x&nbsp;[Skeletons](../units/skeletons.md#crypt)<br>1x&nbsp;[Zombies](../units/zombies.md#crypt)<br>1x&nbsp;[Wraiths](../units/wraiths.md#crypt)<br>1x&nbsp;[Vampires](../units/vampires.md#crypt) | 6 :gold:. | 2 :gold: for every Stacked unit. |
 
 ___
 

@@ -12,7 +12,7 @@ ___
 
 | Units | Reward | Extra |
 | :--- | :--- | :--- |
-| 4x&nbsp;[Dwarves](../units/dwarves.md) | 7 :gold:. | 3 :gold: for every Stacked unit. |
+| 4x&nbsp;[Dwarves](../units/dwarves.md#dwarven-treasury) | 7 :gold:. | 3 :gold: for every Stacked unit. |
 
 ___
 

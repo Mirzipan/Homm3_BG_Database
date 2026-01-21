@@ -12,7 +12,7 @@ ___
 
 | Units | Reward | Extra |
 | :--- | :--- | :--- |
-| 4x&nbsp;[Nagas](../units/nagas.md) | 6 :gold: and 2 :valuables:. | 6 :gold: and 1 :valuables: for every Stacked unit. |
+| 4x&nbsp;[Nagas](../units/nagas.md#naga-bank) | 6 :gold: and 2 :valuables:. | 6 :gold: and 1 :valuables: for every Stacked unit. |
 
 ___
 

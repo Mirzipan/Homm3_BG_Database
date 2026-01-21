@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-29 14:29+0000\n"
+"POT-Creation-Date: 2026-01-21 00:55+0000\n"
 "PO-Revision-Date: 2025-12-26 19:18+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -876,7 +876,7 @@ msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keyword
 msgid ""
 "| Units | Reward | Extra |\n"
 "| :--- | :--- | :--- |\n"
-"| 4x&nbsp;[Cyclopes](../units/cyclopes.md) | 8 :building_materials: and 2 :valuables:. | 2 :building_materials: and 1 :valuables: for every Stacked unit. |\n"
+"| 4x&nbsp;[Cyclopes](../units/cyclopes.md#cyclops-stockpile) | 8 :building_materials: and 2 :valuables:. | 2 :building_materials: and 1 :valuables: for every Stacked unit. |\n"
 msgstr ""
 
 #. type: Bullet: '- '

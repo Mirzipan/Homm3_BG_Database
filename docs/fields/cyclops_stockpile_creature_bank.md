@@ -12,7 +12,7 @@ ___
 
 | Units | Reward | Extra |
 | :--- | :--- | :--- |
-| 4x&nbsp;[Cyclopes](../units/cyclopes.md) | 8 :building_materials: and 2 :valuables:. | 2 :building_materials: and 1 :valuables: for every Stacked unit. |
+| 4x&nbsp;[Cyclopes](../units/cyclopes.md#cyclops-stockpile) | 8 :building_materials: and 2 :valuables:. | 2 :building_materials: and 1 :valuables: for every Stacked unit. |
 
 ___
 

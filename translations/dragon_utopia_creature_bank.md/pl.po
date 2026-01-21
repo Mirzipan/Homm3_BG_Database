@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-29 14:29+0000\n"
+"POT-Creation-Date: 2026-01-21 00:55+0000\n"
 "PO-Revision-Date: 2025-12-26 19:18+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -948,7 +948,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 msgid ""
 "| Units | Reward | Extra |\n"
 "| :--- | :--- | :--- |\n"
-"| 1x&nbsp;[Black&nbsp;Dragons](../units/black_dragons.md)<br>1x&nbsp;[Gold&nbsp;Dragons](../units/gold_dragons.md)<br>1x&nbsp;[Crystal&nbsp;Dragons](../units/crystal_dragons.md)<br>1x&nbsp;[Faerie&nbsp;Dragons](../units/faerie_dragons.md) | 40 :gold: and [**Search(3)**](../keywords/search.md) the [Artifact](../artifacts/index.md) deck. | [**Search(5)**](../keywords/search.md) the [Artifact](../artifacts/index.md) deck or the [Spell](../spells/index.md) deck for every Stacked unit. |\n"
+"| 1x&nbsp;[Black&nbsp;Dragons](../units/black_dragons.md#dragon-utopia)<br>1x&nbsp;[Gold&nbsp;Dragons](../units/gold_dragons.md#dragon-utopia)<br>1x&nbsp;[Crystal&nbsp;Dragons](../units/crystal_dragons.md#dragon-utopia)<br>1x&nbsp;[Faerie&nbsp;Dragons](../units/faerie_dragons.md#dragon-utopia) | 40 :gold: and [**Search(3)**](../keywords/search.md) the [Artifact](../artifacts/index.md) deck. | [**Search(5)**](../keywords/search.md) the [Artifact](../artifacts/index.md) deck or the [Spell](../spells/index.md) deck for every Stacked unit. |\n"
 msgstr ""
 
 #. type: Bullet: '- '
