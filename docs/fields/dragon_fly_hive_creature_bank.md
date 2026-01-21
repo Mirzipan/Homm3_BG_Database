@@ -17,6 +17,11 @@ ___
 ___
 
 
+## Notes
+
+- To get the Stacked version of the rewarded unit, the game difficulty needs to be at least Normal.
+
+
 ## Comes With
 
 - [Naval Battles Expansion](../content/naval_battles_expansion.md)
