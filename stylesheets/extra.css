@@ -1,0 +1,14 @@
+.md-typeset table:not([class]) th {
+    min-width: 2rem !important;
+}
+
+.glyph-text {
+    color: transparent;
+    position: absolute;
+    user-select: text;
+    pointer-events: none;
+}
+
+.glyph-text::selection {
+    color: transparent;
+}
