@@ -32,6 +32,8 @@ Here are some projects within the homm3bg community that are definitely worth a 
 - [Scenario Editor](https://zedero.github.io/HoMM3BoardgameScenarioEditor/)
 - [Hero Creator](https://k-adam.github.io/Homm3_hero_creator/)
 
+### Gameplay Enhancement
+- [Music Companion PWA](https://github.com/ExeVirus/h3omm_bgm)
 
 ## :initiative: Credits & Thanks
 
