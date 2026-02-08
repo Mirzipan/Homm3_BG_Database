@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-01-21 00:55+0000\n"
+"POT-Creation-Date: 2026-02-08 00:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,8 +43,10 @@ msgstr ""
 #: docs/fields/blocked_field.md docs/fields/buoy.md
 #: docs/fields/creature_bank.md docs/fields/derelict_ship.md
 #: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md
 #: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/flotsam.md docs/fields/jetsam.md
+#: docs/fields/empty_field.md docs/fields/flotsam.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/jetsam.md
 #: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
@@ -1444,7 +1446,7 @@ msgstr ""
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":attack: What Is This?"
+msgid ":attack: What Is This? { data-toc-label='What Is This?' }"
 msgstr ""
 
 #. type: Plain text
@@ -1468,7 +1470,7 @@ msgstr ""
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":defense: Future Plans?"
+msgid ":defense: Future Plans? { data-toc-label='Future Plans?' }"
 msgstr ""
 
 #. type: Bullet: '* '
@@ -1486,7 +1488,7 @@ msgstr ""
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":power: Disclaimer"
+msgid ":power: Disclaimer { data-toc-label='Disclaimer' }"
 msgstr ""
 
 #. type: Plain text
@@ -1499,7 +1501,7 @@ msgstr ""
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":skill: Other Community Projects"
+msgid ":skill: Other Community Projects { data-toc-label='Other Community Projects' }"
 msgstr ""
 
 #. type: Plain text
@@ -1551,7 +1553,7 @@ msgstr ""
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":initiative: Credits & Thanks"
+msgid ":initiative: Credits & Thanks { data-toc-label='Credits & Thanks' }"
 msgstr ""
 
 #. type: Bullet: '- '

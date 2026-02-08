@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2026-01-21 00:55+0000\n"
+"POT-Creation-Date: 2026-02-08 00:14+0000\n"
 "PO-Revision-Date: 2025-12-03 21:31+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -44,8 +44,10 @@ msgstr ""
 #: docs/fields/blocked_field.md docs/fields/buoy.md
 #: docs/fields/creature_bank.md docs/fields/derelict_ship.md
 #: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md
 #: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/flotsam.md docs/fields/jetsam.md
+#: docs/fields/empty_field.md docs/fields/flotsam.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/jetsam.md
 #: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
@@ -1420,8 +1422,8 @@ msgstr "Accueil"
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":attack: What Is This?"
-msgstr ":attack: qu'est-ce que ce wiki ?"
+msgid ":attack: What Is This? { data-toc-label='What Is This?' }"
+msgstr ""
 
 #. type: Plain text
 #: docs/index.md
@@ -1436,8 +1438,8 @@ msgstr "De temps en temps, j'ai envie de voir ce que font certaines cartes, soit
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":defense: Future Plans?"
-msgstr ":defense: Projets Futurs ?"
+msgid ":defense: Future Plans? { data-toc-label='Future Plans?' }"
+msgstr ""
 
 #. type: Bullet: '* '
 #: docs/index.md
@@ -1452,8 +1454,8 @@ msgstr "Correction d'informations incorrectes (toutes les cartes ont été saisi
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":power: Disclaimer"
-msgstr ":power: Information"
+msgid ":power: Disclaimer { data-toc-label='Disclaimer' }"
+msgstr ""
 
 #. type: Plain text
 #: docs/index.md
@@ -1463,8 +1465,8 @@ msgstr "Ce projet est un projet créé par des fans, et n'est en aucun cas offic
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":skill: Other Community Projects"
-msgstr ":skill: Autres projets communautaires"
+msgid ":skill: Other Community Projects { data-toc-label='Other Community Projects' }"
+msgstr ""
 
 #. type: Plain text
 #: docs/index.md
@@ -1510,8 +1512,9 @@ msgstr "[Créateur de Héros](https://k-adam.github.io/Homm3_hero_creator/)"
 
 #. type: Title ##
 #: docs/index.md
-#, no-wrap
-msgid ":initiative: Credits & Thanks"
+#, fuzzy, no-wrap
+#| msgid ":initiative: Credits & Thanks"
+msgid ":initiative: Credits & Thanks { data-toc-label='Credits & Thanks' }"
 msgstr ":initiative: Credits & Remerciements"
 
 #. type: Bullet: '- '
