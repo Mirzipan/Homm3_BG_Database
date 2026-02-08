@@ -1,5 +1,7 @@
 nav:
   - Accueil: "index.md"
+  - AI:
+     - "ai/*.md"
   - Caractéristiques:
      - "statistics/*.md"
   - Compétences:

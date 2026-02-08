@@ -2,6 +2,8 @@ nav:
   - "*.md"
   - Abilities:
      - "abilities/*.md"
+  - AI:
+     - "ai/*.md"
   - Artifacts:
      - "artifacts/*.md"
   - Astrologers Proclaim:

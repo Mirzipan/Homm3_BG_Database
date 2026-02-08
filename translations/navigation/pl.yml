@@ -1,5 +1,7 @@
 nav:
   - "index.md"
+  - AI:
+     - "ai/*.md"
   - Artefakty:
      - "artifacts/*.md"
   - Astrologowie ogłaszają:
