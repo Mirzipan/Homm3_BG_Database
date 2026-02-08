@@ -31,7 +31,7 @@ To resolve an Adventure Event card, resolve its effect.
 | Witch Hut | [**Search (1)**](../keywords/search.md) the [Ability](../abilities/index.md) deck. Add the card to your deck or discard it.<br><br>— OR —<br><br>[Remove](../keywords/remove.md) 1 card from your deck. |
 
 
-### Combat Card
+### Adventure-Combat Card
 
 Each card contains the Battle Reward and the Basic Reward, with the Battle Reward scaling based on which Combat Power (the number in the circle) the player chooses to challenge.
 
