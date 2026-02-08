@@ -48,9 +48,9 @@ If your total power is **equal or greater** than the chosen Combat Power:
 If your total power is **lower** than the chosen Combat Power:
 
 - Take the Basic Reward
-- Put a :paralysis: token on one of your [units](..units/index.md) that took part in this Combat
+- Put a :paralysis: token on one of your [units](../units/index.md) that took part in this Combat
 
-To get rid of the :paralysis: token, choose the [unit](..units/index.md) for Combat - do not add its :attack: to your power, then remove the :paralysis: token.
+To get rid of the :paralysis: token, choose the [unit](../units/index.md) for Combat - do not add its :attack: to your power, then remove the :paralysis: token.
 
 
 | Name | Battle Reward | Basic Reward |
