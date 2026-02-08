@@ -1,5 +1,7 @@
 nav:
   - Accueil: "index.md"
+  - Adventure:
+     - "adventure/*.md"
   - AI:
      - "ai/*.md"
   - Caractéristiques:

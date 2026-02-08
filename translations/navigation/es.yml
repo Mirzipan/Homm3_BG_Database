@@ -1,5 +1,7 @@
 nav:
   - "*.md"
+  - Adventure:
+     - "adventure/*.md"
   - AI:
      - "ai/*.md"
   - Artefactos:
