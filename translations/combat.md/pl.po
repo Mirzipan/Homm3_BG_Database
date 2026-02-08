@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-28 22:47+0000\n"
+"POT-Creation-Date: 2026-02-08 18:08+0000\n"
 "PO-Revision-Date: 2025-12-28 22:47+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. type: Title #
-#: docs/fields/creature_bank.md docs/keywords/combat.md
+#: docs/ai/index.md docs/fields/creature_bank.md docs/keywords/combat.md
 #, no-wrap
 msgid "Combat"
 msgstr "Walka"
@@ -70,4 +70,10 @@ msgstr "Przeszkoda"
 #. type: Plain text
 #: docs/keywords/combat.md docs/keywords/obstacle.md
 msgid "Any space that is occupied by a [unit](../units/index.md), an obstacle marker, a Wall or a Gate may not be stepped on.  [Flying units](../units/index.md#flying-units) may move through these spaces, but their movement is not allowed to end in such a space."
+msgstr ""
+
+#. type: Title ##
+#: docs/keywords/combat.md
+#, no-wrap
+msgid "Round"
 msgstr ""
