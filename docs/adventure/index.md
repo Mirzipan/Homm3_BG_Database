@@ -6,7 +6,7 @@
 Adventure mode includes Adventure cards of two types, Combat and Event.
 
 
-### Event Card
+### Adventure-Event Card
 
 To resolve an Adventure Event card, resolve its effect.
 
