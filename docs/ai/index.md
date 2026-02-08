@@ -11,17 +11,6 @@ Just like non-AI combat, the unit with the highest [:initiative:](../units/index
 
 When fighting an AI [Hero](../heroes/index.md), every time one of their [units](../units/index.md) activates, draw a card from their AI and resolve the effect in their stead. The strength of the effect depends on the [game difficulty](../difficulties.md).
 
-| Card | Type | Effect | Easy | Normal | Expert | Impossible |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| Attack | :might: | The [unit](../units/index.md) that is about to attack gains... | ...nothing. | +1 :attack: | +1 :attack: | +2 :attack: |
-| Attack | :might: | The [unit](../units/index.md) that is about to attack gains... | +1 :attack: | +1 :attack: | +2 :attack: | +2 :attack: |
-| Defense | :might: | Put this card on the [unit](../units/index.md) with the highest :health_points: in the army.<br>When this [unit](../units/index.md) is about to be attacked, it gains... | ...nothing. | +1 :defense: | +1 :defense: | +2 :defense: |
-| Defense | :might: | Put this card on the [unit](../units/index.md) that is to activate next.<br>When this [unit](../units/index.md) is about to be attacked, it gains... | +1 :defense: | +1 :defense: | +2 :defense: | +2 :defense: |
-| Cast a spell | :magic: | Draw a [spell](../spells/index.md) and cast it on the [unit](../units/index.md) with the highest :defense: in:<br>1. The player's army, if it inflicts damage or special status, or decreases the [unit's statistics](../units/index.md#statistics).<br>2. The AI's army, if it increases the [unit's statistics](../units/index.md#statistics).<br>The [spell](../spells/index.md) is cast with... | 0 :power: | 1 :power: | 1 :power: | 2 :power: |
-| Cast a spell | :magic: | Draw a [spell](../spells/index.md) and cast it on the [unit](../units/index.md) with the highest :defense: in:<br>1. The player's army, if it inflicts damage or special status, or decreases the [unit's statistics](../units/index.md#statistics).<br>2. The AI's army, if it increases the [unit's statistics](../units/index.md#statistics).<br>The [spell](../spells/index.md) is cast with... | 0 :power: | 1 :power: | 2 :power: | 3 :power: |
-| Use a skill | :skill: | Use the [skill](../abilities/index.md) described in the scenario. And... | ...nothing more. | ...nothing more. | ...do it again. | ...do it again. |
-| Use a skill | :skill: | Use the [skill](../abilities/index.md) described in the scenario. And... | ...nothing more. | ...if it is the first [Combat round](../keywords/combat.md#round), shuffle this card back into the AI deck. | ...if it is the first [Combat round](../keywords/combat.md#round), shuffle this card back into the AI deck. | ...do it again. |
-
 
 ### Targeting
 
@@ -43,6 +32,20 @@ The targeting priorities below assume that conditions are checked from the top a
 | :azure:&nbsp;:unit_ranged: | - :azure:&nbsp;:unit_ranged:<br>- :golden:&nbsp;:unit_ranged:<br>- :silver:&nbsp;:unit_ranged:<br>- :bronze:&nbsp;:unit_ranged:<br>- :azure:&nbsp;:unit_ground:&nbsp;:unit_flying:<br>- :golden:&nbsp;:unit_ground:&nbsp;:unit_flying:<br>- :silver:&nbsp;:unit_ground:&nbsp;:unit_flying:<br>- :bronze:&nbsp;:unit_ground:&nbsp;:unit_flying: |
 
 In case there's more than one valid target, attack the closest one. If there is a tie between equally valid targets, the player chooses which [Unit](../units/index.md) to attack.
+
+
+### AI Cards
+
+| Card | Type | Effect | Easy | Normal | Expert | Impossible |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Attack | :might: | The [unit](../units/index.md) that is about to attack gains... | ...nothing. | +1 :attack: | +1 :attack: | +2 :attack: |
+| Attack | :might: | The [unit](../units/index.md) that is about to attack gains... | +1 :attack: | +1 :attack: | +2 :attack: | +2 :attack: |
+| Defense | :might: | Put this card on the [unit](../units/index.md) with the highest :health_points: in the army.<br>When this [unit](../units/index.md) is about to be attacked, it gains... | ...nothing. | +1 :defense: | +1 :defense: | +2 :defense: |
+| Defense | :might: | Put this card on the [unit](../units/index.md) that is to activate next.<br>When this [unit](../units/index.md) is about to be attacked, it gains... | +1 :defense: | +1 :defense: | +2 :defense: | +2 :defense: |
+| Cast a spell | :magic: | Draw a [spell](../spells/index.md) and cast it on the [unit](../units/index.md) with the highest :defense: in:<br>1. The player's army, if it inflicts damage or special status, or decreases the [unit's statistics](../units/index.md#statistics).<br>2. The AI's army, if it increases the [unit's statistics](../units/index.md#statistics).<br>The [spell](../spells/index.md) is cast with... | 0 :power: | 1 :power: | 1 :power: | 2 :power: |
+| Cast a spell | :magic: | Draw a [spell](../spells/index.md) and cast it on the [unit](../units/index.md) with the highest :defense: in:<br>1. The player's army, if it inflicts damage or special status, or decreases the [unit's statistics](../units/index.md#statistics).<br>2. The AI's army, if it increases the [unit's statistics](../units/index.md#statistics).<br>The [spell](../spells/index.md) is cast with... | 0 :power: | 1 :power: | 2 :power: | 3 :power: |
+| Use a skill | :skill: | Use the [skill](../abilities/index.md) described in the scenario. And... | ...nothing more. | ...nothing more. | ...do it again. | ...do it again. |
+| Use a skill | :skill: | Use the [skill](../abilities/index.md) described in the scenario. And... | ...nothing more. | ...if it is the first [Combat round](../keywords/combat.md#round), shuffle this card back into the AI deck. | ...if it is the first [Combat round](../keywords/combat.md#round), shuffle this card back into the AI deck. | ...do it again. |
 
 
 ## Movement

@@ -1,5 +1,7 @@
 # Adventure
 
+Adventure is a Battlefield-only game mode that comes with the [Battlefield Expansion](../content/battlefield_expansion.md).
+
 
 ## Cards
 
