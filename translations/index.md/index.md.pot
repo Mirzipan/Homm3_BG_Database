@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-09 20:53+0000\n"
+"POT-Creation-Date: 2026-02-08 00:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1729,7 +1729,7 @@ msgstr ""
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":attack: What Is This?"
+msgid ":attack: What Is This? { data-toc-label='What Is This?' }"
 msgstr ""
 
 #. type: Plain text
@@ -1753,7 +1753,7 @@ msgstr ""
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":defense: Future Plans?"
+msgid ":defense: Future Plans? { data-toc-label='Future Plans?' }"
 msgstr ""
 
 #. type: Bullet: '* '
@@ -1771,7 +1771,7 @@ msgstr ""
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":power: Disclaimer"
+msgid ":power: Disclaimer { data-toc-label='Disclaimer' }"
 msgstr ""
 
 #. type: Plain text
@@ -1784,7 +1784,7 @@ msgstr ""
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":skill: Other Community Projects"
+msgid ":skill: Other Community Projects { data-toc-label='Other Community Projects' }"
 msgstr ""
 
 #. type: Plain text
@@ -1836,7 +1836,7 @@ msgstr ""
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":initiative: Credits & Thanks"
+msgid ":initiative: Credits & Thanks { data-toc-label='Credits & Thanks' }"
 msgstr ""
 
 #. type: Bullet: '- '

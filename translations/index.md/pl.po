@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-02-09 20:53+0000\n"
+"POT-Creation-Date: 2026-02-08 00:14+0000\n"
 "PO-Revision-Date: 2024-10-17 23:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1664,8 +1664,8 @@ msgstr "Strona Główna"
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":attack: What Is This?"
-msgstr ":attack: Co to jest?"
+msgid ":attack: What Is This? { data-toc-label='What Is This?' }"
+msgstr ""
 
 #. type: Plain text
 #: docs/index.md
@@ -1680,8 +1680,8 @@ msgstr "Co jakiś czas chciałem sprawdzić, co robią niektóre karty - czy to 
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":defense: Future Plans?"
-msgstr ":defense: Plany na przyszłość?"
+msgid ":defense: Future Plans? { data-toc-label='Future Plans?' }"
+msgstr ""
 
 #. type: Bullet: '* '
 #: docs/index.md
@@ -1696,8 +1696,8 @@ msgstr "Naprawić nieścisłości (wszystkie karty jak i ich tłumaczenia zosta�
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":power: Disclaimer"
-msgstr ":power: Zastrzeżenia"
+msgid ":power: Disclaimer { data-toc-label='Disclaimer' }"
+msgstr ""
 
 #. type: Plain text
 #: docs/index.md
@@ -1707,8 +1707,8 @@ msgstr "To fanowski projekt i w żaden sposób nie jest powiązany z [Archon Stu
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":skill: Other Community Projects"
-msgstr ":skill: Inne projekty społeczności"
+msgid ":skill: Other Community Projects { data-toc-label='Other Community Projects' }"
+msgstr ""
 
 #. type: Plain text
 #: docs/index.md
@@ -1754,8 +1754,9 @@ msgstr "[Kreator bohaterów](https://k-adam.github.io/Homm3_hero_creator/)"
 
 #. type: Title ##
 #: docs/index.md
-#, no-wrap
-msgid ":initiative: Credits & Thanks"
+#, fuzzy, no-wrap
+#| msgid ":initiative: Credits & Thanks"
+msgid ":initiative: Credits & Thanks { data-toc-label='Credits & Thanks' }"
 msgstr ":initiative: Podziękowania"
 
 #. type: Bullet: '- '
