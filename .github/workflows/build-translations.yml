@@ -9,6 +9,14 @@ jobs:
   build_translations:
     if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
+    name: Build translations [${{ matrix.language }}]
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - language: pl
+          - language: es
+          - language: fr
 
     steps:
       - name: Set up repository
@@ -20,11 +28,12 @@ jobs:
           version: "0.74"
           config: "po4a.cfg"
           args: "--no-translations"
+          language: ${{ matrix.language }}
 
       - name: Check if translations require updating
         run: |
           if [[ `git status --porcelain translations` ]]; then
-            echo "There are uncommited changes to translations:"
+            echo "There are uncommited changes to translations [${{ matrix.language }}]:"
             git status --porcelain translations
             git diff | tee po4a.patch | git --no-pager diff --color=always
             exit 1
@@ -33,7 +42,7 @@ jobs:
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: po4a-patch
+          name: po4a-patch-${{ matrix.language }}
           path: po4a.patch
           retention-days: 1
           if-no-files-found: ignore
