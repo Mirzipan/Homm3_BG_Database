@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-01-21 00:55+0000\n"
+"POT-Creation-Date: 2026-02-08 00:14+0000\n"
 "PO-Revision-Date: 2025-03-12 14:45+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
@@ -44,8 +44,10 @@ msgstr ""
 #: docs/fields/blocked_field.md docs/fields/buoy.md
 #: docs/fields/creature_bank.md docs/fields/derelict_ship.md
 #: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md
 #: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/flotsam.md docs/fields/jetsam.md
+#: docs/fields/empty_field.md docs/fields/flotsam.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/jetsam.md
 #: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
@@ -1968,8 +1970,8 @@ msgstr "Inicio"
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":attack: What Is This?"
-msgstr ":attack: ¿Qué Es Esto?"
+msgid ":attack: What Is This? { data-toc-label='What Is This?' }"
+msgstr ""
 
 #. type: Plain text
 #: docs/index.md
@@ -1984,8 +1986,8 @@ msgstr "De vez en cuando quiero ver lo que hacen algunas cartas, ya sea mientras
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":defense: Future Plans?"
-msgstr ":defense: ¿Planes Futuros?"
+msgid ":defense: Future Plans? { data-toc-label='Future Plans?' }"
+msgstr ""
 
 #. type: Bullet: '* '
 #: docs/index.md
@@ -2000,8 +2002,8 @@ msgstr "Corregir los datos incorrectos (todas las cartas se han incluido a mano,
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":power: Disclaimer"
-msgstr ":power: Descargo de Responsabilidad"
+msgid ":power: Disclaimer { data-toc-label='Disclaimer' }"
+msgstr ""
 
 #. type: Plain text
 #: docs/index.md
@@ -2011,8 +2013,8 @@ msgstr "Este proyecto es un proyecto de aficionados, y no es de ningún modo ofi
 #. type: Title ##
 #: docs/index.md
 #, no-wrap
-msgid ":skill: Other Community Projects"
-msgstr ":skill: Otros Proyectos Comunitarios"
+msgid ":skill: Other Community Projects { data-toc-label='Other Community Projects' }"
+msgstr ""
 
 #. type: Plain text
 #: docs/index.md
@@ -2060,8 +2062,9 @@ msgstr ""
 
 #. type: Title ##
 #: docs/index.md
-#, no-wrap
-msgid ":initiative: Credits & Thanks"
+#, fuzzy, no-wrap
+#| msgid ":initiative: Credits & Thanks"
+msgid ":initiative: Credits & Thanks { data-toc-label='Credits & Thanks' }"
 msgstr ":initiative: Créditos y Agradecimientos"
 
 #. type: Bullet: '- '
