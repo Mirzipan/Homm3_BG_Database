@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-01-21 23:55+0000\n"
+"POT-Creation-Date: 2026-02-08 18:08+0000\n"
 "PO-Revision-Date: 2025-12-26 19:18+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -383,6 +383,12 @@ msgstr "Uwagi"
 msgid "See Also"
 msgstr "Zobacz też"
 
+#. type: Title #
+#: docs/ai/index.md docs/fields/creature_bank.md docs/keywords/combat.md
+#, no-wrap
+msgid "Combat"
+msgstr "Walka"
+
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
 #: docs/astrologers_proclaim/annoying_lizard.md
@@ -694,12 +700,6 @@ msgstr "<p style=\"text-align: center;\" markdown>Każdy gracz natychmiast otrzy
 #: docs/fields/creature_bank.md
 msgid "A Creature Bank is not just a single field, it more of a field type, as there are multiple Creature Banks, each with their own set of guard [Units](../units/index.md) and rewards.  They can be either placed on the [Far (Ⅱ-Ⅲ) Map tiles](../tiles/index.md#far-tiles) or on the [Near (Ⅳ-Ⅴ) Map tiles](../tiles/index.md#near-tiles), based on the Roman numerals printed on the back of each Creature Bank token."
 msgstr ""
-
-#. type: Title #
-#: docs/fields/creature_bank.md docs/keywords/combat.md
-#, no-wrap
-msgid "Combat"
-msgstr "Walka"
 
 #. type: Plain text
 #: docs/fields/creature_bank.md

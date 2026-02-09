@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-01-21 23:55+0000\n"
+"POT-Creation-Date: 2026-02-08 18:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -383,6 +383,12 @@ msgstr ""
 msgid "See Also"
 msgstr ""
 
+#. type: Title #
+#: docs/ai/index.md docs/fields/creature_bank.md docs/keywords/combat.md
+#, no-wrap
+msgid "Combat"
+msgstr ""
+
 #. type: Plain text
 #: docs/astrologers_proclaim/ammo_cart.md
 #: docs/astrologers_proclaim/annoying_lizard.md
@@ -699,12 +705,6 @@ msgid ""
 "Ⅲ) Map tiles](../tiles/index.md#far-tiles) or on the [Near (Ⅳ-Ⅴ) Map tiles]"
 "(../tiles/index.md#near-tiles), based on the Roman numerals printed on the "
 "back of each Creature Bank token."
-msgstr ""
-
-#. type: Title #
-#: docs/fields/creature_bank.md docs/keywords/combat.md
-#, no-wrap
-msgid "Combat"
 msgstr ""
 
 #. type: Plain text

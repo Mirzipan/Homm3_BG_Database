@@ -23,3 +23,12 @@ Should a [unit](../units/index.md) receive damage from any source, it will be su
 
 Any space that is occupied by a [unit](../units/index.md), an obstacle marker, a Wall or a Gate may not be stepped on.
 [Flying units](../units/index.md#flying-units) may move through these spaces, but their movement is not allowed to end in such a space.
+
+
+## Round
+
+A combat round is a complete cycle of activations during Combat. At the start of a round, determine the order of activation for all participating [units](../units/index.md), usually by their :initiative: value from highest to lowest.
+
+During a round, each eligible unit normally gains one activation in this order. When a unit activates, it may move and/or perform actions as allowed by the rules of the game. After all units that can act this round have taken their activation (or passed), the round ends.
+
+When a new round begins, repeat the process of determining activation order if required by the scenario or rules. Some effects or abilities may last until the end of the current round or trigger at the start or end of a round.
