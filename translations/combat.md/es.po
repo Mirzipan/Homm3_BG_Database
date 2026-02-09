@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-08 18:08+0000\n"
+"POT-Creation-Date: 2026-02-09 20:53+0000\n"
 "PO-Revision-Date: 2025-12-28 22:47+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -77,4 +77,19 @@ msgstr "Las unidades voladoras pueden moverse por encima de obstáculos, siempre
 #: docs/keywords/combat.md
 #, no-wrap
 msgid "Round"
+msgstr ""
+
+#. type: Plain text
+#: docs/keywords/combat.md
+msgid "A combat round is a complete cycle of activations during Combat. At the start of a round, determine the order of activation for all participating [units](../units/index.md), usually by their :initiative: value from highest to lowest."
+msgstr ""
+
+#. type: Plain text
+#: docs/keywords/combat.md
+msgid "During a round, each eligible unit normally gains one activation in this order. When a unit activates, it may move and/or perform actions as allowed by the rules of the game. After all units that can act this round have taken their activation (or passed), the round ends."
+msgstr ""
+
+#. type: Plain text
+#: docs/keywords/combat.md
+msgid "When a new round begins, repeat the process of determining activation order if required by the scenario or rules. Some effects or abilities may last until the end of the current round or trigger at the start or end of a round."
 msgstr ""

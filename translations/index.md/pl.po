@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-02-08 18:08+0000\n"
+"POT-Creation-Date: 2026-02-09 20:53+0000\n"
 "PO-Revision-Date: 2024-10-17 23:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -501,6 +501,11 @@ msgstr ""
 msgid "Adventure"
 msgstr ""
 
+#. type: Plain text
+#: docs/adventure/index.md
+msgid "Adventure is a Battlefield-only game mode that comes with the [Battlefield Expansion](../content/battlefield_expansion.md)."
+msgstr ""
+
 #. type: Title ##
 #: docs/adventure/index.md docs/content/naval_battles_expansion.md
 #: docs/content/regular_stretch_goals.md docs/fields/pandoras_box.md
@@ -516,7 +521,7 @@ msgstr ""
 #. type: Title ###
 #: docs/adventure/index.md
 #, no-wrap
-msgid "Event Card"
+msgid "Adventure-Event Card"
 msgstr ""
 
 #. type: Plain text
@@ -553,7 +558,7 @@ msgstr ""
 #: docs/adventure/index.md
 #, fuzzy, no-wrap
 #| msgid "Combat"
-msgid "Combat Card"
+msgid "Adventure-Combat Card"
 msgstr "Walka"
 
 #. type: Plain text
@@ -600,12 +605,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/adventure/index.md
-msgid "Put a :paralysis: token on one of your [units](..units/index.md) that took part in this Combat"
+msgid "Put a :paralysis: token on one of your [units](../units/index.md) that took part in this Combat"
 msgstr ""
 
 #. type: Plain text
 #: docs/adventure/index.md
-msgid "To get rid of the :paralysis: token, choose the [unit](..units/index.md) for Combat - do not add its :attack: to your power, then remove the :paralysis: token."
+msgid "To get rid of the :paralysis: token, choose the [unit](../units/index.md) for Combat - do not add its :attack: to your power, then remove the :paralysis: token."
 msgstr ""
 
 #. type: Plain text
@@ -654,22 +659,6 @@ msgstr ""
 msgid "When fighting an AI [Hero](../heroes/index.md), every time one of their [units](../units/index.md) activates, draw a card from their AI and resolve the effect in their stead. The strength of the effect depends on the [game difficulty](../difficulties.md)."
 msgstr ""
 
-#. type: Plain text
-#: docs/ai/index.md
-#, no-wrap
-msgid ""
-"| Card | Type | Effect | Easy | Normal | Expert | Impossible |\n"
-"| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n"
-"| Attack | :might: | The [unit](../units/index.md) that is about to attack gains... | ...nothing. | +1 :attack: | +1 :attack: | +2 :attack: |\n"
-"| Attack | :might: | The [unit](../units/index.md) that is about to attack gains... | +1 :attack: | +1 :attack: | +2 :attack: | +2 :attack: |\n"
-"| Defense | :might: | Put this card on the [unit](../units/index.md) with the highest :health_points: in the army.<br>When this [unit](../units/index.md) is about to be attacked, it gains... | ...nothing. | +1 :defense: | +1 :defense: | +2 :defense: |\n"
-"| Defense | :might: | Put this card on the [unit](../units/index.md) that is to activate next.<br>When this [unit](../units/index.md) is about to be attacked, it gains... | +1 :defense: | +1 :defense: | +2 :defense: | +2 :defense: |\n"
-"| Cast a spell | :magic: | Draw a [spell](../spells/index.md) and cast it on the [unit](../units/index.md) with the highest :defense: in:<br>1. The player's army, if it inflicts damage or special status, or decreases the [unit's statistics](../units/index.md#statistics).<br>2. The AI's army, if it increases the [unit's statistics](../units/index.md#statistics).<br>The [spell](../spells/index.md) is cast with... | 0 :power: | 1 :power: | 1 :power: | 2 :power: |\n"
-"| Cast a spell | :magic: | Draw a [spell](../spells/index.md) and cast it on the [unit](../units/index.md) with the highest :defense: in:<br>1. The player's army, if it inflicts damage or special status, or decreases the [unit's statistics](../units/index.md#statistics).<br>2. The AI's army, if it increases the [unit's statistics](../units/index.md#statistics).<br>The [spell](../spells/index.md) is cast with... | 0 :power: | 1 :power: | 2 :power: | 3 :power: |\n"
-"| Use a skill | :skill: | Use the [skill](../abilities/index.md) described in the scenario. And... | ...nothing more. | ...nothing more. | ...do it again. | ...do it again. |\n"
-"| Use a skill | :skill: | Use the [skill](../abilities/index.md) described in the scenario. And... | ...nothing more. | ...if it is the first [Combat round](../keywords/combat.md#round), shuffle this card back into the AI deck. | ...if it is the first [Combat round](../keywords/combat.md#round), shuffle this card back into the AI deck. | ...do it again. |\n"
-msgstr ""
-
 #. type: Title ###
 #: docs/ai/index.md
 #, no-wrap
@@ -706,6 +695,29 @@ msgstr ""
 msgid "In case there's more than one valid target, attack the closest one. If there is a tie between equally valid targets, the player chooses which [Unit](../units/index.md) to attack."
 msgstr ""
 
+#. type: Title ###
+#: docs/ai/index.md
+#, fuzzy, no-wrap
+#| msgid "Cards"
+msgid "AI Cards"
+msgstr "Karty"
+
+#. type: Plain text
+#: docs/ai/index.md
+#, no-wrap
+msgid ""
+"| Card | Type | Effect | Easy | Normal | Expert | Impossible |\n"
+"| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n"
+"| Attack | :might: | The [unit](../units/index.md) that is about to attack gains... | ...nothing. | +1 :attack: | +1 :attack: | +2 :attack: |\n"
+"| Attack | :might: | The [unit](../units/index.md) that is about to attack gains... | +1 :attack: | +1 :attack: | +2 :attack: | +2 :attack: |\n"
+"| Defense | :might: | Put this card on the [unit](../units/index.md) with the highest :health_points: in the army.<br>When this [unit](../units/index.md) is about to be attacked, it gains... | ...nothing. | +1 :defense: | +1 :defense: | +2 :defense: |\n"
+"| Defense | :might: | Put this card on the [unit](../units/index.md) that is to activate next.<br>When this [unit](../units/index.md) is about to be attacked, it gains... | +1 :defense: | +1 :defense: | +2 :defense: | +2 :defense: |\n"
+"| Cast a spell | :magic: | Draw a [spell](../spells/index.md) and cast it on the [unit](../units/index.md) with the highest :defense: in:<br>1. The player's army, if it inflicts damage or special status, or decreases the [unit's statistics](../units/index.md#statistics).<br>2. The AI's army, if it increases the [unit's statistics](../units/index.md#statistics).<br>The [spell](../spells/index.md) is cast with... | 0 :power: | 1 :power: | 1 :power: | 2 :power: |\n"
+"| Cast a spell | :magic: | Draw a [spell](../spells/index.md) and cast it on the [unit](../units/index.md) with the highest :defense: in:<br>1. The player's army, if it inflicts damage or special status, or decreases the [unit's statistics](../units/index.md#statistics).<br>2. The AI's army, if it increases the [unit's statistics](../units/index.md#statistics).<br>The [spell](../spells/index.md) is cast with... | 0 :power: | 1 :power: | 2 :power: | 3 :power: |\n"
+"| Use a skill | :skill: | Use the [skill](../abilities/index.md) described in the scenario. And... | ...nothing more. | ...nothing more. | ...do it again. | ...do it again. |\n"
+"| Use a skill | :skill: | Use the [skill](../abilities/index.md) described in the scenario. And... | ...nothing more. | ...if it is the first [Combat round](../keywords/combat.md#round), shuffle this card back into the AI deck. | ...if it is the first [Combat round](../keywords/combat.md#round), shuffle this card back into the AI deck. | ...do it again. |\n"
+msgstr ""
+
 #. type: Title ##
 #: docs/ai/index.md
 #, no-wrap
@@ -719,7 +731,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/ai/index.md
-msgid "If a player's [Hero](../heroes/index.md) is on the same [Tile](../tiles/index.md) as the AI, spend all MP to move towards them and attempty to start [Combat](../keywords/index.md)."
+msgid "If a player's [Hero](../heroes/index.md) is on the same [Tile](../tiles/index.md) as the AI, spend all MP to move towards them and attempt to start [Combat](../keywords/index.md)."
 msgstr ""
 
 #. type: Bullet: '- '
