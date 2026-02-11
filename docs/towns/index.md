@@ -38,4 +38,4 @@ Below is a brief overview of the various building types.
 ## See Also
 
 - [List of Heroes](../heroes/index.md)
-- [List of Units](../units/index.md)  
+- [List of Units](../units/index.md)

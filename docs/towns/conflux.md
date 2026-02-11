@@ -17,7 +17,7 @@
 ## Heroes
 
 | Name | Class | Ability | Specialty |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Ciele](../heroes/ciele.md) | :magic: Elementalist | [Water Magic](../abilities/water_magic.md) | [Magic Arrow](../heroes/ciele.md#specialty) |
 | [Erdamon](../heroes/erdamon.md) | :might: Planeswalker | [Estates](../abilities/estates.md) | [Magma Elementals](../heroes/erdamon.md#specialty) |
 | [Luna](../heroes/luna.md) | :magic: Elementalist | [Basic Fire Magic](../abilities/basic_fire_magic.md) | [Fire Wall](../heroes/luna.md#specialty) |
@@ -31,7 +31,7 @@
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Sprites](../units/sprites.md#few) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 2 | 7 | 2 :gold: | - |
 | [Sprites](../units/sprites.md#pack) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | **4** | **9** | 4 :gold: | :unit_attack: |
 | [Storm Elementals](../units/storm_elementals.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 0 | 3 | 7 | 3 :gold: | - |
