@@ -12,7 +12,7 @@ Every unit of every town has a neutral variant.
 ## Neutral Units
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Air Elementals](../units/air_elementals.md#neutral) | Neutral | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 0 | 3 | 7 | 7 :gold: | :unit_passive: |
 | [Boars](../units/boars.md#neutral) | Neutral | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 0 | 4 | 6 | 4 :gold: | - |
 | [Centaurs](../units/centaurs.md#neutral) | Neutral | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 0 | 5 | 7 | 3 :gold: | - |
@@ -113,7 +113,7 @@ Every unit of every town has a neutral variant.
 [Units](../units/index.md) that are guarding a specific [Creature Bank](../fields/creature_bank.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Black Dragons](../units/black_dragons.md#dragon-utopia) | [Dragon Utopia](../fields/dragon_utopia_creature_bank.md) | - | [:unit_flying:](../units/index.md#flying-units) | 5 | 2 | 5 | 9 | - | :unit_passive: |
 | [Crystal Dragons](../units/crystal_dragons.md#dragon-utopia) | [Dragon Utopia](../fields/dragon_utopia_creature_bank.md) | - | [:unit_ground:](../units/index.md#ground-units) | 6 | 2 | 6 | 16 | - | :unit_passive: |
 | [Cyclops](../units/cyclopes.md#cyclops-stockpile) | [Cyclops Stockpile](../fields/cyclops_stockpile_creature_bank.md) | - | [:unit_ranged:](../units/index.md#ranged-units) | 5 | 1 | 5 | 8 | - | - |
@@ -140,7 +140,7 @@ Every unit of every town has a neutral variant.
 [Units](../units/index.md) that are [Summoned](../keywords/summon.md) by [Spells](../spells/index.md).
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Air Elementals](../units/air_elementals.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 0 | 4 | 8 | - | :unit_passive: |
 | [Air Elementals](../units/air_elementals.md#pack) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **3** | 0 | 4 | 8 | - | :unit_passive: |
 | [Fire Elementals](../units/fire_elementals.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 4 | 5 | - | :unit_passive: |

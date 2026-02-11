@@ -38,7 +38,7 @@ Also shown as :necro:.
 ## Heroes
 
 | Name | Class | Ability | Specialty |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Lord Haart](../heroes/lord_haart_necropolis.md) | :might: Death Knight | [Necromancy](../abilities/necromancy.md) | [Dread Knights](../heroes/lord_haart_necropolis.md#specialty) |
 | [Moandor](../heroes/moandor.md) | :might: Death Knight | [Necromancy](../abilities/necromancy.md) | [Liches](../heroes/moandor.md#specialty) |
 | [Sandro](../heroes/sandro.md) | :magic: Necromancer | [Sorcery](../abilities/sorcery.md) | [Cloak of the Undead King](../heroes/sandro.md#specialty) |
@@ -52,7 +52,7 @@ Also shown as :necro:.
 For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
-| : --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
 | [Skeletons](../units/skeletons.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - |
 | [Skeletons](../units/skeletons.md#pack) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | - |
 | [Zombies](../units/zombies.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 3 | 3 | 3 :gold: | :unit_passive: |
