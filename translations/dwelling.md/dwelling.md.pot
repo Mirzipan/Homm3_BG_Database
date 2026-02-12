@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-22 21:01+0000\n"
+"POT-Creation-Date: 2026-02-12 05:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +19,8 @@ msgstr ""
 #. type: Title ##
 #: docs/abilities/air_magic.md docs/abilities/archery.md
 #: docs/abilities/armorer.md docs/abilities/artillery.md
+#: docs/abilities/basic_air_magic.md docs/abilities/basic_earth_magic.md
+#: docs/abilities/basic_fire_magic.md docs/abilities/basic_water_magic.md
 #: docs/abilities/diplomacy.md docs/abilities/earth_magic.md
 #: docs/abilities/fire_magic.md docs/abilities/first_aid.md
 #: docs/abilities/intelligence.md docs/abilities/logistics.md
@@ -27,44 +29,39 @@ msgstr ""
 #: docs/abilities/resistance.md docs/abilities/sorcery.md
 #: docs/abilities/water_magic.md docs/artifacts/angel_wings.md
 #: docs/artifacts/arms_of_legion.md docs/artifacts/centaurs_axe.md
-#: docs/artifacts/head_of_legion.md docs/artifacts/inexhaustible_cart_of_ore.md
-#: docs/artifacts/legs_of_legion.md docs/artifacts/loins_of_legion.md
-#: docs/artifacts/spellbinders_hat.md docs/artifacts/torso_of_legion.md
-#: docs/astrologers_proclaim/ammo_cart.md
+#: docs/artifacts/head_of_legion.md docs/artifacts/index.md
+#: docs/artifacts/inexhaustible_cart_of_ore.md docs/artifacts/legs_of_legion.md
+#: docs/artifacts/loins_of_legion.md docs/artifacts/spellbinders_hat.md
+#: docs/artifacts/torso_of_legion.md docs/astrologers_proclaim/ammo_cart.md
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
+#: docs/astrologers_proclaim/elementals.md
 #: docs/astrologers_proclaim/explorers.md
 #: docs/astrologers_proclaim/forty_thieves.md
 #: docs/astrologers_proclaim/friendly_beaver.md
 #: docs/astrologers_proclaim/mcgiver.md
-#: docs/astrologers_proclaim/unexpected_reinforcements.md docs/fields/buoy.md
-#: docs/fields/derelict_ship.md docs/fields/elemental_conflux.md
-#: docs/fields/flotsam.md docs/fields/jetsam.md docs/fields/mermaid.md
-#: docs/fields/sea_barrel.md docs/fields/sea_chest.md docs/fields/town.md
-#: docs/fields/windmill.md docs/heroes/adelaide.md docs/heroes/alamar.md
-#: docs/heroes/deemer.md docs/heroes/jeddite.md docs/heroes/pasis.md
-#: docs/heroes/sandro.md docs/heroes/sephinroth.md docs/heroes/solmyr.md
-#: docs/heroes/tazar.md docs/heroes/xyron.md
-#: docs/keywords/alternative_action.md docs/keywords/attack_die.md
-#: docs/keywords/attack_value.md docs/keywords/blocked_field.md
-#: docs/keywords/center_tile.md docs/keywords/damage.md
-#: docs/keywords/defense_value.md docs/keywords/dwelling.md
-#: docs/keywords/empty_field.md docs/keywords/far_tile.md
-#: docs/keywords/flaggable_field.md docs/units/index.md#flying-units
-#: docs/keywords/ground_unit.md docs/keywords/health_points.md
-#: docs/keywords/initiative_value.md docs/keywords/major_artifact.md
-#: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
-#: docs/keywords/morale.md#negative docs/keywords/obstacle.md
-#: docs/keywords/paralysis.md docs/keywords/permanent_effect.md
-#: docs/keywords/morale.md#positive docs/keywords/ranged_unit.md
-#: docs/keywords/recruit.md docs/keywords/reinforce.md
-#: docs/keywords/relic_artifact.md docs/keywords/remove.md
-#: docs/keywords/resource_die.md docs/keywords/revisitable_field.md
-#: docs/keywords/sea_tile.md docs/keywords/search.md
-#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
-#: docs/keywords/treasure_die.md docs/keywords/visitable_field.md
-#: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
-#: docs/spells/blind.md docs/spells/chain_lightning.md docs/spells/cure.md
-#: docs/spells/dimension_door.md docs/spells/dispel.md
+#: docs/astrologers_proclaim/unexpected_reinforcements.md
+#: docs/fields/blocked_field.md docs/fields/buoy.md
+#: docs/fields/creature_bank.md docs/fields/derelict_ship.md
+#: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md
+#: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
+#: docs/fields/empty_field.md docs/fields/flotsam.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/jetsam.md
+#: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
+#: docs/fields/sea_chest.md docs/fields/shipwreck.md
+#: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
+#: docs/fields/temple_of_the_sea.md docs/fields/town.md docs/fields/windmill.md
+#: docs/heroes/adelaide.md docs/heroes/alamar.md docs/heroes/deemer.md
+#: docs/heroes/jeddite.md docs/heroes/pasis.md docs/heroes/sandro.md
+#: docs/heroes/sephinroth.md docs/heroes/solmyr.md docs/heroes/tazar.md
+#: docs/heroes/xyron.md docs/keywords/alternative_action.md
+#: docs/keywords/dice.md docs/keywords/dwelling.md docs/keywords/empower.md
+#: docs/keywords/morale.md docs/keywords/paralysis.md
+#: docs/keywords/permanent_effect.md docs/keywords/recruit.md
+#: docs/keywords/reinforce.md docs/keywords/remove.md docs/keywords/search.md
+#: docs/keywords/summon.md docs/spells/anti-magic.md docs/spells/berserk.md
+#: docs/spells/bless.md docs/spells/blind.md docs/spells/chain_lightning.md
+#: docs/spells/cure.md docs/spells/dimension_door.md docs/spells/dispel.md
 #: docs/spells/fire_shield.md docs/spells/fire_wall.md docs/spells/fireball.md
 #: docs/spells/fortune.md docs/spells/frost_ring.md docs/spells/haste.md
 #: docs/spells/implosion.md docs/spells/inferno.md docs/spells/magic_arrow.md
@@ -104,12 +101,12 @@ msgstr ""
 msgid ""
 "A building that can be built in your [town](../towns/index.md) that allows "
 "you to [recruit](recruit.md) [units](../units/index.md) of the corresponding "
-"tier (:bronze:, :silver:, or :golden:)."
+"tier (:bronze_tier:, :silver_tier:, or :gold_tier:)."
 msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/dwelling.md
 msgid ""
 "Dwellings have to be built in the following "
-"order: :bronze: :silver: :golden:."
+"order: :bronze_tier: :silver_tier: :gold_tier:."
 msgstr ""

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-01-07 06:02+0000\n"
+"POT-Creation-Date: 2026-02-12 05:51+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -43,8 +43,10 @@ msgstr ""
 #: docs/fields/blocked_field.md docs/fields/buoy.md
 #: docs/fields/creature_bank.md docs/fields/derelict_ship.md
 #: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md
 #: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/flotsam.md docs/fields/jetsam.md
+#: docs/fields/empty_field.md docs/fields/flotsam.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/jetsam.md
 #: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
@@ -941,8 +943,8 @@ msgid ""
 "| Statistics | Few | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :golden: | :golden: | :golden: |\n"
-"| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |\n"
+"| Tier | :gold_tier: | :gold_tier: | :gold_tier: |\n"
+"| Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |\n"
 "| :attack: | 5 | **6** | 5 |\n"
 "| :defense: | 1 | 1 | 1 |\n"
 "| :health_points: | 8 | 8 | 7 |\n"
