@@ -27,7 +27,7 @@
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spell:](../spells/index.md). |
 | Housing Estate | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze_tier: [units](#units). |
 | Spring upon Arches | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver_tier: [units](#units). |
-| Cliff behind the Glade | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
+| Cliff behind the Glade | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :gold_tier: [units](#units). |
 | Mystic Pond | 7 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, roll 1 [Resource die](../keywords/dice.md#resource-die) and gain the rolled resources. |
 | Saplings | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | At the beginning of each [Astrologer's round](../astrologers_proclaim/index.md), instantly **Reinforce** 1 of your :bronze_tier: or :silver_tier: [units](#units) for half of the  :gold: cost. |
 
@@ -61,10 +61,10 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Pegasi](../units/pegasi.md#pack) | Pack | :silver_tier: | [:flying_unit:](../units/index.md#flying-units) | **4** | 0 | **6** | **12** | 10 :gold: | :unit_passive: |
 | [Dendroids](../units/dendroids.md#few) | Few | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 5 | 3 | 8 :gold: | - |
 | [Dendroids](../units/dendroids.md#pack) | Pack | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | **6** | **4** | 15 :gold: | :unit_passive: |
-| [Unicorns](../units/unicorns.md#few) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 5 | 1 | 8 | 7 | 11 :gold: | :unit_passive: |
-| [Unicorns](../units/unicorns.md#pack) | Pack | :golden: | [:ground_unit:](../units/index.md#ground-units) | **6** | 1 | 8 | **9** | 18 :gold:<br>1 :valuables: | :unit_passive: |
-| [Gold Dragons](../units/gold_dragons.md#few) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 5 | 3 | 9 | 10 | 22 :gold:<br>1 :valuables: | :unit_attack: |
-| [Gold Dragons](../units/gold_dragons.md#pack) | Pack | :golden: | [:flying_unit:](../units/index.md#flying-units) | **6** | 3 | **10** | **16** | 30 :gold:<br>2 :valuables: | :unit_attack: |
+| [Unicorns](../units/unicorns.md#few) | Few | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | 5 | 1 | 8 | 7 | 11 :gold: | :unit_passive: |
+| [Unicorns](../units/unicorns.md#pack) | Pack | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | **6** | 1 | 8 | **9** | 18 :gold:<br>1 :valuables: | :unit_passive: |
+| [Gold Dragons](../units/gold_dragons.md#few) | Few | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | 5 | 3 | 9 | 10 | 22 :gold:<br>1 :valuables: | :unit_attack: |
+| [Gold Dragons](../units/gold_dragons.md#pack) | Pack | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | **6** | 3 | **10** | **16** | 30 :gold:<br>2 :valuables: | :unit_attack: |
 
 
 ## Comes With

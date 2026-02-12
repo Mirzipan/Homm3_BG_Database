@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Earth Spell](index.md#school-of-earth-magic)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0. You can cast this spell immediately after the enemy [unit's](../units/index.md) attack.<br><br>:power: 0 ➣ \*:bronze_tier:<br>:power: 2 ➣ \*:bronze_tier: or :silver_tier:<br>:power: 4 ➣ \*:bronze_tier: or :silver_tier: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
+<p style="text-align: center;" markdown>:instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0. You can cast this spell immediately after the enemy [unit's](../units/index.md) attack.<br><br>:power: 0 ➣ \*:bronze_tier:<br>:power: 2 ➣ \*:bronze_tier: or :silver_tier:<br>:power: 4 ➣ \*:bronze_tier: or :silver_tier: or :gold_tier:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

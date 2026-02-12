@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Water Spell](index.md#school-of-water-magic)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Remove all :ongoing: effects from a space or a \* [unit](../units/index.md) and the space it occupies.<br><br>:power: 0 ➣ \*:bronze_tier:<br>:power: 1 ➣ \*:bronze_tier: or :silver_tier:<br>:power: 2 ➣ \*:bronze_tier: or :silver_tier: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
+<p style="text-align: center;" markdown>:instant: Remove all :ongoing: effects from a space or a \* [unit](../units/index.md) and the space it occupies.<br><br>:power: 0 ➣ \*:bronze_tier:<br>:power: 1 ➣ \*:bronze_tier: or :silver_tier:<br>:power: 2 ➣ \*:bronze_tier: or :silver_tier: or :gold_tier:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

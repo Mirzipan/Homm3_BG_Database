@@ -27,7 +27,7 @@
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spell:](../spells/index.md). |
 | Warrens | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze_tier: [units](#units). |
 | Inner Labyrinths | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver_tier: [units](#units). |
-| Ancient Lairs | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
+| Ancient Lairs | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :gold_tier: [units](#units). |
 | Portal of Summoning | 7 :gold:<br>3 :building_materials:<br>1 :valuables: | At the beginning of your turn, you can draw 1 [Neutral Unit](../units/index.md) card from decks corresponding to the Dwellings in your Town and :pay: the Recruitment cost to **Recruit** this [unit](../units/index.md). |
 | Mana Vortex | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | At the beginning of your turn, discard 1 card from your hand to shuffle your discard pile back into your deck of Might and Magic. Then **Search(3)** from it. |
 
@@ -61,12 +61,12 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Medusas](../units/medusas.md#pack) | Pack | :silver_tier: | [:ranged_unit:](../units/index.md#ranged-units) | **4** | 1 | 4 | **6** | 12 :gold: | :unit_passive: :unit_retaliation: |
 | [Minotaurs](../units/minotaurs.md#few) | Few | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 4 | 6 | 8 :gold: | :unit_attack: |
 | [Minotaurs](../units/minotaurs.md#pack) | Pack | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | **5** | 2 | 4 | **8** | 14 :gold: | :unit_attack: |
-| [Manticores](../units/manticores.md#few) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 5 | 1 | 6 | 7 | 10 :gold: | - |
-| [Manticores](../units/manticores.md#pack) | Pack | :golden: | [:flying_unit:](../units/index.md#flying-units) | 5 | 1 | 6 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: |
-| [Manticores](../units/manticores.md#few-alternate) | Few (Alternate) | :golden: | [:flying_unit:](../units/index.md#flying-units) | 4 | 1 | 7 | 8 | 12 :gold: | :unit_attack: |
-| [Manticores](../units/manticores.md#pack-alternate) | Pack (Alternate) | :golden: | [:flying_unit:](../units/index.md#flying-units) | 4 | **2** | 7 | **11** | 18 :gold:<br>1 :valuables: | :unit_passive: |
-| [Black Dragons](../units/black_dragons.md#few) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 6 | 3 | 8 | 11 | 19 :gold:<br>1 :valuables: | :unit_passive: |
-| [Black Dragons](../units/black_dragons.md#pack) | Pack | :golden: | [:flying_unit:](../units/index.md#flying-units) | **8** | 3 | 8 | **15** | 33 :gold:<br>2 :valuables: | :unit_passive: |
+| [Manticores](../units/manticores.md#few) | Few | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | 5 | 1 | 6 | 7 | 10 :gold: | - |
+| [Manticores](../units/manticores.md#pack) | Pack | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | 5 | 1 | 6 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: |
+| [Manticores](../units/manticores.md#few-alternate) | Few (Alternate) | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | 4 | 1 | 7 | 8 | 12 :gold: | :unit_attack: |
+| [Manticores](../units/manticores.md#pack-alternate) | Pack (Alternate) | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | 4 | **2** | 7 | **11** | 18 :gold:<br>1 :valuables: | :unit_passive: |
+| [Black Dragons](../units/black_dragons.md#few) | Few | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | 6 | 3 | 8 | 11 | 19 :gold:<br>1 :valuables: | :unit_passive: |
+| [Black Dragons](../units/black_dragons.md#pack) | Pack | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | **8** | 3 | 8 | **15** | 33 :gold:<br>2 :valuables: | :unit_passive: |
 
 
 ## Comes With

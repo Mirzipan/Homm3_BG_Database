@@ -16,7 +16,7 @@
 | Statistics | Neutral | Pyramid |
 | :--- | :---: | :---: |
 | Town | [Neutral](../towns/neutral.md) | - |
-| Tier | :golden: | - |
+| Tier | :gold_tier: | - |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 3 | 3 |
 | :defense: | 2 | 1 |

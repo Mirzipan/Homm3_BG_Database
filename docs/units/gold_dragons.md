@@ -28,7 +28,7 @@
 | Statistics | Few | Pack | Neutral | Dragon Utopia |
 | :--- | :---: | :---: | :---: | :---: |
 | Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) | - |
-| Tier | :golden: | :golden: | :golden: | - |
+| Tier | :gold_tier: | :gold_tier: | :gold_tier: | - |
 | Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | :azure: | [:flying_unit:](index.md#flying-units) |
 | :attack: | 5 | **6** | 6 | 5 |
 | :defense: | 3 | 3 | 3 | 2 |

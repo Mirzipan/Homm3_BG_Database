@@ -18,18 +18,18 @@ The targeting priorities below assume that conditions are checked from the top a
 
 | Attacker | Priorities |
 | :---: | :--- |
-| :bronze_tier:&nbsp;:ground_unit: | - :bronze_tier:<br>- :silver_tier:<br>- :golden:<br>- :azure: |
-| :silver_tier:&nbsp;:ground_unit: | - :silver_tier:<br>- :bronze_tier:<br>- :golden:<br>- :azure: |
-| :golden:&nbsp;:ground_unit: | - :golden:<br>- :silver_tier:<br>- :bronze_tier:<br>- :azure: |
-| :azure:&nbsp;:ground_unit: | - :azure:<br>- :golden:<br>- :silver_tier:<br>- :bronze_tier: |
-| :bronze_tier:&nbsp;:flying_unit: | - :bronze_tier:<br>- :silver_tier:<br>- :golden:<br>- :azure: |
-| :silver_tier:&nbsp;:flying_unit: | - :silver_tier:<br>- :bronze_tier:<br>- :golden:<br>- :azure: |
-| :golden:&nbsp;:flying_unit: | - :golden:<br>- :silver_tier:<br>- :bronze_tier:<br>- :azure: |
-| :azure:&nbsp;:flying_unit: | - :azure:<br>- :golden:<br>- :silver_tier:<br>- :bronze_tier: |
-| :bronze_tier:&nbsp;:ranged_unit: | - :bronze_tier:&nbsp;:ranged_unit:<br>- :silver_tier:&nbsp;:ranged_unit:<br>- :golden:&nbsp;:ranged_unit:<br>- :azure:&nbsp;:ranged_unit:<br>- :bronze_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :silver_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :golden:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :azure:&nbsp;:ground_unit:&nbsp;:flying_unit: |
-| :silver_tier:&nbsp;:ranged_unit: | - :silver_tier:&nbsp;:ranged_unit:<br>- :bronze_tier:&nbsp;:ranged_unit:<br>- :golden:&nbsp;:ranged_unit:<br>- :azure:&nbsp;:ranged_unit:<br>- :silver_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :bronze_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :golden:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :azure:&nbsp;:ground_unit:&nbsp;:flying_unit: |
-| :golden:&nbsp;:ranged_unit: | - :golden:&nbsp;:ranged_unit:<br>- :silver_tier:&nbsp;:ranged_unit:<br>- :bronze_tier:&nbsp;:ranged_unit:<br>- :azure:&nbsp;:ranged_unit:<br>- :golden:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :silver_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :bronze_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :azure:&nbsp;:ground_unit:&nbsp;:flying_unit: |
-| :azure:&nbsp;:ranged_unit: | - :azure:&nbsp;:ranged_unit:<br>- :golden:&nbsp;:ranged_unit:<br>- :silver_tier:&nbsp;:ranged_unit:<br>- :bronze_tier:&nbsp;:ranged_unit:<br>- :azure:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :golden:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :silver_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :bronze_tier:&nbsp;:ground_unit:&nbsp;:flying_unit: |
+| :bronze_tier:&nbsp;:ground_unit: | - :bronze_tier:<br>- :silver_tier:<br>- :gold_tier:<br>- :azure: |
+| :silver_tier:&nbsp;:ground_unit: | - :silver_tier:<br>- :bronze_tier:<br>- :gold_tier:<br>- :azure: |
+| :gold_tier:&nbsp;:ground_unit: | - :gold_tier:<br>- :silver_tier:<br>- :bronze_tier:<br>- :azure: |
+| :azure:&nbsp;:ground_unit: | - :azure:<br>- :gold_tier:<br>- :silver_tier:<br>- :bronze_tier: |
+| :bronze_tier:&nbsp;:flying_unit: | - :bronze_tier:<br>- :silver_tier:<br>- :gold_tier:<br>- :azure: |
+| :silver_tier:&nbsp;:flying_unit: | - :silver_tier:<br>- :bronze_tier:<br>- :gold_tier:<br>- :azure: |
+| :gold_tier:&nbsp;:flying_unit: | - :gold_tier:<br>- :silver_tier:<br>- :bronze_tier:<br>- :azure: |
+| :azure:&nbsp;:flying_unit: | - :azure:<br>- :gold_tier:<br>- :silver_tier:<br>- :bronze_tier: |
+| :bronze_tier:&nbsp;:ranged_unit: | - :bronze_tier:&nbsp;:ranged_unit:<br>- :silver_tier:&nbsp;:ranged_unit:<br>- :gold_tier:&nbsp;:ranged_unit:<br>- :azure:&nbsp;:ranged_unit:<br>- :bronze_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :silver_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :gold_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :azure:&nbsp;:ground_unit:&nbsp;:flying_unit: |
+| :silver_tier:&nbsp;:ranged_unit: | - :silver_tier:&nbsp;:ranged_unit:<br>- :bronze_tier:&nbsp;:ranged_unit:<br>- :gold_tier:&nbsp;:ranged_unit:<br>- :azure:&nbsp;:ranged_unit:<br>- :silver_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :bronze_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :gold_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :azure:&nbsp;:ground_unit:&nbsp;:flying_unit: |
+| :gold_tier:&nbsp;:ranged_unit: | - :gold_tier:&nbsp;:ranged_unit:<br>- :silver_tier:&nbsp;:ranged_unit:<br>- :bronze_tier:&nbsp;:ranged_unit:<br>- :azure:&nbsp;:ranged_unit:<br>- :gold_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :silver_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :bronze_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :azure:&nbsp;:ground_unit:&nbsp;:flying_unit: |
+| :azure:&nbsp;:ranged_unit: | - :azure:&nbsp;:ranged_unit:<br>- :gold_tier:&nbsp;:ranged_unit:<br>- :silver_tier:&nbsp;:ranged_unit:<br>- :bronze_tier:&nbsp;:ranged_unit:<br>- :azure:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :gold_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :silver_tier:&nbsp;:ground_unit:&nbsp;:flying_unit:<br>- :bronze_tier:&nbsp;:ground_unit:&nbsp;:flying_unit: |
 
 In case there's more than one valid target, attack the closest one. If there is a tie between equally valid targets, the player chooses which [Unit](../units/index.md) to attack.
 

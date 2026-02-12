@@ -27,7 +27,7 @@
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spell:](../spells/index.md). |
 | Den | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze_tier: [units](#units). |
 | Swamp Lairs | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver_tier: [units](#units). |
-| Nest upon the Pond | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
+| Nest upon the Pond | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :gold_tier: [units](#units). |
 | Blood Obelisk | 6 :gold:<br>6 :building_materials:<br>0 :valuables: | At the beginning of each Resource round or instantly, after your Town has been sieged, you can **Search(4)** your discard pile. |
 | Cage of Warlords | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | When built and at the beginning of each Resource round, place a faction cube here (to a maximum of 2). During any Combat, a player can remove them to gain +1:attack: or +1:defense: per 1 cube. |
 
@@ -61,10 +61,10 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Basilisks](../units/basilisks.md#pack) | Pack | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | **5** | **7** | 9 :gold: | :unit_attack: |
 | [Gorgons](../units/gorgons.md#few) | Few | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 5 | 5 | 9 :gold: | - |
 | [Gorgons](../units/gorgons.md#pack) | Pack | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | **5** | 2 | 5 | **6** | 14 :gold: | :unit_attack: |
-| [Wyverns](../units/wyverns.md#few) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 5 | 1 | 8 | 7 | 12 :gold: | :unit_attack: |
-| [Wyverns](../units/wyverns.md#pack) | Pack | :golden: | [:flying_unit:](../units/index.md#flying-units) | **6** | 1 | 8 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: |
-| [Hydras](../units/hydras.md#few) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 6 | 3 | 8 | 5 | 20 :gold:<br>1 :valuables: | :unit_attack: |
-| [Hydras](../units/hydras.md#pack) | Pack | :golden: | [:ground_unit:](../units/index.md#ground-units) | **7** | 3 | **10** | **7** | 28 :gold:<br>2 :valuables: | :unit_attack: |
+| [Wyverns](../units/wyverns.md#few) | Few | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | 5 | 1 | 8 | 7 | 12 :gold: | :unit_attack: |
+| [Wyverns](../units/wyverns.md#pack) | Pack | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | **6** | 1 | 8 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: |
+| [Hydras](../units/hydras.md#few) | Few | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | 6 | 3 | 8 | 5 | 20 :gold:<br>1 :valuables: | :unit_attack: |
+| [Hydras](../units/hydras.md#pack) | Pack | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | **7** | 3 | **10** | **7** | 28 :gold:<br>2 :valuables: | :unit_attack: |
 
 
 ## Comes With

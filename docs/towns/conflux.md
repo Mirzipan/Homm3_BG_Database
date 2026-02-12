@@ -9,7 +9,7 @@
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spell:](../spells/index.md). |
 | Altars of Air and Water | 4 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze_tier: [units](#units). |
 | Altars of Fire and Earth | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver_tier: [units](#units). |
-| Magical Pyre | 9 :gold:<br>8 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
+| Magical Pyre | 9 :gold:<br>8 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :gold_tier: [units](#units). |
 | Magic University | 6 :gold:<br>3 :building_materials:<br>0 :valuables: | Once per round, instead of **Searching** the :spell: deck, choose a [School of Magic](../spells/index.md) and discard cards from the top of the [Spell](../spells/index.md) deck until you find a [spell](../spells/index.md) from the chosen school. Take the spell into your hand. |
 | Garden of Life | 2 :gold:<br>1 :building_materials:<br>1 :valuables: | At the beginning of each round, **Recruit** or **Reinforce** Sprites for free. |
 
@@ -42,10 +42,10 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Energy Elementals](../units/energy_elementals.md#pack) | Pack | :silver_tier: | [:flying_unit:](../units/index.md#flying-units) | **4** | 1 | 5 | **8** | 8 :gold: | :activation: |
 | [Magma Elementals](../units/magma_elementals.md#few) | Few | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 5 | 4 | 9 :gold: | - |
 | [Magma Elementals](../units/magma_elementals.md#pack) | Pack | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | **5** | 2 | 5 | **6** | 13 :gold: | :activation: |
-| [Magic Elementals](../units/magic_elementals.md#few) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 7 | 7 | 13 :gold: | :unit_attack: |
-| [Magic Elementals](../units/magic_elementals.md#pack) | Pack | :golden: | [:ground_unit:](../units/index.md#ground-units) | **5** | 2 | 7 | **9** | 19 :gold:<br>1 :valuables: | :unit_attack: :unit_passive: |
-| [Phoenixes](../units/phoenixes.md#few) | Few | :golden: | [:flying_unit:](../units/index.md#flying-units) | 6 | 2 | 7 | 12 | 21 :gold:<br>1 :valuables: | :unit_passive: :unit_passive: |
-| [Phoenixes](../units/phoenixes.md#pack) | Pack | :golden: | [:flying_unit:](../units/index.md#flying-units) | **7** | 2 | **8** | **18** | 29 :gold:<br>2 :valuables: | :unit_attack: :unit_passive: |
+| [Magic Elementals](../units/magic_elementals.md#few) | Few | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 7 | 7 | 13 :gold: | :unit_attack: |
+| [Magic Elementals](../units/magic_elementals.md#pack) | Pack | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | **5** | 2 | 7 | **9** | 19 :gold:<br>1 :valuables: | :unit_attack: :unit_passive: |
+| [Phoenixes](../units/phoenixes.md#few) | Few | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | 6 | 2 | 7 | 12 | 21 :gold:<br>1 :valuables: | :unit_passive: :unit_passive: |
+| [Phoenixes](../units/phoenixes.md#pack) | Pack | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | **7** | 2 | **8** | **18** | 29 :gold:<br>2 :valuables: | :unit_attack: :unit_passive: |
 
 
 ## Comes With

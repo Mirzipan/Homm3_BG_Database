@@ -27,7 +27,7 @@
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spell:](../spells/index.md). |
 | Alchemical Workshop | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze_tier: [units](#units). |
 | Enchanted Towers | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver_tier: [units](#units). |
-| Golden Temples | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
+| Golden Temples | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :gold_tier: [units](#units). |
 | Artifact Merchants | 8 :gold:<br>6 :building_materials:<br>1 :valuables: | During your turn, choose one:<br><br>**1.** :pay: 7 :gold: to **Search(2)** [:artifact:](../artifacts/index.md).<br><br>**2.** Remove an [Artifact](../artifacts/index.md) card from your hand to gain 2 :gold:. |
 | Wall of Knowledge | 6 :gold:<br>4 :building_materials:<br>1 :valuables: | At the beginning of each [Astrologer's round](../astrologers_proclaim/index.md), you can take 1 [Knowledge](../statistics/knowledge.md) or 1 [Power Statistic](../statistics/power.md) card from your discard pile to your hand. |
 
@@ -60,10 +60,10 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 | [Magi](../units/magi.md#pack) | Pack | :silver_tier: | [:ranged_unit:](../units/index.md#ranged-units) | **4** | **1** | 4 | 6 | 11 :gold: | :unit_attack: :activation: |
 | [Genies](../units/genies.md#few) | Few | :silver_tier: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | 6 | 7 | 8 :gold: | :unit_other: |
 | [Genies](../units/genies.md#pack) | Pack | :silver_tier: | [:flying_unit:](../units/index.md#flying-units) | **4** | 1 | 6 | **8** | 12 :gold: | :unit_attack: |
-| [Nagas](../units/nagas.md#few) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 5 | 2 | 7 | 6 | 13 :gold: | :unit_attack: |
-| [Nagas](../units/nagas.md#pack) | Pack | :golden: | [:ground_unit:](../units/index.md#ground-units) | **6** | 2 | 7 | **8** | 18 :gold:<br>1 :valuables: | :unit_attack: |
-| [Titans](../units/titans.md#few) | Few | :golden: | [:ground_unit:](../units/index.md#ground-units) | 6 | 3 | 8 | 7 | 18 :gold:<br>1 :valuables: | :unit_passive: :ongoing: |
-| [Titans](../units/titans.md#pack) | Pack | :golden: | [:ranged_unit:](../units/index.md#ranged-units) | 6 | 3 | 8 | **11** | 32 :gold:<br>2 :valuables: | :unit_passive: :ongoing: |
+| [Nagas](../units/nagas.md#few) | Few | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | 5 | 2 | 7 | 6 | 13 :gold: | :unit_attack: |
+| [Nagas](../units/nagas.md#pack) | Pack | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | **6** | 2 | 7 | **8** | 18 :gold:<br>1 :valuables: | :unit_attack: |
+| [Titans](../units/titans.md#few) | Few | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | 6 | 3 | 8 | 7 | 18 :gold:<br>1 :valuables: | :unit_passive: :ongoing: |
+| [Titans](../units/titans.md#pack) | Pack | :gold_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 6 | 3 | 8 | **11** | 32 :gold:<br>2 :valuables: | :unit_passive: :ongoing: |
 
 
 ## Comes With
