@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Water Spell](index.md#school-of-water-magic)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: During its next activation, a \* :ranged_unit: [unit](../units/index.md) of your choice cannot :attack:.<br><br>:power: 0 ➣ \*:bronze:<br>:power: 1 ➣ \*:bronze: or :silver:<br>:power: 2 ➣ \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
+<p style="text-align: center;" markdown>:ongoing: During its next activation, a \* :ranged_unit: [unit](../units/index.md) of your choice cannot :attack:.<br><br>:power: 0 ➣ \*:bronze_tier:<br>:power: 1 ➣ \*:bronze_tier: or :silver:<br>:power: 2 ➣ \*:bronze_tier: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

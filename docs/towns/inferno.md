@@ -25,7 +25,7 @@
 | City Hall | 13 :gold:<br>5 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 6 :gold:<br><br>— OR —<br><br>:instant: 3 :building_materials: |
 | Citadel | 9 :gold:<br>4 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spell:](../spells/index.md). |
-| Crucible of Sins | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |
+| Crucible of Sins | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze_tier: [units](#units). |
 | Gates of Abyss | 9 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |
 | Hellfire Palace | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
 | Castle Gate | 7 :gold:<br>5 :building_materials:<br>0 :valuables: | During your turn, choose one:<br><br>**1.** :pay: 3 :gold: to discard 1 random card from your opponent's hand.<br><br>**2.** If your [Hero](#heroes) is in a Town or Settlement, move them to another Town or Settlement under your control. |
@@ -50,12 +50,12 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| [Familiars](../units/familiars.md#few) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 2 | 5 | 2 :gold: | - |
-| [Familiars](../units/familiars.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 2 | **7** | 3 :gold: | :unit_passive: |
-| [Magogs](../units/magogs.md#few) | Few | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 2 | 4 | 3 :gold: | - |
-| [Magogs](../units/magogs.md#pack) | Pack | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | **3** | **6** | 5 :gold: | :unit_attack: |
-| [Cerberi](../units/cerberi.md#few) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 3 | 0 | 4 | 7 | 4 :gold: | - |
-| [Cerberi](../units/cerberi.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 3 | **1** | **5** | **8** | 7 :gold: | :unit_attack: |
+| [Familiars](../units/familiars.md#few) | Few | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 2 | 5 | 2 :gold: | - |
+| [Familiars](../units/familiars.md#pack) | Pack | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 2 | **7** | 3 :gold: | :unit_passive: |
+| [Magogs](../units/magogs.md#few) | Few | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 2 | 4 | 3 :gold: | - |
+| [Magogs](../units/magogs.md#pack) | Pack | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | **3** | **6** | 5 :gold: | :unit_attack: |
+| [Cerberi](../units/cerberi.md#few) | Few | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 0 | 4 | 7 | 4 :gold: | - |
+| [Cerberi](../units/cerberi.md#pack) | Pack | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | **1** | **5** | **8** | 7 :gold: | :unit_attack: |
 | [Demons](../units/demons.md#few) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 5 | 6 :gold: | - |
 | [Demons](../units/demons.md#pack) | Pack | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | **5** | **6** | 8 :gold: | - |
 | [Pit Lords](../units/pit_lords.md#few) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | 6 | 6 | 8 :gold: | - |

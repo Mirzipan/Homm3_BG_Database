@@ -22,7 +22,7 @@
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
+| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 2 | 2 | 2 |
 | :defense: | 0 | 0 | 0 |

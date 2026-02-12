@@ -22,7 +22,7 @@
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
+| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 3 | 3 | 2 |
 | :defense: | 0 | **1** | 0 |

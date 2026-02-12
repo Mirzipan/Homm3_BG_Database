@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :ongoing: During its next activation, a [:ranged_unit: unit](../units/index.md#ranged-units) of :bronze: or :silver: tier cannot attack.<br><br>— OR —<br><br>:instant: Draw 1 card. |
-| Ⅳ | :ongoing: During its next activation, a [:ranged_unit: unit](../units/index.md#ranged-units) of :bronze:, :silver:, or :golden: tier cannot attack.<br><br>— OR —<br><br>:instant: +2 :power: |
-| Ⅵ | :ongoing: During its next activation, a :bronze:, :silver:, or :golden: [unit](../units/index.md#ranged-units) cannot attack.<br><br>— OR —<br><br>:instant: +2 :power: |
+| Ⅰ | :ongoing: During its next activation, a [:ranged_unit: unit](../units/index.md#ranged-units) of :bronze_tier: or :silver: tier cannot attack.<br><br>— OR —<br><br>:instant: Draw 1 card. |
+| Ⅳ | :ongoing: During its next activation, a [:ranged_unit: unit](../units/index.md#ranged-units) of :bronze_tier:, :silver:, or :golden: tier cannot attack.<br><br>— OR —<br><br>:instant: +2 :power: |
+| Ⅵ | :ongoing: During its next activation, a :bronze_tier:, :silver:, or :golden: [unit](../units/index.md#ranged-units) cannot attack.<br><br>— OR —<br><br>:instant: +2 :power: |
 
 
 ## Comes With

@@ -8,7 +8,7 @@
 | Statistics | Neutral |
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: |
+| Tier | :bronze_tier: |
 | Type | [:ground_unit:](index.md#ground-units) |
 | :attack: | 1 |
 | :defense: | 0 |

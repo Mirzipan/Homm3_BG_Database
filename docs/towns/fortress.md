@@ -25,7 +25,7 @@
 | City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>Exchange resources like in the Trading Post. |
 | Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spell:](../spells/index.md). |
-| Den | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |
+| Den | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze_tier: [units](#units). |
 | Swamp Lairs | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |
 | Nest upon the Pond | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
 | Blood Obelisk | 6 :gold:<br>6 :building_materials:<br>0 :valuables: | At the beginning of each Resource round or instantly, after your Town has been sieged, you can **Search(4)** your discard pile. |
@@ -51,12 +51,12 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| [Gnolls](../units/gnolls.md#few) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 4 | 2 :gold: | - |
-| [Gnolls](../units/gnolls.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | **4** | **5** | 3 :gold: | - |
-| [Lizardmen](../units/lizardmen.md#few) | Few | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 3 | 4 | 3 :gold: | - |
-| [Lizardmen](../units/lizardmen.md#pack) | Pack | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | **3** | 0 | 3 | **5** | 5 :gold: | - |
-| [Dragon Flies](../units/dragon_flies.md#few) | Few | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 3 | 8 | 4 :gold: | :unit_attack: :ongoing: |
-| [Dragon Flies](../units/dragon_flies.md#pack) | Pack | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 3 | **1** | 3 | **12** | 7 :gold: | :unit_attack: :ongoing: |
+| [Gnolls](../units/gnolls.md#few) | Few | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 4 | 2 :gold: | - |
+| [Gnolls](../units/gnolls.md#pack) | Pack | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | **4** | **5** | 3 :gold: | - |
+| [Lizardmen](../units/lizardmen.md#few) | Few | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 3 | 4 | 3 :gold: | - |
+| [Lizardmen](../units/lizardmen.md#pack) | Pack | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | **3** | 0 | 3 | **5** | 5 :gold: | - |
+| [Dragon Flies](../units/dragon_flies.md#few) | Few | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 3 | 8 | 4 :gold: | :unit_attack: :ongoing: |
+| [Dragon Flies](../units/dragon_flies.md#pack) | Pack | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | 3 | **1** | 3 | **12** | 7 :gold: | :unit_attack: :ongoing: |
 | [Basilisks](../units/basilisks.md#few) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | 4 | 5 | 6 :gold: | :unit_attack: |
 | [Basilisks](../units/basilisks.md#pack) | Pack | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | **5** | **7** | 9 :gold: | :unit_attack: |
 | [Gorgons](../units/gorgons.md#few) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 5 | 5 | 9 :gold: | - |

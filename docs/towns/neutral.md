@@ -13,42 +13,42 @@ Every unit of every town has a neutral variant.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| [Air Elementals](../units/air_elementals.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 3 | 7 | 7 :gold: | :unit_passive: |
-| [Boars](../units/boars.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 4 | 6 | 4 :gold: | - |
-| [Centaurs](../units/centaurs.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 5 | 7 | 3 :gold: | - |
-| [Cerberi](../units/cerberi.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 5 | 8 | 10 :gold: | :unit_attack: |
-| [Dragon Flies](../units/dragon_flies.md#neutral) | Neutral | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 3 | 8 | 7 :gold: | :unit_attack: |
-| [Dwarves](../units/dwarves.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 4 | 3 | 4 :gold: | :unit_passive: |
-| [Elves](../units/elves.md#neutral) | Neutral | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 1 | 3 | 6 | 7 :gold: | :unit_attack: |
-| [Evil Eyes](../units/evil_eyes.md#neutral) | Neutral | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 1 | 3 | 6 | 6 :gold: | :unit_passive: |
-| [Familiars](../units/familiars.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 3 | 1 | 2 | 7 | 6 :gold: | :unit_passive: |
-| [Gargoyles](../units/gargoyles.md#neutral) | Neutral | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 1 | 3 | 9 | 4 :gold: | :unit_passive: |
-| [Gnolls](../units/gnolls.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 3 :gold: | - |
-| [Goblins](../units/goblins.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 1 | 0 | 4 | 6 | 4 :gold: | - |
-| [Gremlins](../units/gremlins.md#neutral) | Neutral | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 2 | 5 | 2 :gold: | - |
-| [Griffins](../units/griffins.md#neutral) | Neutral | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 4 | 8 | 7 :gold: | :unit_retaliation: |
-| [Halberdiers](../units/halberdiers.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 4 | 4 | 4 :gold: | :unit_passive: |
-| [Halflings](../units/halflings.md#neutral) | Neutral | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 3 | 6 | 5 :gold: | :unit_attack: |
-| [Harpies](../units/harpies.md#neutral) | Neutral | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 4 | 8 | 5 :gold: | :unit_attack: |
-| [Ice Elementals](../units/ice_elementals.md#neutral) | Neutral | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 1 | 3 | 5 | 7 :gold: | :unit_passive: |
-| [Iron Golems](../units/iron_golems.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 4 | 3 | 6 :gold: | :unit_passive: |
-| [Leprechaun](../units/leprechaun.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 3 | 5 | 4 :gold: | :unit_attack: |
-| [Lizardmen](../units/lizardmen.md#neutral) | Neutral | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 4 | 5 | 4 :gold: | - |
-| [Magogs](../units/magogs.md#neutral) | Neutral | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 4 | 6 | 8 :gold: | :unit_attack: |
-| [Marksmen](../units/marksmen.md#neutral) | Neutral | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 3 | 5 | 7 :gold: | :unit_attack: |
-| [Oceanids](../units/oceanids.md#neutral) | Neutral | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | 3 :gold: | :unit_passive: |
-| [Orcs](../units/orcs.md#neutral) | Neutral | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 1 | 4 | 4 | 7 :gold: | - |
-| [Peasants](../units/peasants.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 1 | 0 | 2 | 3 | 3 :gold: | :map_effect: |
-| [Rogues](../units/rogues.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 6 | 5 :gold: | :map_effect: |
-| [Sea Dogs](../units/sea_dogs.md#neutral) | Neutral | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 4 | 6 | 7 :gold: | :unit_passive: |
-| [Seamen](../units/seamen.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 5 | 5 :gold: | - |
-| [Skeletons](../units/skeletons.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 3 | 4 | 3 :gold: | :unit_passive: |
-| [Sprites](../units/sprites.md#neutral) | Neutral | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 2 | 7 | 2 :gold: | :unit_attack: |
-| [Storm Elementals](../units/storm_elementals.md#neutral) | Neutral | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 3 | 7 | 5 :gold: | :unit_passive: |
-| [Troglodytes](../units/troglodytes.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 6 | 4 :gold: | :unit_passive: |
-| [Wolf Raiders](../units/wolf_raiders.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 3 | 7 | 6 :gold: | :unit_attack: |
-| [Wraiths](../units/wraiths.md#neutral) | Neutral | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 4 | 7 | 7 :gold: | :activation: |
-| [Zombies](../units/zombies.md#neutral) | Neutral | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 4 | 3 | 5 :gold: | :unit_passive: |
+| [Air Elementals](../units/air_elementals.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 3 | 7 | 7 :gold: | :unit_passive: |
+| [Boars](../units/boars.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 4 | 6 | 4 :gold: | - |
+| [Centaurs](../units/centaurs.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 5 | 7 | 3 :gold: | - |
+| [Cerberi](../units/cerberi.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 5 | 8 | 10 :gold: | :unit_attack: |
+| [Dragon Flies](../units/dragon_flies.md#neutral) | Neutral | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 3 | 8 | 7 :gold: | :unit_attack: |
+| [Dwarves](../units/dwarves.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 4 | 3 | 4 :gold: | :unit_passive: |
+| [Elves](../units/elves.md#neutral) | Neutral | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 1 | 3 | 6 | 7 :gold: | :unit_attack: |
+| [Evil Eyes](../units/evil_eyes.md#neutral) | Neutral | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 1 | 3 | 6 | 6 :gold: | :unit_passive: |
+| [Familiars](../units/familiars.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 1 | 2 | 7 | 6 :gold: | :unit_passive: |
+| [Gargoyles](../units/gargoyles.md#neutral) | Neutral | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | 2 | 1 | 3 | 9 | 4 :gold: | :unit_passive: |
+| [Gnolls](../units/gnolls.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 3 :gold: | - |
+| [Goblins](../units/goblins.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 1 | 0 | 4 | 6 | 4 :gold: | - |
+| [Gremlins](../units/gremlins.md#neutral) | Neutral | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 2 | 5 | 2 :gold: | - |
+| [Griffins](../units/griffins.md#neutral) | Neutral | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 4 | 8 | 7 :gold: | :unit_retaliation: |
+| [Halberdiers](../units/halberdiers.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 4 | 4 | 4 :gold: | :unit_passive: |
+| [Halflings](../units/halflings.md#neutral) | Neutral | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 3 | 6 | 5 :gold: | :unit_attack: |
+| [Harpies](../units/harpies.md#neutral) | Neutral | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 4 | 8 | 5 :gold: | :unit_attack: |
+| [Ice Elementals](../units/ice_elementals.md#neutral) | Neutral | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 1 | 3 | 5 | 7 :gold: | :unit_passive: |
+| [Iron Golems](../units/iron_golems.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 4 | 3 | 6 :gold: | :unit_passive: |
+| [Leprechaun](../units/leprechaun.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 3 | 5 | 4 :gold: | :unit_attack: |
+| [Lizardmen](../units/lizardmen.md#neutral) | Neutral | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 4 | 5 | 4 :gold: | - |
+| [Magogs](../units/magogs.md#neutral) | Neutral | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 4 | 6 | 8 :gold: | :unit_attack: |
+| [Marksmen](../units/marksmen.md#neutral) | Neutral | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 3 | 5 | 7 :gold: | :unit_attack: |
+| [Oceanids](../units/oceanids.md#neutral) | Neutral | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | 3 :gold: | :unit_passive: |
+| [Orcs](../units/orcs.md#neutral) | Neutral | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 1 | 4 | 4 | 7 :gold: | - |
+| [Peasants](../units/peasants.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 1 | 0 | 2 | 3 | 3 :gold: | :map_effect: |
+| [Rogues](../units/rogues.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 6 | 5 :gold: | :map_effect: |
+| [Sea Dogs](../units/sea_dogs.md#neutral) | Neutral | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 4 | 6 | 7 :gold: | :unit_passive: |
+| [Seamen](../units/seamen.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 5 | 5 :gold: | - |
+| [Skeletons](../units/skeletons.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 3 | 4 | 3 :gold: | :unit_passive: |
+| [Sprites](../units/sprites.md#neutral) | Neutral | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 2 | 7 | 2 :gold: | :unit_attack: |
+| [Storm Elementals](../units/storm_elementals.md#neutral) | Neutral | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 3 | 7 | 5 :gold: | :unit_passive: |
+| [Troglodytes](../units/troglodytes.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 3 | 6 | 4 :gold: | :unit_passive: |
+| [Wolf Raiders](../units/wolf_raiders.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 3 | 7 | 6 :gold: | :unit_attack: |
+| [Wraiths](../units/wraiths.md#neutral) | Neutral | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 4 | 7 | 7 :gold: | :activation: |
+| [Zombies](../units/zombies.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 4 | 3 | 5 :gold: | :unit_passive: |
 | [Ayssids](../units/ayssids.md#neutral) | Neutral | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | 5 | 9 | 9 :gold: | :unit_attack: |
 | [Basilisks](../units/basilisks.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | 4 | 5 | 12 :gold: | :unit_attack: |
 | [Crusaders](../units/crusaders.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 5 | 11 :gold: | :unit_passive: |
@@ -141,14 +141,14 @@ Every unit of every town has a neutral variant.
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| [Air Elementals](../units/air_elementals.md#few) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 4 | 8 | - | :unit_passive: |
-| [Air Elementals](../units/air_elementals.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 0 | 4 | 8 | - | :unit_passive: |
-| [Fire Elementals](../units/fire_elementals.md#few) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 4 | 5 | - | :unit_passive: |
-| [Fire Elementals](../units/fire_elementals.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 4 | 5 | - | :unit_passive: |
-| [Earth Elementals](../units/earth_elementals.md#few) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 2 | 2 | 5 | - | :unit_passive: |
-| [Earth Elementals](../units/earth_elementals.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 2 | 2 | 5 | - | :unit_passive: |
-| [Water Elementals](../units/water_elementals.md#few) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 5 | 6 | - | :unit_passive: |
-| [Water Elementals](../units/water_elementals.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 0 | 5 | 6 | - | :unit_passive: |
+| [Air Elementals](../units/air_elementals.md#few) | Few | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 4 | 8 | - | :unit_passive: |
+| [Air Elementals](../units/air_elementals.md#pack) | Pack | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | **3** | 0 | 4 | 8 | - | :unit_passive: |
+| [Fire Elementals](../units/fire_elementals.md#few) | Few | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 4 | 5 | - | :unit_passive: |
+| [Fire Elementals](../units/fire_elementals.md#pack) | Pack | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 4 | 5 | - | :unit_passive: |
+| [Earth Elementals](../units/earth_elementals.md#few) | Few | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 2 | 2 | 5 | - | :unit_passive: |
+| [Earth Elementals](../units/earth_elementals.md#pack) | Pack | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | **3** | 2 | 2 | 5 | - | :unit_passive: |
+| [Water Elementals](../units/water_elementals.md#few) | Few | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 5 | 6 | - | :unit_passive: |
+| [Water Elementals](../units/water_elementals.md#pack) | Pack | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | **3** | 0 | 5 | 6 | - | :unit_passive: |
 
 
 ## See Also

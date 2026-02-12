@@ -14,7 +14,7 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :bronze: | Bronze tier |
+| :bronze_tier: | Bronze tier |
 | :silver: | Silver tier |
 | :golden: | Gold tier |
 | :azure: | Azure tier |

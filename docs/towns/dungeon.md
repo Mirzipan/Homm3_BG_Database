@@ -25,7 +25,7 @@
 | City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: 1 :valuables: |
 | Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spell:](../spells/index.md). |
-| Warrens | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |
+| Warrens | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze_tier: [units](#units). |
 | Inner Labyrinths | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |
 | Ancient Lairs | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
 | Portal of Summoning | 7 :gold:<br>3 :building_materials:<br>1 :valuables: | At the beginning of your turn, you can draw 1 [Neutral Unit](../units/index.md) card from decks corresponding to the Dwellings in your Town and :pay: the Recruitment cost to **Recruit** this [unit](../units/index.md). |
@@ -51,12 +51,12 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| [Troglodytes](../units/troglodytes.md#few) | Few | :bronze: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - |
-| [Troglodytes](../units/troglodytes.md#pack) | Pack | :bronze: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: |
-| [Harpies](../units/harpies.md#few) | Few | :bronze: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | 3 :gold: | :unit_attack: |
-| [Harpies](../units/harpies.md#pack) | Pack | :bronze: | [:flying_unit:](../units/index.md#flying-units) | **3** | 0 | 3 | **9** | 5 :gold: | :unit_attack: |
-| [Evil Eyes](../units/evil_eyes.md#few) | Few | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 0 | 3 | 5 | 4 :gold: | - |
-| [Evil Eyes](../units/evil_eyes.md#pack) | Pack | :bronze: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | **1** | 3 | **7** | 6 :gold: | :unit_passive: |
+| [Troglodytes](../units/troglodytes.md#few) | Few | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - |
+| [Troglodytes](../units/troglodytes.md#pack) | Pack | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: |
+| [Harpies](../units/harpies.md#few) | Few | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 3 | 6 | 3 :gold: | :unit_attack: |
+| [Harpies](../units/harpies.md#pack) | Pack | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | **3** | 0 | 3 | **9** | 5 :gold: | :unit_attack: |
+| [Evil Eyes](../units/evil_eyes.md#few) | Few | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 0 | 3 | 5 | 4 :gold: | - |
+| [Evil Eyes](../units/evil_eyes.md#pack) | Pack | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | **1** | 3 | **7** | 6 :gold: | :unit_passive: |
 | [Medusas](../units/medusas.md#few) | Few | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 1 | 4 | 5 | 6 :gold: | :unit_passive: |
 | [Medusas](../units/medusas.md#pack) | Pack | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | **4** | 1 | 4 | **6** | 12 :gold: | :unit_passive: :unit_retaliation: |
 | [Minotaurs](../units/minotaurs.md#few) | Few | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 4 | 6 | 8 :gold: | :unit_attack: |

@@ -22,7 +22,7 @@
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
+| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: |
 | Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 2 | 2 | 2 |
 | :defense: | 0 | 0 | 0 |

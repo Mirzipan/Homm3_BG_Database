@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Earth Spell](index.md#school-of-earth-magic)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: Until the end of the Combat, the selected \* [unit](../units/index.md) cannot be targeted by spells:<br><br>:power: 0 ➣ \*:bronze:<br>:power: 2 ➣ \*:bronze: or :silver:<br>:power: 4 ➣ \*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
+<p style="text-align: center;" markdown>:ongoing: Until the end of the Combat, the selected \* [unit](../units/index.md) cannot be targeted by spells:<br><br>:power: 0 ➣ \*:bronze_tier:<br>:power: 2 ➣ \*:bronze_tier: or :silver:<br>:power: 4 ➣ \*:bronze_tier: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

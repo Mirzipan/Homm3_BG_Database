@@ -22,7 +22,7 @@
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
+| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: |
 | Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 2 | **3** | 2 |
 | :defense: | 1 | 1 | 1 |

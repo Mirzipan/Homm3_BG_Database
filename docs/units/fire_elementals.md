@@ -22,7 +22,7 @@
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :silver: |
+| Tier | :bronze_tier: | :bronze_tier: | :silver: |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 2 | **3** | 3 |
 | :defense: | 1 | 1 | 1 |
