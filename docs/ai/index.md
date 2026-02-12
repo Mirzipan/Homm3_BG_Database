@@ -50,7 +50,7 @@ In case there's more than one valid target, attack the closest one. If there is 
 
 ## Movement
 
-AI [Heroes](../heroes/index.md) have 3 MP (:movement:), which they spend to perform the following actions in descending priority:
+AI [Heroes](../heroes/index.md) have 3 MP (:movement_points:), which they spend to perform the following actions in descending priority:
 
 - If a player's [Hero](../heroes/index.md) is on the same [Tile](../tiles/index.md) as the AI, spend all MP to move towards them and attempt to start [Combat](../keywords/index.md).
 - If there are any [Mines](../fields/mine.md) or [Settlements](../fields/settlement.md) that can be flagged, move towards the closest one.

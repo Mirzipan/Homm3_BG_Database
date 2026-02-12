@@ -20,7 +20,7 @@ ___
 | Type | Effect | :expert: Effect |
 | :--- | :---: | :---: |
 | Regular | :ongoing: At the end of your turn, move your [Hero's](../heroes/index.md) model to an adjacent [empty field](../fields/empty_field.md). | :instant: Your [Hero](../heroes/index.md) gains +1 Movement. |
-| Empowered | :instant: Your [Hero](../heroes/index.md) gains +1 :movement:. | - |
+| Empowered | :instant: Your [Hero](../heroes/index.md) gains +1 :movement_points:. | - |
 
 
 ## Heroes With Starting Ability

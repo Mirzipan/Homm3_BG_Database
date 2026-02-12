@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Water Spell](index.md#school-of-water-magic)</p>
 ___
-<p style="text-align: center;" markdown>:map_effect: Choose one of your [Heroes](../heroes/index.md). They gain * and can continue their movement after entering a [sea field](../fields/sea_field.md) from a [land field](../fields/land_field.md).<br><br>:power: 0 ➣ \*+0 :movement:<br>:power: 1 ➣ \*+1 :movement:<br>:power: 2 ➣ \*+2 :movement:<br><br>— OR —<br><br>:instant: +1 :power:</p>
+<p style="text-align: center;" markdown>:map_effect: Choose one of your [Heroes](../heroes/index.md). They gain * and can continue their movement after entering a [sea field](../fields/sea_field.md) from a [land field](../fields/land_field.md).<br><br>:power: 0 ➣ \*+0 :movement_points:<br>:power: 1 ➣ \*+1 :movement_points:<br>:power: 2 ➣ \*+2 :movement_points:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

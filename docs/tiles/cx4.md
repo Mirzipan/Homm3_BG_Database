@@ -14,7 +14,7 @@ ___
 - [Ⅵ](../difficulties.md) [Derelict Ship](../fields/derelict_ship.md)
 - [Ⅶ](../difficulties.md) [Random Town](../towns/index.md)
 - [:positive_morale: Buoy](../fields/buoy.md)
-- [:positive_morale: :movement: Mermaid](../fields/mermaid.md)
+- [:positive_morale: :movement_points: Mermaid](../fields/mermaid.md)
 - [Jetsam](../fields/jetsam.md)
 
 

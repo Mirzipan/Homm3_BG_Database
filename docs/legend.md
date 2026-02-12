@@ -80,7 +80,7 @@ Quick reference for what the different glyphs mean.
 | :pay: | Pay |
 | :positive_morale: | Positive morale |
 | :negative_morale: | Negative morale |
-| :movement: | Movement point |
+| :movement_points: | Movement point |
 
 ## AI Hero Card Types
 

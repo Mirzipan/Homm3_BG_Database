@@ -30,7 +30,7 @@ Below is a list of all effects of pandora cards.
 
 | Effect |
 | :---: |
-| Gain 1 :experience:.<br><br>— OR —<br><br>One of your [Heroes](../heroes/index.md) gains 1 :movement:. |
+| Gain 1 :experience:.<br><br>— OR —<br><br>One of your [Heroes](../heroes/index.md) gains 1 :movement_points:. |
 | Look at the top 3 cards from the [Ability](../abilities/index.md) deck, discard up to 2 of them and place the rest back on top of the deck in any order.<br>Gain 1 :valuables:. |
 | Look at the top 3 cards from the [Spell](../spells/index.md) deck, discard up to 2 of them and place the rest back on top of the deck in any order.<br>Gain 2 :building_materials:. |
 | Look at the top 3 cards from the [Artifact](../artifacts/index.md) deck, discard up to 2 of them and place the rest back on top of the deck in any order.<br>Gain 3 :gold:. |
@@ -47,9 +47,9 @@ Below is a list of all effects of pandora cards.
 | If you do not have a :silver:, discard this card and draw another. Otherwise, choose one:<br><br>Flip one of your :silver: [units](../units/index.md) to the "Few" side.<br><br>— OR —<br><br>Discard one of your :silver: [units](../units/index.md).<br>Then, draw 3 cards from the :bronze: [Neutral Unit](../units/index.md) deck, and 3 cards from the :silver: [Neutral Unit](../units/index.md) deck. From these cards, [Recruit](../keywords/recruit.md) 1 :bronze: and 1 :silver: for free. |
 | Roll and resolve 2 [:resource_die:](../keywords/dice.md#resource-die).<br><br>— OR —<br><br>Gain 9 :gold:. |
 | [**Search(2)**](../keywords/index.md) the [Artifact](../artifacts/index.md) deck twice.<br><br>— OR —<br><br>[**Search(2)**](../keywords/index.md) the [Spell](../spells/index.md) deck twice. |
-| One of your [Heroes](../heroes/index.md) gains 2 :movement:.<br><br>— OR —<br><br>[Remove](../keywords/remove.md) 1 card from your hand or your discard pile. |
+| One of your [Heroes](../heroes/index.md) gains 2 :movement_points:.<br><br>— OR —<br><br>[Remove](../keywords/remove.md) 1 card from your hand or your discard pile. |
 | Gain 2 :experience:.<br><br>— OR —<br><br>[Remove](../keywords/remove.md) 1 card from your hand or your discard pile. |
-| :instant: Choose 2 from these options:<br><br>Roll 2 [:resource_die:](../keywords/dice.md#resource-die) and resolve one of them.<br><br>— OR —<br><br>Gain :movement:.<br><br>— OR —<br><br>Gain 1 :experience:. |
+| :instant: Choose 2 from these options:<br><br>Roll 2 [:resource_die:](../keywords/dice.md#resource-die) and resolve one of them.<br><br>— OR —<br><br>Gain :movement_points:.<br><br>— OR —<br><br>Gain 1 :experience:. |
 
 
 ## Notes
