@@ -89,7 +89,7 @@ Every unit of every town has a neutral variant.
 | [Efreet](../units/efreet.md#neutral) | Neutral | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | 4 | 2 | 6 | 13 | 20 :gold: | :unit_passive: |
 | [Enchanters](../units/enchanters.md#neutral) | Neutral | :gold_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 4 | 1 | 5 | 5 | 16 :gold: | :activation: |
 | [Ghost Dragons](../units/ghost_dragons.md#neutral) | Neutral | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | 5 | 2 | 6 | 9 | 28 :gold: | :unit_attack: |
-| [Gold Dragons](../units/gold_dragons.md#neutral) | Neutral | :gold_tier: | :azure: | 6 | 3 | 9 | 10 | 42 :gold: | :unit_attack: |
+| [Gold Dragons](../units/gold_dragons.md#neutral) | Neutral | :gold_tier: | :azure_tier: | 6 | 3 | 9 | 10 | 42 :gold: | :unit_attack: |
 | [Gold Golems](../units/gold_golems.md#neutral) | Neutral | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 6 | 5 | 14 :gold: | :unit_passive: |
 | [Haspids](../units/haspids.md#neutral) | Neutral | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | 5 | 2 | 6 | 9 | 25 :gold: | :unit_attack: |
 | [Magic Elementals](../units/magic_elementals.md#neutral) | Neutral | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 1 | 7 | 7 | 19 :gold: | :unit_passive: |
@@ -99,13 +99,13 @@ Every unit of every town has a neutral variant.
 | [Trolls](../units/trolls.md#neutral) | Neutral | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | 4 | 0 | 7 | 7 | 13 :gold: | :activation: |
 | [Unicorns](../units/unicorns.md#neutral) | Neutral | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | 5 | 1 | 7 | 7 | 18 :gold: | :unit_retaliation: |
 | [Wyverns](../units/wyverns.md#neutral) | Neutral | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | 4 | 1 | 7 | 8 | 17 :gold: | :unit_attack: |
-| [Azure Dragons](../units/azure_dragons.md#neutral) | Neutral | :azure: | [:flying_unit:](../units/index.md#flying-units) | 8 | 3 | 10 | 19 | 45 :gold:<br>2 :valuables: | :unit_attack: :unit_passive: |
-| [Crystal Dragons](../units/crystal_dragons.md#neutral) | Neutral | :azure: | [:ground_unit:](../units/index.md#ground-units) | 7 | 3 | 9 | 16 | 40 :gold:<br>2 :valuables: | :map_effect: |
-| [Faerie Dragons](../units/faerie_dragons.md#neutral) | Neutral | :azure: | [:flying_unit:](../units/index.md#flying-units) | 5 | 2 | 8 | 15 | 35 :gold:<br>2 :valuables: | :activation: |
-| [Hydras](../units/hydras.md#neutral) | Neutral | :azure: | [:ground_unit:](../units/index.md#ground-units) | 7 | 3 | 8 | 5 | 40 :gold: | :unit_attack: |
-| [Phoenixes](../units/phoenixes.md#neutral) | Neutral | :azure: | [:flying_unit:](../units/index.md#flying-units) | 6 | 2 | 7 | 12 | 32 :gold: | :unit_passive: :unit_passive: |
-| [Rust Dragons](../units/rust_dragons.md#neutral) | Neutral | :azure: | [:flying_unit:](../units/index.md#flying-units) | 7 | 3 | 10 | 17 | 38 :gold:<br>1 :valuables: | :unit_attack: |
-| [Titans](../units/titans.md#neutral) | Neutral | :azure: | [:ranged_unit:](../units/index.md#ranged-units) | 6 | 2 | 10 | 10 | 39 :gold: | :unit_passive: :unit_attack: |
+| [Azure Dragons](../units/azure_dragons.md#neutral) | Neutral | :azure_tier: | [:flying_unit:](../units/index.md#flying-units) | 8 | 3 | 10 | 19 | 45 :gold:<br>2 :valuables: | :unit_attack: :unit_passive: |
+| [Crystal Dragons](../units/crystal_dragons.md#neutral) | Neutral | :azure_tier: | [:ground_unit:](../units/index.md#ground-units) | 7 | 3 | 9 | 16 | 40 :gold:<br>2 :valuables: | :map_effect: |
+| [Faerie Dragons](../units/faerie_dragons.md#neutral) | Neutral | :azure_tier: | [:flying_unit:](../units/index.md#flying-units) | 5 | 2 | 8 | 15 | 35 :gold:<br>2 :valuables: | :activation: |
+| [Hydras](../units/hydras.md#neutral) | Neutral | :azure_tier: | [:ground_unit:](../units/index.md#ground-units) | 7 | 3 | 8 | 5 | 40 :gold: | :unit_attack: |
+| [Phoenixes](../units/phoenixes.md#neutral) | Neutral | :azure_tier: | [:flying_unit:](../units/index.md#flying-units) | 6 | 2 | 7 | 12 | 32 :gold: | :unit_passive: :unit_passive: |
+| [Rust Dragons](../units/rust_dragons.md#neutral) | Neutral | :azure_tier: | [:flying_unit:](../units/index.md#flying-units) | 7 | 3 | 10 | 17 | 38 :gold:<br>1 :valuables: | :unit_attack: |
+| [Titans](../units/titans.md#neutral) | Neutral | :azure_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 6 | 2 | 10 | 10 | 39 :gold: | :unit_passive: :unit_attack: |
 
 
 ## Creature Bank Units

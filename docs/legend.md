@@ -17,7 +17,7 @@ Quick reference for what the different glyphs mean.
 | :bronze_tier: | Bronze tier |
 | :silver_tier: | Silver tier |
 | :gold_tier: | Gold tier |
-| :azure: | Azure tier |
+| :azure_tier: | Azure tier |
 | :ground_unit: | Ground unit |
 | :flying_unit: | Flying unit |
 | :ranged_unit: | Ranged unit |

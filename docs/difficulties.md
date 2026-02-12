@@ -8,7 +8,7 @@
 | Ⅳ | :bronze_tier: :bronze_tier: :silver_tier: | :bronze_tier: :silver_tier: :silver_tier: | :silver_tier: :silver_tier: :silver_tier: | :silver_tier: :silver_tier: :gold_tier: |
 | Ⅴ | :bronze_tier: :bronze_tier: :silver_tier: :gold_tier: | :bronze_tier: :silver_tier: :silver_tier: :gold_tier: | :silver_tier: :silver_tier: :gold_tier: :gold_tier: | :silver_tier: :gold_tier: :gold_tier: :gold_tier: |
 | Ⅵ | :bronze_tier: :bronze_tier: :silver_tier: :silver_tier: :gold_tier: | :bronze_tier: :silver_tier: :silver_tier: :gold_tier: :gold_tier: | :silver_tier: :silver_tier: :gold_tier: :gold_tier: :gold_tier: | :silver_tier: :gold_tier: :gold_tier: :gold_tier: :gold_tier: |
-| Ⅶ | :azure: | :azure: :azure: | :gold_tier: :azure: :azure: | :gold_tier: :gold_tier: :azure: :azure: |
+| Ⅶ | :azure_tier: | :azure_tier: :azure_tier: | :gold_tier: :azure_tier: :azure_tier: | :gold_tier: :gold_tier: :azure_tier: :azure_tier: |
 
 
 ## See Also

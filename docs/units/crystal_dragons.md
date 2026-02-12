@@ -16,7 +16,7 @@
 | Statistics | Neutral | Dragon Utopia |
 | :--- | :---: | :---: |
 | Town | [Neutral](../towns/neutral.md) | - |
-| Tier | :azure: | - |
+| Tier | :azure_tier: | - |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 7 | 6 |
 | :defense: | 3 | 2 |

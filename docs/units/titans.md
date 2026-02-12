@@ -22,7 +22,7 @@
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |
-| Tier | :gold_tier: | :gold_tier: | :azure: |
+| Tier | :gold_tier: | :gold_tier: | :azure_tier: |
 | Type | [:ground_unit:](index.md#ground-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 6 | 6 | 6 |
 | :defense: | 3 | 3 | 2 |
