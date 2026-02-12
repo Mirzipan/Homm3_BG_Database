@@ -22,8 +22,8 @@
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
+| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: |
+| Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 2 | 2 | 2 |
 | :defense: | 0 | 0 | 0 |
 | :health_points: | 2 | **3** | 4 |

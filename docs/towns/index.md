@@ -12,9 +12,9 @@ Below is a brief overview of the various building types.
 | :city_hall: | City&nbsp;Hall | Provides a faction-specific bonus at the beginning of each Resource Round. |
 | :citadel: | Citadel | Unlocks [**Reinforcing**](../keywords/reinforce.md) [units](../units/index.md). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |
 | :mage_guild: | Mage&nbsp;Guild | [**Search**](../keywords/search.md) the [:spell: deck](../spells/index.md) when built, and then each Turn once for a :gold: price. |
-| :bronze: | Bronze&nbsp;Dwelling | Unlocks [**Recruiting**](../keywords/recruit.md) of [:bronze: units](../units/index.md). |
-| :silver: | Silver&nbsp;Dwelling | Unlocks [**Recruiting**](../keywords/recruit.md) of [:silver: units](../units/index.md).<br>Requires :bronze: Dwelling to be built before. |
-| :golden: | Gold&nbsp;Dwelling | Unlocks [**Recruiting**](../keywords/recruit.md) of [:golden: units](../units/index.md).<br>Requires :silver: Dwelling to be built before. |
+| :bronze_tier: | Bronze&nbsp;Dwelling | Unlocks [**Recruiting**](../keywords/recruit.md) of [:bronze_tier: units](../units/index.md). |
+| :silver_tier: | Silver&nbsp;Dwelling | Unlocks [**Recruiting**](../keywords/recruit.md) of [:silver_tier: units](../units/index.md).<br>Requires :bronze_tier: Dwelling to be built before. |
+| :gold_tier: | Gold&nbsp;Dwelling | Unlocks [**Recruiting**](../keywords/recruit.md) of [:gold_tier: units](../units/index.md).<br>Requires :silver_tier: Dwelling to be built before. |
 | :special_tent: | Special&nbsp;Building | Faction-specific effect. |
 | :special_gears: | Special&nbsp;Building | Faction-specific effect. |
 

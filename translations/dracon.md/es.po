@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-02-12 05:51+0000\n"
 "PO-Revision-Date: 2025-02-21 14:20+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -813,12 +813,18 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/dracon.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "| Level | Description |\n"
+#| "| :---: | :---: |\n"
+#| "| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Magi](../units/magi.md) and [Enchanters units](../units/enchanters.md). |\n"
+#| "| Ⅳ | :map_effect: If you have a [Pack of Magi Unit](../units/magi.md) card, discard it. Then, search the [Neutral Unit](../units/index.md) :golden: deck for the [Enchanters](../units/enchanters.md) card and add it to your Unit deck. You can control only 1 [Enchanters unit](../units/enchanters.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |\n"
+#| "| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2.<br><br>This effect doubles for the [Magi](../units/magi.md) and [Enchanters units](../units/enchanters.md). |\n"
 msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
 "| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Magi](../units/magi.md) and [Enchanters units](../units/enchanters.md). |\n"
-"| Ⅳ | :map_effect: If you have a [Pack of Magi Unit](../units/magi.md) card, discard it. Then, search the [Neutral Unit](../units/index.md) :golden: deck for the [Enchanters](../units/enchanters.md) card and add it to your Unit deck. You can control only 1 [Enchanters unit](../units/enchanters.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |\n"
+"| Ⅳ | :map_effect: If you have a [Pack of Magi Unit](../units/magi.md) card, discard it. Then, search the [Neutral Unit](../units/index.md) :gold_tier: deck for the [Enchanters](../units/enchanters.md) card and add it to your Unit deck. You can control only 1 [Enchanters unit](../units/enchanters.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |\n"
 "| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2.<br><br>This effect doubles for the [Magi](../units/magi.md) and [Enchanters units](../units/enchanters.md). |\n"
 msgstr ""
 "| Nivel | Descripción |\n"

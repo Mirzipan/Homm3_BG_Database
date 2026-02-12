@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-02-12 05:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,8 +43,10 @@ msgstr ""
 #: docs/fields/blocked_field.md docs/fields/buoy.md
 #: docs/fields/creature_bank.md docs/fields/derelict_ship.md
 #: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md
 #: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/flotsam.md docs/fields/jetsam.md
+#: docs/fields/empty_field.md docs/fields/flotsam.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/jetsam.md
 #: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
@@ -927,8 +929,8 @@ msgid ""
 "| Statistics | Few | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
 "| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |\n"
-"| Tier | :silver: | :silver: | :silver: |\n"
-"| Type | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |\n"
+"| Tier | :silver_tier: | :silver_tier: | :silver_tier: |\n"
+"| Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |\n"
 "| :attack: | 3 | **4** | 3 |\n"
 "| :defense: | 0 | **1** | 0 |\n"
 "| :health_points: | 4 | 4 | 5 |\n"

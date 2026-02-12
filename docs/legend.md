@@ -14,13 +14,13 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :bronze: | Bronze tier |
-| :silver: | Silver tier |
-| :golden: | Gold tier |
-| :azure: | Azure tier |
-| :unit_ground: | Ground unit |
-| :unit_flying: | Flying unit |
-| :unit_ranged: | Ranged unit |
+| :bronze_tier: | Bronze tier |
+| :silver_tier: | Silver tier |
+| :gold_tier: | Gold tier |
+| :azure_tier: | Azure tier |
+| :ground_unit: | Ground unit |
+| :flying_unit: | Flying unit |
+| :ranged_unit: | Ranged unit |
 | :attack: | Attack |
 | :defense: | Defense |
 | :power: | Power |
@@ -33,7 +33,7 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :necro: | Necropolis |
+| :necropolis: | Necropolis |
 
 ## Effects And Abilities
 
@@ -69,7 +69,7 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :treasure: | [Treasure die](keywords/dice.md#treasure-die) |
+| :treasure_die: | [Treasure die](keywords/dice.md#treasure-die) |
 | :resource_die: | [Resource die](keywords/dice.md#resource-die) |
 
 ## Miscellaneous
@@ -78,9 +78,9 @@ Quick reference for what the different glyphs mean.
 | :---: | :--- |
 | :expert: | Expert effect |
 | :pay: | Pay |
-| :morale_positive: | Positive morale |
-| :morale_negative: | Negative morale |
-| :movement: | Movement point |
+| :positive_morale: | Positive morale |
+| :negative_morale: | Negative morale |
+| :movement_points: | Movement point |
 
 ## AI Hero Card Types
 

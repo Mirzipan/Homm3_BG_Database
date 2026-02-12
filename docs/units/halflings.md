@@ -8,8 +8,8 @@
 | Statistics | Neutral |
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: |
-| Type | [:unit_ranged:](index.md#ranged-units) |
+| Tier | :bronze_tier: |
+| Type | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 2 |
 | :defense: | 0 |
 | :health_points: | 3 |

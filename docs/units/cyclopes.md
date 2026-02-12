@@ -28,8 +28,8 @@
 | Statistics | Few | Pack | Neutral | Cyclops Stockpile |
 | :--- | :---: | :---: | :---: | :---: |
 | Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) | - |
-| Tier | :golden: | :golden: | :golden: | - |
-| Type | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
+| Tier | :gold_tier: | :gold_tier: | :gold_tier: | - |
+| Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 5 | 5 | 5 | 5 |
 | :defense: | 0 | **1** | 1 | 1 |
 | :health_points: | 6 | **7** | 6 | 5 |

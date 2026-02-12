@@ -22,8 +22,8 @@
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |
-| Tier | :silver: | :silver: | :silver: |
-| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| Tier | :silver_tier: | :silver_tier: | :silver_tier: |
+| Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 4 | **5** | 4 |
 | :defense: | 2 | 2 | 2 |
 | :health_points: | 5 | 5 | 4 |

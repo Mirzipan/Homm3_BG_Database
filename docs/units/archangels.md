@@ -22,8 +22,8 @@
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |
-| Tier | :golden: | :golden: | :golden: |
-| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |
+| Tier | :gold_tier: | :gold_tier: | :gold_tier: |
+| Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 6 | **7** | 5 |
 | :defense: | 3 | 3 | 2 |
 | :health_points: | 8 | **10** | 7 |

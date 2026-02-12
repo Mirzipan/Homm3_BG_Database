@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 1 - \*:bronze:<br>:power: 2 - \*:silver:<br>:power: 4 - \*:golden: |
-| Ⅳ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 0 - \*:bronze:<br>:power: 1 - \*:silver:<br>:power: 3 - \*:golden: |
-| Ⅵ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 0 - \*:bronze:<br>:power: 0 - \*:silver:<br>:power: 2 - \*:golden: |
+| Ⅰ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 1 - \*:bronze_tier:<br>:power: 2 - \*:silver_tier:<br>:power: 4 - \*:gold_tier: |
+| Ⅳ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 0 - \*:bronze_tier:<br>:power: 1 - \*:silver_tier:<br>:power: 3 - \*:gold_tier: |
+| Ⅵ | :instant: Cancel an attack that would reduce your \* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 0 - \*:bronze_tier:<br>:power: 0 - \*:silver_tier:<br>:power: 2 - \*:gold_tier: |
 
 
 ## Appearances As Player Hero

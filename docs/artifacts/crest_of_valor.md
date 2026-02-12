@@ -4,7 +4,7 @@
 ___
 <p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Gain a :morale_positive: token.<br><br>— OR —<br><br>:map_effect: Ignore :morale_negative: effect from a field.</p>
+<p style="text-align: center;" markdown>:instant: Gain a :positive_morale: token.<br><br>— OR —<br><br>:map_effect: Ignore :negative_morale: effect from a field.</p>
 ___
 <p style="text-align: center;" markdown>*After freeing a princess of a neighboring kingdom from the evil clutches of despicable slavers, she awards you with a Crest of Valor.*</p>
 

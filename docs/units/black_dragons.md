@@ -28,8 +28,8 @@
 | Statistics | Few | Pack | Neutral | Dragon Utopia |
 | :--- | :---: | :---: | :---: | :---: |
 | Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) | - |
-| Tier | :golden: | :golden: | :golden: | - |
-| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |
+| Tier | :gold_tier: | :gold_tier: | :gold_tier: | - |
+| Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 6 | **8** | 5 | 5 |
 | :defense: | 3 | 3 | 2 | 2 |
 | :health_points: | 8 | 8 | 7 | 5 |

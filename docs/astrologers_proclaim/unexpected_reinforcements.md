@@ -17,7 +17,7 @@ ___
 
 ## Notes
 
-- :azure: units may *not* be recruited via this card.
+- :azure_tier: units may *not* be recruited via this card.
 
 
 ## Comes With

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-02-12 05:51+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -43,8 +43,10 @@ msgstr ""
 #: docs/fields/blocked_field.md docs/fields/buoy.md
 #: docs/fields/creature_bank.md docs/fields/derelict_ship.md
 #: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md
 #: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/flotsam.md docs/fields/jetsam.md
+#: docs/fields/empty_field.md docs/fields/flotsam.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/jetsam.md
 #: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
@@ -889,7 +891,7 @@ msgid ""
 "| Level | Description |\n"
 "| :---: | :---: |\n"
 "| Ⅰ | :instant: Draw up to 3 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |\n"
-"| Ⅳ | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 0 - \\*:bronze: Unit<br>:power: 1 - \\*:silver: Unit<br>:power: 2 - \\*:golden: Unit |\n"
+"| Ⅳ | :instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0.<br><br> :power: 0 - \\*:bronze_tier: Unit<br>:power: 1 - \\*:silver_tier: Unit<br>:power: 2 - \\*:gold_tier: Unit |\n"
 "| Ⅵ | :instant: Draw up to 4 cards from your deck, take any Spell and Specialty cards to your hand. Discard the remaining cards. |\n"
 msgstr ""
 

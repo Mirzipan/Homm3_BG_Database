@@ -8,8 +8,8 @@
 | Statistics | Neutral |
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
-| Tier | :silver: |
-| Type | [:unit_flying:](index.md#flying-units) |
+| Tier | :silver_tier: |
+| Type | [:flying_unit:](index.md#flying-units) |
 | :attack: | 3 |
 | :defense: | 1 |
 | :health_points: | 5 |

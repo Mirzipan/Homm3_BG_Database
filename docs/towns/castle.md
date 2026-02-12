@@ -22,13 +22,13 @@
 
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
-| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: +1:movement: |
+| City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>:instant: +1:movement_points: |
 | Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |
 | Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 6 :gold: to **Search(2)** [:spell:](../spells/index.md). |
-| Towers | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |
-| Holy Grounds | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |
-| Glory of Erathia | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
-| Brotherhood of the Sword | 8 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, gain a :morale_positive:. |
+| Towers | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze_tier: [units](#units). |
+| Holy Grounds | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver_tier: [units](#units). |
+| Glory of Erathia | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :gold_tier: [units](#units). |
+| Brotherhood of the Sword | 8 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, gain a :positive_morale:. |
 | Blacksmith | 4 :gold:<br>3 :building_materials:<br>0 :valuables: | During your turn, choose one:<br><br>**1.** Remove an [:artifact:](../artifacts/index.md) card from your hand to gain 4 :gold:.<br><br>**2.** :pay: 6 :gold: to **Search(2)** [:artifact:](../artifacts/index.md). |
 
 
@@ -51,20 +51,20 @@ For the "Few" and "Pack" version of the same unit, stat changes are shown in **b
 
 | Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
-| [Halberdiers](../units/halberdiers.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - |
-| [Halberdiers](../units/halberdiers.md#pack) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: |
-| [Marksmen](../units/marksmen.md#few) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 2 | 4 | 3 :gold: | - |
-| [Marksmen](../units/marksmen.md#pack) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 2 | **6** | 5 :gold: | :unit_attack: |
-| [Griffins](../units/griffins.md#few) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 2 | 0 | 4 | 6 | 4 :gold: | :unit_retaliation: |
-| [Griffins](../units/griffins.md#pack) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | **3** | 0 | 4 | **9** | 6 :gold: | :unit_retaliation: |
-| [Crusaders](../units/crusaders.md#few) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 3 | 2 | 4 | 5 | 6 :gold: | - |
-| [Crusaders](../units/crusaders.md#pack) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | **4** | 2 | 4 | **6** | 10 :gold: | :unit_attack: |
-| [Zealots](../units/zealots.md#few) | Few | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | 3 | 1 | 5 | 5 | 8 :gold: | - |
-| [Zealots](../units/zealots.md#pack) | Pack | :silver: | [:unit_ranged:](../units/index.md#ranged-units) | **4** | 1 | 5 | **7** | 12 :gold: | :unit_passive: |
-| [Champions](../units/champions.md#few) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 5 | 2 | 7 | 7 | 12 :gold: | :map_effect: |
-| [Champions](../units/champions.md#pack) | Pack | :golden: | [:unit_ground:](../units/index.md#ground-units) | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: |
-| [Archangels](../units/archangels.md#few) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 6 | 3 | 8 | 12 | 20 :gold:<br>1 :valuables: | :unit_passive: |
-| [Archangels](../units/archangels.md#pack) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **7** | 3 | **10** | **18** | 30 :gold:<br>2 :valuables: | :unit_passive: |
+| [Halberdiers](../units/halberdiers.md#few) | Few | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 2 | 4 | 2 :gold: | - |
+| [Halberdiers](../units/halberdiers.md#pack) | Pack | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | **3** | 1 | 2 | **5** | 3 :gold: | :unit_passive: |
+| [Marksmen](../units/marksmen.md#few) | Few | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 2 | 4 | 3 :gold: | - |
+| [Marksmen](../units/marksmen.md#pack) | Pack | :bronze_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 2 | 0 | 2 | **6** | 5 :gold: | :unit_attack: |
+| [Griffins](../units/griffins.md#few) | Few | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 4 | 6 | 4 :gold: | :unit_retaliation: |
+| [Griffins](../units/griffins.md#pack) | Pack | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | **3** | 0 | 4 | **9** | 6 :gold: | :unit_retaliation: |
+| [Crusaders](../units/crusaders.md#few) | Few | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 5 | 6 :gold: | - |
+| [Crusaders](../units/crusaders.md#pack) | Pack | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | **4** | 2 | 4 | **6** | 10 :gold: | :unit_attack: |
+| [Zealots](../units/zealots.md#few) | Few | :silver_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 1 | 5 | 5 | 8 :gold: | - |
+| [Zealots](../units/zealots.md#pack) | Pack | :silver_tier: | [:ranged_unit:](../units/index.md#ranged-units) | **4** | 1 | 5 | **7** | 12 :gold: | :unit_passive: |
+| [Champions](../units/champions.md#few) | Few | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | 5 | 2 | 7 | 7 | 12 :gold: | :map_effect: |
+| [Champions](../units/champions.md#pack) | Pack | :gold_tier: | [:ground_unit:](../units/index.md#ground-units) | **6** | 2 | 7 | **9** | 20 :gold:<br>1 :valuables: | :unit_attack: |
+| [Archangels](../units/archangels.md#few) | Few | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | 6 | 3 | 8 | 12 | 20 :gold:<br>1 :valuables: | :unit_passive: |
+| [Archangels](../units/archangels.md#pack) | Pack | :gold_tier: | [:flying_unit:](../units/index.md#flying-units) | **7** | 3 | **10** | **18** | 30 :gold:<br>2 :valuables: | :unit_passive: |
 
 
 ## Comes With

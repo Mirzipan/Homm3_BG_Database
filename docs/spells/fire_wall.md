@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Fire Spell](index.md#school-of-fire-magic)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: For this Combat, place this card in an empty space on the Combat board. Deal \* to any [unit](../units/index.md) stopping here and to any :unit_ground: or :unit_ranged: [unit](../units/index.md) passing through.<br><br>:power: 0 ➣ \*1 :damage:<br>:power: 2 ➣ \*2 :damage:<br>:power: 4 ➣ \*3 :damage:<br><br>— OR —<br><br>:instant: +1 :power:</p>
+<p style="text-align: center;" markdown>:ongoing: For this Combat, place this card in an empty space on the Combat board. Deal \* to any [unit](../units/index.md) stopping here and to any :ground_unit: or :ranged_unit: [unit](../units/index.md) passing through.<br><br>:power: 0 ➣ \*1 :damage:<br>:power: 2 ➣ \*2 :damage:<br>:power: 4 ➣ \*3 :damage:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

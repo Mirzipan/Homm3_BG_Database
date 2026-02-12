@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-11 08:15+0000\n"
+"POT-Creation-Date: 2026-02-12 04:56+0000\n"
 "PO-Revision-Date: 2025-12-25 19:17+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -914,7 +914,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/astrologers_proclaim/restart.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round:<br><br>Your hand limit is increased by 1.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round:<br>If you draw this card on the first Astrologer's round, discard it and draw another.<br>Your hand :hand: is reduced by 2 to a minimum of 4.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologers' round:<br>If you draw this card on the first Astrologer's round, discard it and draw another.<br>Your hand :hand_limit: is reduced by 2 to a minimum of 4.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów.<br><br>Limit kart na ręce każdego gracza wzrasta o 1.</p>\n"
 
 #. type: Plain text
