@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Water Spell](index.md#school-of-water-magic)</p>
 ___
-<p style="text-align: center;" markdown>:activation: During Combat, move one allied \* [unit](../units/index.md) to any empty space - ignore any obstacles or effects when moving.<br><br>:power: 0 ➣ \*:bronze_tier:<br>:power: 1 ➣ \*:bronze_tier: or :silver:<br>:power: 2 ➣ \*:bronze_tier: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
+<p style="text-align: center;" markdown>:activation: During Combat, move one allied \* [unit](../units/index.md) to any empty space - ignore any obstacles or effects when moving.<br><br>:power: 0 ➣ \*:bronze_tier:<br>:power: 1 ➣ \*:bronze_tier: or :silver_tier:<br>:power: 2 ➣ \*:bronze_tier: or :silver_tier: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

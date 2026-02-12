@@ -49,34 +49,34 @@ Every unit of every town has a neutral variant.
 | [Wolf Raiders](../units/wolf_raiders.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 3 | 7 | 6 :gold: | :unit_attack: |
 | [Wraiths](../units/wraiths.md#neutral) | Neutral | :bronze_tier: | [:flying_unit:](../units/index.md#flying-units) | 2 | 0 | 4 | 7 | 7 :gold: | :activation: |
 | [Zombies](../units/zombies.md#neutral) | Neutral | :bronze_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 0 | 4 | 3 | 5 :gold: | :unit_passive: |
-| [Ayssids](../units/ayssids.md#neutral) | Neutral | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | 5 | 9 | 9 :gold: | :unit_attack: |
-| [Basilisks](../units/basilisks.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | 4 | 5 | 12 :gold: | :unit_attack: |
-| [Crusaders](../units/crusaders.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 5 | 11 :gold: | :unit_passive: |
-| [Demons](../units/demons.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 0 | 8 | 6 | 13 :gold: | - |
-| [Dendroids](../units/dendroids.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 6 | 3 | 12 :gold: | :unit_passive: |
-| [Energy Elementals](../units/energy_elementals.md#neutral) | Neutral | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | 4 | 5 | 11 :gold: | :unit_passive: |
-| [Fangarm](../units/fangarm.md#neutral) | Neutral | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | 5 | 8 | 11 :gold: | :unit_passive: |
-| [Fire Elementals](../units/fire_elementals.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 1 | 3 | 6 | 13 :gold: | :unit_passive: |
-| [Genies](../units/genies.md#neutral) | Neutral | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | 4 | 9 | 11 :gold: | :unit_attack: |
-| [Gorgons](../units/gorgons.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 4 | 5 | 13 :gold: | :unit_attack: |
-| [Liches](../units/liches.md#neutral) | Neutral | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 0 | 6 | 7 | 12 :gold: | :unit_attack: |
-| [Magi](../units/magi.md#neutral) | Neutral | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 0 | 5 | 6 | 11 :gold: | :unit_attack: |
-| [Magma Elementals](../units/magma_elementals.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 4 | 14 :gold: | :unit_passive: |
-| [Medusas](../units/medusas.md#neutral) | Neutral | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 1 | 4 | 6 | 11 :gold: | :unit_passive: :unit_retaliation: |
-| [Minotaurs](../units/minotaurs.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 7 | 11 :gold: | :unit_attack: |
-| [Mummies](../units/mummies.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 1 | 4 | 5 | 8 :gold: | :unit_attack: :unit_passive: |
-| [Nomads](../units/nomads.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 1 | 4 | 7 | 10 :gold: | :map_effect: |
-| [Ogres](../units/ogres.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 4 | 10 :gold: | :unit_other: |
-| [Pegasi](../units/pegasi.md#neutral) | Neutral | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 5 | 8 | 14 :gold: | :unit_passive: |
-| [Pit Lords](../units/pit_lords.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | 5 | 7 | 15 :gold: | - |
-| [Satyrs](../units/satyrs.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 0 | 5 | 7 | 10 :gold: | :map_effect: |
-| [Sharpshooters](../units/sharpshooters.md#neutral) | Neutral | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 0 | 6 | 9 | 10 :gold: | :unit_attack: |
-| [Sorceresses](../units/sorceresses.md#neutral) | Neutral | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 1 | 5 | 6 | 13 :gold: | :unit_attack: |
-| [Steel Golems](../units/steel_golems.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 3 | 5 | 12 :gold: | :unit_passive: |
-| [Thunderbirds](../units/thunderbirds.md#neutral) | Neutral | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 6 | 9 | 13 :gold: | :unit_passive: |
-| [Vampires](../units/vampires.md#neutral) | Neutral | :silver: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 5 | 8 | 9 :gold: | :unit_attack: |
-| [Water Elementals](../units/water_elementals.md#neutral) | Neutral | :silver: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 4 | 5 | 10 :gold: | :unit_passive: |
-| [Zealots](../units/zealots.md#neutral) | Neutral | :silver: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 0 | 5 | 5 | 12 :gold: | :unit_passive: |
+| [Ayssids](../units/ayssids.md#neutral) | Neutral | :silver_tier: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | 5 | 9 | 9 :gold: | :unit_attack: |
+| [Basilisks](../units/basilisks.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | 4 | 5 | 12 :gold: | :unit_attack: |
+| [Crusaders](../units/crusaders.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 5 | 11 :gold: | :unit_passive: |
+| [Demons](../units/demons.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 0 | 8 | 6 | 13 :gold: | - |
+| [Dendroids](../units/dendroids.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 6 | 3 | 12 :gold: | :unit_passive: |
+| [Energy Elementals](../units/energy_elementals.md#neutral) | Neutral | :silver_tier: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | 4 | 5 | 11 :gold: | :unit_passive: |
+| [Fangarm](../units/fangarm.md#neutral) | Neutral | :silver_tier: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | 5 | 8 | 11 :gold: | :unit_passive: |
+| [Fire Elementals](../units/fire_elementals.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 1 | 3 | 6 | 13 :gold: | :unit_passive: |
+| [Genies](../units/genies.md#neutral) | Neutral | :silver_tier: | [:flying_unit:](../units/index.md#flying-units) | 3 | 1 | 4 | 9 | 11 :gold: | :unit_attack: |
+| [Gorgons](../units/gorgons.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 4 | 2 | 4 | 5 | 13 :gold: | :unit_attack: |
+| [Liches](../units/liches.md#neutral) | Neutral | :silver_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 0 | 6 | 7 | 12 :gold: | :unit_attack: |
+| [Magi](../units/magi.md#neutral) | Neutral | :silver_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 0 | 5 | 6 | 11 :gold: | :unit_attack: |
+| [Magma Elementals](../units/magma_elementals.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 4 | 14 :gold: | :unit_passive: |
+| [Medusas](../units/medusas.md#neutral) | Neutral | :silver_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 1 | 4 | 6 | 11 :gold: | :unit_passive: :unit_retaliation: |
+| [Minotaurs](../units/minotaurs.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 7 | 11 :gold: | :unit_attack: |
+| [Mummies](../units/mummies.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 1 | 4 | 5 | 8 :gold: | :unit_attack: :unit_passive: |
+| [Nomads](../units/nomads.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 1 | 4 | 7 | 10 :gold: | :map_effect: |
+| [Ogres](../units/ogres.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 4 | 4 | 10 :gold: | :unit_other: |
+| [Pegasi](../units/pegasi.md#neutral) | Neutral | :silver_tier: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 5 | 8 | 14 :gold: | :unit_passive: |
+| [Pit Lords](../units/pit_lords.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 4 | 1 | 5 | 7 | 15 :gold: | - |
+| [Satyrs](../units/satyrs.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 0 | 5 | 7 | 10 :gold: | :map_effect: |
+| [Sharpshooters](../units/sharpshooters.md#neutral) | Neutral | :silver_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 0 | 6 | 9 | 10 :gold: | :unit_attack: |
+| [Sorceresses](../units/sorceresses.md#neutral) | Neutral | :silver_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 1 | 5 | 6 | 13 :gold: | :unit_attack: |
+| [Steel Golems](../units/steel_golems.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 3 | 2 | 3 | 5 | 12 :gold: | :unit_passive: |
+| [Thunderbirds](../units/thunderbirds.md#neutral) | Neutral | :silver_tier: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 6 | 9 | 13 :gold: | :unit_passive: |
+| [Vampires](../units/vampires.md#neutral) | Neutral | :silver_tier: | [:flying_unit:](../units/index.md#flying-units) | 3 | 0 | 5 | 8 | 9 :gold: | :unit_attack: |
+| [Water Elementals](../units/water_elementals.md#neutral) | Neutral | :silver_tier: | [:ground_unit:](../units/index.md#ground-units) | 2 | 1 | 4 | 5 | 10 :gold: | :unit_passive: |
+| [Zealots](../units/zealots.md#neutral) | Neutral | :silver_tier: | [:ranged_unit:](../units/index.md#ranged-units) | 3 | 0 | 5 | 5 | 12 :gold: | :unit_passive: |
 | [Arch Devils](../units/arch_devils.md#neutral) | Neutral | :golden: | [:flying_unit:](../units/index.md#flying-units) | 5 | 2 | 7 | 10 | 23 :gold: | :unit_attack: |
 | [Archangels](../units/archangels.md#neutral) | Neutral | :golden: | [:flying_unit:](../units/index.md#flying-units) | 5 | 2 | 7 | 10 | 29 :gold: | :unit_attack: |
 | [Behemoths](../units/behemoths.md#neutral) | Neutral | :golden: | [:ground_unit:](../units/index.md#ground-units) | 5 | 1 | 8 | 9 | 26 :gold: | :unit_attack: |

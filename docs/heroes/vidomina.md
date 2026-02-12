@@ -35,7 +35,7 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :map_effect: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze_tier: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
+| Ⅰ | :map_effect: Play after winning Combat other than Quick Combat. You can **Reinforce** a :bronze_tier: or :silver_tier: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
 | Ⅳ | :instant: Put this card on the ["Pack" of Skeletons Unit](../units/skeletons.md) card; it replaces the card's statistic. Keep the card, until the card's :health_points: drops to 0. When it does, discard this card.<br><br>**Horde of Skeletons**<br>:attack: 3 :defense: 1 :health_points: 2 :initiative: 6 |
 | Ⅵ | :map_effect: Play after winning Combat other than Quick Combat. You can **Reinforce** any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
 

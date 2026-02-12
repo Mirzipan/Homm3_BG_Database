@@ -19,7 +19,7 @@ ___
 
 | Type | Effect | :expert: Effect |
 | :--- | :---: | :---: |
-| Regular | :map_effect: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) a :bronze_tier: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | :map_effect: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
+| Regular | :map_effect: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) a :bronze_tier: or :silver_tier: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | :map_effect: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |
 | Empowered | :map_effect: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | - |
 
 

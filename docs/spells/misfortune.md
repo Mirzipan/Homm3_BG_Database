@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Basic Fire Spell](index.md#school-of-fire-magic)</p>
 ___
-<p style="text-align: center;" markdown>:instant: Play immediately when the selected \* enemy [unit](../units/index.md) is attacking. Negate an [Attack die](../keywords/dice.md#attack-die) result or an additional :attack: from any card.<br><br>:power: 0 ➣ \*:bronze_tier:<br>:power: 1 ➣ \*:bronze_tier: or :silver:<br>:power: 2 ➣ \*:bronze_tier: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
+<p style="text-align: center;" markdown>:instant: Play immediately when the selected \* enemy [unit](../units/index.md) is attacking. Negate an [Attack die](../keywords/dice.md#attack-die) result or an additional :attack: from any card.<br><br>:power: 0 ➣ \*:bronze_tier:<br>:power: 1 ➣ \*:bronze_tier: or :silver_tier:<br>:power: 2 ➣ \*:bronze_tier: or :silver_tier: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 

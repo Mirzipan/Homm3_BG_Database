@@ -5,7 +5,7 @@
 ___
 <p style="text-align: center;" markdown>[Expert Water Spell](index.md#school-of-water-magic)</p>
 ___
-<p style="text-align: center;" markdown>:ongoing: Place a Clone token on an allied * [unit](../units/index.md) and one on an empty space adjacent to that [unit](../units/index.md). The Cloned [unit](../units/index.md) acts like the original one, but has only 1 :health_points:.<br><br>:power: 1 ➣ \*:bronze_tier:<br>:power: 3 ➣ \*:bronze_tier: or :silver:<br>:power: 5 ➣ \*:bronze_tier: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
+<p style="text-align: center;" markdown>:ongoing: Place a Clone token on an allied * [unit](../units/index.md) and one on an empty space adjacent to that [unit](../units/index.md). The Cloned [unit](../units/index.md) acts like the original one, but has only 1 :health_points:.<br><br>:power: 1 ➣ \*:bronze_tier:<br>:power: 3 ➣ \*:bronze_tier: or :silver_tier:<br>:power: 5 ➣ \*:bronze_tier: or :silver_tier: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>
 ___
 
 
