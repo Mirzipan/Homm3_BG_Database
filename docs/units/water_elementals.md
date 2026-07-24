@@ -27,7 +27,7 @@
 
 | Statistics | Few | Pack | Neutral | Derelict Ship |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) | - |
+| Town | Summoned | Summoned | [Neutral](../towns/neutral.md) | - |
 | Tier | :bronze: | :bronze: | :silver: | - |
 | Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
 | :attack: | 2 | **3** | 2 | 3 |
