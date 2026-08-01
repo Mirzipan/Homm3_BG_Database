@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -790,30 +790,37 @@ msgstr "Orki"
 
 #. type: Plain text
 #: docs/units/orcs.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Orcs](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Few Orcs](../assets/units-stronghold-bronze-orcs-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/units/orcs.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Orcs](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Orcs](../assets/units-stronghold-bronze-orcs-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/units/orcs.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "<figure markdown=\"span\">\n"
+#| "    ![Neutral Boars](../assets/units-neutral-bronze-boars.webp){ width=\"340\" align=right }\n"
+#| "</figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Orcs](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Orcs](../assets/units-neutral-bronze-orcs.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Boars](../assets/pl/units-neutral-bronze-boars.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/orcs.md

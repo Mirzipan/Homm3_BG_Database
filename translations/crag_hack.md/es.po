@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-20 13:54+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
@@ -945,7 +945,7 @@ msgstr "Crag Hack"
 #: docs/astrologers_proclaim/crag_hack.md
 #, fuzzy
 #| msgid "![Hero](../assets/astrologers_proclaim-hero.webp){ width=\"475\" align=right }"
-msgid "![Crag Hack](../assets/astrologers_proclaim-back.webp){ width=\"475\" align=right }"
+msgid "![Crag Hack](../assets/astrologers_proclaim-crag_hack.webp){ width=\"475\" align=right }"
 msgstr "![Héroe](../assets/astrologers_proclaim-hero.webp){ width=\"475\" align=right }"
 
 #. type: Plain text
@@ -1018,9 +1018,10 @@ msgstr "[Lista de Héroes](index.md)"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Crag Hack](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>![Crag Hack](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Clancy](../assets/heroes-rampart-might-clancy.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Crag Hack](../assets/heroes-stronghold-might-crag_hack.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Clancy](../assets/heroes-rampart-might-clancy.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/shiva.md
@@ -1061,15 +1062,19 @@ msgstr ""
 "=== \"ofensa ⅰ\""
 
 #. type: Plain text
-#: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
-#, no-wrap
+#: docs/heroes/crag_hack.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Efreet Ⅰ](../assets/hero_specialties-inferno-rashka-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Offense Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Offense Ⅰ](../assets/hero_specialties-stronghold-crag_hack-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Ofensiva Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Ifrits Ⅰ](../assets/hero_specialties-inferno-rashka-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -1083,15 +1088,19 @@ msgstr ""
 "=== \"ofensa ⅳ\""
 
 #. type: Plain text
-#: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
-#, no-wrap
+#: docs/heroes/crag_hack.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Efreet Ⅳ](../assets/hero_specialties-inferno-rashka-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Offense Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Offense Ⅳ](../assets/hero_specialties-stronghold-crag_hack-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Ofensiva Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Ifrits Ⅳ](../assets/hero_specialties-inferno-rashka-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -1105,15 +1114,19 @@ msgstr ""
 "=== \"ofensa ⅵ\""
 
 #. type: Plain text
-#: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
-#, no-wrap
+#: docs/heroes/crag_hack.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Efreet Ⅵ](../assets/hero_specialties-inferno-rashka-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Offense Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Offense Ⅵ](../assets/hero_specialties-stronghold-crag_hack-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Ofensiva Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Ifrits Ⅵ](../assets/hero_specialties-inferno-rashka-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

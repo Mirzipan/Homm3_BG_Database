@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-19 12:26+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -745,9 +745,10 @@ msgstr "Ash"
 
 #. type: Plain text
 #: docs/heroes/ash.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Ash](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>![Ash](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Fiona](../assets/heroes-inferno-might-fiona.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Ash](../assets/heroes-inferno-magic-ash.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Fiona](../assets/heroes-inferno-might-fiona.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ash.md docs/heroes/xyron.md docs/heroes/zydar.md
@@ -781,14 +782,18 @@ msgstr "=== \"Sed de Sangre Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/ash.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Efreet Ⅰ](../assets/hero_specialties-inferno-rashka-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Bloodlust Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Bloodlust Ⅰ](../assets/hero_specialties-inferno-ash-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Sed de Sangre Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Ifrits Ⅰ](../assets/hero_specialties-inferno-rashka-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -798,14 +803,18 @@ msgstr "=== \"Sed de Sangre Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/ash.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Efreet Ⅳ](../assets/hero_specialties-inferno-rashka-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Bloodlust Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Bloodlust Ⅳ](../assets/hero_specialties-inferno-ash-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Sed de Sangre Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Ifrits Ⅳ](../assets/hero_specialties-inferno-rashka-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -815,14 +824,18 @@ msgstr "=== \"Sed de Sangre Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/ash.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Efreet Ⅵ](../assets/hero_specialties-inferno-rashka-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Bloodlust Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Bloodlust Ⅵ](../assets/hero_specialties-inferno-ash-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Sed de Sangre Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Ifrits Ⅵ](../assets/hero_specialties-inferno-rashka-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

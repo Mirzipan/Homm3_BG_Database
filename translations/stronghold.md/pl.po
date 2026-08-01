@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -683,6 +683,30 @@ msgstr "Budynki"
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
 #: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
 #: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md
+msgid "=== \"Empty\""
+msgstr ""
+
+#. type: Plain text
+#: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
+#: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md
+msgid "=== \"Fully Built\""
+msgstr ""
+
+#. type: Plain text
+#: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
+#: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md
+msgid "=== \"Back Side\""
+msgstr ""
+
+#. type: Plain text
+#: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
+#: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/stronghold.md
 #: docs/towns/tower.md docs/units/index.md
 msgid "For the \"Few\" and \"Pack\" version of the same unit, stat changes are shown in **bold**."
 msgstr ""
@@ -692,6 +716,54 @@ msgstr ""
 #, no-wrap
 msgid "Stronghold"
 msgstr "Twierdza"
+
+#. type: Plain text
+#: docs/towns/stronghold.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "<figure markdown=\"span\">\n"
+#| "    ![Neutral Trolls](../assets/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+#| "</figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Empty Stronghold](../assets/towns-stronghold-empty.webp){ width=\"680\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Trolls](../assets/pl/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
+
+#. type: Plain text
+#: docs/towns/stronghold.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "<figure markdown=\"span\">\n"
+#| "    ![Neutral Trolls](../assets/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+#| "</figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Fully Built Stronghold](../assets/towns-stronghold-full.webp){ width=\"680\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Trolls](../assets/pl/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
+
+#. type: Plain text
+#: docs/towns/stronghold.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "<figure markdown=\"span\">\n"
+#| "    ![Neutral Trolls](../assets/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+#| "</figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Back Side Of Stronghold](../assets/towns-stronghold-back.webp){ width=\"680\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Trolls](../assets/pl/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/towns/stronghold.md

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -943,7 +943,7 @@ msgstr "Crag Hack"
 #. type: Plain text
 #: docs/astrologers_proclaim/crag_hack.md
 #, fuzzy
-msgid "![Crag Hack](../assets/astrologers_proclaim-back.webp){ width=\"475\" align=right }"
+msgid "![Crag Hack](../assets/astrologers_proclaim-crag_hack.webp){ width=\"475\" align=right }"
 msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
@@ -1016,9 +1016,9 @@ msgstr "[Lista Bohaterów](index.md)"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Crag Hack](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>![Crag Hack](../assets/heroes-stronghold-might-crag_hack.webp){ width=540 align=right }</p>\n"
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/shiva.md
@@ -1054,13 +1054,13 @@ msgid "=== \"Offense Ⅰ\""
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
-#, no-wrap
+#: docs/heroes/crag_hack.md
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Offense Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Offense Ⅰ](../assets/hero_specialties-stronghold-crag_hack-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
@@ -1068,13 +1068,13 @@ msgid "=== \"Offense Ⅳ\""
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
-#, no-wrap
+#: docs/heroes/crag_hack.md
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Offense Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Offense Ⅳ](../assets/hero_specialties-stronghold-crag_hack-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
@@ -1082,13 +1082,13 @@ msgid "=== \"Offense Ⅵ\""
 msgstr ""
 
 #. type: Plain text
-#: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
-#, no-wrap
+#: docs/heroes/crag_hack.md
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Offense Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Offense Ⅵ](../assets/hero_specialties-stronghold-crag_hack-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -717,7 +717,9 @@ msgstr "Colgante de Celeridad"
 
 #. type: Plain text
 #: docs/artifacts/necklace_of_swiftness.md
-msgid "![Necklace of Swiftness](../assets/player-deck-back.webp){ width=\"340\" align=right }"
+#, fuzzy
+#| msgid "![Necklace of Swiftness](../assets/player-deck-back.webp){ width=\"340\" align=right }"
+msgid "![Necklace of Swiftness](../assets/artifacts_minor-necklace_of_swiftness.webp){ width=\"340\" align=right }"
 msgstr "![Colgante de Celeridad](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text

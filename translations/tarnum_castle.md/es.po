@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-21 19:00+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -775,18 +775,6 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![Ballista Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
-"    <figure markdown=\"span\">\n"
-"        ![Balista Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-
-#. type: Plain text
-#: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
 #, fuzzy
 msgid "=== \"Ballista Ⅳ\""
 msgstr ""
@@ -799,18 +787,6 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![Ballista Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
-"    <figure markdown=\"span\">\n"
-"        ![Balista Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-
-#. type: Plain text
-#: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
 #, fuzzy
 msgid "=== \"Ballista Ⅵ\""
 msgstr ""
@@ -820,18 +796,6 @@ msgstr ""
 "=== \"Ballista ⅵ\"\n"
 "#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
 "=== \"Ballista ⅵ\""
-
-#. type: Plain text
-#: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![Ballista Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
-"    <figure markdown=\"span\">\n"
-"        ![Balista Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/pasis.md docs/heroes/tarnum_castle.md
@@ -847,9 +811,58 @@ msgstr "Tarnum (castillo)"
 
 #. type: Plain text
 #: docs/heroes/tarnum_castle.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Tarnum (Castle)](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Catherine](../assets/heroes-castle-might-catherine.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Tarnum (Castle)](../assets/heroes-castle-might-tarnum.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Catherine](../assets/heroes-castle-might-catherine.webp){ width=540 align=right }</p>\n"
+
+#. type: Plain text
+#: docs/heroes/tarnum_castle.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Estates Ⅰ](../assets/hero_specialties-castle-lord_haart-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Ballista Ⅰ](../assets/hero_specialties-castle-tarnum-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Patrimonio Ⅰ](../assets/hero_specialties-castle-lord_haart-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+
+#. type: Plain text
+#: docs/heroes/tarnum_castle.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Estates Ⅳ](../assets/hero_specialties-castle-lord_haart-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Ballista Ⅳ](../assets/hero_specialties-castle-tarnum-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Patrimonio Ⅳ](../assets/hero_specialties-castle-lord_haart-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+
+#. type: Plain text
+#: docs/heroes/tarnum_castle.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Estates Ⅵ](../assets/hero_specialties-castle-lord_haart-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Ballista Ⅵ](../assets/hero_specialties-castle-tarnum-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Patrimonio Ⅵ](../assets/hero_specialties-castle-lord_haart-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/tarnum_castle.md

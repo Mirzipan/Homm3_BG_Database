@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -726,12 +726,19 @@ msgstr ""
 
 #. type: Plain text
 #: docs/units/satyrs.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "<figure markdown=\"span\">\n"
+#| "    ![Neutral Sharpshooters](../assets/units-neutral-silver-sharpshooters.webp){ width=\"340\" align=right }\n"
+#| "</figure>\n"
 msgid ""
 "<figure markdown=\"span\">\n"
-"    ![Neutral Satyrs](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"    ![Neutral Satyrs](../assets/units-neutral-silver-satyrs.webp){ width=\"340\" align=right }\n"
 "</figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Sharpshooters](../assets/pl/units-neutral-silver-sharpshooters.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/satyrs.md

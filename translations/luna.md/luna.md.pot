@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -742,7 +742,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/luna.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Luna](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Luna](../assets/heroes-conflux-magic-luna.webp){ width=540 align=right }</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -761,7 +761,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fire Wall Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fire Wall Ⅰ](../assets/hero_specialties-conflux-luna-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -775,7 +775,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fire Wall Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fire Wall Ⅳ](../assets/hero_specialties-conflux-luna-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -789,7 +789,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fire Wall Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fire Wall Ⅵ](../assets/hero_specialties-conflux-luna-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 

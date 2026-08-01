@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -623,8 +623,10 @@ msgstr "Escudo de Aire"
 
 #. type: Plain text
 #: docs/spells/air_shield.md
-msgid "![Air Shield](../assets/player-deck-back.webp){ width=\"340\" align=right }"
-msgstr "![Escudo de Aire](../assets/player-deck-back.webp){ width=\"340\" align=right }"
+#, fuzzy
+#| msgid "![Fire Shield](../assets/spells-fire_shield.webp){ width=\"340\" align=right }"
+msgid "![Air Shield](../assets/spells-air_shield.webp){ width=\"340\" align=right }"
+msgstr "![Escudo de Fuego](../assets/spells-fire_shield.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/air_shield.md docs/spells/disrupting_ray.md

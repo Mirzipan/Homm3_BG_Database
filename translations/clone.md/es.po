@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-12-28 22:47+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -633,9 +633,9 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/clone.md
 #, fuzzy
-#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
-msgid "![Clone](../assets/player-deck-back.webp){ width=\"340\" align=right }"
-msgstr "![Cañón](../assets/player-deck-back.webp){ width=\"340\" align=right }"
+#| msgid "![Cure](../assets/spells-cure.webp){ width=\"340\" align=right }"
+msgid "![Clone](../assets/spells-clone.webp){ width=\"340\" align=right }"
+msgstr "![Curar](../assets/spells-cure.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/clone.md docs/spells/frost_ring.md docs/spells/mirth.md

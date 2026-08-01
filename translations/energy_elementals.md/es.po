@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-24 12:10+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -798,10 +798,14 @@ msgstr "Elementales de Energía"
 
 #. type: Plain text
 #: docs/units/energy_elementals.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Few Energy Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Energy Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Few Energy Elementals](../assets/units-conflux-silver-energy_elementals-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
@@ -810,10 +814,14 @@ msgstr ""
 
 #. type: Plain text
 #: docs/units/energy_elementals.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Pack of Energy Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Energy Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Energy Elementals](../assets/units-conflux-silver-energy_elementals-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
@@ -822,10 +830,14 @@ msgstr ""
 
 #. type: Plain text
 #: docs/units/energy_elementals.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Neutral Energy Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Energy Elementals](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Energy Elementals](../assets/units-neutral-silver-energy_elementals.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"

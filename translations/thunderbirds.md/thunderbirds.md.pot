@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -808,7 +808,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Thunderbirds](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Few Thunderbirds](../assets/units-stronghold-silver-thunderbirds-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -817,7 +817,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Thunderbirds](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Thunderbirds](../assets/units-stronghold-silver-thunderbirds-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -826,7 +826,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Thunderbirds](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Thunderbirds](../assets/units-neutral-silver-thunderbirds.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 

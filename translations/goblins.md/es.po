@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-25 12:51+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -791,38 +791,50 @@ msgstr "Trasgos"
 
 #. type: Plain text
 #: docs/units/goblins.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Few Gremlins](../assets/units-tower-bronze-gremlins-few.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Goblins](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Few Goblins](../assets/units-stronghold-bronze-goblins-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Trasgos](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Gremlins](../assets/units-tower-bronze-gremlins-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/units/goblins.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Pack of Gremlins](../assets/units-tower-bronze-gremlins-pack.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Goblins](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Goblins](../assets/units-stronghold-bronze-goblins-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Trasgos](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Gremlins](../assets/units-tower-bronze-gremlins-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/units/goblins.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Neutral Gremlins](../assets/units-neutral-bronze-gremlins.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Goblins](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Goblins](../assets/units-neutral-bronze-goblins.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Trasgos Neutrales](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Gremlins Neutrales](../assets/units-neutral-bronze-gremlins.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

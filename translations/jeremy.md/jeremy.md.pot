@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -743,7 +743,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/jeremy.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Jeremy](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Jeremy](../assets/heroes-cove-might-jeremy.webp){ width=540 align=right }</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -756,7 +756,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cannon Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cannon Ⅰ](../assets/hero_specialties-cove-jeremy-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -770,7 +770,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cannon Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cannon Ⅳ](../assets/hero_specialties-cove-jeremy-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -784,7 +784,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cannon Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cannon Ⅵ](../assets/hero_specialties-cove-jeremy-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 

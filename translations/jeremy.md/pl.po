@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -742,9 +742,9 @@ msgstr "Jeremy"
 
 #. type: Plain text
 #: docs/heroes/jeremy.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Jeremy](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>![Jeremy](../assets/heroes-cove-might-jeremy.webp){ width=540 align=right }</p>\n"
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/jeremy.md
@@ -753,12 +753,12 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/jeremy.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cannon Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cannon Ⅰ](../assets/hero_specialties-cove-jeremy-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/jeremy.md
@@ -767,12 +767,12 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/jeremy.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cannon Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cannon Ⅳ](../assets/hero_specialties-cove-jeremy-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/jeremy.md
@@ -781,12 +781,12 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/jeremy.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cannon Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cannon Ⅵ](../assets/hero_specialties-cove-jeremy-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/jeremy.md

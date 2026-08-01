@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -734,9 +734,10 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/cyra.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Cyra](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Cyra](../assets/heroes-tower-magic-cyra.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keywords/visitable_field.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/cyra.md docs/heroes/dracon.md docs/heroes/solmyr.md
@@ -764,12 +765,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/cyra.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Haste Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Haste Ⅰ](../assets/hero_specialties-tower-cyra-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/cyra.md
@@ -778,12 +780,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/cyra.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Haste Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Haste Ⅳ](../assets/hero_specialties-tower-cyra-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/cyra.md
@@ -792,12 +795,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/cyra.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Haste Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Haste Ⅵ](../assets/hero_specialties-tower-cyra-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/cyra.md

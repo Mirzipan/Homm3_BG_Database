@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-21 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -744,9 +744,10 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/astra.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Astra](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Astra](../assets/heroes-cove-magic-astra.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keywords/visitable_field.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/astra.md docs/heroes/casmetra.md docs/heroes/zilare.md
@@ -780,12 +781,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/astra.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cure Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cure Ⅰ](../assets/hero_specialties-cove-astra-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/astra.md
@@ -794,12 +796,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/astra.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cure Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cure Ⅳ](../assets/hero_specialties-cove-astra-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/astra.md
@@ -808,12 +811,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/astra.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cure Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cure Ⅵ](../assets/hero_specialties-cove-astra-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/astra.md

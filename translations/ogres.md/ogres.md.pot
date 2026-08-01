@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -793,7 +793,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Ogres](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Few Ogres](../assets/units-stronghold-silver-ogres-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -802,7 +802,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Ogres](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Ogres](../assets/units-stronghold-silver-ogres-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -811,7 +811,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Ogres](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Ogres](../assets/units-neutral-silver-ogres.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 

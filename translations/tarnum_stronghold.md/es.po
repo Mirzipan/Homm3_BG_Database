@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -776,18 +776,6 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![Offense Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
-"    <figure markdown=\"span\">\n"
-"        ![Ofensiva Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-
-#. type: Plain text
-#: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
 #, fuzzy
 msgid "=== \"Offense Ⅳ\""
 msgstr ""
@@ -798,18 +786,6 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![Offense Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
-"    <figure markdown=\"span\">\n"
-"        ![Ofensiva Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-
-#. type: Plain text
-#: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
 #, fuzzy
 msgid "=== \"Offense Ⅵ\""
 msgstr ""
@@ -817,18 +793,6 @@ msgstr ""
 "=== \"Ofensiva Ⅵ\"\n"
 "#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
 "=== \"ofensa ⅵ\""
-
-#. type: Plain text
-#: docs/heroes/crag_hack.md docs/heroes/tarnum_stronghold.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![Offense Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
-"    <figure markdown=\"span\">\n"
-"        ![Ofensiva Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
 
 #. type: Bullet: '- '
 #: docs/heroes/tarnum_castle.md docs/heroes/tarnum_dungeon.md
@@ -877,9 +841,58 @@ msgstr "Tarnum (Bastión)"
 
 #. type: Plain text
 #: docs/heroes/tarnum_stronghold.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Tarnum (Stronghold)](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Bron](../assets/heroes-fortress-might-bron.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Tarnum (Stronghold)](../assets/heroes-stronghold-might-tarnum.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Bron](../assets/heroes-fortress-might-bron.webp){ width=540 align=right }</p>\n"
+
+#. type: Plain text
+#: docs/heroes/tarnum_stronghold.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Efreet Ⅰ](../assets/hero_specialties-inferno-rashka-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Offense Ⅰ](../assets/hero_specialties-stronghold-tarnum-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Ifrits Ⅰ](../assets/hero_specialties-inferno-rashka-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+
+#. type: Plain text
+#: docs/heroes/tarnum_stronghold.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Efreet Ⅳ](../assets/hero_specialties-inferno-rashka-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Offense Ⅳ](../assets/hero_specialties-stronghold-tarnum-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Ifrits Ⅳ](../assets/hero_specialties-inferno-rashka-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+
+#. type: Plain text
+#: docs/heroes/tarnum_stronghold.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Efreet Ⅵ](../assets/hero_specialties-inferno-rashka-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Offense Ⅵ](../assets/hero_specialties-stronghold-tarnum-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Ifrits Ⅵ](../assets/hero_specialties-inferno-rashka-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/tarnum_stronghold.md

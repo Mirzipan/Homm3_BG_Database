@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -751,9 +751,10 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/dessa.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Dessa](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>[Astrologers Proclaim](index.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Dessa](../assets/heroes-stronghold-magic-dessa.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Proclamation des Astrologues](index.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/dessa.md docs/heroes/gundula.md
@@ -780,12 +781,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/dessa.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Logistics Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Logistics Ⅰ](../assets/hero_specialties-stronghold-dessa-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/dessa.md
@@ -794,12 +796,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/dessa.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Logistics Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Logistics Ⅳ](../assets/hero_specialties-stronghold-dessa-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/dessa.md
@@ -808,12 +811,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/dessa.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Logistics Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Logistics Ⅵ](../assets/hero_specialties-stronghold-dessa-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/dessa.md

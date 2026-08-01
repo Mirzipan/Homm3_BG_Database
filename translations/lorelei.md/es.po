@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -769,9 +769,10 @@ msgstr "Lorelei"
 
 #. type: Plain text
 #: docs/heroes/lorelei.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Lorelei](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Lorelei](../assets/heroes-dungeon-might-lorelei.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/lorelei.md docs/heroes/mutare.md
@@ -786,12 +787,19 @@ msgstr "=== \"Arpías ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/lorelei.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Resurrection Ⅰ](../assets/hero_specialties-dungeon-alamar-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Harpies Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Harpies Ⅰ](../assets/hero_specialties-dungeon-lorelei-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Resurrección Ⅰ](../assets/hero_specialties-dungeon-alamar-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/lorelei.md
@@ -800,12 +808,19 @@ msgstr "=== \"Arpías ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/lorelei.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Resurrection Ⅳ](../assets/hero_specialties-dungeon-alamar-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Harpies Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Harpies Ⅳ](../assets/hero_specialties-dungeon-lorelei-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Resurrección Ⅳ](../assets/hero_specialties-dungeon-alamar-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/lorelei.md
@@ -814,12 +829,19 @@ msgstr "=== \"Arpías ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/lorelei.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Resurrection Ⅵ](../assets/hero_specialties-dungeon-alamar-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Harpies Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Harpies Ⅵ](../assets/hero_specialties-dungeon-lorelei-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Resurrección Ⅵ](../assets/hero_specialties-dungeon-alamar-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/lorelei.md

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -741,9 +741,10 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/luna.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Luna](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Luna](../assets/heroes-conflux-magic-luna.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keywords/visitable_field.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/luna.md
@@ -759,12 +760,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/luna.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fire Wall Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fire Wall Ⅰ](../assets/hero_specialties-conflux-luna-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/luna.md
@@ -773,12 +775,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/luna.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fire Wall Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fire Wall Ⅳ](../assets/hero_specialties-conflux-luna-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/luna.md
@@ -787,12 +790,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/luna.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fire Wall Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fire Wall Ⅵ](../assets/hero_specialties-conflux-luna-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/luna.md

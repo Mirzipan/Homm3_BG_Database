@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -805,30 +805,37 @@ msgstr ""
 
 #. type: Plain text
 #: docs/units/thunderbirds.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Thunderbirds](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Few Thunderbirds](../assets/units-stronghold-silver-thunderbirds-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/units/thunderbirds.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Thunderbirds](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Thunderbirds](../assets/units-stronghold-silver-thunderbirds-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/units/thunderbirds.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "<figure markdown=\"span\">\n"
+#| "    ![Neutral Rust Dragons](../assets/units-neutral-azure-rust_dragons.webp){ width=\"340\" align=right }\n"
+#| "</figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Thunderbirds](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Thunderbirds](../assets/units-neutral-silver-thunderbirds.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Rust Dragons](../assets/pl/units-neutral-azure-rust-dragons.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/thunderbirds.md

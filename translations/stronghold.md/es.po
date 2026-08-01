@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -683,6 +683,60 @@ msgstr "Edificios"
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
 #: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
 #: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md
+msgid "=== \"Empty\""
+msgstr "=== \"Vacío\""
+
+#. type: Plain text
+#: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
+#: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md
+#, fuzzy
+msgid "=== \"Fully Built\""
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente Construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente Construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente Construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente construido\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Totalmente construido\""
+
+#. type: Plain text
+#: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
+#: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md
+#, fuzzy
+msgid "=== \"Back Side\""
+msgstr ""
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Back Side\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Lado Trasero\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Reverso\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Reverso\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Back Side\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Back Side\"\n"
+"#-#-#-#-#  es.po (Homm 3_BG_Database)  #-#-#-#-#\n"
+"=== \"Back Side\""
+
+#. type: Plain text
+#: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/inferno.md
+#: docs/towns/necropolis.md docs/towns/rampart.md docs/towns/stronghold.md
 #: docs/towns/tower.md docs/units/index.md
 msgid "For the \"Few\" and \"Pack\" version of the same unit, stat changes are shown in **bold**."
 msgstr "Para la versión \"Pocos\" y \"Manada\" de la misma unidad, los cambios de Características se muestran en **negrita**."
@@ -692,6 +746,54 @@ msgstr "Para la versión \"Pocos\" y \"Manada\" de la misma unidad, los cambios 
 #, no-wrap
 msgid "Stronghold"
 msgstr "Bastión"
+
+#. type: Plain text
+#: docs/towns/stronghold.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Empty Dungeon](../assets/towns-dungeon-empty.webp){ width=\"680\" align=right }\n"
+#| "    </figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Empty Stronghold](../assets/towns-stronghold-empty.webp){ width=\"680\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Mazmorra Vacía](../assets/towns-dungeon-empty.webp){ width=\"680\" align=right }\n"
+"    </figure>\n"
+
+#. type: Plain text
+#: docs/towns/stronghold.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Fully Built Dungeon](../assets/towns-dungeon-full.webp){ width=\"680\" align=right }\n"
+#| "    </figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Fully Built Stronghold](../assets/towns-stronghold-full.webp){ width=\"680\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Mazmorra Totalmente Construida](../assets/towns-dungeon-full.webp){ width=\"680\" align=right }\n"
+"    </figure>\n"
+
+#. type: Plain text
+#: docs/towns/stronghold.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Back Side Of Dungeon](../assets/towns-dungeon-back.webp){ width=\"680\" align=right }\n"
+#| "    </figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Back Side Of Stronghold](../assets/towns-stronghold-back.webp){ width=\"680\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Reverso de Mazmorra](../assets/towns-dungeon-back.webp){ width=\"680\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/towns/stronghold.md

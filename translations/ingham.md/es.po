@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -765,9 +765,10 @@ msgstr "Ingham"
 
 #. type: Plain text
 #: docs/heroes/ingham.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Ingham](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Gem](../assets/heroes-rampart-magic-gem.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Ingham](../assets/heroes-castle-magic-ingham.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Gem](../assets/heroes-rampart-magic-gem.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ingham.md docs/heroes/torosar.md
@@ -782,12 +783,19 @@ msgstr "=== \"Fanáticos Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/ingham.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Estates Ⅰ](../assets/hero_specialties-castle-lord_haart-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Zealots Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Zealots Ⅰ](../assets/hero_specialties-castle-ingham-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Patrimonio Ⅰ](../assets/hero_specialties-castle-lord_haart-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/ingham.md
@@ -796,12 +804,19 @@ msgstr "=== \"Fanáticos Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/ingham.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Estates Ⅳ](../assets/hero_specialties-castle-lord_haart-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Zealots Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Zealots Ⅳ](../assets/hero_specialties-castle-ingham-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Patrimonio Ⅳ](../assets/hero_specialties-castle-lord_haart-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/ingham.md
@@ -810,12 +825,19 @@ msgstr "=== \"Fanáticos Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/ingham.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Estates Ⅵ](../assets/hero_specialties-castle-lord_haart-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Zealots Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Zealots Ⅵ](../assets/hero_specialties-castle-ingham-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Patrimonio Ⅵ](../assets/hero_specialties-castle-lord_haart-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/ingham.md

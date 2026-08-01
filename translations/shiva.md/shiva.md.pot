@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -757,7 +757,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/shiva.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Shiva](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Shiva](../assets/heroes-stronghold-might-shiva.webp){ width=540 align=right }</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -770,7 +770,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Thunderbirds Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Thunderbirds Ⅰ](../assets/hero_specialties-stronghold-shiva-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -784,7 +784,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Thunderbirds Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Thunderbirds Ⅳ](../assets/hero_specialties-stronghold-shiva-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -798,7 +798,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Thunderbirds Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Thunderbirds Ⅵ](../assets/hero_specialties-stronghold-shiva-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 

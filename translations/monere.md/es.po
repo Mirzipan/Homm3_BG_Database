@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -752,9 +752,10 @@ msgstr "Aconsejar"
 
 #. type: Plain text
 #: docs/heroes/monere.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Monere](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Monere](../assets/heroes-conflux-magic-monere.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/monere.md
@@ -763,12 +764,19 @@ msgstr "=== \"Magic Elementals ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/monere.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Efreet Ⅰ](../assets/hero_specialties-inferno-rashka-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magic Elementals Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magic Elementals Ⅰ](../assets/hero_specialties-conflux-monere-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Ifrits Ⅰ](../assets/hero_specialties-inferno-rashka-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/monere.md
@@ -777,12 +785,19 @@ msgstr "=== \"Magic Elementals ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/monere.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Efreet Ⅳ](../assets/hero_specialties-inferno-rashka-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magic Elementals Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magic Elementals Ⅳ](../assets/hero_specialties-conflux-monere-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Ifrits Ⅳ](../assets/hero_specialties-inferno-rashka-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/monere.md
@@ -791,12 +806,19 @@ msgstr "=== \"Magic Elementals ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/monere.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Efreet Ⅵ](../assets/hero_specialties-inferno-rashka-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magic Elementals Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magic Elementals Ⅵ](../assets/hero_specialties-conflux-monere-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Ifrits Ⅵ](../assets/hero_specialties-inferno-rashka-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/monere.md

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -960,15 +960,15 @@ msgstr "=== \"Manada (Alternativa)\""
 #, fuzzy, no-wrap
 #| msgid ""
 #| "    <figure markdown=\"span\">\n"
-#| "        ![Pack of Manticores (Alternate)](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+#| "        ![Few Manticores](../assets/units-dungeon-golden-manticores-few.webp){ width=\"340\" align=right }\n"
 #| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few of Manticores (Alternate)](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Few of Manticores (Alternate)](../assets/units-dungeon-golden-manticores-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Mantícoras (Alternativa)](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Pocas Mantícoras](../assets/units-dungeon-golden-manticores-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -978,14 +978,18 @@ msgstr "=== \"Manada (Alternativa)\""
 
 #. type: Plain text
 #: docs/units/manticores.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Pack of Manticores](../assets/units-dungeon-golden-manticores-pack.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Manticores (Alternate)](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Manticores (Alternate)](../assets/units-dungeon-golden-manticores-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Mantícoras (Alternativa)](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Mantícoras](../assets/units-dungeon-golden-manticores-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

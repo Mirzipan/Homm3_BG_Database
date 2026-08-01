@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-21 16:09+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -743,7 +743,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/yog.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Yog](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Yog](../assets/heroes-stronghold-might-yog.webp){ width=540 align=right }</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -757,7 +757,7 @@ msgstr ""
 #| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cyclopes Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cyclopes Ⅰ](../assets/hero_specialties-stronghold-yog-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
@@ -772,7 +772,7 @@ msgstr ""
 #| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cyclopes Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cyclopes Ⅳ](../assets/hero_specialties-stronghold-yog-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
@@ -787,7 +787,7 @@ msgstr ""
 #| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cyclopes Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cyclopes Ⅵ](../assets/hero_specialties-stronghold-yog-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 

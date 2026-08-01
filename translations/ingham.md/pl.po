@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -765,9 +765,9 @@ msgstr "Ingham"
 
 #. type: Plain text
 #: docs/heroes/ingham.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Ingham](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>![Ingham](../assets/heroes-castle-magic-ingham.webp){ width=540 align=right }</p>\n"
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/ingham.md docs/heroes/torosar.md
@@ -782,12 +782,19 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/ingham.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "<figure markdown=\"span\">\n"
+#| "    ![Neutral Trolls](../assets/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+#| "</figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Zealots Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Zealots Ⅰ](../assets/hero_specialties-castle-ingham-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Trolls](../assets/pl/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/heroes/ingham.md
@@ -796,12 +803,19 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/ingham.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "<figure markdown=\"span\">\n"
+#| "    ![Neutral Trolls](../assets/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+#| "</figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Zealots Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Zealots Ⅳ](../assets/hero_specialties-castle-ingham-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Trolls](../assets/pl/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/heroes/ingham.md
@@ -810,12 +824,19 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/ingham.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "<figure markdown=\"span\">\n"
+#| "    ![Neutral Trolls](../assets/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+#| "</figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Zealots Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Zealots Ⅵ](../assets/hero_specialties-castle-ingham-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Trolls](../assets/pl/units-neutral-golden-trolls.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/heroes/ingham.md

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-21 16:09+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -742,9 +742,10 @@ msgstr "Si"
 
 #. type: Plain text
 #: docs/heroes/yog.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Yog](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Fiona](../assets/heroes-inferno-might-fiona.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Yog](../assets/heroes-stronghold-might-yog.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Fiona](../assets/heroes-inferno-might-fiona.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/yog.md
@@ -758,15 +759,15 @@ msgstr "=== \"Cyclops ⅰ\""
 #, fuzzy, no-wrap
 #| msgid ""
 #| "    <figure markdown=\"span\">\n"
-#| "        ![Cure Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+#| "        ![Cerberi Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width=\"340\" align=right }\n"
 #| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cyclopes Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cyclopes Ⅰ](../assets/hero_specialties-stronghold-yog-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Curación Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cerberos Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -781,15 +782,15 @@ msgstr "=== \"Cyclops ⅳ\""
 #, fuzzy, no-wrap
 #| msgid ""
 #| "    <figure markdown=\"span\">\n"
-#| "        ![Cure Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+#| "        ![Cerberi Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
 #| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cyclopes Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cyclopes Ⅳ](../assets/hero_specialties-stronghold-yog-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Curación Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cerberos Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -804,15 +805,15 @@ msgstr "=== \"Cyclops ⅵ\""
 #, fuzzy, no-wrap
 #| msgid ""
 #| "    <figure markdown=\"span\">\n"
-#| "        ![Cure Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+#| "        ![Cerberi Ⅵ](../assets/hero_specialties-inferno-fiona-7.webp){ width=\"340\" align=right }\n"
 #| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cyclopes Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cyclopes Ⅵ](../assets/hero_specialties-stronghold-yog-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Curación Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cerberos Ⅵ](../assets/hero_specialties-inferno-fiona-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

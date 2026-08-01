@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -792,10 +792,14 @@ msgstr "Hechiceras"
 
 #. type: Plain text
 #: docs/units/sorceresses.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Few Sorceresses](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Sorceresses](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Few Sorceresses](../assets/units-cove-silver-sorceresses-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
@@ -804,10 +808,14 @@ msgstr ""
 
 #. type: Plain text
 #: docs/units/sorceresses.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Pack of Sorceresses](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Sorceresses](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Sorceresses](../assets/units-cove-silver-sorceresses-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
@@ -816,12 +824,19 @@ msgstr ""
 
 #. type: Plain text
 #: docs/units/sorceresses.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Neutral Crusaders](../assets/units-neutral-silver-crusaders.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Sorceresses](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Sorceresses](../assets/units-neutral-silver-sorceresses.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cruzados Neutrales](../assets/units-neutral-silver-crusaders.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/sorceresses.md

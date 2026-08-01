@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -797,21 +797,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/units/phoenixes.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Phoenixes](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Few Phoenixes](../assets/units-conflux-golden-phoenixes-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
-
-#. type: Plain text
-#: docs/units/phoenixes.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![Pack of Phoenixes](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/units/phoenixes.md
@@ -819,7 +811,17 @@ msgstr ""
 #| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Phoenixes](../assets/units-blank-azure.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Phoenixes](../assets/units-conflux-golden-phoenixes-pack.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
+
+#. type: Plain text
+#: docs/units/phoenixes.md
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Neutral Phoenixes](../assets/units-neutral-azure-phoenixes.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 

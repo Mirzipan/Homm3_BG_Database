@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-19 13:51+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -791,10 +791,14 @@ msgstr "Behemoths"
 
 #. type: Plain text
 #: docs/units/behemoths.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Few Behemoths](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Behemoths](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Few Behemoths](../assets/units-stronghold-golden-behemoths-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
@@ -803,26 +807,34 @@ msgstr ""
 
 #. type: Plain text
 #: docs/units/behemoths.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Pack of Efreet](../assets/units-inferno-golden-efreet-pack.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Behemoths](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Behemoths](../assets/units-stronghold-golden-behemoths-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Behemoths](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Ifrits](../assets/units-inferno-golden-efreet-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/units/behemoths.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Neutral Efreet](../assets/units-neutral-golden-efreet.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Behemoths](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Behemoths](../assets/units-neutral-golden-behemoths.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Behemoths Neutrales](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Ifrits Neutrales](../assets/units-neutral-golden-efreet.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

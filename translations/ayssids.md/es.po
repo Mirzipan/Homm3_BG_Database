@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-19 12:38+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -793,38 +793,50 @@ msgstr "Aysides"
 
 #. type: Plain text
 #: docs/units/ayssids.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Few Magi](../assets/units-tower-silver-magi-few.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Ayssids](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Few Ayssids](../assets/units-cove-silver-ayssids-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Ayssids](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Magi](../assets/units-tower-silver-magi-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/units/ayssids.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Pack of Magi](../assets/units-tower-silver-magi-pack.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Ayssids](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Ayssids](../assets/units-cove-silver-ayssids-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Ayssids](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Magi](../assets/units-tower-silver-magi-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/units/ayssids.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Neutral Basilisks](../assets/units-neutral-silver-basilisks.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Ayssids](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Ayssids](../assets/units-neutral-silver-ayssids.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Ayssids Neutrales](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Basiliscos Neutrales](../assets/units-neutral-silver-basilisks.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

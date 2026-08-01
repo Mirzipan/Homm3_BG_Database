@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -790,30 +790,37 @@ msgstr "Ogry"
 
 #. type: Plain text
 #: docs/units/ogres.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Ogres](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Few Ogres](../assets/units-stronghold-silver-ogres-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/units/ogres.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Ogres](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Ogres](../assets/units-stronghold-silver-ogres-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/units/ogres.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "<figure markdown=\"span\">\n"
+#| "    ![Neutral Gold Golems](../assets/units-neutral-golden-gold_golems.webp){ width=\"340\" align=right }\n"
+#| "</figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Ogres](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Ogres](../assets/units-neutral-silver-ogres.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"<figure markdown=\"span\">\n"
+"    ![Neutral Gold Golems](../assets/pl/units-neutral-golden-gold-golems.webp){ width=\"340\" align=right }\n"
+"</figure>\n"
 
 #. type: Plain text
 #: docs/units/ogres.md
