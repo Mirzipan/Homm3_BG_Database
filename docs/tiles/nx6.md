@@ -14,7 +14,7 @@ ___
 - [Ⅴ](../difficulties.md) [:valuables: Mine](../fields/mine.md)
 - [Tree of Knowledge](../fields/tree_of_knowledge.md)
 - [Empty Field](../fields/empty_field.md)
-- [Ⅳ](../difficulties.md) [:treasure:](../fields/treasure_symbol.md)
+- [Ⅳ](../difficulties.md) [:treasure_die:](../fields/treasure_symbol.md)
 - [Sanctuary](../fields/sanctuary.md)
 
 

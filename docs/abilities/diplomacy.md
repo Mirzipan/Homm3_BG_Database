@@ -30,7 +30,7 @@ ___
 
 ## Notes
 
-- If the player already has a :golden: dwelling, they draw cards from both, the :golden: and :azure: Neutral decks.
+- If the player already has a :gold_tier: dwelling, they draw cards from both, the :gold_tier: and :azure_tier: Neutral decks.
 - The recruitment costs for neutral units can be found on the card of the respective unit.
 - For recruitment that happens as a result of using this ability, the recruitment token shall not be flipped. This means this ability may be used even after the player has already recruited units during this round.
 - [^1] When played with miniatures (e.g. such as when playing on the large battlefield), this ability cannot be used to recruit units from a faction controller by another player, nor to recruit neutral units that are already recruited by another player. Should a player draw such card, that may not be recruited, they shall draw a replacement card instead.
