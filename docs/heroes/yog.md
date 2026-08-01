@@ -1,6 +1,6 @@
 # Yog
 
-<p style="text-align: center;" markdown>![Yog](../assets/heroes-stronghold-might-yog.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Yog](../assets/heroes-stronghold-might-yog.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Barbarian](index.md)</p>
 ___

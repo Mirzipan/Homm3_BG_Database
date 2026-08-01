@@ -1,6 +1,6 @@
 # Luna
 
-<p style="text-align: center;" markdown>![Luna](../assets/heroes-conflux-magic-luna.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Luna](../assets/heroes-conflux-magic-luna.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Elementalist](index.md)</p>
 ___

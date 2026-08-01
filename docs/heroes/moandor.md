@@ -1,6 +1,6 @@
 # Moandor
 
-<p style="text-align: center;" markdown>![Moandor](../assets/heroes-necropolis-might-moandor.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Moandor](../assets/heroes-necropolis-might-moandor.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Death Knight](index.md)</p>
 ___

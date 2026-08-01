@@ -1,6 +1,6 @@
 # Tarnum (Conflux)
 
-<p style="text-align: center;" markdown>![Tarnum (Conflux)](../assets/heroes-conflux-magic-tarnum.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Tarnum (Conflux)](../assets/heroes-conflux-magic-tarnum.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Elementalist](index.md)</p>
 ___

@@ -1,6 +1,6 @@
 # Ivor
 
-<p style="text-align: center;" markdown>![Ivor](../assets/heroes-rampart-might-ivor.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Ivor](../assets/heroes-rampart-might-ivor.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Ranger](index.md)</p>
 ___

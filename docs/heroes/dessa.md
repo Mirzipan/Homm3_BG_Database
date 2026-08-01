@@ -1,6 +1,6 @@
 # Dessa
 
-<p style="text-align: center;" markdown>![Dessa](../assets/heroes-stronghold-magic-dessa.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Dessa](../assets/heroes-stronghold-magic-dessa.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Battle Mage](index.md)</p>
 ___

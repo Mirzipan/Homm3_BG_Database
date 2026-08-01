@@ -1,6 +1,6 @@
 # Cyra
 
-<p style="text-align: center;" markdown>![Cyra](../assets/heroes-tower-magic-cyra.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Cyra](../assets/heroes-tower-magic-cyra.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Wizard](index.md)</p>
 ___

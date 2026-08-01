@@ -1,6 +1,6 @@
 # Octavia
 
-<p style="text-align: center;" markdown>![Octavia](../assets/heroes-inferno-might-octavia.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Octavia](../assets/heroes-inferno-might-octavia.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Demoniac](index.md)</p>
 ___

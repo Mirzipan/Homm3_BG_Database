@@ -1,6 +1,6 @@
 # Miriam
 
-<p style="text-align: center;" markdown>![Miriam](../assets/heroes-cove-might-miriam.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Miriam](../assets/heroes-cove-might-miriam.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Captain](index.md)</p>
 ___

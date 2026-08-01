@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Judge Dread](../assets/astrologers_proclaim-back.webp){ width="475" align=right }
+![Judge Dread](../assets/astrologers_proclaim-judge_dread.webp){ width="475" align=right }
 
 </figure>
 

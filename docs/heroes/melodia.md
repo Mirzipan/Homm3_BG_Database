@@ -1,6 +1,6 @@
 # Melodia
 
-<p style="text-align: center;" markdown>![Melodia](../assets/heroes-rampart-magic-melodia.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Melodia](../assets/heroes-rampart-magic-melodia.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Druid](index.md)</p>
 ___

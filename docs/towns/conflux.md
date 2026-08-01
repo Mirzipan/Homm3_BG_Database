@@ -2,6 +2,24 @@
 
 ## Buildings
 
+=== "Empty"
+
+    <figure markdown="span">
+        ![Empty Conflux](../assets/towns-conflux-empty.webp){ width="680" align=right }
+    </figure>
+
+=== "Fully Built"
+
+    <figure markdown="span">
+        ![Fully Built Conflux](../assets/towns-conflux-full.webp){ width="680" align=right }
+    </figure>
+
+=== "Back Side"
+
+    <figure markdown="span">
+        ![Back Side Of Conflux](../assets/towns-conflux-back.webp){ width="680" align=right }
+    </figure>
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 10 :gold:<br>3 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant:️ 4 :gold: for this round.<br><br>— OR —<br><br>:instant: **Search(3)** [:spell:](../spells/index.md) |

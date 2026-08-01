@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Plastic Tray](../assets/astrologers_proclaim-back.webp){ width="475" align=right }
+![Plastic Tray](../assets/astrologers_proclaim-plastic_tray.webp){ width="475" align=right }
 
 </figure>
 

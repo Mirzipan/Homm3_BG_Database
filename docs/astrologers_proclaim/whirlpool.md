@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Whirlpool](../assets/astrologers_proclaim-back.webp){ width="475" align=right }
+![Whirlpool](../assets/astrologers_proclaim-whirlpool.webp){ width="475" align=right }
 
 </figure>
 

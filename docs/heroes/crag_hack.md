@@ -1,6 +1,6 @@
 # Crag Hack
 
-<p style="text-align: center;" markdown>![Crag Hack](../assets/heroes-stronghold-might-crag_hack.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Crag Hack](../assets/heroes-stronghold-might-crag_hack.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Barbarian](index.md)</p>
 ___

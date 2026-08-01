@@ -1,6 +1,6 @@
 # Erdamon
 
-<p style="text-align: center;" markdown>![Erdamon](../assets/heroes-conflux-might-erdamon.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Erdamon](../assets/heroes-conflux-might-erdamon.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Planeswalker](index.md)</p>
 ___

@@ -1,6 +1,6 @@
 # Ciele
 
-<p style="text-align: center;" markdown>![Ciele](../assets/heroes-conflux-magic-ciele.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Ciele](../assets/heroes-conflux-magic-ciele.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Elementalist](index.md)</p>
 ___

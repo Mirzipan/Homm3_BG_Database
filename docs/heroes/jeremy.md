@@ -1,6 +1,6 @@
 # Jeremy
 
-<p style="text-align: center;" markdown>![Jeremy](../assets/heroes-cove-might-jeremy.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Jeremy](../assets/heroes-cove-might-jeremy.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Captain](index.md)</p>
 ___

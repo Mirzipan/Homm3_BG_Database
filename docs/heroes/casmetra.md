@@ -1,6 +1,6 @@
 # Casmetra
 
-<p style="text-align: center;" markdown>![Casmetra](../assets/heroes-cove-magic-casmetra.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Casmetra](../assets/heroes-cove-magic-casmetra.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Navigator](index.md)</p>
 ___

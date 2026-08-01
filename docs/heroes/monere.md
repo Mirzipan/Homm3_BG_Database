@@ -1,6 +1,6 @@
 # Monere
 
-<p style="text-align: center;" markdown>![Monere](../assets/heroes-conflux-magic-monere.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Monere](../assets/heroes-conflux-magic-monere.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Planeswalker](index.md)</p>
 ___

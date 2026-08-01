@@ -1,6 +1,6 @@
 # Gerwulf
 
-<p style="text-align: center;" markdown>![Gerwulf](../assets/heroes-fortress-might-gerwulf.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Gerwulf](../assets/heroes-fortress-might-gerwulf.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Beastmaster](index.md)</p>
 ___

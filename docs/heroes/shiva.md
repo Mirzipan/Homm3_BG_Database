@@ -1,6 +1,6 @@
 # Shiva
 
-<p style="text-align: center;" markdown>![Shiva](../assets/heroes-stronghold-might-shiva.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Shiva](../assets/heroes-stronghold-might-shiva.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Barbarian](index.md)</p>
 ___

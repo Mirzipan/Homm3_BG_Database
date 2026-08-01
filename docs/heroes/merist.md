@@ -1,6 +1,6 @@
 # Merist
 
-<p style="text-align: center;" markdown>![Merist](../assets/heroes-fortress-magic-merist.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Merist](../assets/heroes-fortress-magic-merist.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Witch](index.md)</p>
 ___

@@ -1,6 +1,6 @@
 # Valeska
 
-<p style="text-align: center;" markdown>![Valeska](../assets/heroes-castle-might-valeska.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Valeska](../assets/heroes-castle-might-valeska.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Knight](index.md)</p>
 ___

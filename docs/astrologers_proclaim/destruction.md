@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Destruction](../assets/astrologers_proclaim-back.webp){ width="475" align=right }
+![Destruction](../assets/astrologers_proclaim-destruction.webp){ width="475" align=right }
 
 </figure>
 

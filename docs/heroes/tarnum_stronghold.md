@@ -1,6 +1,6 @@
 # Tarnum (Stronghold)
 
-<p style="text-align: center;" markdown>![Tarnum (Stronghold)](../assets/heroes-stronghold-might-tarnum.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Tarnum (Stronghold)](../assets/heroes-stronghold-might-tarnum.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Barbarian](index.md)</p>
 ___

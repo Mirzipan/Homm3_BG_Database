@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Multilingual Bron](../assets/astrologers_proclaim-back.webp){ width="475" align=right }
+![Multilingual Bron](../assets/astrologers_proclaim-multilingual_bron.webp){ width="475" align=right }
 
 </figure>
 

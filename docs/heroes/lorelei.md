@@ -1,6 +1,6 @@
 # Lorelei
 
-<p style="text-align: center;" markdown>![Lorelei](../assets/heroes-dungeon-might-lorelei.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Lorelei](../assets/heroes-dungeon-might-lorelei.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Overlord](index.md)</p>
 ___

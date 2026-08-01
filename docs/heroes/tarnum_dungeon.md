@@ -1,6 +1,6 @@
 # Tarnum (Dungeon)
 
-<p style="text-align: center;" markdown>![Tarnum (Dungeon)](../assets/heroes-dungeon-might-tarnum.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Tarnum (Dungeon)](../assets/heroes-dungeon-might-tarnum.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Overload](index.md)</p>
 ___

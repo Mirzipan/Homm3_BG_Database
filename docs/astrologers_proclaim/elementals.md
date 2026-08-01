@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Elementals](../assets/astrologers_proclaim-back.webp){ width="475" align=right }
+![Elementals](../assets/astrologers_proclaim-elementals.webp){ width="475" align=right }
 
 </figure>
 

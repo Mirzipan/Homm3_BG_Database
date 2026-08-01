@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Disruption](../assets/astrologers_proclaim-back.webp){ width="475" align=right }
+![Disruption](../assets/astrologers_proclaim-disruption.webp){ width="475" align=right }
 
 </figure>
 

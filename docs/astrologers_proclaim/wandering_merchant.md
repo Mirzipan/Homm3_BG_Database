@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Wandering Merchant](../assets/astrologers_proclaim-back.webp){ width="475" align=right }
+![Wandering Merchant](../assets/astrologers_proclaim-wandering_merchant.webp){ width="475" align=right }
 
 </figure>
 

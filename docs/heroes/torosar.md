@@ -1,6 +1,6 @@
 # Torosar
 
-<p style="text-align: center;" markdown>![Torosar](../assets/heroes-tower-might-torosar.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Torosar](../assets/heroes-tower-might-torosar.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Alchemist](index.md)</p>
 ___
