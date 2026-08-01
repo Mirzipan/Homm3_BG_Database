@@ -27,7 +27,7 @@
 
 | Statistics | Few | Pack | Neutral | Imp Cache |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: | - |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 2 | **3** | 3 | 1 |

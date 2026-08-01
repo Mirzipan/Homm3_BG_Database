@@ -27,7 +27,7 @@
 
 | Statistics | Few | Pack | Neutral | Derelict Ship |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Summoned](../towns/neutral.md#summoned-units) | [Summoned](../towns/neutral.md#summoned-units) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :bronze_tier: | :bronze_tier: | :silver_tier: | - |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 2 | **3** | 2 | 3 |

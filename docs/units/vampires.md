@@ -27,7 +27,7 @@
 
 | Statistics | Few | Pack | Neutral | Crypt |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :silver_tier: | :silver_tier: | :silver_tier: | - |
 | Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 4 | **5** | 3 | 2 |

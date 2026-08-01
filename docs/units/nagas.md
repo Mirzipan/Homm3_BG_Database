@@ -27,7 +27,7 @@
 
 | Statistics | Few | Pack | Neutral | Naga Bank |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :gold_tier: | :gold_tier: | :gold_tier: | - |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 5 | **6** | 5 | 4 |

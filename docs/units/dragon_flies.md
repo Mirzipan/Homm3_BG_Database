@@ -27,7 +27,7 @@
 
 | Statistics | Few | Pack | Neutral | Dragon Fly Hive |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: | - |
 | Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 3 | 3 | 3 | 3 |

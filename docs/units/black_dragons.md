@@ -27,7 +27,7 @@
 
 | Statistics | Few | Pack | Neutral | Dragon Utopia |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :gold_tier: | :gold_tier: | :gold_tier: | - |
 | Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 6 | **8** | 5 | 5 |

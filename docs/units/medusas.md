@@ -27,7 +27,7 @@
 
 | Statistics | Few | Pack | Neutral | Medusa Stores |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :silver_tier: | :silver_tier: | :silver_tier: | - |
 | Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 3 | **4** | 3 | 3 |

@@ -15,7 +15,7 @@
 
 | Statistics | Neutral | Dragon Utopia |
 | :--- | :---: | :---: |
-| Town | [Neutral](../towns/neutral.md) | - |
+| Town | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :azure_tier: | - |
 | Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 5 | 4 |

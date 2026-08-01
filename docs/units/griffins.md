@@ -27,7 +27,7 @@
 
 | Statistics | Few | Pack | Neutral | Griffin Conservatory |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: | - |
 | Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 2 | **3** | 3 | 3 |

@@ -27,7 +27,7 @@
 
 | Statistics | Few | Pack | Neutral | Cyclops Stockpile |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :gold_tier: | :gold_tier: | :gold_tier: | - |
 | Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 5 | 5 | 5 | 5 |
