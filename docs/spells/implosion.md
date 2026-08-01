@@ -11,7 +11,7 @@ ___
 
 ## Notes
 
-- To play this spell, as least one spell power needs to also be played.
+- To play this spell, at least one spell power needs to also be played.
 
 
 ## Comes With
