@@ -3,25 +3,25 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Water Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Few Water Elementals](../assets/units-summoned-bronze-water_elementals-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Water Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Pack of Water Elementals](../assets/units-summoned-bronze-water_elementals-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Water Elementals](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Neutral Water Elementals](../assets/units-neutral-silver-water_elemental.webp){ width="340" align=right }
     </figure>
 
 === "Derelict Ship"
 
     <figure markdown="span">
-        ![Derelict Ship Water Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Derelict Ship Water Elementals](../assets/creature_banks-derelict_ship-water_elementals.webp){ width="340" align=right }
     </figure>
 
 

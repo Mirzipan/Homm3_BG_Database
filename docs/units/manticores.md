@@ -15,13 +15,13 @@
 === "Few (Alternate)"
 
     <figure markdown="span">
-        ![Few of Manticores (Alternate)](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Few of Manticores (Alternate)](../assets/units-dungeon-golden-manticores-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack (Alternate)"
 
     <figure markdown="span">
-        ![Pack of Manticores (Alternate)](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Pack of Manticores (Alternate)](../assets/units-dungeon-golden-manticores-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"

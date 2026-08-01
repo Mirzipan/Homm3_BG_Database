@@ -21,7 +21,7 @@
 === "Dragon Utopia"
 
     <figure markdown="span">
-        ![Dragon Utopia Black Dragons](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Dragon Utopia Black Dragons](../assets/creature_banks-dragon_utopia-gold_dragons.webp){ width="340" align=right }
     </figure>
 
 

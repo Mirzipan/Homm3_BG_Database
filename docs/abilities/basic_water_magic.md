@@ -3,13 +3,13 @@
 === "Regular"
 
     <figure markdown="span">
-        ![Basic Water Magic](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Basic Water Magic](../assets/abilities-basic_water_magic.webp){ width="340" align=right }
     </figure>
 
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Basic Water Magic](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Basic Water Magic](../assets/abilities-basic_water_magic-empowered.webp){ width="340" align=right }
     </figure>
 
 

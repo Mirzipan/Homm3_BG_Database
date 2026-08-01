@@ -21,13 +21,13 @@
 === "Crypt"
 
     <figure markdown="span">
-        ![Crypt Wraiths](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Crypt Wraiths](../assets/creature_banks-crypt-wraiths.webp){ width="340" align=right }
     </figure>
 
 === "Shipwreck"
 
     <figure markdown="span">
-        ![Shipwreck Wraiths](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Shipwreck Wraiths](../assets/creature_banks-shipwreck-wraiths.webp){ width="340" align=right }
     </figure>
 
 

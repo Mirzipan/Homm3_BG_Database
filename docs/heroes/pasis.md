@@ -1,6 +1,6 @@
 # Pasis
 
-<p style="text-align: center;" markdown>![Pasis](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Pasis](../assets/heroes-conflux-might-pasis.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Planeswalker](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Elementals Ⅰ"
 
     <figure markdown="span">
-        ![Elementals Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Elementals Ⅰ](../assets/hero_specialties-conflux-pasis-1.webp){ width="340" align=right }
     </figure>
 
 === "Elementals Ⅳ"
 
     <figure markdown="span">
-        ![Elementals Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Elementals Ⅳ](../assets/hero_specialties-conflux-pasis-4.webp){ width="340" align=right }
     </figure>
 
 === "Elementals Ⅵ"
 
     <figure markdown="span">
-        ![Elementals Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Elementals Ⅵ](../assets/hero_specialties-conflux-pasis-7.webp){ width="340" align=right }
     </figure>
 
 

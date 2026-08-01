@@ -9,7 +9,7 @@
 === "Dragon Utopia"
 
     <figure markdown="span">
-        ![Dragon Utopia Faerie Dragons](../assets/units-blank-azure.webp){ width="340" align=right }
+        ![Dragon Utopia Faerie Dragons](../assets/creature_banks-dragon_utopia-faerie_dragons.webp){ width="340" align=right }
     </figure>
 
 

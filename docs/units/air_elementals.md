@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Air Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Few Air Elementals](../assets/units-summoned-bronze-air_elementals-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Air Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Pack of Air Elementals](../assets/units-summoned-bronze-air_elementals-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Air Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Neutral Air Elementals](../assets/units-neutral-bronze-air_elemental.webp){ width="340" align=right }
     </figure>
 
 

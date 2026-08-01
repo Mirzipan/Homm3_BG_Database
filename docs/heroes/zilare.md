@@ -1,6 +1,6 @@
 # Zilare
 
-<p style="text-align: center;" markdown>![Zilare](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Zilare](../assets/heroes-cove-magic-zilare.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Navigator](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Forgetfulness Ⅰ"
 
     <figure markdown="span">
-        ![Forgetfulness Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Forgetfulness Ⅰ](../assets/hero_specialties-cove-zilare-1.webp){ width="340" align=right }
     </figure>
 
 === "Forgetfulness Ⅳ"
 
     <figure markdown="span">
-        ![Forgetfulness Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Forgetfulness Ⅳ](../assets/hero_specialties-cove-zilare-4.webp){ width="340" align=right }
     </figure>
 
 === "Forgetfulness Ⅵ"
 
     <figure markdown="span">
-        ![Forgetfulness Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Forgetfulness Ⅵ](../assets/hero_specialties-cove-zilare-7.webp){ width="340" align=right }
     </figure>
 
 

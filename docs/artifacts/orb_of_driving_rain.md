@@ -1,6 +1,6 @@
 # Orb of Driving Rain
 
-![Orb of Driving Rain](../assets/player-deck-back.webp){ width="340" align=right }
+![Orb of Driving Rain](../assets/artifacts_major-orb_of_driving_rain.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___

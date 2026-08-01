@@ -21,7 +21,7 @@
 === "Naga Bank"
 
     <figure markdown="span">
-        ![Naga Bank Nagas](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Naga Bank Nagas](../assets/creature_banks-naga_bank-nagas.webp){ width="340" align=right }
     </figure>
 
 

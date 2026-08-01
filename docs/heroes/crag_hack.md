@@ -1,6 +1,6 @@
 # Crag Hack
 
-<p style="text-align: center;" markdown>![Crag Hack](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Crag Hack](../assets/heroes-stronghold-might-crag_hack.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Barbarian](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Offense Ⅰ"
 
     <figure markdown="span">
-        ![Offense Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Offense Ⅰ](../assets/hero_specialties-stronghold-crag_hack-1.webp){ width="340" align=right }
     </figure>
 
 === "Offense Ⅳ"
 
     <figure markdown="span">
-        ![Offense Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Offense Ⅳ](../assets/hero_specialties-stronghold-crag_hack-4.webp){ width="340" align=right }
     </figure>
 
 === "Offense Ⅵ"
 
     <figure markdown="span">
-        ![Offense Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Offense Ⅵ](../assets/hero_specialties-stronghold-crag_hack-7.webp){ width="340" align=right }
     </figure>
 
 

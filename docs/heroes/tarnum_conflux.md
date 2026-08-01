@@ -1,6 +1,6 @@
 # Tarnum (Conflux)
 
-<p style="text-align: center;" markdown>![Tarnum (Conflux)](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Tarnum (Conflux)](../assets/heroes-conflux-magic-tarnum.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Elementalist](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Enchanters Ⅰ"
 
     <figure markdown="span">
-        ![🚧 Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![🚧 Ⅰ](../assets/hero_specialties-conflux-tarnum-1.webp){ width="340" align=right }
     </figure>
 
 === "Enchanters Ⅳ"
 
     <figure markdown="span">
-        ![🚧 Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![🚧 Ⅳ](../assets/hero_specialties-conflux-tarnum-4.webp){ width="340" align=right }
     </figure>
 
 === "Enchanters Ⅵ"
 
     <figure markdown="span">
-        ![Enchanters Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Enchanters Ⅵ](../assets/hero_specialties-conflux-tarnum-7.webp){ width="340" align=right }
     </figure>
 
 

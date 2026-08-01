@@ -1,6 +1,6 @@
 # Diplomat's Ring
 
-![Diplomat's Ring](../assets/player-deck-back.webp){ width="340" align=right }
+![Diplomat's Ring](../assets/artifacts_major-diplomats_ring.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___

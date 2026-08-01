@@ -1,6 +1,6 @@
 # Skull Helmet
 
-![Skull Helmet](../assets/player-deck-back.webp){ width="340" align=right }
+![Skull Helmet](../assets/artifacts_minor-skull_helmet.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___

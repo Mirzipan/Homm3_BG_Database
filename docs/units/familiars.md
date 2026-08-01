@@ -21,7 +21,7 @@
 === "Imp Cache"
 
     <figure markdown="span">
-        ![Imp Cache Familiars](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Imp Cache Familiars](../assets/creature_banks-imp_cache-familiars.webp){ width="340" align=right }
     </figure>
 
 

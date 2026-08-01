@@ -21,7 +21,7 @@
 === "Crypt"
 
     <figure markdown="span">
-        ![Crypt Vampires](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Crypt Vampires](../assets/creature_banks-crypt-vampires.webp){ width="340" align=right }
     </figure>
 
 

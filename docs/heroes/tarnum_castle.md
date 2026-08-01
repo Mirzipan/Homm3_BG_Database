@@ -1,6 +1,6 @@
 # Tarnum (Castle)
 
-<p style="text-align: center;" markdown>![Tarnum (Castle)](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Tarnum (Castle)](../assets/heroes-castle-might-tarnum.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Knight](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Ballista Ⅰ"
 
     <figure markdown="span">
-        ![Ballista Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Ballista Ⅰ](../assets/hero_specialties-castle-tarnum-1.webp){ width="340" align=right }
     </figure>
 
 === "Ballista Ⅳ"
 
     <figure markdown="span">
-        ![Ballista Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Ballista Ⅳ](../assets/hero_specialties-castle-tarnum-4.webp){ width="340" align=right }
     </figure>
 
 === "Ballista Ⅵ"
 
     <figure markdown="span">
-        ![Ballista Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Ballista Ⅵ](../assets/hero_specialties-castle-tarnum-7.webp){ width="340" align=right }
     </figure>
 
 

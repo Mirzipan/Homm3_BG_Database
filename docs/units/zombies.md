@@ -21,7 +21,7 @@
 === "Crypt"
 
     <figure markdown="span">
-        ![Crypt Zombies](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Crypt Zombies](../assets/creature_banks-crypt-zombies.webp){ width="340" align=right }
     </figure>
 
 

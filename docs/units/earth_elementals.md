@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Earth Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Few Earth Elementals](../assets/units-summoned-bronze-earth_elementals-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Earth Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Pack of Earth Elementals](../assets/units-summoned-bronze-earth_elementals-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Earth Elementals](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Neutral Earth Elementals](../assets/units-neutral-golden-earth_elemental.webp){ width="340" align=right }
     </figure>
 
 

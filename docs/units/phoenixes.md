@@ -3,19 +3,19 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Phoenixes](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Few Phoenixes](../assets/units-conflux-golden-phoenixes-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Phoenixes](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Pack of Phoenixes](../assets/units-conflux-golden-phoenixes-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Phoenixes](../assets/units-blank-azure.webp){ width="340" align=right }
+        ![Neutral Phoenixes](../assets/units-neutral-azure-phoenixes.webp){ width="340" align=right }
     </figure>
 
 

@@ -3,13 +3,13 @@
 === "Regular"
 
     <figure markdown="span">
-        ![Interference](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Interference](../assets/abilities-interference.webp){ width="340" align=right }
     </figure>
 
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Interference](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Interference](../assets/abilities-interference-empowered.webp){ width="340" align=right }
     </figure>
 
 

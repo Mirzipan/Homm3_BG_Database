@@ -9,7 +9,7 @@
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Pathfinding](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Pathfinding](../assets/abilities-pathfinding-empowered.webp){ width="340" align=right }
     </figure>
 
 

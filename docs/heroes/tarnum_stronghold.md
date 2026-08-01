@@ -1,6 +1,6 @@
 # Tarnum (Stronghold)
 
-<p style="text-align: center;" markdown>![Tarnum (Stronghold)](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Tarnum (Stronghold)](../assets/heroes-stronghold-might-tarnum.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Barbarian](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Offense Ⅰ"
 
     <figure markdown="span">
-        ![Offense Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Offense Ⅰ](../assets/hero_specialties-stronghold-tarnum-1.webp){ width="340" align=right }
     </figure>
 
 === "Offense Ⅳ"
 
     <figure markdown="span">
-        ![Offense Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Offense Ⅳ](../assets/hero_specialties-stronghold-tarnum-4.webp){ width="340" align=right }
     </figure>
 
 === "Offense Ⅵ"
 
     <figure markdown="span">
-        ![Offense Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Offense Ⅵ](../assets/hero_specialties-stronghold-tarnum-7.webp){ width="340" align=right }
     </figure>
 
 

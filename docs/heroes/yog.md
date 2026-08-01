@@ -1,6 +1,6 @@
 # Yog
 
-<p style="text-align: center;" markdown>![Yog](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Yog](../assets/heroes-stronghold-might-yog.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Barbarian](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Cyclopes Ⅰ"
 
     <figure markdown="span">
-        ![Cyclopes Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Cyclopes Ⅰ](../assets/hero_specialties-stronghold-yog-1.webp){ width="340" align=right }
     </figure>
 
 === "Cyclopes Ⅳ"
 
     <figure markdown="span">
-        ![Cyclopes Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Cyclopes Ⅳ](../assets/hero_specialties-stronghold-yog-4.webp){ width="340" align=right }
     </figure>
 
 === "Cyclopes Ⅵ"
 
     <figure markdown="span">
-        ![Cyclopes Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Cyclopes Ⅵ](../assets/hero_specialties-stronghold-yog-7.webp){ width="340" align=right }
     </figure>
 
 

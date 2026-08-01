@@ -1,6 +1,6 @@
 # Melodia
 
-<p style="text-align: center;" markdown>![Melodia](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Melodia](../assets/heroes-rampart-magic-melodia.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Druid](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Fortune Ⅰ"
 
     <figure markdown="span">
-        ![Fortune Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Fortune Ⅰ](../assets/hero_specialties-rampart-melodia-1.webp){ width="340" align=right }
     </figure>
 
 === "Fortune Ⅳ"
 
     <figure markdown="span">
-        ![Fortune Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Fortune Ⅳ](../assets/hero_specialties-rampart-melodia-4.webp){ width="340" align=right }
     </figure>
 
 === "Fortune Ⅵ"
 
     <figure markdown="span">
-        ![Fortune Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Fortune Ⅵ](../assets/hero_specialties-rampart-melodia-7.webp){ width="340" align=right }
     </figure>
 
 

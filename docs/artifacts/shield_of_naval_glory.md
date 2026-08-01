@@ -1,6 +1,6 @@
 # Shield of Naval Glory
 
-![Shield of Naval Glory](../assets/player-deck-back.webp){ width="340" align=right }
+![Shield of Naval Glory](../assets/artifacts_major-shield_of_naval_glory.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___

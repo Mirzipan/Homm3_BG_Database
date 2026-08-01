@@ -1,6 +1,6 @@
 # Cannon
 
-![Cannon](../assets/player-deck-back.webp){ width="340" align=right }
+![Cannon](../assets/war_machines-cannon.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[War Machine](index.md)</p>

@@ -1,6 +1,6 @@
 # Tarnum (Rampart)
 
-<p style="text-align: center;" markdown>![Tarnum (Rampart)](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Tarnum (Rampart)](../assets/heroes-rampart-might-tarnum.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Ranger](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Sharpshooters Ⅰ"
 
     <figure markdown="span">
-        ![Sharpshooters Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Sharpshooters Ⅰ](../assets/hero_specialties-rampart-tarnum-1.webp){ width="340" align=right }
     </figure>
 
 === "Sharpshooters Ⅳ"
 
     <figure markdown="span">
-        ![Sharpshooters Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Sharpshooters Ⅳ](../assets/hero_specialties-rampart-tarnum-4.webp){ width="340" align=right }
     </figure>
 
 === "Sharpshooters Ⅵ"
 
     <figure markdown="span">
-        ![Sharpshooters Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Sharpshooters Ⅵ](../assets/hero_specialties-rampart-tarnum-7.webp){ width="340" align=right }
     </figure>
 
 

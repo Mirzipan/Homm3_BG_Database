@@ -9,7 +9,7 @@
 === "Pyramid"
 
     <figure markdown="span">
-        ![Pyramid Diamond Golems](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Pyramid Diamond Golems](../assets/creature_banks-pyramid-diamond_golems.webp){ width="340" align=right }
     </figure>
 
 

@@ -21,7 +21,7 @@
 === "Medusa Stores"
 
     <figure markdown="span">
-        ![Medusa Stores Medusas](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Medusa Stores Medusas](../assets/creature_banks-medusa_stores-medusas.webp){ width="340" align=right }
     </figure>
 
 

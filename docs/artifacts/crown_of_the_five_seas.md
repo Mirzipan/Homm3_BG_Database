@@ -1,6 +1,6 @@
 # Crown of the Five Seas
 
-![Crown of the Five Seas](../assets/player-deck-back.webp){ width="340" align=right }
+![Crown of the Five Seas](../assets/artifacts_major-crown_of_the_five_seas.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___

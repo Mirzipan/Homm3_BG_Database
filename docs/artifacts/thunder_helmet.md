@@ -1,6 +1,6 @@
 # Thunder Helmet
 
-![Thunder Helmet](../assets/player-deck-back.webp){ width="340" align=right }
+![Thunder Helmet](../assets/artifacts_relic-thunder_helmet.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Relic Artifact](index.md#relic-artifacts)</p>
 ___

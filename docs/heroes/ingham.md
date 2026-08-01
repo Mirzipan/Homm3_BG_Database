@@ -1,6 +1,6 @@
 # Ingham
 
-<p style="text-align: center;" markdown>![Ingham](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Ingham](../assets/heroes-castle-magic-ingham.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Cleric](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Zealots Ⅰ"
 
     <figure markdown="span">
-        ![Zealots Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Zealots Ⅰ](../assets/hero_specialties-castle-ingham-1.webp){ width="340" align=right }
     </figure>
 
 === "Zealots Ⅳ"
 
     <figure markdown="span">
-        ![Zealots Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Zealots Ⅳ](../assets/hero_specialties-castle-ingham-4.webp){ width="340" align=right }
     </figure>
 
 === "Zealots Ⅵ"
 
     <figure markdown="span">
-        ![Zealots Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Zealots Ⅵ](../assets/hero_specialties-castle-ingham-7.webp){ width="340" align=right }
     </figure>
 
 

@@ -1,6 +1,6 @@
 # Tome of Water
 
-![Tome of Water](../assets/player-deck-back.webp){ width="340" align=right }
+![Tome of Water](../assets/artifacts_relic-tome_of_water.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Relic Artifact](index.md#relic-artifacts)</p>
 ___

@@ -21,7 +21,7 @@
 === "Dwarven Treasury"
 
     <figure markdown="span">
-        ![Dwarven Treasury Dwarves](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Dwarven Treasury Dwarves](../assets/creature_banks-dwarven_treasury-dwarves.webp){ width="340" align=right }
     </figure>
 
 

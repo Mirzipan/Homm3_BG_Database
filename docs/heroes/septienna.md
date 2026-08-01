@@ -1,6 +1,6 @@
 # Septienna
 
-<p style="text-align: center;" markdown>![Septienna](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Septienna](../assets/heroes-necropolis-magic-septienna.webp){ width=340 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Necromancer](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Death Ripple Ⅰ"
 
     <figure markdown="span">
-        ![Death Ripple Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Death Ripple Ⅰ](../assets/hero_specialties-necropolis-septienna-1.webp){ width="340" align=right }
     </figure>
 
 === "Death Ripple Ⅳ"
 
     <figure markdown="span">
-        ![Death Ripple Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Death Ripple Ⅳ](../assets/hero_specialties-necropolis-septienna-4.webp){ width="340" align=right }
     </figure>
 
 === "Death Ripple Ⅵ"
 
     <figure markdown="span">
-        ![Death Ripple Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Death Ripple Ⅵ](../assets/hero_specialties-necropolis-septienna-7.webp){ width="340" align=right }
     </figure>
 
 

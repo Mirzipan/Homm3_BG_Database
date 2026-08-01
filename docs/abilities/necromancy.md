@@ -9,7 +9,7 @@
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Necromancy](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Necromancy](../assets/abilities-necromancy-empowered.webp){ width="340" align=right }
     </figure>
 
 

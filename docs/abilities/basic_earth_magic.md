@@ -3,13 +3,13 @@
 === "Regular"
 
     <figure markdown="span">
-        ![Basic Earth Magic](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Basic Earth Magic](../assets/abilities-basic_earth_magic.webp){ width="340" align=right }
     </figure>
 
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Basic Earth Magic](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Basic Earth Magic](../assets/abilities-basic_earth_magic-empowered.webp){ width="340" align=right }
     </figure>
 
 

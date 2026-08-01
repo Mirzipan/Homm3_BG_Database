@@ -1,6 +1,6 @@
 # Orb of the Firmament
 
-![Orb of the Firmament](../assets/player-deck-back.webp){ width="340" align=right }
+![Orb of the Firmament](../assets/artifacts_major-orb_of_the_firmament.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___

@@ -21,7 +21,7 @@
 === "Griffin Conservatory"
 
     <figure markdown="span">
-        ![Griffin Conservatory Dwarves](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Griffin Conservatory Dwarves](../assets/creature_banks-griffin_conservatory-griffins.webp){ width="340" align=right }
     </figure>
 
 
