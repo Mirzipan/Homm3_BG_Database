@@ -8,8 +8,8 @@
 | Statistics | Neutral |
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
-| Tier | :silver: |
-| Type | [:unit_ranged:](index.md#ranged-units) |
+| Tier | :silver_tier: |
+| Type | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 3 |
 | :defense: | 0 |
 | :health_points: | 6 |

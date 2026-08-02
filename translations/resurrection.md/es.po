@@ -779,9 +779,10 @@ msgstr ""
 
 #. type: Plain text
 #: docs/spells/resurrection.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0. You can cast this spell immediately after the enemy [unit's](../units/index.md) attack.<br><br>:power: 0 ➣ \\*:bronze:<br>:power: 2 ➣ \\*:bronze: or :silver:<br>:power: 4 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>:instant: This [unit](../units/index.md) ignores the :defense: of the attacked \\* [unit](../units/index.md).<br><br>:power: 0 ➣ \\*:bronze:<br>:power: 2 ➣ \\*:bronze: or :silver:<br>:power: 4 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0. You can cast this spell immediately after the enemy [unit's](../units/index.md) attack.<br><br>:power: 0 ➣ \\*:bronze_tier:<br>:power: 2 ➣ \\*:bronze_tier: or :silver_tier:<br>:power: 4 ➣ \\*:bronze_tier: or :silver_tier: or :gold_tier:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:instant: Esta [unidad](../units/index.md) ignora la :defense: de la [unidad](../units/index.md) atacada.<br><br>:power: 0 ➣ \\*:bronze:<br>:power: 2 ➣ \\*:bronze: or :silver:<br>:power: 4 ➣ \\*:bronze: o :silver: o :golden:<br><br>— O —<br><br>:instant: +1 :power:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/resurrection.md

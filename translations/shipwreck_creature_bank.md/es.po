@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-01-21 00:55+0000\n"
+"POT-Creation-Date: 2026-02-12 04:56+0000\n"
 "PO-Revision-Date: 2025-12-26 19:18+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -43,8 +43,10 @@ msgstr ""
 #: docs/fields/blocked_field.md docs/fields/buoy.md
 #: docs/fields/creature_bank.md docs/fields/derelict_ship.md
 #: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md
 #: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/flotsam.md docs/fields/jetsam.md
+#: docs/fields/empty_field.md docs/fields/flotsam.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/jetsam.md
 #: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
@@ -963,5 +965,5 @@ msgstr "![Ubicación de Erudito](../assets/locations-scholar.webp){ width=\"475\
 msgid ""
 "| Units | Reward | Extra |\n"
 "| :--- | :--- | :--- |\n"
-"| 4x&nbsp;[Wraiths](../units/wraiths.md#shipwreck) | [:morale_positive:](../keywords/morale.md#positive) and 5 :gold:. | 2 :gold: for every Stacked unit and [**Search(X)**](../keywords/search.md) the [Artifact](../artifacts/index.md) deck, where X is the number of Stacked units. |\n"
+"| 4x&nbsp;[Wraiths](../units/wraiths.md#shipwreck) | [:positive_morale:](../keywords/morale.md#positive) and 5 :gold:. | 2 :gold: for every Stacked unit and [**Search(X)**](../keywords/search.md) the [Artifact](../artifacts/index.md) deck, where X is the number of Stacked units. |\n"
 msgstr ""

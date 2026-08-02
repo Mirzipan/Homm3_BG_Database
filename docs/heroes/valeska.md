@@ -37,7 +37,7 @@ ___
 | :---: | :---: |
 | Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>The effect doubles for the [Marksmen unit](../units/marksmen.md). |
 | Ⅳ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Marksmen unit](../units/marksmen.md). |
-| Ⅵ | :activation: Activate one of your [:unit_ranged: units](../units/index.md#ranged-units), even if that unit has already been activated.<br><br>— OR —<br><br>:instant: Draw 2 cards.<br><br>The effect doubles for the [Marksmen unit](../units/marksmen.md). |
+| Ⅵ | :activation: Activate one of your [:ranged_unit: units](../units/index.md#ranged-units), even if that unit has already been activated.<br><br>— OR —<br><br>:instant: Draw 2 cards.<br><br>The effect doubles for the [Marksmen unit](../units/marksmen.md). |
 
 
 ## Comes With

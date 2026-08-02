@@ -779,9 +779,10 @@ msgstr ""
 
 #. type: Plain text
 #: docs/spells/resurrection.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0. You can cast this spell immediately after the enemy [unit's](../units/index.md) attack.<br><br>:power: 0 ➣ \\*:bronze:<br>:power: 2 ➣ \\*:bronze: or :silver:<br>:power: 4 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>:pay: 7 :gold: at Blacksmith<br><br>— OR —<br><br>:pay: 10 :gold: at Trade Post</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:instant: Cancel an attack that would reduce your \\* [unit's](../units/index.md) :health_points: to 0. You can cast this spell immediately after the enemy [unit's](../units/index.md) attack.<br><br>:power: 0 ➣ \\*:bronze_tier:<br>:power: 2 ➣ \\*:bronze_tier: or :silver_tier:<br>:power: 4 ➣ \\*:bronze_tier: or :silver_tier: or :gold_tier:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:pay: 7 :gold: à la Manufacture d'Armes<br><br>— OU —<br><br>:pay: 10 :gold: au Comptoir</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/resurrection.md

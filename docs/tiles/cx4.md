@@ -10,11 +10,11 @@ ___
 ## Fields
 
 - [:resource_die: Sea Barrel](../fields/sea_barrel.md)
-- [Ⅵ](../difficulties.md) [2 :treasure: / 2 :resource_die: → 1 Pandora's Box](../fields/pandoras_box.md)
+- [Ⅵ](../difficulties.md) [2 :treasure_die: / 2 :resource_die: → 1 Pandora's Box](../fields/pandoras_box.md)
 - [Ⅵ](../difficulties.md) [Derelict Ship](../fields/derelict_ship.md)
 - [Ⅶ](../difficulties.md) [Random Town](../towns/index.md)
-- [:morale_positive: Buoy](../fields/buoy.md)
-- [:morale_positive: :movement: Mermaid](../fields/mermaid.md)
+- [:positive_morale: Buoy](../fields/buoy.md)
+- [:positive_morale: :movement_points: Mermaid](../fields/mermaid.md)
 - [Jetsam](../fields/jetsam.md)
 
 

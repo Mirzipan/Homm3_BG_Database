@@ -12,7 +12,7 @@ ___
 
 | Units | Reward | Extra |
 | :--- | :--- | :--- |
-| 4x&nbsp;[Wraiths](../units/wraiths.md#shipwreck) | [:morale_positive:](../keywords/morale.md#positive) and 5 :gold:. | 2 :gold: for every Stacked unit and [**Search(X)**](../keywords/search.md) the [Artifact](../artifacts/index.md) deck, where X is the number of Stacked units. |
+| 4x&nbsp;[Wraiths](../units/wraiths.md#shipwreck) | [:positive_morale:](../keywords/morale.md#positive) and 5 :gold:. | 2 :gold: for every Stacked unit and [**Search(X)**](../keywords/search.md) the [Artifact](../artifacts/index.md) deck, where X is the number of Stacked units. |
 
 ___
 

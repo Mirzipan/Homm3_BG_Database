@@ -9,7 +9,7 @@ ___
 
 ## Fields
 
-- [:movement: Stables](../fields/stables.md)
+- [:movement_points: Stables](../fields/stables.md)
 - [Ⅲ](../difficulties.md) [:building_materials: Mine](../fields/mine.md)
 - [+1 :valuables: Windmill](../fields/windmill.md)
 - [Ⅱ](../difficulties.md) [Hill Fort](../fields/hill_fort.md)
