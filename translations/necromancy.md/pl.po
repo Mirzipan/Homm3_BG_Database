@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2025-12-29 14:29+0000\n"
+"POT-Creation-Date: 2026-02-12 05:51+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -108,8 +108,10 @@ msgstr ""
 #: docs/fields/blocked_field.md docs/fields/buoy.md
 #: docs/fields/creature_bank.md docs/fields/derelict_ship.md
 #: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md
 #: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/flotsam.md docs/fields/jetsam.md
+#: docs/fields/empty_field.md docs/fields/flotsam.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/jetsam.md
 #: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
@@ -921,7 +923,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 msgid ""
 "| Type | Effect | :expert: Effect |\n"
 "| :--- | :---: | :---: |\n"
-"| Regular | :map_effect: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) a :bronze: or :silver: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | :map_effect: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |\n"
+"| Regular | :map_effect: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) a :bronze_tier: or :silver_tier: [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | :map_effect: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). |\n"
 "| Empowered | :map_effect: Play after winning Combat other than Quick Combat. You can [**Reinforce**](../keywords/reinforce.md) any [unit](../units/index.md) of your choice for half the :gold: cost (rounded down). | - |\n"
 msgstr ""
 

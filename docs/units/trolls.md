@@ -8,8 +8,8 @@
 | Statistics | Neutral |
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
-| Tier | :golden: |
-| Type | [:unit_ground:](index.md#ground-units) |
+| Tier | :gold_tier: |
+| Type | [:ground_unit:](index.md#ground-units) |
 | :attack: | 4 |
 | :defense: | 0 |
 | :health_points: | 7 |

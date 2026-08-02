@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-28 22:47+0000\n"
+"POT-Creation-Date: 2026-02-12 05:51+0000\n"
 "PO-Revision-Date: 2025-12-21 16:59+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,44 +17,24 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Title ##
-#: docs/abilities/air_magic.md docs/abilities/air_magic_empowered.md
-#: docs/abilities/archery.md docs/abilities/archery_empowered.md
-#: docs/abilities/armorer.md docs/abilities/armorer_empowered.md
-#: docs/abilities/artillery.md docs/abilities/artillery_empowered.md
-#: docs/abilities/ballistics.md docs/abilities/ballistics_empowered.md
-#: docs/abilities/basic_air_magic.md
-#: docs/abilities/basic_air_magic_empowered.md
-#: docs/abilities/basic_earth_magic.md
-#: docs/abilities/basic_earth_magic_empowered.md
-#: docs/abilities/basic_fire_magic.md
-#: docs/abilities/basic_fire_magic_empowered.md
-#: docs/abilities/basic_water_magic.md
-#: docs/abilities/basic_water_magic_empowered.md docs/abilities/diplomacy.md
-#: docs/abilities/diplomacy_empowered.md docs/abilities/eagle_eye.md
-#: docs/abilities/eagle_eye_empowered.md docs/abilities/earth_magic.md
-#: docs/abilities/earth_magic_empowered.md docs/abilities/estates.md
-#: docs/abilities/estates_empowered.md docs/abilities/fire_magic.md
-#: docs/abilities/fire_magic_empowered.md docs/abilities/first_aid.md
-#: docs/abilities/first_aid_empowered.md docs/abilities/intelligence.md
-#: docs/abilities/intelligence_empowered.md docs/abilities/interference.md
-#: docs/abilities/interference_empowered.md docs/abilities/leadership.md
-#: docs/abilities/leadership_empowered.md docs/abilities/learning.md
-#: docs/abilities/learning_empowered.md docs/abilities/logistics.md
-#: docs/abilities/logistics_empowered.md docs/abilities/luck.md
-#: docs/abilities/luck_empowered.md docs/abilities/mysticism.md
-#: docs/abilities/mysticism_empowered.md docs/abilities/necromancy.md
-#: docs/abilities/necromancy_empowered.md docs/abilities/offense.md
-#: docs/abilities/offense_empowered.md docs/abilities/pathfinding.md
-#: docs/abilities/pathfinding_empowered.md docs/abilities/resistance.md
-#: docs/abilities/resistance_empowered.md docs/abilities/scholar.md
-#: docs/abilities/scholar_empowered.md docs/abilities/scouting.md
-#: docs/abilities/scouting_empowered.md docs/abilities/sorcery.md
-#: docs/abilities/sorcery_empowered.md docs/abilities/tactics.md
-#: docs/abilities/tactics_empowered.md docs/abilities/water_magic.md
-#: docs/abilities/water_magic_empowered.md docs/abilities/wisdom.md
-#: docs/abilities/wisdom_empowered.md docs/artifacts/ambassadors_sash.md
-#: docs/artifacts/angel_wings.md docs/artifacts/armor_of_wonder.md
-#: docs/artifacts/arms_of_legion.md
+#: docs/abilities/air_magic.md docs/abilities/archery.md
+#: docs/abilities/armorer.md docs/abilities/artillery.md
+#: docs/abilities/ballistics.md docs/abilities/basic_air_magic.md
+#: docs/abilities/basic_earth_magic.md docs/abilities/basic_fire_magic.md
+#: docs/abilities/basic_water_magic.md docs/abilities/diplomacy.md
+#: docs/abilities/eagle_eye.md docs/abilities/earth_magic.md
+#: docs/abilities/estates.md docs/abilities/fire_magic.md
+#: docs/abilities/first_aid.md docs/abilities/intelligence.md
+#: docs/abilities/interference.md docs/abilities/leadership.md
+#: docs/abilities/learning.md docs/abilities/logistics.md
+#: docs/abilities/luck.md docs/abilities/mysticism.md
+#: docs/abilities/necromancy.md docs/abilities/offense.md
+#: docs/abilities/pathfinding.md docs/abilities/resistance.md
+#: docs/abilities/scholar.md docs/abilities/scouting.md
+#: docs/abilities/sorcery.md docs/abilities/tactics.md
+#: docs/abilities/water_magic.md docs/abilities/wisdom.md
+#: docs/artifacts/ambassadors_sash.md docs/artifacts/angel_wings.md
+#: docs/artifacts/armor_of_wonder.md docs/artifacts/arms_of_legion.md
 #: docs/artifacts/blackshard_of_the_dead_knight.md
 #: docs/artifacts/boots_of_polarity.md docs/artifacts/boots_of_speed.md
 #: docs/artifacts/bowstring_of_the_unicorns_mane.md
@@ -522,13 +502,13 @@ msgstr "</figure>\n"
 #: docs/fields/faerie_ring.md docs/fields/flotsam.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md docs/fields/grave.md
 #: docs/fields/hill_fort.md docs/fields/jetsam.md docs/fields/learning_stone.md
-#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
-#: docs/fields/market_of_time.md docs/fields/mermaid.md
-#: docs/fields/mystical_garden.md docs/fields/pandoras_box.md
-#: docs/fields/prison.md docs/fields/redwood_observatory.md
-#: docs/fields/resource_symbol.md docs/fields/scholar.md
-#: docs/fields/sea_barrel.md docs/fields/sea_chest.md docs/fields/shipwreck.md
-#: docs/fields/shipwreck_survivor.md docs/fields/shrine_of_magic_gesture.md
+#: docs/fields/magic_spring.md docs/fields/market_of_time.md
+#: docs/fields/mermaid.md docs/fields/mystical_garden.md
+#: docs/fields/pandoras_box.md docs/fields/prison.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
+#: docs/fields/scholar.md docs/fields/sea_barrel.md docs/fields/sea_chest.md
+#: docs/fields/shipwreck.md docs/fields/shipwreck_survivor.md
+#: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/spell_scroll.md
 #: docs/fields/temple.md docs/fields/temple_of_the_sea.md
 #: docs/fields/treasure_symbol.md docs/fields/tree_of_knowledge.md
@@ -633,7 +613,7 @@ msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 #. type: Plain text
 #: docs/fields/cyclops_stockpile.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>When preparing the Neutral Army guarding this location, instead of drawing 1 :azure: unit, find 2 :golden: [Cyclopes](../units/cyclopes.md) and add them to the Neutral Army (look for them first in the :golden: discard pile, and then in the :golden: Neutral Unit deck). If you win the Combat, roll and resolve 4 [:resource_die:](../keywords/dice.md#resource-die). Any additional effects depend on the scenario.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>When preparing the Neutral Army guarding this location, instead of drawing 1 :azure_tier: unit, find 2 :gold_tier: [Cyclopes](../units/cyclopes.md) and add them to the Neutral Army (look for them first in the :gold_tier: discard pile, and then in the :gold_tier: Neutral Unit deck). If you win the Combat, roll and resolve 4 [:resource_die:](../keywords/dice.md#resource-die). Any additional effects depend on the scenario.</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '

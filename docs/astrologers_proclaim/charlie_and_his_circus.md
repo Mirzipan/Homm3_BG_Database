@@ -17,7 +17,7 @@ ___
 
 ## Notes
 
-- :azure: units may *not* be recruited via this card.
+- :azure_tier: units may *not* be recruited via this card.
 - [^1] When played with miniatures (e.g. such as when playing on the large battlefield), this ability cannot be used to recruit units from a faction controller by another player, nor to recruit neutral units that are already recruited by another player. Should a player draw such card, that may not be recruited, they shall draw a replacement card instead.
 
 

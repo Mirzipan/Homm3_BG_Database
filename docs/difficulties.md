@@ -2,13 +2,13 @@
 
 | Difficulty | Easy | Normal | Hard | Impossible |
 | :---: | :---: | :---: | :---: | :---: |
-| Ⅰ | :bronze: | :bronze: | :bronze: :bronze: | :bronze: :bronze: :bronze: |
-| Ⅱ | :bronze: :bronze: | :bronze: :bronze: | :bronze: :bronze: :bronze: | :bronze: :bronze: :silver: |
-| Ⅲ | :bronze: :silver: | :bronze: :bronze: :silver: | :bronze: :silver: :silver: | :silver: :silver: :silver: |
-| Ⅳ | :bronze: :bronze: :silver: | :bronze: :silver: :silver: | :silver: :silver: :silver: | :silver: :silver: :golden: |
-| Ⅴ | :bronze: :bronze: :silver: :golden: | :bronze: :silver: :silver: :golden: | :silver: :silver: :golden: :golden: | :silver: :golden: :golden: :golden: |
-| Ⅵ | :bronze: :bronze: :silver: :silver: :golden: | :bronze: :silver: :silver: :golden: :golden: | :silver: :silver: :golden: :golden: :golden: | :silver: :golden: :golden: :golden: :golden: |
-| Ⅶ | :azure: | :azure: :azure: | :golden: :azure: :azure: | :golden: :golden: :azure: :azure: |
+| Ⅰ | :bronze_tier: | :bronze_tier: | :bronze_tier: :bronze_tier: | :bronze_tier: :bronze_tier: :bronze_tier: |
+| Ⅱ | :bronze_tier: :bronze_tier: | :bronze_tier: :bronze_tier: | :bronze_tier: :bronze_tier: :bronze_tier: | :bronze_tier: :bronze_tier: :silver_tier: |
+| Ⅲ | :bronze_tier: :silver_tier: | :bronze_tier: :bronze_tier: :silver_tier: | :bronze_tier: :silver_tier: :silver_tier: | :silver_tier: :silver_tier: :silver_tier: |
+| Ⅳ | :bronze_tier: :bronze_tier: :silver_tier: | :bronze_tier: :silver_tier: :silver_tier: | :silver_tier: :silver_tier: :silver_tier: | :silver_tier: :silver_tier: :gold_tier: |
+| Ⅴ | :bronze_tier: :bronze_tier: :silver_tier: :gold_tier: | :bronze_tier: :silver_tier: :silver_tier: :gold_tier: | :silver_tier: :silver_tier: :gold_tier: :gold_tier: | :silver_tier: :gold_tier: :gold_tier: :gold_tier: |
+| Ⅵ | :bronze_tier: :bronze_tier: :silver_tier: :silver_tier: :gold_tier: | :bronze_tier: :silver_tier: :silver_tier: :gold_tier: :gold_tier: | :silver_tier: :silver_tier: :gold_tier: :gold_tier: :gold_tier: | :silver_tier: :gold_tier: :gold_tier: :gold_tier: :gold_tier: |
+| Ⅶ | :azure_tier: | :azure_tier: :azure_tier: | :gold_tier: :azure_tier: :azure_tier: | :gold_tier: :gold_tier: :azure_tier: :azure_tier: |
 
 
 ## See Also

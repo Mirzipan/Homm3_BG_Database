@@ -14,7 +14,7 @@ ___
 - [Ⅵ](../difficulties.md) [:gold: Mine](../fields/mine.md)
 - [Ⅶ](../difficulties.md) [Cyclops Stockpile](../fields/cyclops_stockpile.md)
 - [Blocked Field](../fields/blocked_field.md)
-- [Ⅵ](../difficulties.md) [2 :treasure: / 2 :resource_die: → 1 Pandora's Box](../fields/pandoras_box.md)
+- [Ⅵ](../difficulties.md) [2 :treasure_die: / 2 :resource_die: → 1 Pandora's Box](../fields/pandoras_box.md)
 - [Mystical Garden](../fields/mystical_garden.md)
 
 

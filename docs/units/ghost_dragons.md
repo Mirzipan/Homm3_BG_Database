@@ -22,14 +22,14 @@
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) |
-| Tier | :golden: | :golden: | :golden: |
-| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |
+| Tier | :gold_tier: | :gold_tier: | :gold_tier: |
+| Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 6 | **7** | 5 |
 | :defense: | 3 | 3 | 2 |
 | :health_points: | 8 | **9** | 6 |
 | :initiative: | 9 | **14** | 9 |
 | Cost | 19 :gold:<br>1 :valuables: | 32 :gold:<br>2 :valuables: | 28 :gold: |
-| Abilities | :activation: Discard the enemy's :morale_positive: token. | :activation: Discard the enemy's :morale_positive: token.<br>:unit_attack: Add +1 to your [Attack die](../keywords/dice.md#attack-die) result. | :unit_attack: After the attack, roll 1 [Attack die](../keywords/dice.md#attack-die); if the result is "0", the target must immediately move away 1 space. |
+| Abilities | :activation: Discard the enemy's :positive_morale: token. | :activation: Discard the enemy's :positive_morale: token.<br>:unit_attack: Add +1 to your [Attack die](../keywords/dice.md#attack-die) result. | :unit_attack: After the attack, roll 1 [Attack die](../keywords/dice.md#attack-die); if the result is "0", the target must immediately move away 1 space. |
 
 
 ## Heroes With A Specialty

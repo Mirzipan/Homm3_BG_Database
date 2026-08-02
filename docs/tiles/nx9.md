@@ -15,7 +15,7 @@ ___
 - [Empty Field](../fields/empty_field.md)
 - [Mystical Garden](../fields/mystical_garden.md)
 - [Ⅳ](../difficulties.md) [Sea Chest](../fields/sea_chest.md)
-- [:morale_positive: Buoy](../fields/buoy.md)
+- [:positive_morale: Buoy](../fields/buoy.md)
 
 
 ## Comes With
