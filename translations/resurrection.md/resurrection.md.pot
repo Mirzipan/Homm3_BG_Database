@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-07-26 01:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -798,4 +798,12 @@ msgstr ""
 msgid ""
 "If damage from an attack is nullified, the resurrected unit will not "
 "retaliate, even if it has not performed a retaliation this round."
+msgstr ""
+
+#. type: Bullet: '- '
+#: docs/spells/resurrection.md
+msgid ""
+"This also can be played when due to the damage taken a reinforced unit is "
+"going to be dereinforced, stack token is lost, [Sandro's specialty](../"
+"heroes/sandro.md) is lost, etc."
 msgstr ""

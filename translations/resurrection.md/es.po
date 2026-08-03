@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-07-26 01:17+0100\n"
 "PO-Revision-Date: 2024-10-21 12:24+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -793,3 +793,8 @@ msgstr "Solo el daño de un ataque puede ser anulado.Si los puntos de salud se r
 #: docs/spells/resurrection.md
 msgid "If damage from an attack is nullified, the resurrected unit will not retaliate, even if it has not performed a retaliation this round."
 msgstr "Si el daño de un ataque se anula, la unidad resucitada no tomará represalias, incluso si no ha realizado una represalia en esta ronda."
+
+#. type: Bullet: '- '
+#: docs/spells/resurrection.md
+msgid "This also can be played when due to the damage taken a reinforced unit is going to be dereinforced, stack token is lost, [Sandro's specialty](../heroes/sandro.md) is lost, etc."
+msgstr ""

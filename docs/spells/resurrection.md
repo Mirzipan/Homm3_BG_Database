@@ -13,6 +13,7 @@ ___
 
 - Only damage from an attack can be nullified. If the health points are reduced by other means of damage (such as abilities, spells, specialties, etc.), Resurrection cannot be played.
 - If damage from an attack is nullified, the resurrected unit will not retaliate, even if it has not performed a retaliation this round.
+- This also can be played when due to the damage taken a reinforced unit is going to be dereinforced, stack token is lost, [Sandro's specialty](../heroes/sandro.md) is lost, etc.
 
 
 ## Comes With
