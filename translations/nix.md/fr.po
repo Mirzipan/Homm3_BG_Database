@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -792,30 +792,33 @@ msgstr ""
 
 #. type: Plain text
 #: docs/units/nix.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Nix](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Few Nix](../assets/units-cove-golden-nix-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/units/nix.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Nix](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Nix](../assets/units-cove-golden-nix-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/units/nix.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Nix](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Nix](../assets/units-neutral-golden-nix.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/units/nix.md

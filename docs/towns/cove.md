@@ -2,6 +2,24 @@
 
 ## Buildings
 
+=== "Empty"
+
+    <figure markdown="span">
+        ![Empty Cove](../assets/towns-cove-empty.webp){ width="680" align=right }
+    </figure>
+
+=== "Fully Built"
+
+    <figure markdown="span">
+        ![Fully Built Cove](../assets/towns-cove-full.webp){ width="680" align=right }
+    </figure>
+
+=== "Back Side"
+
+    <figure markdown="span">
+        ![Back Side Of Cove](../assets/towns-cove-back.webp){ width="680" align=right }
+    </figure>
+
 | Name | Building Cost | Effect |
 | :--- | ---: | :---: |
 | City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Astrologers' round, choose:<br>:instant:️ 4 :gold:<br><br>— OR —<br><br>:instant: Remove 1 :artifact: from your hand to gain 1 :experience:. |

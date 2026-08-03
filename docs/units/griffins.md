@@ -21,13 +21,13 @@
 === "Griffin Conservatory"
 
     <figure markdown="span">
-        ![Griffin Conservatory Dwarves](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Griffin Conservatory Dwarves](../assets/creature_banks-griffin_conservatory-griffins.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral | Griffin Conservatory |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: | - |
 | Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 2 | **3** | 3 | 3 |

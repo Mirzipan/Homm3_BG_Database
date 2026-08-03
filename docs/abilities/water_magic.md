@@ -9,7 +9,7 @@
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Water Magic](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Water Magic](../assets/abilities-water_magic-empowered.webp){ width="340" align=right }
     </figure>
 
 

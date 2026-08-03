@@ -9,7 +9,7 @@
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Artillery](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Artillery](../assets/abilities-artillery-empowered.webp){ width="340" align=right }
     </figure>
 
 

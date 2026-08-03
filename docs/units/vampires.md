@@ -21,13 +21,13 @@
 === "Crypt"
 
     <figure markdown="span">
-        ![Crypt Vampires](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Crypt Vampires](../assets/creature_banks-crypt-vampires.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral | Crypt |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :silver_tier: | :silver_tier: | :silver_tier: | - |
 | Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 4 | **5** | 3 | 2 |

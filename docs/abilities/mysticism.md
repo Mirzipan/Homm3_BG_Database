@@ -9,7 +9,7 @@
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Mysticism](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Mysticism](../assets/abilities-mysticism-empowered.webp){ width="340" align=right }
     </figure>
 
 

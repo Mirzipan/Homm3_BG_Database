@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-21 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -735,9 +735,10 @@ msgstr "Cocina"
 
 #. type: Plain text
 #: docs/heroes/zilare.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Zilare](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Dracon](../assets/heroes-tower-magic-dracon.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Zilare](../assets/heroes-cove-magic-zilare.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Dracon](../assets/heroes-tower-magic-dracon.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/zilare.md
@@ -752,12 +753,19 @@ msgstr "=== \"olvido ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/zilare.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Frost Ring Ⅰ](../assets/hero_specialties-castle-adelaide-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Forgetfulness Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Forgetfulness Ⅰ](../assets/hero_specialties-cove-zilare-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Anillo Helado Ⅰ](../assets/hero_specialties-castle-adelaide-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/zilare.md
@@ -766,12 +774,19 @@ msgstr "=== \"olvido ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/zilare.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Frost Ring Ⅳ](../assets/hero_specialties-castle-adelaide-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Forgetfulness Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Forgetfulness Ⅳ](../assets/hero_specialties-cove-zilare-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Anillo Helado Ⅳ](../assets/hero_specialties-castle-adelaide-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/zilare.md
@@ -780,12 +795,19 @@ msgstr "=== \"olvido ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/zilare.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Sorcery Ⅵ](../assets/hero_specialties-inferno-zydar-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Forgetfulness Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Forgetfulness Ⅵ](../assets/hero_specialties-cove-zilare-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Hechicería Ⅵ](../assets/hero_specialties-inferno-zydar-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/zilare.md

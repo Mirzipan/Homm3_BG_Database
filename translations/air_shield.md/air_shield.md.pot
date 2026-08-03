@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -624,7 +624,7 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/air_shield.md
 msgid ""
-"![Air Shield](../assets/player-deck-back.webp){ width=\"340\" align=right }"
+"![Air Shield](../assets/spells-air_shield.webp){ width=\"340\" align=right }"
 msgstr ""
 
 #. type: Plain text

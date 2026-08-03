@@ -3,25 +3,25 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Fire Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Few Fire Elementals](../assets/units-summoned-bronze-fire_elementals-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Fire Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Pack of Fire Elementals](../assets/units-summoned-bronze-fire_elementals-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Fire Elementals](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Neutral Fire Elementals](../assets/units-neutral-silver-fire_elemental.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
-| Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |
+| Town | [Summoned](../towns/neutral.md#summoned-units) | [Summoned](../towns/neutral.md#summoned-units) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze_tier: | :bronze_tier: | :silver_tier: |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 2 | **3** | 3 |

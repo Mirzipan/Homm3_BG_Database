@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -793,7 +793,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Orcs](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Few Orcs](../assets/units-stronghold-bronze-orcs-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -802,7 +802,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Orcs](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Orcs](../assets/units-stronghold-bronze-orcs-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -811,7 +811,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Orcs](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Orcs](../assets/units-neutral-bronze-orcs.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 

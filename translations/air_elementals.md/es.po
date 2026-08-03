@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -788,10 +788,14 @@ msgstr "=== \"Pocos\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Few Air Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Air Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Few Air Elementals](../assets/units-summoned-bronze-air_elementals-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
@@ -831,10 +835,14 @@ msgstr "=== \"Manada\""
 
 #. type: Plain text
 #: docs/units/air_elementals.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Pack of Air Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Air Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Air Elementals](../assets/units-summoned-bronze-air_elementals-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
@@ -878,15 +886,15 @@ msgstr "=== \"Neutral\""
 #, fuzzy, no-wrap
 #| msgid ""
 #| "    <figure markdown=\"span\">\n"
-#| "        ![Neutral Ice Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+#| "        ![Neutral Elves](../assets/units-neutral-bronze-elves.webp){ width=\"340\" align=right }\n"
 #| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Air Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Air Elementals](../assets/units-neutral-bronze-air_elemental.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Elementales de Hielo](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Elfos Neutrales](../assets/units-neutral-bronze-elves.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -907,7 +915,7 @@ msgstr ""
 msgid ""
 "| Statistics | Few | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |\n"
+"| Town | [Summoned](../towns/neutral.md#summoned-units) | [Summoned](../towns/neutral.md#summoned-units) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: |\n"
 "| Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |\n"
 "| :attack: | 2 | **3** | 2 |\n"

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-25 13:07+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -901,18 +901,6 @@ msgstr "[Expansión de Torre](../content/tower_expansion.md) (Neutral)"
 msgid "=== \"Dragon Utopia\""
 msgstr "Utopía del Dragón"
 
-#. type: Plain text
-#: docs/units/black_dragons.md docs/units/gold_dragons.md
-#, fuzzy, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![Dragon Utopia Black Dragons](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
-"    <figure markdown=\"span\">\n"
-"        ![Manada de Nixes](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-
 #. type: Bullet: '- '
 #: docs/units/black_dragons.md docs/units/crystal_dragons.md
 #: docs/units/faerie_dragons.md docs/units/gold_dragons.md
@@ -972,6 +960,18 @@ msgstr ""
 #. type: Plain text
 #: docs/units/gold_dragons.md
 #, fuzzy, no-wrap
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Dragon Utopia Black Dragons](../assets/creature_banks-dragon_utopia-gold_dragons.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Manada de Nixes](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+
+#. type: Plain text
+#: docs/units/gold_dragons.md
+#, fuzzy, no-wrap
 #| msgid ""
 #| "| Statistics | Few | Pack | Neutral |\n"
 #| "| :--- | :---: | :---: | :---: |\n"
@@ -987,7 +987,7 @@ msgstr ""
 msgid ""
 "| Statistics | Few | Pack | Neutral | Dragon Utopia |\n"
 "| :--- | :---: | :---: | :---: | :---: |\n"
-"| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) | - |\n"
+"| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |\n"
 "| Tier | :gold_tier: | :gold_tier: | :gold_tier: | - |\n"
 "| Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | :azure_tier: | [:flying_unit:](index.md#flying-units) |\n"
 "| :attack: | 5 | **6** | 6 | 5 |\n"

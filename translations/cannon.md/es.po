@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-01-04 12:33+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-19 23:50+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
@@ -660,8 +660,10 @@ msgstr "Cañón"
 
 #. type: Plain text
 #: docs/war_machines/cannon.md
-msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
-msgstr "![Cañón](../assets/player-deck-back.webp){ width=\"340\" align=right }"
+#, fuzzy
+#| msgid "![Ammo Cart](../assets/war_machines-ammo_cart.webp){ width=\"340\" align=right }"
+msgid "![Cannon](../assets/war_machines-cannon.webp){ width=\"340\" align=right }"
+msgstr "![Carro de Munición](../assets/war_machines-ammo_cart.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/war_machines/cannon.md

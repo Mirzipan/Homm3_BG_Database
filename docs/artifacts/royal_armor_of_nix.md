@@ -1,6 +1,6 @@
 # Royal Armor of Nix
 
-![Royal Armor of Nix](../assets/player-deck-back.webp){ width="340" align=right }
+![Royal Armor of Nix](../assets/artifacts_major-royal_armor_of_nix.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___

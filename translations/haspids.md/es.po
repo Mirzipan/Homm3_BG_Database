@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-26 13:33+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -793,38 +793,50 @@ msgstr "Áspides"
 
 #. type: Plain text
 #: docs/units/haspids.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Few Champions](../assets/units-castle-golden-champions-few.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Haspids](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Few Haspids](../assets/units-cove-golden-haspids-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocas Áspides](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Campeones](../assets/units-castle-golden-champions-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/units/haspids.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Pack of Champions](../assets/units-castle-golden-champions-pack.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Haspids](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Haspids](../assets/units-cove-golden-haspids-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Áspides](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Campeones](../assets/units-castle-golden-champions-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/units/haspids.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Neutral Champions](../assets/units-neutral-golden-champions.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Haspids](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Haspids](../assets/units-neutral-golden-haspids.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Áspides Neutrales](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Campeones Neutrales](../assets/units-neutral-golden-champions.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

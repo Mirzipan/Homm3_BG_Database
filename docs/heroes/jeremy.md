@@ -1,6 +1,6 @@
 # Jeremy
 
-<p style="text-align: center;" markdown>![Jeremy](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Jeremy](../assets/heroes-cove-might-jeremy.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Captain](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Cannon Ⅰ"
 
     <figure markdown="span">
-        ![Cannon Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Cannon Ⅰ](../assets/hero_specialties-cove-jeremy-1.webp){ width="340" align=right }
     </figure>
 
 === "Cannon Ⅳ"
 
     <figure markdown="span">
-        ![Cannon Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Cannon Ⅳ](../assets/hero_specialties-cove-jeremy-4.webp){ width="340" align=right }
     </figure>
 
 === "Cannon Ⅵ"
 
     <figure markdown="span">
-        ![Cannon Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Cannon Ⅵ](../assets/hero_specialties-cove-jeremy-7.webp){ width="340" align=right }
     </figure>
 
 

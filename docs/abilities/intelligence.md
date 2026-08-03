@@ -9,7 +9,7 @@
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Intelligence](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Intelligence](../assets/abilities-intelligence-empowered.webp){ width="340" align=right }
     </figure>
 
 

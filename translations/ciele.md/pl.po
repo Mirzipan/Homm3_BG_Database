@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -744,9 +744,9 @@ msgstr "Ciele"
 
 #. type: Plain text
 #: docs/heroes/ciele.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Ciele](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>![Ciele](../assets/heroes-conflux-magic-ciele.webp){ width=540 align=right }</p>\n"
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/ciele.md docs/heroes/luna.md docs/heroes/tarnum_conflux.md
@@ -781,12 +781,12 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/ciele.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magic Arrow Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magic Arrow Ⅰ](../assets/hero_specialties-conflux-ciele-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/ciele.md
@@ -795,12 +795,12 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/ciele.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magic Arrow Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magic Arrow Ⅳ](../assets/hero_specialties-conflux-ciele-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/ciele.md
@@ -809,12 +809,12 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/ciele.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magic Arrow Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magic Arrow Ⅵ](../assets/hero_specialties-conflux-ciele-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/ciele.md

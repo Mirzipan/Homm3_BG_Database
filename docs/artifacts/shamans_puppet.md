@@ -1,6 +1,6 @@
 # Shaman's Puppet
 
-![Shaman's Puppet](../assets/player-deck-back.webp){ width="340" align=right }
+![Shaman's Puppet](../assets/artifacts_minor-shamans_puppet.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___

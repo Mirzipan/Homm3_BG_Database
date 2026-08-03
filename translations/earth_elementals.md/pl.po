@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -894,21 +894,21 @@ msgstr "Żywiołaki Ziemi"
 
 #. type: Plain text
 #: docs/units/earth_elementals.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Earth Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Few Earth Elementals](../assets/units-summoned-bronze-earth_elementals-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/units/earth_elementals.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Earth Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Earth Elementals](../assets/units-summoned-bronze-earth_elementals-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/units/earth_elementals.md
@@ -919,7 +919,7 @@ msgstr ""
 #| "</figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Earth Elementals](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Earth Elementals](../assets/units-neutral-golden-earth_elemental.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "<figure markdown=\"span\">\n"
@@ -944,7 +944,7 @@ msgstr ""
 msgid ""
 "| Statistics | Few | Pack | Neutral |\n"
 "| :--- | :---: | :---: | :---: |\n"
-"| Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |\n"
+"| Town | [Summoned](../towns/neutral.md#summoned-units) | [Summoned](../towns/neutral.md#summoned-units) | [Neutral](../towns/neutral.md) |\n"
 "| Tier | :bronze_tier: | :bronze_tier: | :gold_tier: |\n"
 "| Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |\n"
 "| :attack: | 2 | **3** | 3 |\n"

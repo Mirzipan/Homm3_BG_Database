@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-21 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -822,9 +822,10 @@ msgstr "Tarnum (mazmorra)"
 
 #. type: Plain text
 #: docs/heroes/tarnum_dungeon.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Tarnum (Dungeon)](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Bron](../assets/heroes-fortress-might-bron.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Tarnum (Dungeon)](../assets/heroes-dungeon-might-tarnum.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Bron](../assets/heroes-fortress-might-bron.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/tarnum_dungeon.md
@@ -834,30 +835,51 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/tarnum_dungeon.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Resurrection Ⅰ](../assets/hero_specialties-dungeon-alamar-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Dragons Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Dragons Ⅰ](../assets/hero_specialties-dungeon-tarnum-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Resurrección Ⅰ](../assets/hero_specialties-dungeon-alamar-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/tarnum_dungeon.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Resurrection Ⅳ](../assets/hero_specialties-dungeon-alamar-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Dragons Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Dragons Ⅳ](../assets/hero_specialties-dungeon-tarnum-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Resurrección Ⅳ](../assets/hero_specialties-dungeon-alamar-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/tarnum_dungeon.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Resurrection Ⅵ](../assets/hero_specialties-dungeon-alamar-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Dragons Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Dragons Ⅵ](../assets/hero_specialties-dungeon-tarnum-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Resurrección Ⅵ](../assets/hero_specialties-dungeon-alamar-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/tarnum_dungeon.md

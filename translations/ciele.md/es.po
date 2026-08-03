@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-20 12:58+0100\n"
 "Last-Translator: Eduardo Jiménez <edujg81@gmail.com>\n"
 "Language-Team: none\n"
@@ -745,9 +745,10 @@ msgstr "Ciele"
 
 #. type: Plain text
 #: docs/heroes/ciele.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Ciele](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>![Ciele](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Ciele](../assets/heroes-conflux-magic-ciele.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/ciele.md docs/heroes/luna.md docs/heroes/tarnum_conflux.md
@@ -782,14 +783,18 @@ msgstr "=== \"Flecha Mágica Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/ciele.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Fire Magic Ⅰ](../assets/hero_specialties-fortress-adrienne-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magic Arrow Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magic Arrow Ⅰ](../assets/hero_specialties-conflux-ciele-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Flecha Mágica Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magia Ígnea Ⅰ](../assets/hero_specialties-fortress-adrienne-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -799,14 +804,18 @@ msgstr "=== \"Flecha Mágica Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/ciele.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Fire Magic Ⅳ](../assets/hero_specialties-fortress-adrienne-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magic Arrow Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magic Arrow Ⅳ](../assets/hero_specialties-conflux-ciele-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Flecha Mágica Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magia Ígnea Ⅳ](../assets/hero_specialties-fortress-adrienne-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -816,14 +825,18 @@ msgstr "=== \"Flecha Mágica Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/ciele.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Fire Magic Ⅵ](../assets/hero_specialties-fortress-adrienne-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magic Arrow Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magic Arrow Ⅵ](../assets/hero_specialties-conflux-ciele-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Flecha Mágica Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magia Ígnea Ⅵ](../assets/hero_specialties-fortress-adrienne-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

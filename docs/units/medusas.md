@@ -21,13 +21,13 @@
 === "Medusa Stores"
 
     <figure markdown="span">
-        ![Medusa Stores Medusas](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Medusa Stores Medusas](../assets/creature_banks-medusa_stores-medusas.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral | Medusa Stores |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :silver_tier: | :silver_tier: | :silver_tier: | - |
 | Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 3 | **4** | 3 | 3 |

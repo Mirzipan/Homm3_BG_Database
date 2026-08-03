@@ -1,6 +1,6 @@
 # Protection from Earth
 
-![Protection from Earth](../assets/player-deck-back.webp){ width="340" align=right }
+![Protection from Earth](../assets/spells-protection_from_earth.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Basic Earth Spell](index.md#school-of-earth-magic)</p>

@@ -9,13 +9,13 @@
 === "Dragon Utopia"
 
     <figure markdown="span">
-        ![Dragon Utopia Crystal Dragons](../assets/units-blank-azure.webp){ width="340" align=right }
+        ![Dragon Utopia Crystal Dragons](../assets/creature_banks-dragon_utopia-crystal_dragons.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Neutral | Dragon Utopia |
 | :--- | :---: | :---: |
-| Town | [Neutral](../towns/neutral.md) | - |
+| Town | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :azure_tier: | - |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 7 | 6 |

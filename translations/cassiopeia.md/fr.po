@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-21 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -723,9 +723,10 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Cassiopeia](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Cassiopeia](../assets/heroes-cove-might-cassiopeia.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keywords/visitable_field.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md docs/heroes/jeremy.md docs/heroes/miriam.md
@@ -752,12 +753,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Oceanids Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Oceanids Ⅰ](../assets/hero_specialties-cove-cassiopeia-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md
@@ -766,12 +768,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Oceanids Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Oceanids Ⅳ](../assets/hero_specialties-cove-cassiopeia-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md
@@ -780,12 +783,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Oceanids Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Oceanids Ⅵ](../assets/hero_specialties-cove-cassiopeia-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/cassiopeia.md

@@ -1,6 +1,6 @@
 # Sephinroth
 
-<p style="text-align: center;" markdown>![Sephinroth](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Sephinroth](../assets/heroes-dungeon-magic-sephinroth.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Warlock](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Valuables Ⅰ"
 
     <figure markdown="span">
-        ![Valuables Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Valuables Ⅰ](../assets/hero_specialties-dungeon-sephinroth-1.webp){ width="340" align=right }
     </figure>
 
 === "Valuables Ⅳ"
 
     <figure markdown="span">
-        ![Valuebles Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Valuebles Ⅳ](../assets/hero_specialties-dungeon-sephinroth-4.webp){ width="340" align=right }
     </figure>
 
 === "Valuables Ⅵ"
 
     <figure markdown="span">
-        ![Valuables Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Valuables Ⅵ](../assets/hero_specialties-dungeon-sephinroth-7.webp){ width="340" align=right }
     </figure>
 
 

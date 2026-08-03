@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -43,8 +43,10 @@ msgstr ""
 #: docs/fields/blocked_field.md docs/fields/buoy.md
 #: docs/fields/creature_bank.md docs/fields/derelict_ship.md
 #: docs/fields/derelict_ship_creature_bank.md
+#: docs/fields/dragon_fly_hive_creature_bank.md
 #: docs/fields/dragon_utopia_creature_bank.md docs/fields/elemental_conflux.md
-#: docs/fields/empty_field.md docs/fields/flotsam.md docs/fields/jetsam.md
+#: docs/fields/empty_field.md docs/fields/flotsam.md
+#: docs/fields/griffin_conservatory_creature_bank.md docs/fields/jetsam.md
 #: docs/fields/mermaid.md docs/fields/pandoras_box.md docs/fields/sea_barrel.md
 #: docs/fields/sea_chest.md docs/fields/shipwreck.md
 #: docs/fields/shipwreck_creature_bank.md docs/fields/shipwreck_survivor.md
@@ -849,9 +851,10 @@ msgstr "Sephinroth"
 
 #. type: Plain text
 #: docs/heroes/sephinroth.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Sephinroth](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Sephinroth](../assets/heroes-dungeon-magic-sephinroth.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/sephinroth.md
@@ -865,15 +868,15 @@ msgstr "=== \"Valuebles ⅰ\""
 #, fuzzy, no-wrap
 #| msgid ""
 #| "    <figure markdown=\"span\">\n"
-#| "        ![Ballista Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+#| "        ![Resurrection Ⅰ](../assets/hero_specialties-dungeon-alamar-1.webp){ width=\"340\" align=right }\n"
 #| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Valuables Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Valuables Ⅰ](../assets/hero_specialties-dungeon-sephinroth-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Balista Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Resurrección Ⅰ](../assets/hero_specialties-dungeon-alamar-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -888,15 +891,15 @@ msgstr "=== \"Valuebles ⅳ\""
 #, fuzzy, no-wrap
 #| msgid ""
 #| "    <figure markdown=\"span\">\n"
-#| "        ![Ballista Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+#| "        ![Cerberi Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
 #| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Valuebles Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Valuebles Ⅳ](../assets/hero_specialties-dungeon-sephinroth-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Balista Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cerberos Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -911,15 +914,15 @@ msgstr "=== \"Valuebles ⅵ\""
 #, fuzzy, no-wrap
 #| msgid ""
 #| "    <figure markdown=\"span\">\n"
-#| "        ![Ballista Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+#| "        ![Resurrection Ⅵ](../assets/hero_specialties-dungeon-alamar-7.webp){ width=\"340\" align=right }\n"
 #| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Valuables Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Valuables Ⅵ](../assets/hero_specialties-dungeon-sephinroth-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Balista Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Resurrección Ⅵ](../assets/hero_specialties-dungeon-alamar-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

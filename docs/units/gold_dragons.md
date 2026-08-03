@@ -21,13 +21,13 @@
 === "Dragon Utopia"
 
     <figure markdown="span">
-        ![Dragon Utopia Black Dragons](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Dragon Utopia Black Dragons](../assets/creature_banks-dragon_utopia-gold_dragons.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral | Dragon Utopia |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :gold_tier: | :gold_tier: | :gold_tier: | - |
 | Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | :azure_tier: | [:flying_unit:](index.md#flying-units) |
 | :attack: | 5 | **6** | 6 | 5 |

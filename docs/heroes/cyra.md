@@ -1,6 +1,6 @@
 # Cyra
 
-<p style="text-align: center;" markdown>![Cyra](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Cyra](../assets/heroes-tower-magic-cyra.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Wizard](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Haste Ⅰ"
 
     <figure markdown="span">
-        ![Haste Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Haste Ⅰ](../assets/hero_specialties-tower-cyra-1.webp){ width="340" align=right }
     </figure>
 
 === "Haste Ⅳ"
 
     <figure markdown="span">
-        ![Haste Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Haste Ⅳ](../assets/hero_specialties-tower-cyra-4.webp){ width="340" align=right }
     </figure>
 
 === "Haste Ⅵ"
 
     <figure markdown="span">
-        ![Haste Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Haste Ⅵ](../assets/hero_specialties-tower-cyra-7.webp){ width="340" align=right }
     </figure>
 
 

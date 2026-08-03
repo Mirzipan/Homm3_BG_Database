@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-21 16:09+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -756,9 +756,10 @@ msgstr "Shiva"
 
 #. type: Plain text
 #: docs/heroes/shiva.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Shiva](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Fiona](../assets/heroes-inferno-might-fiona.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Shiva](../assets/heroes-stronghold-might-shiva.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Fiona](../assets/heroes-inferno-might-fiona.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/shiva.md
@@ -767,12 +768,19 @@ msgstr "=== \"Thunderbirds ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/shiva.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Cerberi Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Thunderbirds Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Thunderbirds Ⅰ](../assets/hero_specialties-stronghold-shiva-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cerberos Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/shiva.md
@@ -781,12 +789,19 @@ msgstr "=== \"Thunderbirds ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/shiva.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Cerberi Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Thunderbirds Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Thunderbirds Ⅳ](../assets/hero_specialties-stronghold-shiva-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cerberos Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/shiva.md
@@ -795,12 +810,19 @@ msgstr "=== \"Thunderbirds ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/shiva.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Cerberi Ⅵ](../assets/hero_specialties-inferno-fiona-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Thunderbirds Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Thunderbirds Ⅵ](../assets/hero_specialties-stronghold-shiva-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cerberos Ⅵ](../assets/hero_specialties-inferno-fiona-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/shiva.md

@@ -1,6 +1,6 @@
 # Erdamon
 
-<p style="text-align: center;" markdown>![Erdamon](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Erdamon](../assets/heroes-conflux-might-erdamon.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Planeswalker](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Magma Elementals Ⅰ"
 
     <figure markdown="span">
-        ![Magma Elementals Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Magma Elementals Ⅰ](../assets/hero_specialties-conflux-erdamon-1.webp){ width="340" align=right }
     </figure>
 
 === "Magma Elementals Ⅳ"
 
     <figure markdown="span">
-        ![Magma Elementals Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Magma Elementals Ⅳ](../assets/hero_specialties-conflux-erdamon-4.webp){ width="340" align=right }
     </figure>
 
 === "Magma Elementals Ⅵ"
 
     <figure markdown="span">
-        ![Magma Elementals Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Magma Elementals Ⅵ](../assets/hero_specialties-conflux-erdamon-7.webp){ width="340" align=right }
     </figure>
 
 

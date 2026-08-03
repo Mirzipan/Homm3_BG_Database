@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-12-17 17:56+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -805,30 +805,33 @@ msgstr ""
 
 #. type: Plain text
 #: docs/units/cyclopes.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Cyclopes](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Few Cyclopes](../assets/units-stronghold-golden-cyclopes-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/units/cyclopes.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Cyclopes](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Cyclopes](../assets/units-stronghold-golden-cyclopes-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/units/cyclopes.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Cyclopes](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Cyclopes](../assets/units-neutral-golden-cyclopes.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/units/cyclopes.md
@@ -841,7 +844,7 @@ msgstr ""
 #| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Cyclops Stockpile Cyclopes](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Cyclops Stockpile Cyclopes](../assets/creature_banks-cyclops_stockpile-cyclopes.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
@@ -851,7 +854,7 @@ msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "| Statistics | Few | Pack | Neutral | Cyclops Stockpile |\n"
 "| :--- | :---: | :---: | :---: | :---: |\n"
-"| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) | - |\n"
+"| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |\n"
 "| Tier | :gold_tier: | :gold_tier: | :gold_tier: | - |\n"
 "| Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |\n"
 "| :attack: | 5 | 5 | 5 | 5 |\n"

@@ -3,13 +3,13 @@
 === "Regular"
 
     <figure markdown="span">
-        ![Basic Fire Magic](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Basic Fire Magic](../assets/abilities-basic_fire_magic.webp){ width="340" align=right }
     </figure>
 
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Basic Fire Magic](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Basic Fire Magic](../assets/abilities-basic_fire_magic-empowered.webp){ width="340" align=right }
     </figure>
 
 

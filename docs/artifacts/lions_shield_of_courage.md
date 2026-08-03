@@ -1,6 +1,6 @@
 # Lion's Shield of Courage
 
-![Lion's Shield of Courage](../assets/player-deck-back.webp){ width="340" align=right }
+![Lion's Shield of Courage](../assets/artifacts_relic-lions_shield_of_courage.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Relic Artifact](index.md#relic-artifacts)</p>
 ___

@@ -1,6 +1,6 @@
 # Catapult
 
-![Catapult](../assets/player-deck-back.webp){ width="340" align=right }
+![Catapult](../assets/war_machines-catapult.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[War Machine](index.md)</p>

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -772,9 +772,10 @@ msgstr "Septienna"
 
 #. type: Plain text
 #: docs/heroes/septienna.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Septienna](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Fiona](../assets/heroes-inferno-might-fiona.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Septienna](../assets/heroes-necropolis-magic-septienna.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Fiona](../assets/heroes-inferno-might-fiona.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/septienna.md
@@ -783,12 +784,19 @@ msgstr "=== \"Death Ripple ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/septienna.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Estates Ⅰ](../assets/hero_specialties-castle-lord_haart-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Death Ripple Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Death Ripple Ⅰ](../assets/hero_specialties-necropolis-septienna-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Patrimonio Ⅰ](../assets/hero_specialties-castle-lord_haart-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/septienna.md
@@ -797,12 +805,19 @@ msgstr "=== \"Death Ripple ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/septienna.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Estates Ⅳ](../assets/hero_specialties-castle-lord_haart-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Death Ripple Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Death Ripple Ⅳ](../assets/hero_specialties-necropolis-septienna-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Patrimonio Ⅳ](../assets/hero_specialties-castle-lord_haart-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/septienna.md
@@ -811,12 +826,19 @@ msgstr "=== \"Death Ripple ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/septienna.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Estates Ⅵ](../assets/hero_specialties-castle-lord_haart-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Death Ripple Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Death Ripple Ⅵ](../assets/hero_specialties-necropolis-septienna-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Patrimonio Ⅵ](../assets/hero_specialties-castle-lord_haart-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/septienna.md

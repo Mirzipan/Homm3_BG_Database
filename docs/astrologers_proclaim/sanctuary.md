@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Sanctuary](../assets/astrologers_proclaim-back.webp){ width="475" align=right }
+![Sanctuary](../assets/astrologers_proclaim-sanctuary.webp){ width="475" align=right }
 
 </figure>
 

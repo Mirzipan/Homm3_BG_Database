@@ -1,6 +1,6 @@
 # Tome of Earth
 
-![Tome of Earth](../assets/player-deck-back.webp){ width="340" align=right }
+![Tome of Earth](../assets/artifacts_relic-tome_of_earth.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Relic Artifact](index.md#relic-artifacts)</p>
 ___

@@ -1,6 +1,6 @@
 # Valeska
 
-<p style="text-align: center;" markdown>![Valeska](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Valeska](../assets/heroes-castle-might-valeska.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Knight](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Marksmen Ⅰ"
 
     <figure markdown="span">
-        ![Marksmen Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Marksmen Ⅰ](../assets/hero_specialties-castle-valeska-1.webp){ width="340" align=right }
     </figure>
 
 === "Marksmen Ⅳ"
 
     <figure markdown="span">
-        ![Marksmen Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Marksmen Ⅳ](../assets/hero_specialties-castle-valeska-4.webp){ width="340" align=right }
     </figure>
 
 === "Marksmen Ⅵ"
 
     <figure markdown="span">
-        ![Marksmen Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Marksmen Ⅵ](../assets/hero_specialties-castle-valeska-7.webp){ width="340" align=right }
     </figure>
 
 

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -741,9 +741,10 @@ msgstr "Luna"
 
 #. type: Plain text
 #: docs/heroes/luna.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Luna](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Dracon](../assets/heroes-tower-magic-dracon.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Luna](../assets/heroes-conflux-magic-luna.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Dracon](../assets/heroes-tower-magic-dracon.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/luna.md
@@ -759,12 +760,19 @@ msgstr "=== \"Muro de fuego ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/luna.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Cerberi Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fire Wall Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fire Wall Ⅰ](../assets/hero_specialties-conflux-luna-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cerberos Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/luna.md
@@ -773,12 +781,19 @@ msgstr "=== \"Muro de fuego ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/luna.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Cerberi Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fire Wall Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fire Wall Ⅳ](../assets/hero_specialties-conflux-luna-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cerberos Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/luna.md
@@ -787,12 +802,19 @@ msgstr "=== \"Muro de fuego ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/luna.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Cerberi Ⅵ](../assets/hero_specialties-inferno-fiona-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fire Wall Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fire Wall Ⅵ](../assets/hero_specialties-conflux-luna-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Cerberos Ⅵ](../assets/hero_specialties-inferno-fiona-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/luna.md

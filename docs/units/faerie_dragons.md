@@ -9,13 +9,13 @@
 === "Dragon Utopia"
 
     <figure markdown="span">
-        ![Dragon Utopia Faerie Dragons](../assets/units-blank-azure.webp){ width="340" align=right }
+        ![Dragon Utopia Faerie Dragons](../assets/creature_banks-dragon_utopia-faerie_dragons.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Neutral | Dragon Utopia |
 | :--- | :---: | :---: |
-| Town | [Neutral](../towns/neutral.md) | - |
+| Town | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :azure_tier: | - |
 | Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 5 | 4 |

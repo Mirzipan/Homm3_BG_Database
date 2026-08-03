@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-12-25 19:17+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -907,7 +907,7 @@ msgstr ""
 #. type: Plain text
 #: docs/astrologers_proclaim/restart.md
 #, fuzzy
-msgid "![Restart](../assets/astrologers_proclaim-back.webp){ width=\"475\" align=right }"
+msgid "![Restart](../assets/astrologers_proclaim-restart.webp){ width=\"475\" align=right }"
 msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text

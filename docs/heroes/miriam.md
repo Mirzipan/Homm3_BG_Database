@@ -1,6 +1,6 @@
 # Miriam
 
-<p style="text-align: center;" markdown>![Miriam](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Miriam](../assets/heroes-cove-might-miriam.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Captain](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Scouting Ⅰ"
 
     <figure markdown="span">
-        ![Scouting Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Scouting Ⅰ](../assets/hero_specialties-cove-miriam-1.webp){ width="340" align=right }
     </figure>
 
 === "Scouting Ⅳ"
 
     <figure markdown="span">
-        ![Scouting Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Scouting Ⅳ](../assets/hero_specialties-cove-miriam-4.webp){ width="340" align=right }
     </figure>
 
 === "Scouting Ⅵ"
 
     <figure markdown="span">
-        ![Scouting Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Scouting Ⅵ](../assets/hero_specialties-cove-miriam-7.webp){ width="340" align=right }
     </figure>
 
 

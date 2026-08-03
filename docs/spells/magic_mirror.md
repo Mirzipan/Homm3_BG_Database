@@ -1,6 +1,6 @@
 # Magic Mirror
 
-![Magic Mirror](../assets/player-deck-back.webp){ width="340" align=right }
+![Magic Mirror](../assets/spells-magic_mirror.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Expert Air Spell](index.md#school-of-air-magic)</p>

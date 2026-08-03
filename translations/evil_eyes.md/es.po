@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-24 12:42+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -877,14 +877,18 @@ msgstr ""
 
 #. type: Plain text
 #: docs/units/evil_eyes.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Neutral Elves](../assets/units-neutral-bronze-elves.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Evil Eyes](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Evil Eyes](../assets/units-neutral-bronze-evil_eyes.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Ojos Maléficos Neutrales](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Elfos Neutrales](../assets/units-neutral-bronze-elves.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

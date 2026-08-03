@@ -1,6 +1,6 @@
 # Trident of Dominion
 
-![Trident of Dominion](../assets/player-deck-back.webp){ width="340" align=right }
+![Trident of Dominion](../assets/artifacts_major-trident_of_dominion.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___

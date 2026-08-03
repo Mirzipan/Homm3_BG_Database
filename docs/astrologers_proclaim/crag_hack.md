@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Crag Hack](../assets/astrologers_proclaim-back.webp){ width="475" align=right }
+![Crag Hack](../assets/astrologers_proclaim-crag_hack.webp){ width="475" align=right }
 
 </figure>
 

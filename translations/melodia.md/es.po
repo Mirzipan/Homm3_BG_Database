@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-21 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -778,9 +778,10 @@ msgstr "Lo siento"
 
 #. type: Plain text
 #: docs/heroes/melodia.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Melodia](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Gem](../assets/heroes-rampart-magic-gem.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Melodia](../assets/heroes-rampart-magic-melodia.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Gem](../assets/heroes-rampart-magic-gem.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/melodia.md
@@ -789,12 +790,19 @@ msgstr "=== \"Fortuna ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/melodia.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Armorer Ⅰ](../assets/hero_specialties-rampart-mephala-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fortune Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fortune Ⅰ](../assets/hero_specialties-rampart-melodia-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Armero Ⅰ](../assets/hero_specialties-rampart-mephala-1.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/melodia.md
@@ -803,12 +811,19 @@ msgstr "=== \"Fortuna ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/melodia.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Armorer Ⅳ](../assets/hero_specialties-rampart-mephala-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fortune Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fortune Ⅳ](../assets/hero_specialties-rampart-melodia-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Armero Ⅳ](../assets/hero_specialties-rampart-mephala-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/melodia.md
@@ -817,12 +832,19 @@ msgstr "=== \"Fortuna ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/melodia.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Armorer Ⅵ](../assets/hero_specialties-rampart-mephala-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fortune Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fortune Ⅵ](../assets/hero_specialties-rampart-melodia-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Armero Ⅵ](../assets/hero_specialties-rampart-mephala-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/melodia.md

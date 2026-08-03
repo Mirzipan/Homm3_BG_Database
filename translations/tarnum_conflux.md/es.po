@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-21 17:38+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -795,32 +795,25 @@ msgstr "El aart (conflute)"
 
 #. type: Plain text
 #: docs/heroes/tarnum_conflux.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Tarnum (Conflux)](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Dracon](../assets/heroes-tower-magic-dracon.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Tarnum (Conflux)](../assets/heroes-conflux-magic-tarnum.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Dracon](../assets/heroes-tower-magic-dracon.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/tarnum_conflux.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Cerberi Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![🚧 Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![🚧 Ⅰ](../assets/hero_specialties-conflux-tarnum-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![🚧 Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-
-#. type: Plain text
-#: docs/heroes/tarnum_conflux.md
-#, no-wrap
-msgid ""
-"    <figure markdown=\"span\">\n"
-"        ![🚧 Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
-"    </figure>\n"
-msgstr ""
-"    <figure markdown=\"span\">\n"
-"        ![🚧 Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cerberos Ⅰ](../assets/hero_specialties-inferno-fiona-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -828,15 +821,31 @@ msgstr ""
 #, fuzzy, no-wrap
 #| msgid ""
 #| "    <figure markdown=\"span\">\n"
-#| "        ![Haste Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+#| "        ![Cerberi Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
 #| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Enchanters Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![🚧 Ⅳ](../assets/hero_specialties-conflux-tarnum-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Celeridad Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Cerberos Ⅳ](../assets/hero_specialties-inferno-fiona-4.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+
+#. type: Plain text
+#: docs/heroes/tarnum_conflux.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Enchanters Ⅵ](../assets/hero_specialties-tower-dracon-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
+msgid ""
+"    <figure markdown=\"span\">\n"
+"        ![Enchanters Ⅵ](../assets/hero_specialties-conflux-tarnum-7.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
+msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Conjuradores Ⅵ](../assets/hero_specialties-tower-dracon-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -800,7 +800,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Storm Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Few Storm Elementals](../assets/units-conflux-bronze-storm_elementals-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -809,7 +809,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Storm Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Storm Elementals](../assets/units-conflux-bronze-storm_elementals-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -818,7 +818,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Storm Elementals](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Storm Elementals](../assets/units-neutral-bronze-storm_elementals.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-03-05 21:24+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -772,9 +772,10 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/septienna.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Septienna](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>[Visitable Field](../keywords/visitable_field.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Septienna](../assets/heroes-necropolis-magic-septienna.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Sites explorables](../keywords/visitable_field.md)</p>\n"
 
 #. type: Plain text
 #: docs/heroes/septienna.md
@@ -783,12 +784,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/septienna.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Death Ripple Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Death Ripple Ⅰ](../assets/hero_specialties-necropolis-septienna-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/septienna.md
@@ -797,12 +799,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/septienna.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Death Ripple Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Death Ripple Ⅳ](../assets/hero_specialties-necropolis-septienna-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/septienna.md
@@ -811,12 +814,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/septienna.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Death Ripple Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Death Ripple Ⅵ](../assets/hero_specialties-necropolis-septienna-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/septienna.md

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -792,36 +792,51 @@ msgstr "Marineros"
 
 #. type: Plain text
 #: docs/units/seamen.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Few Marksmen](../assets/units-castle-bronze-marksmen-few.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Seamen](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Few Seamen](../assets/units-cove-bronze-seamen-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Pocos Seamen](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pocos Ballesteros](../assets/units-castle-bronze-marksmen-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/units/seamen.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Pack of Marksmen](../assets/units-castle-bronze-marksmen-pack.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Seamen](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Seamen](../assets/units-cove-bronze-seamen-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Seamen](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Ballesteros](../assets/units-castle-bronze-marksmen-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/units/seamen.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Neutral Gremlins](../assets/units-neutral-bronze-gremlins.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Seamen](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Seamen](../assets/units-neutral-bronze-seamen.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Gremlins Neutrales](../assets/units-neutral-bronze-gremlins.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/seamen.md

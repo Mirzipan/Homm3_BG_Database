@@ -1,6 +1,6 @@
 # Protection from Air
 
-![Protection from Air](../assets/player-deck-back.webp){ width="340" align=right }
+![Protection from Air](../assets/spells-protection_from_air.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Basic Air Spell](index.md#school-of-air-magic)</p>

@@ -1,6 +1,6 @@
 # Lorelei
 
-<p style="text-align: center;" markdown>![Lorelei](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Lorelei](../assets/heroes-dungeon-might-lorelei.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Overlord](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Harpies Ⅰ"
 
     <figure markdown="span">
-        ![Harpies Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Harpies Ⅰ](../assets/hero_specialties-dungeon-lorelei-1.webp){ width="340" align=right }
     </figure>
 
 === "Harpies Ⅳ"
 
     <figure markdown="span">
-        ![Harpies Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Harpies Ⅳ](../assets/hero_specialties-dungeon-lorelei-4.webp){ width="340" align=right }
     </figure>
 
 === "Harpies Ⅵ"
 
     <figure markdown="span">
-        ![Harpies Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Harpies Ⅵ](../assets/hero_specialties-dungeon-lorelei-7.webp){ width="340" align=right }
     </figure>
 
 

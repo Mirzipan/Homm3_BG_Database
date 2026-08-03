@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-01-04 12:33+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -659,8 +659,9 @@ msgstr ""
 
 #. type: Plain text
 #: docs/war_machines/cannon.md
-msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
-msgstr ""
+#, fuzzy
+msgid "![Cannon](../assets/war_machines-cannon.webp){ width=\"340\" align=right }"
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/war_machines/cannon.md

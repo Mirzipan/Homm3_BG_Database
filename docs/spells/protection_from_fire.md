@@ -1,6 +1,6 @@
 # Protection from Fire
 
-![Protection from Fire](../assets/player-deck-back.webp){ width="340" align=right }
+![Protection from Fire](../assets/spells-protection_from_fire.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Basic Fire Spell](index.md#school-of-fire-magic)</p>

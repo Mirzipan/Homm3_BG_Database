@@ -1,6 +1,6 @@
 # Tarnum (Dungeon)
 
-<p style="text-align: center;" markdown>![Tarnum (Dungeon)](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Tarnum (Dungeon)](../assets/heroes-dungeon-might-tarnum.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Overload](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Dragons Ⅰ"
 
     <figure markdown="span">
-        ![Dragons Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Dragons Ⅰ](../assets/hero_specialties-dungeon-tarnum-1.webp){ width="340" align=right }
     </figure>
 
 === "Dragons Ⅳ"
 
     <figure markdown="span">
-        ![Dragons Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Dragons Ⅳ](../assets/hero_specialties-dungeon-tarnum-4.webp){ width="340" align=right }
     </figure>
 
 === "Dragons Ⅵ"
 
     <figure markdown="span">
-        ![Dragons Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Dragons Ⅵ](../assets/hero_specialties-dungeon-tarnum-7.webp){ width="340" align=right }
     </figure>
 
 

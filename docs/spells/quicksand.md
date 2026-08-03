@@ -1,6 +1,6 @@
 # Quicksand
 
-![Quicksand](../assets/player-deck-back.webp){ width="340" align=right }
+![Quicksand](../assets/spells-quicksand.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Basic Earth Spell](index.md#school-of-earth-magic)</p>

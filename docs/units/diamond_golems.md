@@ -9,13 +9,13 @@
 === "Pyramid"
 
     <figure markdown="span">
-        ![Pyramid Diamond Golems](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Pyramid Diamond Golems](../assets/creature_banks-pyramid-diamond_golems.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Neutral | Pyramid |
 | :--- | :---: | :---: |
-| Town | [Neutral](../towns/neutral.md) | - |
+| Town | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :gold_tier: | - |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 4 | 3 |

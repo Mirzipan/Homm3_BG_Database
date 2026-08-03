@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -742,7 +742,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/gundula.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Gundula](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Gundula](../assets/heroes-stronghold-magic-gundula.webp){ width=540 align=right }</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -755,7 +755,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Slow Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Slow Ⅰ](../assets/hero_specialties-stronghold-gundula-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -769,7 +769,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Slow Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Slow Ⅳ](../assets/hero_specialties-stronghold-gundula-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -783,7 +783,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Slow Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Slow Ⅵ](../assets/hero_specialties-stronghold-gundula-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 

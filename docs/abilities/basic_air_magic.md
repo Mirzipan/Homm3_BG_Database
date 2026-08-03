@@ -3,13 +3,13 @@
 === "Regular"
 
     <figure markdown="span">
-        ![Basic Air Magic](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Basic Air Magic](../assets/abilities-basic_air_magic.webp){ width="340" align=right }
     </figure>
 
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Basic Air Magic](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Basic Air Magic](../assets/abilities-basic_air_magic-empowered.webp){ width="340" align=right }
     </figure>
 
 

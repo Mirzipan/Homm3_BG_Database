@@ -1,6 +1,6 @@
 # Astra
 
-<p style="text-align: center;" markdown>![Astra](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Astra](../assets/heroes-cove-magic-astra.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Navigator](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Cure Ⅰ"
 
     <figure markdown="span">
-        ![Cure Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Cure Ⅰ](../assets/hero_specialties-cove-astra-1.webp){ width="340" align=right }
     </figure>
 
 === "Cure Ⅳ"
 
     <figure markdown="span">
-        ![Cure Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Cure Ⅳ](../assets/hero_specialties-cove-astra-4.webp){ width="340" align=right }
     </figure>
 
 === "Cure Ⅵ"
 
     <figure markdown="span">
-        ![Cure Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Cure Ⅵ](../assets/hero_specialties-cove-astra-7.webp){ width="340" align=right }
     </figure>
 
 

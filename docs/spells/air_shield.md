@@ -1,6 +1,6 @@
 # Air Shield
 
-![Air Shield](../assets/player-deck-back.webp){ width="340" align=right }
+![Air Shield](../assets/spells-air_shield.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Basic Air Spell](index.md#school-of-air-magic)</p>

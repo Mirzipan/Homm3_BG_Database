@@ -1,6 +1,6 @@
 # Tome of Fire
 
-![Tome of Fire](../assets/player-deck-back.webp){ width="340" align=right }
+![Tome of Fire](../assets/artifacts_relic-tome_of_fire.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Relic Artifact](index.md#relic-artifacts)</p>
 ___

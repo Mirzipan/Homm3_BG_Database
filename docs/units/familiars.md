@@ -21,13 +21,13 @@
 === "Imp Cache"
 
     <figure markdown="span">
-        ![Imp Cache Familiars](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Imp Cache Familiars](../assets/creature_banks-imp_cache-familiars.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral | Imp Cache |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: | - |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 2 | **3** | 3 | 1 |

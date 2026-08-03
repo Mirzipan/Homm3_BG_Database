@@ -1,6 +1,6 @@
 # Force Field
 
-![Force Field](../assets/player-deck-back.webp){ width="340" align=right }
+![Force Field](../assets/spells-force_field.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Basic Earth Spell](index.md#school-of-earth-magic)</p>

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -795,7 +795,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Ayssids](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Few Ayssids](../assets/units-cove-silver-ayssids-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -804,7 +804,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Ayssids](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Ayssids](../assets/units-cove-silver-ayssids-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -813,7 +813,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Ayssids](../assets/units-blank-silver.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Ayssids](../assets/units-neutral-silver-ayssids.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 

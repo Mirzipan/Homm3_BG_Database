@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:17+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -729,7 +729,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/erdamon.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Erdamon](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Erdamon](../assets/heroes-conflux-might-erdamon.webp){ width=540 align=right }</p>\n"
 msgstr ""
 
 #. type: Plain text
@@ -758,12 +758,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/erdamon.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magma Elementals Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magma Elementals Ⅰ](../assets/hero_specialties-conflux-erdamon-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/erdamon.md
@@ -772,12 +773,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/erdamon.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magma Elementals Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magma Elementals Ⅳ](../assets/hero_specialties-conflux-erdamon-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/erdamon.md
@@ -786,12 +788,13 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/erdamon.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid "![Cannon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magma Elementals Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magma Elementals Ⅵ](../assets/hero_specialties-conflux-erdamon-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/heroes/erdamon.md

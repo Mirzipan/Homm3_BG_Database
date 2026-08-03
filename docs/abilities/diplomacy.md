@@ -9,7 +9,7 @@
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Diplomacy](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Diplomacy](../assets/abilities-diplomacy-empowered.webp){ width="340" align=right }
     </figure>
 
 

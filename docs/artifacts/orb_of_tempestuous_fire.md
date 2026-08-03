@@ -1,6 +1,6 @@
 # Orb of Tempestuous Fire
 
-![Orb of Tempestuous Fire](../assets/player-deck-back.webp){ width="340" align=right }
+![Orb of Tempestuous Fire](../assets/artifacts_major-orb_of_tempestuous_fire.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Major Artifact](index.md#major-artifacts)</p>
 ___

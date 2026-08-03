@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-24 12:26+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -729,9 +729,10 @@ msgstr "Erdamon"
 
 #. type: Plain text
 #: docs/heroes/erdamon.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Erdamon](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>![Erdamon](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Bron](../assets/heroes-fortress-might-bron.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Erdamon](../assets/heroes-conflux-might-erdamon.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Bron](../assets/heroes-fortress-might-bron.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/erdamon.md docs/heroes/monere.md docs/heroes/pasis.md
@@ -759,14 +760,18 @@ msgstr "=== \"Elementales de Magma Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/erdamon.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Enchanters Ⅰ](../assets/hero_specialties-tower-dracon-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magma Elementals Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magma Elementals Ⅰ](../assets/hero_specialties-conflux-erdamon-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Elementales de Magma Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Conjuradores Ⅰ](../assets/hero_specialties-tower-dracon-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -776,14 +781,18 @@ msgstr "=== \"Elementales de Magma Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/erdamon.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Enchanters Ⅳ](../assets/hero_specialties-tower-dracon-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magma Elementals Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magma Elementals Ⅳ](../assets/hero_specialties-conflux-erdamon-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Elementales de Magma Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Conjuradores Ⅳ](../assets/hero_specialties-tower-dracon-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -793,14 +802,18 @@ msgstr "=== \"Elementales de Magma Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/erdamon.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Enchanters Ⅵ](../assets/hero_specialties-tower-dracon-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Magma Elementals Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Magma Elementals Ⅵ](../assets/hero_specialties-conflux-erdamon-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Elementales de Magma Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Conjuradores Ⅵ](../assets/hero_specialties-tower-dracon-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

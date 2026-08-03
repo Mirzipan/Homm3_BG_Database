@@ -1,6 +1,6 @@
 # Bowstring of the Unicorn's Mane
 
-![Bowstring of the Unicorn's Mane](../assets/player-deck-back.webp){ width="340" align=right }
+![Bowstring of the Unicorn's Mane](../assets/artifacts_minor-bowstring_of_the_unicorns_mane.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___

@@ -21,19 +21,19 @@
 === "Crypt"
 
     <figure markdown="span">
-        ![Crypt Wraiths](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Crypt Wraiths](../assets/creature_banks-crypt-wraiths.webp){ width="340" align=right }
     </figure>
 
 === "Shipwreck"
 
     <figure markdown="span">
-        ![Shipwreck Wraiths](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Shipwreck Wraiths](../assets/creature_banks-shipwreck-wraiths.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral | Crypt | Shipwreck |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | - | - |
+| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: | - | - |
 | Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 3 | 3 | 2 | 2 | 2 |

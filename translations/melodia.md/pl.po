@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -778,9 +778,9 @@ msgstr "Melodia"
 
 #. type: Plain text
 #: docs/heroes/melodia.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Melodia](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr ""
+#, fuzzy, no-wrap
+msgid "<p style=\"text-align: center;\" markdown>![Melodia](../assets/heroes-rampart-magic-melodia.webp){ width=540 align=right }</p>\n"
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/melodia.md
@@ -789,12 +789,12 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/melodia.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fortune Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fortune Ⅰ](../assets/hero_specialties-rampart-melodia-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/melodia.md
@@ -803,12 +803,12 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/melodia.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fortune Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fortune Ⅳ](../assets/hero_specialties-rampart-melodia-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/melodia.md
@@ -817,12 +817,12 @@ msgstr ""
 
 #. type: Plain text
 #: docs/heroes/melodia.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Fortune Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Fortune Ⅵ](../assets/hero_specialties-rampart-melodia-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
-msgstr ""
+msgstr "[Lista Jednostek](units/index.md)"
 
 #. type: Plain text
 #: docs/heroes/melodia.md

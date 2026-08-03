@@ -1,6 +1,6 @@
 # Water Walk
 
-![Water Walk](../assets/player-deck-back.webp){ width="340" align=right }
+![Water Walk](../assets/spells-water_walk.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Expert Water Spell](index.md#school-of-water-magic)</p>

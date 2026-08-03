@@ -1,6 +1,6 @@
 # Quiet Eye of the Dragon
 
-![Quiet Eye of the Dragon](../assets/player-deck-back.webp){ width="340" align=right }
+![Quiet Eye of the Dragon](../assets/artifacts_minor-quiet_eye_of_the_dragon.webp){ width="340" align=right }
 ___
 <p style="text-align: center;" markdown>[Minor Artifact](index.md#minor-artifacts)</p>
 ___

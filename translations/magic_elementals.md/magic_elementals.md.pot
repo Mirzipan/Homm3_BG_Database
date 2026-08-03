@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -800,7 +800,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Magic Elementals](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Few Magic Elementals](../assets/units-conflux-golden-magic_elementals-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -809,7 +809,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Magic Elementals](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Magic Elementals](../assets/units-conflux-golden-magic_elementals-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 
@@ -818,7 +818,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Magic Elementals](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Magic Elementals](../assets/units-neutral-golden-magic_elementals.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 

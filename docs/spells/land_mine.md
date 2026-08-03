@@ -1,6 +1,6 @@
 # Land Mine
 
-![Land Mine](../assets/player-deck-back.webp){ width="340" align=right }
+![Land Mine](../assets/spells-land_mine.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Expert Fire Spell](index.md#school-of-fire-magic)</p>

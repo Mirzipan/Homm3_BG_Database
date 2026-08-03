@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -790,10 +790,14 @@ msgstr "Jinetes Lupinos"
 
 #. type: Plain text
 #: docs/units/wolf_raiders.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Few Wolf Raiders](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Few Wolf Raiders](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Few Wolf Raiders](../assets/units-stronghold-bronze-wolf_raiders-few.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
@@ -802,24 +806,35 @@ msgstr ""
 
 #. type: Plain text
 #: docs/units/wolf_raiders.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Pack of Wraiths](../assets/units-necropolis-bronze-wraiths-pack.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Pack of Wolf Raiders](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Pack of Wolf Raiders](../assets/units-stronghold-bronze-wolf_raiders-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Manada de Jinetes Lupinos](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Manada de Wraiths](../assets/units-necropolis-bronze-wraiths-pack.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
 #: docs/units/wolf_raiders.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Neutral Harpies](../assets/units-neutral-bronze-harpies.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Neutral Wolf Raiders](../assets/units-blank-bronze.webp){ width=\"340\" align=right }\n"
+"        ![Neutral Wolf Raiders](../assets/units-neutral-bronze-wolf_raiders.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Arpías Neutrales](../assets/units-neutral-bronze-harpies.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/units/wolf_raiders.md

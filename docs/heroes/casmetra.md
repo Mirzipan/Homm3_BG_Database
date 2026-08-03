@@ -1,6 +1,6 @@
 # Casmetra
 
-<p style="text-align: center;" markdown>![Casmetra](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Casmetra](../assets/heroes-cove-magic-casmetra.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Navigator](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Sorceresses Ⅰ"
 
     <figure markdown="span">
-        ![Sorceresses Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Sorceresses Ⅰ](../assets/hero_specialties-cove-casmetra-1.webp){ width="340" align=right }
     </figure>
 
 === "Sorceresses Ⅳ"
 
     <figure markdown="span">
-        ![Sorceresses Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Sorceresses Ⅳ](../assets/hero_specialties-cove-casmetra-4.webp){ width="340" align=right }
     </figure>
 
 === "Sorceresses Ⅵ"
 
     <figure markdown="span">
-        ![Sorceresses Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Sorceresses Ⅵ](../assets/hero_specialties-cove-casmetra-7.webp){ width="340" align=right }
     </figure>
 
 

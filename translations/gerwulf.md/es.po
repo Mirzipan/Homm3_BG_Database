@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2025-12-31 12:48+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-25 12:38+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -767,9 +767,10 @@ msgstr "Gerwulf"
 
 #. type: Plain text
 #: docs/heroes/gerwulf.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Gerwulf](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>![Gerwulf](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Bron](../assets/heroes-fortress-might-bron.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Gerwulf](../assets/heroes-fortress-might-gerwulf.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Bron](../assets/heroes-fortress-might-bron.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/gerwulf.md docs/heroes/tarnum_fortress.md docs/heroes/tazar.md
@@ -790,15 +791,19 @@ msgstr ""
 "=== \"Ballista ⅰ\""
 
 #. type: Plain text
-#: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
-#, no-wrap
+#: docs/heroes/gerwulf.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Basilisks Ⅰ](../assets/hero_specialties-fortress-bron-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Ballista Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Ballista Ⅰ](../assets/hero_specialties-fortress-gerwulf-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Balista Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Basiliscos Ⅰ](../assets/hero_specialties-fortress-bron-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -814,15 +819,19 @@ msgstr ""
 "=== \"Ballista ⅳ\""
 
 #. type: Plain text
-#: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
-#, no-wrap
+#: docs/heroes/gerwulf.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Basilisks Ⅳ](../assets/hero_specialties-fortress-bron-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Ballista Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Ballista Ⅳ](../assets/hero_specialties-fortress-gerwulf-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Balista Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Basiliscos Ⅳ](../assets/hero_specialties-fortress-bron-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -838,15 +847,19 @@ msgstr ""
 "=== \"Ballista ⅵ\""
 
 #. type: Plain text
-#: docs/heroes/gerwulf.md docs/heroes/tarnum_castle.md docs/heroes/torosar.md
-#, no-wrap
+#: docs/heroes/gerwulf.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Basilisks Ⅵ](../assets/hero_specialties-fortress-bron-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Ballista Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Ballista Ⅵ](../assets/hero_specialties-fortress-gerwulf-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Balista Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Basiliscos Ⅵ](../assets/hero_specialties-fortress-bron-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

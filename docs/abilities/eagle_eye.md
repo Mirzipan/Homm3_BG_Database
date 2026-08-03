@@ -9,7 +9,7 @@
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Eagle Eye](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Eagle Eye](../assets/abilities-eagle_eye-empowered.webp){ width="340" align=right }
     </figure>
 
 

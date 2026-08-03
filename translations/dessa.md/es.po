@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-02-21 12:29+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -752,9 +752,10 @@ msgstr "Dessa"
 
 #. type: Plain text
 #: docs/heroes/dessa.md
-#, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>![Dessa](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>![Dessa](../assets/player-deck-back.webp){ width=340 align=right }</p>\n"
+#, fuzzy, no-wrap
+#| msgid "<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>![Dessa](../assets/heroes-stronghold-magic-dessa.webp){ width=540 align=right }</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>![Deemer](../assets/heroes-dungeon-magic-deemer.webp){ width=540 align=right }</p>\n"
 
 #. type: Plain text
 #: docs/heroes/dessa.md docs/heroes/gundula.md
@@ -787,14 +788,18 @@ msgstr "=== \"Logística Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/dessa.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Frost Ring Ⅰ](../assets/hero_specialties-castle-adelaide-1.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Logistics Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Logistics Ⅰ](../assets/hero_specialties-stronghold-dessa-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Logística Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Anillo Helado Ⅰ](../assets/hero_specialties-castle-adelaide-1.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -804,14 +809,18 @@ msgstr "=== \"Logística Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/dessa.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Frost Ring Ⅳ](../assets/hero_specialties-castle-adelaide-4.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Logistics Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Logistics Ⅳ](../assets/hero_specialties-stronghold-dessa-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Logística Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Anillo Helado Ⅳ](../assets/hero_specialties-castle-adelaide-4.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text
@@ -821,14 +830,18 @@ msgstr "=== \"Logística Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/dessa.md
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    <figure markdown=\"span\">\n"
+#| "        ![Frost Ring Ⅵ](../assets/hero_specialties-castle-adelaide-7.webp){ width=\"340\" align=right }\n"
+#| "    </figure>\n"
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Logistics Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Logistics Ⅵ](../assets/hero_specialties-stronghold-dessa-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
 "    <figure markdown=\"span\">\n"
-"        ![Logística Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"        ![Anillo Helado Ⅵ](../assets/hero_specialties-castle-adelaide-7.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 
 #. type: Plain text

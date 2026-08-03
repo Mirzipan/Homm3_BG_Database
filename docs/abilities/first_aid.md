@@ -9,7 +9,7 @@
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered First Aid](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered First Aid](../assets/abilities-first_aid-empowered.webp){ width="340" align=right }
     </figure>
 
 

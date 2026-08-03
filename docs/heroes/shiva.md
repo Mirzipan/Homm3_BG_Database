@@ -1,6 +1,6 @@
 # Shiva
 
-<p style="text-align: center;" markdown>![Shiva](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Shiva](../assets/heroes-stronghold-might-shiva.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Barbarian](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Thunderbirds Ⅰ"
 
     <figure markdown="span">
-        ![Thunderbirds Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Thunderbirds Ⅰ](../assets/hero_specialties-stronghold-shiva-1.webp){ width="340" align=right }
     </figure>
 
 === "Thunderbirds Ⅳ"
 
     <figure markdown="span">
-        ![Thunderbirds Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Thunderbirds Ⅳ](../assets/hero_specialties-stronghold-shiva-4.webp){ width="340" align=right }
     </figure>
 
 === "Thunderbirds Ⅵ"
 
     <figure markdown="span">
-        ![Thunderbirds Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Thunderbirds Ⅵ](../assets/hero_specialties-stronghold-shiva-7.webp){ width="340" align=right }
     </figure>
 
 

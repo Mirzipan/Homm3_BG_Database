@@ -2,7 +2,7 @@
 
 <figure markdown="span">
 
-![Spells](../assets/astrologers_proclaim-back.webp){ width="475" align=right }
+![Spells](../assets/astrologers_proclaim-spells.webp){ width="475" align=right }
 
 </figure>
 

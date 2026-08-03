@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2024-10-18 16:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -981,11 +981,11 @@ msgid "=== \"Dragon Utopia\""
 msgstr ""
 
 #. type: Plain text
-#: docs/units/black_dragons.md docs/units/gold_dragons.md
+#: docs/units/black_dragons.md
 #, fuzzy, no-wrap
 msgid ""
 "    <figure markdown=\"span\">\n"
-"        ![Dragon Utopia Black Dragons](../assets/units-blank-golden.webp){ width=\"340\" align=right }\n"
+"        ![Dragon Utopia Black Dragons](../assets/creature_banks-dragon_utopia-black_dragons.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 
@@ -995,7 +995,7 @@ msgstr "![Canon](../assets/player-deck-back.webp){ width=\"340\" align=right }"
 msgid ""
 "| Statistics | Few | Pack | Neutral | Dragon Utopia |\n"
 "| :--- | :---: | :---: | :---: | :---: |\n"
-"| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) | - |\n"
+"| Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |\n"
 "| Tier | :gold_tier: | :gold_tier: | :gold_tier: | - |\n"
 "| Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |\n"
 "| :attack: | 6 | **8** | 5 | 5 |\n"

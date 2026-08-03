@@ -1,6 +1,6 @@
 # Monere
 
-<p style="text-align: center;" markdown>![Monere](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Monere](../assets/heroes-conflux-magic-monere.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Planeswalker](index.md)</p>
 ___
@@ -17,19 +17,19 @@ ___
 === "Magic Elementals Ⅰ"
 
     <figure markdown="span">
-        ![Magic Elementals Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Magic Elementals Ⅰ](../assets/hero_specialties-conflux-monere-1.webp){ width="340" align=right }
     </figure>
 
 === "Magic Elementals Ⅳ"
 
     <figure markdown="span">
-        ![Magic Elementals Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Magic Elementals Ⅳ](../assets/hero_specialties-conflux-monere-4.webp){ width="340" align=right }
     </figure>
 
 === "Magic Elementals Ⅵ"
 
     <figure markdown="span">
-        ![Magic Elementals Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Magic Elementals Ⅵ](../assets/hero_specialties-conflux-monere-7.webp){ width="340" align=right }
     </figure>
 
 

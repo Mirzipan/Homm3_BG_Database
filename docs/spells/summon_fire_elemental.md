@@ -1,6 +1,6 @@
 # Summon Fire Elemental
 
-![Summon Fire Elemental](../assets/player-deck-back.webp){ width="340" align=right }
+![Summon Fire Elemental](../assets/spells-summon_fire_elemental.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Expert Fire Spell](index.md#school-of-fire-magic)</p>

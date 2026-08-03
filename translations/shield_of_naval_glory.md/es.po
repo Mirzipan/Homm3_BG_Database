@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 05:51+0000\n"
+"POT-Creation-Date: 2026-08-01 13:38+0000\n"
 "PO-Revision-Date: 2025-12-18 02:35+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -691,9 +691,9 @@ msgstr "Escudo de los Señores Enanos"
 #. type: Plain text
 #: docs/artifacts/shield_of_naval_glory.md
 #, fuzzy
-#| msgid "![Air Shield](../assets/player-deck-back.webp){ width=\"340\" align=right }"
-msgid "![Shield of Naval Glory](../assets/player-deck-back.webp){ width=\"340\" align=right }"
-msgstr "![Escudo de Aire](../assets/player-deck-back.webp){ width=\"340\" align=right }"
+#| msgid "![Shield of the Dwarven Lords](../assets/artifacts_minor-shield_of_the_dwarven_lords.webp){ width=\"340\" align=right }"
+msgid "![Shield of Naval Glory](../assets/artifacts_major-shield_of_naval_glory.webp){ width=\"340\" align=right }"
+msgstr "![Escudo de los Señores Enanos](../assets/artifacts_minor-shield_of_the_dwarven_lords.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/artifacts/shield_of_naval_glory.md

@@ -21,13 +21,13 @@
 === "Naga Bank"
 
     <figure markdown="span">
-        ![Naga Bank Nagas](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Naga Bank Nagas](../assets/creature_banks-naga_bank-nagas.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral | Naga Bank |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) | - |
+| Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
 | Tier | :gold_tier: | :gold_tier: | :gold_tier: | - |
 | Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 5 | **6** | 5 | 4 |
